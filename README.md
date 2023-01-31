@@ -19,7 +19,7 @@ Time | Home | Score | Away |
 
 <div align="center">
 
-Time | Home | Score | Away |
+&nbsp;&nbsp;Time&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Score&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Away&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:45</p> | <p align="right">Udinese <img src="/static/logos/Udinese Calcio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hellas Verona FC.png" height="25px"> Verona</p> |
 </div>
