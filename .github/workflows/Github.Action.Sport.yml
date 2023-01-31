@@ -34,7 +34,7 @@ jobs:
     steps:
     - name: Inform
       run: |
-        curl --location --request POST 'https://api.github.com/repos/${{ GITHUB_REPOSITORY }}/actions/workflows/${{ GITHUB_ACTION }}/dispatches' \
+        curl --location --request POST 'https://api.github.com/repos/${{ github.repository }}/actions/workflows/${{ GITHUB_ACTION }}/dispatches' \
         --header 'Accept: application/vnd.github+json' \
         --header 'Authorization: Bearer ${{ secrets.PERSONAL_ACCESS_TOKEN }}' \
         --header 'X-GitHub-Api-Version: 2022-11-28' \
