@@ -2,7 +2,7 @@
 ==========
 
 <h1 align="center">Live Soccer Scores, Fixtures & Results</h1>
-<h5 align="center">Today - Tuesday, January 31, 2023</h5>
+<h5 align="center">Today<br/>Tuesday, January 31, 2023</h5>
 
 
 ## <img src="/static/logos/England-FA Cup.png" height="25px"> England - FA Cup
@@ -235,7 +235,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Barito <img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
-| <p align="center">HT</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"> Persib</p> |
+| <p align="center">48'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"> Persib</p> |
 </div>
 
 
@@ -383,10 +383,10 @@
 
 ## ⚠️ WARNING
 
-Please be advised that this repository is not affiliated with Twitter and the information provided is for informational purposes only. We are not responsible for any legal consequences that may arise from the use of this information. Use at your own risk and solely for educational purposes.
+Please note that this repository provides live soccer scores for informational purposes only. The information is believed to be accurate but is not guaranteed. Use of this information is at your own risk and we are not responsible for any legal issues that may arise from its use. Please consult official sources for confirmation of any data displayed on this repository.
 
 
 ## 📨 CONTACT
 
- For Any Queries:  
-            🏓 Ping Me : [LinkedIn](https://www.linkedin.com/in/ercindedeoglu/)
+For Any Queries:  
+&emsp;&emsp;🏓 Ping Me : [LinkedIn](https://www.linkedin.com/in/ercindedeoglu/)
