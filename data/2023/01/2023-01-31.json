@@ -244,9 +244,9 @@
         {
           "startDate": "2023-01-31T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Round of 16",
@@ -497,9 +497,9 @@
         {
           "startDate": "2023-01-31T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -585,8 +585,8 @@
           "startDate": "2023-01-31T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Semi-finals",
@@ -1647,9 +1647,9 @@
         {
           "startDate": "2023-01-31T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Quarter-finals",
@@ -1675,7 +1675,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -1791,7 +1791,7 @@
           "startDate": "2023-01-31T17:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -1828,7 +1828,7 @@
           "startDate": "2023-01-31T17:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 19,
             "extra": 0
           },
           "round": {
