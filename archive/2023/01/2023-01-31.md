@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[&lt; Jan 30, 2023](</archive/2023/01/2023-01-30.md>)&emsp;&emsp;-&emsp;&emsp;[Feb 01, 2023 &gt;](</archive/2023/02/2023-02-01.md>)
+[&lt; Jan 30, 2023](</archive/2023/01/2023-01-30.md>)&emsp;&emsp;
 
 </div>
 
