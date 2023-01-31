@@ -458,7 +458,7 @@
           "startDate": "2023-01-31T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -1700,9 +1700,9 @@
         {
           "startDate": "2023-01-31T13:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "Girone B",
@@ -1737,9 +1737,9 @@
         {
           "startDate": "2023-01-31T13:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Girone B",
