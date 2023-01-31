@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[&lt; Jan 30, 2023](</archive/2023/1/2023-01-30.md.md>)&emsp;&emsp;-&emsp;&emsp;[Feb 01, 2023 &gt;](</archive/2023/2/2023-02-01.md.md>)
+[&lt; Jan 30, 2023](</archive/2023/1/2023-01-30.md>)&emsp;&emsp;-&emsp;&emsp;[Feb 01, 2023 &gt;](</archive/2023/2/2023-02-01.md>)
 
 </div>
 
@@ -240,7 +240,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Barito <img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
-| <p align="center">81'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"> Persib</p> |
+| <p align="center">82'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"> Persib</p> |
 </div>
 
 
