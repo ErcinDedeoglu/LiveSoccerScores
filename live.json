@@ -88,7 +88,7 @@
           "startDate": "2023-01-31T21:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -135,8 +135,8 @@
           "startDate": "2023-01-31T19:45:00Z",
           "period": {
             "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 98,
-            "extra": 0
+            "minute": 105,
+            "extra": 1
           },
           "round": {
             "name": "4th Round Replays",
@@ -163,7 +163,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -182,8 +182,8 @@
           "startDate": "2023-01-31T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
+            "minute": 90,
+            "extra": 7
           },
           "round": {
             "name": "Semi-finals",
@@ -230,16 +230,12 @@
       "matches": [
         {
           "startDate": "2023-01-31T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "INT",
             "short": "Inter",
@@ -1172,16 +1168,12 @@
       "matches": [
         {
           "startDate": "2023-01-31T19:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "4th Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAN",
             "short": "Banbury Utd",
@@ -1209,16 +1201,12 @@
         },
         {
           "startDate": "2023-01-31T19:45:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 96,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "4th Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HAR",
             "short": "Harrow",
@@ -1243,8 +1231,8 @@
           },
           "agg": null,
           "penalty": {
-            "teamA": 4,
-            "teamB": 3
+            "teamA": 5,
+            "teamB": 6
           }
         }
       ]
@@ -1975,16 +1963,12 @@
         },
         {
           "startDate": "2023-01-31T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Girone B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LUC",
             "short": "Lucchese",
@@ -2012,16 +1996,12 @@
         },
         {
           "startDate": "2023-01-31T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Girone B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "OLB",
             "short": "Olbia",
@@ -2082,16 +2062,12 @@
         },
         {
           "startDate": "2023-01-31T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Girone B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "REG",
             "short": "Reggiana",
@@ -2119,16 +2095,12 @@
         },
         {
           "startDate": "2023-01-31T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Girone B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SIE",
             "short": "Siena",
@@ -2149,23 +2121,19 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-01-31T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Girone B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VPS",
             "short": "Vis Pesaro",
@@ -2362,16 +2330,12 @@
       "matches": [
         {
           "startDate": "2023-01-31T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Lowland League",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BFC",
             "short": "Broomhill",
@@ -2391,7 +2355,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 2
           },
           "agg": null,
@@ -2485,16 +2449,12 @@
       "matches": [
         {
           "startDate": "2023-01-31T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Final Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAR",
             "short": "Paraguay",
@@ -2643,7 +2603,7 @@
           "startDate": "2023-01-31T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 85,
             "extra": 0
           },
           "round": {
