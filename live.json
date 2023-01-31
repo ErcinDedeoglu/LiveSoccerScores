@@ -88,7 +88,7 @@
           "startDate": "2023-01-31T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 55,
             "extra": 0
           },
           "round": {
@@ -116,7 +116,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -133,16 +133,12 @@
       "matches": [
         {
           "startDate": "2023-01-31T19:45:00Z",
-          "period": {
-            "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 120,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "4th Round Replays",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BIR",
             "short": "Birmingham",
@@ -423,7 +419,7 @@
           "startDate": "2023-01-31T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 69,
             "extra": 0
           },
           "round": {
