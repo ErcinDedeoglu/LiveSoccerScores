@@ -321,7 +321,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:45</p> | <p align="right">Broomhill <img src="/static/logos/Open Goal Broomhill FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers FC B.png" height="25px"> Rangers</p> |
+| <p align="center">20:00</p> | <p align="right">Broomhill <img src="/static/logos/Open Goal Broomhill FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers FC B.png" height="25px"> Rangers</p> |
 </div>
 
 
