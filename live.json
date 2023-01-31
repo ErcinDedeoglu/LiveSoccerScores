@@ -243,16 +243,12 @@
       "matches": [
         {
           "startDate": "2023-01-31T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAD",
             "short": "Paderborn",
@@ -273,7 +269,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -498,8 +494,8 @@
           "startDate": "2023-01-31T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -1527,9 +1523,9 @@
         {
           "startDate": "2023-01-31T18:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 7
           },
           "round": {
             "name": "Nordost",
@@ -1651,8 +1647,8 @@
           "startDate": "2023-01-31T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Quarter-finals",
@@ -1688,7 +1684,7 @@
           "startDate": "2023-01-31T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -1801,7 +1797,7 @@
           "startDate": "2023-01-31T17:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -1838,7 +1834,7 @@
           "startDate": "2023-01-31T17:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 69,
             "extra": 0
           },
           "round": {
