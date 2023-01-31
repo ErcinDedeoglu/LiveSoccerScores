@@ -1,0 +1,30 @@
+name: 'Run DublokSoftware/Github.Action.Sport'
+
+on:
+  schedule:
+    - cron: '* * * * *'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'The reason for running the workflow'
+        required: true
+        default: 'Manual run'
+
+jobs:
+  action:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v3
+      with:
+        repository: DublokSoftware/Github.Action.Sport
+        ref: main
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        path: ./.github/repository
+    - name: Run
+      uses: ./.github/repository
+      env:
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
