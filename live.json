@@ -583,16 +583,12 @@
       "matches": [
         {
           "startDate": "2023-01-31T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALG",
             "short": "Algeria",
@@ -1791,7 +1787,7 @@
           "startDate": "2023-01-31T17:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -1828,7 +1824,7 @@
           "startDate": "2023-01-31T17:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 26,
             "extra": 0
           },
           "round": {
