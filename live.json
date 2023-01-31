@@ -88,7 +88,7 @@
           "startDate": "2023-01-31T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -419,8 +419,8 @@
           "startDate": "2023-01-31T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Apertura",
@@ -2476,7 +2476,7 @@
           "startDate": "2023-01-31T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -2503,7 +2503,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
