@@ -2,7 +2,7 @@
 ==========
 
 <h1 align="center">Live Soccer Scores, Fixtures & Results</h1>
-<h5 align="center">Today, Tuesday, January 31, 2023</h5>
+<h5 align="center">Today - Tuesday, January 31, 2023</h5>
 
 
 ## <img src="/static/logos/England-FA Cup.png" height="25px"> England - FA Cup
