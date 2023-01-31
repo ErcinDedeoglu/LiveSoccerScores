@@ -88,7 +88,7 @@
           "startDate": "2023-01-31T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -419,7 +419,7 @@
           "startDate": "2023-01-31T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -446,7 +446,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2474,12 +2474,16 @@
         },
         {
           "startDate": "2023-01-31T22:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Final Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BRA",
             "short": "Brazil",
@@ -2498,7 +2502,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
