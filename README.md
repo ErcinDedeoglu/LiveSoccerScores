@@ -1,4 +1,4 @@
-[Twitter Trend Topics (Worldwide)](https://github.com/ErcinDedeoglu/Live-Soccer-Scores)
+[Live Soccer Scores](https://github.com/ErcinDedeoglu/LiveSoccerScores)
 ==========
 
 <h1 align="center">Live Soccer Scores, Fixtures & Results</h1>
@@ -235,7 +235,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Barito <img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
-| <p align="center">48'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"> Persib</p> |
+| <p align="center">49'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"> Persib</p> |
 </div>
 
 
