@@ -245,7 +245,7 @@
           "startDate": "2023-01-31T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -498,7 +498,7 @@
           "startDate": "2023-01-31T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1528,7 +1528,7 @@
           "startDate": "2023-01-31T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -1651,7 +1651,7 @@
           "startDate": "2023-01-31T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 70,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1686,12 +1686,16 @@
         },
         {
           "startDate": "2023-01-31T18:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MNT",
             "short": "M Netanya",
@@ -1710,7 +1714,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1794,7 +1801,7 @@
           "startDate": "2023-01-31T17:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 54,
             "extra": 0
           },
           "round": {
@@ -1830,8 +1837,8 @@
         {
           "startDate": "2023-01-31T17:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 54,
             "extra": 0
           },
           "round": {
@@ -2058,7 +2065,7 @@
           "startDate": "2023-01-31T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -2175,7 +2182,7 @@
           "startDate": "2023-01-31T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 31,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -2402,7 +2409,7 @@
           "startDate": "2023-01-31T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 31,
+            "minute": 40,
             "extra": 0
           },
           "round": {
