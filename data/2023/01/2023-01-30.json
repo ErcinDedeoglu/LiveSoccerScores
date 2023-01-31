@@ -1,0 +1,2447 @@
+{
+  "livescores": [
+    {
+      "competition": {
+        "name": "La Liga",
+        "area": {
+          "name": "Spain"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "VIL",
+            "short": "Villarreal",
+            "long": "Villarreal",
+            "full": "Villarreal CF",
+            "name": "Villarreal"
+          },
+          "teamB": {
+            "code": "RAY",
+            "short": "Vallecano",
+            "long": "Rayo Vallecano",
+            "full": "Rayo Vallecano",
+            "name": "Vallecano"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Serie A",
+        "area": {
+          "name": "Italy"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "UDI",
+            "short": "Udinese",
+            "long": "Udinese",
+            "full": "Udinese Calcio",
+            "name": "Udinese"
+          },
+          "teamB": {
+            "code": "VER",
+            "short": "Verona",
+            "long": "Hellas Verona",
+            "full": "Hellas Verona FC",
+            "name": "Verona"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Premier League",
+        "area": {
+          "name": "Egypt"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T15:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "NBE",
+            "short": "National Bank",
+            "long": "National Bank of Egypt",
+            "full": "National Bank of Egypt SC",
+            "name": "National Bank"
+          },
+          "teamB": {
+            "code": "GHA",
+            "short": "Ghazl",
+            "long": "Ghazl El Mehalla",
+            "full": "Ghazl El Mehalla",
+            "name": "Ghazl"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Stars League",
+        "area": {
+          "name": "Qatar"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T13:35:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SHA",
+            "short": "Shamal",
+            "long": "Al Shamal",
+            "full": "Al Shamal SC",
+            "name": "Shamal"
+          },
+          "teamB": {
+            "code": "RAY",
+            "short": "Rayyan",
+            "long": "Al Rayyan",
+            "full": "Al Rayyan SC",
+            "name": "Rayyan"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T13:35:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "WAK",
+            "short": "Wakrah",
+            "long": "Al Wakrah",
+            "full": "Al Wakrah SC",
+            "name": "Wakrah"
+          },
+          "teamB": {
+            "code": "DUH",
+            "short": "Al Duhail",
+            "long": "Al Duhail",
+            "full": "Al Duhail SC",
+            "name": "Al Duhail"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T15:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "QSC",
+            "short": "Qatar",
+            "long": "Qatar SC",
+            "full": "Qatar SC",
+            "name": "Qatar"
+          },
+          "teamB": {
+            "code": "ARA",
+            "short": "Arabi",
+            "long": "Al Arabi",
+            "full": "Al Arabi SC",
+            "name": "Arabi"
+          },
+          "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "FA Cup",
+        "area": {
+          "name": "England"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "4th Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "DER",
+            "short": "Derby",
+            "long": "Derby County",
+            "full": "Derby County FC",
+            "name": "Derby"
+          },
+          "teamB": {
+            "code": "WHU",
+            "short": "West Ham",
+            "long": "West Ham United",
+            "full": "West Ham United FC",
+            "name": "West Ham"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Primeira Liga",
+        "area": {
+          "name": "Portugal"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T20:15:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "VIG",
+            "short": "Guimar\u00E3es",
+            "long": "Vit\u00F3ria Guimar\u00E3es",
+            "full": "Vit\u00F3ria SC Guimar\u00E3es",
+            "name": "Guimar\u00E3es"
+          },
+          "teamB": {
+            "code": "CHV",
+            "short": "Chaves",
+            "long": "Chaves",
+            "full": "GD Chaves",
+            "name": "Chaves"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Liga Profesional Argentina",
+        "area": {
+          "name": "Argentina"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BOC",
+            "short": "Boca Juniors",
+            "long": "Boca Juniors",
+            "full": "CA Boca Juniors",
+            "name": "Boca Juniors"
+          },
+          "teamB": {
+            "code": "TUC",
+            "short": "Atl. Tucum\u00E1n",
+            "long": "Atl\u00E9tico Tucum\u00E1n",
+            "full": "CA Tucum\u00E1n",
+            "name": "Atl. Tucum\u00E1n"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BAC",
+            "short": "Barracas C",
+            "long": "Barracas Central",
+            "full": "CA Barracas Central",
+            "name": "Barracas C"
+          },
+          "teamB": {
+            "code": "GOD",
+            "short": "Godoy Cruz",
+            "long": "Godoy Cruz",
+            "full": "Godoy Cruz Antonio Tomba",
+            "name": "Godoy Cruz"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T23:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BAN",
+            "short": "Banfield",
+            "long": "Banfield",
+            "full": "CA Banfield",
+            "name": "Banfield"
+          },
+          "teamB": {
+            "code": "UNI",
+            "short": "Uni\u00F3n",
+            "long": "Uni\u00F3n",
+            "full": "CA Uni\u00F3n de Santa Fe",
+            "name": "Uni\u00F3n"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T23:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "VEL",
+            "short": "V\u00E9lez",
+            "long": "V\u00E9lez Sarsfield",
+            "full": "Club Atl\u00E9tico V\u00E9lez Sarsfield",
+            "name": "V\u00E9lez"
+          },
+          "teamB": {
+            "code": "GLP",
+            "short": "Gimn La Plata",
+            "long": "Gimnasia La Plata",
+            "full": "Gimnasia y Esgrima La Plata",
+            "name": "Gimn La Plata"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Liga MX",
+        "area": {
+          "name": "Mexico"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T01:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "PAC",
+            "short": "Pachuca",
+            "long": "Pachuca",
+            "full": "CF Pachuca",
+            "name": "Pachuca"
+          },
+          "teamB": {
+            "code": "NEC",
+            "short": "Necaxa",
+            "long": "Necaxa",
+            "full": "Club Necaxa",
+            "name": "Necaxa"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Ligue 1",
+        "area": {
+          "name": "Tunisia"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CAB",
+            "short": "Bizertin",
+            "long": "Bizertin",
+            "full": "CA Bizertin",
+            "name": "Bizertin"
+          },
+          "teamB": {
+            "code": "CSS",
+            "short": "Sfax",
+            "long": "CS Sfaxien",
+            "full": "CS Sfaxien",
+            "name": "Sfax"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CSC",
+            "short": "Chebba",
+            "long": "Chebba",
+            "full": "CS Chebba",
+            "name": "Chebba"
+          },
+          "teamB": {
+            "code": "ST",
+            "short": "Stade Tunisien",
+            "long": "Stade Tunisien",
+            "full": "Stade Tunisien",
+            "name": "Stade Tunisien"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ESS",
+            "short": "ES Sahel",
+            "long": "Etoile du Sahel",
+            "full": "\u00C9toile Sportive du Sahel",
+            "name": "ES Sahel"
+          },
+          "teamB": {
+            "code": "EST",
+            "short": "Tunis",
+            "long": "ES Tunis",
+            "full": "Esp\u00E9rance Sportive de Tunis",
+            "name": "Tunis"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "UST",
+            "short": "Tataouine",
+            "long": "Tataouine",
+            "full": "US Tataouine",
+            "name": "Tataouine"
+          },
+          "teamB": {
+            "code": "EHS",
+            "short": "ESHS",
+            "long": "Hammam-Sousse",
+            "full": "Espoir Sportif de Hammam-Sousse",
+            "name": "ESHS"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CA",
+            "short": "Club Africain",
+            "long": "Club Africain",
+            "full": "Club Africain",
+            "name": "Club Africain"
+          },
+          "teamB": {
+            "code": "EOS",
+            "short": "EOSB",
+            "long": "EO Sidi Bouzid",
+            "full": "Etoile Olympique Sidi Bouzid",
+            "name": "EOSB"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ESM",
+            "short": "M\u00E9tlaoui",
+            "long": "M\u00E9tlaoui",
+            "full": "\u00C9toile Sportive de M\u00E9tlaoui",
+            "name": "M\u00E9tlaoui"
+          },
+          "teamB": {
+            "code": "ASR",
+            "short": "Rejiche",
+            "long": "Rejiche",
+            "full": "AS Rejiche",
+            "name": "Rejiche"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "USM",
+            "short": "Monastir",
+            "long": "Monastir",
+            "full": "US Monastirienne",
+            "name": "Monastir"
+          },
+          "teamB": {
+            "code": "SOL",
+            "short": "Soliman",
+            "long": "Soliman",
+            "full": "AS Soliman",
+            "name": "Soliman"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "OB",
+            "short": "Olympique B\u00E9ja",
+            "long": "Olympique B\u00E9ja",
+            "full": "Olympique de B\u00E9ja",
+            "name": "Olympique B\u00E9ja"
+          },
+          "teamB": {
+            "code": "UBG",
+            "short": "USBG",
+            "long": "Ben Guerdane",
+            "full": "Union Sportive de Ben Guerdane",
+            "name": "USBG"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Superliga",
+        "area": {
+          "name": "Albania"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T12:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "LAC",
+            "short": "La\u00E7i",
+            "long": "La\u00E7i",
+            "full": "KF La\u00E7i",
+            "name": "La\u00E7i"
+          },
+          "teamB": {
+            "code": "TEU",
+            "short": "Teuta",
+            "long": "Teuta Durr\u00EBs",
+            "full": "KS Teuta Durr\u00EBs",
+            "name": "Teuta"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 4,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T18:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ERZ",
+            "short": "Erzeni",
+            "long": "Erzeni Shijak",
+            "full": "KF Erzeni Shijak",
+            "name": "Erzeni"
+          },
+          "teamB": {
+            "code": "VLL",
+            "short": "Vllaznia",
+            "long": "Vllaznia Shkod\u00EBr",
+            "full": "KS Vllaznia Shkod\u00EBr",
+            "name": "Vllaznia"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T18:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "PAR",
+            "short": "Partizani",
+            "long": "Partizani Tirana",
+            "full": "KF Partizani Tirana",
+            "name": "Partizani"
+          },
+          "teamB": {
+            "code": "EGN",
+            "short": "Egnatia",
+            "long": "Egnatia Rrogozhin\u00EB",
+            "full": "KS Egnatia Rrogozhin\u00EB",
+            "name": "Egnatia"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Carioca S\u00E9rie A",
+        "area": {
+          "name": "Brazil"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T23:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Ta\u00E7a Guanabara",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "VAS",
+            "short": "Vasco",
+            "long": "Vasco da Gama",
+            "full": "CR Vasco da Gama",
+            "name": "Vasco"
+          },
+          "teamB": {
+            "code": "VRE",
+            "short": "Volta Redonda",
+            "long": "Volta Redonda",
+            "full": "Volta Redonda FC",
+            "name": "Volta Redonda"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Ga\u00FAcho 1",
+        "area": {
+          "name": "Brazil"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T23:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "NHA",
+            "short": "Novo Hamburgo",
+            "long": "Novo Hamburgo",
+            "full": "EC Novo Hamburgo",
+            "name": "Novo Hamburgo"
+          },
+          "teamB": {
+            "code": "JUV",
+            "short": "Juventude",
+            "long": "Juventude",
+            "full": "EC Juventude",
+            "name": "Juventude"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Pernambucano 1",
+        "area": {
+          "name": "Brazil"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T23:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "NAU",
+            "short": "N\u00E1utico",
+            "long": "N\u00E1utico",
+            "full": "Clube N\u00E1utico Capibaribe",
+            "name": "N\u00E1utico"
+          },
+          "teamB": {
+            "code": "POR",
+            "short": "Porto",
+            "long": "Porto",
+            "full": "CA Porto",
+            "name": "Porto"
+          },
+          "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Sergipano 1",
+        "area": {
+          "name": "Brazil"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T23:15:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SER",
+            "short": "Sergipe",
+            "long": "Sergipe",
+            "full": "CS Sergipe",
+            "name": "Sergipe"
+          },
+          "teamB": {
+            "code": "ASE",
+            "short": "Am\u00E9rica SE",
+            "long": "Am\u00E9rica SE",
+            "full": "Am\u00E9rica FC (Sergipe)",
+            "name": "Am\u00E9rica SE"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Paraibano 1",
+        "area": {
+          "name": "Brazil"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T22:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BPB",
+            "short": "Botafogo",
+            "long": "Botafogo PB",
+            "full": "Botafogo FC (Jo\u00E3o Pessoa)",
+            "name": "Botafogo"
+          },
+          "teamB": {
+            "code": "AUT",
+            "short": "Auto Esporte",
+            "long": "Auto Esporte",
+            "full": "Auto EC",
+            "name": "Auto Esporte"
+          },
+          "redCards": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T22:30:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SPC",
+            "short": "SP Crystal",
+            "long": "S\u00E3o Paulo Crystal",
+            "full": "S\u00E3o Paulo Crystal FC",
+            "name": "SP Crystal"
+          },
+          "teamB": {
+            "code": "QUE",
+            "short": "Queimadense",
+            "long": "Queimadense",
+            "full": "SE Queimadense",
+            "name": "Queimadense"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Primera A",
+        "area": {
+          "name": "Colombia"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "JUN",
+            "short": "Junior",
+            "long": "Junior",
+            "full": "CD Popular Junior FC SA",
+            "name": "Junior"
+          },
+          "teamB": {
+            "code": "MED",
+            "short": "Medell\u00EDn",
+            "long": "Independiente Medell\u00EDn",
+            "full": "Deportivo Independiente Medell\u00EDn",
+            "name": "Medell\u00EDn"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T23:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "POSTPONED",
+          "teamA": {
+            "code": "PET",
+            "short": "Petrolera",
+            "long": "Alianza Petrolera",
+            "full": "Alianza Petrolera FC",
+            "name": "Petrolera"
+          },
+          "teamB": {
+            "code": "PAS",
+            "short": "Pasto",
+            "long": "Deportivo Pasto",
+            "full": "AD Pasto",
+            "name": "Pasto"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Primera Divisi\u00F3n",
+        "area": {
+          "name": "Costa Rica"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T00:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ALA",
+            "short": "Alajuelense",
+            "long": "Alajuelense",
+            "full": "LD Alajuelense",
+            "name": "Alajuelense"
+          },
+          "teamB": {
+            "code": "SSJ",
+            "short": "SP. San Jos\u00E9",
+            "long": "Sporting San Jos\u00E9",
+            "full": "Sporting San Jos\u00E9 FC",
+            "name": "SP. San Jos\u00E9"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T00:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "GUA",
+            "short": "Guadalupe",
+            "long": "Guadalupe",
+            "full": "Guadalupe FC",
+            "name": "Guadalupe"
+          },
+          "teamB": {
+            "code": "CAR",
+            "short": "Cartagin\u00E9s",
+            "long": "Cartagin\u00E9s",
+            "full": "CS Cartagin\u00E9s",
+            "name": "Cartagin\u00E9s"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 5,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "1. Division",
+        "area": {
+          "name": "Cyprus"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T17:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ENP",
+            "short": "Enosis",
+            "long": "Enosis",
+            "full": "Enosis Neon Paralimni",
+            "name": "Enosis"
+          },
+          "teamB": {
+            "code": "ARI",
+            "short": "Aris Limassol",
+            "long": "Aris Limassol",
+            "full": "Aris FC Limassol",
+            "name": "Aris Limassol"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Premier League 2 Division One",
+        "area": {
+          "name": "England"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CRY",
+            "short": "Crystal Palace",
+            "long": "Crystal Palace U21",
+            "full": "Crystal Palace Under 21",
+            "name": "Crystal Palace"
+          },
+          "teamB": {
+            "code": "MCI",
+            "short": "Man City",
+            "long": "Manchester City U21",
+            "full": "Manchester City Under 21",
+            "name": "Man City"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 5
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T15:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BRH",
+            "short": "Brighton",
+            "long": "Brighton U21",
+            "full": "Brighton \u0026 Hove Albion Under 21",
+            "name": "Brighton"
+          },
+          "teamB": {
+            "code": "LEI",
+            "short": "Leicester",
+            "long": "Leicester City U21",
+            "full": "Leicester City FC Under 21",
+            "name": "Leicester"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Premier League 2 Division Two",
+        "area": {
+          "name": "England"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SUN",
+            "short": "Sunderland",
+            "long": "Sunderland U21",
+            "full": "Sunderland Under 21",
+            "name": "Sunderland"
+          },
+          "teamB": {
+            "code": "NEW",
+            "short": "Newcastle",
+            "long": "Newcastle United U21",
+            "full": "Newcastle United Under 21",
+            "name": "Newcastle"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Premier League Cup",
+        "area": {
+          "name": "England"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T14:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Round of 16",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BRT",
+            "short": "Brentford",
+            "long": "Brentford U21",
+            "full": "Brentford FC Under 21",
+            "name": "Brentford"
+          },
+          "teamB": {
+            "code": "MID",
+            "short": "Middlesbrough",
+            "long": "Middlesbrough U21",
+            "full": "Middlesbrough Under 21",
+            "name": "Middlesbrough"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T19:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "HUL",
+            "short": "Hull",
+            "long": "Hull City U21",
+            "full": "Hull City Under 21",
+            "name": "Hull"
+          },
+          "teamB": {
+            "code": "NFO",
+            "short": "Nottingham",
+            "long": "Nottingham Forest U21",
+            "full": "Nottingham Forest Under 21",
+            "name": "Nottingham"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "3. Liga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T18:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "TSV",
+            "short": "1860 M\u00FCnchen",
+            "long": "1860 M\u00FCnchen",
+            "full": "TSV 1860 M\u00FCnchen",
+            "name": "1860 M\u00FCnchen"
+          },
+          "teamB": {
+            "code": "SGD",
+            "short": "Dresden",
+            "long": "Dynamo Dresden",
+            "full": "SG Dynamo Dresden",
+            "name": "Dresden"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Super League 1",
+        "area": {
+          "name": "Greece"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T16:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "PKT",
+            "short": "PAOK",
+            "long": "PAOK",
+            "full": "PAOK Thessaloniki FC",
+            "name": "PAOK"
+          },
+          "teamB": {
+            "code": "LEV",
+            "short": "Levadiakos",
+            "long": "Levadiakos",
+            "full": "Levadiakos FC",
+            "name": "Levadiakos"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T17:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "LAM",
+            "short": "Lamia",
+            "long": "Lamia",
+            "full": "PAS Lamia 1964",
+            "name": "Lamia"
+          },
+          "teamB": {
+            "code": "ION",
+            "short": "Ionikos",
+            "long": "Ionikos",
+            "full": "PAE Ionikos Nikaias",
+            "name": "Ionikos"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T19:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "AST",
+            "short": "Asteras",
+            "long": "Asteras Tripolis",
+            "full": "Asteras Tripolis FC",
+            "name": "Asteras"
+          },
+          "teamB": {
+            "code": "PAO",
+            "short": "Panathinaikos",
+            "long": "Panathinaikos",
+            "full": "Panathinaikos FC",
+            "name": "Panathinaikos"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Super League 2",
+        "area": {
+          "name": "Greece"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T12:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Group B",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ROU",
+            "short": "PAO Rouf",
+            "long": "PAO Rouf",
+            "full": "FC PAO Rouf",
+            "name": "PAO Rouf"
+          },
+          "teamB": {
+            "code": "EGA",
+            "short": "Egaleo",
+            "long": "Egaleo",
+            "full": "PAE Egaleo FC",
+            "name": "Egaleo"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T13:15:00Z",
+          "period": null,
+          "round": {
+            "name": "Group B",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "KAL",
+            "short": "Kallithea",
+            "long": "Kallithea",
+            "full": "GS Kallithea FC",
+            "name": "Kallithea"
+          },
+          "teamB": {
+            "code": "ILI",
+            "short": "Ilioupoli",
+            "long": "Ilioupoli",
+            "full": "GS Ilioupoli FC",
+            "name": "Ilioupoli"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "I-League",
+        "area": {
+          "name": "India"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T13:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CHU",
+            "short": "Churchill",
+            "long": "Churchill Brothers",
+            "full": "Churchill Brothers FC Goa",
+            "name": "Churchill"
+          },
+          "teamB": {
+            "code": "SUD",
+            "short": "Sudeva",
+            "long": "Sudeva",
+            "full": "Sudeva Delhi FC",
+            "name": "Sudeva"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Liga 1",
+        "area": {
+          "name": "Indonesia"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T08:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "PSM",
+            "short": "PSM",
+            "long": "PSM",
+            "full": "Persatuan Sepakbola Makassar",
+            "name": "PSM"
+          },
+          "teamB": {
+            "code": "NAS",
+            "short": "RANS",
+            "long": "RANS Nusantara",
+            "full": "RANS Nusantara FC",
+            "name": "RANS"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T09:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "POSTPONED",
+          "teamA": {
+            "code": "ARE",
+            "short": "Arema",
+            "long": "Arema",
+            "full": "Arema FC",
+            "name": "Arema"
+          },
+          "teamB": {
+            "code": "BFC",
+            "short": "Bali United",
+            "long": "Bali United",
+            "full": "Bali United FC",
+            "name": "Bali United"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T11:15:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BRN",
+            "short": "Borneo",
+            "long": "Borneo",
+            "full": "Borneo FC",
+            "name": "Borneo"
+          },
+          "teamB": {
+            "code": "PSK",
+            "short": "Persik",
+            "long": "Persik Kediri",
+            "full": "Persatuan Sepakbola Indonesia Kediri",
+            "name": "Persik"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Ligat Ha\u0027al",
+        "area": {
+          "name": "Israel"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T18:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BNS",
+            "short": "Sakhnin",
+            "long": "Bnei Sakhnin",
+            "full": "Ihoud Bnei Sakhnin FC",
+            "name": "Sakhnin"
+          },
+          "teamB": {
+            "code": "HJE",
+            "short": "H Jerusalem",
+            "long": "Hapoel Jerusalem",
+            "full": "Hapoel Jerusalem FC",
+            "name": "H Jerusalem"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Serie C",
+        "area": {
+          "name": "Italy"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T19:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Girone C",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "AUD",
+            "short": "Audace Cerig.",
+            "long": "Audace Cerignola",
+            "full": "USD Audace Cerignola",
+            "name": "Audace Cerig."
+          },
+          "teamB": {
+            "code": "MON",
+            "short": "Monopoli",
+            "long": "Monopoli",
+            "full": "Monopoli Calcio 1966",
+            "name": "Monopoli"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Eerste Divisie",
+        "area": {
+          "name": "Netherlands"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T19:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "PSV",
+            "short": "PSV II",
+            "long": "PSV II",
+            "full": "PSV Eindhoven II",
+            "name": "PSV II"
+          },
+          "teamB": {
+            "code": "WIL",
+            "short": "Willem II",
+            "long": "Willem II",
+            "full": "Willem II",
+            "name": "Willem II"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T19:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "RJC",
+            "short": "Roda",
+            "long": "Roda JC",
+            "full": "SV Roda JC",
+            "name": "Roda"
+          },
+          "teamB": {
+            "code": "ZWO",
+            "short": "Zwolle",
+            "long": "PEC Zwolle",
+            "full": "PEC Zwolle",
+            "name": "Zwolle"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-01-30T19:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "UT2",
+            "short": "Utrecht II",
+            "long": "Utrecht II",
+            "full": "FC Utrecht II",
+            "name": "Utrecht II"
+          },
+          "teamB": {
+            "code": "GRA",
+            "short": "De Graafschap",
+            "long": "De Graafschap",
+            "full": "BV De Graafschap",
+            "name": "De Graafschap"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Premiership",
+        "area": {
+          "name": "Northern Ireland"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "GLT",
+            "short": "Glentoran",
+            "long": "Glentoran",
+            "full": "Glentoran FC",
+            "name": "Glentoran"
+          },
+          "teamB": {
+            "code": "CRU",
+            "short": "Crusaders",
+            "long": "Crusaders",
+            "full": "Crusaders FC",
+            "name": "Crusaders"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Division Profesional",
+        "area": {
+          "name": "Paraguay"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T22:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "OLI",
+            "short": "Olimpia",
+            "long": "Olimpia",
+            "full": "Club Olimpia",
+            "name": "Olimpia"
+          },
+          "teamB": {
+            "code": "SPL",
+            "short": "Luque\u00F1o",
+            "long": "Sportivo Luque\u00F1o",
+            "full": "Club Sportivo Luque\u00F1o",
+            "name": "Luque\u00F1o"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Ekstraklasa",
+        "area": {
+          "name": "Poland"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T18:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CRA",
+            "short": "Cracovia",
+            "long": "Cracovia",
+            "full": "MKS Cracovia",
+            "name": "Cracovia"
+          },
+          "teamB": {
+            "code": "GZA",
+            "short": "G\u00F3rnik",
+            "long": "G\u00F3rnik Zabrze",
+            "full": "KS G\u00F3rnik Zabrze",
+            "name": "G\u00F3rnik"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Segunda Liga",
+        "area": {
+          "name": "Portugal"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T18:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BEL",
+            "short": "Belenenses",
+            "long": "Belenenses",
+            "full": "Os Belenenses SAD",
+            "name": "Belenenses"
+          },
+          "teamB": {
+            "code": "TRO",
+            "short": "Trofense",
+            "long": "Trofense",
+            "full": "CD Trofense",
+            "name": "Trofense"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Liga I",
+        "area": {
+          "name": "Romania"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T18:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "VOL",
+            "short": "Voluntari",
+            "long": "Voluntari",
+            "full": "FC Voluntari",
+            "name": "Voluntari"
+          },
+          "teamB": {
+            "code": "CFR",
+            "short": "CFR",
+            "long": "CFR Cluj",
+            "full": "SCS CFR 1907 Cluj",
+            "name": "CFR"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Segunda Divisi\u00F3n",
+        "area": {
+          "name": "Spain"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ZAR",
+            "short": "Zaragoza",
+            "long": "Real Zaragoza",
+            "full": "Real Zaragoza",
+            "name": "Zaragoza"
+          },
+          "teamB": {
+            "code": "PON",
+            "short": "Ponferradina",
+            "long": "Ponferradina",
+            "full": "SD Ponferradina",
+            "name": "Ponferradina"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "1. Lig",
+        "area": {
+          "name": "Turkey"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T17:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SAM",
+            "short": "Samsunspor",
+            "long": "Samsunspor",
+            "full": "Samsunspor Kul\u00FCb\u00FC",
+            "name": "Samsunspor"
+          },
+          "teamB": {
+            "code": "ERZ",
+            "short": "Erzurumspor",
+            "long": "Erzurumspor FK",
+            "full": "Erzurumspor Futbol Kul\u00FCb\u00FC",
+            "name": "Erzurumspor"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Super Copa",
+        "area": {
+          "name": "Uruguay"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-01-30T00:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Final",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "LIV",
+            "short": "Liverpool",
+            "long": "Liverpool",
+            "full": "Liverpool FC Montevideo",
+            "name": "Liverpool"
+          },
+          "teamB": {
+            "code": "NAC",
+            "short": "Nacional",
+            "long": "Nacional",
+            "full": "Club Nacional de Football Montevideo",
+            "name": "Nacional"
+          },
+          "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    }
+  ]
+}
