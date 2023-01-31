@@ -87,9 +87,9 @@
         {
           "startDate": "2023-01-31T21:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -135,8 +135,8 @@
           "startDate": "2023-01-31T19:45:00Z",
           "period": {
             "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 112,
-            "extra": 0
+            "minute": 120,
+            "extra": 3
           },
           "round": {
             "name": "4th Round Replays",
@@ -423,7 +423,7 @@
           "startDate": "2023-01-31T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -2597,16 +2597,12 @@
         },
         {
           "startDate": "2023-01-31T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HAV",
             "short": "Haverfordwest",
