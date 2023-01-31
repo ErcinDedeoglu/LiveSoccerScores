@@ -87,9 +87,9 @@
         {
           "startDate": "2023-01-31T21:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -134,9 +134,9 @@
         {
           "startDate": "2023-01-31T19:45:00Z",
           "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 105,
-            "extra": 1
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 112,
+            "extra": 0
           },
           "round": {
             "name": "4th Round Replays",
@@ -180,16 +180,12 @@
       "matches": [
         {
           "startDate": "2023-01-31T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NEW",
             "short": "Newcastle",
@@ -426,9 +422,9 @@
         {
           "startDate": "2023-01-31T21:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -2603,8 +2599,8 @@
           "startDate": "2023-01-31T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
