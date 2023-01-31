@@ -2,7 +2,7 @@ name: 'Run DublokSoftware/Github.Action.Sport'
 
 on:
   schedule:
-    #- cron: '* * * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
     inputs:
       reason:
