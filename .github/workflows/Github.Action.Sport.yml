@@ -1,8 +1,8 @@
 name: 'Run DublokSoftware/Github.Action.Sport'
 
 on:
-  # schedule:
-  #   - cron: '* * * * *'
+  schedule:
+    - cron: '* * * * *'
   workflow_dispatch:
     inputs:
       reason:
@@ -28,15 +28,3 @@ jobs:
       uses: ./.github/repository
       env:
         GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-  inform:
-    needs: action
-    runs-on: ubuntu-latest
-    steps:
-    - name: Inform
-      run: |
-        curl --location --request POST 'https://api.github.com/repos/${{ github.repository }}/actions/workflows/${{ github.workflow }}/dispatches' \
-        --header 'Accept: application/vnd.github+json' \
-        --header 'Authorization: Bearer ${{ secrets.PERSONAL_ACCESS_TOKEN }}' \
-        --header 'X-GitHub-Api-Version: 2022-11-28' \
-        --header 'Content-Type: application/json' \
-        --data-raw "{\"ref\":\"main\",\"inputs\":{\"reason\":\"Recursive-Call\"}}"
