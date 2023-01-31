@@ -11,7 +11,7 @@
 
 Time | Home | Score | Away |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">&nbsp;&nbsp;20:00&nbsp;&nbsp;</p> | <p align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Villarreal <img src="/static/logos/Villarreal CF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rayo Vallecano.png" height="25px"> Vallecano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> |
+| <p align="center">&emsp;20:00&emsp;</p> | <p align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Villarreal <img src="/static/logos/Villarreal CF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rayo Vallecano.png" height="25px"> Vallecano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> |
 </div>
 
 
@@ -19,7 +19,7 @@ Time | Home | Score | Away |
 
 <div align="center">
 
-&nbsp;&nbsp;Time&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Score&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Away&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&emsp;Time&emsp; | &emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:45</p> | <p align="right">Udinese <img src="/static/logos/Udinese Calcio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hellas Verona FC.png" height="25px"> Verona</p> |
 </div>
