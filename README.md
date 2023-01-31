@@ -177,7 +177,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Junior <img src="/static/logos/CD Popular Junior FC SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"> Medellín</p> |
-| <p align="center">23:00</p> | <p align="right">Petrolera <img src="/static/logos/Alianza Petrolera FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD Pasto.png" height="25px"> Pasto</p> |
+| <p align="center">POS</p> | <p align="right">Petrolera <img src="/static/logos/Alianza Petrolera FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/AD Pasto.png" height="25px"> Pasto</p> |
 </div>
 
 
@@ -284,7 +284,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">PSM <img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/RANS Nusantara FC.png" height="25px"> RANS</p> |
-| <p align="center">09:00</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United</p> |
+| <p align="center">POS</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United</p> |
 | <p align="center">FT</p> | <p align="right">Borneo <img src="/static/logos/Borneo FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"> Persik</p> |
 </div>
 
