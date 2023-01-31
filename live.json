@@ -447,9 +447,9 @@
         {
           "startDate": "2023-01-31T23:10:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Apertura",
@@ -570,9 +570,9 @@
         {
           "startDate": "2023-01-31T23:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 2
           },
           "round": {
             "name": "Clausura",
@@ -693,9 +693,9 @@
         {
           "startDate": "2023-01-31T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 6
+            "extra": 7
           },
           "round": {
             "name": "Group Stage",
@@ -777,7 +777,7 @@
         {
           "startDate": "2023-01-31T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
             "extra": 2
           },
@@ -825,7 +825,7 @@
           "startDate": "2023-01-31T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -872,7 +872,7 @@
           "startDate": "2023-01-31T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -2517,7 +2517,7 @@
           "startDate": "2023-01-31T22:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 72,
             "extra": 0
           },
           "round": {
