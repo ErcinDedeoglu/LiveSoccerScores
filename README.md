@@ -480,9 +480,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Tractor <img src="/static/logos/Tractor SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Foolad Khuzestan FC.png" height="25px"> Foolad</p> |
-| <p align="center">90'</p> | <p align="right">Malavan <img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran.png" height="25px"> Nassaji</p> |
-| <p align="center">83'</p> | <p align="right">Sepahan <img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Gol Gohar FC Sirjan.png" height="25px"> Gol Gohar</p> |
-| <p align="center">HT</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aluminium Arak FC.png" height="25px"> Aluminium Arak</p> |
+| <p align="center">FT</p> | <p align="right">Malavan <img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran.png" height="25px"> Nassaji</p> |
+| <p align="center">90' 3'</p> | <p align="right">Sepahan <img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Gol Gohar FC Sirjan.png" height="25px"> Gol Gohar</p> |
+| <p align="center">47'</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aluminium Arak FC.png" height="25px"> Aluminium Arak</p> |
 </div>
 
 
@@ -503,10 +503,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:30</p> | <p align="right">Pordenone <img src="/static/logos/Pordenone Calcio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AC Renate.png" height="25px"> Renate</p> |
+| <p align="center">1'</p> | <p align="right">Pordenone <img src="/static/logos/Pordenone Calcio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AC Renate.png" height="25px"> Renate</p> |
 | <p align="center">13:30</p> | <p align="right">Giugliano <img src="/static/logos/SSC Giugliano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ACR Messina.png" height="25px"> Messina</p> |
 | <p align="center">13:30</p> | <p align="right">Monterosi <img src="/static/logos/Monterosi Tuscia FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Delfino Pescara 1936.png" height="25px"> Pescara</p> |
-| <p align="center">13:30</p> | <p align="right">Potenza <img src="/static/logos/SSD Potenza Calcio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/US Avellino 1912.png" height="25px"> Avellino</p> |
+| <p align="center">2'</p> | <p align="right">Potenza <img src="/static/logos/SSD Potenza Calcio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/US Avellino 1912.png" height="25px"> Avellino</p> |
 | <p align="center">17:00</p> | <p align="right">FeralpiSalò <img src="/static/logos/FeralpiSalò Srl.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Calcio Padova Spa.png" height="25px"> Calcio Padova</p> |
 | <p align="center">17:00</p> | <p align="right">Lecco <img src="/static/logos/Calcio Lecco 1912.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UC AlbinoLeffe.png" height="25px"> AlbinoLeffe</p> |
 | <p align="center">17:00</p> | <p align="right">Pergolettese <img src="/static/logos/US Pergolettese 1932.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Juventus Next Gen (Juventus FC II).png" height="25px"> Juventus II</p> |
