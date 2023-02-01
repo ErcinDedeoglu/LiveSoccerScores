@@ -3511,7 +3511,7 @@
           "startDate": "2023-02-01T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -3548,8 +3548,8 @@
           "startDate": "2023-02-01T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 39,
-            "extra": 0
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -3585,8 +3585,8 @@
           "startDate": "2023-02-01T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -3620,12 +3620,16 @@
         },
         {
           "startDate": "2023-02-01T12:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PRS",
             "short": "Persepolis",
@@ -3644,7 +3648,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
