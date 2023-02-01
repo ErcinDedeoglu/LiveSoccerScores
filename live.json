@@ -1057,9 +1057,9 @@
         {
           "startDate": "2023-02-01T03:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 5
           },
           "round": {
             "name": "Clausura",
@@ -1772,36 +1772,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-02-01T19:00:00Z",
-          "period": null,
-          "round": {
-            "name": "1st Phase",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "CAR",
-            "short": "Caruaru City",
-            "long": "Caruaru City",
-            "full": "Caruaru City SC",
-            "name": "Caruaru City"
-          },
-          "teamB": {
-            "code": "SAL",
-            "short": "Salgueiro",
-            "long": "Salgueiro",
-            "full": "Salgueiro AC",
-            "name": "Salgueiro"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-02-01T21:00:00Z",
           "period": null,
           "round": {
@@ -1822,6 +1792,36 @@
             "long": "Afogados",
             "full": "Afogados da Ingazeira Futebol Clube",
             "name": "Afogados"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-01T22:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Phase",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "CAR",
+            "short": "Caruaru City",
+            "long": "Caruaru City",
+            "full": "Caruaru City SC",
+            "name": "Caruaru City"
+          },
+          "teamB": {
+            "code": "SAL",
+            "short": "Salgueiro",
+            "long": "Salgueiro",
+            "full": "Salgueiro AC",
+            "name": "Salgueiro"
           },
           "redCards": {
             "teamA": 0,
