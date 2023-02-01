@@ -1058,7 +1058,7 @@
           "startDate": "2023-02-01T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -1085,7 +1085,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
