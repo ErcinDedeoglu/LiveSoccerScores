@@ -3206,6 +3206,36 @@
           },
           "status": "FIXTURE",
           "teamA": {
+            "code": "GUA",
+            "short": "Guastatoya",
+            "long": "Guastatoya",
+            "full": "Deportivo Guastatoya",
+            "name": "Guastatoya"
+          },
+          "teamB": {
+            "code": "MAL",
+            "short": "Malacateco",
+            "long": "Malacateco",
+            "full": "CD Malacateco-Coatepeque",
+            "name": "Malacateco"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-01T17:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
             "code": "SLC",
             "short": "Santa Luc\u00EDa",
             "long": "Santa Luc\u00EDa",
@@ -3248,36 +3278,6 @@
             "long": "Municipal",
             "full": "CSD Municipal",
             "name": "Municipal"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-02-01T21:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Clausura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "GUA",
-            "short": "Guastatoya",
-            "long": "Guastatoya",
-            "full": "Deportivo Guastatoya",
-            "name": "Guastatoya"
-          },
-          "teamB": {
-            "code": "MAL",
-            "short": "Malacateco",
-            "long": "Malacateco",
-            "full": "CD Malacateco-Coatepeque",
-            "name": "Malacateco"
           },
           "redCards": {
             "teamA": 0,
@@ -3510,9 +3510,9 @@
         {
           "startDate": "2023-02-01T10:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
