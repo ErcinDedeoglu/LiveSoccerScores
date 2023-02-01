@@ -4337,7 +4337,7 @@
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 70,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -4374,7 +4374,7 @@
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -4411,7 +4411,7 @@
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -4448,7 +4448,7 @@
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -4485,7 +4485,7 @@
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -4522,7 +4522,7 @@
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -4559,7 +4559,7 @@
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -4595,9 +4595,9 @@
         {
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 7
+            "type": "SECOND_HALF",
+            "minute": 84,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -4633,7 +4633,7 @@
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -4670,7 +4670,7 @@
           "startDate": "2023-02-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 85,
             "extra": 0
           },
           "round": {
