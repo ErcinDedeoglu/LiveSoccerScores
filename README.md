@@ -122,8 +122,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">48'</p> | <p align="right">Gaziantep <img src="/static/logos/Gaziantep Futbol Kulübü.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hatay Spor Kulübü.png" height="25px"> Hatay</p> |
-| <p align="center">47'</p> | <p align="right">Kasımpaşa <img src="/static/logos/Kasımpaşa Spor Kulübü.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Giresun Spor Kulübü.png" height="25px"> Giresun</p> |
+| <p align="center">59'</p> | <p align="right">Gaziantep <img src="/static/logos/Gaziantep Futbol Kulübü.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Hatay Spor Kulübü.png" height="25px"> Hatay</p> |
+| <p align="center">57'</p> | <p align="right">Kasımpaşa <img src="/static/logos/Kasımpaşa Spor Kulübü.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Giresun Spor Kulübü.png" height="25px"> Giresun</p> |
 | <p align="center">17:00</p> | <p align="right">Galatasaray <img src="/static/logos/Galatasaray Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ümraniye Spor Kulübü.png" height="25px"> Ümraniye</p> |
 | <p align="center">17:00</p> | <p align="right">Trabzonspor <img src="/static/logos/Trabzonspor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Antalyaspor Kulübü.png" height="25px"> Antalyaspor</p> |
 </div>
@@ -376,7 +376,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">Dynamo CB <img src="/static/logos/SK Dynamo České Budějovice.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Hradec Králové.png" height="25px"> Králové</p> |
+| <p align="center">65'</p> | <p align="right">Dynamo CB <img src="/static/logos/SK Dynamo České Budějovice.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Hradec Králové.png" height="25px"> Králové</p> |
 </div>
 
 
@@ -469,7 +469,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Real Kashmir <img src="/static/logos/Real Kashmir FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Aizawl FC.png" height="25px"> Aizawl</p> |
-| <p align="center">81'</p> | <p align="right">Kenkre <img src="/static/logos/Kenkre FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/RoundGlass Punjab FC.png" height="25px"> Punjab FC</p> |
+| <p align="center">90' 1'</p> | <p align="right">Kenkre <img src="/static/logos/Kenkre FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/RoundGlass Punjab FC.png" height="25px"> Punjab FC</p> |
 </div>
 
 
@@ -503,10 +503,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">Pordenone <img src="/static/logos/Pordenone Calcio.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AC Renate.png" height="25px"> Renate</p> |
-| <p align="center">79'</p> | <p align="right">Giugliano <img src="/static/logos/SSC Giugliano.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/ACR Messina.png" height="25px"> Messina</p> |
-| <p align="center">86'</p> | <p align="right">Monterosi <img src="/static/logos/Monterosi Tuscia FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Delfino Pescara 1936.png" height="25px"> Pescara</p> |
-| <p align="center">86'</p> | <p align="right">Potenza <img src="/static/logos/SSD Potenza Calcio.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/US Avellino 1912.png" height="25px"> Avellino</p> |
+| <p align="center">90' 3'</p> | <p align="right">Pordenone <img src="/static/logos/Pordenone Calcio.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AC Renate.png" height="25px"> Renate</p> |
+| <p align="center">90'</p> | <p align="right">Giugliano <img src="/static/logos/SSC Giugliano.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/ACR Messina.png" height="25px"> Messina</p> |
+| <p align="center">FT</p> | <p align="right">Monterosi <img src="/static/logos/Monterosi Tuscia FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Delfino Pescara 1936.png" height="25px"> Pescara</p> |
+| <p align="center">FT</p> | <p align="right">Potenza <img src="/static/logos/SSD Potenza Calcio.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/US Avellino 1912.png" height="25px"> Avellino</p> |
 | <p align="center">17:00</p> | <p align="right">FeralpiSalò <img src="/static/logos/FeralpiSalò Srl.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Calcio Padova Spa.png" height="25px"> Calcio Padova</p> |
 | <p align="center">17:00</p> | <p align="right">Lecco <img src="/static/logos/Calcio Lecco 1912.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UC AlbinoLeffe.png" height="25px"> AlbinoLeffe</p> |
 | <p align="center">17:00</p> | <p align="right">Pergolettese <img src="/static/logos/US Pergolettese 1932.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Juventus Next Gen (Juventus FC II).png" height="25px"> Juventus II</p> |
@@ -540,16 +540,16 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Gombe Utd <img src="/static/logos/Gombe United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shooting Stars FC (3SC).png" height="25px"> Shooting Stars</p> |
-| <p align="center">15'</p> | <p align="right">Kwara Utd <img src="/static/logos/Kwara United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Akwa United FC.png" height="25px"> Akwa Utd</p> |
-| <p align="center">10'</p> | <p align="right">Nasarawa Utd <img src="/static/logos/Nasarawa United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Plateau United FC.png" height="25px"> Plateau Utd</p> |
-| <p align="center">12'</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Enyimba International FC.png" height="25px"> Enyimba</p> |
-| <p align="center">22'</p> | <p align="right">Warriors <img src="/static/logos/El Kanemi Warriors FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
-| <p align="center">11'</p> | <p align="right">Abia <img src="/static/logos/Abia Warriors FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Niger Tornadoes FC.png" height="25px"> Tornadoes</p> |
-| <p align="center">11'</p> | <p align="right">Bayelsa Utd <img src="/static/logos/Bayelsa United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Doma United FC.png" height="25px"> Doma United</p> |
-| <p align="center">3'</p> | <p align="right">Enugu <img src="/static/logos/Enugu Rangers International FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dakkada FC.png" height="25px"> Dakkada</p> |
-| <p align="center">14'</p> | <p align="right">Lobi Stars <img src="/static/logos/Lobi Stars FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunshine Stars FC.png" height="25px"> Sunshine</p> |
-| <p align="center">13'</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wikki Tourists FC.png" height="25px"> Wikki</p> |
+| <p align="center">24'</p> | <p align="right">Gombe Utd <img src="/static/logos/Gombe United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shooting Stars FC (3SC).png" height="25px"> Shooting Stars</p> |
+| <p align="center">26'</p> | <p align="right">Kwara Utd <img src="/static/logos/Kwara United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Akwa United FC.png" height="25px"> Akwa Utd</p> |
+| <p align="center">21'</p> | <p align="right">Nasarawa Utd <img src="/static/logos/Nasarawa United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Plateau United FC.png" height="25px"> Plateau Utd</p> |
+| <p align="center">23'</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Enyimba International FC.png" height="25px"> Enyimba</p> |
+| <p align="center">33'</p> | <p align="right">Warriors <img src="/static/logos/El Kanemi Warriors FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
+| <p align="center">22'</p> | <p align="right">Abia <img src="/static/logos/Abia Warriors FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Niger Tornadoes FC.png" height="25px"> Tornadoes</p> |
+| <p align="center">22'</p> | <p align="right">Bayelsa Utd <img src="/static/logos/Bayelsa United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Doma United FC.png" height="25px"> Doma United</p> |
+| <p align="center">14'</p> | <p align="right">Enugu <img src="/static/logos/Enugu Rangers International FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dakkada FC.png" height="25px"> Dakkada</p> |
+| <p align="center">25'</p> | <p align="right">Lobi Stars <img src="/static/logos/Lobi Stars FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunshine Stars FC.png" height="25px"> Sunshine</p> |
+| <p align="center">24'</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wikki Tourists FC.png" height="25px"> Wikki</p> |
 </div>
 
 
