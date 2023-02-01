@@ -448,7 +448,7 @@
           "startDate": "2023-01-31T23:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -475,7 +475,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,
@@ -571,7 +571,7 @@
           "startDate": "2023-01-31T23:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -599,7 +599,7 @@
           },
           "score": {
             "teamA": 4,
-            "teamB": 1
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -694,8 +694,8 @@
           "startDate": "2023-01-31T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -717,12 +717,12 @@
             "name": "Independente"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -741,8 +741,8 @@
           "startDate": "2023-01-31T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "1st Phase",
@@ -778,7 +778,7 @@
           "startDate": "2023-01-31T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -824,9 +824,9 @@
         {
           "startDate": "2023-01-31T23:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 63,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -871,9 +871,9 @@
         {
           "startDate": "2023-01-31T23:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -2679,7 +2679,7 @@
       },
       "matches": [
         {
-          "startDate": "2023-01-31T14:00:00Z",
+          "startDate": "2023-01-31T16:00:00Z",
           "period": null,
           "round": {
             "name": "Friendlies 1",
