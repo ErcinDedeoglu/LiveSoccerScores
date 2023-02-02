@@ -58,8 +58,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC Yucatán.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Raya2 Expansión.png" height="25px"> Raya2</p> |
-| <p align="center">03:05</p> | <p align="right">La Paz <img src="/static/logos/Club Atlético La Paz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"> Cimarrones</p> |
+| <p align="center">FT</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC Yucatán.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Raya2 Expansión.png" height="25px"> Raya2</p> |
+| <p align="center">3'</p> | <p align="right">La Paz <img src="/static/logos/Club Atlético La Paz.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"> Cimarrones</p> |
 | <p align="center">23:00</p> | <p align="right">Tepa <img src="/static/logos/Tepatitlán FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Morelia.png" height="25px"> Morelia</p> |
 </div>
 
@@ -71,7 +71,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Motagua <img src="/static/logos/CD Motagua.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Olancho FC.png" height="25px"> Olancho</p> |
-| <p align="center">71'</p> | <p align="right">Vida <img src="/static/logos/CDyS Vida.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CD Olimpia.png" height="25px"> Olimpia</p> |
+| <p align="center">81'</p> | <p align="right">Vida <img src="/static/logos/CDyS Vida.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CD Olimpia.png" height="25px"> Olimpia</p> |
 </div>
 
 
