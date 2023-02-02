@@ -52,7 +52,7 @@
           "startDate": "2023-02-02T02:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -239,7 +239,7 @@
           "startDate": "2023-02-02T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -346,7 +346,7 @@
           "startDate": "2023-02-02T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 70,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -382,9 +382,9 @@
         {
           "startDate": "2023-02-02T01:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 60,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -411,7 +411,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1519,7 +1519,7 @@
           "startDate": "2023-02-02T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -1546,7 +1546,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
