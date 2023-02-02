@@ -2294,7 +2294,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "CANCELLED",
+          "status": "RESULT",
           "teamA": {
             "code": "FAC",
             "short": "FAC",
@@ -2313,7 +2313,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         },
