@@ -403,16 +403,12 @@
       "matches": [
         {
           "startDate": "2023-02-03T08:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MVC",
             "short": "Mel Victory",
@@ -432,7 +428,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
@@ -722,16 +718,12 @@
       "matches": [
         {
           "startDate": "2023-02-03T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WOW",
             "short": "Wolves",
@@ -841,7 +833,7 @@
           "startDate": "2023-02-03T09:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -878,7 +870,7 @@
           "startDate": "2023-02-03T09:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -2534,7 +2526,7 @@
           "startDate": "2023-02-03T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -2561,8 +2553,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3911,7 +3903,7 @@
           "startDate": "2023-02-03T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -3948,7 +3940,7 @@
           "startDate": "2023-02-03T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 44,
             "extra": 0
           },
           "round": {
