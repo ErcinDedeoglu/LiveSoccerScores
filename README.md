@@ -190,8 +190,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Abahani Chitta <img src="/static/logos/Abahani Limited Chittagong.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fortis FC.png" height="25px"> Fortis</p> |
-| <p align="center">67'</p> | <p align="right">Mohammedan <img src="/static/logos/Mohammedan SC Dhaka.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bashundhara Kings.png" height="25px"> Kings</p> |
+| <p align="center">FT</p> | <p align="right">Abahani Chitta <img src="/static/logos/Abahani Limited Chittagong.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fortis FC.png" height="25px"> Fortis</p> |
+| <p align="center">FT</p> | <p align="right">Mohammedan <img src="/static/logos/Mohammedan SC Dhaka.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bashundhara Kings.png" height="25px"> Kings</p> |
 </div>
 
 
@@ -434,7 +434,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">TRAU <img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"> Mohammedan</p> |
+| <p align="center">26'</p> | <p align="right">TRAU <img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"> Mohammedan</p> |
 </div>
 
 
@@ -445,7 +445,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Persija <img src="/static/logos/Persatuan Sepak Bola Indonesia Jakarta.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/RANS Nusantara FC.png" height="25px"> RANS</p> |
-| <p align="center">88'</p> | <p align="right">Persebaya <img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
+| <p align="center">FT</p> | <p align="right">Persebaya <img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
 </div>
 
 
@@ -623,7 +623,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Port <img src="/static/logos/Port FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Police Tero FC.png" height="25px"> Police Tero</p> |
+| <p align="center">27'</p> | <p align="right">Port <img src="/static/logos/Port FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Police Tero FC.png" height="25px"> Police Tero</p> |
 </div>
 
 
@@ -633,7 +633,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Chiangmai <img src="/static/logos/Chiangmai FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Phrae United FC.png" height="25px"> Phrae</p> |
+| <p align="center">29'</p> | <p align="right">Chiangmai <img src="/static/logos/Chiangmai FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Phrae United FC.png" height="25px"> Phrae</p> |
 </div>
 
 
@@ -664,9 +664,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Nam Dinh <img src="/static/logos/Duoc Nam Ha Nam Dinh FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh</p> |
-| <p align="center">44'</p> | <p align="right">Sanna <img src="/static/logos/Sanna Khánh Hòa BVN FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Thanh Hóa.png" height="25px"> Thanh Hóa</p> |
-| <p align="center">11:00</p> | <p align="right">SLNA <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SHB Da Nang FC.png" height="25px"> Da Nang</p> |
+| <p align="center">70'</p> | <p align="right">Nam Dinh <img src="/static/logos/Duoc Nam Ha Nam Dinh FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh</p> |
+| <p align="center">66'</p> | <p align="right">Sanna <img src="/static/logos/Sanna Khánh Hòa BVN FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Thanh Hóa.png" height="25px"> Thanh Hóa</p> |
+| <p align="center">24'</p> | <p align="right">SLNA <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SHB Da Nang FC.png" height="25px"> Da Nang</p> |
 | <p align="center">12:15</p> | <p align="right">CAND <img src="/static/logos/Công An Hà Nội.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SQC Binh Dinh.png" height="25px"> Binh Dinh</p> |
 </div>
 
