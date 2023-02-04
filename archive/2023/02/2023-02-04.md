@@ -46,7 +46,7 @@
 | <p align="center">FT</p> | <p align="right">Espanyol <img src="/static/logos/Reial Club Deportiu Espanyol.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Osasuna.png" height="25px"> Osasuna</p> |
 | <p align="center">FT</p> | <p align="right">Elche <img src="/static/logos/Elche CF.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Villarreal CF.png" height="25px"> Villarreal</p> |
 | <p align="center">FT</p> | <p align="right">Atlético <img src="/static/logos/Club Atlético de Madrid.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Getafe CF.png" height="25px"> Getafe</p> |
-| <p align="center">86'</p> | <p align="right">Betis <img src="/static/logos/Real Betis Balompié.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/Real Club Celta de Vigo.png" height="25px"> Celta Vigo</p> |
+| <p align="center">90' 11'</p> | <p align="right">Betis <img src="/static/logos/Real Betis Balompié.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/Real Club Celta de Vigo.png" height="25px"> Celta Vigo</p> |
 </div>
 
 
@@ -70,7 +70,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">PSG <img src="/static/logos/Paris Saint-Germain FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Toulouse FC.png" height="25px"> Toulouse</p> |
 | <p align="center">FT</p> | <p align="right">Troyes <img src="/static/logos/Espérance Sportive Troyes Aube Champagne.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Olympique Lyonnais.png" height="25px"> Lyon</p> |
-| <p align="center">88'</p> | <p align="right">Rennes <img src="/static/logos/Stade Rennais FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Lille OSC Métropole.png" height="25px"> Lille</p> |
+| <p align="center">FT</p> | <p align="right">Rennes <img src="/static/logos/Stade Rennais FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Lille OSC Métropole.png" height="25px"> Lille</p> |
 </div>
 
 
@@ -110,7 +110,7 @@
 | <p align="center">FT</p> | <p align="right">Volendam <img src="/static/logos/FC Volendam.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Alkmaar Zaanstreek.png" height="25px"> AZ</p> |
 | <p align="center">FT</p> | <p align="right">Emmen <img src="/static/logos/FC Emmen.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/SBV Vitesse.png" height="25px"> Vitesse</p> |
 | <p align="center">FT</p> | <p align="right">Utrecht <img src="/static/logos/FC Utrecht.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SC Heerenveen.png" height="25px"> Heerenveen</p> |
-| <p align="center">88'</p> | <p align="right">Excelsior <img src="/static/logos/SBV Excelsior.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/RKC Waalwijk.png" height="25px"> Waalwijk</p> |
+| <p align="center">FT</p> | <p align="right">Excelsior <img src="/static/logos/SBV Excelsior.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/RKC Waalwijk.png" height="25px"> Waalwijk</p> |
 </div>
 
 
@@ -136,7 +136,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Santa Clara <img src="/static/logos/CD Santa Clara.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Boavista FC.png" height="25px"> Boavista</p> |
 | <p align="center">FT</p> | <p align="right">Benfica <img src="/static/logos/SL Benfica.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Casa Pia AC.png" height="25px"> Casa Pia</p> |
-| <p align="center">57'</p> | <p align="right">Estoril <img src="/static/logos/GD Estoril Praia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Vitória SC Guimarães.png" height="25px"> Guimarães</p> |
+| <p align="center">72'</p> | <p align="right">Estoril <img src="/static/logos/GD Estoril Praia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Vitória SC Guimarães.png" height="25px"> Guimarães</p> |
 </div>
 
 
@@ -146,8 +146,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal de Sarandí.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"> Estudiantes</p> |
-| <p align="center">84'</p> | <p align="right">Sarmiento <img src="/static/logos/CA Sarmiento.png" height="25px"></p> | <p align="center">3 - 5</p> | <p align="left"><img src="/static/logos/CA Barracas Central.png" height="25px"> Barracas C</p> |
+| <p align="center">FT</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal de Sarandí.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"> Estudiantes</p> |
+| <p align="center">FT</p> | <p align="right">Sarmiento <img src="/static/logos/CA Sarmiento.png" height="25px"></p> | <p align="center">3 - 5</p> | <p align="left"><img src="/static/logos/CA Barracas Central.png" height="25px"> Barracas C</p> |
 | <p align="center">22:15</p> | <p align="right">Belgrano <img src="/static/logos/CA Belgrano de Córdoba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA River Plate.png" height="25px"> River Plate</p> |
 </div>
 
@@ -177,7 +177,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">Medellín <img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Independiente Santa Fe SA.png" height="25px"> Santa Fe</p> |
+| <p align="center">64'</p> | <p align="right">Medellín <img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Independiente Santa Fe SA.png" height="25px"> Santa Fe</p> |
 | <p align="center">22:45</p> | <p align="right">Jaguares <img src="/static/logos/Jaguares de Córdoba FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Atl. Nacional</p> |
 </div>
 
@@ -189,7 +189,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Curicó Unido <img src="/static/logos/CD Provincial Curicó Unido.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Audax Italiano La Florida SADP.png" height="25px"> Audax</p> |
-| <p align="center">45'</p> | <p align="right">Magallanes <img src="/static/logos/Club Deportivo Magallanes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
+| <p align="center">HT</p> | <p align="right">Magallanes <img src="/static/logos/Club Deportivo Magallanes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
 | <p align="center">23:30</p> | <p align="right">Unión Española <img src="/static/logos/Unión Española.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Everton de Viña del Mar.png" height="25px"> Everton</p> |
 </div>
 
@@ -248,7 +248,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">106'</p> | <p align="right">Algeria <img src="/static/logos/Algeria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Senegal.png" height="25px"> Senegal</p> |
+| <p align="center">120'</p> | <p align="right">Algeria <img src="/static/logos/Algeria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Senegal.png" height="25px"> Senegal</p> |
 </div>
 
 
@@ -260,8 +260,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Morón <img src="/static/logos/CD Morón.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Almagro.png" height="25px"> Almagro</p> |
 | <p align="center">FT</p> | <p align="right">Estudiantes RC <img src="/static/logos/AA Estudiantes de Río Cuarto.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA San Martín de Tucumán.png" height="25px"> SM Tucumán</p> |
-| <p align="center">81'</p> | <p align="right">All Boys <img src="/static/logos/CA All Boys.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Nueva Chicago.png" height="25px"> Nueva Chicago</p> |
-| <p align="center">84'</p> | <p align="right">Patronato <img src="/static/logos/CA Patronato de la Juventud Católica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Social y Atlético Guillermo Brown de Puerto Madryn.png" height="25px"> Guillermo Br</p> |
+| <p align="center">90' 5'</p> | <p align="right">All Boys <img src="/static/logos/CA All Boys.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Nueva Chicago.png" height="25px"> Nueva Chicago</p> |
+| <p align="center">FT</p> | <p align="right">Patronato <img src="/static/logos/CA Patronato de la Juventud Católica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Social y Atlético Guillermo Brown de Puerto Madryn.png" height="25px"> Guillermo Br</p> |
 | <p align="center">23:45</p> | <p align="right">Alvarado <img src="/static/logos/Club Atlético Alvarado Mar del Plata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA San Martín de San Juan.png" height="25px"> San Martín SJ</p> |
 </div>
 
@@ -329,7 +329,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Libertad <img src="/static/logos/Libertad Gran Mamoré FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Club Vaca Díez de Pando.png" height="25px"> Vaca Díez</p> |
-| <p align="center">10'</p> | <p align="right">The Strongest <img src="/static/logos/Club The Strongest.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Universitario de Vinto.png" height="25px"> Uni de Vinto</p> |
+| <p align="center">25'</p> | <p align="right">The Strongest <img src="/static/logos/Club The Strongest.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Universitario de Vinto.png" height="25px"> Uni de Vinto</p> |
 </div>
 
 
@@ -342,7 +342,7 @@
 | <p align="center">FT</p> | <p align="right">São Bento <img src="/static/logos/EC São Bento.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mirassol Futebol Clube.png" height="25px"> Mirassol</p> |
 | <p align="center">FT</p> | <p align="right">Ferroviária <img src="/static/logos/Associação Ferroviária de Esportes.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/São Bernardo FC.png" height="25px"> São Bernardo</p> |
 | <p align="center">FT</p> | <p align="right">Guarani <img src="/static/logos/Guarani FC de Campinas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> RB Bragantino</p> |
-| <p align="center">13'</p> | <p align="right">Palmeiras <img src="/static/logos/SE Palmeiras.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Santos FC Sao Paulo.png" height="25px"> Santos</p> |
+| <p align="center">28'</p> | <p align="right">Palmeiras <img src="/static/logos/SE Palmeiras.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Santos FC Sao Paulo.png" height="25px"> Santos</p> |
 </div>
 
 
@@ -364,7 +364,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Democrata SL <img src="/static/logos/Democrata FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Villa Nova AC.png" height="25px"> Villa Nova</p> |
 | <p align="center">FT</p> | <p align="right">América MG <img src="/static/logos/América FC (Minas Gerais).png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Cruzeiro EC.png" height="25px"> Cruzeiro</p> |
-| <p align="center">76'</p> | <p align="right">Pouso Alegre <img src="/static/logos/Pouso Alegre FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/CA Patrocinense.png" height="25px"> CAP</p> |
+| <p align="center">90' 1'</p> | <p align="right">Pouso Alegre <img src="/static/logos/Pouso Alegre FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/CA Patrocinense.png" height="25px"> CAP</p> |
 | <p align="center">22:00</p> | <p align="right">Ipatinga <img src="/static/logos/Ipatinga Futebol Clube.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Clube Atlético Mineiro.png" height="25px"> Atl. Mineiro</p> |
 | <p align="center">22:00</p> | <p align="right">Tombense <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AA Caldense.png" height="25px"> Caldense</p> |
 </div>
@@ -376,8 +376,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Aruko <img src="/static/logos/Aruko Sports Brasil.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Maringá FC.png" height="25px"> Maringá</p> |
-| <p align="center">15'</p> | <p align="right">Cascavel <img src="/static/logos/FC Cascavel.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Operário Ferroviário EC.png" height="25px"> Operário</p> |
+| <p align="center">29'</p> | <p align="right">Aruko <img src="/static/logos/Aruko Sports Brasil.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Maringá FC.png" height="25px"> Maringá</p> |
+| <p align="center">30'</p> | <p align="right">Cascavel <img src="/static/logos/FC Cascavel.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Operário Ferroviário EC.png" height="25px"> Operário</p> |
 </div>
 
 
@@ -398,7 +398,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14'</p> | <p align="right">Pacajus <img src="/static/logos/Pacajus Esporte Clube.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Barbalha FC.png" height="25px"> Barbalha</p> |
+| <p align="center">29'</p> | <p align="right">Pacajus <img src="/static/logos/Pacajus Esporte Clube.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Barbalha FC.png" height="25px"> Barbalha</p> |
 </div>
 
 
@@ -461,7 +461,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">Pinheiro <img src="/static/logos/Pinheiro Atlético Clube.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Cordino EC.png" height="25px"> Cordino</p> |
+| <p align="center">FT</p> | <p align="right">Pinheiro <img src="/static/logos/Pinheiro Atlético Clube.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Cordino EC.png" height="25px"> Cordino</p> |
 </div>
 
 
@@ -496,8 +496,8 @@
 | <p align="center">FT</p> | <p align="right">Primavera <img src="/static/logos/EC Primavera.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Rio Claro FC.png" height="25px"> Rio Claro</p> |
 | <p align="center">FT</p> | <p align="right">São Caetano <img src="/static/logos/AD São Caetano.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Atlético Monte Azul.png" height="25px"> Monte Azul</p> |
 | <p align="center">FT</p> | <p align="right">Comercial <img src="/static/logos/Comercial FC (Ribeirão Preto).png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/EC Taubaté.png" height="25px"> Taubaté</p> |
-| <p align="center">83'</p> | <p align="right">Lemense <img src="/static/logos/EC Lemense.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/AA Portuguesa Santista.png" height="25px"> Portuguesa</p> |
-| <p align="center">45'</p> | <p align="right">Linense <img src="/static/logos/CA Linense.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Esporte Clube Noroeste.png" height="25px"> Noroeste</p> |
+| <p align="center">FT</p> | <p align="right">Lemense <img src="/static/logos/EC Lemense.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/AA Portuguesa Santista.png" height="25px"> Portuguesa</p> |
+| <p align="center">HT</p> | <p align="right">Linense <img src="/static/logos/CA Linense.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Esporte Clube Noroeste.png" height="25px"> Noroeste</p> |
 | <p align="center">22:30</p> | <p align="right">Velo <img src="/static/logos/AE Velo Clube Rioclarense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oeste FC.png" height="25px"> Oeste</p> |
 </div>
 
@@ -514,7 +514,7 @@
 | <p align="center">FT</p> | <p align="right">Osasco Audax <img src="/static/logos/Grêmio Osasco Audax EC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SE Matonense.png" height="25px"> Matonense</p> |
 | <p align="center">FT</p> | <p align="right">RB Brasil <img src="/static/logos/Red Bull Brasil.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Marilia Atletico Clube.png" height="25px"> Marília</p> |
 | <p align="center">FT</p> | <p align="right">São José <img src="/static/logos/São José EC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/União Suzano AC.png" height="25px"> USAC</p> |
-| <p align="center">44'</p> | <p align="right">Sertãozinho <img src="/static/logos/Sertãozinho FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Barretos EC.png" height="25px"> Barretos</p> |
+| <p align="center">HT</p> | <p align="right">Sertãozinho <img src="/static/logos/Sertãozinho FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Barretos EC.png" height="25px"> Barretos</p> |
 </div>
 
 
@@ -524,9 +524,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">Ceará <img src="/static/logos/Ceará SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sampaio Corrêa FC.png" height="25px"> Sampaio Corrêa</p> |
-| <p align="center">51'</p> | <p align="right">Náutico <img src="/static/logos/Clube Náutico Capibaribe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Clube de Regatas Brasil.png" height="25px"> CRB</p> |
-| <p align="center">15'</p> | <p align="right">ABC <img src="/static/logos/ABC FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
+| <p align="center">70'</p> | <p align="right">Ceará <img src="/static/logos/Ceará SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sampaio Corrêa FC.png" height="25px"> Sampaio Corrêa</p> |
+| <p align="center">66'</p> | <p align="right">Náutico <img src="/static/logos/Clube Náutico Capibaribe.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Clube de Regatas Brasil.png" height="25px"> CRB</p> |
+| <p align="center">30'</p> | <p align="right">ABC <img src="/static/logos/ABC FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
 | <p align="center">23:30</p> | <p align="right">Bahia <img src="/static/logos/EC Bahia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ferroviário AC Fortaleza.png" height="25px"> Ferroviário</p> |
 </div>
 
@@ -537,9 +537,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Atlético <img src="/static/logos/Atlético FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Real Santander.png" height="25px"> Real Santander</p> |
-| <p align="center">43'</p> | <p align="right">Cortuluá <img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Valledupar FC Real.png" height="25px"> Valledupar</p> |
-| <p align="center">41'</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
+| <p align="center">HT</p> | <p align="right">Atlético <img src="/static/logos/Atlético FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Real Santander.png" height="25px"> Real Santander</p> |
+| <p align="center">HT</p> | <p align="right">Cortuluá <img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Valledupar FC Real.png" height="25px"> Valledupar</p> |
+| <p align="center">HT</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
 </div>
 
 
@@ -605,7 +605,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">Jocoro <img src="/static/logos/Jocoro FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"> Firpo</p> |
+| <p align="center">27'</p> | <p align="right">Jocoro <img src="/static/logos/Jocoro FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"> Firpo</p> |
 </div>
 
 
@@ -842,7 +842,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Municipal <img src="/static/logos/CSD Municipal.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CSyD Mixco.png" height="25px"> Mixco</p> |
+| <p align="center">HT</p> | <p align="right">Municipal <img src="/static/logos/CSD Municipal.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CSyD Mixco.png" height="25px"> Mixco</p> |
 </div>
 
 
@@ -1012,7 +1012,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Trinidense <img src="/static/logos/Club Sportivo Trinidense.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Cerro Porteño.png" height="25px"> Cerro Porteño</p> |
+| <p align="center">HT</p> | <p align="right">Trinidense <img src="/static/logos/Club Sportivo Trinidense.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Cerro Porteño.png" height="25px"> Cerro Porteño</p> |
 | <p align="center">23:30</p> | <p align="right">Resistencia <img src="/static/logos/Resistencia SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Libertad.png" height="25px"> Libertad</p> |
 </div>
 
@@ -1024,7 +1024,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Grau <img src="/static/logos/Club Atlético Grau.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/FBC Melgar.png" height="25px"> Melgar</p> |
-| <p align="center">56'</p> | <p align="right">Universitario <img src="/static/logos/Club Universitario de Deportes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Academia Deportiva Cantolao.png" height="25px"> Acad. Cantolao</p> |
+| <p align="center">71'</p> | <p align="right">Universitario <img src="/static/logos/Club Universitario de Deportes.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Academia Deportiva Cantolao.png" height="25px"> Acad. Cantolao</p> |
 | <p align="center">FT</p> | <p align="right">UTC Cajamarca <img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Club Cienciano.png" height="25px"> Cienciano</p> |
 </div>
 
@@ -1209,7 +1209,7 @@
 | <p align="center">FT</p> | <p align="right">Huesca <img src="/static/logos/SD Huesca.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Mirandés.png" height="25px"> Mirandés</p> |
 | <p align="center">FT</p> | <p align="right">Leganés <img src="/static/logos/CD Leganés.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Real Sporting de Gijón.png" height="25px"> Gijón</p> |
 | <p align="center">FT</p> | <p align="right">Tenerife <img src="/static/logos/CD Tenerife.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Albacete Balompié.png" height="25px"> Albacete</p> |
-| <p align="center">87'</p> | <p align="right">Alavés <img src="/static/logos/Deportivo Alavés.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SD Eibar.png" height="25px"> Eibar</p> |
+| <p align="center">FT</p> | <p align="right">Alavés <img src="/static/logos/Deportivo Alavés.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SD Eibar.png" height="25px"> Eibar</p> |
 </div>
 
 
@@ -1332,7 +1332,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Racing <img src="/static/logos/Racing Club de Montevideo.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CA Boston River.png" height="25px"> Boston River</p> |
-| <p align="center">83'</p> | <p align="right">Peñarol <img src="/static/logos/CA Peñarol.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Cerro.png" height="25px"> Cerro</p> |
+| <p align="center">FT</p> | <p align="right">Peñarol <img src="/static/logos/CA Peñarol.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Cerro.png" height="25px"> Cerro</p> |
 | <p align="center">22:30</p> | <p align="right">Cerro Largo <img src="/static/logos/Cerro Largo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA River Plate.png" height="25px"> River Plate</p> |
 </div>
 
@@ -1343,7 +1343,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Angostura <img src="/static/logos/Angostura FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/AC Mineros de Guayana.png" height="25px"> Mineros</p> |
+| <p align="center">HT</p> | <p align="right">Angostura <img src="/static/logos/Angostura FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/AC Mineros de Guayana.png" height="25px"> Mineros</p> |
 | <p align="center">23:30</p> | <p align="right">Dep. La Guaira <img src="/static/logos/Deportivo La Guaira.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monagas SC.png" height="25px"> Monagas</p> |
 </div>
 
