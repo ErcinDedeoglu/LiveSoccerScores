@@ -283,9 +283,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City</p> |
-| <p align="center">53'</p> | <p align="right">Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Wanderers</p> |
-| <p align="center">54'</p> | <p align="right">Western United <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth Glory</p> |
+| <p align="center">FT</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City</p> |
+| <p align="center">78'</p> | <p align="right">Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Wanderers</p> |
+| <p align="center">79'</p> | <p align="right">Western United <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth Glory</p> |
 </div>
 
 

@@ -2575,16 +2575,12 @@
       "matches": [
         {
           "startDate": "2023-02-04T03:20:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SYD",
             "short": "Sydney",
@@ -2614,7 +2610,7 @@
           "startDate": "2023-02-04T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -2651,7 +2647,7 @@
           "startDate": "2023-02-04T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -2679,7 +2675,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null

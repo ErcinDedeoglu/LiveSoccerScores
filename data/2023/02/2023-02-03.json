@@ -3270,7 +3270,7 @@
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "CUS",
             "short": "Cusco",
@@ -4378,49 +4378,6 @@
             "teamB": 0
           },
           "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Friendlies Women",
-        "area": {
-          "name": "World"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-02-03T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Friendlies 1",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "CHI",
-            "short": "Chile",
-            "long": "Chile",
-            "full": "Chile",
-            "name": "Chile"
-          },
-          "teamB": {
-            "code": "PAN",
-            "short": "Panama",
-            "long": "Panama",
-            "full": "Panama",
-            "name": "Panama"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 3
-          },
           "agg": null,
           "penalty": null
         }
