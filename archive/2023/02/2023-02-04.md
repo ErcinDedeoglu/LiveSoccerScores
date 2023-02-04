@@ -96,7 +96,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Necaxa <img src="/static/logos/Club Necaxa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"> Tijuana</p> |
-| <p align="center">45'</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Juárez.png" height="25px"> Juárez</p> |
+| <p align="center">FT</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/FC Juárez.png" height="25px"> Juárez</p> |
 | <p align="center">23:00</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Pachuca.png" height="25px"> Pachuca</p> |
 </div>
 
@@ -283,9 +283,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City</p> |
-| <p align="center">04:00</p> | <p align="right">Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Wanderers</p> |
-| <p align="center">04:00</p> | <p align="right">Western United <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth Glory</p> |
+| <p align="center">90' 6'</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City</p> |
+| <p align="center">53'</p> | <p align="right">Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Wanderers</p> |
+| <p align="center">54'</p> | <p align="right">Western United <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth Glory</p> |
 </div>
 
 
@@ -559,7 +559,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/LD Alajuelense.png" height="25px"> Alajuelense</p> |
+| <p align="center">FT</p> | <p align="right">Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/LD Alajuelense.png" height="25px"> Alajuelense</p> |
 | <p align="center">23:00</p> | <p align="right">Pérez Zeledón <img src="/static/logos/Municipal de Pérez Zeledón.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD Guanacasteca.png" height="25px"> Guanacasteca</p> |
 </div>
 
