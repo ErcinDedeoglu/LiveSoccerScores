@@ -8090,6 +8090,46 @@
     },
     {
       "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-02-04T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "S\u00FCd / S\u00FCdwest",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "HEI",
+            "short": "Heidenheim",
+            "long": "Heidenheim U19",
+            "full": "1. FC Heidenheim 1846 Under 19",
+            "name": "Heidenheim"
+          },
+          "teamB": {
+            "code": "BAY",
+            "short": "Bayern",
+            "long": "Bayern M\u00FCnchen U19",
+            "full": "FC Bayern M\u00FCnchen Under 19",
+            "name": "Bayern"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Frauen Bundesliga",
         "area": {
           "name": "Germany"
