@@ -122,7 +122,7 @@
           "startDate": "2023-02-06T01:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -416,16 +416,12 @@
       "matches": [
         {
           "startDate": "2023-02-06T00:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAG",
             "short": "Magdalena",
