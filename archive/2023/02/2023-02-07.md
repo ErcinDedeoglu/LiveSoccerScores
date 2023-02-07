@@ -272,7 +272,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">48'</p> | <p align="right">TRAU <img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sreenidi Deccan FC.png" height="25px"> Sreenidi</p> |
+| <p align="center">FT</p> | <p align="right">TRAU <img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sreenidi Deccan FC.png" height="25px"> Sreenidi</p> |
 | <p align="center">11:00</p> | <p align="right">Mohammedan <img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Churchill Brothers FC Goa.png" height="25px"> Churchill</p> |
 </div>
 
@@ -284,7 +284,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Persita <img src="/static/logos/Persatuan Sepak Bola Indonesia Tangerang.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Jakarta.png" height="25px"> Persija</p> |
-| <p align="center">10:00</p> | <p align="right">Bhayangkara <img src="/static/logos/Bhayangkara FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
+| <p align="center">45'</p> | <p align="right">Bhayangkara <img src="/static/logos/Bhayangkara FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
 </div>
 
 
@@ -371,7 +371,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:45</p> | <p align="right">Glasgow Women <img src="/static/logos/Glasgow Girls & Women FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Motherwell FC Women.png" height="25px"> Motherwell</p> |
+| <p align="center">20:00</p> | <p align="right">Glasgow Women <img src="/static/logos/Glasgow Girls & Women FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Motherwell FC Women.png" height="25px"> Motherwell</p> |
 </div>
 
 
