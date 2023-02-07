@@ -333,16 +333,6 @@
 </div>
 
 
-## <img src="/static/logos/Republic of Ireland-Munster Senior League.png" height="25px"> Republic of Ireland - Munster Senior League
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:45</p> | <p align="right">Rockmount <img src="/static/logos/Rockmount AFC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Castleview AFC.png" height="25px"> Castleview</p> |
-</div>
-
-
 ## <img src="/static/logos/Scotland-League One.png" height="25px"> Scotland - League One
 
 <div align="center">
@@ -412,7 +402,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">Colombia <img src="/static/logos/Colombia Youth.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ecuador Under 20.png" height="25px"> Ecuador</p> |
+| <p align="center">FT</p> | <p align="right">Colombia <img src="/static/logos/Colombia Youth.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ecuador Under 20.png" height="25px"> Ecuador</p> |
 </div>
 
 

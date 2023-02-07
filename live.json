@@ -1895,46 +1895,6 @@
     },
     {
       "competition": {
-        "name": "Munster Senior League",
-        "area": {
-          "name": "Republic of Ireland"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-02-07T19:45:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ROC",
-            "short": "Rockmount",
-            "long": "Rockmount",
-            "full": "Rockmount AFC",
-            "name": "Rockmount"
-          },
-          "teamB": {
-            "code": "CAV",
-            "short": "Castleview",
-            "long": "Castleview",
-            "full": "Castleview AFC",
-            "name": "Castleview"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "League One",
         "area": {
           "name": "Scotland"
@@ -2273,16 +2233,12 @@
       "matches": [
         {
           "startDate": "2023-02-07T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Final Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COL",
             "short": "Colombia",
