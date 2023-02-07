@@ -1339,46 +1339,6 @@
     },
     {
       "competition": {
-        "name": "Ligat Ha\u0027al",
-        "area": {
-          "name": "Israel"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-02-06T18:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "HAD",
-            "short": "Hapoel Hadera",
-            "long": "Hapoel Hadera",
-            "full": "Hapoel Hadera Shulam Shwartz FC",
-            "name": "Hapoel Hadera"
-          },
-          "teamB": {
-            "code": "MHA",
-            "short": "M Haifa",
-            "long": "Maccabi Haifa",
-            "full": "Maccabi Haifa FC",
-            "name": "M Haifa"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Serie C",
         "area": {
           "name": "Italy"
