@@ -508,36 +508,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-02-06T22:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "COL",
-            "short": "Colo Colo",
-            "long": "Colo Colo",
-            "full": "CSD Colo-Colo",
-            "name": "Colo Colo"
-          },
-          "teamB": {
-            "code": "NUB",
-            "short": "\u00D1ublense",
-            "long": "\u00D1ublense",
-            "full": "Deportivo \u00D1ublense SADP",
-            "name": "\u00D1ublense"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-02-06T23:00:00Z",
           "period": null,
           "round": {
