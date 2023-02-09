@@ -1270,7 +1270,7 @@
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "POSTPONED",
           "teamA": {
             "code": "LAM",
             "short": "Lamia",
@@ -1450,7 +1450,7 @@
           "startDate": "2023-02-09T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -1477,8 +1477,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1993,7 +1993,7 @@
           "startDate": "2023-02-09T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -2030,7 +2030,7 @@
           "startDate": "2023-02-09T12:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 27,
             "extra": 0
           },
           "round": {
