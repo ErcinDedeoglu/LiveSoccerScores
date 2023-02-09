@@ -1448,12 +1448,16 @@
         },
         {
           "startDate": "2023-02-09T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GOK",
             "short": "Gokulam Kerala",
@@ -1472,7 +1476,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1522,8 +1529,8 @@
         {
           "startDate": "2023-02-09T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
+            "type": "SECOND_HALF",
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -1550,7 +1557,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1988,12 +1995,16 @@
       "matches": [
         {
           "startDate": "2023-02-09T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 12,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "H3T",
             "short": "H\u1ED3ng L\u0129nh",
@@ -2012,7 +2023,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
