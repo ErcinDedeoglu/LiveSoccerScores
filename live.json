@@ -12,7 +12,7 @@
           "startDate": "2023-02-09T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -36,7 +36,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 0,
@@ -922,7 +922,7 @@
           "startDate": "2023-02-09T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -1131,7 +1131,7 @@
           "startDate": "2023-02-09T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -1159,7 +1159,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -1168,7 +1168,7 @@
           "startDate": "2023-02-09T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -1326,12 +1326,16 @@
         },
         {
           "startDate": "2023-02-09T18:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "AEK",
             "short": "AEK",
@@ -1350,7 +1354,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1368,7 +1375,7 @@
           "startDate": "2023-02-09T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -1686,9 +1693,9 @@
         {
           "startDate": "2023-02-09T17:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Quarter-finals",
@@ -1715,7 +1722,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1795,16 +1802,12 @@
         },
         {
           "startDate": "2023-02-09T16:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DUH",
             "short": "Al Duhail",
@@ -1909,9 +1912,9 @@
         {
           "startDate": "2023-02-09T17:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1938,7 +1941,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
