@@ -207,7 +207,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">Eastern Sub <img src="/static/logos/Eastern Suburbs FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
+| <p align="center">FT</p> | <p align="right">Eastern Sub <img src="/static/logos/Eastern Suburbs FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
 </div>
 
 
@@ -361,7 +361,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">Southampton <img src="/static/logos/Southampton FC Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunderland Under 21.png" height="25px"> Sunderland</p> |
+| <p align="center">HT</p> | <p align="right">Southampton <img src="/static/logos/Southampton FC Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunderland Under 21.png" height="25px"> Sunderland</p> |
 | <p align="center">19:00</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa FC Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stoke City Under 21.png" height="25px"> Stoke</p> |
 | <p align="center">19:00</p> | <p align="right">Middlesbrough <img src="/static/logos/Middlesbrough Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Bromwich Albion Under 21.png" height="25px"> WBA</p> |
 </div>
@@ -486,7 +486,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">TRAU <img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Churchill Brothers FC Goa.png" height="25px"> Churchill</p> |
+| <p align="center">FT</p> | <p align="right">TRAU <img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Churchill Brothers FC Goa.png" height="25px"> Churchill</p> |
 </div>
 
 
@@ -620,9 +620,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Damak <img src="/static/logos/Damak Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Feiha.png" height="25px"> Feiha</p> |
-| <p align="center">13:00</p> | <p align="right">Raed <img src="/static/logos/Al Raed Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Abha Club.png" height="25px"> Abha</p> |
-| <p align="center">13:00</p> | <p align="right">Tai <img src="/static/logos/Al Tai.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ittifaq FC.png" height="25px"> Ittifaq</p> |
+| <p align="center">2'</p> | <p align="right">Damak <img src="/static/logos/Damak Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Feiha.png" height="25px"> Feiha</p> |
+| <p align="center">1'</p> | <p align="right">Raed <img src="/static/logos/Al Raed Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Abha Club.png" height="25px"> Abha</p> |
+| <p align="center">2'</p> | <p align="right">Tai <img src="/static/logos/Al Tai.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ittifaq FC.png" height="25px"> Ittifaq</p> |
 | <p align="center">17:30</p> | <p align="right">Ittihad <img src="/static/logos/Al Ittihad FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Adalah Club.png" height="25px"> Adalah</p> |
 </div>
 
@@ -664,7 +664,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Spurs <img src="/static/logos/Cape Town Spurs FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Baroka FC.png" height="25px"> Baroka</p> |
+| <p align="center">1'</p> | <p align="right">Spurs <img src="/static/logos/Cape Town Spurs FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Baroka FC.png" height="25px"> Baroka</p> |
 | <p align="center">17:30</p> | <p align="right">Maritzburg Utd <img src="/static/logos/Maritzburg United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kaizer Chiefs FC.png" height="25px"> Kaizer Chiefs</p> |
 </div>
 
