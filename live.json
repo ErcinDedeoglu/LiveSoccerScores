@@ -497,7 +497,7 @@
           "startDate": "2023-02-10T08:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -525,7 +525,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1127,7 +1127,7 @@
           "startDate": "2023-02-10T08:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -1164,7 +1164,7 @@
           "startDate": "2023-02-10T08:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -2490,7 +2490,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "POSTPONED",
           "teamA": {
             "code": "TUR",
             "short": "Turbine",
