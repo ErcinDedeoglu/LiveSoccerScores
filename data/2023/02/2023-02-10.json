@@ -497,7 +497,7 @@
           "startDate": "2023-02-10T08:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -1125,16 +1125,12 @@
       "matches": [
         {
           "startDate": "2023-02-10T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SUT",
             "short": "Sydney Utd",
@@ -1162,16 +1158,12 @@
         },
         {
           "startDate": "2023-02-10T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WSW",
             "short": "Western Sydney",
@@ -1251,7 +1243,7 @@
           "startDate": "2023-02-10T09:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -1288,7 +1280,7 @@
           "startDate": "2023-02-10T09:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -2771,7 +2763,7 @@
           "startDate": "2023-02-10T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 30,
             "extra": 0
           },
           "round": {
