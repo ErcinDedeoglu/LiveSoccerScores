@@ -170,16 +170,12 @@
       "matches": [
         {
           "startDate": "2023-02-10T01:05:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "QUE",
             "short": "Quer\u00E9taro",
@@ -200,7 +196,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -212,7 +208,7 @@
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATS",
             "short": "Atlas",
@@ -231,7 +227,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         }
@@ -453,16 +452,12 @@
       "matches": [
         {
           "startDate": "2023-02-10T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AUD",
             "short": "Audax",
@@ -640,16 +635,12 @@
       "matches": [
         {
           "startDate": "2023-02-10T01:05:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAM",
             "short": "Morelia",
@@ -669,7 +660,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1095,10 +1086,10 @@
           "status": "FIXTURE",
           "teamA": {
             "code": "SUB",
-            "short": "Eastern Sub.",
-            "long": "Eastern Suburbs NPL",
-            "full": "Eastern Suburbs FC NPL",
-            "name": "Eastern Sub."
+            "short": "Eastern Sub",
+            "long": "Eastern Suburbs",
+            "full": "Eastern Suburbs FC",
+            "name": "Eastern Sub"
           },
           "teamB": {
             "code": "BRO",
@@ -1347,16 +1338,12 @@
       "matches": [
         {
           "startDate": "2023-02-10T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SBR",
             "short": "S\u00E3o Bernardo",
@@ -1584,16 +1571,12 @@
       "matches": [
         {
           "startDate": "2023-02-10T02:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 9,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAN",
             "short": "San Carlos",
@@ -3961,16 +3944,12 @@
       "matches": [
         {
           "startDate": "2023-02-10T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 54,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Final Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COL",
             "short": "Colombia",
@@ -3986,7 +3965,7 @@
             "name": "Brazil"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
