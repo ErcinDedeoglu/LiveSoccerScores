@@ -127,7 +127,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">33'</p> | <p align="right">Brisbane <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC.png" height="25px"> Central Coast</p> |
+| <p align="center">42'</p> | <p align="right">Brisbane <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC.png" height="25px"> Central Coast</p> |
 </div>
 
 
@@ -217,8 +217,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Sydney Utd <img src="/static/logos/Sydney United 58 FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mount Druitt Town Rangers.png" height="25px"> Mt Druitt Town</p> |
-| <p align="center">41'</p> | <p align="right">Western Sydney <img src="/static/logos/Western Sydney Wanderers FC Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blacktown City FC.png" height="25px"> Blacktown City</p> |
+| <p align="center">HT</p> | <p align="right">Sydney Utd <img src="/static/logos/Sydney United 58 FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mount Druitt Town Rangers.png" height="25px"> Mt Druitt Town</p> |
+| <p align="center">HT</p> | <p align="right">Western Sydney <img src="/static/logos/Western Sydney Wanderers FC Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blacktown City FC.png" height="25px"> Blacktown City</p> |
 </div>
 
 
@@ -238,8 +238,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">Uttara <img src="/static/logos/Azampur Football Club Uttara.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mohammedan SC Dhaka.png" height="25px"> Mohammedan</p> |
-| <p align="center">2'</p> | <p align="right">Fortis <img src="/static/logos/Fortis FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sheikh Russel Krira Chakra.png" height="25px"> Russel</p> |
+| <p align="center">12'</p> | <p align="right">Uttara <img src="/static/logos/Azampur Football Club Uttara.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mohammedan SC Dhaka.png" height="25px"> Mohammedan</p> |
+| <p align="center">10'</p> | <p align="right">Fortis <img src="/static/logos/Fortis FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sheikh Russel Krira Chakra.png" height="25px"> Russel</p> |
 </div>
 
 
