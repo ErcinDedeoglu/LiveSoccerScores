@@ -793,12 +793,16 @@
         },
         {
           "startDate": "2023-02-11T03:10:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 70,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TIJ",
             "short": "Tijuana",
@@ -815,9 +819,12 @@
           },
           "redCards": {
             "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 0,
             "teamB": 0
           },
-          "score": null,
           "agg": null,
           "penalty": null
         },
@@ -1539,16 +1546,12 @@
       "matches": [
         {
           "startDate": "2023-02-11T01:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "JAG",
             "short": "Jaguares",
@@ -1951,6 +1954,36 @@
       },
       "matches": [
         {
+          "startDate": "2023-02-11T22:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "MOT",
+            "short": "Motagua",
+            "long": "Motagua",
+            "full": "CD Motagua",
+            "name": "Motagua"
+          },
+          "teamB": {
+            "code": "VID",
+            "short": "Vida",
+            "long": "Vida",
+            "full": "CDyS Vida",
+            "name": "Vida"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
           "startDate": "2023-02-11T23:00:00Z",
           "period": null,
           "round": {
@@ -1971,6 +2004,36 @@
             "long": "Olimpia",
             "full": "CD Olimpia",
             "name": "Olimpia"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-11T23:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "UPN",
+            "short": "UPNFM",
+            "long": "UPNFM",
+            "full": "Lobos de la Universidad Pedag\u00F3gica Nacional Francisco Moraz\u00E1n",
+            "name": "UPNFM"
+          },
+          "teamB": {
+            "code": "MAR",
+            "short": "Marath\u00F3n",
+            "long": "Marath\u00F3n",
+            "full": "CD Marath\u00F3n",
+            "name": "Marath\u00F3n"
           },
           "redCards": {
             "teamA": 0,
@@ -2991,12 +3054,16 @@
       "matches": [
         {
           "startDate": "2023-02-11T03:20:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 67,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "WUN",
             "short": "Western United",
@@ -3015,18 +3082,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-02-11T04:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 43,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BRI",
             "short": "Roar",
@@ -3045,7 +3119,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -9781,12 +9858,16 @@
       "matches": [
         {
           "startDate": "2023-02-11T04:35:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Final",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "FMA",
             "short": "F Marinos",
@@ -9805,7 +9886,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
