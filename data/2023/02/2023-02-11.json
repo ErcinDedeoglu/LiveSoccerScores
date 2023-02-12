@@ -895,16 +895,12 @@
         },
         {
           "startDate": "2023-02-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AME",
             "short": "Am\u00E9rica",
@@ -1741,16 +1737,12 @@
         },
         {
           "startDate": "2023-02-11T23:20:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 74,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ONC",
             "short": "Once Caldas",
@@ -1766,12 +1758,12 @@
             "name": "\u00C1guilas D"
           },
           "redCards": {
-            "teamA": 1,
-            "teamB": 0
-          },
-          "score": {
             "teamA": 0,
             "teamB": 1
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1887,16 +1879,12 @@
         },
         {
           "startDate": "2023-02-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 64,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "EVE",
             "short": "Everton",
@@ -2152,16 +2140,12 @@
         },
         {
           "startDate": "2023-02-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ESP",
             "short": "Real Espa\u00F1a",
@@ -2189,16 +2173,12 @@
         },
         {
           "startDate": "2023-02-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "UPN",
             "short": "UPNFM",
@@ -2817,16 +2797,12 @@
         },
         {
           "startDate": "2023-02-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAM",
             "short": "San Mart\u00EDn SJ",
@@ -3901,16 +3877,12 @@
         },
         {
           "startDate": "2023-02-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 68,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RBB",
             "short": "RB Bragantino",
@@ -4090,16 +4062,12 @@
         },
         {
           "startDate": "2023-02-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 64,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BPE",
             "short": "Brasil Pelotas",
@@ -4289,16 +4257,12 @@
         },
         {
           "startDate": "2023-02-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AVA",
             "short": "Ava\u00ED",
@@ -4600,16 +4564,12 @@
         },
         {
           "startDate": "2023-02-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 58,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NAU",
             "short": "N\u00E1utico",
@@ -4629,8 +4589,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -6074,16 +6034,12 @@
         },
         {
           "startDate": "2023-02-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 65,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "STT",
             "short": "Santa Tecla",
@@ -11565,16 +11521,12 @@
         },
         {
           "startDate": "2023-02-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 62,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CCP",
             "short": "Cerro Porte\u00F1o",
@@ -11594,7 +11546,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -14880,16 +14832,12 @@
         },
         {
           "startDate": "2023-02-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 66,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MON",
             "short": "Monagas",
@@ -14909,8 +14857,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -15120,6 +15068,46 @@
             "teamA": 4,
             "teamB": 0
           },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U17 Club Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-02-11T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": true
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "teamB": {
+            "code": "GRF",
+            "short": "Greuther F\u00FCrth",
+            "long": "Greuther F\u00FCrth U17",
+            "full": "SpVgg Greuther F\u00FCrth Under 17",
+            "name": "Greuther F\u00FCrth"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
