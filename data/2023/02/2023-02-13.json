@@ -368,8 +368,8 @@
           "startDate": "2023-02-13T01:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 8
           },
           "round": {
             "name": "Apertura",
