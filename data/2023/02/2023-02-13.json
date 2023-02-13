@@ -450,9 +450,9 @@
         {
           "startDate": "2023-02-13T12:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 9,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -1456,16 +1456,12 @@
       "matches": [
         {
           "startDate": "2023-02-13T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 53,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AIZ",
             "short": "Aizawl",
@@ -1486,7 +1482,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1609,16 +1605,12 @@
       "matches": [
         {
           "startDate": "2023-02-13T10:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAY",
             "short": "Paykan",
@@ -1639,7 +1631,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1647,8 +1639,8 @@
         {
           "startDate": "2023-02-13T11:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
+            "type": "SECOND_HALF",
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -1676,7 +1668,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1684,8 +1676,8 @@
         {
           "startDate": "2023-02-13T11:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 38,
+            "type": "SECOND_HALF",
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -2586,16 +2578,12 @@
       "matches": [
         {
           "startDate": "2023-02-13T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 55,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "H3T",
             "short": "H\u1ED3ng L\u0129nh",
@@ -2615,7 +2603,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 3
           },
           "agg": null,
@@ -2623,12 +2611,16 @@
         },
         {
           "startDate": "2023-02-13T12:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 45,
+            "extra": 1
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "HCM",
             "short": "Ho Chi Minh",
@@ -2647,7 +2639,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
