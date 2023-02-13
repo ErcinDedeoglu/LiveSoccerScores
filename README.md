@@ -300,7 +300,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:00</p> | <p align="right">Persebaya <img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
+| <p align="center">6'</p> | <p align="right">Persebaya <img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
 | <p align="center">09:30</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dewa United FC.png" height="25px"> Dewa United</p> |
 </div>
 
@@ -314,7 +314,7 @@
 | <p align="center">10:30</p> | <p align="right">Paykan <img src="/static/logos/Paykan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Esteghlal FC.png" height="25px"> Esteghlal</p> |
 | <p align="center">11:30</p> | <p align="right">Malavan <img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gol Gohar FC Sirjan.png" height="25px"> Gol Gohar</p> |
 | <p align="center">11:30</p> | <p align="right">Tractor <img src="/static/logos/Tractor SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aluminium Arak FC.png" height="25px"> Aluminium Arak</p> |
-| <p align="center">13:30</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar</p> |
+| <p align="center">13:00</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar</p> |
 | <p align="center">13:30</p> | <p align="right">Rafsanjan <img src="/static/logos/Mes Rafsanjan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Foolad Khuzestan FC.png" height="25px"> Foolad</p> |
 </div>
 
