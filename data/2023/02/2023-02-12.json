@@ -6408,6 +6408,79 @@
     },
     {
       "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-02-12T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Nord / Nordost",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U19",
+            "full": "Rasen Ballsport Leipzig Under 19",
+            "name": "RB Leipzig"
+          },
+          "teamB": {
+            "code": "SVW",
+            "short": "Werder",
+            "long": "Werder Bremen U19",
+            "full": "SV Werder Bremen Under 19",
+            "name": "Werder"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-12T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "S\u00FCd / S\u00FCdwest",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BAY",
+            "short": "Bayern",
+            "long": "Bayern M\u00FCnchen U19",
+            "full": "FC Bayern M\u00FCnchen Under 19",
+            "name": "Bayern"
+          },
+          "teamB": {
+            "code": "M05",
+            "short": "Mainz",
+            "long": "Mainz 05 U19",
+            "full": "FSV Mainz 05 Under 19",
+            "name": "Mainz"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Frauen Bundesliga",
         "area": {
           "name": "Germany"
