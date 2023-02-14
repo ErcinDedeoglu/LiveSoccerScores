@@ -347,16 +347,12 @@
         },
         {
           "startDate": "2023-02-13T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 64,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "EST",
             "short": "Estudiantes",
@@ -377,7 +373,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -437,16 +433,12 @@
       "matches": [
         {
           "startDate": "2023-02-13T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 56,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COL",
             "short": "Colo Colo",
@@ -466,7 +458,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -570,16 +562,12 @@
       "matches": [
         {
           "startDate": "2023-02-13T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 67,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAP",
             "short": "Palmaflor",
@@ -595,11 +583,11 @@
             "name": "Guabir\u00E1"
           },
           "redCards": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -617,16 +605,12 @@
       "matches": [
         {
           "startDate": "2023-02-13T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 66,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SJO",
             "short": "S\u00E3o Jos\u00E9 RS",
@@ -646,7 +630,7 @@
             "teamB": 1
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -664,16 +648,12 @@
       "matches": [
         {
           "startDate": "2023-02-13T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 67,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CRU",
             "short": "Cruzeiro",
@@ -694,7 +674,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -744,16 +724,12 @@
         },
         {
           "startDate": "2023-02-13T23:30:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CSP",
             "short": "CSP",
@@ -943,16 +919,12 @@
         },
         {
           "startDate": "2023-02-13T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 68,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LLA",
             "short": "Llaneros",
@@ -2843,7 +2815,7 @@
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "QAT",
             "short": "Qatar",
@@ -2862,7 +2834,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 6,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }

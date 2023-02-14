@@ -315,7 +315,7 @@
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "UDG",
             "short": "Leones Negros",
@@ -334,7 +334,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         },
@@ -380,16 +383,12 @@
       "matches": [
         {
           "startDate": "2023-02-14T00:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 21,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AGR",
             "short": "Agropecuario",
@@ -409,8 +408,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -762,7 +761,7 @@
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "QUI",
             "short": "Quind\u00EDo",
@@ -781,7 +780,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         }
@@ -872,7 +874,7 @@
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SSJ",
             "short": "SP. San Jos\u00E9",
@@ -891,7 +893,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -902,7 +907,7 @@
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAP",
             "short": "Saprissa",
@@ -921,7 +926,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2322,7 +2330,7 @@
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUA",
             "short": "Guatemala",
@@ -2341,7 +2349,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         },
@@ -2352,7 +2363,7 @@
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "TRI",
             "short": "Trinidad",
@@ -2371,7 +2382,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         },
@@ -2867,16 +2881,12 @@
       "matches": [
         {
           "startDate": "2023-02-14T00:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 29,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAL",
             "short": "La Luz",
@@ -2896,8 +2906,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 3,
+            "teamB": 4
           },
           "agg": null,
           "penalty": null

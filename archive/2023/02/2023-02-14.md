@@ -52,7 +52,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:00</p> | <p align="right">Leones Negros <img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"> Pumas Tabasco</p> |
+| <p align="center">FT</p> | <p align="right">Leones Negros <img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"> Pumas Tabasco</p> |
 | <p align="center">23:05</p> | <p align="right">Correcaminos <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Morelia.png" height="25px"> Morelia</p> |
 </div>
 
@@ -63,7 +63,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Agropecuario <img src="/static/logos/Club Argentino Agropecuario de Carlos Casares.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Morón.png" height="25px"> Morón</p> |
+| <p align="center">FT</p> | <p align="right">Agropecuario <img src="/static/logos/Club Argentino Agropecuario de Carlos Casares.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/CD Morón.png" height="25px"> Morón</p> |
 </div>
 
 
@@ -136,7 +136,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:05</p> | <p align="right">Quindío <img src="/static/logos/Corporación Deportes Quindío.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leones FC.png" height="25px"> Leones</p> |
+| <p align="center">FT</p> | <p align="right">Quindío <img src="/static/logos/Corporación Deportes Quindío.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Leones FC.png" height="25px"> Leones</p> |
 </div>
 
 
@@ -157,8 +157,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:00</p> | <p align="right">SP. San José <img src="/static/logos/Sporting San José FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD San Carlos.png" height="25px"> San Carlos</p> |
-| <p align="center">02:00</p> | <p align="right">Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Cartaginés.png" height="25px"> Cartaginés</p> |
+| <p align="center">FT</p> | <p align="right">SP. San José <img src="/static/logos/Sporting San José FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AD San Carlos.png" height="25px"> San Carlos</p> |
+| <p align="center">FT</p> | <p align="right">Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CS Cartaginés.png" height="25px"> Cartaginés</p> |
 </div>
 
 
@@ -292,8 +292,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:00</p> | <p align="right">Guatemala <img src="/static/logos/Guatemala Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mexico Under 17.png" height="25px"> Mexico</p> |
-| <p align="center">01:00</p> | <p align="right">Trinidad <img src="/static/logos/Trinidad and Tobago Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/United States Under 17.png" height="25px"> USA</p> |
+| <p align="center">FT</p> | <p align="right">Guatemala <img src="/static/logos/Guatemala Under 17.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Mexico Under 17.png" height="25px"> Mexico</p> |
+| <p align="center">FT</p> | <p align="right">Trinidad <img src="/static/logos/Trinidad and Tobago Under 17.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/United States Under 17.png" height="25px"> USA</p> |
 | <p align="center">22:00</p> | <p align="right">Guadeloupe <img src="/static/logos/Guadeloupe Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jamaica Under 17.png" height="25px"> Jamaica</p> |
 | <p align="center">22:00</p> | <p align="right">Suriname <img src="/static/logos/Suriname Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Haiti Under 17.png" height="25px"> Haiti</p> |
 </div>
@@ -371,7 +371,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">La Luz <img src="/static/logos/La Luz FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Peñarol.png" height="25px"> Peñarol</p> |
+| <p align="center">FT</p> | <p align="right">La Luz <img src="/static/logos/La Luz FC.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/CA Peñarol.png" height="25px"> Peñarol</p> |
 </div>
 
 
