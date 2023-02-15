@@ -871,9 +871,9 @@
         {
           "startDate": "2023-02-15T18:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 5
+            "extra": 7
           },
           "round": {
             "name": "Regular Season",
@@ -1692,7 +1692,7 @@
         {
           "startDate": "2023-02-15T18:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
             "extra": 4
           },
@@ -1729,9 +1729,9 @@
         {
           "startDate": "2023-02-15T18:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "1st Phase",
@@ -1766,7 +1766,7 @@
         {
           "startDate": "2023-02-15T18:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
             "extra": 3
           },
@@ -1803,9 +1803,9 @@
         {
           "startDate": "2023-02-15T18:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 5
           },
           "round": {
             "name": "1st Phase",
@@ -2213,8 +2213,8 @@
           "startDate": "2023-02-15T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Quarter-finals",
@@ -2513,9 +2513,9 @@
         {
           "startDate": "2023-02-15T18:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Clausura",
@@ -2778,16 +2778,12 @@
       "matches": [
         {
           "startDate": "2023-02-15T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Girone B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VPS",
             "short": "Vis Pesaro",
@@ -2817,7 +2813,7 @@
           "startDate": "2023-02-15T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -2845,7 +2841,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3453,7 +3449,7 @@
           "startDate": "2023-02-15T17:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 55,
             "extra": 0
           },
           "round": {
@@ -3480,7 +3476,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -3776,8 +3772,8 @@
           "startDate": "2023-02-15T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Finals",

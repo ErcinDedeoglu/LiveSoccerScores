@@ -139,7 +139,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 5'</p> | <p align="right">Água Santa <img src="/static/logos/Esporte Clube Água Santa.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> RB Bragantino</p> |
+| <p align="center">HT</p> | <p align="right">Água Santa <img src="/static/logos/Esporte Clube Água Santa.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> RB Bragantino</p> |
 | <p align="center">22:30</p> | <p align="right">Guarani <img src="/static/logos/Guarani FC de Campinas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/São Bernardo FC.png" height="25px"> São Bernardo</p> |
 | <p align="center">23:30</p> | <p align="right">Portuguesa <img src="/static/logos/Associacao Portuguesa de Desportos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Associação Ferroviária de Esportes.png" height="25px"> Ferroviária</p> |
 </div>
@@ -235,10 +235,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 4'</p> | <p align="right">Desp. Brasil <img src="/static/logos/Desportivo Brasil Participações.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/São José EC.png" height="25px"> São José</p> |
-| <p align="center">45' 1'</p> | <p align="right">Rio Preto <img src="/static/logos/Rio Preto EC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/SE Matonense.png" height="25px"> Matonense</p> |
-| <p align="center">45' 3'</p> | <p align="right">São Bernardo <img src="/static/logos/EC São Bernardo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Grêmio Osasco Audax EC.png" height="25px"> Osasco Audax</p> |
-| <p align="center">45' 2'</p> | <p align="right">Votuporanguens <img src="/static/logos/CA Votuporanguense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Marilia Atletico Clube.png" height="25px"> Marília</p> |
+| <p align="center">HT</p> | <p align="right">Desp. Brasil <img src="/static/logos/Desportivo Brasil Participações.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/São José EC.png" height="25px"> São José</p> |
+| <p align="center">HT</p> | <p align="right">Rio Preto <img src="/static/logos/Rio Preto EC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/SE Matonense.png" height="25px"> Matonense</p> |
+| <p align="center">HT</p> | <p align="right">São Bernardo <img src="/static/logos/EC São Bernardo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Grêmio Osasco Audax EC.png" height="25px"> Osasco Audax</p> |
+| <p align="center">HT</p> | <p align="right">Votuporanguens <img src="/static/logos/CA Votuporanguense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Marilia Atletico Clube.png" height="25px"> Marília</p> |
 | <p align="center">21:00</p> | <p align="right">RB Brasil <img src="/static/logos/Red Bull Brasil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/União Suzano AC.png" height="25px"> USAC</p> |
 | <p align="center">22:00</p> | <p align="right">Sertãozinho <img src="/static/logos/Sertãozinho FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grêmio Esportivo Prudente.png" height="25px"> Grêmio Pr</p> |
 | <p align="center">23:00</p> | <p align="right">Bandeirante <img src="/static/logos/Bandeirante EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Barretos EC.png" height="25px"> Barretos</p> |
@@ -277,7 +277,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Doxa <img src="/static/logos/Doxa Katokopia FC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Pafos FC.png" height="25px"> Pafos</p> |
-| <p align="center">88'</p> | <p align="right">Omonia <img src="/static/logos/AC Omonia Nicosia.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/APOEL FC.png" height="25px"> APOEL</p> |
+| <p align="center">90' 6'</p> | <p align="right">Omonia <img src="/static/logos/AC Omonia Nicosia.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/APOEL FC.png" height="25px"> APOEL</p> |
 </div>
 
 
@@ -321,7 +321,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Antigua <img src="/static/logos/Deportivo Antigua Guatemala FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Santa Lucía Cotzumalguapa FC.png" height="25px"> Santa Lucía</p> |
+| <p align="center">HT</p> | <p align="right">Antigua <img src="/static/logos/Deportivo Antigua Guatemala FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Santa Lucía Cotzumalguapa FC.png" height="25px"> Santa Lucía</p> |
 | <p align="center">21:30</p> | <p align="right">Cobán <img src="/static/logos/CSyD Cobán Imperial.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportivo Iztapa.png" height="25px"> Iztapa</p> |
 | <p align="center">21:30</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Guastatoya.png" height="25px"> Guastatoya</p> |
 | <p align="center">23:30</p> | <p align="right">Xinabajul <img src="/static/logos/CD Xinabajul.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"> Xelajú</p> |
@@ -364,8 +364,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Vis Pesaro <img src="/static/logos/Vis Pesaro.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/US Pontedera 1912.png" height="25px"> Pontedera</p> |
-| <p align="center">16'</p> | <p align="right">Siena <img src="/static/logos/ACN Siena 1904.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ASD Torres.png" height="25px"> Torres</p> |
+| <p align="center">FT</p> | <p align="right">Vis Pesaro <img src="/static/logos/Vis Pesaro.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/US Pontedera 1912.png" height="25px"> Pontedera</p> |
+| <p align="center">24'</p> | <p align="right">Siena <img src="/static/logos/ACN Siena 1904.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/ASD Torres.png" height="25px"> Torres</p> |
 </div>
 
 
@@ -428,7 +428,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Winterthur <img src="/static/logos/FC Winterthur.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Servette FC.png" height="25px"> Servette</p> |
+| <p align="center">55'</p> | <p align="right">Winterthur <img src="/static/logos/FC Winterthur.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Servette FC.png" height="25px"> Servette</p> |
 </div>
 
 
@@ -473,7 +473,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Norway <img src="/static/logos/Norway.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
+| <p align="center">90' 3'</p> | <p align="right">Norway <img src="/static/logos/Norway.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
 | <p align="center">20:10</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
 </div>
 
