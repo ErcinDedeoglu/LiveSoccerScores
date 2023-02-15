@@ -544,36 +544,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-02-15T00:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "MIL",
-            "short": "Millonarios",
-            "long": "Millonarios",
-            "full": "Millonarios FC SA",
-            "name": "Millonarios"
-          },
-          "teamB": {
-            "code": "PAS",
-            "short": "Pasto",
-            "long": "Deportivo Pasto",
-            "full": "AD Pasto",
-            "name": "Pasto"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-02-15T01:00:00Z",
           "period": null,
           "round": {
@@ -603,6 +573,36 @@
             "teamA": 0,
             "teamB": 2
           },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-15T22:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "POSTPONED",
+          "teamA": {
+            "code": "MIL",
+            "short": "Millonarios",
+            "long": "Millonarios",
+            "full": "Millonarios FC SA",
+            "name": "Millonarios"
+          },
+          "teamB": {
+            "code": "PAS",
+            "short": "Pasto",
+            "long": "Deportivo Pasto",
+            "full": "AD Pasto",
+            "name": "Pasto"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
@@ -2126,12 +2126,16 @@
       "matches": [
         {
           "startDate": "2023-02-15T16:00:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DXK",
             "short": "Doxa",
@@ -2150,18 +2154,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-02-15T17:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 26,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "OMO",
             "short": "Omonia",
@@ -2180,7 +2191,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2234,36 +2248,6 @@
         }
       },
       "matches": [
-        {
-          "startDate": "2023-02-15T21:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Clausura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ALI",
-            "short": "Alianza",
-            "long": "Alianza",
-            "full": "Alianza FC",
-            "name": "Alianza"
-          },
-          "teamB": {
-            "code": "MAR",
-            "short": "Marte",
-            "long": "Atl\u00E9tico Marte",
-            "full": "Club Deportivo Atl\u00E9tico Marte",
-            "name": "Marte"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
         {
           "startDate": "2023-02-15T21:30:00Z",
           "period": null,
@@ -2601,7 +2585,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "BFC",
             "short": "Bengaluru",
@@ -2620,7 +2604,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -2636,16 +2623,12 @@
       "matches": [
         {
           "startDate": "2023-02-15T11:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RUN",
             "short": "Rajasthan Utd",
@@ -2666,7 +2649,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2726,12 +2709,16 @@
       "matches": [
         {
           "startDate": "2023-02-15T17:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 27,
+            "extra": 0
+          },
           "round": {
             "name": "Girone B",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "VPS",
             "short": "Vis Pesaro",
@@ -2750,7 +2737,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2937,7 +2927,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "BIN",
             "short": "Bendel Ins.",
@@ -2956,7 +2946,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2967,7 +2960,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "ENY",
             "short": "Enyimba",
@@ -2986,7 +2979,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2997,7 +2993,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "KWA",
             "short": "Kwara Utd",
@@ -3016,7 +3012,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3027,7 +3026,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "PLT",
             "short": "Plateau Utd",
@@ -3046,7 +3045,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 5,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3057,7 +3059,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "DAK",
             "short": "Dakkada",
@@ -3076,7 +3078,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -3087,7 +3092,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "DMU",
             "short": "Doma United",
@@ -3106,7 +3111,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3117,7 +3125,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "POSTPONED",
           "teamA": {
             "code": "RIV",
             "short": "Rivers Utd",
@@ -3147,7 +3155,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "NIG",
             "short": "Tornadoes",
@@ -3166,7 +3174,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -3177,7 +3188,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "WIK",
             "short": "Wikki",
@@ -3196,7 +3207,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -3217,7 +3231,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "ARA",
             "short": "Arabi",
@@ -3236,7 +3250,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3247,7 +3264,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "WAK",
             "short": "Wakrah",
@@ -3263,21 +3280,28 @@
             "name": "Qatar"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-02-15T15:55:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 74,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GFA",
             "short": "Gharafa",
@@ -3296,7 +3320,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         }
@@ -3397,7 +3424,7 @@
             "name": "Round of 32",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "EST",
             "short": "Tunis",
@@ -3416,7 +3443,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -3427,7 +3457,7 @@
             "name": "Round of 32",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "UBG",
             "short": "USBG",
@@ -3444,9 +3474,12 @@
           },
           "redCards": {
             "teamA": 0,
+            "teamB": 2
+          },
+          "score": {
+            "teamA": 1,
             "teamB": 0
           },
-          "score": null,
           "agg": null,
           "penalty": null
         }
@@ -3662,12 +3695,16 @@
       "matches": [
         {
           "startDate": "2023-02-15T17:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 23,
+            "extra": 0
+          },
           "round": {
             "name": "Finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NOR",
             "short": "Norway",
@@ -3686,7 +3723,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3737,7 +3777,7 @@
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "ISL",
             "short": "Iceland",
@@ -3756,7 +3796,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
