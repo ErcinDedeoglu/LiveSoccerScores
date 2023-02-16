@@ -13,7 +13,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -43,7 +43,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -73,7 +73,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -103,7 +103,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -133,7 +133,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -163,7 +163,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -193,7 +193,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -223,7 +223,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -263,7 +263,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -293,7 +293,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -323,7 +323,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -353,7 +353,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -383,7 +383,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -413,7 +413,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -443,7 +443,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -473,7 +473,7 @@
           "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -622,7 +622,7 @@
           "period": null,
           "round": {
             "name": "1st Round",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -668,7 +668,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -1155,7 +1155,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -1876,7 +1876,7 @@
           "period": null,
           "round": {
             "name": "1st Round",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -1906,7 +1906,7 @@
           "period": null,
           "round": {
             "name": "1st Round",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -1936,7 +1936,7 @@
           "period": null,
           "round": {
             "name": "1st Round",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -1976,7 +1976,7 @@
           "period": null,
           "round": {
             "name": "Quarter-finals",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -2272,12 +2272,16 @@
       "matches": [
         {
           "startDate": "2023-02-16T08:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 28,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BHA",
             "short": "Bhayangkara",
@@ -2296,7 +2300,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -2345,7 +2352,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -2378,7 +2385,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -2411,7 +2418,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -2441,7 +2448,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -2591,7 +2598,7 @@
           "period": null,
           "round": {
             "name": "Round of 32",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -2731,7 +2738,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -2761,7 +2768,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -2881,7 +2888,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -2911,7 +2918,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "FIXTURE",
           "teamA": {
@@ -2951,7 +2958,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -2981,12 +2988,16 @@
         },
         {
           "startDate": "2023-02-16T08:10:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "AUS",
             "short": "Australia",
@@ -3005,7 +3016,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }

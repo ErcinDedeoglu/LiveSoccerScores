@@ -13,7 +13,7 @@
           "period": null,
           "round": {
             "name": "Round of 16",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -49,7 +49,7 @@
           "period": null,
           "round": {
             "name": "Round of 16",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -333,7 +333,7 @@
           "period": null,
           "round": {
             "name": "1st Round",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -812,7 +812,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -845,7 +845,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -878,7 +878,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -2173,7 +2173,7 @@
           "period": null,
           "round": {
             "name": "1st Round",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -2209,7 +2209,7 @@
           "period": null,
           "round": {
             "name": "1st Round",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -2245,7 +2245,7 @@
           "period": null,
           "round": {
             "name": "1st Round",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -2291,7 +2291,7 @@
           "period": null,
           "round": {
             "name": "Quarter-finals",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -2327,7 +2327,7 @@
           "period": null,
           "round": {
             "name": "Quarter-finals",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -2978,7 +2978,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -3011,7 +3011,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -3044,7 +3044,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -3077,7 +3077,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -3616,7 +3616,7 @@
           "period": null,
           "round": {
             "name": "Round of 32",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -3649,7 +3649,7 @@
           "period": null,
           "round": {
             "name": "Round of 32",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -3898,7 +3898,7 @@
           "period": null,
           "round": {
             "name": "Finals",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -3931,7 +3931,7 @@
           "period": null,
           "round": {
             "name": "Finals",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -3974,7 +3974,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
@@ -4007,7 +4007,7 @@
           "period": null,
           "round": {
             "name": "Group Stage",
-            "display": true
+            "display": false
           },
           "status": "RESULT",
           "teamA": {
