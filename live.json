@@ -510,16 +510,12 @@
       "matches": [
         {
           "startDate": "2023-02-16T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHI",
             "short": "Guadalajara",
@@ -539,7 +535,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -547,16 +543,12 @@
         },
         {
           "startDate": "2023-02-16T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MON",
             "short": "Monterrey",
@@ -589,7 +581,7 @@
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "NEC",
             "short": "Necaxa",
@@ -608,7 +600,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -710,16 +705,12 @@
       "matches": [
         {
           "startDate": "2023-02-16T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "EQU",
             "short": "Equidad",
@@ -829,32 +820,35 @@
           "penalty": null
         },
         {
-          "startDate": "2023-02-16T00:30:00Z",
+          "startDate": "2023-02-16T01:30:00Z",
           "period": null,
           "round": {
-            "name": "Club Friendlies 3",
+            "name": "Club Friendlies 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
-            "code": "ATL",
-            "short": "Atlanta United",
-            "long": "Atlanta United",
-            "full": "Atlanta United FC",
-            "name": "Atlanta United"
+            "code": "ATX",
+            "short": "Austin",
+            "long": "Austin",
+            "full": "Austin FC",
+            "name": "Austin"
           },
           "teamB": {
-            "code": "TOL",
-            "short": "Toluca",
-            "long": "Toluca",
-            "full": "Deportivo Toluca FC",
-            "name": "Toluca"
+            "code": "SAC",
+            "short": "Sacramento ",
+            "long": "Sacramento Republic",
+            "full": "Sacramento Republic FC",
+            "name": "Sacramento "
           },
           "redCards": {
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -870,16 +864,12 @@
       "matches": [
         {
           "startDate": "2023-02-16T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LPZ",
             "short": "La Paz",
@@ -912,7 +902,7 @@
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATL",
             "short": "Atlante",
@@ -931,7 +921,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -980,16 +973,12 @@
         },
         {
           "startDate": "2023-02-16T00:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 42
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SOC",
             "short": "Real Sociedad",
@@ -1017,16 +1006,12 @@
         },
         {
           "startDate": "2023-02-16T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "OLI",
             "short": "Olimpia",
@@ -1054,16 +1039,12 @@
         },
         {
           "startDate": "2023-02-16T01:30:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VIC",
             "short": "Victoria",
@@ -1086,6 +1067,36 @@
             "teamA": 0,
             "teamB": 0
           },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-16T21:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "MAR",
+            "short": "Marath\u00F3n",
+            "long": "Marath\u00F3n",
+            "full": "CD Marath\u00F3n",
+            "name": "Marath\u00F3n"
+          },
+          "teamB": {
+            "code": "HON",
+            "short": "Honduras",
+            "long": "Honduras Progreso",
+            "full": "CD Honduras Progreso",
+            "name": "Honduras"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
@@ -2072,16 +2083,12 @@
       "matches": [
         {
           "startDate": "2023-02-16T01:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 48,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALI",
             "short": "Alianza",
@@ -2101,7 +2108,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -2149,16 +2156,12 @@
       "matches": [
         {
           "startDate": "2023-02-16T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ACH",
             "short": "Achuapa",
@@ -2185,17 +2188,13 @@
           "penalty": null
         },
         {
-          "startDate": "2023-02-16T02:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
-          },
+          "startDate": "2023-02-16T01:00:00Z",
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAL",
             "short": "Malacateco",
@@ -2343,16 +2342,12 @@
       "matches": [
         {
           "startDate": "2023-02-16T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUA",
             "short": "Guatemala",
@@ -2380,16 +2375,12 @@
         },
         {
           "startDate": "2023-02-16T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "USA",
             "short": "USA",
@@ -2962,7 +2953,7 @@
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "ESP",
             "short": "Spain",
@@ -2981,7 +2972,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
