@@ -1445,7 +1445,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "CANCELLED",
+          "status": "RESULT",
           "teamA": {
             "code": "COM",
             "short": "Comercial PI",
@@ -1464,7 +1464,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
