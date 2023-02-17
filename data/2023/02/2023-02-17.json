@@ -170,16 +170,12 @@
       "matches": [
         {
           "startDate": "2023-02-17T03:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAZ",
             "short": "Mazatl\u00E1n",
