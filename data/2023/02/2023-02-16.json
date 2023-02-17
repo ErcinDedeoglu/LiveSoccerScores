@@ -882,82 +882,6 @@
     },
     {
       "competition": {
-        "name": "Club Friendlies",
-        "area": {
-          "name": "World"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-02-16T00:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Club Friendlies 3",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "MIA",
-            "short": "Inter Miami",
-            "long": "Inter Miami",
-            "full": "Club Internacional de F\u00FAtbol Miami",
-            "name": "Inter Miami"
-          },
-          "teamB": {
-            "code": "MTL",
-            "short": "Montr\u00E9al",
-            "long": "Montr\u00E9al",
-            "full": "Club de Foot Montr\u00E9al",
-            "name": "Montr\u00E9al"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 2
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-02-16T01:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Club Friendlies 3",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "ATX",
-            "short": "Austin",
-            "long": "Austin",
-            "full": "Austin FC",
-            "name": "Austin"
-          },
-          "teamB": {
-            "code": "SAC",
-            "short": "Sacramento ",
-            "long": "Sacramento Republic",
-            "full": "Sacramento Republic FC",
-            "name": "Sacramento "
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Liga de Expansi\u00F3n MX",
         "area": {
           "name": "Mexico"
@@ -3036,7 +2960,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
