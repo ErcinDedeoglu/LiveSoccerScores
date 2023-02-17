@@ -171,9 +171,9 @@
         {
           "startDate": "2023-02-17T03:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -1078,36 +1078,6 @@
             "long": "Mitre Santiago d. Estero",
             "full": "Club Atl\u00E9tico Mitre de Santiago del Estero",
             "name": "Mitre SdE"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-02-17T00:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Group B",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "MAI",
-            "short": "Maip\u00FA",
-            "long": "Deportivo Maip\u00FA",
-            "full": "CD Maip\u00FA",
-            "name": "Maip\u00FA"
-          },
-          "teamB": {
-            "code": "CHA",
-            "short": "Chacarita",
-            "long": "Chacarita Juniors",
-            "full": "CA Chacarita Juniors",
-            "name": "Chacarita"
           },
           "redCards": {
             "teamA": 0,
