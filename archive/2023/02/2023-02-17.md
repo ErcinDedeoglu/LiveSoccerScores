@@ -56,7 +56,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">03:00</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Pachuca.png" height="25px"> Pachuca</p> |
+| <p align="center">11'</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CF Pachuca.png" height="25px"> Pachuca</p> |
 </div>
 
 
@@ -176,7 +176,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 7'</p> | <p align="right">Mineros <img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Raya2 Expansión.png" height="25px"> Raya2</p> |
+| <p align="center">FT</p> | <p align="right">Mineros <img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Raya2 Expansión.png" height="25px"> Raya2</p> |
 | <p align="center">23:00</p> | <p align="right">Tapatío <img src="/static/logos/CD Tapatío.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"> Pumas Tabasco</p> |
 </div>
 
@@ -377,7 +377,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 7'</p> | <p align="right">Atl. Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/CS Deportiva y Cultural de Pereira.png" height="25px"> Pereira</p> |
+| <p align="center">FT</p> | <p align="right">Atl. Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/CS Deportiva y Cultural de Pereira.png" height="25px"> Pereira</p> |
 </div>
 
 
