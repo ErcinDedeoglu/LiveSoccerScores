@@ -357,16 +357,12 @@
       "matches": [
         {
           "startDate": "2023-02-17T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GLP",
             "short": "Gimn La Plata",
@@ -490,16 +486,12 @@
       "matches": [
         {
           "startDate": "2023-02-17T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "UNE",
             "short": "Uni\u00F3n Espa\u00F1ola",
@@ -704,7 +696,7 @@
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAP",
             "short": "Tapat\u00EDo",
@@ -723,7 +715,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -981,16 +976,12 @@
       "matches": [
         {
           "startDate": "2023-02-17T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAT",
             "short": "Patronato",
@@ -1299,16 +1290,12 @@
       "matches": [
         {
           "startDate": "2023-02-17T22:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BLO",
             "short": "Blooming",
@@ -1324,12 +1311,12 @@
             "name": "Uni de Vinto"
           },
           "redCards": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 1
+            "teamA": 3,
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -1498,16 +1485,12 @@
       "matches": [
         {
           "startDate": "2023-02-17T22:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 25,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATH",
             "short": "Athletic",
@@ -1527,8 +1510,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 3,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1588,16 +1571,12 @@
       "matches": [
         {
           "startDate": "2023-02-17T22:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CRB",
             "short": "CRB",
@@ -1613,12 +1592,12 @@
             "name": "Cear\u00E1"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1665,16 +1644,12 @@
       "matches": [
         {
           "startDate": "2023-02-17T22:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "1st Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AAC",
             "short": "Acreano",
@@ -1694,8 +1669,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 3
+            "teamA": 3,
+            "teamB": 6
           },
           "agg": null,
           "penalty": null
@@ -1760,7 +1735,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SMA",
             "short": "San Marcos",
@@ -1779,7 +1754,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         },
@@ -1830,7 +1808,7 @@
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "FOR",
             "short": "Fortaleza",
@@ -1849,7 +1827,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -3651,7 +3632,7 @@
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUA",
             "short": "Guaire\u00F1a",
@@ -3670,7 +3651,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         }
@@ -3686,16 +3670,12 @@
       "matches": [
         {
           "startDate": "2023-02-17T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SCL",
             "short": "Sp. Cristal",
@@ -5030,7 +5010,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "APC",
             "short": "Puerto Cabello",
@@ -5049,7 +5029,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 4,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
