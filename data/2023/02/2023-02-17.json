@@ -5187,6 +5187,36 @@
           },
           "agg": null,
           "penalty": null
+        },
+        {
+          "startDate": "2023-02-17T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Relegation Round",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "AIR",
+            "short": "Airbus",
+            "long": "Airbus UK",
+            "full": "Airbus UK FC",
+            "name": "Airbus"
+          },
+          "teamB": {
+            "code": "CNF",
+            "short": "Caernarfon",
+            "long": "Caernarfon Town",
+            "full": "Caernarfon Town FC",
+            "name": "Caernarfon"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
         }
       ]
     },
