@@ -1957,7 +1957,7 @@
           "startDate": "2023-02-18T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -2469,7 +2469,7 @@
           "startDate": "2023-02-18T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -2506,7 +2506,7 @@
           "startDate": "2023-02-18T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -2534,7 +2534,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 4
+            "teamB": 5
           },
           "agg": null,
           "penalty": null
@@ -3368,7 +3368,7 @@
           "startDate": "2023-02-18T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -3405,7 +3405,7 @@
           "startDate": "2023-02-18T07:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -8687,7 +8687,7 @@
           "startDate": "2023-02-18T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -13924,7 +13924,7 @@
           "startDate": "2023-02-18T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -13951,7 +13951,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
