@@ -723,16 +723,12 @@
         },
         {
           "startDate": "2023-02-19T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PUM",
             "short": "Pumas",
@@ -748,7 +744,7 @@
             "name": "Guadalajara"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -1477,8 +1473,8 @@
         {
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 56,
             "extra": 0
           },
           "round": {
@@ -1506,7 +1502,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2812,8 +2808,8 @@
         {
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -2840,7 +2836,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -2849,9 +2845,9 @@
         {
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 54,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2887,7 +2883,7 @@
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -6832,7 +6828,7 @@
           "startDate": "2023-02-19T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -6869,7 +6865,7 @@
           "startDate": "2023-02-19T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -6906,7 +6902,7 @@
           "startDate": "2023-02-19T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -11045,7 +11041,7 @@
           "startDate": "2023-02-19T03:50:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 69,
             "extra": 0
           },
           "round": {
