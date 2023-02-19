@@ -3631,49 +3631,6 @@
     },
     {
       "competition": {
-        "name": "New South Wales NPL",
-        "area": {
-          "name": "Australia"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-02-18T08:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "SGC",
-            "short": "St George City",
-            "long": "St George City FA",
-            "full": "St George City FA",
-            "name": "St George City"
-          },
-          "teamB": {
-            "code": "WSW",
-            "short": "Western Sydney",
-            "long": "Western Sydney W. II",
-            "full": "Western Sydney Wanderers FC Under 21",
-            "name": "Western Sydney"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Bundesliga",
         "area": {
           "name": "Austria"
