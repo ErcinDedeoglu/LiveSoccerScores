@@ -5818,16 +5818,12 @@
         },
         {
           "startDate": "2023-02-19T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HKF",
             "short": "Hong Kong",
@@ -5857,7 +5853,7 @@
           "startDate": "2023-02-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -6013,9 +6009,9 @@
         {
           "startDate": "2023-02-19T09:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -8225,7 +8221,7 @@
           "startDate": "2023-02-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -10812,7 +10808,7 @@
           "startDate": "2023-02-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 29,
             "extra": 0
           },
           "round": {
