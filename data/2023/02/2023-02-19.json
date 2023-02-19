@@ -2795,7 +2795,7 @@
           "startDate": "2023-02-19T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -2941,7 +2941,7 @@
           "startDate": "2023-02-19T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -2969,7 +2969,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2978,7 +2978,7 @@
           "startDate": "2023-02-19T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -5793,7 +5793,7 @@
           "startDate": "2023-02-19T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -6969,7 +6969,7 @@
           "startDate": "2023-02-19T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 36,
             "extra": 0
           },
           "round": {
@@ -10968,7 +10968,7 @@
           "startDate": "2023-02-19T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -10996,7 +10996,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -11118,7 +11118,7 @@
           "startDate": "2023-02-19T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 39,
             "extra": 0
           },
           "round": {
