@@ -333,7 +333,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">St. Albans <img src="/static/logos/St. Albans Saints FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Melbourne Knights FC.png" height="25px"> Knights</p> |
+| <p align="center">HT</p> | <p align="right">St. Albans <img src="/static/logos/St. Albans Saints FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Melbourne Knights FC.png" height="25px"> Knights</p> |
 </div>
 
 
@@ -346,8 +346,8 @@
 | <p align="center">FT</p> | <p align="right">Mariners <img src="/static/logos/Central Coast Mariners FC Under 21.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Sutherland Sharks FC.png" height="25px"> Sutherland</p> |
 | <p align="center">FT</p> | <p align="right">Rockdale <img src="/static/logos/Rockdale Ilinden FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Manly United FC.png" height="25px"> Manly Utd</p> |
 | <p align="center">FT</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC Under 21.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
-| <p align="center">41'</p> | <p align="right">Blacktown City <img src="/static/logos/Blacktown City FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/NWS Spirit FC.png" height="25px"> NWS Spirit</p> |
-| <p align="center">44'</p> | <p align="right">Sydney Utd <img src="/static/logos/Sydney United 58 FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/APIA Leichhardt FC.png" height="25px"> Leichhardt</p> |
+| <p align="center">HT</p> | <p align="right">Blacktown City <img src="/static/logos/Blacktown City FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/NWS Spirit FC.png" height="25px"> NWS Spirit</p> |
+| <p align="center">HT</p> | <p align="right">Sydney Utd <img src="/static/logos/Sydney United 58 FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/APIA Leichhardt FC.png" height="25px"> Leichhardt</p> |
 </div>
 
 
@@ -805,9 +805,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Machida <img src="/static/logos/FC Machida Zelvia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vegalta Sendai.png" height="25px"> Vegalta</p> |
-| <p align="center">88'</p> | <p align="right">Tokushima <img src="/static/logos/Tokushima Vortis.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Oita Trinita.png" height="25px"> Oita</p> |
-| <p align="center">88'</p> | <p align="right">Tokyo Verdy <img src="/static/logos/Tokyo Verdy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"> Zweigen</p> |
+| <p align="center">FT</p> | <p align="right">Machida <img src="/static/logos/FC Machida Zelvia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vegalta Sendai.png" height="25px"> Vegalta</p> |
+| <p align="center">90' 7'</p> | <p align="right">Tokushima <img src="/static/logos/Tokushima Vortis.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Oita Trinita.png" height="25px"> Oita</p> |
+| <p align="center">FT</p> | <p align="right">Tokyo Verdy <img src="/static/logos/Tokyo Verdy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"> Zweigen</p> |
 | <p align="center">07:00</p> | <p align="right">Tochigi <img src="/static/logos/Tochigi SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Roasso Kumamoto.png" height="25px"> Kumamoto</p> |
 </div>
 
@@ -1192,7 +1192,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Chinese Taipei <img src="/static/logos/Chinese Taipei.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Paraguay.png" height="25px"> Paraguay</p> |
-| <p align="center">45' 3'</p> | <p align="right">PNG <img src="/static/logos/Papua New Guinea.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
+| <p align="center">HT</p> | <p align="right">PNG <img src="/static/logos/Papua New Guinea.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
 </div>
 
 
