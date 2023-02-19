@@ -724,9 +724,9 @@
         {
           "startDate": "2023-02-19T03:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -1478,7 +1478,7 @@
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -1661,7 +1661,7 @@
           "startDate": "2023-02-19T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -2817,7 +2817,7 @@
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -2844,7 +2844,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2854,7 +2854,7 @@
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -2881,7 +2881,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2891,7 +2891,7 @@
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -2919,7 +2919,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -11028,7 +11028,7 @@
           "startDate": "2023-02-19T03:50:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -11056,7 +11056,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
