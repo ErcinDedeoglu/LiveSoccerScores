@@ -821,8 +821,8 @@
           "startDate": "2023-02-19T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
-            "extra": 0
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Clausura",
@@ -848,7 +848,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1261,7 +1261,7 @@
           "startDate": "2023-02-19T22:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -1339,12 +1339,16 @@
         },
         {
           "startDate": "2023-02-19T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 14,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BRA",
             "short": "Brazil",
@@ -1363,7 +1367,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1553,7 +1560,7 @@
           "startDate": "2023-02-19T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -2825,7 +2832,7 @@
           "startDate": "2023-02-19T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 70,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -2852,7 +2859,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -2862,7 +2869,7 @@
           "startDate": "2023-02-19T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -2889,7 +2896,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -3494,7 +3501,7 @@
           "startDate": "2023-02-19T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -3638,12 +3645,16 @@
         },
         {
           "startDate": "2023-02-19T23:40:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ITU",
             "short": "Ituano",
@@ -3662,7 +3673,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3875,7 +3889,7 @@
           "startDate": "2023-02-19T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -3988,8 +4002,8 @@
           "startDate": "2023-02-19T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "1st Round",
@@ -4016,7 +4030,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4293,7 +4307,7 @@
           "startDate": "2023-02-19T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -7744,7 +7758,7 @@
           "startDate": "2023-02-19T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -7781,7 +7795,7 @@
           "startDate": "2023-02-19T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -8111,9 +8125,9 @@
         {
           "startDate": "2023-02-19T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Apertura",
@@ -8223,16 +8237,12 @@
         },
         {
           "startDate": "2023-02-19T23:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 2,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "FIXTURE",
           "teamA": {
             "code": "CUS",
             "short": "Cusco",
@@ -8251,10 +8261,7 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": {
-            "teamA": 0,
-            "teamB": 0
-          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
@@ -11495,7 +11502,7 @@
           "startDate": "2023-02-19T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -11523,7 +11530,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
