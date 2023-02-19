@@ -725,8 +725,8 @@
           "startDate": "2023-02-19T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Clausura",
@@ -752,7 +752,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 2
           },
           "agg": null,
@@ -1477,8 +1477,8 @@
         {
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 25,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -1505,8 +1505,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1659,16 +1659,12 @@
         },
         {
           "startDate": "2023-02-19T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Club Friendlies 1",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LA",
             "short": "Galaxy",
@@ -1689,7 +1685,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2816,8 +2812,8 @@
         {
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 19,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -2853,9 +2849,9 @@
         {
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 19,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -2890,8 +2886,8 @@
         {
           "startDate": "2023-02-19T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 23,
+            "type": "SECOND_HALF",
+            "minute": 49,
             "extra": 0
           },
           "round": {
@@ -2918,7 +2914,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -6834,12 +6830,16 @@
       "matches": [
         {
           "startDate": "2023-02-19T05:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MAC",
             "short": "Machida",
@@ -6858,18 +6858,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-02-19T05:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "VOR",
             "short": "Tokushima",
@@ -6888,18 +6895,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-02-19T05:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "VER",
             "short": "Tokyo Verdy",
@@ -6918,7 +6932,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -11027,8 +11044,8 @@
         {
           "startDate": "2023-02-19T03:50:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
+            "type": "SECOND_HALF",
+            "minute": 58,
             "extra": 0
           },
           "round": {
@@ -11055,8 +11072,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
