@@ -3740,12 +3740,16 @@
       "matches": [
         {
           "startDate": "2023-02-19T10:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BVR",
             "short": "Botev Vratsa",
@@ -3764,7 +3768,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -5852,9 +5859,9 @@
         {
           "startDate": "2023-02-19T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -6010,7 +6017,7 @@
           "startDate": "2023-02-19T09:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -7025,7 +7032,7 @@
           "startDate": "2023-02-19T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -8227,9 +8234,9 @@
         {
           "startDate": "2023-02-19T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Final",
@@ -9035,7 +9042,7 @@
           "startDate": "2023-02-19T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -9172,7 +9179,7 @@
           "startDate": "2023-02-19T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -10828,9 +10835,9 @@
         {
           "startDate": "2023-02-19T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
