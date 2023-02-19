@@ -8974,6 +8974,82 @@
     },
     {
       "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-02-18T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Nord / Nordost",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "KSV",
+            "short": "Holstein",
+            "long": "Holstein Kiel U19",
+            "full": "Kieler SV Holstein 1900 Under 19",
+            "name": "Holstein"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U19",
+            "full": "Rasen Ballsport Leipzig Under 19",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-18T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "S\u00FCd / S\u00FCdwest",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "D98",
+            "short": "Darmstadt",
+            "long": "Darmstadt 98 U19",
+            "full": "SV Darmstadt 1898 Under 19",
+            "name": "Darmstadt"
+          },
+          "teamB": {
+            "code": "BAY",
+            "short": "Bayern",
+            "long": "Bayern M\u00FCnchen U19",
+            "full": "FC Bayern M\u00FCnchen Under 19",
+            "name": "Bayern"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Super League 1",
         "area": {
           "name": "Greece"
