@@ -10927,46 +10927,6 @@
     },
     {
       "competition": {
-        "name": "NPFL",
-        "area": {
-          "name": "Nigeria"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-02-18T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "ABI",
-            "short": "Abia",
-            "long": "Abia Warriors",
-            "full": "Abia Warriors FC",
-            "name": "Abia"
-          },
-          "teamB": {
-            "code": "RIV",
-            "short": "Rivers Utd",
-            "long": "Rivers United",
-            "full": "Rivers United FC",
-            "name": "Rivers Utd"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Premiership",
         "area": {
           "name": "Northern Ireland"
