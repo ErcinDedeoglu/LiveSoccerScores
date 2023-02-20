@@ -620,7 +620,7 @@
           "startDate": "2023-02-20T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -918,16 +918,12 @@
       "matches": [
         {
           "startDate": "2023-02-20T12:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HEB",
             "short": "Hebar 1918",
@@ -1300,7 +1296,7 @@
           "startDate": "2023-02-20T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1806,9 +1802,9 @@
         {
           "startDate": "2023-02-20T13:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -2379,7 +2375,7 @@
           "startDate": "2023-02-20T13:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -2406,7 +2402,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
