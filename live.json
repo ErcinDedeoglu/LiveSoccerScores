@@ -656,7 +656,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -1122,7 +1122,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -1149,7 +1149,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1159,7 +1159,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -1279,7 +1279,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1719,7 +1719,7 @@
           "startDate": "2023-02-20T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -1743,7 +1743,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 1,
@@ -2370,7 +2370,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -2450,7 +2450,7 @@
           "startDate": "2023-02-20T15:55:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 70,
             "extra": 0
           },
           "round": {
