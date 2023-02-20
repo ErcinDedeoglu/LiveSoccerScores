@@ -10,16 +10,12 @@
       "matches": [
         {
           "startDate": "2023-02-20T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GET",
             "short": "Getafe",
@@ -211,7 +207,7 @@
           "startDate": "2023-02-20T21:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -362,16 +358,12 @@
       "matches": [
         {
           "startDate": "2023-02-20T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WAT",
             "short": "Watford",
@@ -453,9 +445,9 @@
         {
           "startDate": "2023-02-20T21:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -769,8 +761,8 @@
           "startDate": "2023-02-20T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Group A",
@@ -844,16 +836,12 @@
       "matches": [
         {
           "startDate": "2023-02-20T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AQU",
             "short": "A Quilmes",
@@ -1699,16 +1687,12 @@
       "matches": [
         {
           "startDate": "2023-02-20T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAR",
             "short": "Martigues",
@@ -1729,7 +1713,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2373,7 +2357,7 @@
           "startDate": "2023-02-20T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -2656,16 +2640,12 @@
       "matches": [
         {
           "startDate": "2023-02-20T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAL",
             "short": "M\u00E1laga",
@@ -2847,8 +2827,8 @@
           "startDate": "2023-02-20T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Apertura",
