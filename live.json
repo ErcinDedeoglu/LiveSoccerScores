@@ -1859,7 +1859,7 @@
           "startDate": "2023-02-20T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 62,
             "extra": 0
           },
           "round": {
