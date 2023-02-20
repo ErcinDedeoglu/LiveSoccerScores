@@ -656,7 +656,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -1122,7 +1122,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -1149,7 +1149,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1159,7 +1159,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -1279,7 +1279,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -1718,9 +1718,9 @@
         {
           "startDate": "2023-02-20T16:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 54,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2179,16 +2179,12 @@
       "matches": [
         {
           "startDate": "2023-02-20T15:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 9
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GOM",
             "short": "Gombe Utd",
@@ -2374,7 +2370,7 @@
           "startDate": "2023-02-20T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -2454,7 +2450,7 @@
           "startDate": "2023-02-20T15:55:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 60,
             "extra": 0
           },
           "round": {
