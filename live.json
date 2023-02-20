@@ -467,8 +467,8 @@
           "startDate": "2023-02-20T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Round of 16",
@@ -627,7 +627,7 @@
           "startDate": "2023-02-20T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -654,7 +654,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1233,8 +1233,8 @@
           "startDate": "2023-02-20T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -1261,7 +1261,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1811,16 +1811,12 @@
       "matches": [
         {
           "startDate": "2023-02-20T13:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 75,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NER",
             "short": "NEROCA",
@@ -2162,7 +2158,7 @@
           "startDate": "2023-02-20T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -2189,8 +2185,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2199,7 +2195,7 @@
           "startDate": "2023-02-20T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -2226,7 +2222,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2397,16 +2393,12 @@
       "matches": [
         {
           "startDate": "2023-02-20T13:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 61,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GFA",
             "short": "Gharafa",
@@ -2476,7 +2468,7 @@
           "startDate": "2023-02-20T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -2504,7 +2496,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
