@@ -554,46 +554,6 @@
     },
     {
       "competition": {
-        "name": "Club Friendlies",
-        "area": {
-          "name": "World"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-02-20T10:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Club Friendlies 2",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "S\u0130V",
-            "short": "Sivasspor",
-            "long": "Sivasspor",
-            "full": "Sivasspor Kul\u00FCb\u00FC",
-            "name": "Sivasspor"
-          },
-          "teamB": {
-            "code": "TOK",
-            "short": "Tokat BDPS",
-            "long": "Tokat Bld Plevnespor",
-            "full": "Tokat Belediye Plevne Spor Kul\u00FCb\u00FC",
-            "name": "Tokat BDPS"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Liga Nacional",
         "area": {
           "name": "Honduras"
