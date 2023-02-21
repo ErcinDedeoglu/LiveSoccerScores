@@ -1572,12 +1572,16 @@
       "matches": [
         {
           "startDate": "2023-02-21T08:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "RKS",
             "short": "Real Kashmir",
@@ -1596,7 +1600,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1614,7 +1621,7 @@
           "startDate": "2023-02-21T08:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 33,
             "extra": 0
           },
           "round": {
