@@ -483,9 +483,9 @@
         {
           "startDate": "2023-02-21T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Group Stage",
@@ -902,9 +902,9 @@
         {
           "startDate": "2023-02-21T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -1865,7 +1865,7 @@
           "startDate": "2023-02-21T15:55:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -2025,7 +2025,7 @@
           "startDate": "2023-02-21T16:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -2071,9 +2071,9 @@
         {
           "startDate": "2023-02-21T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Friendlies 1",
@@ -2100,7 +2100,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2109,7 +2109,7 @@
           "startDate": "2023-02-21T17:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -2185,9 +2185,9 @@
         {
           "startDate": "2023-02-21T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Finals",
