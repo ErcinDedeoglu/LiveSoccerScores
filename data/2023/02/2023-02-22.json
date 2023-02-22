@@ -1857,6 +1857,36 @@
           "score": null,
           "agg": null,
           "penalty": null
+        },
+        {
+          "startDate": "2023-02-22T22:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "COM",
+            "short": "Comunicaciones",
+            "long": "Comunicaciones",
+            "full": "CSD Comunicaciones",
+            "name": "Comunicaciones"
+          },
+          "teamB": {
+            "code": "IZT",
+            "short": "Iztapa",
+            "long": "Iztapa",
+            "full": "Club Deportivo Iztapa",
+            "name": "Iztapa"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
         }
       ]
     },
@@ -1945,7 +1975,7 @@
           "startDate": "2023-02-22T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 13,
             "extra": 0
           },
           "round": {
@@ -1972,8 +2002,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2597,7 +2627,7 @@
           "startDate": "2023-02-22T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -2624,7 +2654,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -2634,7 +2664,7 @@
           "startDate": "2023-02-22T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -3000,7 +3030,7 @@
           "startDate": "2023-02-22T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -3027,7 +3057,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,

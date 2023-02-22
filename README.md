@@ -302,6 +302,7 @@
 | <p align="center">20:30</p> | <p align="right">Guastatoya <img src="/static/logos/Deportivo Guastatoya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Santa Lucía Cotzumalguapa FC.png" height="25px"> Santa Lucía</p> |
 | <p align="center">21:30</p> | <p align="right">Achuapa <img src="/static/logos/Deportivo Achuapa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Xinabajul.png" height="25px"> Xinabajul</p> |
 | <p align="center">21:30</p> | <p align="right">Cobán <img src="/static/logos/CSyD Cobán Imperial.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"> Xelajú</p> |
+| <p align="center">22:00</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportivo Iztapa.png" height="25px"> Iztapa</p> |
 </div>
 
 
@@ -322,7 +323,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sudeva <img src="/static/logos/Sudeva Delhi FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"> TRAU</p> |
-| <p align="center">2'</p> | <p align="right">Churchill <img src="/static/logos/Churchill Brothers FC Goa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kenkre FC.png" height="25px"> Kenkre</p> |
+| <p align="center">13'</p> | <p align="right">Churchill <img src="/static/logos/Churchill Brothers FC Goa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kenkre FC.png" height="25px"> Kenkre</p> |
 </div>
 
 
@@ -421,8 +422,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">46'</p> | <p align="right">Ratchaburi <img src="/static/logos/Ratchaburi FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Samut Songkhram FC.png" height="25px"> Songkhram</p> |
-| <p align="center">4'</p> | <p align="right">Chiangmai <img src="/static/logos/Chiangmai FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BG Pathum United FC.png" height="25px"> BGPU</p> |
+| <p align="center">57'</p> | <p align="right">Ratchaburi <img src="/static/logos/Ratchaburi FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Samut Songkhram FC.png" height="25px"> Songkhram</p> |
+| <p align="center">14'</p> | <p align="right">Chiangmai <img src="/static/logos/Chiangmai FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BG Pathum United FC.png" height="25px"> BGPU</p> |
 | <p align="center">11:30</p> | <p align="right">Bangkok Utd <img src="/static/logos/True Bangkok United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Buriram United FC.png" height="25px"> Buriram Utd</p> |
 | <p align="center">12:00</p> | <p align="right">Lamphun <img src="/static/logos/Lamphun Warrior FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Prachuap FC.png" height="25px"> Prachuap</p> |
 </div>
@@ -477,7 +478,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Finland <img src="/static/logos/Finland.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Romania.png" height="25px"> Romania</p> |
+| <p align="center">15'</p> | <p align="right">Finland <img src="/static/logos/Finland.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Romania.png" height="25px"> Romania</p> |
 | <p align="center">16:00</p> | <p align="right">Hungary <img src="/static/logos/Hungary.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Croatia.png" height="25px"> Croatia</p> |
 </div>
 
