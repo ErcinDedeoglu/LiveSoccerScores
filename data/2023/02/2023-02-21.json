@@ -951,39 +951,6 @@
           },
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-02-21T17:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "HAR",
-            "short": "Haras",
-            "long": "Haras El Hodood",
-            "full": "Haras El Hodood",
-            "name": "Haras"
-          },
-          "teamB": {
-            "code": "PHA",
-            "short": "Pharco",
-            "long": "Pharco",
-            "full": "Pharco",
-            "name": "Pharco"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
         }
       ]
     },
