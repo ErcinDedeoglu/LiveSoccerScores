@@ -80,16 +80,12 @@
       "matches": [
         {
           "startDate": "2023-02-22T00:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 24,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CUR",
             "short": "Curic\u00F3 Unido",
@@ -110,9 +106,12 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "penalty": null
         },
         {
@@ -237,12 +236,16 @@
       "matches": [
         {
           "startDate": "2023-02-22T01:05:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 85,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MOB",
             "short": "Raya2",
@@ -261,7 +264,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -407,16 +413,12 @@
       "matches": [
         {
           "startDate": "2023-02-22T00:10:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 11,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AND",
             "short": "Los Andes",
@@ -436,8 +438,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1149,7 +1151,7 @@
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "LEO",
             "short": "Leones",
@@ -1168,7 +1170,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -1323,12 +1328,16 @@
       "matches": [
         {
           "startDate": "2023-02-22T02:00:00Z",
-          "period": null,
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ALA",
             "short": "Alajuelense",
@@ -1347,7 +1356,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -2043,12 +2055,16 @@
       "matches": [
         {
           "startDate": "2023-02-22T01:00:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 90,
+            "extra": 2
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GUA",
             "short": "Guatemala",
@@ -2067,7 +2083,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 5
+          },
           "agg": null,
           "penalty": null
         },
@@ -2528,7 +2547,7 @@
             "name": "Final",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "IVA",
             "short": "Ind. del Valle",
@@ -2544,11 +2563,17 @@
             "name": "Flamengo"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
-          "score": null,
-          "agg": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "penalty": null
         }
       ]
@@ -2803,12 +2828,16 @@
       "matches": [
         {
           "startDate": "2023-02-22T01:00:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 90,
+            "extra": 0
+          },
           "round": {
             "name": "Finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHI",
             "short": "Chile",
@@ -2827,7 +2856,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -2873,12 +2905,16 @@
       "matches": [
         {
           "startDate": "2023-02-22T02:00:00Z",
-          "period": null,
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
+          },
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MEX",
             "short": "Mexico",
@@ -2897,7 +2933,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
