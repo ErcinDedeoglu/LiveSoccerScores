@@ -228,6 +228,112 @@
     },
     {
       "competition": {
+        "name": "Club Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-02-22T11:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Club Friendlies 2",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BJK",
+            "short": "Be\u015Fikta\u015F",
+            "long": "Be\u015Fikta\u015F",
+            "full": "Be\u015Fikta\u015F Jimnastik Kul\u00FCb\u00FC",
+            "name": "Be\u015Fikta\u015F"
+          },
+          "teamB": {
+            "code": "EY\u00DC",
+            "short": "Ey\u00FCp",
+            "long": "Ey\u00FCpspor",
+            "full": "Ey\u00FCp Spor Kul\u00FCb\u00FC",
+            "name": "Ey\u00FCp"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-22T11:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Club Friendlies 2",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "GS",
+            "short": "Galatasaray",
+            "long": "Galatasaray",
+            "full": "Galatasaray Spor Kul\u00FCb\u00FC",
+            "name": "Galatasaray"
+          },
+          "teamB": {
+            "code": "GN\u00C7",
+            "short": "Gen\u00E7lerbirli\u011Fi",
+            "long": "Gen\u00E7lerbirli\u011Fi",
+            "full": "Gen\u00E7lerbirli\u011Fi Spor Kul\u00FCb\u00FC",
+            "name": "Gen\u00E7lerbirli\u011Fi"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-22T16:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Club Friendlies 2",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "GS",
+            "short": "Galatasaray",
+            "long": "Galatasaray",
+            "full": "Galatasaray Spor Kul\u00FCb\u00FC",
+            "name": "Galatasaray"
+          },
+          "teamB": {
+            "code": "PEN",
+            "short": "Pendik",
+            "long": "Pendikspor",
+            "full": "Pendik Spor Kul\u00FCb\u00FC",
+            "name": "Pendik"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Liga de Expansi\u00F3n MX",
         "area": {
           "name": "Mexico"
@@ -343,8 +449,8 @@
         {
           "startDate": "2023-02-22T14:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 56,
             "extra": 0
           },
           "round": {
@@ -372,7 +478,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1439,7 +1545,7 @@
           "startDate": "2023-02-22T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -1599,7 +1705,7 @@
           "startDate": "2023-02-22T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -1627,7 +1733,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1925,9 +2031,9 @@
         {
           "startDate": "2023-02-22T14:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 56,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2196,12 +2302,16 @@
       "matches": [
         {
           "startDate": "2023-02-22T15:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 10,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "WAR",
             "short": "Warriors",
@@ -2220,18 +2330,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-02-22T15:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 11,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BAY",
             "short": "Bayelsa Utd",
@@ -2250,7 +2367,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2538,7 +2658,7 @@
           "startDate": "2023-02-22T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 57,
             "extra": 0
           },
           "round": {
