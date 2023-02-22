@@ -344,7 +344,7 @@
           "startDate": "2023-02-22T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -1592,7 +1592,7 @@
           "startDate": "2023-02-22T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -1919,7 +1919,7 @@
           "startDate": "2023-02-22T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -2531,7 +2531,7 @@
           "startDate": "2023-02-22T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -2794,16 +2794,12 @@
       "matches": [
         {
           "startDate": "2023-02-22T12:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "EST",
             "short": "Tunis",
@@ -3022,7 +3018,7 @@
           "startDate": "2023-02-22T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 79,
             "extra": 0
           },
           "round": {
