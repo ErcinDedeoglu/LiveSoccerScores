@@ -59,7 +59,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Raya2 <img src="/static/logos/Raya2 Expansión.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cancún FC.png" height="25px"> Cancún</p> |
-| <p align="center">HT</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"> Dorados</p> |
+| <p align="center">68'</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"> Dorados</p> |
 | <p align="center">23:00</p> | <p align="right">Tepa <img src="/static/logos/Tepatitlán FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
 </div>
 
@@ -375,12 +375,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Huntly <img src="/static/logos/Huntly FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Keith FC.png" height="25px"> Keith</p> |
-| <p align="center">15:00</p> | <p align="right">Lossiemouth <img src="/static/logos/Lossiemouth FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Banks O' Dee FC.png" height="25px"> Banks O' Dee</p> |
-| <p align="center">15:00</p> | <p align="right">Rothes <img src="/static/logos/Rothes FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Strathspey Thistle FC.png" height="25px"> Strathspey</p> |
-| <p align="center">15:00</p> | <p align="right">Wick <img src="/static/logos/Wick Academy FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brora Rangers FC.png" height="25px"> Brora Rangers</p> |
 | <p align="center">20:00</p> | <p align="right">Formartine Utd <img src="/static/logos/Formartine United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brechin City FC.png" height="25px"> Brechin</p> |
 | <p align="center">20:00</p> | <p align="right">Forres <img src="/static/logos/Forres Mechanics FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Clachnacuddin FC.png" height="25px"> Clachnacuddin</p> |
+| <p align="center">20:00</p> | <p align="right">Huntly <img src="/static/logos/Huntly FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Keith FC.png" height="25px"> Keith</p> |
+| <p align="center">20:00</p> | <p align="right">Lossiemouth <img src="/static/logos/Lossiemouth FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Banks O' Dee FC.png" height="25px"> Banks O' Dee</p> |
+| <p align="center">20:00</p> | <p align="right">Rothes <img src="/static/logos/Rothes FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Strathspey Thistle FC.png" height="25px"> Strathspey</p> |
+| <p align="center">20:00</p> | <p align="right">Wick <img src="/static/logos/Wick Academy FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brora Rangers FC.png" height="25px"> Brora Rangers</p> |
 </div>
 
 
@@ -488,7 +488,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">Czech Republic <img src="/static/logos/Czech Republic.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
+| <p align="center">HT</p> | <p align="right">Czech Republic <img src="/static/logos/Czech Republic.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
 | <p align="center">08:10</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jamaica.png" height="25px"> Jamaica</p> |
 </div>
 

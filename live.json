@@ -270,9 +270,9 @@
         {
           "startDate": "2023-02-22T03:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 68,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -2236,126 +2236,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-02-22T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Highland League",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "HUN",
-            "short": "Huntly",
-            "long": "Huntly",
-            "full": "Huntly FC",
-            "name": "Huntly"
-          },
-          "teamB": {
-            "code": "KEI",
-            "short": "Keith",
-            "long": "Keith",
-            "full": "Keith FC",
-            "name": "Keith"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-02-22T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Highland League",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "LOS",
-            "short": "Lossiemouth",
-            "long": "Lossiemouth",
-            "full": "Lossiemouth FC",
-            "name": "Lossiemouth"
-          },
-          "teamB": {
-            "code": "BOD",
-            "short": "Banks O\u0027 Dee",
-            "long": "Banks O\u0027 Dee",
-            "full": "Banks O\u0027 Dee FC",
-            "name": "Banks O\u0027 Dee"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-02-22T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Highland League",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "RTH",
-            "short": "Rothes",
-            "long": "Rothes",
-            "full": "Rothes FC",
-            "name": "Rothes"
-          },
-          "teamB": {
-            "code": "STR",
-            "short": "Strathspey",
-            "long": "Strathspey Thistle",
-            "full": "Strathspey Thistle FC",
-            "name": "Strathspey"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-02-22T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Highland League",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "WIC",
-            "short": "Wick",
-            "long": "Wick Academy",
-            "full": "Wick Academy FC",
-            "name": "Wick"
-          },
-          "teamB": {
-            "code": "BRO",
-            "short": "Brora Rangers",
-            "long": "Brora Rangers",
-            "full": "Brora Rangers FC",
-            "name": "Brora Rangers"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-02-22T20:00:00Z",
           "period": null,
           "round": {
@@ -2406,6 +2286,126 @@
             "long": "Clachnacuddin",
             "full": "Clachnacuddin FC",
             "name": "Clachnacuddin"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-22T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Highland League",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "HUN",
+            "short": "Huntly",
+            "long": "Huntly",
+            "full": "Huntly FC",
+            "name": "Huntly"
+          },
+          "teamB": {
+            "code": "KEI",
+            "short": "Keith",
+            "long": "Keith",
+            "full": "Keith FC",
+            "name": "Keith"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-22T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Highland League",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "LOS",
+            "short": "Lossiemouth",
+            "long": "Lossiemouth",
+            "full": "Lossiemouth FC",
+            "name": "Lossiemouth"
+          },
+          "teamB": {
+            "code": "BOD",
+            "short": "Banks O\u0027 Dee",
+            "long": "Banks O\u0027 Dee",
+            "full": "Banks O\u0027 Dee FC",
+            "name": "Banks O\u0027 Dee"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-22T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Highland League",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "RTH",
+            "short": "Rothes",
+            "long": "Rothes",
+            "full": "Rothes FC",
+            "name": "Rothes"
+          },
+          "teamB": {
+            "code": "STR",
+            "short": "Strathspey",
+            "long": "Strathspey Thistle",
+            "full": "Strathspey Thistle FC",
+            "name": "Strathspey"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-02-22T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Highland League",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "WIC",
+            "short": "Wick",
+            "long": "Wick Academy",
+            "full": "Wick Academy FC",
+            "name": "Wick"
+          },
+          "teamB": {
+            "code": "BRO",
+            "short": "Brora Rangers",
+            "long": "Brora Rangers",
+            "full": "Brora Rangers FC",
+            "name": "Brora Rangers"
           },
           "redCards": {
             "teamA": 0,
@@ -3040,8 +3040,8 @@
         {
           "startDate": "2023-02-22T03:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
