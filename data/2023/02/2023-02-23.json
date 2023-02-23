@@ -193,16 +193,12 @@
         },
         {
           "startDate": "2023-02-23T20:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 130,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "REN",
             "short": "Rennes",
@@ -231,7 +227,7 @@
           },
           "penalty": {
             "teamA": 4,
-            "teamB": 4
+            "teamB": 5
           }
         },
         {
@@ -738,9 +734,9 @@
         {
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "2nd Round",
@@ -1218,9 +1214,9 @@
         {
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 4
           },
           "round": {
             "name": "1st Round",
@@ -1255,9 +1251,9 @@
         {
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 4
           },
           "round": {
             "name": "1st Round",
@@ -1291,12 +1287,16 @@
         },
         {
           "startDate": "2023-02-23T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CEI",
             "short": "Ceil\u00E2ndia",
@@ -1315,7 +1315,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1450,12 +1453,16 @@
         },
         {
           "startDate": "2023-02-23T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NAC",
             "short": "Nacional",
@@ -1474,7 +1481,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1491,9 +1501,9 @@
         {
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1637,9 +1647,9 @@
         {
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -1863,7 +1873,7 @@
           "startDate": "2023-02-23T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -1944,16 +1954,12 @@
         },
         {
           "startDate": "2023-02-23T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUA",
             "short": "Guadalupe",
