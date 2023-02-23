@@ -195,7 +195,7 @@
           "startDate": "2023-02-23T20:00:00Z",
           "period": {
             "type": "PENALTY",
-            "minute": 123,
+            "minute": 130,
             "extra": 0
           },
           "round": {
@@ -230,8 +230,8 @@
             "teamB": 3
           },
           "penalty": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 4,
+            "teamB": 4
           }
         },
         {
@@ -537,16 +537,12 @@
         },
         {
           "startDate": "2023-02-23T20:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 121,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Knockout Round Play-offs",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GNT",
             "short": "Gent",
@@ -574,8 +570,8 @@
             "teamB": 1
           },
           "penalty": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 5,
+            "teamB": 3
           }
         },
         {
@@ -742,9 +738,9 @@
         {
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "2nd Round",
@@ -1223,8 +1219,8 @@
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "1st Round",
@@ -1260,8 +1256,8 @@
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "1st Round",
@@ -1495,9 +1491,9 @@
         {
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -1641,9 +1637,9 @@
         {
           "startDate": "2023-02-23T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -1867,7 +1863,7 @@
           "startDate": "2023-02-23T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -1950,7 +1946,7 @@
           "startDate": "2023-02-23T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
+            "minute": 87,
             "extra": 0
           },
           "round": {
