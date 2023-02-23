@@ -2391,8 +2391,8 @@
           "startDate": "2023-02-23T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Friendlies 1",
