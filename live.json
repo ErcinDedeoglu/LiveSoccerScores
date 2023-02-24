@@ -605,16 +605,12 @@
       "matches": [
         {
           "startDate": "2023-02-24T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "UDG",
             "short": "Leones Negros",
