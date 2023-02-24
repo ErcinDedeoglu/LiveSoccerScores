@@ -1734,16 +1734,12 @@
         },
         {
           "startDate": "2023-02-23T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VIL",
             "short": "Vila Nova",
@@ -1767,7 +1763,10 @@
             "teamB": 0
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 3
+          }
         }
       ]
     },
