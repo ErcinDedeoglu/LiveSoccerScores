@@ -208,7 +208,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">San Telmo <img src="/static/logos/CA San Telmo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA All Boys.png" height="25px"> All Boys</p> |
-| <p align="center">45' 1'</p> | <p align="right">Villa Dálmine <img src="/static/logos/Club Villa Dálmine.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CSyD Tristán Suárez.png" height="25px"> Tristán Suárez</p> |
+| <p align="center">HT</p> | <p align="right">Villa Dálmine <img src="/static/logos/Club Villa Dálmine.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CSyD Tristán Suárez.png" height="25px"> Tristán Suárez</p> |
 | <p align="center">23:10</p> | <p align="right">Est Caseros <img src="/static/logos/CA Estudiantes de Caseros.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Riestra.png" height="25px"> Riestra</p> |
 </div>
 
@@ -637,7 +637,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Sportivo Amel. <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Nacional Asunción.png" height="25px"> Nacional</p> |
+| <p align="center">90' 4'</p> | <p align="right">Sportivo Amel. <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Nacional Asunción.png" height="25px"> Nacional</p> |
 | <p align="center">23:30</p> | <p align="right">Cerro Porteño <img src="/static/logos/Club Cerro Porteño.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Resistencia SC.png" height="25px"> Resistencia</p> |
 </div>
 
@@ -832,7 +832,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Colmenárez <img src="/static/logos/CD Hermanos Colmenárez FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo La Guaira.png" height="25px"> Dep. La Guaira</p> |
+| <p align="center">FT</p> | <p align="right">Colmenárez <img src="/static/logos/CD Hermanos Colmenárez FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo La Guaira.png" height="25px"> Dep. La Guaira</p> |
 | <p align="center">23:30</p> | <p align="right">Monagas <img src="/static/logos/Monagas SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Angostura FC.png" height="25px"> Angostura</p> |
 </div>
 
