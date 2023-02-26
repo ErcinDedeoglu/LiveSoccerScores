@@ -520,12 +520,16 @@
       "matches": [
         {
           "startDate": "2023-02-26T11:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BOL",
             "short": "Bologna",
@@ -544,7 +548,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1048,7 +1055,7 @@
           "startDate": "2023-02-26T11:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1076,7 +1083,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -4825,9 +4832,9 @@
         {
           "startDate": "2023-02-26T10:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -6342,7 +6349,7 @@
           "startDate": "2023-02-26T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -6370,7 +6377,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -7458,7 +7465,7 @@
           "startDate": "2023-02-26T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -7486,7 +7493,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -7648,7 +7655,7 @@
           "startDate": "2023-02-26T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -7675,7 +7682,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -7728,7 +7735,7 @@
           "startDate": "2023-02-26T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -8343,12 +8350,16 @@
       "matches": [
         {
           "startDate": "2023-02-26T11:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 11,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SAM",
             "short": "Sampdoria",
@@ -8367,7 +8378,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -8865,7 +8879,7 @@
           "startDate": "2023-02-26T11:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -9210,12 +9224,16 @@
       "matches": [
         {
           "startDate": "2023-02-26T11:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "STM",
             "short": "Stal Mielec",
@@ -9234,7 +9252,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -9310,12 +9331,16 @@
       "matches": [
         {
           "startDate": "2023-02-26T11:40:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "RCH",
             "short": "Ruch",
@@ -9334,7 +9359,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -9412,7 +9440,7 @@
           "startDate": "2023-02-26T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -9449,7 +9477,7 @@
           "startDate": "2023-02-26T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -9816,46 +9844,6 @@
     },
     {
       "competition": {
-        "name": "Super Liga",
-        "area": {
-          "name": "Serbia"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-02-26T15:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "PAR",
-            "short": "Partizan",
-            "long": "Partizan",
-            "full": "FK Partizan Beograd",
-            "name": "Partizan"
-          },
-          "teamB": {
-            "code": "RKR",
-            "short": "Radni\u010Dki Krag",
-            "long": "Radni\u010Dki Kragujevac",
-            "full": "FK Radni\u010Dki 1923 Kragujevac",
-            "name": "Radni\u010Dki Krag"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Premier League",
         "area": {
           "name": "Singapore"
@@ -9866,7 +9854,7 @@
           "startDate": "2023-02-26T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -9893,7 +9881,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 2
           },
           "agg": null,
@@ -10672,9 +10660,9 @@
         {
           "startDate": "2023-02-26T10:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -10710,7 +10698,7 @@
           "startDate": "2023-02-26T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -10745,12 +10733,16 @@
         },
         {
           "startDate": "2023-02-26T11:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 11,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "UTD",
             "short": "Bangkok Utd",
@@ -10769,7 +10761,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -10816,9 +10811,9 @@
         {
           "startDate": "2023-02-26T10:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -10854,7 +10849,7 @@
           "startDate": "2023-02-26T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -10881,7 +10876,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -10889,12 +10884,16 @@
         },
         {
           "startDate": "2023-02-26T11:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHU",
             "short": "Chiangmai Utd",
@@ -10913,7 +10912,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
