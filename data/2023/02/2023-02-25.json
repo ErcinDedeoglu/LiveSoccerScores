@@ -12826,39 +12826,6 @@
           }
         },
         {
-          "startDate": "2023-02-25T12:15:00Z",
-          "period": null,
-          "round": {
-            "name": "Round of 16",
-            "display": true
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "WAR",
-            "short": "Wartburgia",
-            "long": "Wartburgia",
-            "full": "ASV Wartburgia",
-            "name": "Wartburgia"
-          },
-          "teamB": {
-            "code": "ADO",
-            "short": "ADO",
-            "long": "ADO Den Haag",
-            "full": "ADO Den Haag",
-            "name": "ADO"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 2,
-            "teamB": 5
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-02-25T13:30:00Z",
           "period": null,
           "round": {
