@@ -1794,8 +1794,8 @@
           "startDate": "2023-02-26T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -2080,9 +2080,9 @@
         {
           "startDate": "2023-02-26T05:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -2944,8 +2944,8 @@
           "startDate": "2023-02-26T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -2981,7 +2981,7 @@
           "startDate": "2023-02-26T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -3009,7 +3009,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3060,9 +3060,9 @@
         {
           "startDate": "2023-02-26T05:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 5
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -8393,8 +8393,8 @@
           "startDate": "2023-02-26T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
+            "minute": 90,
+            "extra": 7
           },
           "round": {
             "name": "Regular Season",
@@ -8428,16 +8428,12 @@
         },
         {
           "startDate": "2023-02-26T04:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ROS",
             "short": "Kumamoto",
@@ -8467,7 +8463,7 @@
           "startDate": "2023-02-26T04:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -8504,7 +8500,7 @@
           "startDate": "2023-02-26T04:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -8541,7 +8537,7 @@
           "startDate": "2023-02-26T04:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -8577,9 +8573,9 @@
         {
           "startDate": "2023-02-26T05:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -8654,9 +8650,9 @@
         {
           "startDate": "2023-02-26T05:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -8692,7 +8688,7 @@
           "startDate": "2023-02-26T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 25,
             "extra": 0
           },
           "round": {
