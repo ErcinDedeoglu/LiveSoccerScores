@@ -425,7 +425,7 @@
           "startDate": "2023-02-27T22:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -452,7 +452,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -548,7 +548,7 @@
           "startDate": "2023-02-27T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -575,8 +575,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -585,7 +585,7 @@
           "startDate": "2023-02-27T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -630,12 +630,16 @@
       "matches": [
         {
           "startDate": "2023-02-27T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "COP",
             "short": "Copiap\u00F3",
@@ -654,18 +658,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-02-27T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 12,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "EVE",
             "short": "Everton",
@@ -684,7 +695,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -897,7 +911,7 @@
           "startDate": "2023-02-27T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -924,7 +938,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -944,7 +958,7 @@
           "startDate": "2023-02-27T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1023,9 +1037,9 @@
         {
           "startDate": "2023-02-27T22:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Ta\u00E7a Guanabara",
@@ -1071,7 +1085,7 @@
           "startDate": "2023-02-27T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -1094,7 +1108,7 @@
             "name": "S\u00E3o Luiz"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -1108,7 +1122,7 @@
           "startDate": "2023-02-27T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -1155,7 +1169,7 @@
           "startDate": "2023-02-27T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -1179,10 +1193,10 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1202,7 +1216,7 @@
           "startDate": "2023-02-27T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -1229,8 +1243,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 1
+            "teamA": 3,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2848,16 +2862,12 @@
       "matches": [
         {
           "startDate": "2023-02-27T21:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAL",
             "short": "La Luz",
