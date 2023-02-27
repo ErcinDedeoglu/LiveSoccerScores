@@ -281,16 +281,12 @@
         },
         {
           "startDate": "2023-02-27T21:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VIG",
             "short": "Guimar\u00E3es",
@@ -428,9 +424,9 @@
         {
           "startDate": "2023-02-27T22:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -552,7 +548,7 @@
           "startDate": "2023-02-27T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -589,7 +585,7 @@
           "startDate": "2023-02-27T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -901,7 +897,7 @@
           "startDate": "2023-02-27T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -928,7 +924,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -948,7 +944,7 @@
           "startDate": "2023-02-27T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -976,7 +972,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1027,9 +1023,9 @@
         {
           "startDate": "2023-02-27T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 5
           },
           "round": {
             "name": "Ta\u00E7a Guanabara",
@@ -1075,7 +1071,7 @@
           "startDate": "2023-02-27T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -1112,7 +1108,7 @@
           "startDate": "2023-02-27T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1159,7 +1155,7 @@
           "startDate": "2023-02-27T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -1206,7 +1202,7 @@
           "startDate": "2023-02-27T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -2854,8 +2850,8 @@
           "startDate": "2023-02-27T21:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Apertura",
@@ -2878,7 +2874,7 @@
           },
           "redCards": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 1,
