@@ -1747,16 +1747,12 @@
         },
         {
           "startDate": "2023-02-26T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COL",
             "short": "Colo Colo",
@@ -1776,7 +1772,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 3
           },
           "agg": null,
@@ -2993,16 +2989,12 @@
         },
         {
           "startDate": "2023-02-26T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "IND",
             "short": "Independiente",
@@ -3661,16 +3653,12 @@
         },
         {
           "startDate": "2023-02-26T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAP",
             "short": "Palmaflor",
@@ -3774,16 +3762,12 @@
         },
         {
           "startDate": "2023-02-26T23:40:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "POR",
             "short": "Portuguesa",
@@ -11855,7 +11839,7 @@
       },
       "matches": [
         {
-          "startDate": "2023-02-26T18:50:00Z",
+          "startDate": "2023-02-26T19:00:00Z",
           "period": null,
           "round": {
             "name": "Regular Season",
@@ -11888,7 +11872,7 @@
           "penalty": null
         },
         {
-          "startDate": "2023-02-26T21:15:00Z",
+          "startDate": "2023-02-26T21:05:00Z",
           "period": null,
           "round": {
             "name": "Regular Season",
