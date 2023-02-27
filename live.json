@@ -12,7 +12,7 @@
           "startDate": "2023-02-27T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -39,7 +39,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -169,7 +169,7 @@
           "startDate": "2023-02-27T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -197,7 +197,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -492,7 +492,7 @@
           "startDate": "2023-02-27T01:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -2150,16 +2150,12 @@
       "matches": [
         {
           "startDate": "2023-02-27T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Final",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MEX",
             "short": "Mexico",
@@ -2179,7 +2175,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
