@@ -2542,7 +2542,7 @@
           "startDate": "2023-02-28T08:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 24,
             "extra": 0
           },
           "round": {
