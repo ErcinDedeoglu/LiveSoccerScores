@@ -111,8 +111,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">Egnatia <img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Laçi.png" height="25px"> Laçi</p> |
-| <p align="center">74'</p> | <p align="right">Kastrioti <img src="/static/logos/KS Kastrioti Krujë.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/KF Tirana.png" height="25px"> Tirana</p> |
+| <p align="center">90'</p> | <p align="right">Egnatia <img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Laçi.png" height="25px"> Laçi</p> |
+| <p align="center">89'</p> | <p align="right">Kastrioti <img src="/static/logos/KS Kastrioti Krujë.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/KF Tirana.png" height="25px"> Tirana</p> |
 </div>
 
 
@@ -363,8 +363,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Leeds Utd <img src="/static/logos/Leeds United FC Under 18 Academy.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Middlesbrough FC Under 18 Academy.png" height="25px"> Middlesbrough</p> |
-| <p align="center">72'</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal FC Under 18 Academy.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Crystal Palace FC Under 18 Academy.png" height="25px"> Crystal Palace</p> |
+| <p align="center">90' 2'</p> | <p align="right">Leeds Utd <img src="/static/logos/Leeds United FC Under 18 Academy.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Middlesbrough FC Under 18 Academy.png" height="25px"> Middlesbrough</p> |
+| <p align="center">88'</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal FC Under 18 Academy.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Crystal Palace FC Under 18 Academy.png" height="25px"> Crystal Palace</p> |
 </div>
 
 
@@ -374,7 +374,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Hajduk <img src="/static/logos/HNK Hajduk Split Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Manchester City FC Under 19.png" height="25px"> Man City</p> |
+| <p align="center">HT</p> | <p align="right">Hajduk <img src="/static/logos/HNK Hajduk Split Under 19.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Manchester City FC Under 19.png" height="25px"> Man City</p> |
 | <p align="center">14:00</p> | <p align="right">Milan <img src="/static/logos/AC Milan U19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Rukh Vynnyky U19.png" height="25px"> Rukh Vynnyky</p> |
 | <p align="center">15:00</p> | <p align="right">Dortmund <img src="/static/logos/BV Borussia 09 Dortmund Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paris Saint Germain FC Under 19.png" height="25px"> PSG</p> |
 </div>
@@ -410,7 +410,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Aizawl <img src="/static/logos/Aizawl FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sreenidi Deccan FC.png" height="25px"> Sreenidi</p> |
-| <p align="center">4'</p> | <p align="right">Mohammedan <img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rajasthan United FC.png" height="25px"> Rajasthan Utd</p> |
+| <p align="center">19'</p> | <p align="right">Mohammedan <img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Rajasthan United FC.png" height="25px"> Rajasthan Utd</p> |
 </div>
 
 
@@ -433,7 +433,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Havadar <img src="/static/logos/Havadar SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Rafsanjan</p> |
 | <p align="center">FT</p> | <p align="right">Nassaji <img src="/static/logos/Nassaji Mazandaran.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Esteghlal FC.png" height="25px"> Esteghlal</p> |
-| <p align="center">32'</p> | <p align="right">Aluminium Arak <img src="/static/logos/Aluminium Arak FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"> Sepahan</p> |
+| <p align="center">HT</p> | <p align="right">Aluminium Arak <img src="/static/logos/Aluminium Arak FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"> Sepahan</p> |
 | <p align="center">14:30</p> | <p align="right">Sanat Naft <img src="/static/logos/Sanat Naft FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tractor SC.png" height="25px"> Tractor</p> |
 </div>
 
@@ -467,7 +467,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">34'</p> | <p align="right">PDRM <img src="/static/logos/Polis Di-Raja Malaysia FA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Perak Darul Ridzuan.png" height="25px"> Perak</p> |
+| <p align="center">45' 3'</p> | <p align="right">PDRM <img src="/static/logos/Polis Di-Raja Malaysia FA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Perak Darul Ridzuan.png" height="25px"> Perak</p> |
 </div>
 
 
@@ -497,7 +497,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Lechia ZG <img src="/static/logos/KS Lechia Zielona Góra.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/KP Legia Warszawa.png" height="25px"> Legia</p> |
+| <p align="center">89'</p> | <p align="right">Lechia ZG <img src="/static/logos/KS Lechia Zielona Góra.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/KP Legia Warszawa.png" height="25px"> Legia</p> |
 | <p align="center">16:30</p> | <p align="right">P Siedlce <img src="/static/logos/MKP Pogoń Siedlce.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/GKS Górnik Łęczna.png" height="25px"> Górnik Łęczna</p> |
 </div>
 
@@ -552,7 +552,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">Geylang <img src="/static/logos/Geylang International FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Young Lions.png" height="25px"> Young Lions</p> |
+| <p align="center">79'</p> | <p align="right">Geylang <img src="/static/logos/Geylang International FC.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Young Lions.png" height="25px"> Young Lions</p> |
 </div>
 
 
@@ -562,7 +562,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Komárno <img src="/static/logos/KFC Komárno.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Spartak Trnava.png" height="25px"> Spartak</p> |
+| <p align="center">HT</p> | <p align="right">Komárno <img src="/static/logos/KFC Komárno.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Spartak Trnava.png" height="25px"> Spartak</p> |
 </div>
 
 
@@ -604,7 +604,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Minai <img src="/static/logos/FC Minai.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Shakhtar Donetsk.png" height="25px"> Shakhtar D</p> |
+| <p align="center">HT</p> | <p align="right">Minai <img src="/static/logos/FC Minai.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/FC Shakhtar Donetsk.png" height="25px"> Shakhtar D</p> |
 </div>
 
 
