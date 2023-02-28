@@ -12,7 +12,7 @@
           "startDate": "2023-02-28T03:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -128,9 +128,9 @@
         {
           "startDate": "2023-02-28T03:10:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 66,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
