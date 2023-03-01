@@ -574,36 +574,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-03-01T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Clausura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "SOC",
-            "short": "Real Sociedad",
-            "long": "Real Sociedad",
-            "full": "CD Real Sociedad",
-            "name": "Real Sociedad"
-          },
-          "teamB": {
-            "code": "OLI",
-            "short": "Olimpia",
-            "long": "Olimpia",
-            "full": "CD Olimpia",
-            "name": "Olimpia"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-03-01T21:30:00Z",
           "period": null,
           "round": {
@@ -758,12 +728,16 @@
       "matches": [
         {
           "startDate": "2023-03-01T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PYU",
             "short": "Pyunik",
@@ -782,7 +756,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -829,8 +806,8 @@
         {
           "startDate": "2023-03-01T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 8,
+            "type": "SECOND_HALF",
+            "minute": 46,
             "extra": 0
           },
           "round": {
@@ -3003,6 +2980,36 @@
           "penalty": null
         },
         {
+          "startDate": "2023-03-01T21:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "ACH",
+            "short": "Achuapa",
+            "long": "Achuapa",
+            "full": "Deportivo Achuapa",
+            "name": "Achuapa"
+          },
+          "teamB": {
+            "code": "MAL",
+            "short": "Malacateco",
+            "long": "Malacateco",
+            "full": "CD Malacateco-Coatepeque",
+            "name": "Malacateco"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
           "startDate": "2023-03-01T21:30:00Z",
           "period": null,
           "round": {
@@ -3114,16 +3121,12 @@
       "matches": [
         {
           "startDate": "2023-03-01T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SUD",
             "short": "Sudeva",
@@ -3144,7 +3147,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -3225,8 +3228,8 @@
         {
           "startDate": "2023-03-01T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 6,
+            "type": "SECOND_HALF",
+            "minute": 46,
             "extra": 0
           },
           "round": {
@@ -3253,8 +3256,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -4604,12 +4607,16 @@
       "matches": [
         {
           "startDate": "2023-03-01T10:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 35,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "UTD",
             "short": "Bangkok Utd",
@@ -4628,18 +4635,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-03-01T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PAT",
             "short": "BGPU",
@@ -4658,7 +4672,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
