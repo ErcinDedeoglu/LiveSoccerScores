@@ -2869,7 +2869,7 @@
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "POSTPONED",
           "teamA": {
             "code": "LAM",
             "short": "Lamia",
@@ -2899,7 +2899,7 @@
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "POSTPONED",
           "teamA": {
             "code": "OLY",
             "short": "Olympiakos",
@@ -3186,7 +3186,7 @@
           "startDate": "2023-03-01T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 75,
             "extra": 0
           },
           "round": {
