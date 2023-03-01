@@ -3585,7 +3585,7 @@
           "startDate": "2023-03-01T04:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -3622,7 +3622,7 @@
           "startDate": "2023-03-01T04:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -3659,7 +3659,7 @@
           "startDate": "2023-03-01T04:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 76,
             "extra": 0
           },
           "round": {
