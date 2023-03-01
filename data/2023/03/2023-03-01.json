@@ -470,9 +470,9 @@
         {
           "startDate": "2023-03-01T01:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 79,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -498,8 +498,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -716,16 +716,12 @@
       "matches": [
         {
           "startDate": "2023-03-01T00:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AME",
             "short": "A Merlo",
@@ -963,16 +959,12 @@
       "matches": [
         {
           "startDate": "2023-03-01T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FEC",
             "short": "Fluminense PI",
@@ -4713,8 +4705,8 @@
         {
           "startDate": "2023-03-01T00:30:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 76,
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 96,
             "extra": 0
           },
           "round": {
@@ -4741,11 +4733,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "penalty": null
