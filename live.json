@@ -2043,46 +2043,6 @@
     },
     {
       "competition": {
-        "name": "Elite Two",
-        "area": {
-          "name": "Cameroon"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-01T14:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "STB",
-            "short": "Stade Bertoua",
-            "long": "Stade de Bertoua",
-            "full": "Stade FC de Bertoua",
-            "name": "Stade Bertoua"
-          },
-          "teamB": {
-            "code": "FSF",
-            "short": "Foncha",
-            "long": "Foncha ST",
-            "full": "Foncha Street FC",
-            "name": "Foncha"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Primera B",
         "area": {
           "name": "Colombia"
@@ -2280,226 +2240,6 @@
             "long": "Hajduk Split",
             "full": "HNK Hajduk Split",
             "name": "Hajduk"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Primera Division",
-        "area": {
-          "name": "Cuba"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-01T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ART",
-            "short": "Artemisa",
-            "long": "Artemisa",
-            "full": "Artemisa San Crist\u00F3bal",
-            "name": "Artemisa"
-          },
-          "teamB": {
-            "code": "CFG",
-            "short": "Cienfuegos",
-            "long": "Cienfuegos",
-            "full": "FC Cienfuegos",
-            "name": "Cienfuegos"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-01T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "HAB",
-            "short": "La Habana",
-            "long": "La Habana",
-            "full": "FC La Habana",
-            "name": "La Habana"
-          },
-          "teamB": {
-            "code": "PRI",
-            "short": "Pinar del R\u00EDo",
-            "long": "Pinar del R\u00EDo",
-            "full": "Pinar del R\u00EDo",
-            "name": "Pinar del R\u00EDo"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-01T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "MAT",
-            "short": "Matanzas",
-            "long": "Matanzas",
-            "full": "FC Matanzas",
-            "name": "Matanzas"
-          },
-          "teamB": {
-            "code": "MAY",
-            "short": "Mayabeque",
-            "long": "Mayabeque",
-            "full": "FC Mayabeque G\u00FCines",
-            "name": "Mayabeque"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-01T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "CAV",
-            "short": "Ciego \u00C1vila",
-            "long": "Ciego de \u00C1vila",
-            "full": "FC Ciego de \u00C1vila",
-            "name": "Ciego \u00C1vila"
-          },
-          "teamB": {
-            "code": "SSP",
-            "short": "Spiritus",
-            "long": "Sancti Spiritus",
-            "full": "Sancti Sp\u00EDritus",
-            "name": "Spiritus"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-01T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "GTM",
-            "short": "Guant\u00E1namo",
-            "long": "Guant\u00E1namo",
-            "full": "FC Guant\u00E1namo",
-            "name": "Guant\u00E1namo"
-          },
-          "teamB": {
-            "code": "GRA",
-            "short": "Granma",
-            "long": "Granma",
-            "full": "Granma",
-            "name": "Granma"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-01T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "LTU",
-            "short": "Las Tunas",
-            "long": "Las Tunas",
-            "full": "FC Las Tunas",
-            "name": "Las Tunas"
-          },
-          "teamB": {
-            "code": "CMG",
-            "short": "Camag\u00FCey",
-            "long": "Camag\u00FCey",
-            "full": "Camag\u00FCey",
-            "name": "Camag\u00FCey"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-01T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "SCU",
-            "short": "Santiago",
-            "long": "Santiago de Cuba",
-            "full": "Santiago de Cuba",
-            "name": "Santiago"
-          },
-          "teamB": {
-            "code": "HOL",
-            "short": "Holgu\u00EDn",
-            "long": "Holgu\u00EDn",
-            "full": "Holgu\u00EDn",
-            "name": "Holgu\u00EDn"
           },
           "redCards": {
             "teamA": 0,
@@ -3844,8 +3584,8 @@
         {
           "startDate": "2023-03-01T04:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
+            "type": "SECOND_HALF",
+            "minute": 51,
             "extra": 0
           },
           "round": {
@@ -3872,8 +3612,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 2
+            "teamA": 2,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -3881,8 +3621,8 @@
         {
           "startDate": "2023-03-01T04:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
+            "type": "SECOND_HALF",
+            "minute": 50,
             "extra": 0
           },
           "round": {
@@ -3918,8 +3658,8 @@
         {
           "startDate": "2023-03-01T04:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
+            "type": "SECOND_HALF",
+            "minute": 52,
             "extra": 0
           },
           "round": {

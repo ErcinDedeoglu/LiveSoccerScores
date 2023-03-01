@@ -242,16 +242,6 @@
 </div>
 
 
-## <img src="/static/logos/Cameroon-Elite Two.png" height="25px"> Cameroon - Elite Two
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Stade Bertoua <img src="/static/logos/Stade FC de Bertoua.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Foncha Street FC.png" height="25px"> Foncha</p> |
-</div>
-
-
 ## <img src="/static/logos/Colombia-Primera B.png" height="25px"> Colombia - Primera B
 
 <div align="center">
@@ -282,22 +272,6 @@
 | <p align="center">11:30</p> | <p align="right">Bijelo Brdo <img src="/static/logos/BSK Bijelo Brdo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/HNK Šibenik.png" height="25px"> Šibenik</p> |
 | <p align="center">14:00</p> | <p align="right">Dinamo Zagreb <img src="/static/logos/GNK Dinamo Zagreb.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NK Lokomotiva Zagreb.png" height="25px"> Lokomotiva</p> |
 | <p align="center">17:00</p> | <p align="right">Osijek <img src="/static/logos/NK Osijek.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/HNK Hajduk Split.png" height="25px"> Hajduk</p> |
-</div>
-
-
-## <img src="/static/logos/Cuba-Primera Division.png" height="25px"> Cuba - Primera Division
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20:00</p> | <p align="right">Artemisa <img src="/static/logos/Artemisa San Cristóbal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Cienfuegos.png" height="25px"> Cienfuegos</p> |
-| <p align="center">20:00</p> | <p align="right">La Habana <img src="/static/logos/FC La Habana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pinar del Río.png" height="25px"> Pinar del Río</p> |
-| <p align="center">20:00</p> | <p align="right">Matanzas <img src="/static/logos/FC Matanzas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Mayabeque Güines.png" height="25px"> Mayabeque</p> |
-| <p align="center">20:00</p> | <p align="right">Ciego Ávila <img src="/static/logos/FC Ciego de Ávila.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sancti Spíritus.png" height="25px"> Spiritus</p> |
-| <p align="center">20:00</p> | <p align="right">Guantánamo <img src="/static/logos/FC Guantánamo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Granma.png" height="25px"> Granma</p> |
-| <p align="center">20:00</p> | <p align="right">Las Tunas <img src="/static/logos/FC Las Tunas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Camagüey.png" height="25px"> Camagüey</p> |
-| <p align="center">20:00</p> | <p align="right">Santiago <img src="/static/logos/Santiago de Cuba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Holguín.png" height="25px"> Holguín</p> |
 </div>
 
 
@@ -498,9 +472,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">Cheonan City <img src="/static/logos/Cheonan City Government FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Busan IPark.png" height="25px"> Busan IPark</p> |
-| <p align="center">42'</p> | <p align="right">Dragons <img src="/static/logos/Jeonnam Dragons FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Anyang.png" height="25px"> Anyang</p> |
-| <p align="center">41'</p> | <p align="right">Gyeongnam <img src="/static/logos/Gyeongnam FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bucheon FC 1995.png" height="25px"> Bucheon</p> |
+| <p align="center">51'</p> | <p align="right">Cheonan City <img src="/static/logos/Cheonan City Government FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Busan IPark.png" height="25px"> Busan IPark</p> |
+| <p align="center">50'</p> | <p align="right">Dragons <img src="/static/logos/Jeonnam Dragons FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Anyang.png" height="25px"> Anyang</p> |
+| <p align="center">52'</p> | <p align="right">Gyeongnam <img src="/static/logos/Gyeongnam FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bucheon FC 1995.png" height="25px"> Bucheon</p> |
 | <p align="center">07:00</p> | <p align="right">Chungnam Asan <img src="/static/logos/Chungnam Asan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu FC.png" height="25px"> Gimcheon</p> |
 | <p align="center">07:00</p> | <p align="right">Seongnam <img src="/static/logos/Seongnam FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ansan Greeners FC.png" height="25px"> Ansan Greeners</p> |
 | <p align="center">07:00</p> | <p align="right">Seoul E-Land <img src="/static/logos/Seoul E-Land FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"> Cheongju</p> |
