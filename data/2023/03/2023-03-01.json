@@ -872,7 +872,7 @@
           "startDate": "2023-03-01T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -899,7 +899,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -909,7 +909,7 @@
           "startDate": "2023-03-01T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -937,7 +937,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2192,7 +2192,7 @@
           "startDate": "2023-03-01T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -2698,7 +2698,7 @@
           "startDate": "2023-03-01T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -3189,16 +3189,12 @@
         },
         {
           "startDate": "2023-03-01T13:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PFC",
             "short": "Punjab FC",
@@ -4113,7 +4109,7 @@
           "startDate": "2023-03-01T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -4141,7 +4137,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -4443,7 +4439,7 @@
           "startDate": "2023-03-01T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -4470,7 +4466,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -4518,12 +4514,16 @@
       "matches": [
         {
           "startDate": "2023-03-01T15:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SAM",
             "short": "\u0160amor\u00EDn",
@@ -4542,7 +4542,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -4821,8 +4824,8 @@
           "startDate": "2023-03-01T13:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Championship Round",
@@ -4856,16 +4859,12 @@
         },
         {
           "startDate": "2023-03-01T13:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Championship Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ESS",
             "short": "ES Sahel",
