@@ -617,7 +617,7 @@
           "startDate": "2023-03-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -654,7 +654,7 @@
           "startDate": "2023-03-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -681,7 +681,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -2196,16 +2196,12 @@
         },
         {
           "startDate": "2023-03-01T14:00:00Z",
-          "period": {
-            "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 115,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DIN",
             "short": "Dinamo Zagreb",
@@ -2225,7 +2221,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
@@ -2275,7 +2271,7 @@
           "startDate": "2023-03-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -2325,7 +2321,7 @@
           "startDate": "2023-03-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -2362,7 +2358,7 @@
           "startDate": "2023-03-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -2399,7 +2395,7 @@
           "startDate": "2023-03-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -2516,7 +2512,7 @@
           "startDate": "2023-03-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -2544,7 +2540,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2739,7 +2735,7 @@
           "startDate": "2023-03-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -2762,7 +2758,7 @@
             "name": "AZ"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -3129,7 +3125,7 @@
           "startDate": "2023-03-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -4085,12 +4081,16 @@
       "matches": [
         {
           "startDate": "2023-03-01T16:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 8,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KSZ",
             "short": "Kalisz",
@@ -4109,7 +4109,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -4190,7 +4193,7 @@
           "startDate": "2023-03-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -4490,7 +4493,7 @@
           "startDate": "2023-03-01T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -4566,9 +4569,9 @@
         {
           "startDate": "2023-03-01T15:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "Quarter-finals",
