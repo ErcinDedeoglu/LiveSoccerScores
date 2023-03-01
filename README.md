@@ -83,8 +83,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">La Paz <img src="/static/logos/Club Atlético La Paz.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CF Alacranes de Durango.png" height="25px"> Durango</p> |
-| <p align="center">03:05</p> | <p align="right">Pumas Tabasco <img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venados FC Yucatán.png" height="25px"> Venados FC</p> |
+| <p align="center">FT</p> | <p align="right">La Paz <img src="/static/logos/Club Atlético La Paz.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CF Alacranes de Durango.png" height="25px"> Durango</p> |
+| <p align="center">45'</p> | <p align="right">Pumas Tabasco <img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Venados FC Yucatán.png" height="25px"> Venados FC</p> |
 | <p align="center">23:00</p> | <p align="right">Correcaminos <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"> Cimarrones</p> |
 </div>
 
@@ -596,7 +596,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">96'</p> | <p align="right">Flamengo <img src="/static/logos/CR Flamengo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CSD Independiente del Valle.png" height="25px"> Ind. del Valle</p> |
+| <p align="center">FT</p> | <p align="right">Flamengo <img src="/static/logos/CR Flamengo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CSD Independiente del Valle.png" height="25px"> Ind. del Valle</p> |
 </div>
 
 

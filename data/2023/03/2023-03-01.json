@@ -469,16 +469,12 @@
       "matches": [
         {
           "startDate": "2023-03-01T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LPZ",
             "short": "La Paz",
@@ -506,12 +502,16 @@
         },
         {
           "startDate": "2023-03-01T03:05:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 45,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PTA",
             "short": "Pumas Tabasco",
@@ -530,7 +530,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -4704,16 +4707,12 @@
       "matches": [
         {
           "startDate": "2023-03-01T00:30:00Z",
-          "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 96,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Final",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FLA",
             "short": "Flamengo",
@@ -4740,7 +4739,10 @@
             "teamA": 1,
             "teamB": 1
           },
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 5
+          }
         }
       ]
     },
