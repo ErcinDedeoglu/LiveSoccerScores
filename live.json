@@ -240,7 +240,7 @@
           "startDate": "2023-03-02T03:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -268,7 +268,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -384,16 +384,12 @@
         },
         {
           "startDate": "2023-03-02T01:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VIC",
             "short": "Victoria",
@@ -413,8 +409,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 2
+            "teamA": 1,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -1341,16 +1337,12 @@
         },
         {
           "startDate": "2023-03-02T01:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALI",
             "short": "Alianza",
@@ -1523,8 +1515,8 @@
           "startDate": "2023-03-02T03:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Clausura",
@@ -1550,7 +1542,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
