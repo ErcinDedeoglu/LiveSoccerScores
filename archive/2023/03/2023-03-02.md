@@ -104,7 +104,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Korea Rep. <img src="/static/logos/Korea Republic Under 20.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Oman Under 20.png" height="25px"> Oman</p> |
-| <p align="center">12:00</p> | <p align="right">Tajikistan <img src="/static/logos/Tajikistan Under 20.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jordan Under 20.png" height="25px"> Jordan</p> |
+| <p align="center">4'</p> | <p align="right">Tajikistan <img src="/static/logos/Tajikistan Under 20.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jordan Under 20.png" height="25px"> Jordan</p> |
 </div>
 
 
