@@ -84,7 +84,7 @@
           "startDate": "2023-03-02T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -674,16 +674,12 @@
       "matches": [
         {
           "startDate": "2023-03-02T19:45:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 125,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ANT",
             "short": "Antwerp",
@@ -711,8 +707,8 @@
             "teamB": 1
           },
           "penalty": {
-            "teamA": 1,
-            "teamB": 2
+            "teamA": 4,
+            "teamB": 3
           }
         }
       ]
@@ -960,7 +956,7 @@
           "startDate": "2023-03-02T22:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -1446,7 +1442,7 @@
           "startDate": "2023-03-02T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1963,7 +1959,7 @@
           "startDate": "2023-03-02T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -1990,8 +1986,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
