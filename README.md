@@ -104,7 +104,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Korea Rep. <img src="/static/logos/Korea Republic Under 20.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Oman Under 20.png" height="25px"> Oman</p> |
-| <p align="center">33'</p> | <p align="right">Tajikistan <img src="/static/logos/Tajikistan Under 20.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Jordan Under 20.png" height="25px"> Jordan</p> |
+| <p align="center">HT</p> | <p align="right">Tajikistan <img src="/static/logos/Tajikistan Under 20.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Jordan Under 20.png" height="25px"> Jordan</p> |
 </div>
 
 
@@ -252,8 +252,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Kuching FA <img src="/static/logos/Kuching FA.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Bolasepak Selangor.png" height="25px"> Selangor</p> |
-| <p align="center">13:00</p> | <p align="right">Sri Pahang <img src="/static/logos/Kelab Bola Sepak Sri Pahang.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"> Kelantan</p> |
+| <p align="center">45' 2'</p> | <p align="right">Kuching FA <img src="/static/logos/Kuching FA.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Bolasepak Selangor.png" height="25px"> Selangor</p> |
+| <p align="center">2'</p> | <p align="right">Sri Pahang <img src="/static/logos/Kelab Bola Sepak Sri Pahang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"> Kelantan</p> |
 </div>
 
 
@@ -307,8 +307,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Fateh <img src="/static/logos/Al Fateh SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Tai.png" height="25px"> Tai</p> |
-| <p align="center">13:00</p> | <p align="right">Feiha <img src="/static/logos/Al Feiha.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Abha Club.png" height="25px"> Abha</p> |
+| <p align="center">4'</p> | <p align="right">Fateh <img src="/static/logos/Al Fateh SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Tai.png" height="25px"> Tai</p> |
+| <p align="center">5'</p> | <p align="right">Feiha <img src="/static/logos/Al Feiha.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Abha Club.png" height="25px"> Abha</p> |
 | <p align="center">17:30</p> | <p align="right">Wehda <img src="/static/logos/Al Wehda FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Hilal Saudi FC.png" height="25px"> Hilal</p> |
 </div>
 
@@ -319,7 +319,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Radnički Krag <img src="/static/logos/FK Radnički 1923 Kragujevac.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK TSC Bačka Topola.png" height="25px"> TSC</p> |
+| <p align="center">1'</p> | <p align="right">Radnički Krag <img src="/static/logos/FK Radnički 1923 Kragujevac.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK TSC Bačka Topola.png" height="25px"> TSC</p> |
 | <p align="center">17:00</p> | <p align="right">Kolubara <img src="/static/logos/FK Kolubara Lazarevac.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Javor Matis Ivanjica.png" height="25px"> Javor</p> |
 </div>
 
