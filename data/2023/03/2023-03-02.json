@@ -125,16 +125,12 @@
       "matches": [
         {
           "startDate": "2023-03-02T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RMA",
             "short": "Real Madrid",
@@ -157,7 +153,10 @@
             "teamA": 0,
             "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "penalty": null
         }
       ]
@@ -669,8 +668,8 @@
         {
           "startDate": "2023-03-02T19:45:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 105,
             "extra": 0
           },
           "round": {
@@ -1094,7 +1093,7 @@
           "startDate": "2023-03-02T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -1122,7 +1121,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1131,7 +1130,7 @@
           "startDate": "2023-03-02T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -1168,7 +1167,7 @@
           "startDate": "2023-03-02T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -1195,7 +1194,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -1205,7 +1204,7 @@
           "startDate": "2023-03-02T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1233,7 +1232,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1446,7 +1445,7 @@
           "startDate": "2023-03-02T21:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1470,10 +1469,10 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1483,7 +1482,7 @@
           "startDate": "2023-03-02T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -1918,16 +1917,12 @@
         },
         {
           "startDate": "2023-03-02T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GRA",
             "short": "De Graafschap",
