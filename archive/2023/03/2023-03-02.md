@@ -49,7 +49,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cancún <img src="/static/logos/Cancún FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Morelia.png" height="25px"> Morelia</p> |
-| <p align="center">HT</p> | <p align="right">Dorados <img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tepatitlán FC.png" height="25px"> Tepa</p> |
+| <p align="center">51'</p> | <p align="right">Dorados <img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tepatitlán FC.png" height="25px"> Tepa</p> |
 </div>
 
 
@@ -211,7 +211,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"> Xelajú</p> |
-| <p align="center">HT</p> | <p align="right">Antigua <img src="/static/logos/Deportivo Antigua Guatemala FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CSD Municipal.png" height="25px"> Municipal</p> |
+| <p align="center">57'</p> | <p align="right">Antigua <img src="/static/logos/Deportivo Antigua Guatemala FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CSD Municipal.png" height="25px"> Municipal</p> |
 </div>
 
 
