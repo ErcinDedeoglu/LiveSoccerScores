@@ -661,12 +661,16 @@
       "matches": [
         {
           "startDate": "2023-03-02T19:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ANT",
             "short": "Antwerp",
@@ -685,7 +689,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": {
             "teamA": 0,
             "teamB": 1
@@ -870,9 +877,9 @@
         {
           "startDate": "2023-03-02T19:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 27,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "1st Round",
@@ -898,7 +905,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -906,12 +913,16 @@
         },
         {
           "startDate": "2023-03-02T19:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 18,
+            "extra": 0
+          },
           "round": {
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ARI",
             "short": "Real Ariquemes",
@@ -930,7 +941,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1037,9 +1051,9 @@
         {
           "startDate": "2023-03-02T18:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "Relegation Round",
@@ -1066,7 +1080,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1251,8 +1265,8 @@
           "startDate": "2023-03-02T18:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Quarter-finals",
@@ -1278,11 +1292,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 3
           },
           "penalty": null
@@ -1483,7 +1497,7 @@
           "startDate": "2023-03-02T19:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -1511,7 +1525,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1605,9 +1619,9 @@
         {
           "startDate": "2023-03-02T19:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 27,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Quarter-finals",
@@ -1633,7 +1647,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 2
           },
           "agg": null,
@@ -1846,16 +1860,12 @@
       "matches": [
         {
           "startDate": "2023-03-02T17:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PSV",
             "short": "PSV",
@@ -2107,7 +2117,7 @@
           "startDate": "2023-03-02T18:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -2134,7 +2144,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 1
           },
           "agg": null,
@@ -2218,16 +2228,12 @@
         },
         {
           "startDate": "2023-03-02T17:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WEH",
             "short": "Wehda",
@@ -2247,7 +2253,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 3
           },
           "agg": null,
@@ -2386,7 +2392,7 @@
           "startDate": "2023-03-02T19:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -2414,7 +2420,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
