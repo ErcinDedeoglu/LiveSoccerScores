@@ -457,9 +457,9 @@
         {
           "startDate": "2023-03-02T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 76,
+            "extra": 0
           },
           "round": {
             "name": "Quarter-finals",
@@ -1239,12 +1239,16 @@
         },
         {
           "startDate": "2023-03-02T18:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 33,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ANR",
             "short": "Anorthosis",
@@ -1263,10 +1267,13 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "penalty": null
         }
@@ -1283,9 +1290,9 @@
         {
           "startDate": "2023-03-02T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 73,
+            "extra": 0
           },
           "round": {
             "name": "Quarter-finals",
@@ -1311,7 +1318,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1817,9 +1824,9 @@
         {
           "startDate": "2023-03-02T17:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 11,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Quarter-finals",
@@ -1845,7 +1852,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1999,16 +2006,12 @@
         },
         {
           "startDate": "2023-03-02T16:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 64,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DUH",
             "short": "Al Duhail",
@@ -2025,10 +2028,10 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
@@ -2079,12 +2082,16 @@
         },
         {
           "startDate": "2023-03-02T18:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 33,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "FCS",
             "short": "FCSB",
@@ -2103,7 +2110,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -2186,9 +2196,9 @@
         {
           "startDate": "2023-03-02T17:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 26,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -2266,9 +2276,9 @@
         {
           "startDate": "2023-03-02T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 75,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2294,7 +2304,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2537,16 +2547,12 @@
         },
         {
           "startDate": "2023-03-02T16:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAN",
             "short": "Bani Yas",
@@ -2562,7 +2568,7 @@
             "name": "Ajman"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -2574,16 +2580,12 @@
         },
         {
           "startDate": "2023-03-02T16:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KAL",
             "short": "Kalba",
@@ -2600,12 +2602,82 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 2
           },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Arab Club Champions Cup",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-02T13:15:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Preliminary Round",
+            "display": true
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "ART",
+            "short": "ART",
+            "long": "Arta / Solar 7",
+            "full": "Arta / Solar 7",
+            "name": "ART"
+          },
+          "teamB": {
+            "code": "VOL",
+            "short": "Volcan Club",
+            "long": "Volcan Club",
+            "full": "Volcan Club de Moroni",
+            "name": "Volcan Club"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-02T17:15:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Preliminary Round",
+            "display": true
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "FAH",
+            "short": "Fahman",
+            "long": "Fahman",
+            "full": "Fahman Abyan",
+            "name": "Fahman"
+          },
+          "teamB": {
+            "code": "HOR",
+            "short": "Horseed",
+            "long": "Horseed",
+            "full": "Horseed FC",
+            "name": "Horseed"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
