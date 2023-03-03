@@ -291,16 +291,12 @@
         },
         {
           "startDate": "2023-03-03T21:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SLB",
             "short": "Benfica",
@@ -422,7 +418,7 @@
           "startDate": "2023-03-03T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -459,7 +455,7 @@
           "startDate": "2023-03-03T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -613,12 +609,16 @@
         },
         {
           "startDate": "2023-03-03T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 14,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NUB",
             "short": "\u00D1ublense",
@@ -637,7 +637,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -893,7 +896,7 @@
           "startDate": "2023-03-03T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -920,7 +923,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1660,7 +1663,7 @@
           "startDate": "2023-03-03T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -1826,7 +1829,7 @@
           "startDate": "2023-03-03T23:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -1854,7 +1857,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3566,12 +3569,16 @@
         },
         {
           "startDate": "2023-03-03T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 15,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CNA",
             "short": "Nacional",
@@ -3590,7 +3597,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -4933,7 +4943,7 @@
           "startDate": "2023-03-03T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -4961,7 +4971,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -5044,12 +5054,16 @@
         },
         {
           "startDate": "2023-03-03T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 15,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "APC",
             "short": "Puerto Cabello",
@@ -5068,7 +5082,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
