@@ -727,8 +727,8 @@
           "startDate": "2023-03-03T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
+            "minute": 90,
+            "extra": 7
           },
           "round": {
             "name": "Regular Season",
@@ -1131,7 +1131,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 8
           },
           "round": {
             "name": "Group Stage",
@@ -1207,7 +1207,7 @@
           "startDate": "2023-03-03T10:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -1244,7 +1244,7 @@
           "startDate": "2023-03-03T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -2984,7 +2984,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 8
           },
           "round": {
             "name": "Regular Season",
@@ -4160,7 +4160,7 @@
           "startDate": "2023-03-03T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 10,
             "extra": 0
           },
           "round": {
@@ -4197,7 +4197,7 @@
           "startDate": "2023-03-03T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 12,
             "extra": 0
           },
           "round": {
@@ -4463,9 +4463,9 @@
         {
           "startDate": "2023-03-03T11:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
