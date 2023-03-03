@@ -725,16 +725,12 @@
       "matches": [
         {
           "startDate": "2023-03-03T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FMA",
             "short": "F Marinos",
@@ -1128,16 +1124,12 @@
       "matches": [
         {
           "startDate": "2023-03-03T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "JPN",
             "short": "Japan",
@@ -1165,12 +1157,16 @@
         },
         {
           "startDate": "2023-03-03T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KSA",
             "short": "Saudi Arabia",
@@ -1189,7 +1185,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1205,16 +1204,12 @@
       "matches": [
         {
           "startDate": "2023-03-03T10:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MIT",
             "short": "Mitchelton",
@@ -1244,7 +1239,7 @@
           "startDate": "2023-03-03T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -2981,16 +2976,12 @@
         },
         {
           "startDate": "2023-03-03T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PER",
             "short": "Persikabo 1973",
@@ -4160,7 +4151,7 @@
           "startDate": "2023-03-03T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -4197,7 +4188,7 @@
           "startDate": "2023-03-03T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 23,
             "extra": 0
           },
           "round": {
