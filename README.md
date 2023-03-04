@@ -95,7 +95,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Cruz Azul FC.png" height="25px"> Cruz Azul</p> |
 | <p align="center">FT</p> | <p align="right">Necaxa <img src="/static/logos/Club Necaxa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"> Tigres</p> |
-| <p align="center">40'</p> | <p align="right">Tijuana <img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"> Atlas</p> |
+| <p align="center">62'</p> | <p align="right">Tijuana <img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"> Atlas</p> |
 | <p align="center">23:00</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlético San Luis.png" height="25px"> A San Luis</p> |
 </div>
 
@@ -212,7 +212,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 3'</p> | <p align="right">Wellington <img src="/static/logos/Wellington Phoenix FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Newcastle Jets FC.png" height="25px"> Newcastle</p> |
+| <p align="center">FT</p> | <p align="right">Wellington <img src="/static/logos/Wellington Phoenix FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Newcastle Jets FC.png" height="25px"> Newcastle</p> |
 | <p align="center">06:00</p> | <p align="right">Wanderers <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC.png" height="25px"> Central Coast</p> |
 | <p align="center">06:00</p> | <p align="right">Western United <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth</p> |
 | <p align="center">08:45</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne Victory FC.png" height="25px"> Mel Victory</p> |
@@ -249,7 +249,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:00</p> | <p align="right">Kawasaki <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shonan Bellmare.png" height="25px"> Shonan</p> |
+| <p align="center">34'</p> | <p align="right">Kawasaki <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shonan Bellmare.png" height="25px"> Shonan</p> |
 | <p align="center">05:00</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"> Consadole</p> |
 | <p align="center">05:00</p> | <p align="right">Kyoto <img src="/static/logos/Kyoto Sanga FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Tokyo.png" height="25px"> Tokyo</p> |
 | <p align="center">05:00</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gamba Osaka.png" height="25px"> Gamba</p> |
@@ -353,7 +353,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:15</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hume City FC.png" height="25px"> Hume City</p> |
+| <p align="center">21'</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hume City FC.png" height="25px"> Hume City</p> |
 | <p align="center">07:00</p> | <p align="right">Port Melbourne <img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Moreland City FC.png" height="25px"> Moreland City</p> |
 | <p align="center">07:15</p> | <p align="right">Altona Magic <img src="/static/logos/Altona Magic SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/North Geelong Warriors FC.png" height="25px"> North Geelong</p> |
 | <p align="center">08:00</p> | <p align="right">Dandenong <img src="/static/logos/Dandenong Thunder SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oakleigh Cannons FC.png" height="25px"> Oakleigh</p> |
@@ -377,8 +377,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:00</p> | <p align="right">Canberra <img src="/static/logos/Canberra United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide</p> |
-| <p align="center">04:00</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City</p> |
+| <p align="center">37'</p> | <p align="right">Canberra <img src="/static/logos/Canberra United.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide</p> |
+| <p align="center">37'</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City</p> |
 | <p align="center">04:40</p> | <p align="right">Wellington <img src="/static/logos/Wellington Phoenix FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Roar</p> |
 </div>
 
@@ -1073,8 +1073,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:30</p> | <p align="right">Bucheon <img src="/static/logos/Bucheon FC 1995.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Seongnam FC.png" height="25px"> Seongnam</p> |
-| <p align="center">04:30</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu FC.png" height="25px"> Gimcheon</p> |
+| <p align="center">5'</p> | <p align="right">Bucheon <img src="/static/logos/Bucheon FC 1995.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Seongnam FC.png" height="25px"> Seongnam</p> |
+| <p align="center">7'</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu FC.png" height="25px"> Gimcheon</p> |
 | <p align="center">07:00</p> | <p align="right">Ansan Greeners <img src="/static/logos/Ansan Greeners FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chungnam Asan FC.png" height="25px"> Chungnam Asan</p> |
 </div>
 
