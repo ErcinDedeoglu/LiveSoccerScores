@@ -826,16 +826,12 @@
         },
         {
           "startDate": "2023-03-04T03:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TIJ",
             "short": "Tijuana",
@@ -2341,7 +2337,7 @@
           "startDate": "2023-03-04T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -2378,7 +2374,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -2406,7 +2402,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2415,7 +2411,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -2442,7 +2438,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 0,
             "teamB": 0
           },
           "agg": null,
@@ -2452,7 +2448,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -2489,7 +2485,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -2517,7 +2513,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3418,9 +3414,9 @@
         {
           "startDate": "2023-03-04T04:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 9
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -3446,7 +3442,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -3626,7 +3622,7 @@
           "startDate": "2023-03-04T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -3663,7 +3659,7 @@
           "startDate": "2023-03-04T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -3700,7 +3696,7 @@
           "startDate": "2023-03-04T04:40:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -10169,7 +10165,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -10197,7 +10193,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -10206,7 +10202,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -10243,7 +10239,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -10280,7 +10276,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -10327,7 +10323,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -10434,7 +10430,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -10471,7 +10467,7 @@
           "startDate": "2023-03-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -10499,7 +10495,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -10547,9 +10543,9 @@
         {
           "startDate": "2023-03-04T04:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 38,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -10584,8 +10580,8 @@
         {
           "startDate": "2023-03-04T04:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
