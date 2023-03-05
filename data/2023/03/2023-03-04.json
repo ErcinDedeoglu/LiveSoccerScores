@@ -4170,6 +4170,46 @@
     },
     {
       "competition": {
+        "name": "Jugendliga U18",
+        "area": {
+          "name": "Austria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-04T15:15:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "VOR",
+            "short": "Vorarlberg",
+            "long": "Vorarlberg U18",
+            "full": "Fu\u00DFballakademie Vorarlberg Under 18",
+            "name": "Vorarlberg"
+          },
+          "teamB": {
+            "code": "RBA",
+            "short": "RB Akademie",
+            "long": "Red Bull Akademie U18",
+            "full": "Red Bull Akademie Under 18 (FC Salzburg Under 18)",
+            "name": "RB Akademie"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Challenger Pro League",
         "area": {
           "name": "Belgium"
@@ -9888,6 +9928,155 @@
             "teamA": 2,
             "teamB": 2
           },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-04T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Nord / Nordost",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "STP",
+            "short": "St. Pauli",
+            "long": "St. Pauli U19",
+            "full": "FC St. Pauli Under 19",
+            "name": "St. Pauli"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U19",
+            "full": "Rasen Ballsport Leipzig Under 19",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-04T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "S\u00FCd / S\u00FCdwest",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SCF",
+            "short": "Freiburg",
+            "long": "Freiburg U19",
+            "full": "SC Freiburg Under 19",
+            "name": "Freiburg"
+          },
+          "teamB": {
+            "code": "BAY",
+            "short": "Bayern",
+            "long": "Bayern M\u00FCnchen U19",
+            "full": "FC Bayern M\u00FCnchen Under 19",
+            "name": "Bayern"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U17 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-04T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "S\u00FCd / S\u00FCdwest",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "FCB",
+            "short": "Bayern M\u00FCnchen",
+            "long": "Bayern M\u00FCnchen U17",
+            "full": "FC Bayern M\u00FCnchen Under 17",
+            "name": "Bayern M\u00FCnchen"
+          },
+          "teamB": {
+            "code": "MNZ",
+            "short": "Mainz",
+            "long": "Mainz 05 U17",
+            "full": "FSV Mainz 05 Under 17",
+            "name": "Mainz"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-04T14:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Nord / Nordost",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "teamB": {
+            "code": "NIE",
+            "short": "Niendorfer",
+            "long": "Niendorfer TSV U17",
+            "full": "Niendorfer TSV Under 17",
+            "name": "Niendorfer"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
