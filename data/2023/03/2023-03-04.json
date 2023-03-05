@@ -4183,7 +4183,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "VOR",
             "short": "Vorarlberg",
@@ -4202,7 +4202,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 8
+          },
           "agg": null,
           "penalty": null
         }
