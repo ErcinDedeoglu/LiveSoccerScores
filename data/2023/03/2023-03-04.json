@@ -10057,7 +10057,7 @@
             "name": "Nord / Nordost",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "RBL",
             "short": "RB Leipzig",
@@ -10076,7 +10076,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         }
