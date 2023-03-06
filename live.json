@@ -561,7 +561,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -744,7 +744,7 @@
           "startDate": "2023-03-06T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -781,7 +781,7 @@
           "startDate": "2023-03-06T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -861,7 +861,7 @@
           "startDate": "2023-03-06T12:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -2139,9 +2139,9 @@
         {
           "startDate": "2023-03-06T11:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -2177,8 +2177,8 @@
           "startDate": "2023-03-06T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -2432,12 +2432,16 @@
       "matches": [
         {
           "startDate": "2023-03-06T12:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KFA",
             "short": "Kuching FA",
@@ -2456,7 +2460,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3393,9 +3400,9 @@
         {
           "startDate": "2023-03-06T11:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 58,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
