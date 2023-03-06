@@ -111,7 +111,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Laçi <img src="/static/logos/KF Laçi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KS Kukësi.png" height="25px"> Kukësi</p> |
+| <p align="center">5'</p> | <p align="right">Laçi <img src="/static/logos/KF Laçi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KS Kukësi.png" height="25px"> Kukësi</p> |
 | <p align="center">15:00</p> | <p align="right">Teuta <img src="/static/logos/KS Teuta Durrës.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KS Vllaznia Shkodër.png" height="25px"> Vllaznia</p> |
 | <p align="center">18:00</p> | <p align="right">Partizani <img src="/static/logos/KF Partizani Tirana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KF Tirana.png" height="25px"> Tirana</p> |
 </div>
@@ -135,8 +135,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Ararat <img src="/static/logos/FC Ararat.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Shirak FC.png" height="25px"> Shirak</p> |
-| <p align="center">HT</p> | <p align="right">Noah <img src="/static/logos/FC Noah.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Urartu.png" height="25px"> Urartu</p> |
+| <p align="center">49'</p> | <p align="right">Ararat <img src="/static/logos/FC Ararat.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Shirak FC.png" height="25px"> Shirak</p> |
+| <p align="center">46'</p> | <p align="right">Noah <img src="/static/logos/FC Noah.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Urartu.png" height="25px"> Urartu</p> |
 </div>
 
 
@@ -147,7 +147,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Kyrgyzstan <img src="/static/logos/Kyrgyz Republic Under 20.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Japan Under 20.png" height="25px"> Japan</p> |
-| <p align="center">12:00</p> | <p align="right">China PR <img src="/static/logos/China Youth.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Saudi Arabia Under 20.png" height="25px"> Saudi Arabia</p> |
+| <p align="center">9'</p> | <p align="right">China PR <img src="/static/logos/China Youth.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Saudi Arabia Under 20.png" height="25px"> Saudi Arabia</p> |
 </div>
 
 
@@ -371,8 +371,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">25'</p> | <p align="right">Malavan <img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aluminium Arak FC.png" height="25px"> Aluminium Arak</p> |
-| <p align="center">25'</p> | <p align="right">Mes Kerman <img src="/static/logos/Sanat Mes Kerman FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Foolad Khuzestan FC.png" height="25px"> Foolad</p> |
+| <p align="center">37'</p> | <p align="right">Malavan <img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aluminium Arak FC.png" height="25px"> Aluminium Arak</p> |
+| <p align="center">37'</p> | <p align="right">Mes Kerman <img src="/static/logos/Sanat Mes Kerman FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Foolad Khuzestan FC.png" height="25px"> Foolad</p> |
 | <p align="center">13:15</p> | <p align="right">Esteghlal <img src="/static/logos/Esteghlal FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gol Gohar FC Sirjan.png" height="25px"> Gol Gohar</p> |
 | <p align="center">14:30</p> | <p align="right">Naft MIS <img src="/static/logos/Naft Masjed Soleyman FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran.png" height="25px"> Nassaji</p> |
 </div>
