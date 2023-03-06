@@ -737,7 +737,7 @@
           "startDate": "2023-03-06T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -765,7 +765,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -774,7 +774,7 @@
           "startDate": "2023-03-06T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -821,7 +821,7 @@
           "startDate": "2023-03-06T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -849,7 +849,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2128,12 +2128,16 @@
       "matches": [
         {
           "startDate": "2023-03-06T11:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MAL",
             "short": "Malavan",
@@ -2152,7 +2156,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3370,7 +3377,7 @@
           "startDate": "2023-03-06T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 27,
             "extra": 0
           },
           "round": {
