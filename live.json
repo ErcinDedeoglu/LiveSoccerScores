@@ -160,16 +160,12 @@
       "matches": [
         {
           "startDate": "2023-03-06T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "QUE",
             "short": "Quer\u00E9taro",
