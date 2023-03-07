@@ -88,7 +88,7 @@
           "startDate": "2023-03-07T17:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -570,7 +570,7 @@
           "startDate": "2023-03-07T19:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -607,7 +607,7 @@
           "startDate": "2023-03-07T19:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -1954,8 +1954,8 @@
           "startDate": "2023-03-07T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 39,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "North",
@@ -2150,7 +2150,7 @@
           "startDate": "2023-03-07T18:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -2187,7 +2187,7 @@
           "startDate": "2023-03-07T18:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -2224,7 +2224,7 @@
           "startDate": "2023-03-07T18:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 59,
             "extra": 0
           },
           "round": {
@@ -2844,8 +2844,8 @@
         {
           "startDate": "2023-03-07T17:00:00Z",
           "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 105,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 112,
             "extra": 0
           },
           "round": {
