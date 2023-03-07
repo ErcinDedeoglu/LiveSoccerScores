@@ -2220,7 +2220,7 @@
           "startDate": "2023-03-07T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 84,
             "extra": 0
           },
           "round": {
