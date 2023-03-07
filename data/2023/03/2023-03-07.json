@@ -2219,9 +2219,9 @@
         {
           "startDate": "2023-03-07T08:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
