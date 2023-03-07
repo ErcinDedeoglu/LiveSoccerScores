@@ -662,16 +662,12 @@
       "matches": [
         {
           "startDate": "2023-03-07T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "QAT",
             "short": "Qatar",
@@ -692,23 +688,19 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 7
+            "teamB": 9
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-03-07T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VIE",
             "short": "Vietnam",
@@ -729,7 +721,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -2265,16 +2257,12 @@
         },
         {
           "startDate": "2023-03-07T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BFC",
             "short": "Bali United",
