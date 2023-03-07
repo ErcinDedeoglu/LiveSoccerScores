@@ -1143,7 +1143,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "POSTPONED",
+          "status": "FIXTURE",
           "teamA": {
             "code": "AHL",
             "short": "Ahly",
