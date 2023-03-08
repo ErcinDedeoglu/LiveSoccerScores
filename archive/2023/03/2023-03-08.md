@@ -230,7 +230,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Ismaily <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pharco.png" height="25px"> Pharco</p> |
+| <p align="center">16:00</p> | <p align="right">Ismaily <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pharco.png" height="25px"> Pharco</p> |
 </div>
 
 
@@ -283,7 +283,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:30</p> | <p align="right">Atromitos <img src="/static/logos/PAE APS Atromitos Athens.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AEK Athens FC.png" height="25px"> AEK</p> |
+| <p align="center">25'</p> | <p align="right">Atromitos <img src="/static/logos/PAE APS Atromitos Athens.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AEK Athens FC.png" height="25px"> AEK</p> |
 </div>
 
 
@@ -353,7 +353,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">Wakrah <img src="/static/logos/Al Wakrah SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al-Shahaniya SC.png" height="25px"> Shahaniya</p> |
+| <p align="center">91'</p> | <p align="right">Wakrah <img src="/static/logos/Al Wakrah SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al-Shahaniya SC.png" height="25px"> Shahaniya</p> |
 | <p align="center">16:30</p> | <p align="right">Arabi <img src="/static/logos/Al Arabi SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Shamal SC.png" height="25px"> Shamal</p> |
 </div>
 
@@ -388,7 +388,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">71'</p> | <p align="right">L. Mikuláš <img src="/static/logos/MFK Tatran Liptovský Mikuláš.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/MFK Skalica.png" height="25px"> Skalica</p> |
+| <p align="center">FT</p> | <p align="right">L. Mikuláš <img src="/static/logos/MFK Tatran Liptovský Mikuláš.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/MFK Skalica.png" height="25px"> Skalica</p> |
 </div>
 
 
@@ -399,8 +399,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Tabor <img src="/static/logos/MND Tabor Sežana.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/NK Rogaška.png" height="25px"> Rogaška</p> |
-| <p align="center">HT</p> | <p align="right">Rudar <img src="/static/logos/NK Rudar Velenje.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/NK Maribor.png" height="25px"> Maribor</p> |
-| <p align="center">1'</p> | <p align="right">Aluminij <img src="/static/logos/NK Aluminij.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KNK Fužinar.png" height="25px"> Fužinar</p> |
+| <p align="center">FT</p> | <p align="right">Rudar <img src="/static/logos/NK Rudar Velenje.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/NK Maribor.png" height="25px"> Maribor</p> |
+| <p align="center">HT</p> | <p align="right">Aluminij <img src="/static/logos/NK Aluminij.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/KNK Fužinar.png" height="25px"> Fužinar</p> |
 | <p align="center">17:00</p> | <p align="right">Nafta <img src="/static/logos/NK Nafta 1903 Lendava.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NK Olimpija Ljubljana.png" height="25px"> Olimpija</p> |
 </div>
 
