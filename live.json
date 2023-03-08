@@ -645,7 +645,7 @@
           "startDate": "2023-03-08T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -672,7 +672,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -682,7 +682,7 @@
           "startDate": "2023-03-08T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -2676,9 +2676,9 @@
         {
           "startDate": "2023-03-08T13:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 8
           },
           "round": {
             "name": "Round of 16",
@@ -2953,9 +2953,9 @@
         {
           "startDate": "2023-03-08T13:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Quarter-finals",
@@ -3001,7 +3001,7 @@
           "startDate": "2023-03-08T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -3029,7 +3029,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3038,7 +3038,7 @@
           "startDate": "2023-03-08T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 37,
             "extra": 0
           },
           "round": {
