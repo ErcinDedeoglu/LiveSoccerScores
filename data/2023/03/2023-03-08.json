@@ -711,7 +711,7 @@
           "startDate": "2023-03-08T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -778,7 +778,7 @@
           "startDate": "2023-03-08T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -806,7 +806,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -815,7 +815,7 @@
           "startDate": "2023-03-08T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -1824,7 +1824,7 @@
           "startDate": "2023-03-08T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -1974,7 +1974,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "POSTPONED",
           "teamA": {
             "code": "VAP",
             "short": "Vaprus",
@@ -2004,7 +2004,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "POSTPONED",
           "teamA": {
             "code": "KAL",
             "short": "Kalju",
@@ -2738,12 +2738,16 @@
         },
         {
           "startDate": "2023-03-08T16:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ARA",
             "short": "Arabi",
@@ -2762,7 +2766,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3092,7 +3099,7 @@
           "startDate": "2023-03-08T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -3119,7 +3126,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 2
           },
           "agg": null,
