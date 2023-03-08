@@ -88,8 +88,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Gallants <img src="/static/logos/Marumo Gallants FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
-| <p align="center">13:00</p> | <p align="right">Monastir <img src="/static/logos/US Monastirienne.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tout Puissant Mazembe.png" height="25px"> Mazembe</p> |
+| <p align="center">11'</p> | <p align="right">Gallants <img src="/static/logos/Marumo Gallants FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
+| <p align="center">10'</p> | <p align="right">Monastir <img src="/static/logos/US Monastirienne.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tout Puissant Mazembe.png" height="25px"> Mazembe</p> |
 | <p align="center">16:00</p> | <p align="right">Akhdar <img src="/static/logos/Al-Akhdar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Saint Eloi Lupopo.png" height="25px"> Lupopo</p> |
 | <p align="center">16:00</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Daring Club Motema Pembe.png" height="25px"> Motema</p> |
 | <p align="center">16:00</p> | <p align="right">ASKO <img src="/static/logos/Association Sportive de la Kozah de Kara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids</p> |
@@ -115,8 +115,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">41'</p> | <p align="right">Jordan <img src="/static/logos/Jordan Under 20.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Oman Under 20.png" height="25px"> Oman</p> |
-| <p align="center">41'</p> | <p align="right">Korea Rep. <img src="/static/logos/Korea Republic Under 20.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tajikistan Under 20.png" height="25px"> Tajikistan</p> |
+| <p align="center">53'</p> | <p align="right">Jordan <img src="/static/logos/Jordan Under 20.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Oman Under 20.png" height="25px"> Oman</p> |
+| <p align="center">52'</p> | <p align="right">Korea Rep. <img src="/static/logos/Korea Republic Under 20.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tajikistan Under 20.png" height="25px"> Tajikistan</p> |
 </div>
 
 
@@ -398,7 +398,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Tabor <img src="/static/logos/MND Tabor Sežana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NK Rogaška.png" height="25px"> Rogaška</p> |
+| <p align="center">11'</p> | <p align="right">Tabor <img src="/static/logos/MND Tabor Sežana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/NK Rogaška.png" height="25px"> Rogaška</p> |
 | <p align="center">14:00</p> | <p align="right">Rudar <img src="/static/logos/NK Rudar Velenje.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NK Maribor.png" height="25px"> Maribor</p> |
 | <p align="center">15:00</p> | <p align="right">Aluminij <img src="/static/logos/NK Aluminij.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KNK Fužinar.png" height="25px"> Fužinar</p> |
 | <p align="center">17:00</p> | <p align="right">Nafta <img src="/static/logos/NK Nafta 1903 Lendava.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NK Olimpija Ljubljana.png" height="25px"> Olimpija</p> |
@@ -431,8 +431,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">Erzurumspor <img src="/static/logos/Erzurumspor Futbol Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ankara Keçiörengücü.png" height="25px"> Keçiörengücü</p> |
-| <p align="center">49'</p> | <p align="right">Manisa FK <img src="/static/logos/Manisa Futbol Kulübü.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bodrumspor AŞ.png" height="25px"> Bodrumspor</p> |
+| <p align="center">78'</p> | <p align="right">Erzurumspor <img src="/static/logos/Erzurumspor Futbol Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ankara Keçiörengücü.png" height="25px"> Keçiörengücü</p> |
+| <p align="center">78'</p> | <p align="right">Manisa FK <img src="/static/logos/Manisa Futbol Kulübü.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bodrumspor AŞ.png" height="25px"> Bodrumspor</p> |
 | <p align="center">14:00</p> | <p align="right">Altay <img src="/static/logos/Altay Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yeni Malatya Spor Kulübü.png" height="25px"> Yeni Malatya</p> |
 | <p align="center">14:00</p> | <p align="right">Rize <img src="/static/logos/Çaykur Rize Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Adanaspor AŞ.png" height="25px"> Adanaspor</p> |
 | <p align="center">17:00</p> | <p align="right">Gençlerbirliği <img src="/static/logos/Gençlerbirliği Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denizlispor Kulübü.png" height="25px"> Denizlispor</p> |
