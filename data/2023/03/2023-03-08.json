@@ -264,7 +264,7 @@
           "startDate": "2023-03-08T03:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -407,7 +407,7 @@
           "startDate": "2023-03-08T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -434,7 +434,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -577,7 +577,7 @@
           "startDate": "2023-03-08T03:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -605,7 +605,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1061,46 +1061,6 @@
             "long": "S\u00E3o Luiz",
             "full": "EC S\u00E3o Luiz",
             "name": "S\u00E3o Luiz"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Pernambucano 1",
-        "area": {
-          "name": "Brazil"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-08T18:00:00Z",
-          "period": null,
-          "round": {
-            "name": "1st Phase",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "CAR",
-            "short": "Caruaru City",
-            "long": "Caruaru City",
-            "full": "Caruaru City SC",
-            "name": "Caruaru City"
-          },
-          "teamB": {
-            "code": "BEL",
-            "short": "Belo Jardim",
-            "long": "Belo Jardim",
-            "full": "Belo Jardim Futebol Clube",
-            "name": "Belo Jardim"
           },
           "redCards": {
             "teamA": 0,
