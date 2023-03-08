@@ -645,7 +645,7 @@
           "startDate": "2023-03-08T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -682,7 +682,7 @@
           "startDate": "2023-03-08T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -949,7 +949,7 @@
           "startDate": "2023-03-08T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -986,7 +986,7 @@
           "startDate": "2023-03-08T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -2953,12 +2953,16 @@
       "matches": [
         {
           "startDate": "2023-03-08T13:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LMI",
             "short": "L. Mikul\u00E1\u0161",
@@ -2977,7 +2981,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2995,7 +3002,7 @@
           "startDate": "2023-03-08T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -3210,16 +3217,12 @@
       "matches": [
         {
           "startDate": "2023-03-08T11:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ERZ",
             "short": "Erzurumspor",
@@ -3247,16 +3250,12 @@
         },
         {
           "startDate": "2023-03-08T11:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAN",
             "short": "Manisa FK",
@@ -3276,7 +3275,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
