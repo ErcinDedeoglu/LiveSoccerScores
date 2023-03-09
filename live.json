@@ -1009,16 +1009,12 @@
       "matches": [
         {
           "startDate": "2023-03-09T12:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHN",
             "short": "China PR",
@@ -1046,16 +1042,12 @@
         },
         {
           "startDate": "2023-03-09T12:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KSA",
             "short": "Saudi Arabia",
@@ -1854,7 +1846,7 @@
           "startDate": "2023-03-09T13:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 12,
             "extra": 0
           },
           "round": {
@@ -2151,7 +2143,7 @@
           "startDate": "2023-03-09T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 29,
             "extra": 0
           },
           "round": {
