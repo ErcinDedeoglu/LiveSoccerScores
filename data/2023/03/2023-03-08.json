@@ -789,36 +789,6 @@
             "name": "Group Stage",
             "display": true
           },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "RIV",
-            "short": "Rivers Utd",
-            "long": "Rivers United",
-            "full": "Rivers United FC",
-            "name": "Rivers Utd"
-          },
-          "teamB": {
-            "code": "MOT",
-            "short": "Motema",
-            "long": "Motema Pembe",
-            "full": "Daring Club Motema Pembe",
-            "name": "Motema"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-08T16:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Group Stage",
-            "display": true
-          },
           "status": "RESULT",
           "teamA": {
             "code": "ASK",
