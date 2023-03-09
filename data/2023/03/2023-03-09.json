@@ -918,6 +918,46 @@
     },
     {
       "competition": {
+        "name": "CAF Confederation Cup",
+        "area": {
+          "name": "Africa"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-09T14:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": true
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "RIV",
+            "short": "Rivers Utd",
+            "long": "Rivers United",
+            "full": "Rivers United FC",
+            "name": "Rivers Utd"
+          },
+          "teamB": {
+            "code": "MOT",
+            "short": "Motema",
+            "long": "Motema Pembe",
+            "full": "Daring Club Motema Pembe",
+            "name": "Motema"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Copa Argentina",
         "area": {
           "name": "Argentina"
@@ -1723,9 +1763,9 @@
         {
           "startDate": "2023-03-09T08:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
