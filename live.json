@@ -592,16 +592,12 @@
         },
         {
           "startDate": "2023-03-09T03:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAN",
             "short": "Whitecaps",
@@ -624,7 +620,10 @@
             "teamA": 5,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 5,
+            "teamB": 0
+          },
           "penalty": null
         }
       ]
@@ -816,7 +815,7 @@
             "name": "Friendlies 2",
             "display": false
           },
-          "status": "POSTPONED",
+          "status": "CANCELLED",
           "teamA": {
             "code": "BRB",
             "short": "Barbados",
@@ -884,16 +883,12 @@
         },
         {
           "startDate": "2023-03-09T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MOB",
             "short": "Raya2",
@@ -2247,16 +2242,12 @@
       "matches": [
         {
           "startDate": "2023-03-09T03:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 49,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Club Friendlies 1",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LA",
             "short": "Angel City",
@@ -2276,7 +2267,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
