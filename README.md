@@ -106,7 +106,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Daring Club Motema Pembe.png" height="25px"> Motema</p> |
+| <p align="center">FT</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Daring Club Motema Pembe.png" height="25px"> Motema</p> |
 </div>
 
 
@@ -218,7 +218,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Hyderabad <img src="/static/logos/Hyderabad FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ATK Mohun Bagan FC.png" height="25px"> ATK Mohun</p> |
+| <p align="center">FT</p> | <p align="right">Hyderabad <img src="/static/logos/Hyderabad FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ATK Mohun Bagan FC.png" height="25px"> ATK Mohun</p> |
 </div>
 
 
@@ -239,8 +239,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 11'</p> | <p align="right">Ahli <img src="/static/logos/Al Ahli SC (Doha).png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Muaither SC.png" height="25px"> Muaither</p> |
-| <p align="center">16:30</p> | <p align="right">Gharafa <img src="/static/logos/Al Gharafa SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qatar SC.png" height="25px"> Qatar</p> |
+| <p align="center">FT</p> | <p align="right">Ahli <img src="/static/logos/Al Ahli SC (Doha).png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Muaither SC.png" height="25px"> Muaither</p> |
+| <p align="center">HT</p> | <p align="right">Gharafa <img src="/static/logos/Al Gharafa SC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Qatar SC.png" height="25px"> Qatar</p> |
 </div>
 
 
@@ -296,7 +296,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bandırma <img src="/static/logos/Bandırma Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Eyüp Spor Kulübü.png" height="25px"> Eyüp</p> |
-| <p align="center">17:00</p> | <p align="right">Sakaryaspor <img src="/static/logos/Sakaryaspor Kulübü Derneği.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Samsunspor Kulübü.png" height="25px"> Samsunspor</p> |
+| <p align="center">25'</p> | <p align="right">Sakaryaspor <img src="/static/logos/Sakaryaspor Kulübü Derneği.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Samsunspor Kulübü.png" height="25px"> Samsunspor</p> |
 </div>
 
 
