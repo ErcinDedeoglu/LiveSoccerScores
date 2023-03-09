@@ -1162,7 +1162,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "CANCELLED",
+          "status": "RESULT",
           "teamA": {
             "code": "4JU",
             "short": "4 de Julho",
@@ -1181,7 +1181,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2147,46 +2150,6 @@
             "teamA": 2,
             "teamB": 3
           },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Regionalliga",
-        "area": {
-          "name": "Germany"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-08T18:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Nordost",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "RWE",
-            "short": "Erfurt",
-            "long": "Rot-Wei\u00DF Erfurt",
-            "full": "FC Rot-Wei\u00DF Erfurt",
-            "name": "Erfurt"
-          },
-          "teamB": {
-            "code": "LUC",
-            "short": "Luckenwalde",
-            "long": "Luckenwalde",
-            "full": "FSV 63 Luckenwalde",
-            "name": "Luckenwalde"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
           "agg": null,
           "penalty": null
         }
