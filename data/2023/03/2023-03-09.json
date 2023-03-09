@@ -593,8 +593,8 @@
         {
           "startDate": "2023-03-09T03:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -621,7 +621,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,
@@ -885,8 +885,8 @@
         {
           "startDate": "2023-03-09T03:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -913,7 +913,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -1644,16 +1644,12 @@
       "matches": [
         {
           "startDate": "2023-03-09T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "XIN",
             "short": "Xinabajul",
@@ -2252,8 +2248,8 @@
         {
           "startDate": "2023-03-09T03:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 15,
+            "type": "SECOND_HALF",
+            "minute": 49,
             "extra": 0
           },
           "round": {

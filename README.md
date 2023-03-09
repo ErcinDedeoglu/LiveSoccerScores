@@ -61,7 +61,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Olimpia <img src="/static/logos/CD Olimpia.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"> Atlas</p> |
-| <p align="center">45'</p> | <p align="right">Whitecaps <img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Real CD España.png" height="25px"> Real España</p> |
+| <p align="center">82'</p> | <p align="right">Whitecaps <img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Real CD España.png" height="25px"> Real España</p> |
 </div>
 
 
@@ -96,7 +96,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC Yucatán.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
-| <p align="center">45'</p> | <p align="right">Raya2 <img src="/static/logos/Raya2 Expansión.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"> Alebrijes</p> |
+| <p align="center">78'</p> | <p align="right">Raya2 <img src="/static/logos/Raya2 Expansión.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"> Alebrijes</p> |
 </div>
 
 
@@ -198,7 +198,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">Xinabajul <img src="/static/logos/CD Xinabajul.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CSD Comunicaciones.png" height="25px"> Comunicaciones</p> |
+| <p align="center">FT</p> | <p align="right">Xinabajul <img src="/static/logos/CD Xinabajul.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CSD Comunicaciones.png" height="25px"> Comunicaciones</p> |
 </div>
 
 
@@ -296,7 +296,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Angel City <img src="/static/logos/Angel City FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
+| <p align="center">49'</p> | <p align="right">Angel City <img src="/static/logos/Angel City FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
 </div>
 
 
