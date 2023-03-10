@@ -1188,46 +1188,6 @@
     },
     {
       "competition": {
-        "name": "Queensland NPL",
-        "area": {
-          "name": "Australia"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-10T10:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "PEN",
-            "short": "Peninsula",
-            "long": "Peninsula Power",
-            "full": "Peninsula Power FC",
-            "name": "Peninsula"
-          },
-          "teamB": {
-            "code": "BRR",
-            "short": "Roar",
-            "long": "Brisbane Roar II",
-            "full": "Brisbane Roar FC Under 21",
-            "name": "Roar"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Victoria NPL",
         "area": {
           "name": "Australia"
@@ -1306,12 +1266,16 @@
       "matches": [
         {
           "startDate": "2023-03-10T08:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "WOW",
             "short": "Wolves",
@@ -1330,7 +1294,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3081,7 +3048,7 @@
           "startDate": "2023-03-10T08:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 42,
             "extra": 0
           },
           "round": {
