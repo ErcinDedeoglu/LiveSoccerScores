@@ -849,16 +849,12 @@
       "matches": [
         {
           "startDate": "2023-03-10T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Place Final",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TUN",
             "short": "Tunisia",
@@ -879,7 +875,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 3
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -963,9 +959,9 @@
         {
           "startDate": "2023-03-10T15:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 9
           },
           "round": {
             "name": "Regular Season",
@@ -991,8 +987,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1011,7 +1007,7 @@
           "startDate": "2023-03-10T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1039,7 +1035,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1078,8 +1074,8 @@
           "startDate": "2023-03-10T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -1268,7 +1264,7 @@
           "startDate": "2023-03-10T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1920,7 +1916,7 @@
           "startDate": "2023-03-10T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -1947,7 +1943,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2184,6 +2180,46 @@
             "long": "AaB",
             "full": "Aalborg BK",
             "name": "AaB"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Premier League",
+        "area": {
+          "name": "Egypt"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-10T00:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "POSTPONED",
+          "teamA": {
+            "code": "ITT",
+            "short": "Ittihad",
+            "long": "Al Ittihad",
+            "full": "Al Ittihad Al Iskandary",
+            "name": "Ittihad"
+          },
+          "teamB": {
+            "code": "AHL",
+            "short": "Ahly",
+            "long": "Al Ahly",
+            "full": "Al Ahly SC",
+            "name": "Ahly"
           },
           "redCards": {
             "teamA": 0,
@@ -4375,7 +4411,7 @@
           "startDate": "2023-03-10T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -4402,7 +4438,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -5005,16 +5041,12 @@
       "matches": [
         {
           "startDate": "2023-03-10T13:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAT",
             "short": "Al Bataeh",
@@ -5042,16 +5074,12 @@
         },
         {
           "startDate": "2023-03-10T13:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KHO",
             "short": "Khorfakkan",
