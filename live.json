@@ -1198,7 +1198,7 @@
           "startDate": "2023-03-10T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -1234,9 +1234,9 @@
         {
           "startDate": "2023-03-10T09:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 49,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1315,8 +1315,8 @@
           "startDate": "2023-03-10T08:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -3098,7 +3098,7 @@
           "startDate": "2023-03-10T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 17,
             "extra": 0
           },
           "round": {
@@ -3125,7 +3125,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -5092,36 +5092,6 @@
             "long": "Newtown",
             "full": "Newtown AFC",
             "name": "Newtown"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-10T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Championship Round",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "TNS",
-            "short": "TNS",
-            "long": "The New Saints",
-            "full": "The New Saints FC",
-            "name": "TNS"
-          },
-          "teamB": {
-            "code": "BAL",
-            "short": "Bala",
-            "long": "Bala Town",
-            "full": "Bala Town FC",
-            "name": "Bala"
           },
           "redCards": {
             "teamA": 0,
