@@ -1765,7 +1765,7 @@
           "period": {
             "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1926,9 +1926,9 @@
         {
           "startDate": "2023-03-10T21:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 7
           },
           "round": {
             "name": "Relegation Round",
@@ -2017,7 +2017,7 @@
           "startDate": "2023-03-10T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -4034,16 +4034,12 @@
       "matches": [
         {
           "startDate": "2023-03-10T20:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ADT",
             "short": "ADT",
