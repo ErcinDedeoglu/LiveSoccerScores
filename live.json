@@ -1198,7 +1198,7 @@
           "startDate": "2023-03-10T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -1280,16 +1280,12 @@
       "matches": [
         {
           "startDate": "2023-03-10T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WOW",
             "short": "Wolves",
@@ -1319,7 +1315,7 @@
           "startDate": "2023-03-10T08:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -3099,13 +3095,17 @@
           "penalty": null
         },
         {
-          "startDate": "2023-03-10T10:00:00Z",
-          "period": null,
+          "startDate": "2023-03-10T10:30:00Z",
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NAS",
             "short": "RANS",
@@ -3124,7 +3124,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -5105,7 +5108,7 @@
             "name": "Championship Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "POSTPONED",
           "teamA": {
             "code": "TNS",
             "short": "TNS",
