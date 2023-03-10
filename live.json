@@ -633,7 +633,7 @@
           "startDate": "2023-03-10T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -1217,12 +1217,16 @@
         },
         {
           "startDate": "2023-03-10T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 26,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ITU",
             "short": "Ituzaing\u00F3",
@@ -1241,7 +1245,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1858,7 +1865,7 @@
           "period": {
             "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 0
           },
           "round": {
             "name": "Trof\u00E9u do Interior - Quarter-finals",
@@ -2066,7 +2073,7 @@
           "startDate": "2023-03-10T22:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -5400,7 +5407,7 @@
           "startDate": "2023-03-10T22:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 57,
             "extra": 0
           },
           "round": {
