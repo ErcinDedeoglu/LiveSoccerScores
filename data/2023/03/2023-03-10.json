@@ -4741,46 +4741,6 @@
     },
     {
       "competition": {
-        "name": "Premier League",
-        "area": {
-          "name": "Swaziland"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-10T13:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "LEO",
-            "short": "Leopards",
-            "long": "Royal Leopards",
-            "full": "Royal Leopards FC",
-            "name": "Leopards"
-          },
-          "teamB": {
-            "code": "DEN",
-            "short": "Denver",
-            "long": "Denver",
-            "full": "Denver Sundowns",
-            "name": "Denver"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Challenge League",
         "area": {
           "name": "Switzerland"

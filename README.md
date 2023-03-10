@@ -782,16 +782,6 @@
 </div>
 
 
-## <img src="/static/logos/Swaziland-Premier League.png" height="25px"> Swaziland - Premier League
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Leopards <img src="/static/logos/Royal Leopards FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denver Sundowns.png" height="25px"> Denver</p> |
-</div>
-
-
 ## <img src="/static/logos/Switzerland-Challenge League.png" height="25px"> Switzerland - Challenge League
 
 <div align="center">
