@@ -690,12 +690,16 @@
       "matches": [
         {
           "startDate": "2023-03-10T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 45,
+            "extra": 4
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PER",
             "short": "Perth",
@@ -711,10 +715,13 @@
             "name": "Wanderers"
           },
           "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
           "agg": null,
           "penalty": null
         }
@@ -1118,6 +1125,76 @@
     },
     {
       "competition": {
+        "name": "Prim B Metro",
+        "area": {
+          "name": "Argentina"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-10T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "DOC",
+            "short": "Dock Sud",
+            "long": "Dock Sud",
+            "full": "CS Dock Sud",
+            "name": "Dock Sud"
+          },
+          "teamB": {
+            "code": "VSC",
+            "short": "Villa SC",
+            "long": "Villa San Carlos",
+            "full": "CA Villa San Carlos",
+            "name": "Villa SC"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-10T23:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "ITU",
+            "short": "Ituzaing\u00F3",
+            "long": "Ituzaing\u00F3",
+            "full": "CA Ituzaing\u00F3",
+            "name": "Ituzaing\u00F3"
+          },
+          "teamB": {
+            "code": "ARM",
+            "short": "Armenio",
+            "long": "Deportivo Armenio",
+            "full": "CD Armenio",
+            "name": "Armenio"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Premier League",
         "area": {
           "name": "Armenia"
@@ -1126,12 +1203,16 @@
       "matches": [
         {
           "startDate": "2023-03-10T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 45,
+            "extra": 1
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BKM",
             "short": "BKMA",
@@ -1150,7 +1231,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1196,16 +1280,12 @@
       "matches": [
         {
           "startDate": "2023-03-10T09:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GGU",
             "short": "Green Gully",
@@ -1233,16 +1313,12 @@
         },
         {
           "startDate": "2023-03-10T09:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 57,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HDB",
             "short": "Heidelberg",
@@ -1263,7 +1339,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 2
+            "teamB": 5
           },
           "agg": null,
           "penalty": null
@@ -3093,8 +3169,8 @@
         {
           "startDate": "2023-03-10T10:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 24,
+            "type": "SECOND_HALF",
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -3121,7 +3197,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -4509,12 +4585,16 @@
       "matches": [
         {
           "startDate": "2023-03-10T11:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BRU",
             "short": "DPMM",
@@ -4533,18 +4613,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-03-10T11:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TAN",
             "short": "Tanjong",
@@ -4563,7 +4650,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -4819,12 +4909,16 @@
       "matches": [
         {
           "startDate": "2023-03-10T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 45,
+            "extra": 2
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SUP",
             "short": "Suphanburi",
@@ -4843,7 +4937,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
