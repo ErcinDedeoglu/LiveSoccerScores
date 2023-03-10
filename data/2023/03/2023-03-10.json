@@ -412,16 +412,12 @@
         },
         {
           "startDate": "2023-03-10T03:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALA",
             "short": "Alajuelense",
@@ -442,9 +438,12 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 2
+            "teamB": 3
           },
-          "agg": null,
+          "agg": {
+            "teamA": 0,
+            "teamB": 3
+          },
           "penalty": null
         }
       ]
@@ -804,16 +803,12 @@
         },
         {
           "startDate": "2023-03-10T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CIM",
             "short": "Cimarrones",
