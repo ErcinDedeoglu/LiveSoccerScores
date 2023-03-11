@@ -1887,46 +1887,6 @@
     },
     {
       "competition": {
-        "name": "Club Friendlies",
-        "area": {
-          "name": "World"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-11T13:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Club Friendlies 3",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "SIR",
-            "short": "Sirius",
-            "long": "Sirius",
-            "full": "IK Sirius Fotboll",
-            "name": "Sirius"
-          },
-          "teamB": {
-            "code": "BRA",
-            "short": "Brage",
-            "long": "Brage",
-            "full": "IK Brage",
-            "name": "Brage"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "First Division A",
         "area": {
           "name": "Belgium"
@@ -2067,7 +2027,7 @@
           "startDate": "2023-03-11T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -2094,7 +2054,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2104,7 +2064,7 @@
           "startDate": "2023-03-11T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -2132,7 +2092,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3387,7 +3347,7 @@
           "startDate": "2023-03-11T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -3415,7 +3375,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3684,7 +3644,7 @@
           "startDate": "2023-03-11T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -3721,7 +3681,7 @@
           "startDate": "2023-03-11T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -3758,7 +3718,7 @@
           "startDate": "2023-03-11T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -5718,136 +5678,6 @@
             "long": "Dinamo Zagreb",
             "full": "GNK Dinamo Zagreb",
             "name": "Dinamo Zagreb"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Primera Division",
-        "area": {
-          "name": "Cuba"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-11T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "HAB",
-            "short": "La Habana",
-            "long": "La Habana",
-            "full": "FC La Habana",
-            "name": "La Habana"
-          },
-          "teamB": {
-            "code": "ART",
-            "short": "Artemisa",
-            "long": "Artemisa",
-            "full": "Artemisa San Crist\u00F3bal",
-            "name": "Artemisa"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-11T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "MAY",
-            "short": "Mayabeque",
-            "long": "Mayabeque",
-            "full": "FC Mayabeque G\u00FCines",
-            "name": "Mayabeque"
-          },
-          "teamB": {
-            "code": "IJV",
-            "short": "Isla Juventud",
-            "long": "Isla Juventud",
-            "full": "Isla de La Juventud",
-            "name": "Isla Juventud"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-11T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "PRI",
-            "short": "Pinar del R\u00EDo",
-            "long": "Pinar del R\u00EDo",
-            "full": "Pinar del R\u00EDo",
-            "name": "Pinar del R\u00EDo"
-          },
-          "teamB": {
-            "code": "CFG",
-            "short": "Cienfuegos",
-            "long": "Cienfuegos",
-            "full": "FC Cienfuegos",
-            "name": "Cienfuegos"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-11T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "VCL",
-            "short": "Villa Clara",
-            "long": "Villa Clara",
-            "full": "FC Villa Clara",
-            "name": "Villa Clara"
-          },
-          "teamB": {
-            "code": "MAT",
-            "short": "Matanzas",
-            "long": "Matanzas",
-            "full": "FC Matanzas",
-            "name": "Matanzas"
           },
           "redCards": {
             "teamA": 0,
@@ -10920,7 +10750,7 @@
           "startDate": "2023-03-11T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -10948,7 +10778,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -10957,7 +10787,7 @@
           "startDate": "2023-03-11T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -10994,7 +10824,7 @@
           "startDate": "2023-03-11T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -11041,7 +10871,7 @@
           "startDate": "2023-03-11T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -11069,7 +10899,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -11148,7 +10978,7 @@
           "startDate": "2023-03-11T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -11185,7 +11015,7 @@
           "startDate": "2023-03-11T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -11261,9 +11091,9 @@
         {
           "startDate": "2023-03-11T04:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -11446,76 +11276,6 @@
             "long": "Super Nova",
             "full": "SK Super Nova",
             "name": "Super Nova"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "LFA First Division",
-        "area": {
-          "name": "Liberia"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-11T16:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "CUN",
-            "short": "Cece United",
-            "long": "Cece United",
-            "full": "Cece United Football Academy",
-            "name": "Cece United"
-          },
-          "teamB": {
-            "code": "INV",
-            "short": "Eleven",
-            "long": "Invincible Eleven",
-            "full": "Invincible Eleven \u0026 Majestic SA",
-            "name": "Eleven"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-11T16:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "MFC",
-            "short": "Muscat",
-            "long": "Muscat",
-            "full": "Muscat FC",
-            "name": "Muscat"
-          },
-          "teamB": {
-            "code": "OIL",
-            "short": "Oilers",
-            "long": "LPRC Oilers",
-            "full": "LPRC Oilers FC",
-            "name": "Oilers"
           },
           "redCards": {
             "teamA": 0,
@@ -11816,46 +11576,6 @@
             "long": "Birkirkara",
             "full": "Birkirkara FC",
             "name": "Birkirkara"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Premier League",
-        "area": {
-          "name": "Mauritania"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-11T17:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "INN",
-            "short": "Inter",
-            "long": "Inter Nouakchott",
-            "full": "FC Inter Nouakchott",
-            "name": "Inter"
-          },
-          "teamB": {
-            "code": "TEV",
-            "short": "FCTVZ",
-            "long": "Tevragh-Ze\u00EFne",
-            "full": "ASC Tevragh-Ze\u00EFne",
-            "name": "FCTVZ"
           },
           "redCards": {
             "teamA": 0,
