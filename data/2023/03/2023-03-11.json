@@ -10233,46 +10233,6 @@
     },
     {
       "competition": {
-        "name": "Frauen Bundesliga",
-        "area": {
-          "name": "Germany"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-11T12:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "SVW",
-            "short": "Werder",
-            "long": "Werder Bremen",
-            "full": "SV Werder Bremen",
-            "name": "Werder"
-          },
-          "teamB": {
-            "code": "SGE",
-            "short": "Eintracht",
-            "long": "Eintracht Frankfurt",
-            "full": "Eintracht Frankfurt",
-            "name": "Eintracht"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Super League 2",
         "area": {
           "name": "Greece"
