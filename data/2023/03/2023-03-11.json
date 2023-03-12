@@ -4031,6 +4031,49 @@
     },
     {
       "competition": {
+        "name": "Jugendliga U18",
+        "area": {
+          "name": "Austria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-11T14:15:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "RBA",
+            "short": "RB Akademie",
+            "long": "Red Bull Akademie U18",
+            "full": "Red Bull Akademie Under 18 (FC Salzburg Under 18)",
+            "name": "RB Akademie"
+          },
+          "teamB": {
+            "code": "STP",
+            "short": "St. P\u00F6lten",
+            "long": "St. P\u00F6lten U18",
+            "full": "SKN Sankt P\u00F6lten Under 18",
+            "name": "St. P\u00F6lten"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 4,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Challenger Pro League",
         "area": {
           "name": "Belgium"
@@ -10063,6 +10106,125 @@
           "score": {
             "teamA": 0,
             "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-11T12:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Nord / Nordost",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U19",
+            "full": "Rasen Ballsport Leipzig Under 19",
+            "name": "RB Leipzig"
+          },
+          "teamB": {
+            "code": "WOB",
+            "short": "Wolfsburg",
+            "long": "Wolfsburg U19",
+            "full": "VfL Wolfsburg Under 19",
+            "name": "Wolfsburg"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U17 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-11T12:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Nord / Nordost",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "WOL",
+            "short": "Wolfsburg",
+            "long": "Wolfsburg U17",
+            "full": "VfL Wolfsburg Under 17",
+            "name": "Wolfsburg"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-11T12:00:00Z",
+          "period": null,
+          "round": {
+            "name": "S\u00FCd / S\u00FCdwest",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "AWA",
+            "short": "Astoria W",
+            "long": "Astoria Walldorf U17",
+            "full": "FC Astoria Walldorf Under 17",
+            "name": "Astoria W"
+          },
+          "teamB": {
+            "code": "FCB",
+            "short": "Bayern M\u00FCnchen",
+            "long": "Bayern M\u00FCnchen U17",
+            "full": "FC Bayern M\u00FCnchen Under 17",
+            "name": "Bayern M\u00FCnchen"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 6
           },
           "agg": null,
           "penalty": null
