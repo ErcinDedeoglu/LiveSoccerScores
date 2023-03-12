@@ -3686,46 +3686,6 @@
     },
     {
       "competition": {
-        "name": "Queensland NPL",
-        "area": {
-          "name": "Australia"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-12T08:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "SCW",
-            "short": "SC Wanderers",
-            "long": "SC Wanderers",
-            "full": "Sunshine Coast Wanderers FC",
-            "name": "SC Wanderers"
-          },
-          "teamB": {
-            "code": "BOL",
-            "short": "Olympic",
-            "long": "Olympic",
-            "full": "Brisbane Olympic FC",
-            "name": "Olympic"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Victoria NPL",
         "area": {
           "name": "Australia"
@@ -3736,7 +3696,7 @@
           "startDate": "2023-03-12T08:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -3781,16 +3741,12 @@
       "matches": [
         {
           "startDate": "2023-03-12T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SYD",
             "short": "Sydney",
@@ -4298,7 +4254,7 @@
           "startDate": "2023-03-12T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -6240,7 +6196,7 @@
           "startDate": "2023-03-12T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -8919,7 +8875,7 @@
           "startDate": "2023-03-12T08:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -9207,16 +9163,12 @@
       "matches": [
         {
           "startDate": "2023-03-12T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PSK",
             "short": "Persik",
@@ -10335,16 +10287,12 @@
         },
         {
           "startDate": "2023-03-12T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SPA",
             "short": "ThespaKusatsu",
@@ -11158,7 +11106,7 @@
           "startDate": "2023-03-12T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -11186,7 +11134,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
