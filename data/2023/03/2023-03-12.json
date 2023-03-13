@@ -14691,49 +14691,6 @@
     },
     {
       "competition": {
-        "name": "TT Premier League",
-        "area": {
-          "name": "Trinidad and Tobago"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-12T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "CAL",
-            "short": "Caledonia",
-            "long": "Morvant Caledonia United",
-            "full": "Morvant Caledonia United FC",
-            "name": "Caledonia"
-          },
-          "teamB": {
-            "code": "CUN",
-            "short": "Cunupia",
-            "long": "Cunupia",
-            "full": "Cunupia FC",
-            "name": "Cunupia"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 2,
-            "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Ligue 1",
         "area": {
           "name": "Tunisia"
