@@ -46,8 +46,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14'</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CF Monterrey.png" height="25px"> Monterrey</p> |
-| <p align="center">15'</p> | <p align="right">Santos Laguna <img src="/static/logos/Club Santos Laguna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"> Tijuana</p> |
+| <p align="center">HT</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CF Monterrey.png" height="25px"> Monterrey</p> |
+| <p align="center">45' 4'</p> | <p align="right">Santos Laguna <img src="/static/logos/Club Santos Laguna.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"> Tijuana</p> |
 | <p align="center">03:15</p> | <p align="right">Juárez <img src="/static/logos/FC Juárez.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Necaxa.png" height="25px"> Necaxa</p> |
 </div>
 
@@ -68,8 +68,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Banfield <img src="/static/logos/CA Banfield.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Boca Juniors.png" height="25px"> Boca Juniors</p> |
-| <p align="center">HT</p> | <p align="right">R. Central <img src="/static/logos/CA Rosario Central.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA Unión de Santa Fe.png" height="25px"> Unión</p> |
+| <p align="center">65'</p> | <p align="right">Banfield <img src="/static/logos/CA Banfield.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Boca Juniors.png" height="25px"> Boca Juniors</p> |
+| <p align="center">66'</p> | <p align="right">R. Central <img src="/static/logos/CA Rosario Central.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA Unión de Santa Fe.png" height="25px"> Unión</p> |
 </div>
 
 
@@ -79,7 +79,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:20</p> | <p align="right">Petrolera <img src="/static/logos/Alianza Petrolera FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD Unión Magdalena.png" height="25px"> Magdalena</p> |
+| <p align="center">34'</p> | <p align="right">Petrolera <img src="/static/logos/Alianza Petrolera FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AD Unión Magdalena.png" height="25px"> Magdalena</p> |
 </div>
 
 
@@ -101,7 +101,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Guatemala <img src="/static/logos/Guatemala.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
+| <p align="center">FT</p> | <p align="right">Guatemala <img src="/static/logos/Guatemala.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
 </div>
 
 
@@ -202,7 +202,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 2'</p> | <p align="right">Iquique <img src="/static/logos/Club Deportes Iquique.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Puerto Montt.png" height="25px"> Puerto Montt</p> |
+| <p align="center">62'</p> | <p align="right">Iquique <img src="/static/logos/Club Deportes Iquique.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Puerto Montt.png" height="25px"> Puerto Montt</p> |
 </div>
 
 
@@ -234,7 +234,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">Guadalupe <img src="/static/logos/Guadalupe FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CS Herediano.png" height="25px"> Herediano</p> |
+| <p align="center">55'</p> | <p align="right">Guadalupe <img src="/static/logos/Guadalupe FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CS Herediano.png" height="25px"> Herediano</p> |
 </div>
 
 
@@ -602,7 +602,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">53'</p> | <p align="right">RGV FC Toros <img src="/static/logos/Rio Grande Valley FC Toros.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Las Vegas Lights FC.png" height="25px"> LV Lights</p> |
+| <p align="center">89'</p> | <p align="right">RGV FC Toros <img src="/static/logos/Rio Grande Valley FC Toros.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Las Vegas Lights FC.png" height="25px"> LV Lights</p> |
 </div>
 
 

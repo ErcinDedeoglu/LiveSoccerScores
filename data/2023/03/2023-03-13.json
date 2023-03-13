@@ -131,9 +131,9 @@
         {
           "startDate": "2023-03-13T01:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 14,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Clausura",
@@ -160,7 +160,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -169,8 +169,8 @@
           "startDate": "2023-03-13T01:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
-            "extra": 0
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Clausura",
@@ -196,8 +196,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -285,9 +285,9 @@
         {
           "startDate": "2023-03-13T00:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 65,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -322,9 +322,9 @@
         {
           "startDate": "2023-03-13T00:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 66,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -368,12 +368,16 @@
       "matches": [
         {
           "startDate": "2023-03-13T01:20:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 34,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PET",
             "short": "Petrolera",
@@ -392,7 +396,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -507,17 +514,13 @@
       },
       "matches": [
         {
-          "startDate": "2023-03-13T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "startDate": "2023-03-13T23:30:00Z",
+          "period": null,
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUA",
             "short": "Guatemala",
@@ -537,7 +540,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -946,9 +949,9 @@
         {
           "startDate": "2023-03-13T00:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 62,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -975,7 +978,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1133,8 +1136,8 @@
         {
           "startDate": "2023-03-13T00:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
+            "type": "SECOND_HALF",
+            "minute": 55,
             "extra": 0
           },
           "round": {
@@ -3084,7 +3087,7 @@
           "startDate": "2023-03-13T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 89,
             "extra": 0
           },
           "round": {
