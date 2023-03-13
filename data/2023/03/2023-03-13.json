@@ -10,12 +10,16 @@
       "matches": [
         {
           "startDate": "2023-03-13T02:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LAF",
             "short": "Los Angeles",
@@ -34,7 +38,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -132,7 +139,7 @@
           "startDate": "2023-03-13T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -169,7 +176,7 @@
           "startDate": "2023-03-13T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -197,7 +204,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -284,16 +291,12 @@
       "matches": [
         {
           "startDate": "2023-03-13T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAN",
             "short": "Banfield",
@@ -321,16 +324,12 @@
         },
         {
           "startDate": "2023-03-13T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ROS",
             "short": "R. Central",
@@ -369,9 +368,9 @@
         {
           "startDate": "2023-03-13T01:20:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -948,16 +947,12 @@
       "matches": [
         {
           "startDate": "2023-03-13T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "IQU",
             "short": "Iquique",
@@ -1135,16 +1130,12 @@
       "matches": [
         {
           "startDate": "2023-03-13T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUA",
             "short": "Guadalupe",
@@ -1165,7 +1156,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 3
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
