@@ -11,8 +11,8 @@
         {
           "startDate": "2023-03-13T02:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 2,
+            "type": "SECOND_HALF",
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -39,7 +39,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -137,16 +137,12 @@
       "matches": [
         {
           "startDate": "2023-03-13T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 74,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAC",
             "short": "Pachuca",
@@ -174,16 +170,12 @@
         },
         {
           "startDate": "2023-03-13T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 73,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAN",
             "short": "Santos Laguna",
@@ -203,7 +195,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 2
           },
           "agg": null,
@@ -211,12 +203,16 @@
         },
         {
           "startDate": "2023-03-13T03:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 39,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JUA",
             "short": "Ju\u00E1rez",
@@ -235,7 +231,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -367,16 +366,12 @@
       "matches": [
         {
           "startDate": "2023-03-13T01:20:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 57,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PET",
             "short": "Petrolera",
@@ -393,11 +388,11 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -499,49 +494,6 @@
             "teamB": 0
           },
           "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Friendlies",
-        "area": {
-          "name": "World"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-13T23:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Friendlies 1",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "GUA",
-            "short": "Guatemala",
-            "long": "Guatemala",
-            "full": "Guatemala",
-            "name": "Guatemala"
-          },
-          "teamB": {
-            "code": "PAN",
-            "short": "Panama",
-            "long": "Panama",
-            "full": "Panama",
-            "name": "Panama"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 1
-          },
           "agg": null,
           "penalty": null
         }

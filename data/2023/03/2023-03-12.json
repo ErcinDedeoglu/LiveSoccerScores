@@ -1947,6 +1947,49 @@
     },
     {
       "competition": {
+        "name": "Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-12T23:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Friendlies 1",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "GUA",
+            "short": "Guatemala",
+            "long": "Guatemala",
+            "full": "Guatemala",
+            "name": "Guatemala"
+          },
+          "teamB": {
+            "code": "PAN",
+            "short": "Panama",
+            "long": "Panama",
+            "full": "Panama",
+            "name": "Panama"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "S\u00FCper Lig",
         "area": {
           "name": "Turkey"
