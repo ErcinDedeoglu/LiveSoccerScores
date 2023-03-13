@@ -5361,66 +5361,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-03-12T00:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Semi-finals",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "SOU",
-            "short": "Sousa",
-            "long": "Sousa",
-            "full": "Sousa EC",
-            "name": "Sousa"
-          },
-          "teamB": {
-            "code": "BPB",
-            "short": "Botafogo",
-            "long": "Botafogo PB",
-            "full": "Botafogo FC (Jo\u00E3o Pessoa)",
-            "name": "Botafogo"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-12T00:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Semi-finals",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "TRE",
-            "short": "Treze",
-            "long": "Treze",
-            "full": "Treze FC",
-            "name": "Treze"
-          },
-          "teamB": {
-            "code": "SPC",
-            "short": "SP Crystal",
-            "long": "S\u00E3o Paulo Crystal",
-            "full": "S\u00E3o Paulo Crystal FC",
-            "name": "SP Crystal"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-03-12T19:00:00Z",
           "period": null,
           "round": {
