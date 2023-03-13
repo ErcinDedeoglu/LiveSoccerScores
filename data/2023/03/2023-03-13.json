@@ -586,7 +586,7 @@
           "startDate": "2023-03-13T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1472,7 +1472,7 @@
           "startDate": "2023-03-13T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -1549,7 +1549,7 @@
           "startDate": "2023-03-13T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -1576,8 +1576,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1586,7 +1586,7 @@
           "startDate": "2023-03-13T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -1614,7 +1614,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1711,16 +1711,12 @@
       "matches": [
         {
           "startDate": "2023-03-13T12:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 73,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "APO",
             "short": "Apollon",
@@ -1741,7 +1737,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1749,9 +1745,9 @@
         {
           "startDate": "2023-03-13T13:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 68,
+            "extra": 0
           },
           "round": {
             "name": "Group A",
@@ -1774,7 +1770,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 2,
@@ -1797,7 +1793,7 @@
           "startDate": "2023-03-13T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -1954,16 +1950,12 @@
         },
         {
           "startDate": "2023-03-13T12:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAN",
             "short": "Sanat Naft",
@@ -2083,7 +2075,7 @@
           "startDate": "2023-03-13T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -2111,7 +2103,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -2130,7 +2122,7 @@
           "startDate": "2023-03-13T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -2597,7 +2589,7 @@
           "startDate": "2023-03-13T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -2634,7 +2626,7 @@
           "startDate": "2023-03-13T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -2779,12 +2771,16 @@
       "matches": [
         {
           "startDate": "2023-03-13T14:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "FEI",
             "short": "Feiha",
@@ -2803,7 +2799,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
