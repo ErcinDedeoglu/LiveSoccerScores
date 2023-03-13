@@ -1465,7 +1465,7 @@
           "startDate": "2023-03-13T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -1542,7 +1542,7 @@
           "startDate": "2023-03-13T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -1579,7 +1579,7 @@
           "startDate": "2023-03-13T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -1706,8 +1706,8 @@
           "startDate": "2023-03-13T12:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
-            "extra": 0
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Group B",
@@ -1741,12 +1741,16 @@
         },
         {
           "startDate": "2023-03-13T13:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 17,
+            "extra": 0
+          },
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PSR",
             "short": "Panserraikos",
@@ -1765,7 +1769,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1900,16 +1907,12 @@
       "matches": [
         {
           "startDate": "2023-03-13T11:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ZOB",
             "short": "Zob Ahan",
@@ -1938,9 +1941,9 @@
         {
           "startDate": "2023-03-13T12:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 38,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -2066,7 +2069,7 @@
           "startDate": "2023-03-13T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -2093,7 +2096,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
