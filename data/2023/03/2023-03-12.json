@@ -2372,7 +2372,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "CANCELLED",
+          "status": "RESULT",
           "teamA": {
             "code": "HAT",
             "short": "Hatay",
@@ -2391,7 +2391,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         },
@@ -2402,7 +2405,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "CANCELLED",
+          "status": "RESULT",
           "teamA": {
             "code": "\u00DCMR",
             "short": "\u00DCmraniye",
@@ -2421,7 +2424,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -14819,7 +14825,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "CANCELLED",
+          "status": "RESULT",
           "teamA": {
             "code": "YMA",
             "short": "Yeni Malatya",
@@ -14838,7 +14844,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         },
@@ -14849,7 +14858,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "CANCELLED",
+          "status": "RESULT",
           "teamA": {
             "code": "ADA",
             "short": "Adanaspor",
@@ -14868,7 +14877,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         },
@@ -15219,7 +15231,7 @@
             "name": "Group 2",
             "display": true
           },
-          "status": "CANCELLED",
+          "status": "RESULT",
           "teamA": {
             "code": "IGD",
             "short": "I\u011Fd\u0131r",
@@ -15238,7 +15250,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
