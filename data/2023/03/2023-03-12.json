@@ -6612,36 +6612,6 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "VAR",
-            "short": "Varnsdorf",
-            "long": "Varnsdorf",
-            "full": "FK Varnsdorf",
-            "name": "Varnsdorf"
-          },
-          "teamB": {
-            "code": "DUK",
-            "short": "Dukla",
-            "long": "Dukla Praha",
-            "full": "FK Dukla Praha",
-            "name": "Dukla"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-12T13:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
           "status": "RESULT",
           "teamA": {
             "code": "JIH",
