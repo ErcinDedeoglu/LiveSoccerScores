@@ -352,16 +352,12 @@
       "matches": [
         {
           "startDate": "2023-03-14T01:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ONC",
             "short": "Once Caldas",
@@ -767,7 +763,7 @@
       },
       "matches": [
         {
-          "startDate": "2023-03-14T00:10:00Z",
+          "startDate": "2023-03-14T00:25:00Z",
           "period": null,
           "round": {
             "name": "Championship - Semi-finals",
