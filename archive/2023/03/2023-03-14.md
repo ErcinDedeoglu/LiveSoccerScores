@@ -74,8 +74,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Kukësi <img src="/static/logos/KS Kukësi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KS Teuta Durrës.png" height="25px"> Teuta</p> |
-| <p align="center">12:00</p> | <p align="right">Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KS Kastrioti Krujë.png" height="25px"> Kastrioti</p> |
+| <p align="center">2'</p> | <p align="right">Kukësi <img src="/static/logos/KS Kukësi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KS Teuta Durrës.png" height="25px"> Teuta</p> |
+| <p align="center">3'</p> | <p align="right">Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KS Kastrioti Krujë.png" height="25px"> Kastrioti</p> |
 </div>
 
 
@@ -377,8 +377,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Balestier <img src="/static/logos/Balestier Khalsa FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tampines Rovers FC.png" height="25px"> Tampines</p> |
-| <p align="center">7'</p> | <p align="right">DPMM <img src="/static/logos/Brunei Duli Pengiran Muda Mahkota FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tanjong Pagar United FC.png" height="25px"> Tanjong</p> |
+| <p align="center">17'</p> | <p align="right">Balestier <img src="/static/logos/Balestier Khalsa FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tampines Rovers FC.png" height="25px"> Tampines</p> |
+| <p align="center">16'</p> | <p align="right">DPMM <img src="/static/logos/Brunei Duli Pengiran Muda Mahkota FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tanjong Pagar United FC.png" height="25px"> Tanjong</p> |
 </div>
 
 

@@ -465,12 +465,16 @@
       "matches": [
         {
           "startDate": "2023-03-14T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KUK",
             "short": "Kuk\u00EBsi",
@@ -489,7 +493,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": {
             "teamA": 0,
             "teamB": 2
@@ -498,12 +505,16 @@
         },
         {
           "startDate": "2023-03-14T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TIR",
             "short": "Tirana",
@@ -522,7 +533,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": {
             "teamA": 4,
             "teamB": 1
@@ -2824,7 +2838,7 @@
           "startDate": "2023-03-14T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 17,
             "extra": 0
           },
           "round": {
@@ -2861,7 +2875,7 @@
           "startDate": "2023-03-14T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 16,
             "extra": 0
           },
           "round": {
