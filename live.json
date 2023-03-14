@@ -466,8 +466,8 @@
         {
           "startDate": "2023-03-14T12:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 33,
+            "type": "SECOND_HALF",
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -494,11 +494,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 3
           },
           "penalty": null
@@ -506,8 +506,8 @@
         {
           "startDate": "2023-03-14T12:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 31,
+            "type": "SECOND_HALF",
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -659,46 +659,6 @@
             "teamA": 3,
             "teamB": 2
           },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Copa de la Divisi\u00F3n Profesional",
-        "area": {
-          "name": "Bolivia"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-14T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Group Stage",
-            "display": true
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "RTO",
-            "short": "Real Tomayapo",
-            "long": "Real Tomayapo",
-            "full": "CD Real Tomayapo",
-            "name": "Real Tomayapo"
-          },
-          "teamB": {
-            "code": "WIL",
-            "short": "J. Wilstermann",
-            "long": "Jorge Wilstermann",
-            "full": "Club Jorge Wilstermann",
-            "name": "J. Wilstermann"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
           "agg": null,
           "penalty": null
         }
@@ -1750,12 +1710,16 @@
       "matches": [
         {
           "startDate": "2023-03-14T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 29,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SCP",
             "short": "Sporting CP",
@@ -1774,7 +1738,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2136,12 +2103,16 @@
       "matches": [
         {
           "startDate": "2023-03-14T13:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Girone B",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SDT",
             "short": "Tavarnelle",
@@ -2160,7 +2131,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2596,12 +2570,16 @@
       "matches": [
         {
           "startDate": "2023-03-14T13:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 15,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "WEH",
             "short": "Wehda",
@@ -2620,7 +2598,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2837,9 +2818,9 @@
         {
           "startDate": "2023-03-14T11:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 87,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2865,8 +2846,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 2
+            "teamA": 1,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -2874,9 +2855,9 @@
         {
           "startDate": "2023-03-14T11:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 86,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2902,7 +2883,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
