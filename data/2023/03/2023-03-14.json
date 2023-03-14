@@ -354,7 +354,7 @@
           "startDate": "2023-03-14T01:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -768,16 +768,12 @@
       "matches": [
         {
           "startDate": "2023-03-14T00:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "Championship - Semi-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FLA",
             "short": "Flamengo",
@@ -800,7 +796,10 @@
             "teamA": 3,
             "teamB": 2
           },
-          "agg": null,
+          "agg": {
+            "teamA": 3,
+            "teamB": 2
+          },
           "penalty": null
         }
       ]
