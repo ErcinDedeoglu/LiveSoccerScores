@@ -445,7 +445,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "AUD",
             "short": "Audax",
@@ -461,10 +461,13 @@
             "name": "O\u0027Higgins"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         },
@@ -475,7 +478,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "COQ",
             "short": "Coquimbo",
@@ -494,7 +497,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -763,7 +769,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAP",
             "short": "Palmaflor",
@@ -780,9 +786,12 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         }
@@ -798,16 +807,12 @@
       "matches": [
         {
           "startDate": "2023-03-13T23:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 7,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAO",
             "short": "S\u00E3o Paulo",
@@ -831,7 +836,10 @@
             "teamB": 0
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 5,
+            "teamB": 6
+          }
         }
       ]
     },
@@ -850,7 +858,7 @@
             "name": "Trof\u00E9u Inconfid\u00EAncia - Semi-finals",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "DGV",
             "short": "Democrata GV",
@@ -869,8 +877,14 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
-          "agg": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
+          "agg": {
+            "teamA": 0,
+            "teamB": 2
+          },
           "penalty": null
         }
       ]
@@ -1004,16 +1018,12 @@
         },
         {
           "startDate": "2023-03-13T23:05:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 2,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "QUI",
             "short": "Quind\u00EDo",
@@ -1033,7 +1043,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2504,7 +2514,7 @@
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "CCP",
             "short": "Cerro Porte\u00F1o",
@@ -2523,7 +2533,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         }
@@ -2539,16 +2552,12 @@
       "matches": [
         {
           "startDate": "2023-03-13T23:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 6,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BIN",
             "short": "Binacional",
@@ -2568,8 +2577,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3184,16 +3193,12 @@
         },
         {
           "startDate": "2023-03-13T22:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DEF",
             "short": "Def. Sporting",
@@ -3209,11 +3214,11 @@
             "name": "Liverpool"
           },
           "redCards": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 2
           },
           "agg": null,
