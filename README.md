@@ -95,8 +95,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC Under 21.png" height="25px"> Roar</p> |
-| <p align="center">HT</p> | <p align="right">SC Wanderers <img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
+| <p align="center">66'</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC Under 21.png" height="25px"> Roar</p> |
+| <p align="center">47'</p> | <p align="right">SC Wanderers <img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
 </div>
 
 
@@ -283,7 +283,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Dewa United <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"> Barito</p> |
-| <p align="center">45' 1'</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/RANS Nusantara FC.png" height="25px"> RANS</p> |
+| <p align="center">HT</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/RANS Nusantara FC.png" height="25px"> RANS</p> |
 </div>
 
 
