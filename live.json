@@ -353,9 +353,9 @@
         {
           "startDate": "2023-03-14T01:10:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -545,16 +545,12 @@
       "matches": [
         {
           "startDate": "2023-03-14T00:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALD",
             "short": "Aldosivi",
@@ -574,7 +570,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
@@ -774,8 +770,8 @@
           "startDate": "2023-03-14T00:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
+            "minute": 90,
+            "extra": 8
           },
           "round": {
             "name": "Championship - Semi-finals",
@@ -797,7 +793,7 @@
             "name": "Vasco"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
