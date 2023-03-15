@@ -770,7 +770,7 @@
           "startDate": "2023-03-15T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -969,8 +969,8 @@
           "startDate": "2023-03-15T14:00:00Z",
           "period": {
             "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 95,
-            "extra": 0
+            "minute": 105,
+            "extra": 1
           },
           "round": {
             "name": "Semi-finals",
@@ -1755,7 +1755,7 @@
           "startDate": "2023-03-15T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -1912,7 +1912,7 @@
           "startDate": "2023-03-15T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -1949,7 +1949,7 @@
           "startDate": "2023-03-15T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -1976,7 +1976,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -3040,7 +3040,7 @@
           "startDate": "2023-03-15T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -3067,7 +3067,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -3250,7 +3250,7 @@
           "startDate": "2023-03-15T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 13,
             "extra": 0
           },
           "round": {
