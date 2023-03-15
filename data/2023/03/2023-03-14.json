@@ -2823,46 +2823,6 @@
     },
     {
       "competition": {
-        "name": "League Two",
-        "area": {
-          "name": "Scotland"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-14T19:45:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "DUM",
-            "short": "Dumbarton",
-            "long": "Dumbarton",
-            "full": "Dumbarton FC",
-            "name": "Dumbarton"
-          },
-          "teamB": {
-            "code": "STI",
-            "short": "Stirling",
-            "long": "Stirling Albion",
-            "full": "Stirling Albion FC",
-            "name": "Stirling"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Highland / Lowland",
         "area": {
           "name": "Scotland"
