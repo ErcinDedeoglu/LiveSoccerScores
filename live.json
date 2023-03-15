@@ -960,12 +960,16 @@
         },
         {
           "startDate": "2023-03-15T14:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "UZB",
             "short": "Uzbekistan",
@@ -984,7 +988,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2030,9 +2037,9 @@
         {
           "startDate": "2023-03-15T13:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Quarter-finals",
@@ -2444,7 +2451,7 @@
           "startDate": "2023-03-15T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -2481,7 +2488,7 @@
           "startDate": "2023-03-15T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -2518,7 +2525,7 @@
           "startDate": "2023-03-15T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -2555,7 +2562,7 @@
           "startDate": "2023-03-15T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -2592,7 +2599,7 @@
           "startDate": "2023-03-15T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -2629,7 +2636,7 @@
           "startDate": "2023-03-15T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -3204,12 +3211,16 @@
       "matches": [
         {
           "startDate": "2023-03-15T14:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "RSM",
             "short": "Radni\u010Dki SM",
@@ -3228,7 +3239,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3483,12 +3497,16 @@
         },
         {
           "startDate": "2023-03-15T14:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DOM",
             "short": "Dom\u017Eale",
@@ -3507,7 +3525,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
