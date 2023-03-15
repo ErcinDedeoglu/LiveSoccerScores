@@ -2382,7 +2382,7 @@
           "startDate": "2023-03-15T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 65,
             "extra": 0
           },
           "round": {
