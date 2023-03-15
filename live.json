@@ -532,7 +532,7 @@
           "startDate": "2023-03-15T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -734,7 +734,7 @@
           "startDate": "2023-03-15T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -936,7 +936,7 @@
           "startDate": "2023-03-15T21:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -1174,7 +1174,7 @@
           "startDate": "2023-03-15T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -1211,7 +1211,7 @@
           "startDate": "2023-03-15T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -1239,7 +1239,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1248,7 +1248,7 @@
           "startDate": "2023-03-15T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -1284,9 +1284,9 @@
         {
           "startDate": "2023-03-15T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "2nd Round",
@@ -1322,7 +1322,7 @@
           "startDate": "2023-03-15T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -1402,7 +1402,7 @@
           "startDate": "2023-03-15T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -1430,7 +1430,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1482,7 +1482,7 @@
           "startDate": "2023-03-15T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1519,7 +1519,7 @@
           "startDate": "2023-03-15T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -1556,7 +1556,7 @@
           "startDate": "2023-03-15T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -1593,7 +1593,7 @@
           "startDate": "2023-03-15T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -1682,9 +1682,9 @@
         {
           "startDate": "2023-03-15T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Quarter-finals",
@@ -1720,7 +1720,7 @@
           "startDate": "2023-03-15T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -1875,7 +1875,7 @@
           "startDate": "2023-03-15T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 26,
             "extra": 0
           },
           "round": {
