@@ -2032,39 +2032,6 @@
           },
           "status": "RESULT",
           "teamA": {
-            "code": "RWE",
-            "short": "RW Essen",
-            "long": "Rot-Weiss Essen",
-            "full": "Rot-Weiss Essen",
-            "name": "RW Essen"
-          },
-          "teamB": {
-            "code": "OSN",
-            "short": "Osnabr\u00FCck",
-            "long": "Osnabr\u00FCck",
-            "full": "VfL Osnabr\u00FCck",
-            "name": "Osnabr\u00FCck"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-14T18:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
             "code": "ZWI",
             "short": "Zwickau",
             "long": "Zwickau",
@@ -2085,6 +2052,39 @@
           "score": {
             "teamA": 0,
             "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-14T18:15:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "RWE",
+            "short": "RW Essen",
+            "long": "Rot-Weiss Essen",
+            "full": "Rot-Weiss Essen",
+            "name": "RW Essen"
+          },
+          "teamB": {
+            "code": "OSN",
+            "short": "Osnabr\u00FCck",
+            "long": "Osnabr\u00FCck",
+            "full": "VfL Osnabr\u00FCck",
+            "name": "Osnabr\u00FCck"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
