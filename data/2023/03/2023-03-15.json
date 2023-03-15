@@ -87,9 +87,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 4
           },
           "round": {
             "name": "Round of 16",
@@ -775,16 +775,12 @@
         },
         {
           "startDate": "2023-03-15T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAR",
             "short": "Partizani",
@@ -804,11 +800,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": {
-            "teamA": 3,
+            "teamA": 2,
             "teamB": 3
           },
           "penalty": null
@@ -1759,16 +1755,12 @@
       "matches": [
         {
           "startDate": "2023-03-15T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "IST",
             "short": "Istra",
@@ -1788,7 +1780,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1916,16 +1908,12 @@
       "matches": [
         {
           "startDate": "2023-03-15T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAA",
             "short": "Laagri",
@@ -1953,16 +1941,12 @@
         },
         {
           "startDate": "2023-03-15T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LEV",
             "short": "Levadia",
@@ -1991,9 +1975,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -2112,7 +2096,7 @@
           "startDate": "2023-03-15T17:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -2318,8 +2302,8 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -2347,7 +2331,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2356,7 +2340,7 @@
           "startDate": "2023-03-15T17:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -2703,9 +2687,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Girone A",
@@ -2740,9 +2724,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Girone A",
@@ -2777,9 +2761,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 9
           },
           "round": {
             "name": "Girone A",
@@ -2814,9 +2798,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "Girone A",
@@ -2851,9 +2835,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 3
           },
           "round": {
             "name": "Girone A",
@@ -2888,9 +2872,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 2
           },
           "round": {
             "name": "Girone A",
@@ -2925,9 +2909,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Girone A",
@@ -2962,9 +2946,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 2
           },
           "round": {
             "name": "Girone A",
@@ -2999,9 +2983,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 2
           },
           "round": {
             "name": "Girone C",
@@ -3135,16 +3119,12 @@
       "matches": [
         {
           "startDate": "2023-03-15T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAN",
             "short": "Banga",
@@ -3211,7 +3191,7 @@
           "startDate": "2023-03-15T17:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -3359,16 +3339,12 @@
         },
         {
           "startDate": "2023-03-15T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MGM",
             "short": "Metalac GM",
@@ -3543,9 +3519,9 @@
         {
           "startDate": "2023-03-15T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 1
           },
           "round": {
             "name": "Semi-finals",
@@ -3657,7 +3633,7 @@
           "startDate": "2023-03-15T16:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 73,
             "extra": 0
           },
           "round": {
