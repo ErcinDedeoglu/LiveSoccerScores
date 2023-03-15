@@ -63,9 +63,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Austin <img src="/static/logos/Austin FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Violette AC.png" height="25px"> Violette</p> |
-| <p align="center">18'</p> | <p align="right">Philadelphia <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza</p> |
-| <p align="center">02:15</p> | <p align="right">Atlas <img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Olimpia.png" height="25px"> Olimpia</p> |
+| <p align="center">FT</p> | <p align="right">Austin <img src="/static/logos/Austin FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Violette AC.png" height="25px"> Violette</p> |
+| <p align="center">FT</p> | <p align="right">Philadelphia <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza</p> |
+| <p align="center">48'</p> | <p align="right">Atlas <img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Olimpia.png" height="25px"> Olimpia</p> |
 | <p align="center">22:00</p> | <p align="right">Real España <img src="/static/logos/Real CD España.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
 </div>
 
@@ -76,7 +76,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:10</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"> América</p> |
+| <p align="center">FT</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"> América</p> |
 </div>
 
 
@@ -86,7 +86,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">24'</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Trinidad and Tobago.png" height="25px"> Trinidad</p> |
+| <p align="center">FT</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Trinidad and Tobago.png" height="25px"> Trinidad</p> |
 </div>
 
 
@@ -96,8 +96,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:05</p> | <p align="right">Pumas Tabasco <img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético La Paz.png" height="25px"> La Paz</p> |
-| <p align="center">03:05</p> | <p align="right">Correcaminos <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tepatitlán FC.png" height="25px"> Tepa</p> |
+| <p align="center">FT</p> | <p align="right">Pumas Tabasco <img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Atlético La Paz.png" height="25px"> La Paz</p> |
+| <p align="center">14'</p> | <p align="right">Correcaminos <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tepatitlán FC.png" height="25px"> Tepa</p> |
 | <p align="center">23:00</p> | <p align="right">Alebrijes <img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"> Leones Negros</p> |
 </div>
 
@@ -119,7 +119,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Talleres <img src="/static/logos/CA Talleres Remedios de Escalada.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA San Miguel.png" height="25px"> San Miguel</p> |
+| <p align="center">FT</p> | <p align="right">Talleres <img src="/static/logos/CA Talleres Remedios de Escalada.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA San Miguel.png" height="25px"> San Miguel</p> |
 </div>
 
 
@@ -161,7 +161,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">América MG <img src="/static/logos/América FC (Minas Gerais).png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Santa Cruz FC.png" height="25px"> Santa Cruz</p> |
+| <p align="center">FT</p> | <p align="right">América MG <img src="/static/logos/América FC (Minas Gerais).png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Santa Cruz FC.png" height="25px"> Santa Cruz</p> |
 | <p align="center">18:30</p> | <p align="right">Nova Iguaçu <img src="/static/logos/Nova Iguaçu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nova Mutum Esporte Clube.png" height="25px"> Nova Mutum</p> |
 | <p align="center">22:00</p> | <p align="right">Águia Marabá <img src="/static/logos/Águia de Marabá FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Goiás EC.png" height="25px"> Goiás</p> |
 | <p align="center">22:00</p> | <p align="right">Atlético GO <img src="/static/logos/Atlético Goianiense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Volta Redonda FC.png" height="25px"> Volta Redonda</p> |
@@ -202,7 +202,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">Fluminense PI <img src="/static/logos/Fluminense EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/EC Bahia.png" height="25px"> Bahia</p> |
+| <p align="center">FT</p> | <p align="right">Fluminense PI <img src="/static/logos/Fluminense EC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/EC Bahia.png" height="25px"> Bahia</p> |
 </div>
 
 
@@ -376,8 +376,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Brora Rangers <img src="/static/logos/Brora Rangers FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Buckie Thistle FC.png" height="25px"> Buckie Thistle</p> |
-| <p align="center">15:00</p> | <p align="right">Formartine Utd <img src="/static/logos/Formartine United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turriff United FC.png" height="25px"> Turriff Udt</p> |
+| <p align="center">20:00</p> | <p align="right">Brora Rangers <img src="/static/logos/Brora Rangers FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Buckie Thistle FC.png" height="25px"> Buckie Thistle</p> |
+| <p align="center">20:00</p> | <p align="right">Formartine Utd <img src="/static/logos/Formartine United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turriff United FC.png" height="25px"> Turriff Udt</p> |
 </div>
 
 

@@ -389,16 +389,12 @@
       "matches": [
         {
           "startDate": "2023-03-15T00:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 19,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATX",
             "short": "Austin",
@@ -418,27 +414,23 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 3
           },
           "penalty": null
         },
         {
           "startDate": "2023-03-15T00:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 18,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PHI",
             "short": "Philadelphia",
@@ -458,23 +450,27 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": {
-            "teamA": 0,
+            "teamA": 4,
             "teamB": 0
           },
           "penalty": null
         },
         {
           "startDate": "2023-03-15T02:15:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
+          },
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ATS",
             "short": "Atlas",
@@ -493,9 +489,12 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
-          "agg": {
+          "score": {
             "teamA": 1,
+            "teamB": 0
+          },
+          "agg": {
+            "teamA": 2,
             "teamB": 4
           },
           "penalty": null
@@ -550,7 +549,7 @@
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SFE",
             "short": "Santa Fe",
@@ -569,7 +568,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -585,16 +587,12 @@
       "matches": [
         {
           "startDate": "2023-03-15T00:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 24,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Friendlies 2",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "JAM",
             "short": "Jamaica",
@@ -637,7 +635,7 @@
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "PTA",
             "short": "Pumas Tabasco",
@@ -656,18 +654,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-03-15T03:05:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 14,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "COR",
             "short": "Correcaminos",
@@ -686,7 +691,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -808,16 +816,12 @@
       "matches": [
         {
           "startDate": "2023-03-15T00:10:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 15,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAL",
             "short": "Talleres",
@@ -837,8 +841,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1040,7 +1044,7 @@
             "name": "2nd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "AMG",
             "short": "Am\u00E9rica MG",
@@ -1059,7 +1063,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1490,7 +1497,7 @@
             "name": "Group Stage",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "FEC",
             "short": "Fluminense PI",
@@ -1509,7 +1516,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -3067,7 +3077,7 @@
       },
       "matches": [
         {
-          "startDate": "2023-03-15T15:00:00Z",
+          "startDate": "2023-03-15T20:00:00Z",
           "period": null,
           "round": {
             "name": "Highland League",
@@ -3097,7 +3107,7 @@
           "penalty": null
         },
         {
-          "startDate": "2023-03-15T15:00:00Z",
+          "startDate": "2023-03-15T20:00:00Z",
           "period": null,
           "round": {
             "name": "Highland League",
