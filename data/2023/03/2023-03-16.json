@@ -677,9 +677,9 @@
         {
           "startDate": "2023-03-16T02:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 74,
+            "extra": 0
           },
           "round": {
             "name": "Round of 16",
@@ -706,11 +706,11 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": {
             "teamA": 3,
-            "teamB": 1
+            "teamB": 2
           },
           "penalty": null
         }
@@ -760,9 +760,9 @@
         {
           "startDate": "2023-03-16T03:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 24,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Clausura",
