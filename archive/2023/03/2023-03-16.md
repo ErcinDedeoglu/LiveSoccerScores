@@ -73,7 +73,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Morelia <img src="/static/logos/Club Atlético Morelia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Raya2 Expansión.png" height="25px"> Raya2</p> |
-| <p align="center">17'</p> | <p align="right">Dorados <img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
+| <p align="center">24'</p> | <p align="right">Dorados <img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
 </div>
 
 
