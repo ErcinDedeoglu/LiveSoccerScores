@@ -842,9 +842,9 @@
         {
           "startDate": "2023-03-16T11:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "SECOND_HALF",
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -871,7 +871,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 3
+            "teamB": 6
           },
           "agg": null,
           "penalty": null
@@ -1390,16 +1390,12 @@
         },
         {
           "startDate": "2023-03-16T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BFC",
             "short": "Bali United",
@@ -1420,7 +1416,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1507,12 +1503,16 @@
       "matches": [
         {
           "startDate": "2023-03-16T12:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 35,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NSE",
             "short": "Negeri Seem.",
@@ -1531,7 +1531,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
