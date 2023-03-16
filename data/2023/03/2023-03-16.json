@@ -676,16 +676,12 @@
         },
         {
           "startDate": "2023-03-16T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 74,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAF",
             "short": "Los Angeles",
@@ -705,11 +701,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 2
           },
           "agg": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 2
           },
           "penalty": null
@@ -760,9 +756,9 @@
         {
           "startDate": "2023-03-16T03:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 70,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
