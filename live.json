@@ -677,9 +677,9 @@
         {
           "startDate": "2023-03-16T02:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Round of 16",
@@ -726,16 +726,12 @@
       "matches": [
         {
           "startDate": "2023-03-16T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAM",
             "short": "Morelia",
@@ -763,12 +759,16 @@
         },
         {
           "startDate": "2023-03-16T03:05:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 17,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DOR",
             "short": "Dorados",
@@ -787,7 +787,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
