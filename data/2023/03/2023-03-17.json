@@ -473,9 +473,9 @@
         {
           "startDate": "2023-03-17T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 8
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1666,7 +1666,7 @@
           "startDate": "2023-03-17T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -1713,7 +1713,7 @@
           "startDate": "2023-03-17T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1882,7 +1882,7 @@
           "startDate": "2023-03-17T22:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -5279,9 +5279,9 @@
         {
           "startDate": "2023-03-17T22:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 4
           },
           "round": {
             "name": "Apertura",
@@ -5325,12 +5325,16 @@
       "matches": [
         {
           "startDate": "2023-03-17T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NC",
             "short": "North Carolina",
@@ -5349,7 +5353,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }

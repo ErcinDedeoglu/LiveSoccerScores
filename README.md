@@ -108,7 +108,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Ñublense <img src="/static/logos/Deportivo Ñublense SADP.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Provincial Curicó Unido.png" height="25px"> Curicó Unido</p> |
+| <p align="center">51'</p> | <p align="right">Ñublense <img src="/static/logos/Deportivo Ñublense SADP.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Provincial Curicó Unido.png" height="25px"> Curicó Unido</p> |
 </div>
 
 
@@ -292,7 +292,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Mirassol <img src="/static/logos/Mirassol Futebol Clube.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guarani FC de Campinas.png" height="25px"> Guarani</p> |
+| <p align="center">14'</p> | <p align="right">Mirassol <img src="/static/logos/Mirassol Futebol Clube.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guarani FC de Campinas.png" height="25px"> Guarani</p> |
 </div>
 
 
@@ -302,7 +302,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Velo <img src="/static/logos/AE Velo Clube Rioclarense.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Esporte Clube Noroeste.png" height="25px"> Noroeste</p> |
+| <p align="center">42'</p> | <p align="right">Velo <img src="/static/logos/AE Velo Clube Rioclarense.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Esporte Clube Noroeste.png" height="25px"> Noroeste</p> |
 </div>
 
 
@@ -333,7 +333,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Popular Junior FC SA.png" height="25px"> Junior</p> |
+| <p align="center">26'</p> | <p align="right">Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Popular Junior FC SA.png" height="25px"> Junior</p> |
 </div>
 
 
@@ -810,7 +810,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 1'</p> | <p align="right">Plaza Colonia <img src="/static/logos/Club Plaza Colonia de Deportes.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/La Luz FC.png" height="25px"> La Luz</p> |
+| <p align="center">HT</p> | <p align="right">Plaza Colonia <img src="/static/logos/Club Plaza Colonia de Deportes.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/La Luz FC.png" height="25px"> La Luz</p> |
 </div>
 
 
@@ -820,7 +820,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">North Carolina <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/South Georgia Tormenta FC.png" height="25px"> Tormenta</p> |
+| <p align="center">5'</p> | <p align="right">North Carolina <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Georgia Tormenta FC.png" height="25px"> Tormenta</p> |
 </div>
 
 
