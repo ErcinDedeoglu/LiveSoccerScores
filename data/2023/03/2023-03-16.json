@@ -1004,16 +1004,12 @@
         },
         {
           "startDate": "2023-03-16T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CSA",
             "short": "CSA",
@@ -1041,16 +1037,12 @@
         },
         {
           "startDate": "2023-03-16T23:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GRE",
             "short": "Gr\u00EAmio",
@@ -1070,7 +1062,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -1131,16 +1123,12 @@
       "matches": [
         {
           "startDate": "2023-03-16T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RIV",
             "short": "R\u00EDver",
@@ -1250,16 +1238,12 @@
         },
         {
           "startDate": "2023-03-16T23:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BOG",
             "short": "Bogot\u00E1",
@@ -1279,10 +1263,13 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 2
           },
-          "agg": null,
+          "agg": {
+            "teamA": 2,
+            "teamB": 2
+          },
           "penalty": null
         }
       ]
