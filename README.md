@@ -98,7 +98,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Tauro FC.png" height="25px"> Tauro</p> |
-| <p align="center">22'</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Motagua.png" height="25px"> Motagua</p> |
+| <p align="center">34'</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Motagua.png" height="25px"> Motagua</p> |
 </div>
 
 
@@ -148,7 +148,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Cancún <img src="/static/logos/Cancún FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
+| <p align="center">81'</p> | <p align="right">Cancún <img src="/static/logos/Cancún FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
 | <p align="center">03:05</p> | <p align="right">Tapatío <img src="/static/logos/CD Tapatío.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"> Cimarrones</p> |
 </div>
 
@@ -291,7 +291,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">96'</p> | <p align="right">Vasco <img src="/static/logos/CR Vasco da Gama.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
+| <p align="center">FT</p> | <p align="right">Vasco <img src="/static/logos/CR Vasco da Gama.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
 </div>
 
 
@@ -332,7 +332,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Quindío <img src="/static/logos/Corporación Deportes Quindío.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
+| <p align="center">80'</p> | <p align="right">Quindío <img src="/static/logos/Corporación Deportes Quindío.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
 </div>
 
 

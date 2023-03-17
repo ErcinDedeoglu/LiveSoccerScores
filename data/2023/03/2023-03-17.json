@@ -404,7 +404,7 @@
           "startDate": "2023-03-17T02:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -614,7 +614,7 @@
           "startDate": "2023-03-17T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -1789,16 +1789,12 @@
       "matches": [
         {
           "startDate": "2023-03-17T00:30:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 96,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAS",
             "short": "Vasco",
@@ -1823,8 +1819,8 @@
           },
           "agg": null,
           "penalty": {
-            "teamA": 3,
-            "teamB": 2
+            "teamA": 5,
+            "teamB": 6
           }
         }
       ]
@@ -1991,7 +1987,7 @@
           "startDate": "2023-03-17T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -2019,7 +2015,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
