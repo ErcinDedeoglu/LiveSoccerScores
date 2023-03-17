@@ -402,16 +402,12 @@
         },
         {
           "startDate": "2023-03-17T02:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAC",
             "short": "Pachuca",
@@ -645,16 +641,12 @@
         },
         {
           "startDate": "2023-03-17T03:05:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAP",
             "short": "Tapat\u00EDo",
