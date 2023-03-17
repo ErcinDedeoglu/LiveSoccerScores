@@ -186,15 +186,6 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Aldosivi <img src="/static/logos/CA Aldosivi.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CA Chacarita Juniors.png" height="25px"> Chacarita</p> |
-| <p align="center">POS</p> | <p align="right">Chaco <img src="/static/logos/Club Atlético Chaco For Ever.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CA Atlanta.png" height="25px"> Atlanta</p> |
-| <p align="center">POS</p> | <p align="right">Dep Madryn <img src="/static/logos/Club Social y Deportivo Madryn.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Gimnasia y Esgrima de Jujuy.png" height="25px"> Gimn Jujuy</p> |
-| <p align="center">POS</p> | <p align="right">Est Caseros <img src="/static/logos/CA Estudiantes de Caseros.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CA Brown de Adrogué.png" height="25px"> Brown Adrogué</p> |
-| <p align="center">POS</p> | <p align="right">Independiente <img src="/static/logos/CS Independiente Rivadavia.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CA Racing de Córdoba.png" height="25px"> Racing Córdoba</p> |
-| <p align="center">POS</p> | <p align="right">Maipú <img src="/static/logos/CD Maipú.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CD Riestra.png" height="25px"> Riestra</p> |
-| <p align="center">POS</p> | <p align="right">Mitre SdE <img src="/static/logos/Club Atlético Mitre de Santiago del Estero.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CSyD Tristán Suárez.png" height="25px"> Tristán Suárez</p> |
-| <p align="center">POS</p> | <p align="right">Rafaela <img src="/static/logos/Atlético de Rafaela.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Quilmes AC.png" height="25px"> Quilmes</p> |
-| <p align="center">POS</p> | <p align="right">Villa Dálmine <img src="/static/logos/Club Villa Dálmine.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Club Ferro Carril Oeste.png" height="25px"> Ferro</p> |
 | <p align="center">22:10</p> | <p align="right">Ferro <img src="/static/logos/Club Ferro Carril Oeste.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Social y Deportivo Madryn.png" height="25px"> Dep Madryn</p> |
 </div>
 
@@ -247,7 +238,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Adelaide <img src="/static/logos/Adelaide United.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Newcastle Jets.png" height="25px"> Newcastle</p> |
+| <p align="center">74'</p> | <p align="right">Adelaide <img src="/static/logos/Adelaide United.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Newcastle Jets.png" height="25px"> Newcastle</p> |
 </div>
 
 
