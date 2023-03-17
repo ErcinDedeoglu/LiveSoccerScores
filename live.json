@@ -474,7 +474,7 @@
           "startDate": "2023-03-17T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -502,7 +502,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1031,7 +1031,7 @@
           "startDate": "2023-03-17T22:10:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -1704,12 +1704,16 @@
       "matches": [
         {
           "startDate": "2023-03-17T22:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "VEL",
             "short": "Velo",
@@ -1728,7 +1732,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3733,16 +3740,12 @@
       "matches": [
         {
           "startDate": "2023-03-17T20:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BOY",
             "short": "Boys",
@@ -3762,8 +3765,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4889,7 +4892,7 @@
           "startDate": "2023-03-17T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -4916,7 +4919,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -5265,12 +5268,16 @@
       "matches": [
         {
           "startDate": "2023-03-17T22:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 22,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PLC",
             "short": "Plaza Colonia",
@@ -5289,7 +5296,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -5347,7 +5357,7 @@
           "startDate": "2023-03-17T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -5375,7 +5385,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
