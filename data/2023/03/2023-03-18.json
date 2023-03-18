@@ -910,16 +910,12 @@
       "matches": [
         {
           "startDate": "2023-03-18T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PUE",
             "short": "Puebla",
@@ -1922,8 +1918,8 @@
           "startDate": "2023-03-18T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Apertura",
@@ -4214,9 +4210,9 @@
         {
           "startDate": "2023-03-18T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 4
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -5969,9 +5965,9 @@
         {
           "startDate": "2023-03-18T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 4
           },
           "round": {
             "name": "Clausura",

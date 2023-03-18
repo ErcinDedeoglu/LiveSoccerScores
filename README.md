@@ -98,7 +98,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Puebla <img src="/static/logos/Puebla FC.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"> Atlas</p> |
+| <p align="center">FT</p> | <p align="right">Puebla <img src="/static/logos/Puebla FC.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"> Atlas</p> |
 | <p align="center">03:05</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Necaxa.png" height="25px"> Necaxa</p> |
 | <p align="center">03:05</p> | <p align="right">Tijuana <img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Toluca FC.png" height="25px"> Toluca</p> |
 | <p align="center">23:00</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlético San Luis.png" height="25px"> A San Luis</p> |
@@ -192,7 +192,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Pereira <img src="/static/logos/CS Deportiva y Cultural de Pereira.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Atl. Nacional</p> |
+| <p align="center">90' 3'</p> | <p align="right">Pereira <img src="/static/logos/CS Deportiva y Cultural de Pereira.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Atl. Nacional</p> |
 | <p align="center">19:00</p> | <p align="right">Envigado <img src="/static/logos/Envigado FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"> Boyacá Chicó</p> |
 | <p align="center">21:10</p> | <p align="right">Equidad <img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD Unión Magdalena.png" height="25px"> Magdalena</p> |
 | <p align="center">23:20</p> | <p align="right">Pasto <img src="/static/logos/AD Pasto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Asociación Deportivo Cali.png" height="25px"> Cali</p> |
@@ -450,7 +450,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 4'</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney</p> |
+| <p align="center">HT</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney</p> |
 | <p align="center">04:00</p> | <p align="right">Canberra <img src="/static/logos/Canberra United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne Victory.png" height="25px"> Victory</p> |
 | <p align="center">04:00</p> | <p align="right">Wellington <img src="/static/logos/Wellington Phoenix FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth Glory</p> |
 </div>
@@ -707,7 +707,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 3'</p> | <p align="right">SP. San José <img src="/static/logos/Sporting San José FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Municipal de Pérez Zeledón.png" height="25px"> Pérez Zeledón</p> |
+| <p align="center">HT</p> | <p align="right">SP. San José <img src="/static/logos/Sporting San José FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Municipal de Pérez Zeledón.png" height="25px"> Pérez Zeledón</p> |
 | <p align="center">22:00</p> | <p align="right">Guápiles <img src="/static/logos/AD Santos de Guápiles.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puntarenas FC.png" height="25px"> Puntarenas</p> |
 </div>
 
