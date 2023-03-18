@@ -217,7 +217,7 @@
           "startDate": "2023-03-18T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -573,7 +573,7 @@
           "startDate": "2023-03-18T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -684,16 +684,12 @@
         },
         {
           "startDate": "2023-03-18T19:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "UDI",
             "short": "Udinese",
@@ -766,8 +762,8 @@
           "startDate": "2023-03-18T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -1193,8 +1189,8 @@
           "startDate": "2023-03-18T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -1546,9 +1542,9 @@
         {
           "startDate": "2023-03-18T20:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 56,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2146,7 +2142,7 @@
           "startDate": "2023-03-18T21:10:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -2256,8 +2252,8 @@
           "startDate": "2023-03-18T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -2293,8 +2289,8 @@
           "startDate": "2023-03-18T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -2725,16 +2721,12 @@
         },
         {
           "startDate": "2023-03-18T19:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "STA",
             "short": "Standard",
@@ -3673,8 +3665,8 @@
           "startDate": "2023-03-18T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Group 1",
@@ -5074,8 +5066,8 @@
           "startDate": "2023-03-18T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Ta\u00E7a Rio - Semi-finals",
@@ -5203,8 +5195,8 @@
           "startDate": "2023-03-18T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Trof\u00E9u Inconfid\u00EAncia - Semi-finals",
@@ -5243,8 +5235,8 @@
           "startDate": "2023-03-18T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Relegation Round",
@@ -5529,16 +5521,12 @@
         },
         {
           "startDate": "2023-03-18T19:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAG",
             "short": "Maguary",
@@ -6151,9 +6139,9 @@
         {
           "startDate": "2023-03-18T20:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 54,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -6417,7 +6405,7 @@
           "startDate": "2023-03-18T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -6454,7 +6442,7 @@
           "startDate": "2023-03-18T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -6481,7 +6469,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -7317,7 +7305,7 @@
           "startDate": "2023-03-18T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -7344,7 +7332,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -7364,7 +7352,7 @@
           "startDate": "2023-03-18T21:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -7401,7 +7389,7 @@
           "startDate": "2023-03-18T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -13637,8 +13625,8 @@
         {
           "startDate": "2023-03-18T21:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -13747,9 +13735,9 @@
         {
           "startDate": "2023-03-18T20:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -16220,8 +16208,8 @@
           "startDate": "2023-03-18T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -17550,7 +17538,7 @@
           "startDate": "2023-03-18T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -17660,7 +17648,7 @@
           "startDate": "2023-03-18T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -17688,7 +17676,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -17737,7 +17725,7 @@
           "startDate": "2023-03-18T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -17813,9 +17801,9 @@
         {
           "startDate": "2023-03-18T21:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
