@@ -1255,49 +1255,6 @@
     },
     {
       "competition": {
-        "name": "Victoria NPL Women",
-        "area": {
-          "name": "Australia"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-17T08:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "BOX",
-            "short": "Box Hill",
-            "long": "Box Hill United",
-            "full": "Box Hill United SC",
-            "name": "Box Hill"
-          },
-          "teamB": {
-            "code": "CAL",
-            "short": "Calder Utd",
-            "long": "Calder United",
-            "full": "Calder United SC",
-            "name": "Calder Utd"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 3,
-            "teamB": 3
-          },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "A-League Women",
         "area": {
           "name": "Australia"
@@ -4871,49 +4828,6 @@
           "score": {
             "teamA": 0,
             "teamB": 3
-          },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "TT Premier League",
-        "area": {
-          "name": "Trinidad and Tobago"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-03-17T21:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "CUN",
-            "short": "Cunupia",
-            "long": "Cunupia",
-            "full": "Cunupia FC",
-            "name": "Cunupia"
-          },
-          "teamB": {
-            "code": "JAB",
-            "short": "Jabloteh",
-            "long": "San Juan Jabloteh",
-            "full": "San Juan Jabloteh FC",
-            "name": "Jabloteh"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 2,
-            "teamB": 0
           },
           "agg": null,
           "penalty": null
