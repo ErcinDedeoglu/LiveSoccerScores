@@ -945,7 +945,7 @@
           "startDate": "2023-03-18T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -982,7 +982,7 @@
           "startDate": "2023-03-18T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -1009,7 +1009,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 3
           },
           "agg": null,
@@ -3821,7 +3821,7 @@
           "startDate": "2023-03-18T04:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -3848,7 +3848,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -3958,7 +3958,7 @@
           "startDate": "2023-03-18T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -3986,19 +3986,23 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-03-18T04:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BAY",
             "short": "Bayside Utd",
@@ -4017,7 +4021,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -4195,7 +4202,7 @@
           "startDate": "2023-03-18T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -4275,7 +4282,7 @@
           "startDate": "2023-03-18T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -4312,7 +4319,7 @@
           "startDate": "2023-03-18T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -11673,7 +11680,7 @@
           "startDate": "2023-03-18T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -11700,7 +11707,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -11878,12 +11885,16 @@
       "matches": [
         {
           "startDate": "2023-03-18T04:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHA",
             "short": "Chungnam Asan",
@@ -11902,7 +11913,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
