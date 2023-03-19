@@ -3797,16 +3797,12 @@
         },
         {
           "startDate": "2023-03-19T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SCW",
             "short": "SC Wanderers",
@@ -3835,9 +3831,9 @@
         {
           "startDate": "2023-03-19T09:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 33,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -3915,9 +3911,9 @@
         {
           "startDate": "2023-03-19T09:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 58,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -4585,8 +4581,8 @@
         {
           "startDate": "2023-03-19T09:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
+            "type": "SECOND_HALF",
+            "minute": 48,
             "extra": 0
           },
           "round": {
@@ -5594,7 +5590,7 @@
           "startDate": "2023-03-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -6373,9 +6369,9 @@
         {
           "startDate": "2023-03-19T09:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -7272,12 +7268,16 @@
       "matches": [
         {
           "startDate": "2023-03-19T10:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KUR",
             "short": "Kuressaare",
@@ -7296,7 +7296,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -8860,7 +8863,7 @@
           "startDate": "2023-03-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -9040,7 +9043,7 @@
           "startDate": "2023-03-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -11905,7 +11908,7 @@
           "startDate": "2023-03-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -11942,7 +11945,7 @@
           "startDate": "2023-03-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -12667,12 +12670,16 @@
       "matches": [
         {
           "startDate": "2023-03-19T10:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHO",
             "short": "Chonburi",
@@ -12691,7 +12698,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -12797,12 +12807,16 @@
       "matches": [
         {
           "startDate": "2023-03-19T10:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "RAN",
             "short": "Ranong",
@@ -12821,7 +12835,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -13309,7 +13326,7 @@
           "startDate": "2023-03-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -13836,7 +13853,7 @@
           "startDate": "2023-03-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 32,
             "extra": 0
           },
           "round": {
