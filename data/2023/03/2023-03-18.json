@@ -17995,6 +17995,46 @@
           "penalty": null
         }
       ]
+    },
+    {
+      "competition": {
+        "name": "U17 Club Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-18T12:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": true
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "UNB",
+            "short": "Union Berlin",
+            "long": "Union Berlin U17",
+            "full": "1. FC Union Berlin Under 17",
+            "name": "Union Berlin"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
     }
   ]
 }
