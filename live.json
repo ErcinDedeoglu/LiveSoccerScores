@@ -245,7 +245,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 2
+            "extra": 10
           },
           "round": {
             "name": "Regular Season",
@@ -280,9 +280,9 @@
         {
           "startDate": "2023-03-19T02:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 7
+            "extra": 11
           },
           "round": {
             "name": "Regular Season",
@@ -1001,7 +1001,7 @@
           "startDate": "2023-03-19T03:10:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -1612,16 +1612,12 @@
       "matches": [
         {
           "startDate": "2023-03-19T01:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "JUN",
             "short": "Junior",
@@ -5931,7 +5927,7 @@
           "startDate": "2023-03-19T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -14580,7 +14576,7 @@
           "startDate": "2023-03-19T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -14617,7 +14613,7 @@
           "startDate": "2023-03-19T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -14654,7 +14650,7 @@
           "startDate": "2023-03-19T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 73,
             "extra": 0
           },
           "round": {
