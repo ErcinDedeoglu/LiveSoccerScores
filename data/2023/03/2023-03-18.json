@@ -4712,6 +4712,49 @@
     },
     {
       "competition": {
+        "name": "Jugendliga U18",
+        "area": {
+          "name": "Austria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-18T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "STU",
+            "short": "Sturm",
+            "long": "Sturm Graz U18",
+            "full": "SK Sturm Graz Under 18",
+            "name": "Sturm"
+          },
+          "teamB": {
+            "code": "RBA",
+            "short": "RB Akademie",
+            "long": "Red Bull Akademie U18",
+            "full": "Red Bull Akademie Under 18 (FC Salzburg Under 18)",
+            "name": "RB Akademie"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Premier League",
         "area": {
           "name": "Belarus"
