@@ -736,7 +736,7 @@
           "startDate": "2023-03-20T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -763,7 +763,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1014,16 +1014,12 @@
       "matches": [
         {
           "startDate": "2023-03-20T13:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KIF",
             "short": "Kifisia",
