@@ -1392,7 +1392,7 @@
           "startDate": "2023-03-20T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 31,
             "extra": 0
           },
           "round": {
