@@ -7449,36 +7449,6 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "BLB",
-            "short": "Blackburn",
-            "long": "Blackburn Rovers",
-            "full": "Blackburn Rovers LFC",
-            "name": "Blackburn"
-          },
-          "teamB": {
-            "code": "LEW",
-            "short": "Lewes",
-            "long": "Lewes",
-            "full": "Lewes LFC",
-            "name": "Lewes"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-19T12:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
           "status": "RESULT",
           "teamA": {
             "code": "SOT",
