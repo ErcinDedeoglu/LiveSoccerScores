@@ -1008,9 +1008,9 @@
         {
           "startDate": "2023-03-20T13:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Group B",
