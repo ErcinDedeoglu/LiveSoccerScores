@@ -43,16 +43,12 @@
         },
         {
           "startDate": "2023-03-20T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LEO",
             "short": "Le\u00F3n",
