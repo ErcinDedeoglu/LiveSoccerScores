@@ -343,8 +343,8 @@
           "startDate": "2023-03-21T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Quarter-finals",
@@ -436,7 +436,7 @@
           "startDate": "2023-03-21T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -483,7 +483,7 @@
           "startDate": "2023-03-21T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -529,9 +529,9 @@
         {
           "startDate": "2023-03-21T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Apertura",
