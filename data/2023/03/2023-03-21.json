@@ -802,7 +802,7 @@
           "startDate": "2023-03-21T17:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -829,7 +829,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -911,9 +911,9 @@
         {
           "startDate": "2023-03-21T17:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Bayern",
@@ -949,7 +949,7 @@
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -976,7 +976,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -986,7 +986,7 @@
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -1014,7 +1014,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1023,7 +1023,7 @@
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -1070,7 +1070,7 @@
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 26,
             "extra": 0
           },
           "round": {
