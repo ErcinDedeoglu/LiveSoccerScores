@@ -802,7 +802,7 @@
           "startDate": "2023-03-21T17:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -912,7 +912,7 @@
           "startDate": "2023-03-21T17:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -936,7 +936,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 0,
@@ -948,9 +948,9 @@
         {
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Nordost",
@@ -985,9 +985,9 @@
         {
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Nordost",
@@ -1022,9 +1022,9 @@
         {
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "S\u00FCdwest",
@@ -1069,9 +1069,9 @@
         {
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
