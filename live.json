@@ -127,9 +127,9 @@
         {
           "startDate": "2023-03-21T01:20:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -152,7 +152,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 1,
@@ -213,16 +213,12 @@
       "matches": [
         {
           "startDate": "2023-03-21T00:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MOR",
             "short": "Mor\u00F3n",
@@ -300,16 +296,12 @@
       "matches": [
         {
           "startDate": "2023-03-21T00:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 94,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AGU",
             "short": "\u00C1gua Santa",
@@ -334,8 +326,8 @@
           },
           "agg": null,
           "penalty": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 4,
+            "teamB": 2
           }
         }
       ]
