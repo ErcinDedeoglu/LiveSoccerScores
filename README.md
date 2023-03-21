@@ -97,7 +97,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Flamengo <img src="/static/logos/Clube de Regatas do Flamengo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CR Vasco da Gama.png" height="25px"> Vasco</p> |
+| <p align="center">34'</p> | <p align="right">Flamengo <img src="/static/logos/Clube de Regatas do Flamengo.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CR Vasco da Gama.png" height="25px"> Vasco</p> |
 </div>
 
 
@@ -170,7 +170,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:30</p> | <p align="right">Wolves <img src="/static/logos/Wolverhampton Wanderers FC Under 18 Academy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sunderland FC Under 18 Academy.png" height="25px"> Sunderland</p> |
+| <p align="center">4'</p> | <p align="right">Wolves <img src="/static/logos/Wolverhampton Wanderers FC Under 18 Academy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunderland FC Under 18 Academy.png" height="25px"> Sunderland</p> |
 </div>
 
 
