@@ -235,7 +235,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Twente <img src="/static/logos/FC Twente.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/VV Alkmaar.png" height="25px"> Alkmaar</p> |
+| <p align="center">61'</p> | <p align="right">Twente <img src="/static/logos/FC Twente.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/VV Alkmaar.png" height="25px"> Alkmaar</p> |
 </div>
 
 
