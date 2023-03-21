@@ -12,7 +12,7 @@
           "startDate": "2023-03-21T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -49,7 +49,7 @@
           "startDate": "2023-03-21T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -134,12 +134,16 @@
       "matches": [
         {
           "startDate": "2023-03-21T01:20:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 22,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "HUI",
             "short": "Huila",
@@ -158,7 +162,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -215,9 +222,9 @@
         {
           "startDate": "2023-03-21T00:10:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 71,
+            "extra": 0
           },
           "round": {
             "name": "Group A",
@@ -303,7 +310,7 @@
           "startDate": "2023-03-21T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -326,11 +333,11 @@
             "name": "RB Bragantino"
           },
           "redCards": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -553,7 +560,7 @@
           "startDate": "2023-03-21T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -580,7 +587,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
