@@ -10,16 +10,12 @@
       "matches": [
         {
           "startDate": "2023-03-21T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HUR",
             "short": "Hurac\u00E1n",
@@ -47,16 +43,12 @@
         },
         {
           "startDate": "2023-03-21T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAN",
             "short": "Lan\u00FAs",
@@ -135,9 +127,9 @@
         {
           "startDate": "2023-03-21T01:20:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 22,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Apertura",
@@ -163,7 +155,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -223,8 +215,8 @@
           "startDate": "2023-03-21T00:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Group A",
@@ -251,7 +243,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -309,8 +301,8 @@
         {
           "startDate": "2023-03-21T00:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
+            "type": "PENALTY",
+            "minute": 94,
             "extra": 0
           },
           "round": {
@@ -341,7 +333,10 @@
             "teamB": 1
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 0,
+            "teamB": 0
+          }
         }
       ]
     },
@@ -558,16 +553,12 @@
       "matches": [
         {
           "startDate": "2023-03-21T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CUE",
             "short": "Dep. Cuenca",
