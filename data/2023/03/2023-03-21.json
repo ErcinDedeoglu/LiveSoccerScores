@@ -870,16 +870,12 @@
       "matches": [
         {
           "startDate": "2023-03-21T14:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Nordost",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GFC",
             "short": "Greifswald",
@@ -899,7 +895,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 4,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,
@@ -1165,7 +1161,7 @@
           "startDate": "2023-03-21T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 30,
             "extra": 0
           },
           "round": {
