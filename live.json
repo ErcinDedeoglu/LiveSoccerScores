@@ -802,7 +802,7 @@
           "startDate": "2023-03-21T17:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -912,7 +912,7 @@
           "startDate": "2023-03-21T17:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 31,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -949,7 +949,7 @@
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -986,7 +986,7 @@
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 13,
             "extra": 0
           },
           "round": {
@@ -1021,12 +1021,16 @@
         },
         {
           "startDate": "2023-03-21T18:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 11,
+            "extra": 0
+          },
           "round": {
             "name": "S\u00FCdwest",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "HES",
             "short": "Kassel",
@@ -1045,7 +1049,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1063,7 +1070,7 @@
           "startDate": "2023-03-21T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 14,
             "extra": 0
           },
           "round": {
