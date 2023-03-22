@@ -185,7 +185,7 @@
           "startDate": "2023-03-22T15:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 82,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -212,7 +212,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -412,7 +412,7 @@
           "period": {
             "type": "HALF_TIME",
             "minute": 45,
-            "extra": 5
+            "extra": 12
           },
           "round": {
             "name": "Group Stage",
@@ -1089,16 +1089,12 @@
         },
         {
           "startDate": "2023-03-22T15:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Elite Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BEL",
             "short": "Belgium",
@@ -1258,7 +1254,7 @@
           "startDate": "2023-03-22T15:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -2036,16 +2032,12 @@
       "matches": [
         {
           "startDate": "2023-03-22T15:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RIV",
             "short": "Rivers Utd",
@@ -2293,16 +2285,12 @@
       "matches": [
         {
           "startDate": "2023-03-22T15:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "USA",
             "short": "USA",
