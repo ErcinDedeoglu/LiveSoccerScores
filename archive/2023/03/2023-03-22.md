@@ -39,7 +39,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:40</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Asociación Deportivo Cali.png" height="25px"> Cali</p> |
+| <p align="center">15:15</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Asociación Deportivo Cali.png" height="25px"> Cali</p> |
 </div>
 
 
@@ -59,7 +59,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Mineros <img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"> Alebrijes</p> |
+| <p align="center">90'</p> | <p align="right">Mineros <img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"> Alebrijes</p> |
 | <p align="center">03:05</p> | <p align="right">La Paz <img src="/static/logos/Club Atlético La Paz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"> Dorados</p> |
 | <p align="center">03:05</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Celaya CF.png" height="25px"> Celaya</p> |
 | <p align="center">23:00</p> | <p align="right">Durango <img src="/static/logos/CF Alacranes de Durango.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"> Pumas Tabasco</p> |
