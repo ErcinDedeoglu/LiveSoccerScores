@@ -266,7 +266,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 9
           },
           "round": {
             "name": "Clausura",
@@ -293,7 +293,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 4
+            "teamB": 6
           },
           "agg": null,
           "penalty": null
