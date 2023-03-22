@@ -264,9 +264,9 @@
         {
           "startDate": "2023-03-22T01:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -512,7 +512,7 @@
           "startDate": "2023-03-22T00:00:00Z",
           "period": {
             "type": "PENALTY",
-            "minute": 101,
+            "minute": 118,
             "extra": 0
           },
           "round": {
@@ -547,8 +547,8 @@
             "teamB": 0
           },
           "penalty": {
-            "teamA": 5,
-            "teamB": 6
+            "teamA": 13,
+            "teamB": 13
           }
         },
         {
