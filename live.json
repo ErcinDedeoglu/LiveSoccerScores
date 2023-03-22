@@ -265,7 +265,7 @@
           "startDate": "2023-03-22T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -293,7 +293,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 3
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -510,16 +510,12 @@
       "matches": [
         {
           "startDate": "2023-03-22T00:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 118,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CRI",
             "short": "Crici\u00FAma",
@@ -547,7 +543,7 @@
             "teamB": 0
           },
           "penalty": {
-            "teamA": 13,
+            "teamA": 14,
             "teamB": 13
           }
         },
