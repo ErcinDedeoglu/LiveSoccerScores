@@ -1274,7 +1274,7 @@
           "startDate": "2023-03-22T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -1591,7 +1591,7 @@
           "startDate": "2023-03-22T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -1776,12 +1776,16 @@
         },
         {
           "startDate": "2023-03-22T10:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Elite Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "FRA",
             "short": "France",
@@ -1800,7 +1804,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
