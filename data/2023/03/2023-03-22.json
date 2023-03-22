@@ -185,7 +185,7 @@
           "startDate": "2023-03-22T15:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -981,8 +981,8 @@
           "startDate": "2023-03-22T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Elite Round",
@@ -1008,7 +1008,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,
@@ -1080,9 +1080,9 @@
         {
           "startDate": "2023-03-22T15:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Elite Round",
@@ -1241,7 +1241,7 @@
           "startDate": "2023-03-22T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -1374,7 +1374,7 @@
           "startDate": "2023-03-22T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -1865,7 +1865,7 @@
           "startDate": "2023-03-22T14:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -1892,7 +1892,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 4
           },
           "agg": null,
@@ -2021,9 +2021,9 @@
         {
           "startDate": "2023-03-22T15:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -2278,9 +2278,9 @@
         {
           "startDate": "2023-03-22T15:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Friendlies 1",
