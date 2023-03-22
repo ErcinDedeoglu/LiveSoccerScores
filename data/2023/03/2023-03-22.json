@@ -297,9 +297,9 @@
         {
           "startDate": "2023-03-22T03:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 5
           },
           "round": {
             "name": "Clausura",
@@ -334,9 +334,9 @@
         {
           "startDate": "2023-03-22T03:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 5
           },
           "round": {
             "name": "Clausura",
