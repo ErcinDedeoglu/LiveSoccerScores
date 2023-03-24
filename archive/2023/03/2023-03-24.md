@@ -57,7 +57,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Ecuador.png" height="25px"> Ecuador</p> |
 | <p align="center">FT</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
-| <p align="center">52'</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
+| <p align="center">90'</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
 | <p align="center">18:00</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bolivia.png" height="25px"> Bolivia</p> |
 | <p align="center">19:00</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
 </div>
@@ -69,7 +69,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">İstanbulspor <img src="/static/logos/İstanbulspor AŞ.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kayseri Spor Kulübü.png" height="25px"> Kayseri</p> |
+| <p align="center">6'</p> | <p align="right">İstanbulspor <img src="/static/logos/İstanbulspor AŞ.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kayseri Spor Kulübü.png" height="25px"> Kayseri</p> |
 </div>
 
 
@@ -99,7 +99,7 @@
 | <p align="center">14:00</p> | <p align="right">Uganda <img src="/static/logos/Uganda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tanzania.png" height="25px"> Tanzania</p> |
 | <p align="center">19:00</p> | <p align="right">Mali <img src="/static/logos/Mali.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gambia.png" height="25px"> Gambia</p> |
 | <p align="center">16:00</p> | <p align="right">Côte d'Ivoire <img src="/static/logos/Côte d'Ivoire.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Comoros.png" height="25px"> Comoros</p> |
-| <p align="center">13:00</p> | <p align="right">Congo DR <img src="/static/logos/Congo DR.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mauritania.png" height="25px"> Mauritania</p> |
+| <p align="center">10'</p> | <p align="right">Congo DR <img src="/static/logos/Congo DR.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mauritania.png" height="25px"> Mauritania</p> |
 | <p align="center">19:00</p> | <p align="right">Equat Guinea <img src="/static/logos/Equatorial Guinea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botswana.png" height="25px"> Botswana</p> |
 | <p align="center">20:30</p> | <p align="right">Tunisia <img src="/static/logos/Tunisia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Libya.png" height="25px"> Libya</p> |
 | <p align="center">16:00</p> | <p align="right">South Africa <img src="/static/logos/South Africa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
@@ -229,7 +229,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Belarus <img src="/static/logos/Belarus Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Andorra Under 21.png" height="25px"> Andorra</p> |
+| <p align="center">52'</p> | <p align="right">Belarus <img src="/static/logos/Belarus Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Andorra Under 21.png" height="25px"> Andorra</p> |
 </div>
 
 
@@ -302,7 +302,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:45</p> | <p align="right">Proodeftiki <img src="/static/logos/Proodeftiki FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC PAO Rouf.png" height="25px"> PAO Rouf</p> |
+| <p align="center">24'</p> | <p align="right">Proodeftiki <img src="/static/logos/Proodeftiki FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC PAO Rouf.png" height="25px"> PAO Rouf</p> |
 | <p align="center">13:15</p> | <p align="right">Almopos <img src="/static/logos/Almopos Aridaia FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iraklis 1908 FC.png" height="25px"> Iraklis 1908</p> |
 </div>
 
@@ -446,7 +446,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Kasetsart <img src="/static/logos/Kasetsart University FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Udon Thani FC.png" height="25px"> Udon Thani</p> |
+| <p align="center">FT</p> | <p align="right">Kasetsart <img src="/static/logos/Kasetsart University FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Udon Thani FC.png" height="25px"> Udon Thani</p> |
 </div>
 
 

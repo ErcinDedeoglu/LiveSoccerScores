@@ -1196,7 +1196,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         },

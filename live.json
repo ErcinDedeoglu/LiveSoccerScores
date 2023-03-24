@@ -474,7 +474,7 @@
           "startDate": "2023-03-24T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -579,12 +579,16 @@
       "matches": [
         {
           "startDate": "2023-03-24T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Club Friendlies 2",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "\u0130ST",
             "short": "\u0130stanbulspor",
@@ -603,7 +607,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -962,12 +969,16 @@
         },
         {
           "startDate": "2023-03-24T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 10,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "COD",
             "short": "Congo DR",
@@ -986,7 +997,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1770,8 +1784,8 @@
         {
           "startDate": "2023-03-24T12:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
+            "type": "SECOND_HALF",
+            "minute": 52,
             "extra": 0
           },
           "round": {
@@ -2406,12 +2420,16 @@
       "matches": [
         {
           "startDate": "2023-03-24T12:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 24,
+            "extra": 0
+          },
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PRO",
             "short": "Proodeftiki",
@@ -2430,7 +2448,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -3346,16 +3367,12 @@
       "matches": [
         {
           "startDate": "2023-03-24T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 72,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KAS",
             "short": "Kasetsart",
@@ -3375,7 +3392,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
