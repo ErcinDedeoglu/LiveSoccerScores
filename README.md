@@ -69,7 +69,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">İstanbulspor <img src="/static/logos/İstanbulspor AŞ.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kayseri Spor Kulübü.png" height="25px"> Kayseri</p> |
+| <p align="center">FT</p> | <p align="right">İstanbulspor <img src="/static/logos/İstanbulspor AŞ.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Kayseri Spor Kulübü.png" height="25px"> Kayseri</p> |
 </div>
 
 
@@ -90,19 +90,19 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Nigeria <img src="/static/logos/Nigeria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guinea-Bissau.png" height="25px"> Guinea-Bissau</p> |
-| <p align="center">16:00</p> | <p align="right">Cabo Verde <img src="/static/logos/Cabo Verde.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Eswatini.png" height="25px"> Eswatini</p> |
+| <p align="center">HT</p> | <p align="right">Nigeria <img src="/static/logos/Nigeria.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Guinea-Bissau.png" height="25px"> Guinea-Bissau</p> |
+| <p align="center">HT</p> | <p align="right">Cabo Verde <img src="/static/logos/Cabo Verde.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Eswatini.png" height="25px"> Eswatini</p> |
 | <p align="center">19:00</p> | <p align="right">Burkina Faso <img src="/static/logos/Burkina Faso.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Togo.png" height="25px"> Togo</p> |
 | <p align="center">20:30</p> | <p align="right">Cameroon <img src="/static/logos/Cameroon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Namibia.png" height="25px"> Namibia</p> |
 | <p align="center">19:00</p> | <p align="right">Egypt <img src="/static/logos/Egypt.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malawi.png" height="25px"> Malawi</p> |
 | <p align="center">20:30</p> | <p align="right">Guinea <img src="/static/logos/Guinea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ethiopia.png" height="25px"> Ethiopia</p> |
-| <p align="center">37'</p> | <p align="right">Uganda <img src="/static/logos/Uganda.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tanzania.png" height="25px"> Tanzania</p> |
+| <p align="center">FT</p> | <p align="right">Uganda <img src="/static/logos/Uganda.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tanzania.png" height="25px"> Tanzania</p> |
 | <p align="center">19:00</p> | <p align="right">Mali <img src="/static/logos/Mali.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gambia.png" height="25px"> Gambia</p> |
-| <p align="center">16:00</p> | <p align="right">Côte d'Ivoire <img src="/static/logos/Côte d'Ivoire.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Comoros.png" height="25px"> Comoros</p> |
-| <p align="center">85'</p> | <p align="right">Congo DR <img src="/static/logos/Congo DR.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Mauritania.png" height="25px"> Mauritania</p> |
+| <p align="center">HT</p> | <p align="right">Côte d'Ivoire <img src="/static/logos/Côte d'Ivoire.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Comoros.png" height="25px"> Comoros</p> |
+| <p align="center">FT</p> | <p align="right">Congo DR <img src="/static/logos/Congo DR.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Mauritania.png" height="25px"> Mauritania</p> |
 | <p align="center">19:00</p> | <p align="right">Equat Guinea <img src="/static/logos/Equatorial Guinea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botswana.png" height="25px"> Botswana</p> |
 | <p align="center">20:30</p> | <p align="right">Tunisia <img src="/static/logos/Tunisia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Libya.png" height="25px"> Libya</p> |
-| <p align="center">16:00</p> | <p align="right">South Africa <img src="/static/logos/South Africa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
+| <p align="center">HT</p> | <p align="right">South Africa <img src="/static/logos/South Africa.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
 | <p align="center">19:00</p> | <p align="right">Senegal <img src="/static/logos/Senegal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mozambique.png" height="25px"> Mozambique</p> |
 </div>
 
@@ -209,7 +209,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Derby <img src="/static/logos/Derby County Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Middlesbrough Under 21.png" height="25px"> Middlesbrough</p> |
+| <p align="center">FT</p> | <p align="right">Derby <img src="/static/logos/Derby County Under 21.png" height="25px"></p> | <p align="center">1 - 5</p> | <p align="left"><img src="/static/logos/Middlesbrough Under 21.png" height="25px"> Middlesbrough</p> |
 </div>
 
 
@@ -303,7 +303,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Proodeftiki <img src="/static/logos/Proodeftiki FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC PAO Rouf.png" height="25px"> PAO Rouf</p> |
-| <p align="center">76'</p> | <p align="right">Almopos <img src="/static/logos/Almopos Aridaia FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Iraklis 1908 FC.png" height="25px"> Iraklis 1908</p> |
+| <p align="center">FT</p> | <p align="right">Almopos <img src="/static/logos/Almopos Aridaia FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Iraklis 1908 FC.png" height="25px"> Iraklis 1908</p> |
 </div>
 
 
@@ -313,9 +313,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
-| <p align="center">57'</p> | <p align="right">Persib <img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bhayangkara FC.png" height="25px"> Bhayangkara</p> |
-| <p align="center">58'</p> | <p align="right">Persik <img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Tangerang.png" height="25px"> Persita</p> |
+| <p align="center">FT</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
+| <p align="center">FT</p> | <p align="right">Persib <img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bhayangkara FC.png" height="25px"> Bhayangkara</p> |
+| <p align="center">FT</p> | <p align="right">Persik <img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Tangerang.png" height="25px"> Persita</p> |
 </div>
 
 
