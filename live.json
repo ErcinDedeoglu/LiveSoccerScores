@@ -472,16 +472,12 @@
         },
         {
           "startDate": "2023-03-24T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KOR",
             "short": "Korea Rep",
@@ -581,7 +577,7 @@
           "startDate": "2023-03-24T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -608,7 +604,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -971,7 +967,7 @@
           "startDate": "2023-03-24T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -1785,7 +1781,7 @@
           "startDate": "2023-03-24T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -2422,7 +2418,7 @@
           "startDate": "2023-03-24T12:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -2457,12 +2453,16 @@
         },
         {
           "startDate": "2023-03-24T13:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 17,
+            "extra": 0
+          },
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ALM",
             "short": "Almopos",
@@ -2481,7 +2481,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
