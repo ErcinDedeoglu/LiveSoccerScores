@@ -1,0 +1,2041 @@
+{
+  "livescores": [
+    {
+      "competition": {
+        "name": "US Open Cup",
+        "area": {
+          "name": "USA"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T00:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BEA",
+            "short": "Beaman Utd",
+            "long": "Beaman United",
+            "full": "Beaman United FC",
+            "name": "Beaman Utd"
+          },
+          "teamB": {
+            "code": "DMM",
+            "short": "Des Moines",
+            "long": "Des Moines Menace",
+            "full": "Des Moines Menace",
+            "name": "Des Moines"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T00:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CHH",
+            "short": "Chicago House",
+            "long": "Chicago House",
+            "full": "Chicago House AC",
+            "name": "Chicago House"
+          },
+          "teamB": {
+            "code": "BAV",
+            "short": "Bavarian",
+            "long": "Bavarian United",
+            "full": "Bavarian United FC",
+            "name": "Bavarian"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T00:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "TUL",
+            "short": "Tulsa Athl.",
+            "long": "Tulsa Athletic",
+            "full": "Tulsa Athletic",
+            "name": "Tulsa Athl."
+          },
+          "teamB": {
+            "code": "BRZ",
+            "short": "Brazos Valley",
+            "long": "Brazos Valley",
+            "full": "Brazos Valley FC",
+            "name": "Brazos Valley"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T01:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "UDA",
+            "short": "UDA Soccer",
+            "long": "UDA Soccer",
+            "full": "UDA Soccer Academy at NMSU",
+            "name": "UDA Soccer"
+          },
+          "teamB": {
+            "code": "PCR",
+            "short": "Park City",
+            "long": "Park City Red Wolves",
+            "full": "Park City Red Wolves SC",
+            "name": "Park City"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T02:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "PRO",
+            "short": "Project 51O",
+            "long": "Project 51O",
+            "full": "Project 51O",
+            "name": "Project 51O"
+          },
+          "teamB": {
+            "code": "CRR",
+            "short": "Crossfire Red.",
+            "long": "Crossfire Redmond",
+            "full": "Crossfire Redmond",
+            "name": "Crossfire Red."
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T02:00:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "VEN",
+            "short": "Ventura",
+            "long": "Ventura County Fusion",
+            "full": "Ventura County Fusion SC",
+            "name": "Ventura"
+          },
+          "teamB": {
+            "code": "CAP",
+            "short": "Capo",
+            "long": "Capo",
+            "full": "Capistrano FC",
+            "name": "Capo"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 4
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T23:00:00Z",
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
+          },
+          "round": {
+            "name": "1st Round",
+            "display": true
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "JAX",
+            "short": "Armada II",
+            "long": "Jacksonville Armada II",
+            "full": "Jacksonville Armada FC II",
+            "name": "Armada II"
+          },
+          "teamB": {
+            "code": "MIA",
+            "short": "Miami United",
+            "long": "Miami United",
+            "full": "Miami United FC",
+            "name": "Miami United"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T23:00:00Z",
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
+          },
+          "round": {
+            "name": "1st Round",
+            "display": true
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "CLE",
+            "short": "Cleveland",
+            "long": "Cleveland SC",
+            "full": "Cleveland SC",
+            "name": "Cleveland"
+          },
+          "teamB": {
+            "code": "LIB",
+            "short": "Lionsbridge",
+            "long": "Lionsbridge",
+            "full": "Lionsbridge FC",
+            "name": "Lionsbridge"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T23:30:00Z",
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 33,
+            "extra": 0
+          },
+          "round": {
+            "name": "1st Round",
+            "display": true
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "HRT",
+            "short": "Hartford City",
+            "long": "Hartford City",
+            "full": "Hartford City FC",
+            "name": "Hartford City"
+          },
+          "teamB": {
+            "code": "LDY",
+            "short": "Yonkers",
+            "long": "Lansdowne Yonkers",
+            "full": "Lansdowne Yonkers FC",
+            "name": "Yonkers"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Concacaf Nations League",
+        "area": {
+          "name": "N/C America"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T23:00:00Z",
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
+          },
+          "round": {
+            "name": "League B",
+            "display": true
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "BRB",
+            "short": "Barbados",
+            "long": "Barbados",
+            "full": "Barbados",
+            "name": "Barbados"
+          },
+          "teamB": {
+            "code": "CUB",
+            "short": "Cuba",
+            "long": "Cuba",
+            "full": "Cuba",
+            "name": "Cuba"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T23:00:00Z",
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
+          },
+          "round": {
+            "name": "League B",
+            "display": true
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "GLP",
+            "short": "Guadeloupe",
+            "long": "Guadeloupe",
+            "full": "Guadeloupe",
+            "name": "Guadeloupe"
+          },
+          "teamB": {
+            "code": "ATG",
+            "short": "Antigua",
+            "long": "Antigua and Barbuda",
+            "full": "Antigua and Barbuda",
+            "name": "Antigua"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T19:00:00Z",
+          "period": null,
+          "round": {
+            "name": "League C",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SMN",
+            "short": "Saint Martin",
+            "long": "Saint Martin",
+            "full": "Saint Martin",
+            "name": "Saint Martin"
+          },
+          "teamB": {
+            "code": "SKN",
+            "short": "St. Kitts",
+            "long": "St. Kitts and Nevis",
+            "full": "St. Kitts and Nevis",
+            "name": "St. Kitts"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T19:00:00Z",
+          "period": null,
+          "round": {
+            "name": "League C",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "VGB",
+            "short": "British VI",
+            "long": "British Virgin Islands",
+            "full": "British Virgin Islands",
+            "name": "British VI"
+          },
+          "teamB": {
+            "code": "PUR",
+            "short": "Puerto Rico",
+            "long": "Puerto Rico",
+            "full": "Puerto Rico",
+            "name": "Puerto Rico"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T21:30:00Z",
+          "period": null,
+          "round": {
+            "name": "League B",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "GUF",
+            "short": "French Guiana",
+            "long": "French Guiana",
+            "full": "French Guiana",
+            "name": "French Guiana"
+          },
+          "teamB": {
+            "code": "DOM",
+            "short": "Dominican Rep",
+            "long": "Dominican Republic",
+            "full": "Dominican Republic",
+            "name": "Dominican Rep"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Primera A",
+        "area": {
+          "name": "Colombia"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T01:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "MIL",
+            "short": "Millonarios",
+            "long": "Millonarios",
+            "full": "Millonarios FC SA",
+            "name": "Millonarios"
+          },
+          "teamB": {
+            "code": "PAS",
+            "short": "Pasto",
+            "long": "Deportivo Pasto",
+            "full": "AD Pasto",
+            "name": "Pasto"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T23:00:00Z",
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 0
+          },
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "EQU",
+            "short": "Equidad",
+            "long": "La Equidad",
+            "full": "CD La Equidad Seguros SA",
+            "name": "Equidad"
+          },
+          "teamB": {
+            "code": "CHI",
+            "short": "Boyac\u00E1 Chic\u00F3",
+            "long": "Boyac\u00E1 Chic\u00F3",
+            "full": "Deportivo Boyac\u00E1 Chic\u00F3 FC SA",
+            "name": "Boyac\u00E1 Chic\u00F3"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "UEFA European Championship Qualifiers",
+        "area": {
+          "name": "Europe"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Qualifying Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ITA",
+            "short": "Italy",
+            "long": "Italy",
+            "full": "Italy",
+            "name": "Italy"
+          },
+          "teamB": {
+            "code": "ENG",
+            "short": "England",
+            "long": "England",
+            "full": "England",
+            "name": "England"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Qualifying Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "MKD",
+            "short": "N. Macedonia",
+            "long": "North Macedonia",
+            "full": "North Macedonia",
+            "name": "N. Macedonia"
+          },
+          "teamB": {
+            "code": "MLT",
+            "short": "Malta",
+            "long": "Malta",
+            "full": "Malta",
+            "name": "Malta"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T15:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Qualifying Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "KAZ",
+            "short": "Kazakhstan",
+            "long": "Kazakhstan",
+            "full": "Kazakhstan",
+            "name": "Kazakhstan"
+          },
+          "teamB": {
+            "code": "SVN",
+            "short": "Slovenia",
+            "long": "Slovenia",
+            "full": "Slovenia",
+            "name": "Slovenia"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Qualifying Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "DEN",
+            "short": "Denmark",
+            "long": "Denmark",
+            "full": "Denmark",
+            "name": "Denmark"
+          },
+          "teamB": {
+            "code": "FIN",
+            "short": "Finland",
+            "long": "Finland",
+            "full": "Finland",
+            "name": "Finland"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Qualifying Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SMR",
+            "short": "San Marino",
+            "long": "San Marino",
+            "full": "San Marino",
+            "name": "San Marino"
+          },
+          "teamB": {
+            "code": "NIR",
+            "short": "N. Ireland",
+            "long": "Northern Ireland",
+            "full": "Northern Ireland",
+            "name": "N. Ireland"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Qualifying Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BIH",
+            "short": "Bosnia",
+            "long": "Bosnia-Herzegovina",
+            "full": "Bosnia-Herzegovina",
+            "name": "Bosnia"
+          },
+          "teamB": {
+            "code": "ISL",
+            "short": "Iceland",
+            "long": "Iceland",
+            "full": "Iceland",
+            "name": "Iceland"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Qualifying Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "POR",
+            "short": "Portugal",
+            "long": "Portugal",
+            "full": "Portugal",
+            "name": "Portugal"
+          },
+          "teamB": {
+            "code": "LIE",
+            "short": "Liechtenstein",
+            "long": "Liechtenstein",
+            "full": "Liechtenstein",
+            "name": "Liechtenstein"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 4,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T19:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Qualifying Round",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SVK",
+            "short": "Slovakia",
+            "long": "Slovakia",
+            "full": "Slovakia",
+            "name": "Slovakia"
+          },
+          "teamB": {
+            "code": "LUX",
+            "short": "Luxembourg",
+            "long": "Luxembourg",
+            "full": "Luxembourg",
+            "name": "Luxembourg"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T03:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Friendlies 1",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SLV",
+            "short": "El Salvador",
+            "long": "El Salvador",
+            "full": "El Salvador",
+            "name": "El Salvador"
+          },
+          "teamB": {
+            "code": "HON",
+            "short": "Honduras",
+            "long": "Honduras",
+            "full": "Honduras",
+            "name": "Honduras"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T06:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Friendlies 1",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "NZL",
+            "short": "New Zealand",
+            "long": "New Zealand",
+            "full": "New Zealand",
+            "name": "New Zealand"
+          },
+          "teamB": {
+            "code": "CHN",
+            "short": "China PR",
+            "long": "China PR",
+            "full": "China PR",
+            "name": "China PR"
+          },
+          "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T17:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Friendlies 1",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "IRN",
+            "short": "Iran",
+            "long": "Iran",
+            "full": "Iran",
+            "name": "Iran"
+          },
+          "teamB": {
+            "code": "RUS",
+            "short": "Russia",
+            "long": "Russia",
+            "full": "Russia",
+            "name": "Russia"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T18:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Friendlies 1",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "HUN",
+            "short": "Hungary",
+            "long": "Hungary",
+            "full": "Hungary",
+            "name": "Hungary"
+          },
+          "teamB": {
+            "code": "EST",
+            "short": "Estonia",
+            "long": "Estonia",
+            "full": "Estonia",
+            "name": "Estonia"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T23:30:00Z",
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 31,
+            "extra": 0
+          },
+          "round": {
+            "name": "Friendlies 1",
+            "display": false
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "ARG",
+            "short": "Argentina",
+            "long": "Argentina",
+            "full": "Argentina",
+            "name": "Argentina"
+          },
+          "teamB": {
+            "code": "PAN",
+            "short": "Panama",
+            "long": "Panama",
+            "full": "Panama",
+            "name": "Panama"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Club Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T16:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Club Friendlies 1",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "FB",
+            "short": "Fenerbah\u00E7e",
+            "long": "Fenerbah\u00E7e",
+            "full": "Fenerbah\u00E7e Spor Kul\u00FCb\u00FC",
+            "name": "Fenerbah\u00E7e"
+          },
+          "teamB": {
+            "code": "ZEN",
+            "short": "Zenit",
+            "long": "Zenit",
+            "full": "FK Zenit St. Petersburg",
+            "name": "Zenit"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Liga de Expansi\u00F3n MX",
+        "area": {
+          "name": "Mexico"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T01:05:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "MOB",
+            "short": "Raya2",
+            "long": "Raya2",
+            "full": "Raya2 Expansi\u00F3n",
+            "name": "Raya2"
+          },
+          "teamB": {
+            "code": "COR",
+            "short": "Correcaminos",
+            "long": "Correcaminos UAT",
+            "full": "Correcaminos de la UAT",
+            "name": "Correcaminos"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 4
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T03:05:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "VEN",
+            "short": "Venados FC",
+            "long": "Venados FC",
+            "full": "Venados FC Yucat\u00E1n",
+            "name": "Venados FC"
+          },
+          "teamB": {
+            "code": "TAP",
+            "short": "Tapat\u00EDo",
+            "long": "Tapat\u00EDo",
+            "full": "CD Tapat\u00EDo",
+            "name": "Tapat\u00EDo"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T23:00:00Z",
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
+          },
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "ATL",
+            "short": "Atlante",
+            "long": "Atlante",
+            "full": "Club Atlante",
+            "name": "Atlante"
+          },
+          "teamB": {
+            "code": "TLX",
+            "short": "Tlaxcala",
+            "long": "Tlaxcala",
+            "full": "Tlaxcala FC",
+            "name": "Tlaxcala"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Africa Cup of Nations Qualification",
+        "area": {
+          "name": "Africa"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": true
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "MAD",
+            "short": "Madagascar",
+            "long": "Madagascar",
+            "full": "Madagascar",
+            "name": "Madagascar"
+          },
+          "teamB": {
+            "code": "CTA",
+            "short": "CAR",
+            "long": "Central African Republic",
+            "full": "Central African Republic",
+            "name": "CAR"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T16:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "GHA",
+            "short": "Ghana",
+            "long": "Ghana",
+            "full": "Ghana",
+            "name": "Ghana"
+          },
+          "teamB": {
+            "code": "ANG",
+            "short": "Angola",
+            "long": "Angola",
+            "full": "Angola",
+            "name": "Angola"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T21:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ALG",
+            "short": "Algeria",
+            "long": "Algeria",
+            "full": "Algeria",
+            "name": "Algeria"
+          },
+          "teamB": {
+            "code": "NIG",
+            "short": "Niger",
+            "long": "Niger",
+            "full": "Niger",
+            "name": "Niger"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T16:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CGO",
+            "short": "Congo",
+            "long": "Congo",
+            "full": "Congo",
+            "name": "Congo"
+          },
+          "teamB": {
+            "code": "SSD",
+            "short": "South Sudan",
+            "long": "South Sudan",
+            "full": "South Sudan",
+            "name": "South Sudan"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T16:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ZAM",
+            "short": "Zambia",
+            "long": "Zambia",
+            "full": "Zambia",
+            "name": "Zambia"
+          },
+          "teamB": {
+            "code": "LES",
+            "short": "Lesotho",
+            "long": "Lesotho",
+            "full": "Lesotho",
+            "name": "Lesotho"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T19:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "GAB",
+            "short": "Gabon",
+            "long": "Gabon",
+            "full": "Gabon",
+            "name": "Gabon"
+          },
+          "teamB": {
+            "code": "SDN",
+            "short": "Sudan",
+            "long": "Sudan",
+            "full": "Sudan",
+            "name": "Sudan"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Catarinense 1",
+        "area": {
+          "name": "Brazil"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T22:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Quarter-finals",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BRU",
+            "short": "Brusque",
+            "long": "Brusque",
+            "full": "Brusque FC",
+            "name": "Brusque"
+          },
+          "teamB": {
+            "code": "CON",
+            "short": "Conc\u00F3rdia",
+            "long": "Conc\u00F3rdia",
+            "full": "Conc\u00F3rdia Atl\u00E9tico Clube",
+            "name": "Conc\u00F3rdia"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Copa do Nordeste",
+        "area": {
+          "name": "Brazil"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "ABC",
+            "short": "ABC",
+            "long": "ABC",
+            "full": "ABC FC",
+            "name": "ABC"
+          },
+          "teamB": {
+            "code": "FEC",
+            "short": "Fluminense PI",
+            "long": "Fluminense PI",
+            "full": "Fluminense EC",
+            "name": "Fluminense PI"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BAH",
+            "short": "Bahia",
+            "long": "Bahia",
+            "full": "EC Bahia",
+            "name": "Bahia"
+          },
+          "teamB": {
+            "code": "CRB",
+            "short": "CRB",
+            "long": "CRB",
+            "full": "Clube de Regatas Brasil",
+            "name": "CRB"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CMP",
+            "short": "Campinense",
+            "long": "Campinense",
+            "full": "Campinense Clube",
+            "name": "Campinense"
+          },
+          "teamB": {
+            "code": "VIT",
+            "short": "Vit\u00F3ria",
+            "long": "Vit\u00F3ria",
+            "full": "EC Vit\u00F3ria",
+            "name": "Vit\u00F3ria"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CEA",
+            "short": "Cear\u00E1",
+            "long": "Cear\u00E1",
+            "full": "Cear\u00E1 SC",
+            "name": "Cear\u00E1"
+          },
+          "teamB": {
+            "code": "ALA",
+            "short": "Alagoinhas",
+            "long": "Atl\u00E9tico Alagoinhas",
+            "full": "Alagoinhas Atl\u00E9tico Clube",
+            "name": "Alagoinhas"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CSA",
+            "short": "CSA",
+            "long": "CSA",
+            "full": "CS Alagoano",
+            "name": "CSA"
+          },
+          "teamB": {
+            "code": "SCR",
+            "short": "Sport",
+            "long": "Sport Recife",
+            "full": "SC do Recife",
+            "name": "Sport"
+          },
+          "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "NAU",
+            "short": "N\u00E1utico",
+            "long": "N\u00E1utico",
+            "full": "Clube N\u00E1utico Capibaribe",
+            "name": "N\u00E1utico"
+          },
+          "teamB": {
+            "code": "FER",
+            "short": "Ferrovi\u00E1rio",
+            "long": "Ferrovi\u00E1rio",
+            "full": "Ferrovi\u00E1rio AC Fortaleza",
+            "name": "Ferrovi\u00E1rio"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SCR",
+            "short": "Santa Cruz",
+            "long": "Santa Cruz",
+            "full": "Santa Cruz FC",
+            "name": "Santa Cruz"
+          },
+          "teamB": {
+            "code": "FOR",
+            "short": "Fortaleza",
+            "long": "Fortaleza",
+            "full": "Fortaleza EC",
+            "name": "Fortaleza"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 4
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T00:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Group Stage",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "SER",
+            "short": "Sergipe",
+            "long": "Sergipe",
+            "full": "CS Sergipe",
+            "name": "Sergipe"
+          },
+          "teamB": {
+            "code": "SAM",
+            "short": "Sampaio Corr\u00EAa",
+            "long": "Sampaio Corr\u00EAa",
+            "full": "Sampaio Corr\u00EAa FC",
+            "name": "Sampaio Corr\u00EAa"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Copa Verde",
+        "area": {
+          "name": "Brazil"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T22:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Quarter-finals",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "GOI",
+            "short": "Goi\u00E1s",
+            "long": "Goi\u00E1s",
+            "full": "Goi\u00E1s EC",
+            "name": "Goi\u00E1s"
+          },
+          "teamB": {
+            "code": "BRS",
+            "short": "Brasiliense",
+            "long": "Brasiliense",
+            "full": "Brasiliense FC Taguatinga",
+            "name": "Brasiliense"
+          },
+          "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "agg": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T23:00:00Z",
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
+          },
+          "round": {
+            "name": "Quarter-finals",
+            "display": true
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "PAY",
+            "short": "Paysandu",
+            "long": "Paysandu",
+            "full": "Paysandu SC",
+            "name": "Paysandu"
+          },
+          "teamB": {
+            "code": "PRI",
+            "short": "Princesa",
+            "long": "Princesa Solim\u00F5es",
+            "full": "Princesa do Solim\u00F5es EC",
+            "name": "Princesa"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Liga Femenina",
+        "area": {
+          "name": "Colombia"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "EQU",
+            "short": "La Equidad",
+            "long": "La Equidad",
+            "full": "CD La Equidad Seguros SA",
+            "name": "La Equidad"
+          },
+          "teamB": {
+            "code": "HUI",
+            "short": "Atl\u00E9tico Huila",
+            "long": "Atl\u00E9tico Huila",
+            "full": "CD Atl\u00E9tico Huila",
+            "name": "Atl\u00E9tico Huila"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T22:15:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "AMC",
+            "short": "Am\u00E9rica",
+            "long": "Am\u00E9rica de Cali",
+            "full": "Sociedad An\u00F3nima Deportiva Am\u00E9rica SA",
+            "name": "Am\u00E9rica"
+          },
+          "teamB": {
+            "code": "BUC",
+            "short": "Bucaramanga",
+            "long": "Atl\u00E9tico Bucaramanga",
+            "full": "CA Bucaramanga",
+            "name": "Bucaramanga"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Liga Nacional",
+        "area": {
+          "name": "Guatemala"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T02:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "XEL",
+            "short": "Xelaj\u00FA",
+            "long": "Xelaj\u00FA",
+            "full": "CSD Xelaj\u00FA Mario Camposeco",
+            "name": "Xelaj\u00FA"
+          },
+          "teamB": {
+            "code": "MIX",
+            "short": "Mixco",
+            "long": "Mixco",
+            "full": "CSyD Mixco",
+            "name": "Mixco"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "QSL Cup",
+        "area": {
+          "name": "Qatar"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T18:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Semi-finals",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "DUH",
+            "short": "Al Duhail",
+            "long": "Al Duhail",
+            "full": "Al Duhail SC",
+            "name": "Al Duhail"
+          },
+          "teamB": {
+            "code": "SDD",
+            "short": "Sadd",
+            "long": "Al Sadd",
+            "full": "Al Sadd SC",
+            "name": "Sadd"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-23T18:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Semi-finals",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "UMM",
+            "short": "Umm Salal",
+            "long": "Umm Salal",
+            "full": "Umm Salal SC",
+            "name": "Umm Salal"
+          },
+          "teamB": {
+            "code": "ARA",
+            "short": "Arabi",
+            "long": "Al Arabi",
+            "full": "Al Arabi SC",
+            "name": "Arabi"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U23 National Team Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-23T02:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Friendlies 2",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "NZL",
+            "short": null,
+            "long": "New Zealand U23",
+            "full": "New Zealand Under 23",
+            "name": "New Zealand U23"
+          },
+          "teamB": {
+            "code": "CHN",
+            "short": "China PR",
+            "long": "China PR U23",
+            "full": "China PR Under 23",
+            "name": "China PR"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    }
+  ]
+}
