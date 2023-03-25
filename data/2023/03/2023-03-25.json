@@ -1876,7 +1876,7 @@
           "startDate": "2023-03-25T08:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -2172,7 +2172,7 @@
           "startDate": "2023-03-25T08:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 59,
             "extra": 0
           },
           "round": {
@@ -2425,16 +2425,12 @@
         },
         {
           "startDate": "2023-03-25T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MST",
             "short": "Stallions",
@@ -2462,16 +2458,12 @@
         },
         {
           "startDate": "2023-03-25T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WSW",
             "short": "Western Sydney",
@@ -4989,12 +4981,16 @@
         },
         {
           "startDate": "2023-03-25T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Elite Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SRB",
             "short": "Serbia",
@@ -5013,7 +5009,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
