@@ -189,9 +189,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Eastern Sub <img src="/static/logos/Eastern Suburbs SC.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Redlands United FC.png" height="25px"> Redlands Utd</p> |
-| <p align="center">90' 1'</p> | <p align="right">Knights <img src="/static/logos/Gold Coast Knights SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> SC Wanderers</p> |
-| <p align="center">38'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"> Moreton Bay</p> |
-| <p align="center">09:00</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Peninsula Power FC.png" height="25px"> Peninsula</p> |
+| <p align="center">FT</p> | <p align="right">Knights <img src="/static/logos/Gold Coast Knights SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> SC Wanderers</p> |
+| <p align="center">45' 3'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"> Moreton Bay</p> |
+| <p align="center">2'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Peninsula Power FC.png" height="25px"> Peninsula</p> |
 </div>
 
 
@@ -203,7 +203,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Football Queensland QAS.png" height="25px"> FQ QAS</p> |
 | <p align="center">FT</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
-| <p align="center">09:00</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
+| <p align="center">5'</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
 </div>
 
 
@@ -215,8 +215,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Moreland City <img src="/static/logos/Moreland City FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/North Geelong Warriors FC.png" height="25px"> North Geelong</p> |
 | <p align="center">FT</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Green Gully SC.png" height="25px"> Green Gully</p> |
-| <p align="center">HT</p> | <p align="right">Dandenong <img src="/static/logos/Dandenong Thunder SC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
-| <p align="center">11'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hume City FC.png" height="25px"> Hume City</p> |
+| <p align="center">46'</p> | <p align="right">Dandenong <img src="/static/logos/Dandenong Thunder SC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
+| <p align="center">21'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hume City FC.png" height="25px"> Hume City</p> |
 </div>
 
 
@@ -239,8 +239,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/St George City FA.png" height="25px"> St George City</p> |
-| <p align="center">65'</p> | <p align="right">Sutherland <img src="/static/logos/Sutherland Sharks FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney United 58 FC.png" height="25px"> Sydney Utd</p> |
-| <p align="center">63'</p> | <p align="right">Sydney Olympic <img src="/static/logos/Sydney Olympic FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/NWS Spirit FC.png" height="25px"> NWS Spirit</p> |
+| <p align="center">74'</p> | <p align="right">Sutherland <img src="/static/logos/Sutherland Sharks FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney United 58 FC.png" height="25px"> Sydney Utd</p> |
+| <p align="center">72'</p> | <p align="right">Sydney Olympic <img src="/static/logos/Sydney Olympic FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/NWS Spirit FC.png" height="25px"> NWS Spirit</p> |
 | <p align="center">HT</p> | <p align="right">Stallions <img src="/static/logos/Marconi Stallions FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Manly United FC.png" height="25px"> Manly Utd</p> |
 | <p align="center">HT</p> | <p align="right">Western Sydney <img src="/static/logos/Western Sydney Wanderers FC Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/APIA Leichhardt FC.png" height="25px"> Leichhardt</p> |
 </div>
@@ -552,7 +552,7 @@
 | <p align="center">16:00</p> | <p align="right">Wales <img src="/static/logos/Wales Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iceland Under 17.png" height="25px"> Iceland</p> |
 | <p align="center">12:00</p> | <p align="right">England <img src="/static/logos/England Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northern Ireland Under 17.png" height="25px"> N. Ireland</p> |
 | <p align="center">15:00</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark Under 17.png" height="25px"> Denmark</p> |
-| <p align="center">09:00</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Finland Under 17.png" height="25px"> Finland</p> |
+| <p align="center">5'</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Finland Under 17.png" height="25px"> Finland</p> |
 | <p align="center">12:30</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turkey Under 17.png" height="25px"> Turkey</p> |
 | <p align="center">11:00</p> | <p align="right">Czech <img src="/static/logos/Czech Republic Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slovakia Under 17.png" height="25px"> Slovakia</p> |
 | <p align="center">15:00</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Poland Under 17.png" height="25px"> Poland</p> |

@@ -1841,16 +1841,12 @@
         },
         {
           "startDate": "2023-03-25T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GCK",
             "short": "Knights",
@@ -1866,7 +1862,7 @@
             "name": "SC Wanderers"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "score": {
@@ -1880,8 +1876,8 @@
           "startDate": "2023-03-25T08:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 38,
-            "extra": 0
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -1915,12 +1911,16 @@
         },
         {
           "startDate": "2023-03-25T09:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LIO",
             "short": "Lions",
@@ -1939,7 +1939,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2021,12 +2024,16 @@
         },
         {
           "startDate": "2023-03-25T09:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PEN",
             "short": "Peninsula",
@@ -2045,7 +2052,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2128,8 +2138,8 @@
         {
           "startDate": "2023-03-25T08:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 46,
             "extra": 0
           },
           "round": {
@@ -2166,7 +2176,7 @@
           "startDate": "2023-03-25T08:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -2355,7 +2365,7 @@
           "startDate": "2023-03-25T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -2392,7 +2402,7 @@
           "startDate": "2023-03-25T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -5301,12 +5311,16 @@
         },
         {
           "startDate": "2023-03-25T09:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Elite Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GER",
             "short": "Germany",
@@ -5325,7 +5339,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
