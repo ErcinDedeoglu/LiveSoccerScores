@@ -190,8 +190,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Eastern Sub <img src="/static/logos/Eastern Suburbs SC.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Redlands United FC.png" height="25px"> Redlands Utd</p> |
 | <p align="center">FT</p> | <p align="right">Knights <img src="/static/logos/Gold Coast Knights SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> SC Wanderers</p> |
-| <p align="center">88'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"> Moreton Bay</p> |
-| <p align="center">HT</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Peninsula Power FC.png" height="25px"> Peninsula</p> |
+| <p align="center">FT</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"> Moreton Bay</p> |
+| <p align="center">53'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Peninsula Power FC.png" height="25px"> Peninsula</p> |
 </div>
 
 
@@ -203,7 +203,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Football Queensland QAS.png" height="25px"> FQ QAS</p> |
 | <p align="center">FT</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
-| <p align="center">HT</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
+| <p align="center">52'</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
 </div>
 
 
@@ -216,7 +216,7 @@
 | <p align="center">FT</p> | <p align="right">Moreland City <img src="/static/logos/Moreland City FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/North Geelong Warriors FC.png" height="25px"> North Geelong</p> |
 | <p align="center">FT</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Green Gully SC.png" height="25px"> Green Gully</p> |
 | <p align="center">FT</p> | <p align="right">Dandenong <img src="/static/logos/Dandenong Thunder SC.png" height="25px"></p> | <p align="center">2 - 6</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
-| <p align="center">59'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hume City FC.png" height="25px"> Hume City</p> |
+| <p align="center">69'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hume City FC.png" height="25px"> Hume City</p> |
 </div>
 
 
@@ -533,7 +533,7 @@
 | <p align="center">17:00</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Czech Republic Under 19.png" height="25px"> Czech</p> |
 | <p align="center">15:30</p> | <p align="right">Eire <img src="/static/logos/Republic of Ireland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Estonia Under 19.png" height="25px"> Estonia</p> |
 | <p align="center">19:30</p> | <p align="right">Greece <img src="/static/logos/Greece Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slovakia Under 19.png" height="25px"> Slovakia</p> |
-| <p align="center">3'</p> | <p align="right">Serbia <img src="/static/logos/Serbia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Israel Under 19.png" height="25px"> Israel</p> |
+| <p align="center">13'</p> | <p align="right">Serbia <img src="/static/logos/Serbia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Israel Under 19.png" height="25px"> Israel</p> |
 | <p align="center">13:00</p> | <p align="right">Poland <img src="/static/logos/Poland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Latvia Under 19.png" height="25px"> Latvia</p> |
 | <p align="center">14:00</p> | <p align="right">England <img src="/static/logos/England Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iceland Under 19.png" height="25px"> Iceland</p> |
 | <p align="center">19:30</p> | <p align="right">Turkey <img src="/static/logos/Turkey Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hungary Under 19.png" height="25px"> Hungary</p> |
@@ -552,7 +552,7 @@
 | <p align="center">16:00</p> | <p align="right">Wales <img src="/static/logos/Wales Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iceland Under 17.png" height="25px"> Iceland</p> |
 | <p align="center">12:00</p> | <p align="right">England <img src="/static/logos/England Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northern Ireland Under 17.png" height="25px"> N. Ireland</p> |
 | <p align="center">15:00</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark Under 17.png" height="25px"> Denmark</p> |
-| <p align="center">HT</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Finland Under 17.png" height="25px"> Finland</p> |
+| <p align="center">55'</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Finland Under 17.png" height="25px"> Finland</p> |
 | <p align="center">12:30</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turkey Under 17.png" height="25px"> Turkey</p> |
 | <p align="center">11:00</p> | <p align="right">Czech <img src="/static/logos/Czech Republic Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slovakia Under 17.png" height="25px"> Slovakia</p> |
 | <p align="center">15:00</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Poland Under 17.png" height="25px"> Poland</p> |
