@@ -641,6 +641,39 @@
           },
           "agg": null,
           "penalty": null
+        },
+        {
+          "startDate": "2023-03-24T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Club Friendlies 3",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "RIT",
+            "short": "Riteriai",
+            "long": "Riteriai",
+            "full": "FK Riteriai",
+            "name": "Riteriai"
+          },
+          "teamB": {
+            "code": "FSJ",
+            "short": "Jelgava",
+            "long": "FS Jelgava",
+            "full": "FS Jelgava",
+            "name": "Jelgava"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
         }
       ]
     },
