@@ -12,7 +12,7 @@
           "startDate": "2023-03-25T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -393,9 +393,9 @@
         {
           "startDate": "2023-03-25T21:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 56,
+            "extra": 0
           },
           "round": {
             "name": "League B",
@@ -422,7 +422,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1147,12 +1147,16 @@
         },
         {
           "startDate": "2023-03-25T22:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MAR",
             "short": "Morocco",
@@ -1171,7 +1175,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1466,9 +1473,9 @@
         {
           "startDate": "2023-03-25T21:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Group A",
@@ -1504,7 +1511,7 @@
           "startDate": "2023-03-25T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 10,
             "extra": 0
           },
           "round": {
@@ -1541,7 +1548,7 @@
           "startDate": "2023-03-25T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 13,
             "extra": 0
           },
           "round": {
@@ -1621,7 +1628,7 @@
           "startDate": "2023-03-25T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1658,7 +1665,7 @@
           "startDate": "2023-03-25T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -1910,7 +1917,7 @@
           "startDate": "2023-03-25T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -2792,7 +2799,7 @@
           "startDate": "2023-03-25T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -3431,9 +3438,9 @@
         {
           "startDate": "2023-03-25T21:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -3511,9 +3518,9 @@
         {
           "startDate": "2023-03-25T21:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -3540,7 +3547,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3701,7 +3708,7 @@
           "startDate": "2023-03-25T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 59,
             "extra": 0
           },
           "round": {
@@ -8622,9 +8629,9 @@
         {
           "startDate": "2023-03-25T21:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 7
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -8733,7 +8740,7 @@
           "startDate": "2023-03-25T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -10576,9 +10583,9 @@
         {
           "startDate": "2023-03-25T21:20:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 6
           },
           "round": {
             "name": "Apertura",
@@ -10721,16 +10728,12 @@
         },
         {
           "startDate": "2023-03-25T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DET",
             "short": "Detroit City",
