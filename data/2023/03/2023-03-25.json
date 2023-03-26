@@ -1059,39 +1059,6 @@
           "startDate": "2023-03-25T18:00:00Z",
           "period": null,
           "round": {
-            "name": "Friendlies 1",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "SYR",
-            "short": "Syria",
-            "long": "Syria",
-            "full": "Syria",
-            "name": "Syria"
-          },
-          "teamB": {
-            "code": "THA",
-            "short": "Thailand",
-            "long": "Thailand",
-            "full": "Thailand",
-            "name": "Thailand"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 3,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-25T18:00:00Z",
-          "period": null,
-          "round": {
             "name": "Friendlies 2",
             "display": false
           },
@@ -2344,39 +2311,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-03-25T04:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "CAL",
-            "short": "Calder Utd",
-            "long": "Calder United",
-            "full": "Calder United SC",
-            "name": "Calder Utd"
-          },
-          "teamB": {
-            "code": "ALA",
-            "short": "Alamein",
-            "long": "Alamein",
-            "full": "Alamein FC",
-            "name": "Alamein"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 2,
-            "teamB": 4
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-03-25T04:30:00Z",
           "period": null,
           "round": {
@@ -2404,39 +2338,6 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-03-25T07:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "BOR",
-            "short": "Boroondara",
-            "long": "Boroondara Eagles",
-            "full": "Boroondara Eagles FC",
-            "name": "Boroondara"
-          },
-          "teamB": {
-            "code": "BAY",
-            "short": "Bayside Utd",
-            "long": "Bayside United",
-            "full": "Bayside United FC",
-            "name": "Bayside Utd"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
