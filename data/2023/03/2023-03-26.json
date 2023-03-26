@@ -1984,7 +1984,7 @@
           "startDate": "2023-03-26T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -2019,12 +2019,16 @@
         },
         {
           "startDate": "2023-03-26T09:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BRR",
             "short": "Roar",
@@ -2043,7 +2047,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -6304,7 +6311,7 @@
           "startDate": "2023-03-26T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 77,
             "extra": 0
           },
           "round": {
