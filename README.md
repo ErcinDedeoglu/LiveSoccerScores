@@ -89,7 +89,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">New Zealand <img src="/static/logos/New Zealand.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/China PR.png" height="25px"> China PR</p> |
-| <p align="center">15:00</p> | <p align="right">Russia <img src="/static/logos/Russia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
+| <p align="center">11'</p> | <p align="right">Russia <img src="/static/logos/Russia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
 </div>
 
 
@@ -436,7 +436,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Iquique <img src="/static/logos/Club Deportes Iquique.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Unión San Felipe.png" height="25px"> San Felipe</p> |
+| <p align="center">8'</p> | <p align="right">Iquique <img src="/static/logos/Club Deportes Iquique.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Unión San Felipe.png" height="25px"> San Felipe</p> |
 | <p align="center">21:00</p> | <p align="right">San Luis <img src="/static/logos/CD San Luis de Quillota.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Antofagasta.png" height="25px"> Antofagasta</p> |
 | <p align="center">21:00</p> | <p align="right">Temuco <img src="/static/logos/CD Temuco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Social y Deportivo Lo Barnechea.png" height="25px"> Barnechea</p> |
 | <p align="center">23:30</p> | <p align="right">Cobreloa <img src="/static/logos/CD Cobreloa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Santiago Wanderers.png" height="25px"> Wanderers</p> |
@@ -568,7 +568,7 @@
 | <p align="center">FT</p> | <p align="right">Hoffenheim <img src="/static/logos/TSG 1899 Hoffenheim.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SGS Essen 19/68.png" height="25px"> SGS</p> |
 | <p align="center">FT</p> | <p align="right">Leverkusen <img src="/static/logos/TSV Bayer 04 Leverkusen.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SC Freiburg.png" height="25px"> Freiburg</p> |
 | <p align="center">POS</p> | <p align="right">Duisburg <img src="/static/logos/MSV Duisburg.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Eintracht Frankfurt.png" height="25px"> Eintracht</p> |
-| <p align="center">46'</p> | <p align="right">Turbine <img src="/static/logos/1. FFC Turbine Potsdam.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/SV Meppen.png" height="25px"> Meppen</p> |
+| <p align="center">56'</p> | <p align="right">Turbine <img src="/static/logos/1. FFC Turbine Potsdam.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/SV Meppen.png" height="25px"> Meppen</p> |
 </div>
 
 
@@ -621,7 +621,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Barito <img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/PSIS Semarang.png" height="25px"> PSIS</p> |
+| <p align="center">85'</p> | <p align="right">Barito <img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/PSIS Semarang.png" height="25px"> PSIS</p> |
 </div>
 
 
@@ -752,15 +752,15 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Akwa Utd <img src="/static/logos/Akwa United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shooting Stars FC (3SC).png" height="25px"> Shooting Stars</p> |
-| <p align="center">15:00</p> | <p align="right">Enyimba <img src="/static/logos/Enyimba International FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
-| <p align="center">4'</p> | <p align="right">Kwara Utd <img src="/static/logos/Kwara United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Kanemi Warriors FC.png" height="25px"> Warriors</p> |
-| <p align="center">3'</p> | <p align="right">Plateau Utd <img src="/static/logos/Plateau United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gombe United FC.png" height="25px"> Gombe Utd</p> |
-| <p align="center">3'</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nasarawa United FC.png" height="25px"> Nasarawa Utd</p> |
-| <p align="center">HT</p> | <p align="right">Enugu <img src="/static/logos/Enugu Rangers International FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bayelsa United FC.png" height="25px"> Bayelsa Utd</p> |
-| <p align="center">2'</p> | <p align="right">Doma United <img src="/static/logos/Doma United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Lobi Stars FC.png" height="25px"> Lobi Stars</p> |
-| <p align="center">3'</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Abia Warriors FC.png" height="25px"> Abia</p> |
-| <p align="center">3'</p> | <p align="right">Wikki <img src="/static/logos/Wikki Tourists FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunshine Stars FC.png" height="25px"> Sunshine</p> |
+| <p align="center">14'</p> | <p align="right">Akwa Utd <img src="/static/logos/Akwa United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shooting Stars FC (3SC).png" height="25px"> Shooting Stars</p> |
+| <p align="center">11'</p> | <p align="right">Enyimba <img src="/static/logos/Enyimba International FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
+| <p align="center">14'</p> | <p align="right">Kwara Utd <img src="/static/logos/Kwara United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Kanemi Warriors FC.png" height="25px"> Warriors</p> |
+| <p align="center">14'</p> | <p align="right">Plateau Utd <img src="/static/logos/Plateau United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gombe United FC.png" height="25px"> Gombe Utd</p> |
+| <p align="center">14'</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nasarawa United FC.png" height="25px"> Nasarawa Utd</p> |
+| <p align="center">52'</p> | <p align="right">Enugu <img src="/static/logos/Enugu Rangers International FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bayelsa United FC.png" height="25px"> Bayelsa Utd</p> |
+| <p align="center">12'</p> | <p align="right">Doma United <img src="/static/logos/Doma United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Lobi Stars FC.png" height="25px"> Lobi Stars</p> |
+| <p align="center">14'</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Abia Warriors FC.png" height="25px"> Abia</p> |
+| <p align="center">13'</p> | <p align="right">Wikki <img src="/static/logos/Wikki Tourists FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunshine Stars FC.png" height="25px"> Sunshine</p> |
 </div>
 
 
@@ -796,7 +796,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Spartans <img src="/static/logos/Spartans FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Gretna FC 2008.png" height="25px"> Gretna</p> |
+| <p align="center">58'</p> | <p align="right">Spartans <img src="/static/logos/Spartans FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Gretna FC 2008.png" height="25px"> Gretna</p> |
 </div>
 
 
@@ -819,7 +819,7 @@
 | <p align="center">FT</p> | <p align="right">Partick <img src="/static/logos/Partick Thistle WFC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Heart of Midlothian WFC.png" height="25px"> Hearts</p> |
 | <p align="center">FT</p> | <p align="right">Glasgow Women <img src="/static/logos/Glasgow Girls & Women FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Aberdeen FC Women.png" height="25px"> Aberdeen</p> |
 | <p align="center">FT</p> | <p align="right">Hamilton <img src="/static/logos/Hamilton Academical WFC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Motherwell FC Women.png" height="25px"> Motherwell</p> |
-| <p align="center">4'</p> | <p align="right">Dundee Utd <img src="/static/logos/Dundee United FC Women.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Spartans FC Women.png" height="25px"> Spartans</p> |
+| <p align="center">14'</p> | <p align="right">Dundee Utd <img src="/static/logos/Dundee United FC Women.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Spartans FC Women.png" height="25px"> Spartans</p> |
 </div>
 
 
@@ -846,7 +846,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Alavés <img src="/static/logos/Deportivo Alavés.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético de Madrid Féminas.png" height="25px"> Atl. Madrid</p> |
 | <p align="center">FT</p> | <p align="right">Las Planas <img src="/static/logos/Levante Las Planas.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Madrid CFF.png" height="25px"> Madrid</p> |
-| <p align="center">HT</p> | <p align="right">Valencia <img src="/static/logos/Valencia CF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alhama CF.png" height="25px"> Alhama</p> |
+| <p align="center">53'</p> | <p align="right">Valencia <img src="/static/logos/Valencia CF.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Alhama CF.png" height="25px"> Alhama</p> |
 | <p align="center">16:00</p> | <p align="right">Levante <img src="/static/logos/Levante UD.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Sociedad de Fútbol.png" height="25px"> Sociedad</p> |
 </div>
 
@@ -861,7 +861,7 @@
 | <p align="center">FT</p> | <p align="right">Häcken <img src="/static/logos/BK Häcken.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Djurgårdens IF DFF.png" height="25px"> Djurgården</p> |
 | <p align="center">FT</p> | <p align="right">Kristianstad <img src="/static/logos/Kristianstads DFF.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/IFK Kalmar.png" height="25px"> Kalmar</p> |
 | <p align="center">FT</p> | <p align="right">Örebro <img src="/static/logos/KIF Örebro DFF.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Linköpings FC.png" height="25px"> Linköping</p> |
-| <p align="center">75'</p> | <p align="right">Hammarby <img src="/static/logos/Hammarby IF DFF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Vittsjö GIK.png" height="25px"> Vittsjö</p> |
+| <p align="center">86'</p> | <p align="right">Hammarby <img src="/static/logos/Hammarby IF DFF.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Vittsjö GIK.png" height="25px"> Vittsjö</p> |
 </div>
 
 
