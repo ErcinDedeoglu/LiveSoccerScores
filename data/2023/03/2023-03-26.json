@@ -10073,7 +10073,10 @@
             "teamB": 2
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 3,
+            "teamB": 4
+          }
         },
         {
           "startDate": "2023-03-26T19:00:00Z",
