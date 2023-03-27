@@ -87,9 +87,9 @@
         {
           "startDate": "2023-03-27T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 22,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "League C",
@@ -115,7 +115,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -187,9 +187,9 @@
         {
           "startDate": "2023-03-27T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 22,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "League B",
@@ -1002,13 +1002,17 @@
           "penalty": null
         },
         {
-          "startDate": "2023-03-27T22:10:00Z",
-          "period": null,
+          "startDate": "2023-03-27T22:30:00Z",
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 24,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ITU",
             "short": "Ituzaing\u00F3",
@@ -1027,7 +1031,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1131,8 +1138,8 @@
           "startDate": "2023-03-27T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -1168,8 +1175,8 @@
           "startDate": "2023-03-27T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -1195,8 +1202,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 1
+            "teamA": 4,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1727,9 +1734,9 @@
         {
           "startDate": "2023-03-27T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 21,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Apertura",
@@ -1755,8 +1762,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
