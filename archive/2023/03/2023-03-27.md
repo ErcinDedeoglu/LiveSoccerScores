@@ -96,7 +96,7 @@
 | <p align="center">FT</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ghana.png" height="25px"> Ghana</p> |
 | <p align="center">FT</p> | <p align="right">Niger <img src="/static/logos/Niger.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Algeria.png" height="25px"> Algeria</p> |
 | <p align="center">FT</p> | <p align="right">South Sudan <img src="/static/logos/South Sudan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Congo.png" height="25px"> Congo</p> |
-| <p align="center">56'</p> | <p align="right">Sudan <img src="/static/logos/Sudan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gabon.png" height="25px"> Gabon</p> |
+| <p align="center">64'</p> | <p align="right">Sudan <img src="/static/logos/Sudan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gabon.png" height="25px"> Gabon</p> |
 </div>
 
 
@@ -137,8 +137,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">La Serena <img src="/static/logos/CD La Serena.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Universidad de Concepción.png" height="25px"> U. Concepción</p> |
-| <p align="center">15'</p> | <p align="right">Rangers <img src="/static/logos/CSD Rangers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD San Marcos de Arica.png" height="25px"> San Marcos</p> |
+| <p align="center">23'</p> | <p align="right">La Serena <img src="/static/logos/CD La Serena.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Universidad de Concepción.png" height="25px"> U. Concepción</p> |
+| <p align="center">23'</p> | <p align="right">Rangers <img src="/static/logos/CSD Rangers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD San Marcos de Arica.png" height="25px"> San Marcos</p> |
 </div>
 
 
@@ -158,7 +158,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">53'</p> | <p align="right">Dep. Cali <img src="/static/logos/Asociación Deportivo Cali.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> La Equidad</p> |
+| <p align="center">61'</p> | <p align="right">Dep. Cali <img src="/static/logos/Asociación Deportivo Cali.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> La Equidad</p> |
 </div>
 
 
@@ -228,7 +228,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">UTC Cajamarca <img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cusco FC.png" height="25px"> Cusco</p> |
+| <p align="center">68'</p> | <p align="right">UTC Cajamarca <img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cusco FC.png" height="25px"> Cusco</p> |
 </div>
 
 
