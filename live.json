@@ -117,9 +117,9 @@
         {
           "startDate": "2023-03-27T19:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "League B",
@@ -298,7 +298,7 @@
           "startDate": "2023-03-27T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -335,7 +335,7 @@
           "startDate": "2023-03-27T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -359,7 +359,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 2,
@@ -372,7 +372,7 @@
           "startDate": "2023-03-27T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -409,7 +409,7 @@
           "startDate": "2023-03-27T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -446,7 +446,7 @@
           "startDate": "2023-03-27T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -473,7 +473,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -483,7 +483,7 @@
           "startDate": "2023-03-27T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -510,7 +510,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -520,7 +520,7 @@
           "startDate": "2023-03-27T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -557,7 +557,7 @@
           "startDate": "2023-03-27T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -788,9 +788,9 @@
         {
           "startDate": "2023-03-27T19:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -953,12 +953,16 @@
         },
         {
           "startDate": "2023-03-27T20:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SDN",
             "short": "Sudan",
@@ -977,7 +981,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1262,12 +1269,16 @@
       "matches": [
         {
           "startDate": "2023-03-27T20:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 15,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CAL",
             "short": "Dep. Cali",
@@ -1286,7 +1297,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1519,7 +1533,7 @@
           "startDate": "2023-03-27T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -1564,12 +1578,16 @@
       "matches": [
         {
           "startDate": "2023-03-27T20:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "UTC",
             "short": "UTC Cajamarca",
@@ -1588,7 +1606,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1606,7 +1627,7 @@
           "startDate": "2023-03-27T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -1652,8 +1673,8 @@
         {
           "startDate": "2023-03-27T19:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 56,
             "extra": 0
           },
           "round": {
