@@ -95,7 +95,7 @@
 | <p align="center">13:00</p> | <p align="right">CAR <img src="/static/logos/Central African Republic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Madagascar.png" height="25px"> Madagascar</p> |
 | <p align="center">16:00</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ghana.png" height="25px"> Ghana</p> |
 | <p align="center">16:00</p> | <p align="right">Niger <img src="/static/logos/Niger.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Algeria.png" height="25px"> Algeria</p> |
-| <p align="center">13:00</p> | <p align="right">South Sudan <img src="/static/logos/South Sudan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Congo.png" height="25px"> Congo</p> |
+| <p align="center">FT</p> | <p align="right">South Sudan <img src="/static/logos/South Sudan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Congo.png" height="25px"> Congo</p> |
 | <p align="center">20:00</p> | <p align="right">Sudan <img src="/static/logos/Sudan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gabon.png" height="25px"> Gabon</p> |
 </div>
 
@@ -198,7 +198,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:15</p> | <p align="right">Kifisia <img src="/static/logos/Kifisias FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/GS Ilioupoli FC.png" height="25px"> Ilioupoli</p> |
+| <p align="center">FT</p> | <p align="right">Kifisia <img src="/static/logos/Kifisias FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/GS Ilioupoli FC.png" height="25px"> Ilioupoli</p> |
 </div>
 
 
@@ -208,7 +208,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:30</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United</p> |
+| <p align="center">FT</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United</p> |
 </div>
 
 
@@ -302,7 +302,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Czech Republic Under 21.png" height="25px"> Czech</p> |
+| <p align="center">FT</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Czech Republic Under 21.png" height="25px"> Czech</p> |
 | <p align="center">18:00</p> | <p align="right">Italy <img src="/static/logos/Italy Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ukraine Under 21.png" height="25px"> Ukraine</p> |
 </div>
 

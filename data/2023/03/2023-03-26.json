@@ -8520,6 +8520,106 @@
     },
     {
       "competition": {
+        "name": "Sudani Premier League",
+        "area": {
+          "name": "Sudan"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-03-26T19:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "RAB",
+            "short": "Rabta Kosti",
+            "long": "Al Rabta Kosti",
+            "full": "Al Rabta Kosti",
+            "name": "Rabta Kosti"
+          },
+          "teamB": {
+            "code": "ALA",
+            "short": "Alamal Atbara",
+            "long": "Alamal Atbara",
+            "full": "Amal Atbara",
+            "name": "Alamal Atbara"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-26T19:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "HEN",
+            "short": "Haidob",
+            "long": "Haidob En Nahud",
+            "full": "Haidob En Nahud",
+            "name": "Haidob"
+          },
+          "teamB": {
+            "code": "WNK",
+            "short": "Wad Nubawi",
+            "long": "Wad Nubawi",
+            "full": "Wad Nubawi Khartoum FC",
+            "name": "Wad Nubawi"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-26T19:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "KOB",
+            "short": "Kober",
+            "long": "Kober",
+            "full": "Kober SC Bahri",
+            "name": "Kober"
+          },
+          "teamB": {
+            "code": "HPS",
+            "short": "Al Hilal PS",
+            "long": "Al Hilal Port Sudan",
+            "full": "Hilal Alsahil SC Port Sudan",
+            "name": "Al Hilal PS"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Damallsvenskan",
         "area": {
           "name": "Sweden"
