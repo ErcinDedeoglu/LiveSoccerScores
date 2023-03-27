@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:00</p> | <p align="right">Angel City <img src="/static/logos/Angel City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NJ/NY Gotham FC.png" height="25px"> Gotham FC</p> |
+| <p align="center">59'</p> | <p align="right">Angel City <img src="/static/logos/Angel City FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/NJ/NY Gotham FC.png" height="25px"> Gotham FC</p> |
 </div>
 
 
@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Jamaica.png" height="25px"> Jamaica</p> |
+| <p align="center">FT</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Jamaica.png" height="25px"> Jamaica</p> |
 | <p align="center">22:00</p> | <p align="right">St. Kitts <img src="/static/logos/St. Kitts and Nevis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aruba.png" height="25px"> Aruba</p> |
 | <p align="center">19:00</p> | <p align="right">St. Vincent <img src="/static/logos/St. Vincent / Grenadines.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bahamas.png" height="25px"> Bahamas</p> |
 | <p align="center">23:00</p> | <p align="right">St. Lucia <img src="/static/logos/St. Lucia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dominica.png" height="25px"> Dominica</p> |
@@ -41,7 +41,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:45</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Millonarios FC SA.png" height="25px"> Millonarios</p> |
+| <p align="center">81'</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Millonarios FC SA.png" height="25px"> Millonarios</p> |
 </div>
 
 
@@ -79,7 +79,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:05</p> | <p align="right">Dorados <img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Morelia.png" height="25px"> Morelia</p> |
+| <p align="center">HT</p> | <p align="right">Dorados <img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Morelia.png" height="25px"> Morelia</p> |
 | <p align="center">03:05</p> | <p align="right">Tlaxcala <img src="/static/logos/Tlaxcala FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Alacranes de Durango.png" height="25px"> Durango</p> |
 </div>
 
@@ -278,10 +278,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Earthquakes II <img src="/static/logos/San Jose Earthquakes II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/LA Galaxy II.png" height="25px"> LA Galaxy II</p> |
-| <p align="center">41'</p> | <p align="right">LAFC II <img src="/static/logos/Los Angeles Football Club 2.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/North Texas SC.png" height="25px"> North Texas</p> |
-| <p align="center">01:00</p> | <p align="right">Rapids II <img src="/static/logos/Colorado Rapids 2.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sporting Kansas City II.png" height="25px"> Sporting KC II</p> |
-| <p align="center">02:00</p> | <p align="right">Whitecaps FC 2 <img src="/static/logos/Vancouver Whitecaps FC II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Portland Timbers 2.png" height="25px"> Timbers2</p> |
+| <p align="center">FT</p> | <p align="right">Earthquakes II <img src="/static/logos/San Jose Earthquakes II.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/LA Galaxy II.png" height="25px"> LA Galaxy II</p> |
+| <p align="center">FT</p> | <p align="right">LAFC II <img src="/static/logos/Los Angeles Football Club 2.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/North Texas SC.png" height="25px"> North Texas</p> |
+| <p align="center">66'</p> | <p align="right">Rapids II <img src="/static/logos/Colorado Rapids 2.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sporting Kansas City II.png" height="25px"> Sporting KC II</p> |
+| <p align="center">24'</p> | <p align="right">Whitecaps FC 2 <img src="/static/logos/Vancouver Whitecaps FC II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Portland Timbers 2.png" height="25px"> Timbers2</p> |
 | <p align="center">23:00</p> | <p align="right">Cincinnati II <img src="/static/logos/FC Cincinnati 2.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Toronto FC II.png" height="25px"> TFC II</p> |
 </div>
 
