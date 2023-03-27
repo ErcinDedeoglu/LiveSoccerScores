@@ -568,7 +568,7 @@
           "penalty": null
         },
         {
-          "startDate": "2023-03-27T18:45:00Z",
+          "startDate": "2023-03-27T16:00:00Z",
           "period": null,
           "round": {
             "name": "Friendlies 2",
@@ -644,7 +644,7 @@
           "startDate": "2023-03-27T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 80,
             "extra": 0
           },
           "round": {
