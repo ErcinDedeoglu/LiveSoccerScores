@@ -644,8 +644,8 @@
           "startDate": "2023-03-27T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
+            "minute": 90,
+            "extra": 8
           },
           "round": {
             "name": "Clausura",
