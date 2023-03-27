@@ -10,16 +10,12 @@
       "matches": [
         {
           "startDate": "2023-03-27T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 59,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LA",
             "short": "Angel City",
@@ -40,7 +36,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -250,16 +246,12 @@
       "matches": [
         {
           "startDate": "2023-03-27T00:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SFE",
             "short": "Santa Fe",
@@ -618,9 +610,9 @@
         {
           "startDate": "2023-03-27T01:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 9
+            "type": "SECOND_HALF",
+            "minute": 84,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -647,7 +639,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1723,16 +1715,12 @@
         },
         {
           "startDate": "2023-03-27T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 66,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COL",
             "short": "Rapids II",
@@ -1752,7 +1740,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -1761,8 +1749,8 @@
         {
           "startDate": "2023-03-27T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 24,
+            "type": "SECOND_HALF",
+            "minute": 49,
             "extra": 0
           },
           "round": {
@@ -1789,7 +1777,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
