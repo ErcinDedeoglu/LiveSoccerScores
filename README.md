@@ -59,7 +59,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">00:00</p> | <p align="right">Kenya <img src="/static/logos/Kenya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Burundi.png" height="25px"> Burundi</p> |
 | <p align="center">FT</p> | <p align="right">Chile <img src="/static/logos/Chile.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Paraguay.png" height="25px"> Paraguay</p> |
-| <p align="center">10'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ecuador.png" height="25px"> Ecuador</p> |
+| <p align="center">18'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ecuador.png" height="25px"> Ecuador</p> |
 | <p align="center">10:20</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
 | <p align="center">11:00</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
 | <p align="center">13:30</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Burundi.png" height="25px"> Burundi</p> |
