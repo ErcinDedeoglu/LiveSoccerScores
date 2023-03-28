@@ -71,9 +71,9 @@
         {
           "startDate": "2023-03-28T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "League B",
@@ -99,7 +99,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -1265,9 +1265,9 @@
         {
           "startDate": "2023-03-28T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 29,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Group Stage",
@@ -1720,7 +1720,7 @@
           "startDate": "2023-03-28T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -1765,16 +1765,12 @@
       "matches": [
         {
           "startDate": "2023-03-28T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 71,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUA",
             "short": "Guanacasteca",
