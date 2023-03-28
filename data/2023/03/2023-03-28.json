@@ -9,36 +9,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-03-28T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "League C",
-            "display": true
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "VIR",
-            "short": "USVI",
-            "long": "US Virgin Islands",
-            "full": "US Virgin Islands",
-            "name": "USVI"
-          },
-          "teamB": {
-            "code": "SMA",
-            "short": "Sint Maarten",
-            "long": "Sint Maarten",
-            "full": "Sint Maarten",
-            "name": "Sint Maarten"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-03-28T23:00:00Z",
           "period": null,
           "round": {
@@ -59,6 +29,36 @@
             "long": "Turks and Caicos Islands",
             "full": "Turks and Caicos Islands",
             "name": "Turks \u0026 Caicos"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-03-28T23:00:00Z",
+          "period": null,
+          "round": {
+            "name": "League C",
+            "display": true
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "VIR",
+            "short": "USVI",
+            "long": "US Virgin Islands",
+            "full": "US Virgin Islands",
+            "name": "USVI"
+          },
+          "teamB": {
+            "code": "SMA",
+            "short": "Sint Maarten",
+            "long": "Sint Maarten",
+            "full": "Sint Maarten",
+            "name": "Sint Maarten"
           },
           "redCards": {
             "teamA": 0,
@@ -164,8 +164,8 @@
         {
           "startDate": "2023-03-28T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 28,
+            "type": "SECOND_HALF",
+            "minute": 50,
             "extra": 0
           },
           "round": {
@@ -210,16 +210,12 @@
       "matches": [
         {
           "startDate": "2023-03-28T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 61,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "JAG",
             "short": "Jaguares",
@@ -240,7 +236,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -507,16 +503,12 @@
         },
         {
           "startDate": "2023-03-28T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHI",
             "short": "Chile",
@@ -536,7 +528,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 2
           },
           "agg": null,
@@ -1424,16 +1416,12 @@
       "matches": [
         {
           "startDate": "2023-03-28T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "IND",
             "short": "Independiente",
