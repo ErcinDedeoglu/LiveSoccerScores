@@ -534,7 +534,7 @@
           "startDate": "2023-03-28T08:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -569,12 +569,16 @@
         },
         {
           "startDate": "2023-03-28T10:20:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JPN",
             "short": "Japan",
@@ -593,7 +597,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2290,7 +2297,7 @@
           "startDate": "2023-03-28T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -2318,7 +2325,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2327,7 +2334,7 @@
           "startDate": "2023-03-28T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -2355,7 +2362,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
