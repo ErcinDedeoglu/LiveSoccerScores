@@ -12,7 +12,7 @@
           "startDate": "2023-03-28T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -40,7 +40,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -49,7 +49,7 @@
           "startDate": "2023-03-28T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -86,7 +86,7 @@
           "startDate": "2023-03-28T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -114,7 +114,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -123,7 +123,7 @@
           "startDate": "2023-03-28T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -944,12 +944,16 @@
         },
         {
           "startDate": "2023-03-28T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 10,
+            "extra": 0
+          },
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ARG",
             "short": "Argentina",
@@ -968,7 +972,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -986,7 +993,7 @@
           "startDate": "2023-03-28T23:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 36,
             "extra": 0
           },
           "round": {
@@ -1014,7 +1021,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1294,7 +1301,7 @@
           "startDate": "2023-03-28T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -1627,12 +1634,16 @@
       "matches": [
         {
           "startDate": "2023-03-28T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SCR",
             "short": "Santa Cruz",
@@ -1651,7 +1662,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1748,7 +1762,7 @@
           "startDate": "2023-03-28T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 71,
             "extra": 0
           },
           "round": {
