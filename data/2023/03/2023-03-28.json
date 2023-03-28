@@ -852,8 +852,8 @@
           "startDate": "2023-03-28T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Friendlies 1",
@@ -889,7 +889,7 @@
           "startDate": "2023-03-28T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -1039,8 +1039,8 @@
           "startDate": "2023-03-28T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -1236,16 +1236,12 @@
         },
         {
           "startDate": "2023-03-28T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COM",
             "short": "Comoros",
@@ -1337,9 +1333,9 @@
         {
           "startDate": "2023-03-28T20:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 4
           },
           "round": {
             "name": "Group Stage",
@@ -1647,7 +1643,7 @@
           "startDate": "2023-03-28T20:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -3673,8 +3669,8 @@
           "startDate": "2023-03-28T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Final",
