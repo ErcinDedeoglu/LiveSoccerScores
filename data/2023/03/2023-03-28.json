@@ -11,9 +11,9 @@
         {
           "startDate": "2023-03-28T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "League C",
@@ -48,9 +48,9 @@
         {
           "startDate": "2023-03-28T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "League C",
@@ -84,16 +84,12 @@
         },
         {
           "startDate": "2023-03-28T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "League B",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HAI",
             "short": "Haiti",
@@ -122,9 +118,9 @@
         {
           "startDate": "2023-03-28T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "League B",
@@ -946,7 +942,7 @@
           "startDate": "2023-03-28T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -973,7 +969,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -992,9 +988,9 @@
         {
           "startDate": "2023-03-28T23:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Clausura",
@@ -1301,8 +1297,8 @@
           "startDate": "2023-03-28T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
+            "minute": 90,
+            "extra": 7
           },
           "round": {
             "name": "Group Stage",
@@ -1636,7 +1632,7 @@
           "startDate": "2023-03-28T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -1762,7 +1758,7 @@
           "startDate": "2023-03-28T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 84,
             "extra": 0
           },
           "round": {
