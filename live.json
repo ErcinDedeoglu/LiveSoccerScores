@@ -682,8 +682,8 @@
           "startDate": "2023-03-29T18:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
-            "extra": 0
+            "minute": 90,
+            "extra": 8
           },
           "round": {
             "name": "Group Stage",
@@ -767,12 +767,16 @@
       "matches": [
         {
           "startDate": "2023-03-29T20:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ENV",
             "short": "Envigado",
@@ -791,7 +795,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": {
             "teamA": 1,
             "teamB": 1
@@ -987,8 +994,8 @@
         {
           "startDate": "2023-03-29T18:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": -12,
+            "type": "SECOND_HALF",
+            "minute": 0,
             "extra": 0
           },
           "round": {
@@ -1033,16 +1040,12 @@
       "matches": [
         {
           "startDate": "2023-03-29T17:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHA",
             "short": "Charlton",
@@ -1117,9 +1120,9 @@
         {
           "startDate": "2023-03-29T19:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 31,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Quarter-finals",
@@ -1782,8 +1785,8 @@
         {
           "startDate": "2023-03-29T18:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": -14,
+            "type": "SECOND_HALF",
+            "minute": 0,
             "extra": 0
           },
           "round": {
@@ -1859,8 +1862,8 @@
         {
           "startDate": "2023-03-29T19:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 28,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -1887,7 +1890,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1896,8 +1899,8 @@
         {
           "startDate": "2023-03-29T19:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 31,
+            "type": "SECOND_HALF",
+            "minute": 47,
             "extra": 0
           },
           "round": {
@@ -1933,9 +1936,9 @@
         {
           "startDate": "2023-03-29T19:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Highland League",
@@ -1970,9 +1973,9 @@
         {
           "startDate": "2023-03-29T19:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 29,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 10
           },
           "round": {
             "name": "Highland League",
@@ -1999,7 +2002,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
