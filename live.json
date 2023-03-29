@@ -766,7 +766,7 @@
           "period": {
             "type": "FIRST_HALF",
             "minute": 45,
-            "extra": 42
+            "extra": 51
           },
           "round": {
             "name": "2nd Round",
@@ -805,7 +805,7 @@
           "startDate": "2023-03-29T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -928,7 +928,7 @@
           "startDate": "2023-03-29T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -963,12 +963,16 @@
         },
         {
           "startDate": "2023-03-29T21:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PLA",
             "short": "Platense",
@@ -987,7 +991,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1292,7 +1299,7 @@
           "startDate": "2023-03-29T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 37,
             "extra": 0
           },
           "round": {
