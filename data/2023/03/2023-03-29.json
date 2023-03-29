@@ -162,16 +162,12 @@
         },
         {
           "startDate": "2023-03-29T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CIM",
             "short": "Cimarrones",
