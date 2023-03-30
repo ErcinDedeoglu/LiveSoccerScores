@@ -301,12 +301,16 @@
       "matches": [
         {
           "startDate": "2023-03-30T22:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "2nd Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ARN",
             "short": "Am\u00E9rica RN",
@@ -325,7 +329,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -455,7 +462,7 @@
           "startDate": "2023-03-30T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -494,9 +501,9 @@
         {
           "startDate": "2023-03-30T21:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "2nd Round",
@@ -1258,7 +1265,7 @@
           "startDate": "2023-03-30T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 40,
             "extra": 0
           },
           "round": {
