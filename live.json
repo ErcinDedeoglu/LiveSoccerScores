@@ -214,7 +214,7 @@
           "startDate": "2023-03-30T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -459,7 +459,7 @@
           "startDate": "2023-03-30T20:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -499,7 +499,7 @@
           "startDate": "2023-03-30T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -666,16 +666,12 @@
       "matches": [
         {
           "startDate": "2023-03-30T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CEC",
             "short": "Ceramica Cleo",
@@ -703,16 +699,12 @@
         },
         {
           "startDate": "2023-03-30T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ENP",
             "short": "ENPPI",
@@ -740,16 +732,12 @@
         },
         {
           "startDate": "2023-03-30T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SMO",
             "short": "Smouha",
@@ -967,7 +955,7 @@
           "startDate": "2023-03-30T19:00:00Z",
           "period": {
             "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 96,
+            "minute": 105,
             "extra": 0
           },
           "round": {
