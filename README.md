@@ -99,7 +99,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cartagena <img src="/static/logos/Real Cartagena FC SA.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"> Cortuluá</p> |
-| <p align="center">62'</p> | <p align="right">Cúcuta <img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corporación Deportes Quindío.png" height="25px"> Quindío</p> |
+| <p align="center">69'</p> | <p align="right">Cúcuta <img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corporación Deportes Quindío.png" height="25px"> Quindío</p> |
 | <p align="center">HT</p> | <p align="right">Jaguares <img src="/static/logos/Jaguares de Córdoba FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
 </div>
 
@@ -157,7 +157,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Wolfsburg <img src="/static/logos/VfL Wolfsburg.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paris Saint Germain FC.png" height="25px"> PSG</p> |
-| <p align="center">127'</p> | <p align="right">Chelsea <img src="/static/logos/Chelsea FC Women.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Olympique Lyonnais.png" height="25px"> Lyon</p> |
+| <p align="center">FT</p> | <p align="right">Chelsea <img src="/static/logos/Chelsea FC Women.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Olympique Lyonnais.png" height="25px"> Lyon</p> |
 </div>
 
 
@@ -201,7 +201,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">Colombia <img src="/static/logos/Colombia Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uruguay Under 17.png" height="25px"> Uruguay</p> |
+| <p align="center">30'</p> | <p align="right">Colombia <img src="/static/logos/Colombia Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uruguay Under 17.png" height="25px"> Uruguay</p> |
 </div>
 
 

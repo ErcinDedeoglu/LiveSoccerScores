@@ -455,7 +455,7 @@
           "startDate": "2023-03-30T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -949,16 +949,12 @@
         },
         {
           "startDate": "2023-03-30T19:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 127,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHE",
             "short": "Chelsea",
@@ -1262,7 +1258,7 @@
           "startDate": "2023-03-30T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 30,
             "extra": 0
           },
           "round": {
