@@ -55,7 +55,7 @@
           "startDate": "2023-03-30T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -310,7 +310,7 @@
           "startDate": "2023-03-30T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1224,7 +1224,7 @@
           "startDate": "2023-03-30T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -1272,7 +1272,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 8
           },
           "round": {
             "name": "1st Stage",
