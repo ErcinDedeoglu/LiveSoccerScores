@@ -926,16 +926,12 @@
       "matches": [
         {
           "startDate": "2023-03-29T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PER",
             "short": "P\u00E9rez Zeled\u00F3n",

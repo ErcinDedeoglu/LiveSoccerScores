@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Dep. Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Millonarios FC SA.png" height="25px"> Millonarios</p> |
+| <p align="center">HT</p> | <p align="right">Dep. Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Millonarios FC SA.png" height="25px"> Millonarios</p> |
 </div>
 
 
@@ -46,7 +46,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">Cancún <img src="/static/logos/Cancún FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Tapatío.png" height="25px"> Tapatío</p> |
+| <p align="center">45' 1'</p> | <p align="right">Cancún <img src="/static/logos/Cancún FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Tapatío.png" height="25px"> Tapatío</p> |
 | <p align="center">03:05</p> | <p align="right">Raya2 <img src="/static/logos/Raya2 Expansión.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"> Dorados</p> |
 </div>
 
@@ -67,7 +67,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">61'</p> | <p align="right">Hercílio <img src="/static/logos/Hercílio Luz FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Criciuma EC.png" height="25px"> Criciúma</p> |
+| <p align="center">90' 6'</p> | <p align="right">Hercílio <img src="/static/logos/Hercílio Luz FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Criciuma EC.png" height="25px"> Criciúma</p> |
 </div>
 
 
@@ -87,8 +87,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 3'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza EC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ceará SC.png" height="25px"> Ceará</p> |
-| <p align="center">45' 4'</p> | <p align="right">Sport <img src="/static/logos/SC do Recife.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
+| <p align="center">57'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza EC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Ceará SC.png" height="25px"> Ceará</p> |
+| <p align="center">61'</p> | <p align="right">Sport <img src="/static/logos/SC do Recife.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
 </div>
 
 
@@ -98,7 +98,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">57'</p> | <p align="right">Cartagena <img src="/static/logos/Real Cartagena FC SA.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"> Cortuluá</p> |
+| <p align="center">FT</p> | <p align="right">Cartagena <img src="/static/logos/Real Cartagena FC SA.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"> Cortuluá</p> |
 | <p align="center">20:30</p> | <p align="right">Cúcuta <img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Corporación Deportes Quindío.png" height="25px"> Quindío</p> |
 | <p align="center">21:00</p> | <p align="right">Jaguares <img src="/static/logos/Jaguares de Córdoba FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
 </div>
@@ -110,7 +110,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Real Santander.png" height="25px"> Real Santander</p> |
+| <p align="center">90' 3'</p> | <p align="right">Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/CD Real Santander.png" height="25px"> Real Santander</p> |
 </div>
 
 
@@ -143,10 +143,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Santa Tecla <img src="/static/logos/Santa Tecla FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/CD Chalatenango.png" height="25px"> Chalatenango</p> |
-| <p align="center">01:15</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jocoro FC.png" height="25px"> Jocoro</p> |
-| <p align="center">01:30</p> | <p align="right">FAS <img src="/static/logos/CD FAS.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportivo Atlético Marte.png" height="25px"> Marte</p> |
-| <p align="center">01:30</p> | <p align="right">Isidro <img src="/static/logos/AD Isidro Metapán.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Águila.png" height="25px"> Águila</p> |
+| <p align="center">HT</p> | <p align="right">Santa Tecla <img src="/static/logos/Santa Tecla FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/CD Chalatenango.png" height="25px"> Chalatenango</p> |
+| <p align="center">35'</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jocoro FC.png" height="25px"> Jocoro</p> |
+| <p align="center">21'</p> | <p align="right">FAS <img src="/static/logos/CD FAS.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Deportivo Atlético Marte.png" height="25px"> Marte</p> |
+| <p align="center">19'</p> | <p align="right">Isidro <img src="/static/logos/AD Isidro Metapán.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Águila.png" height="25px"> Águila</p> |
 </div>
 
 

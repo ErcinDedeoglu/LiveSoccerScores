@@ -91,9 +91,9 @@
         {
           "startDate": "2023-03-30T01:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 21,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Apertura",
@@ -139,8 +139,8 @@
           "startDate": "2023-03-30T01:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Clausura",
@@ -256,8 +256,8 @@
           "startDate": "2023-03-30T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Semi-finals",
@@ -284,11 +284,11 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 3
           },
           "penalty": null
         }
@@ -345,9 +345,9 @@
         {
           "startDate": "2023-03-30T00:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
           },
           "round": {
             "name": "Semi-finals",
@@ -369,12 +369,12 @@
             "name": "Cear\u00E1"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -382,9 +382,9 @@
         {
           "startDate": "2023-03-30T00:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
           },
           "round": {
             "name": "Semi-finals",
@@ -428,16 +428,12 @@
       "matches": [
         {
           "startDate": "2023-03-30T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 57,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAR",
             "short": "Cartagena",
@@ -457,11 +453,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": {
-            "teamA": 3,
+            "teamA": 5,
             "teamB": 2
           },
           "penalty": null
@@ -546,8 +542,8 @@
           "startDate": "2023-03-30T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Apertura",
@@ -573,8 +569,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -762,9 +758,9 @@
         {
           "startDate": "2023-03-30T01:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 19,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Clausura",
@@ -790,7 +786,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 3
           },
           "agg": null,
@@ -798,12 +794,16 @@
         },
         {
           "startDate": "2023-03-30T01:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 35,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ALI",
             "short": "Alianza",
@@ -822,18 +822,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-03-30T01:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 21,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "FAS",
             "short": "FAS",
@@ -852,18 +859,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-03-30T01:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 19,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ISI",
             "short": "Isidro",
@@ -882,7 +896,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
