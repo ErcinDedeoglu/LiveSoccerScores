@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Querétaro <img src="/static/logos/Querétaro FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cruz Azul FC.png" height="25px"> Cruz Azul</p> |
+| <p align="center">75'</p> | <p align="right">Querétaro <img src="/static/logos/Querétaro FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cruz Azul FC.png" height="25px"> Cruz Azul</p> |
 </div>
 
 
@@ -47,7 +47,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cancún <img src="/static/logos/Cancún FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Tapatío.png" height="25px"> Tapatío</p> |
-| <p align="center">70'</p> | <p align="right">Raya2 <img src="/static/logos/Raya2 Expansión.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"> Dorados</p> |
+| <p align="center">78'</p> | <p align="right">Raya2 <img src="/static/logos/Raya2 Expansión.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"> Dorados</p> |
 </div>
 
 
