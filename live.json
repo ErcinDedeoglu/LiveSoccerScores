@@ -213,8 +213,8 @@
         {
           "startDate": "2023-03-30T19:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 33,
+            "type": "SECOND_HALF",
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -457,12 +457,16 @@
         },
         {
           "startDate": "2023-03-30T20:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 34,
+            "extra": 0
+          },
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CUC",
             "short": "C\u00FAcuta",
@@ -481,7 +485,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": {
             "teamA": 2,
             "teamB": 0
@@ -490,12 +497,16 @@
         },
         {
           "startDate": "2023-03-30T21:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JAG",
             "short": "Jaguares",
@@ -514,7 +525,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": {
             "teamA": 1,
             "teamB": 1
@@ -653,9 +667,9 @@
         {
           "startDate": "2023-03-30T19:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 89,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -690,9 +704,9 @@
         {
           "startDate": "2023-03-30T19:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 90,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -714,11 +728,11 @@
             "name": "National Bank"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -727,9 +741,9 @@
         {
           "startDate": "2023-03-30T19:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 90,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -952,8 +966,8 @@
         {
           "startDate": "2023-03-30T19:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 48,
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 96,
             "extra": 0
           },
           "round": {
@@ -981,11 +995,11 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "penalty": null
         }
