@@ -10,16 +10,12 @@
       "matches": [
         {
           "startDate": "2023-03-30T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "QUE",
             "short": "Quer\u00E9taro",
@@ -173,16 +169,12 @@
         },
         {
           "startDate": "2023-03-30T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MOB",
             "short": "Raya2",
