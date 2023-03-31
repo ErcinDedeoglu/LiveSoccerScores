@@ -393,16 +393,12 @@
       "matches": [
         {
           "startDate": "2023-03-31T08:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WSW",
             "short": "Wanderers",
@@ -418,7 +414,7 @@
             "name": "Adelaide Utd"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -482,7 +478,7 @@
           "startDate": "2023-03-31T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -859,6 +855,36 @@
           "penalty": null
         },
         {
+          "startDate": "2023-03-31T20:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Group B",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "GJU",
+            "short": "Gimn Jujuy",
+            "long": "Gimnasia Jujuy",
+            "full": "Gimnasia y Esgrima de Jujuy",
+            "name": "Gimn Jujuy"
+          },
+          "teamB": {
+            "code": "VDA",
+            "short": "Villa D\u00E1lmine",
+            "long": "Villa D\u00E1lmine",
+            "full": "Club Villa D\u00E1lmine",
+            "name": "Villa D\u00E1lmine"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
           "startDate": "2023-03-31T22:05:00Z",
           "period": null,
           "round": {
@@ -972,7 +998,7 @@
           "startDate": "2023-03-31T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 13,
             "extra": 0
           },
           "round": {
@@ -1051,8 +1077,8 @@
         {
           "startDate": "2023-03-31T09:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 51,
             "extra": 0
           },
           "round": {
@@ -1132,7 +1158,7 @@
           "startDate": "2023-03-31T09:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -1159,7 +1185,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
