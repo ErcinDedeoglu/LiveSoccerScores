@@ -693,9 +693,9 @@
         {
           "startDate": "2023-03-31T14:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -731,7 +731,7 @@
           "startDate": "2023-03-31T14:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 39,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -767,9 +767,9 @@
         {
           "startDate": "2023-03-31T14:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -804,9 +804,9 @@
         {
           "startDate": "2023-03-31T14:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -952,7 +952,7 @@
           "startDate": "2023-03-31T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -1779,7 +1779,7 @@
           "startDate": "2023-03-31T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 36,
             "extra": 0
           },
           "round": {
@@ -1826,7 +1826,7 @@
           "startDate": "2023-03-31T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -1854,7 +1854,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3180,16 +3180,12 @@
         },
         {
           "startDate": "2023-03-31T13:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PSJ",
             "short": "Persija",
@@ -3432,7 +3428,7 @@
           "startDate": "2023-03-31T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -3479,7 +3475,7 @@
           "startDate": "2023-03-31T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -3516,7 +3512,7 @@
           "startDate": "2023-03-31T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -3553,7 +3549,7 @@
           "startDate": "2023-03-31T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -3581,7 +3577,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3590,7 +3586,7 @@
           "startDate": "2023-03-31T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -3618,7 +3614,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4547,7 +4543,7 @@
           "startDate": "2023-03-31T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -4698,12 +4694,16 @@
       "matches": [
         {
           "startDate": "2023-03-31T15:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 8,
+            "extra": 0
+          },
           "round": {
             "name": "Relegation Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ZMO",
             "short": "Zlat\u00E9 Moravce",
@@ -4722,7 +4722,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
