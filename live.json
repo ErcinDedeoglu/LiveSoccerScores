@@ -3022,16 +3022,12 @@
       "matches": [
         {
           "startDate": "2023-03-31T11:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KAL",
             "short": "Kallithea",
@@ -3061,7 +3057,7 @@
           "startDate": "2023-03-31T12:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -3108,7 +3104,7 @@
           "startDate": "2023-03-31T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 17,
             "extra": 0
           },
           "round": {
@@ -3136,7 +3132,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3145,7 +3141,7 @@
           "startDate": "2023-03-31T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 17,
             "extra": 0
           },
           "round": {
@@ -3182,7 +3178,7 @@
           "startDate": "2023-03-31T13:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -3209,7 +3205,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -4549,7 +4545,7 @@
           "startDate": "2023-03-31T12:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -4586,7 +4582,7 @@
           "startDate": "2023-03-31T12:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -4614,7 +4610,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
