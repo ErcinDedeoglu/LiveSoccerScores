@@ -1882,7 +1882,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 3
+            "extra": 13
           },
           "round": {
             "name": "Clausura",
@@ -1919,7 +1919,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 5
+            "extra": 14
           },
           "round": {
             "name": "Clausura",
