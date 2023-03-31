@@ -54,8 +54,8 @@
         {
           "startDate": "2023-03-30T23:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -308,16 +308,12 @@
       "matches": [
         {
           "startDate": "2023-03-30T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "2nd Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ARN",
             "short": "Am\u00E9rica RN",
@@ -337,7 +333,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 0,
             "teamB": 1
           },
           "agg": null,
@@ -1223,9 +1219,9 @@
         {
           "startDate": "2023-03-30T23:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 90,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -1247,7 +1243,7 @@
             "name": "Caballero JLM"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
