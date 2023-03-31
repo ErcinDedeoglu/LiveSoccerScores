@@ -476,16 +476,12 @@
       "matches": [
         {
           "startDate": "2023-03-31T10:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "REY",
             "short": "Kashiwa",
@@ -506,7 +502,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -855,36 +851,6 @@
           "penalty": null
         },
         {
-          "startDate": "2023-03-31T20:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Group B",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "GJU",
-            "short": "Gimn Jujuy",
-            "long": "Gimnasia Jujuy",
-            "full": "Gimnasia y Esgrima de Jujuy",
-            "name": "Gimn Jujuy"
-          },
-          "teamB": {
-            "code": "VDA",
-            "short": "Villa D\u00E1lmine",
-            "long": "Villa D\u00E1lmine",
-            "full": "Club Villa D\u00E1lmine",
-            "name": "Villa D\u00E1lmine"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-03-31T22:05:00Z",
           "period": null,
           "round": {
@@ -996,16 +962,12 @@
       "matches": [
         {
           "startDate": "2023-03-31T10:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 21,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "STH",
             "short": "Souths Utd NPL",
@@ -1026,7 +988,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -1076,16 +1038,12 @@
         },
         {
           "startDate": "2023-03-31T09:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 58,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HDB",
             "short": "Heidelberg",
@@ -1102,10 +1060,10 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 2
           },
           "agg": null,
@@ -1156,16 +1114,12 @@
         },
         {
           "startDate": "2023-03-31T09:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PRE",
             "short": "Preston Lions",
@@ -3068,12 +3022,16 @@
       "matches": [
         {
           "startDate": "2023-03-31T11:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 34,
+            "extra": 0
+          },
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KAL",
             "short": "Kallithea",
@@ -3092,18 +3050,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-03-31T12:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "AEL",
             "short": "Larissa",
@@ -3122,7 +3087,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
