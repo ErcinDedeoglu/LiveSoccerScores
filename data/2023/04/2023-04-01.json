@@ -2500,7 +2500,7 @@
           "startDate": "2023-04-01T08:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -4087,7 +4087,7 @@
           "startDate": "2023-04-01T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -4124,7 +4124,7 @@
           "startDate": "2023-04-01T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -4302,8 +4302,8 @@
         {
           "startDate": "2023-04-01T08:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -4457,16 +4457,12 @@
         },
         {
           "startDate": "2023-04-01T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SOL",
             "short": "Sydney Olympic",
@@ -4496,7 +4492,7 @@
           "startDate": "2023-04-01T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -4533,7 +4529,7 @@
           "startDate": "2023-04-01T08:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -4561,7 +4557,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -6427,7 +6423,7 @@
           "startDate": "2023-04-01T08:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -6463,9 +6459,9 @@
         {
           "startDate": "2023-04-01T08:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -8084,7 +8080,7 @@
           "startDate": "2023-04-01T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -11425,7 +11421,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 7
           },
           "round": {
             "name": "Regular Season",
@@ -11448,27 +11444,23 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 2,
-            "teamB": 1
+            "teamA": 3,
+            "teamB": 0
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-01T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "INC",
             "short": "Incheon Utd",
@@ -13320,7 +13312,7 @@
           "startDate": "2023-04-01T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -13347,7 +13339,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -16230,7 +16222,7 @@
           "startDate": "2023-04-01T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 20,
             "extra": 0
           },
           "round": {
