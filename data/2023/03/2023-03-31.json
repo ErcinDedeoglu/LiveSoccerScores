@@ -1146,39 +1146,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-03-31T08:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "BOX",
-            "short": "Box Hill",
-            "long": "Box Hill United",
-            "full": "Box Hill United SC",
-            "name": "Box Hill"
-          },
-          "teamB": {
-            "code": "BOR",
-            "short": "Boroondara",
-            "long": "Boroondara Eagles",
-            "full": "Boroondara Eagles FC",
-            "name": "Boroondara"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 5
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-03-31T09:15:00Z",
           "period": null,
           "round": {
