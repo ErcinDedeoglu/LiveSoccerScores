@@ -9696,36 +9696,6 @@
             "name": "Bayern",
             "display": false
           },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "ASC",
-            "short": "Aschaffenburg",
-            "long": "Viktoria Aschaffenburg",
-            "full": "SV Viktoria Aschaffenburg",
-            "name": "Aschaffenburg"
-          },
-          "teamB": {
-            "code": "PIP",
-            "short": "Pipinsried",
-            "long": "Pipinsried",
-            "full": "FC Pipinsried",
-            "name": "Pipinsried"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-01T12:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Bayern",
-            "display": false
-          },
           "status": "RESULT",
           "teamA": {
             "code": "AU2",
