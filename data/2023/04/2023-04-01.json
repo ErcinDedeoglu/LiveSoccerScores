@@ -5079,6 +5079,46 @@
     },
     {
       "competition": {
+        "name": "Jugendliga U18",
+        "area": {
+          "name": "Austria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-01T11:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "RBA",
+            "short": "RB Akademie",
+            "long": "Red Bull Akademie U18",
+            "full": "Red Bull Akademie Under 18 (FC Salzburg Under 18)",
+            "name": "RB Akademie"
+          },
+          "teamB": {
+            "code": "RIE",
+            "short": "Ried",
+            "long": "Ried U18",
+            "full": "SV Ried Under 18",
+            "name": "Ried"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Premier League",
         "area": {
           "name": "Belarus"
@@ -10363,6 +10403,119 @@
             "teamA": 0,
             "teamB": 0
           },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-01T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - Preliminary Round",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "FCN",
+            "short": "N\u00FCrnberg",
+            "long": "N\u00FCrnberg U19",
+            "full": "1. FC N\u00FCrnberg Under 19",
+            "name": "N\u00FCrnberg"
+          },
+          "teamB": {
+            "code": "BAY",
+            "short": "Bayern",
+            "long": "Bayern M\u00FCnchen U19",
+            "full": "FC Bayern M\u00FCnchen Under 19",
+            "name": "Bayern"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U17 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-01T11:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - Preliminary Round",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "FCB",
+            "short": "Bayern M\u00FCnchen",
+            "long": "Bayern M\u00FCnchen U17",
+            "full": "FC Bayern M\u00FCnchen Under 17",
+            "name": "Bayern M\u00FCnchen"
+          },
+          "teamB": {
+            "code": "AUG",
+            "short": "Augsburg",
+            "long": "Augsburg U17",
+            "full": "FC Augsburg Under 17",
+            "name": "Augsburg"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-04-01T11:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - Preliminary Round",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "teamB": {
+            "code": "DYD",
+            "short": "Dynamo Dresden",
+            "long": "Dynamo Dresden U17",
+            "full": "SG Dynamo Dresden Under 17",
+            "name": "Dynamo Dresden"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
@@ -18270,6 +18423,46 @@
             "teamA": 1,
             "teamB": 1
           },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U19 Club Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-01T12:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Friendlies 1",
+            "display": true
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "CHM",
+            "short": "Chemnitzer FC",
+            "long": "Chemnitzer FC U19",
+            "full": "Chemnitzer FC Under 19",
+            "name": "Chemnitzer FC"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U19",
+            "full": "Rasen Ballsport Leipzig Under 19",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
