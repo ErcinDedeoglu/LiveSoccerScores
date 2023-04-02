@@ -214,8 +214,8 @@
           "startDate": "2023-04-02T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -249,16 +249,12 @@
         },
         {
           "startDate": "2023-04-02T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAN",
             "short": "Whitecaps",
@@ -1017,7 +1013,7 @@
           "startDate": "2023-04-02T03:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 56,
             "extra": 0
           },
           "round": {
@@ -1045,7 +1041,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -8106,7 +8102,7 @@
           "startDate": "2023-04-02T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -8303,7 +8299,7 @@
           "startDate": "2023-04-02T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -8698,12 +8694,16 @@
       "matches": [
         {
           "startDate": "2023-04-02T04:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SAN",
             "short": "Gimcheon",
@@ -8722,7 +8722,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -13663,16 +13666,12 @@
         },
         {
           "startDate": "2023-04-02T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PHX",
             "short": "Phoenix Rising",
