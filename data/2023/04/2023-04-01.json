@@ -456,39 +456,6 @@
           },
           "status": "RESULT",
           "teamA": {
-            "code": "PHI",
-            "short": "Philadelphia",
-            "long": "Philadelphia Union",
-            "full": "Philadelphia Union",
-            "name": "Philadelphia"
-          },
-          "teamB": {
-            "code": "SKC",
-            "short": "Sporting KC",
-            "long": "Sporting KC",
-            "full": "Sporting Kansas City",
-            "name": "Sporting KC"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-01T23:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
             "code": "TOR",
             "short": "Toronto",
             "long": "Toronto",
@@ -4658,39 +4625,6 @@
           "score": {
             "teamA": 0,
             "teamB": 2
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-01T05:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "BUL",
-            "short": "Bulleen",
-            "long": "Bulleen Lions",
-            "full": "FC Bulleen Lions",
-            "name": "Bulleen"
-          },
-          "teamB": {
-            "code": "FVE",
-            "short": "Emerging",
-            "long": "FV Emerging",
-            "full": "FV Emerging Matildas",
-            "name": "Emerging"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 0
           },
           "agg": null,
           "penalty": null
