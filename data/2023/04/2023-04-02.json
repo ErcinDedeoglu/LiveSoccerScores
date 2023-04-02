@@ -453,7 +453,7 @@
           "startDate": "2023-04-02T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -1185,7 +1185,7 @@
           "startDate": "2023-04-02T10:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -1698,7 +1698,7 @@
           "startDate": "2023-04-02T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -3274,7 +3274,7 @@
           "startDate": "2023-04-02T09:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -5829,12 +5829,16 @@
       "matches": [
         {
           "startDate": "2023-04-02T10:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 8,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LEH",
             "short": "Le Havre",
@@ -5853,7 +5857,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -5861,7 +5868,7 @@
           "startDate": "2023-04-02T10:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 9,
             "extra": 0
           },
           "round": {
@@ -8164,7 +8171,7 @@
           "startDate": "2023-04-02T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -8941,7 +8948,7 @@
           "startDate": "2023-04-02T09:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -8987,9 +8994,9 @@
         {
           "startDate": "2023-04-02T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -9105,7 +9112,7 @@
           "startDate": "2023-04-02T09:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -9282,7 +9289,7 @@
           "startDate": "2023-04-02T10:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -9329,7 +9336,7 @@
           "startDate": "2023-04-02T10:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 31,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -9543,6 +9550,36 @@
             "long": "Niger Tornadoes",
             "full": "Niger Tornadoes FC",
             "name": "Tornadoes"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-04-02T15:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "ENU",
+            "short": "Enugu",
+            "long": "Enugu Rangers",
+            "full": "Enugu Rangers International FC",
+            "name": "Enugu"
+          },
+          "teamB": {
+            "code": "LOB",
+            "short": "Lobi Stars",
+            "long": "Lobi Stars",
+            "full": "Lobi Stars FC",
+            "name": "Lobi Stars"
           },
           "redCards": {
             "teamA": 0,
@@ -9829,7 +9866,7 @@
           "startDate": "2023-04-02T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -9936,7 +9973,7 @@
           "startDate": "2023-04-02T10:40:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -10042,9 +10079,9 @@
         {
           "startDate": "2023-04-02T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -10079,9 +10116,9 @@
         {
           "startDate": "2023-04-02T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -10257,7 +10294,7 @@
           "startDate": "2023-04-02T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -10285,7 +10322,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -11076,7 +11113,7 @@
         {
           "startDate": "2023-04-02T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
             "extra": 1
           },
@@ -12071,7 +12108,7 @@
           "startDate": "2023-04-02T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -12278,7 +12315,7 @@
           "startDate": "2023-04-02T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -12315,7 +12352,7 @@
           "startDate": "2023-04-02T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -12452,7 +12489,7 @@
           "startDate": "2023-04-02T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -13558,9 +13595,9 @@
         {
           "startDate": "2023-04-02T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
