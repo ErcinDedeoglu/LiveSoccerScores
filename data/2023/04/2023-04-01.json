@@ -13375,36 +13375,6 @@
           },
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-04-01T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ENU",
-            "short": "Enugu",
-            "long": "Enugu Rangers",
-            "full": "Enugu Rangers International FC",
-            "name": "Enugu"
-          },
-          "teamB": {
-            "code": "LOB",
-            "short": "Lobi Stars",
-            "long": "Lobi Stars",
-            "full": "Lobi Stars FC",
-            "name": "Lobi Stars"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
         }
       ]
     },
