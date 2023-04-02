@@ -1645,7 +1645,7 @@
           "startDate": "2023-04-02T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -1725,7 +1725,7 @@
           "startDate": "2023-04-02T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -2227,8 +2227,8 @@
         {
           "startDate": "2023-04-02T21:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
+            "type": "SECOND_HALF",
+            "minute": 49,
             "extra": 0
           },
           "round": {
@@ -2786,9 +2786,9 @@
         {
           "startDate": "2023-04-02T21:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Group B",
@@ -2824,7 +2824,7 @@
           "startDate": "2023-04-02T21:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -4018,7 +4018,7 @@
           "startDate": "2023-04-02T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 70,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -4046,7 +4046,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4373,16 +4373,12 @@
       "matches": [
         {
           "startDate": "2023-04-02T20:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RAN",
             "short": "Rangers",
@@ -4624,7 +4620,7 @@
           "startDate": "2023-04-02T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 70,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -5430,9 +5426,9 @@
         {
           "startDate": "2023-04-02T21:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 49,
+            "extra": 0
           },
           "round": {
             "name": "1st Round",
@@ -5617,7 +5613,7 @@
           "startDate": "2023-04-02T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -5654,7 +5650,7 @@
           "startDate": "2023-04-02T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -5691,7 +5687,7 @@
           "startDate": "2023-04-02T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 56,
             "extra": 0
           },
           "round": {
@@ -5719,7 +5715,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -14957,7 +14953,7 @@
           "startDate": "2023-04-02T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -15064,7 +15060,7 @@
           "startDate": "2023-04-02T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 78,
             "extra": 0
           },
           "round": {
