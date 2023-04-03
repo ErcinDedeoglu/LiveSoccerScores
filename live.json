@@ -400,9 +400,9 @@
         {
           "startDate": "2023-04-03T03:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -2657,16 +2657,12 @@
         },
         {
           "startDate": "2023-04-03T02:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 93,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAF",
             "short": "LAFC II",
@@ -2691,8 +2687,8 @@
           },
           "agg": null,
           "penalty": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 2,
+            "teamB": 3
           }
         },
         {
