@@ -1800,6 +1800,49 @@
     },
     {
       "competition": {
+        "name": "NPFL",
+        "area": {
+          "name": "Nigeria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-03T07:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "REM",
+            "short": "Remo Stars",
+            "long": "Remo Stars",
+            "full": "Remo Stars FC",
+            "name": "Remo Stars"
+          },
+          "teamB": {
+            "code": "GOM",
+            "short": "Gombe Utd",
+            "long": "Gombe United",
+            "full": "Gombe United FC",
+            "name": "Gombe Utd"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Premiership",
         "area": {
           "name": "Northern Ireland"

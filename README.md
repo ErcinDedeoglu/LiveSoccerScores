@@ -338,6 +338,16 @@
 </div>
 
 
+## <img src="/static/logos/Nigeria-NPFL.png" height="25px"> Nigeria - NPFL
+
+<div align="center">
+
+&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
+| ------------ | ------------ | ------------ | ------------ |
+| <p align="center">FT</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gombe United FC.png" height="25px"> Gombe Utd</p> |
+</div>
+
+
 ## <img src="/static/logos/Northern Ireland-Premiership.png" height="25px"> Northern Ireland - Premiership
 
 <div align="center">
