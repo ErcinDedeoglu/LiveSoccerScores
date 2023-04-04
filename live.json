@@ -698,7 +698,7 @@
           "startDate": "2023-04-04T01:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -722,7 +722,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 0,
@@ -974,9 +974,9 @@
         {
           "startDate": "2023-04-04T01:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 50,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
