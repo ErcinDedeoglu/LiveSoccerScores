@@ -936,9 +936,9 @@
         {
           "startDate": "2023-04-04T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 64,
+            "extra": 0
           },
           "round": {
             "name": "Quarter-finals",
@@ -965,7 +965,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1405,7 +1405,7 @@
           "startDate": "2023-04-04T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -1474,9 +1474,9 @@
         {
           "startDate": "2023-04-04T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 66,
+            "extra": 0
           },
           "round": {
             "name": "Round 2 - League B",
@@ -1502,7 +1502,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -1554,9 +1554,9 @@
         {
           "startDate": "2023-04-04T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 64,
+            "extra": 0
           },
           "round": {
             "name": "S\u00FCdwest",
@@ -1582,8 +1582,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1591,9 +1591,9 @@
         {
           "startDate": "2023-04-04T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
           },
           "round": {
             "name": "S\u00FCdwest",
@@ -1628,9 +1628,9 @@
         {
           "startDate": "2023-04-04T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
           },
           "round": {
             "name": "S\u00FCdwest",
@@ -1665,9 +1665,9 @@
         {
           "startDate": "2023-04-04T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 65,
+            "extra": 0
           },
           "round": {
             "name": "S\u00FCdwest",
@@ -1789,7 +1789,7 @@
           "startDate": "2023-04-04T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -1919,7 +1919,7 @@
           "startDate": "2023-04-04T16:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -1947,7 +1947,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1955,9 +1955,9 @@
         {
           "startDate": "2023-04-04T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 66,
+            "extra": 0
           },
           "round": {
             "name": "Championship Round",
@@ -1983,7 +1983,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1992,9 +1992,9 @@
         {
           "startDate": "2023-04-04T17:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 31,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "Championship Round",
@@ -2020,7 +2020,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2223,12 +2223,16 @@
       "matches": [
         {
           "startDate": "2023-04-04T18:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 19,
+            "extra": 0
+          },
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SPA",
             "short": "Spakenburg",
@@ -2247,7 +2251,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2570,9 +2577,9 @@
         {
           "startDate": "2023-04-04T17:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -2690,9 +2697,9 @@
         {
           "startDate": "2023-04-04T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 8
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2736,12 +2743,16 @@
       "matches": [
         {
           "startDate": "2023-04-04T18:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BAS",
             "short": "Basel",
@@ -2760,7 +2771,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -2919,9 +2933,9 @@
         {
           "startDate": "2023-04-04T17:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Quarter-finals",
