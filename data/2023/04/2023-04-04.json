@@ -153,9 +153,9 @@
         {
           "startDate": "2023-04-04T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 13,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "Group Stage",
@@ -181,7 +181,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -190,9 +190,9 @@
         {
           "startDate": "2023-04-04T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 13,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Group Stage",
@@ -227,9 +227,9 @@
         {
           "startDate": "2023-04-04T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 13,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -675,9 +675,9 @@
         {
           "startDate": "2023-04-04T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 13,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Group Stage",
@@ -712,9 +712,9 @@
         {
           "startDate": "2023-04-04T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 13,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Group Stage",
@@ -826,6 +826,53 @@
             "teamB": 0
           },
           "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Prim B Metro",
+        "area": {
+          "name": "Argentina"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-04T22:00:00Z",
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
+          },
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "AME",
+            "short": "A Merlo",
+            "long": "Argentino Merlo",
+            "full": "CA Argentino de Merlo",
+            "name": "A Merlo"
+          },
+          "teamB": {
+            "code": "TAL",
+            "short": "Talleres",
+            "long": "Talleres Remedios",
+            "full": "CA Talleres Remedios de Escalada",
+            "name": "Talleres"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
