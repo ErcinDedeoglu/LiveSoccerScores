@@ -1260,9 +1260,9 @@
         {
           "startDate": "2023-04-04T11:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Round 2 - League B",
@@ -1359,12 +1359,16 @@
         },
         {
           "startDate": "2023-04-04T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Round 2 - League B",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CYP",
             "short": "Cyprus",
@@ -1383,7 +1387,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1419,16 +1426,12 @@
         },
         {
           "startDate": "2023-04-04T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Round 2 - League B",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ARM",
             "short": "Armenia",
@@ -1448,7 +1451,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 4
           },
           "agg": null,
@@ -1658,7 +1661,7 @@
           "startDate": "2023-04-04T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -1695,7 +1698,7 @@
           "startDate": "2023-04-04T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -2701,9 +2704,9 @@
         {
           "startDate": "2023-04-04T11:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2739,7 +2742,7 @@
           "startDate": "2023-04-04T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -2774,12 +2777,16 @@
         },
         {
           "startDate": "2023-04-04T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "UTD",
             "short": "Bangkok Utd",
@@ -2798,7 +2805,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
