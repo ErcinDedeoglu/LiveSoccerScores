@@ -1284,8 +1284,8 @@
           "startDate": "2023-04-04T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Round 2 - League B",
