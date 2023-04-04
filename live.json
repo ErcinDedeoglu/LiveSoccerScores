@@ -367,9 +367,9 @@
         {
           "startDate": "2023-04-04T16:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 21,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Quarter-finals",
@@ -1022,16 +1022,12 @@
       "matches": [
         {
           "startDate": "2023-04-04T14:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAR",
             "short": "Varnsdorf",
@@ -1051,7 +1047,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 4
           },
           "agg": null,
@@ -1509,7 +1505,7 @@
           "startDate": "2023-04-04T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -1536,8 +1532,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 4,
-            "teamB": 1
+            "teamA": 6,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -1873,12 +1869,16 @@
       "matches": [
         {
           "startDate": "2023-04-04T16:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Championship Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MNT",
             "short": "M Netanya",
@@ -1897,7 +1897,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1975,7 +1978,7 @@
           "startDate": "2023-04-04T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -2012,7 +2015,7 @@
           "startDate": "2023-04-04T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -2035,12 +2038,12 @@
             "name": "Panev\u0117\u017Eys"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -2248,8 +2251,8 @@
           "startDate": "2023-04-04T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Quarter-finals",
@@ -2475,7 +2478,7 @@
           "startDate": "2023-04-04T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 42,
             "extra": 0
           },
           "round": {
