@@ -41,7 +41,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">Córdoba SdE <img src="/static/logos/CA Central Córdoba de Santiago del Estero.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arsenal de Sarandí.png" height="25px"> Arsenal</p> |
+| <p align="center">FT</p> | <p align="right">Córdoba SdE <img src="/static/logos/CA Central Córdoba de Santiago del Estero.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Arsenal de Sarandí.png" height="25px"> Arsenal</p> |
 </div>
 
 
@@ -108,7 +108,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:10</p> | <p align="right">Junior <img src="/static/logos/CD Popular Junior FC SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
+| <p align="center">57'</p> | <p align="right">Junior <img src="/static/logos/CD Popular Junior FC SA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
 </div>
 
 
@@ -169,7 +169,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:30</p> | <p align="right">Puntarenas <img src="/static/logos/Puntarenas FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guadalupe FC.png" height="25px"> Guadalupe</p> |
+| <p align="center">HT</p> | <p align="right">Puntarenas <img src="/static/logos/Puntarenas FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Guadalupe FC.png" height="25px"> Guadalupe</p> |
 </div>
 
 
@@ -401,7 +401,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Brazil <img src="/static/logos/Brazil Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Colombia Under 17.png" height="25px"> Colombia</p> |
+| <p align="center">FT</p> | <p align="right">Brazil <img src="/static/logos/Brazil Under 17.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Colombia Under 17.png" height="25px"> Colombia</p> |
 | <p align="center">21:30</p> | <p align="right">Venezuela <img src="/static/logos/Venezuela Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bolivia Under 17.png" height="25px"> Bolivia</p> |
 </div>
 

@@ -291,16 +291,12 @@
         },
         {
           "startDate": "2023-04-03T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BEL",
             "short": "Belgrano",
@@ -652,16 +648,12 @@
       "matches": [
         {
           "startDate": "2023-04-03T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AUR",
             "short": "Aurora",
@@ -775,16 +767,12 @@
         },
         {
           "startDate": "2023-04-03T23:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATL",
             "short": "Atl\u00E9tico",
