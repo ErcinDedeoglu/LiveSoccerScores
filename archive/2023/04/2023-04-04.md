@@ -218,7 +218,7 @@
 | <p align="center">13:00</p> | <p align="right">Turkey <img src="/static/logos/Turkey Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lithuania Under 19.png" height="25px"> Lithuania</p> |
 | <p align="center">12:00</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kosovo Under 19.png" height="25px"> Kosovo</p> |
 | <p align="center">18:00</p> | <p align="right">N. Ireland <img src="/static/logos/Northern Ireland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Latvia Under 19.png" height="25px"> Latvia</p> |
-| <p align="center">41'</p> | <p align="right">Armenia <img src="/static/logos/Armenia Under 19.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Malta Under 19.png" height="25px"> Malta</p> |
+| <p align="center">45' 1'</p> | <p align="right">Armenia <img src="/static/logos/Armenia Under 19.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Malta Under 19.png" height="25px"> Malta</p> |
 | <p align="center">17:00</p> | <p align="right">Wales <img src="/static/logos/Wales Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kazakhstan Under 19.png" height="25px"> Kazakhstan</p> |
 </div>
 
