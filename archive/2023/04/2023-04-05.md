@@ -39,7 +39,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">22:00</p> | <p align="right">Aucas <img src="/static/logos/SD Aucas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CR Flamengo.png" height="25px"> Flamengo</p> |
 | <p align="center">FT</p> | <p align="right">Medellín <img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/SC Internacional.png" height="25px"> Internacional</p> |
-| <p align="center">75'</p> | <p align="right">Metropolitanos <img src="/static/logos/Metropolitanos FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Nacional de Football Montevideo.png" height="25px"> Nacional</p> |
+| <p align="center">82'</p> | <p align="right">Metropolitanos <img src="/static/logos/Metropolitanos FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Nacional de Football Montevideo.png" height="25px"> Nacional</p> |
 | <p align="center">22:00</p> | <p align="right">Patronato <img src="/static/logos/CA Patronato de la Juventud Católica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Atl. Nacional</p> |
 </div>
 
@@ -94,7 +94,7 @@
 | <p align="center">FT</p> | <p align="right">Charleston <img src="/static/logos/Charleston Battery.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Savannah Clovers FC.png" height="25px"> Clovers</p> |
 | <p align="center">FT</p> | <p align="right">San Antonio <img src="/static/logos/San Antonio FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club De Lyon FC.png" height="25px"> Club De Lyon</p> |
 | <p align="center">FT</p> | <p align="right">New Mexico Utd <img src="/static/logos/New Mexico United.png" height="25px"></p> | <p align="center">6 - 0</p> | <p align="left"><img src="/static/logos/UDA Soccer Academy at NMSU.png" height="25px"> UDA Soccer</p> |
-| <p align="center">68'</p> | <p align="right">Roots <img src="/static/logos/Oakland Roots SC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/El Farolito SC.png" height="25px"> El Farolito</p> |
+| <p align="center">75'</p> | <p align="right">Roots <img src="/static/logos/Oakland Roots SC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/El Farolito SC.png" height="25px"> El Farolito</p> |
 | <p align="center">23:00</p> | <p align="right">Independence <img src="/static/logos/Charlotte Independence.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Appalachian FC.png" height="25px"> Appalachian</p> |
 | <p align="center">23:00</p> | <p align="right">Indy Eleven <img src="/static/logos/Indy Eleven.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Michigan Stars FC.png" height="25px"> Michigan Stars</p> |
 | <p align="center">23:00</p> | <p align="right">Loudoun Utd <img src="/static/logos/Loudoun United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/North Carolina FC.png" height="25px"> North Carolina</p> |
@@ -113,7 +113,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Philadelphia <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"> Atlas</p> |
-| <p align="center">69'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Violette AC.png" height="25px"> Violette</p> |
+| <p align="center">77'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Violette AC.png" height="25px"> Violette</p> |
 </div>
 
 
@@ -127,7 +127,7 @@
 | <p align="center">22:00</p> | <p align="right">Danubio <img src="/static/logos/Danubio Fútbol Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Emelec.png" height="25px"> Emelec</p> |
 | <p align="center">22:00</p> | <p align="right">O. Petrolero <img src="/static/logos/CD Oriente Petrolero.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"> Estudiantes</p> |
 | <p align="center">FT</p> | <p align="right">Blooming <img src="/static/logos/Club Blooming.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Santos FC Sao Paulo.png" height="25px"> Santos</p> |
-| <p align="center">72'</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios FC SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CSD Defensa y Justicia.png" height="25px"> Def y Justicia</p> |
+| <p align="center">80'</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios FC SA.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CSD Defensa y Justicia.png" height="25px"> Def y Justicia</p> |
 | <p align="center">FT</p> | <p align="right">Estudiantes M. <img src="/static/logos/Estudiantes de Mérida FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"> San Lorenzo</p> |
 | <p align="center">22:00</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Palestino.png" height="25px"> Palestino</p> |
 </div>
@@ -160,7 +160,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC Yucatán.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"> Leones Negros</p> |
-| <p align="center">24'</p> | <p align="right">Raya2 <img src="/static/logos/Raya2 Expansión.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CF Alacranes de Durango.png" height="25px"> Durango</p> |
+| <p align="center">31'</p> | <p align="right">Raya2 <img src="/static/logos/Raya2 Expansión.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CF Alacranes de Durango.png" height="25px"> Durango</p> |
 | <p align="center">23:00</p> | <p align="right">Celaya <img src="/static/logos/Celaya CF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
 </div>
 
