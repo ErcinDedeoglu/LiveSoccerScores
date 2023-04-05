@@ -1263,7 +1263,7 @@
           "startDate": "2023-04-05T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 80,
             "extra": 0
           },
           "round": {
