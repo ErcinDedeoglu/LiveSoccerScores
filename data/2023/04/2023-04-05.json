@@ -2331,9 +2331,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 39,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Round 2 - League A",
@@ -2398,9 +2398,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Round 2 - League A",
@@ -2526,7 +2526,7 @@
           "startDate": "2023-04-05T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 81,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -2553,7 +2553,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 7,
+            "teamA": 8,
             "teamB": 0
           },
           "agg": null,
@@ -4033,7 +4033,7 @@
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -4070,8 +4070,8 @@
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Group Stage",
@@ -4107,8 +4107,8 @@
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Group Stage",
@@ -4144,7 +4144,7 @@
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -4171,7 +4171,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -4181,8 +4181,8 @@
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Group Stage",
@@ -4218,7 +4218,7 @@
           "startDate": "2023-04-05T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -4255,7 +4255,7 @@
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -4292,8 +4292,8 @@
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 38,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Group Stage",
@@ -4329,7 +4329,7 @@
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -4356,7 +4356,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -4366,7 +4366,7 @@
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
+            "minute": 45,
             "extra": 0
           },
           "round": {
