@@ -2524,16 +2524,12 @@
         },
         {
           "startDate": "2023-04-05T09:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round 2 - League A",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ESP",
             "short": "Spain",
@@ -4032,9 +4028,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -4069,9 +4065,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -4106,9 +4102,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 2
           },
           "round": {
             "name": "Group Stage",
@@ -4143,9 +4139,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -4180,9 +4176,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -4218,7 +4214,7 @@
           "startDate": "2023-04-05T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -4254,9 +4250,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Group Stage",
@@ -4291,9 +4287,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 2
           },
           "round": {
             "name": "Group Stage",
@@ -4328,9 +4324,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 2
           },
           "round": {
             "name": "Group Stage",
@@ -4365,9 +4361,9 @@
         {
           "startDate": "2023-04-05T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 4
           },
           "round": {
             "name": "Group Stage",
