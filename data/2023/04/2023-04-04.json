@@ -472,16 +472,12 @@
       "matches": [
         {
           "startDate": "2023-04-04T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 58,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HFD",
             "short": "Hartford Ath",
@@ -501,7 +497,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -509,16 +505,12 @@
         },
         {
           "startDate": "2023-04-04T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 57,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MIA",
             "short": "Miami",
@@ -535,10 +527,10 @@
           },
           "redCards": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
@@ -546,16 +538,12 @@
         },
         {
           "startDate": "2023-04-04T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 56,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KNX",
             "short": "One Knoxville",
@@ -575,24 +563,20 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-04T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DET",
             "short": "Detroit City",
@@ -620,16 +604,12 @@
         },
         {
           "startDate": "2023-04-04T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 25,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FCU",
             "short": "Flower City",
@@ -649,24 +629,20 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-04T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TBR",
             "short": "Tampa Bay",
@@ -823,16 +799,12 @@
       "matches": [
         {
           "startDate": "2023-04-04T23:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 58,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TLX",
             "short": "Tlaxcala",
@@ -862,49 +834,6 @@
     },
     {
       "competition": {
-        "name": "Prim B Metro",
-        "area": {
-          "name": "Argentina"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-04-04T22:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "AME",
-            "short": "A Merlo",
-            "long": "Argentino Merlo",
-            "full": "CA Argentino de Merlo",
-            "name": "A Merlo"
-          },
-          "teamB": {
-            "code": "TAL",
-            "short": "Talleres",
-            "long": "Talleres Remedios",
-            "full": "CA Talleres Remedios de Escalada",
-            "name": "Talleres"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Primera Divisi\u00F3n",
         "area": {
           "name": "Bolivia"
@@ -913,16 +842,12 @@
       "matches": [
         {
           "startDate": "2023-04-04T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 67,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WIL",
             "short": "J. Wilstermann",
@@ -943,7 +868,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 0
           },
           "agg": null,
           "penalty": null
@@ -1006,16 +931,12 @@
       "matches": [
         {
           "startDate": "2023-04-04T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 57,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Final",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MUR",
             "short": "Murici",
@@ -1038,7 +959,10 @@
             "teamA": 2,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "penalty": null
         }
       ]
@@ -2788,16 +2712,12 @@
         },
         {
           "startDate": "2023-04-04T21:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 62,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VEN",
             "short": "Venezuela",
