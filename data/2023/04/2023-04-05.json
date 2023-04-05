@@ -1187,7 +1187,7 @@
           "startDate": "2023-04-05T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -2515,9 +2515,9 @@
         {
           "startDate": "2023-04-05T09:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 4
           },
           "round": {
             "name": "Round 2 - League A",
