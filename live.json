@@ -212,16 +212,12 @@
         },
         {
           "startDate": "2023-04-06T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PER",
             "short": "Pereira",
@@ -495,8 +491,8 @@
         {
           "startDate": "2023-04-06T02:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 102,
             "extra": 0
           },
           "round": {
@@ -524,23 +520,19 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-06T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LV",
             "short": "LV Lights",
@@ -568,16 +560,12 @@
         },
         {
           "startDate": "2023-04-06T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "OC",
             "short": "Orange County",
@@ -597,7 +585,7 @@
             "teamB": 1
           },
           "score": {
-            "teamA": 4,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,
@@ -606,8 +594,8 @@
         {
           "startDate": "2023-04-06T02:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 108,
             "extra": 0
           },
           "round": {
@@ -634,8 +622,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 2
+            "teamA": 4,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -677,7 +665,7 @@
           "startDate": "2023-04-06T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -788,16 +776,12 @@
         },
         {
           "startDate": "2023-04-06T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAN",
             "short": "Whitecaps",
@@ -820,7 +804,10 @@
             "teamA": 0,
             "teamB": 3
           },
-          "agg": null,
+          "agg": {
+            "teamA": 0,
+            "teamB": 3
+          },
           "penalty": null
         }
       ]
@@ -975,8 +962,8 @@
         {
           "startDate": "2023-04-06T03:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
+            "type": "SECOND_HALF",
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -1959,16 +1946,12 @@
       "matches": [
         {
           "startDate": "2023-04-06T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ANT",
             "short": "Antigua",
