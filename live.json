@@ -949,16 +949,12 @@
         },
         {
           "startDate": "2023-04-06T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CIM",
             "short": "Cimarrones",
