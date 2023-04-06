@@ -228,16 +228,12 @@
         },
         {
           "startDate": "2023-04-05T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAT",
             "short": "Patronato",
@@ -619,9 +615,9 @@
         {
           "startDate": "2023-04-05T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 5
           },
           "round": {
             "name": "2nd Round",
@@ -656,9 +652,9 @@
         {
           "startDate": "2023-04-05T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 4
           },
           "round": {
             "name": "2nd Round",
@@ -693,9 +689,9 @@
         {
           "startDate": "2023-04-05T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "2nd Round",
@@ -764,7 +760,7 @@
           "startDate": "2023-04-05T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -801,7 +797,7 @@
           "startDate": "2023-04-05T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -838,7 +834,7 @@
           "startDate": "2023-04-05T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -998,16 +994,12 @@
         },
         {
           "startDate": "2023-04-05T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DAN",
             "short": "Danubio",
@@ -1035,16 +1027,12 @@
         },
         {
           "startDate": "2023-04-05T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "OP",
             "short": "O. Petrolero",
@@ -1693,7 +1681,7 @@
           "startDate": "2023-04-05T22:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -1825,9 +1813,9 @@
         {
           "startDate": "2023-04-05T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 6
+            "extra": 9
           },
           "round": {
             "name": "Play-off",
@@ -1853,7 +1841,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -4148,7 +4136,7 @@
           "startDate": "2023-04-05T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -5872,7 +5860,7 @@
           "startDate": "2023-04-05T21:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -5899,7 +5887,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
