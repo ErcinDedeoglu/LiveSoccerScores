@@ -180,7 +180,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Viborg <img src="/static/logos/Viborg FF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Aalborg BK.png" height="25px"> AaB</p> |
-| <p align="center">8'</p> | <p align="right">Silkeborg <img src="/static/logos/Silkeborg IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sønderjysk Elitesport Fodbold.png" height="25px"> SønderjyskE</p> |
+| <p align="center">19'</p> | <p align="right">Silkeborg <img src="/static/logos/Silkeborg IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sønderjysk Elitesport Fodbold.png" height="25px"> SønderjyskE</p> |
 | <p align="center">17:30</p> | <p align="right">Vejle <img src="/static/logos/Vejle Boldklub.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC København.png" height="25px"> København</p> |
 </div>
 
@@ -243,7 +243,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"> PSM</p> |
+| <p align="center">90'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"> PSM</p> |
 </div>
 
 
@@ -267,7 +267,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Torres <img src="/static/logos/ASD Torres.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Carrarese Calcio.png" height="25px"> Carrarese</p> |
-| <p align="center">47'</p> | <p align="right">Sangiuliano <img src="/static/logos/Sangiuliano City Nova FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Juventus Next Gen (Juventus FC II).png" height="25px"> Juventus II</p> |
+| <p align="center">58'</p> | <p align="right">Sangiuliano <img src="/static/logos/Sangiuliano City Nova FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Juventus Next Gen (Juventus FC II).png" height="25px"> Juventus II</p> |
 | <p align="center">16:00</p> | <p align="right">Alessandria <img src="/static/logos/US Alessandria Calcio 1912.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ancona-Matelica Calcio.png" height="25px"> Ancona</p> |
 | <p align="center">18:00</p> | <p align="right">Pergolettese <img src="/static/logos/US Pergolettese 1932.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/LR Vicenza Virtus.png" height="25px"> Vicenza</p> |
 | <p align="center">18:30</p> | <p align="right">Lucchese <img src="/static/logos/AS Lucchese Libertas 1905.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ACD Virtus Entella.png" height="25px"> Virtus</p> |
@@ -287,7 +287,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">53'</p> | <p align="right">Valmiera <img src="/static/logos/FK Valmiera.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"> Tukums</p> |
+| <p align="center">63'</p> | <p align="right">Valmiera <img src="/static/logos/FK Valmiera.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"> Tukums</p> |
 | <p align="center">16:00</p> | <p align="right">Riga <img src="/static/logos/Riga FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Auda Riga.png" height="25px"> Auda</p> |
 </div>
 
@@ -341,7 +341,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Sepsi <img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CS Mioveni.png" height="25px"> Mioveni</p> |
+| <p align="center">19'</p> | <p align="right">Sepsi <img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CS Mioveni.png" height="25px"> Mioveni</p> |
 | <p align="center">18:00</p> | <p align="right">CFR <img src="/static/logos/SCS CFR 1907 Cluj.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ACS Campionii Fotbal Club Argeş.png" height="25px"> Argeș</p> |
 </div>
 
@@ -362,7 +362,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">50'</p> | <p align="right">Novi Pazar <img src="/static/logos/FK Novi Pazar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Radnik Surdulica.png" height="25px"> Radnik</p> |
+| <p align="center">60'</p> | <p align="right">Novi Pazar <img src="/static/logos/FK Novi Pazar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Radnik Surdulica.png" height="25px"> Radnik</p> |
 </div>
 
 
@@ -382,7 +382,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">Rogaška <img src="/static/logos/NK Rogaška.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/NK Kety Emmi Bistrica.png" height="25px"> Bistrica</p> |
+| <p align="center">59'</p> | <p align="right">Rogaška <img src="/static/logos/NK Rogaška.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/NK Kety Emmi Bistrica.png" height="25px"> Bistrica</p> |
 | <p align="center">18:15</p> | <p align="right">Olimpija <img src="/static/logos/NK Olimpija Ljubljana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NK Celje.png" height="25px"> Celje</p> |
 </div>
 
