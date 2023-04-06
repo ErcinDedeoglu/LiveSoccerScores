@@ -1505,7 +1505,7 @@
           "startDate": "2023-04-06T15:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 7,
             "extra": 0
           },
           "round": {
@@ -1542,7 +1542,7 @@
           "startDate": "2023-04-06T15:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 7,
             "extra": 0
           },
           "round": {
@@ -1577,12 +1577,16 @@
         },
         {
           "startDate": "2023-04-06T15:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Bayern",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NU2",
             "short": "N\u00FCrnberg II",
@@ -1601,7 +1605,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1609,7 +1616,7 @@
           "startDate": "2023-04-06T15:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 7,
             "extra": 0
           },
           "round": {
@@ -2061,7 +2068,7 @@
           "startDate": "2023-04-06T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -2229,16 +2236,12 @@
         },
         {
           "startDate": "2023-04-06T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Girone A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SNG",
             "short": "Sangiuliano",
@@ -2576,16 +2579,12 @@
       "matches": [
         {
           "startDate": "2023-04-06T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAL",
             "short": "Valmiera",
@@ -2910,9 +2909,9 @@
         {
           "startDate": "2023-04-06T15:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 5
+            "extra": 6
           },
           "round": {
             "name": "Quarter-finals",
@@ -3026,16 +3025,12 @@
       "matches": [
         {
           "startDate": "2023-04-06T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NOV",
             "short": "Novi Pazar",
@@ -3116,16 +3111,12 @@
       "matches": [
         {
           "startDate": "2023-04-06T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ROG",
             "short": "Roga\u0161ka",
