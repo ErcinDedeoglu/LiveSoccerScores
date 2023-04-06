@@ -3603,6 +3603,49 @@
     },
     {
       "competition": {
+        "name": "U17 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-05T14:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - Preliminary Round",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CFC",
+            "short": "Chemnitzer FC",
+            "long": "Chemnitzer FC U17",
+            "full": "Chemnitzer FC Under 17",
+            "name": "Chemnitzer FC"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Super League 1",
         "area": {
           "name": "Greece"
