@@ -478,7 +478,7 @@
           "startDate": "2023-04-07T01:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -506,7 +506,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1260,7 +1260,7 @@
           "startDate": "2023-04-07T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1287,7 +1287,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -2007,7 +2007,7 @@
           "startDate": "2023-04-07T03:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
+            "minute": 88,
             "extra": 0
           },
           "round": {
