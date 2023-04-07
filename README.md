@@ -157,7 +157,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Western United <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC.png" height="25px"> Central Coast</p> |
-| <p align="center">11'</p> | <p align="right">Adelaide Utd <img src="/static/logos/Adelaide United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney</p> |
+| <p align="center">20'</p> | <p align="right">Adelaide Utd <img src="/static/logos/Adelaide United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney</p> |
 </div>
 
 
