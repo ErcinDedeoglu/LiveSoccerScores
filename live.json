@@ -1701,7 +1701,7 @@
           "startDate": "2023-04-07T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 17,
             "extra": 0
           },
           "round": {
@@ -1991,7 +1991,7 @@
           "startDate": "2023-04-07T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -2028,7 +2028,7 @@
           "startDate": "2023-04-07T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -2065,7 +2065,7 @@
           "startDate": "2023-04-07T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -3942,8 +3942,8 @@
           "startDate": "2023-04-07T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Round 2 - League B",
