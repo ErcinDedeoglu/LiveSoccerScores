@@ -330,16 +330,12 @@
       "matches": [
         {
           "startDate": "2023-04-07T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 48,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MON",
             "short": "Monagas",
@@ -356,7 +352,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "score": {
             "teamA": 0,
@@ -367,16 +363,12 @@
         },
         {
           "startDate": "2023-04-07T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 49,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MEL",
             "short": "Melgar",
@@ -469,6 +461,53 @@
             "teamB": 0
           },
           "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "US Open Cup",
+        "area": {
+          "name": "USA"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-07T01:45:00Z",
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 21,
+            "extra": 0
+          },
+          "round": {
+            "name": "2nd Round",
+            "display": true
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "RIC",
+            "short": "Richmond",
+            "long": "Richmond Kickers",
+            "full": "Richmond Kickers",
+            "name": "Richmond"
+          },
+          "teamB": {
+            "code": "CLE",
+            "short": "Cleveland",
+            "long": "Cleveland SC",
+            "full": "Cleveland SC",
+            "name": "Cleveland"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -854,16 +893,12 @@
       "matches": [
         {
           "startDate": "2023-04-07T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 52,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAG",
             "short": "Magallanes",
@@ -883,24 +918,20 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-07T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 50,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAC",
             "short": "Tacuary",
@@ -921,23 +952,19 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-07T00:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 11
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "APC",
             "short": "Puerto Cabello",
@@ -958,23 +985,19 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-07T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 52,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TIG",
             "short": "Tigre",
@@ -995,7 +1018,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1203,9 +1226,9 @@
         {
           "startDate": "2023-04-07T01:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 1,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Clausura",
@@ -1231,7 +1254,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1698,6 +1721,46 @@
             "long": "Gimnasia Jujuy",
             "full": "Gimnasia y Esgrima de Jujuy",
             "name": "Gimn Jujuy"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Prim B Metro",
+        "area": {
+          "name": "Argentina"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-07T22:10:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "ITU",
+            "short": "Ituzaing\u00F3",
+            "long": "Ituzaing\u00F3",
+            "full": "CA Ituzaing\u00F3",
+            "name": "Ituzaing\u00F3"
+          },
+          "teamB": {
+            "code": "VSC",
+            "short": "Villa SC",
+            "long": "Villa San Carlos",
+            "full": "CA Villa San Carlos",
+            "name": "Villa SC"
           },
           "redCards": {
             "teamA": 0,
@@ -6199,16 +6262,12 @@
       "matches": [
         {
           "startDate": "2023-04-07T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 50,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PER",
             "short": "Peru",

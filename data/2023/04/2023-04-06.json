@@ -700,36 +700,6 @@
           },
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-04-06T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "2nd Round",
-            "display": true
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "RIC",
-            "short": "Richmond",
-            "long": "Richmond Kickers",
-            "full": "Richmond Kickers",
-            "name": "Richmond"
-          },
-          "teamB": {
-            "code": "CLE",
-            "short": "Cleveland",
-            "long": "Cleveland SC",
-            "full": "Cleveland SC",
-            "name": "Cleveland"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
         }
       ]
     },
@@ -3624,16 +3594,12 @@
         },
         {
           "startDate": "2023-04-06T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ARG",
             "short": "Argentina",
@@ -3657,7 +3623,10 @@
             "teamB": 1
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 6,
+            "teamB": 7
+          }
         }
       ]
     }
