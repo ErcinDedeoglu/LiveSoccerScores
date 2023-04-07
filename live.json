@@ -434,9 +434,9 @@
         {
           "startDate": "2023-04-07T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -472,7 +472,7 @@
           "startDate": "2023-04-07T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -1385,7 +1385,7 @@
           "startDate": "2023-04-07T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 12,
             "extra": 0
           },
           "round": {
@@ -1465,7 +1465,7 @@
           "startDate": "2023-04-07T21:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -1584,9 +1584,9 @@
         {
           "startDate": "2023-04-07T22:10:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 50,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -2356,7 +2356,7 @@
           "startDate": "2023-04-07T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -2383,7 +2383,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -7166,7 +7166,7 @@
           "startDate": "2023-04-07T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 56,
             "extra": 0
           },
           "round": {
