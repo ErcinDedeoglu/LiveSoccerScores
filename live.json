@@ -1666,16 +1666,12 @@
         },
         {
           "startDate": "2023-04-07T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NWS",
             "short": "NWS Spirit",
@@ -1988,7 +1984,7 @@
           "startDate": "2023-04-07T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 9,
             "extra": 0
           },
           "round": {
@@ -2025,7 +2021,7 @@
           "startDate": "2023-04-07T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 9,
             "extra": 0
           },
           "round": {
@@ -2062,7 +2058,7 @@
           "startDate": "2023-04-07T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 10,
             "extra": 0
           },
           "round": {
@@ -3939,7 +3935,7 @@
           "startDate": "2023-04-07T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -3967,7 +3963,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 3
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
