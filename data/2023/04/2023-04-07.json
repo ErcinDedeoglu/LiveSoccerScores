@@ -1221,16 +1221,12 @@
       "matches": [
         {
           "startDate": "2023-04-07T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAP",
             "short": "Tapat\u00EDo",

@@ -177,7 +177,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">Tapatío <img src="/static/logos/CD Tapatío.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"> Dorados</p> |
+| <p align="center">FT</p> | <p align="right">Tapatío <img src="/static/logos/CD Tapatío.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"> Dorados</p> |
 | <p align="center">03:05</p> | <p align="right">Atlante <img src="/static/logos/Club Atlante.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Correcaminos de la UAT.png" height="25px"> Correcaminos</p> |
 | <p align="center">23:00</p> | <p align="right">Alebrijes <img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cancún FC.png" height="25px"> Cancún</p> |
 </div>
