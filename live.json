@@ -1701,7 +1701,7 @@
           "startDate": "2023-04-07T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -1991,7 +1991,7 @@
           "startDate": "2023-04-07T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -2028,7 +2028,7 @@
           "startDate": "2023-04-07T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -2063,16 +2063,12 @@
         },
         {
           "startDate": "2023-04-07T09:15:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 33,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "FIXTURE",
           "teamA": {
             "code": "RAH",
             "short": "Rahmatgonj",
@@ -2091,10 +2087,7 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": {
-            "teamA": 0,
-            "teamB": 0
-          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
@@ -3940,16 +3933,12 @@
         },
         {
           "startDate": "2023-04-07T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Round 2 - League B",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MDA",
             "short": "Moldova",
