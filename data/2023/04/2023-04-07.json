@@ -1100,16 +1100,12 @@
       "matches": [
         {
           "startDate": "2023-04-07T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 59,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AGD",
             "short": "\u00C1guilas D",
@@ -1129,7 +1125,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -1375,16 +1371,12 @@
         },
         {
           "startDate": "2023-04-07T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 55,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALE",
             "short": "Alebrijes",
@@ -1705,7 +1697,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "FVE",
             "short": "Emerging",
@@ -1724,7 +1716,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 4,
+            "teamB": 4
+          },
           "agg": null,
           "penalty": null
         }
@@ -1854,7 +1849,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "RESULT",
+          "status": "SUSPENDED",
           "teamA": {
             "code": "LEI",
             "short": "Leichhardt",
@@ -1874,7 +1869,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 0,
             "teamB": 0
           },
           "agg": null,
@@ -2338,16 +2333,12 @@
       "matches": [
         {
           "startDate": "2023-04-07T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 66,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAP",
             "short": "Palmaflor",
@@ -2367,8 +2358,8 @@
             "teamB": 1
           },
           "score": {
-            "teamA": 3,
-            "teamB": 0
+            "teamA": 4,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4074,7 +4065,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "REA",
             "short": "Reading",
@@ -4093,7 +4084,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -7192,9 +7186,9 @@
         {
           "startDate": "2023-04-07T23:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 84,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -7221,7 +7215,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
