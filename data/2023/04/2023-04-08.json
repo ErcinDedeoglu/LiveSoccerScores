@@ -2045,12 +2045,16 @@
         },
         {
           "startDate": "2023-04-08T09:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MAC",
             "short": "Macarthur",
@@ -2069,7 +2073,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2960,7 +2967,7 @@
           "startDate": "2023-04-08T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -2997,8 +3004,8 @@
           "startDate": "2023-04-08T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
-            "extra": 0
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -3024,7 +3031,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -3076,9 +3083,9 @@
         {
           "startDate": "2023-04-08T08:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -3114,7 +3121,7 @@
           "startDate": "2023-04-08T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -3142,7 +3149,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3225,16 +3232,12 @@
         },
         {
           "startDate": "2023-04-08T07:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SOU",
             "short": "Southern Utd",
@@ -3250,7 +3253,7 @@
             "name": "Preston Lions"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -3264,7 +3267,7 @@
           "startDate": "2023-04-08T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -3291,7 +3294,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -3374,7 +3377,7 @@
           "startDate": "2023-04-08T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -3561,7 +3564,7 @@
           "startDate": "2023-04-08T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -3598,7 +3601,7 @@
           "startDate": "2023-04-08T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -3625,7 +3628,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -4886,7 +4889,7 @@
           "startDate": "2023-04-08T08:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -4913,7 +4916,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -5516,7 +5519,7 @@
           "startDate": "2023-04-08T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -5543,8 +5546,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 0
+            "teamA": 5,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -5583,8 +5586,8 @@
           "startDate": "2023-04-08T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Round 2 - League B",
@@ -5610,7 +5613,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -5738,12 +5741,16 @@
         },
         {
           "startDate": "2023-04-08T09:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Round 2 - League B",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SCO",
             "short": "Scotland",
@@ -5762,7 +5769,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -8317,7 +8327,7 @@
           "startDate": "2023-04-08T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -8344,7 +8354,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 5
           },
           "agg": null,
@@ -8496,7 +8506,7 @@
           "startDate": "2023-04-08T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -8713,12 +8723,16 @@
         },
         {
           "startDate": "2023-04-08T09:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 17,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JDR",
             "short": "Dragons",
@@ -8737,7 +8751,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -13301,7 +13318,7 @@
           "startDate": "2023-04-08T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -13328,7 +13345,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
