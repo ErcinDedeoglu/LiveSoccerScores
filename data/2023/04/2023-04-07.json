@@ -2168,39 +2168,6 @@
           },
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-04-07T09:15:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "RAH",
-            "short": "Rahmatgonj",
-            "long": "Rahmatgonj MFS",
-            "full": "Rahmatgonj Muslim Friends Society",
-            "name": "Rahmatgonj"
-          },
-          "teamB": {
-            "code": "JAM",
-            "short": "Jamal",
-            "long": "Sheikh Jamal",
-            "full": "Sheikh Jamal Dhanmondi Club",
-            "name": "Jamal"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
         }
       ]
     },
@@ -7378,39 +7345,6 @@
         }
       },
       "matches": [
-        {
-          "startDate": "2023-04-07T10:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Friendlies 1",
-            "display": false
-          },
-          "status": "SUSPENDED",
-          "teamA": {
-            "code": "KOR",
-            "short": "Korea Republic",
-            "long": "Korea Republic",
-            "full": "Korea Republic",
-            "name": "Korea Republic"
-          },
-          "teamB": {
-            "code": "ZAM",
-            "short": "Zambia",
-            "long": "Zambia",
-            "full": "Zambia",
-            "name": "Zambia"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
-        },
         {
           "startDate": "2023-04-07T11:00:00Z",
           "period": null,
