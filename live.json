@@ -1092,7 +1092,7 @@
           "startDate": "2023-04-08T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -1617,16 +1617,12 @@
       "matches": [
         {
           "startDate": "2023-04-08T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAL",
             "short": "Talleres",
@@ -1654,16 +1650,12 @@
         },
         {
           "startDate": "2023-04-08T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VEL",
             "short": "V\u00E9lez",
@@ -1684,7 +1676,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
