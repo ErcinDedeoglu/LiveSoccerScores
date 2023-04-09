@@ -912,7 +912,7 @@
           "startDate": "2023-04-09T10:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -939,7 +939,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1896,7 +1896,7 @@
           "startDate": "2023-04-09T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -2915,7 +2915,7 @@
           "startDate": "2023-04-09T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -3394,16 +3394,12 @@
       "matches": [
         {
           "startDate": "2023-04-09T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DOR",
             "short": "Dornbirn",
@@ -4694,16 +4690,12 @@
       "matches": [
         {
           "startDate": "2023-04-09T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SP2",
             "short": "Sparta II",
@@ -6530,7 +6522,7 @@
           "startDate": "2023-04-09T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -6730,7 +6722,7 @@
           "startDate": "2023-04-09T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -7067,7 +7059,7 @@
           "startDate": "2023-04-09T10:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -7614,7 +7606,7 @@
           "startDate": "2023-04-09T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -9357,7 +9349,7 @@
           "startDate": "2023-04-09T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -9394,7 +9386,7 @@
           "startDate": "2023-04-09T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -9471,7 +9463,7 @@
           "startDate": "2023-04-09T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 27,
             "extra": 0
           },
           "round": {
