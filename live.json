@@ -1757,7 +1757,7 @@
           "startDate": "2023-04-09T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -1784,7 +1784,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -1794,7 +1794,7 @@
           "startDate": "2023-04-09T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -1831,7 +1831,7 @@
           "startDate": "2023-04-09T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1868,7 +1868,7 @@
           "startDate": "2023-04-09T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -2982,16 +2982,12 @@
         },
         {
           "startDate": "2023-04-09T05:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SCW",
             "short": "Sunshine Coast",
@@ -3020,9 +3016,9 @@
         {
           "startDate": "2023-04-09T07:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -3048,7 +3044,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -3210,9 +3206,9 @@
         {
           "startDate": "2023-04-09T06:40:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -3248,7 +3244,7 @@
           "startDate": "2023-04-09T07:10:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -6231,7 +6227,7 @@
           "startDate": "2023-04-09T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 81,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -6453,8 +6449,8 @@
           "startDate": "2023-04-09T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -6480,7 +6476,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 4,
+            "teamA": 5,
             "teamB": 3
           },
           "agg": null,
@@ -6490,7 +6486,7 @@
           "startDate": "2023-04-09T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -6599,9 +6595,9 @@
         {
           "startDate": "2023-04-09T07:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
