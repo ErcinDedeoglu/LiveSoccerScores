@@ -1757,8 +1757,8 @@
           "startDate": "2023-04-09T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -1794,8 +1794,8 @@
           "startDate": "2023-04-09T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 8
           },
           "round": {
             "name": "Regular Season",
@@ -1829,16 +1829,12 @@
         },
         {
           "startDate": "2023-04-09T06:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NGO",
             "short": "Nagoya",
@@ -1868,8 +1864,8 @@
           "startDate": "2023-04-09T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -3207,7 +3203,7 @@
           "startDate": "2023-04-09T06:40:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 56,
             "extra": 0
           },
           "round": {
@@ -3244,8 +3240,8 @@
           "startDate": "2023-04-09T07:10:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -6225,16 +6221,12 @@
       "matches": [
         {
           "startDate": "2023-04-09T06:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ROS",
             "short": "Kumamoto",
@@ -6450,7 +6442,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 1
+            "extra": 9
           },
           "round": {
             "name": "Regular Season",
@@ -6486,7 +6478,7 @@
           "startDate": "2023-04-09T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -6597,7 +6589,7 @@
           "period": {
             "type": "HALF_TIME",
             "minute": 45,
-            "extra": 4
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
