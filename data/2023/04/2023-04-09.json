@@ -1661,9 +1661,9 @@
         {
           "startDate": "2023-04-09T05:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 4
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2939,7 +2939,7 @@
           "startDate": "2023-04-09T05:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 9,
             "extra": 0
           },
           "round": {
@@ -2976,7 +2976,7 @@
           "startDate": "2023-04-09T05:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 9,
             "extra": 0
           },
           "round": {
@@ -3122,8 +3122,8 @@
         {
           "startDate": "2023-04-09T05:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -6244,16 +6244,12 @@
       "matches": [
         {
           "startDate": "2023-04-09T04:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GAI",
             "short": "Gainare",
@@ -6283,8 +6279,8 @@
           "startDate": "2023-04-09T04:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -6541,7 +6537,7 @@
           "startDate": "2023-04-09T04:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 70,
             "extra": 0
           },
           "round": {
