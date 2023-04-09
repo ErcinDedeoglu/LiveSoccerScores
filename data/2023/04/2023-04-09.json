@@ -2833,16 +2833,12 @@
       "matches": [
         {
           "startDate": "2023-04-09T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LIO",
             "short": "Lions",
@@ -2870,16 +2866,12 @@
         },
         {
           "startDate": "2023-04-09T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SCW",
             "short": "SC Wanderers",
@@ -2900,7 +2892,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2908,9 +2900,9 @@
         {
           "startDate": "2023-04-09T09:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -3055,7 +3047,7 @@
           "startDate": "2023-04-09T08:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -3100,16 +3092,12 @@
       "matches": [
         {
           "startDate": "2023-04-09T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HDB",
             "short": "Heidelberg",
@@ -3398,7 +3386,7 @@
           "startDate": "2023-04-09T08:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -4698,7 +4686,7 @@
           "startDate": "2023-04-09T08:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -4725,7 +4713,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -6530,12 +6518,16 @@
         },
         {
           "startDate": "2023-04-09T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GAN",
             "short": "Gangwon",
@@ -6554,7 +6546,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -6638,7 +6633,7 @@
           "startDate": "2023-04-09T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -7593,12 +7588,16 @@
       "matches": [
         {
           "startDate": "2023-04-09T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Relegation Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHI",
             "short": "Chindia",
@@ -7617,7 +7616,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
