@@ -691,7 +691,7 @@
           "startDate": "2023-04-10T06:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 31,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -718,7 +718,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -948,7 +948,7 @@
           "startDate": "2023-04-10T06:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 37,
             "extra": 0
           },
           "round": {
