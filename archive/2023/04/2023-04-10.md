@@ -293,7 +293,7 @@
 | <p align="center">14:00</p> | <p align="right">Maidenhead Utd <img src="/static/logos/Maidenhead United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Torquay United FC.png" height="25px"> Torquay</p> |
 | <p align="center">14:00</p> | <p align="right">Maidstone Utd <img src="/static/logos/Maidstone United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Barnet FC.png" height="25px"> Barnet</p> |
 | <p align="center">14:00</p> | <p align="right">Scunthorpe <img src="/static/logos/Scunthorpe United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oldham Athletic AFC.png" height="25px"> Oldham</p> |
-| <p align="center">14:00</p> | <p align="right">Wealdstone <img src="/static/logos/Wealdstone FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Solihull Moors FC.png" height="25px"> Solihull</p> |
+| <p align="center">POS</p> | <p align="right">Wealdstone <img src="/static/logos/Wealdstone FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Solihull Moors FC.png" height="25px"> Solihull</p> |
 | <p align="center">14:00</p> | <p align="right">Woking <img src="/static/logos/Woking FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Southend United FC.png" height="25px"> Southend</p> |
 | <p align="center">14:00</p> | <p align="right">Wrexham <img src="/static/logos/Wrexham FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Notts County FC.png" height="25px"> Notts</p> |
 | <p align="center">14:00</p> | <p align="right">Yeovil <img src="/static/logos/Yeovil Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorking Wanderers FC.png" height="25px"> Dorking W</p> |
@@ -321,7 +321,7 @@
 | <p align="center">11:00</p> | <p align="right">Macedonia <img src="/static/logos/North Macedonia Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Israel Under 19.png" height="25px"> Israel</p> |
 | <p align="center">11:00</p> | <p align="right">Kosovo <img src="/static/logos/Kosovo Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northern Ireland Under 19.png" height="25px"> N. Ireland</p> |
 | <p align="center">11:00</p> | <p align="right">Latvia <img src="/static/logos/Latvia Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cyprus Under 19.png" height="25px"> Cyprus</p> |
-| <p align="center">19'</p> | <p align="right">Faroe Islands <img src="/static/logos/Faroe Islands Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Armenia Under 19.png" height="25px"> Armenia</p> |
+| <p align="center">36'</p> | <p align="right">Faroe Islands <img src="/static/logos/Faroe Islands Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Armenia Under 19.png" height="25px"> Armenia</p> |
 | <p align="center">11:00</p> | <p align="right">Estonia <img src="/static/logos/Estonia Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wales Under 19.png" height="25px"> Wales</p> |
 </div>
 
@@ -433,7 +433,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:30</p> | <p align="right">Benevento <img src="/static/logos/Benevento Calcio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Società Polisportiva Ars et Labor 2013.png" height="25px"> SPAL</p> |
+| <p align="center">4'</p> | <p align="right">Benevento <img src="/static/logos/Benevento Calcio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Società Polisportiva Ars et Labor 2013.png" height="25px"> SPAL</p> |
 | <p align="center">13:00</p> | <p align="right">Brescia <img src="/static/logos/Brescia Calcio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ternana Calcio.png" height="25px"> Ternana</p> |
 | <p align="center">13:00</p> | <p align="right">Cittadella <img src="/static/logos/AS Cittadella.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma</p> |
 | <p align="center">13:00</p> | <p align="right">Como <img src="/static/logos/Calcio Como.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Genoa CFC.png" height="25px"> Genoa</p> |
