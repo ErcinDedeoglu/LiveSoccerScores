@@ -2949,7 +2949,7 @@
           "startDate": "2023-04-10T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 19,
             "extra": 0
           },
           "round": {
