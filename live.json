@@ -83,16 +83,12 @@
         },
         {
           "startDate": "2023-04-10T02:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "JUA",
             "short": "Ju\u00E1rez",
