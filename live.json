@@ -52,7 +52,7 @@
           "startDate": "2023-04-10T00:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -79,8 +79,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -167,12 +167,16 @@
       "matches": [
         {
           "startDate": "2023-04-10T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BOC",
             "short": "Boca Juniors",
@@ -191,7 +195,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -6849,7 +6856,7 @@
           "startDate": "2023-04-10T00:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -6886,7 +6893,7 @@
           "startDate": "2023-04-10T00:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -6914,19 +6921,23 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-10T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 8,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NTX",
             "short": "North Texas",
@@ -6945,7 +6956,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -7023,7 +7037,7 @@
           "startDate": "2023-04-10T00:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -7046,11 +7060,11 @@
             "name": "Portuguesa"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
