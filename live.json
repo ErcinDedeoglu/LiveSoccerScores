@@ -85,7 +85,7 @@
           "startDate": "2023-04-10T02:10:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -113,7 +113,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -170,16 +170,12 @@
       "matches": [
         {
           "startDate": "2023-04-10T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BOC",
             "short": "Boca Juniors",
@@ -200,7 +196,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1158,9 +1154,9 @@
         {
           "startDate": "2023-04-10T01:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -6930,16 +6926,12 @@
         },
         {
           "startDate": "2023-04-10T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NTX",
             "short": "North Texas",
@@ -6969,7 +6961,7 @@
           "startDate": "2023-04-10T02:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 38,
             "extra": 0
           },
           "round": {
