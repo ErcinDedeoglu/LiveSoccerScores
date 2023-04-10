@@ -2947,12 +2947,16 @@
         },
         {
           "startDate": "2023-04-10T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Round 2 - League B",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "FRO",
             "short": "Faroe Islands",
@@ -2971,7 +2975,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
