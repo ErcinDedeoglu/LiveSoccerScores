@@ -57,7 +57,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:30</p> | <p align="right">Huddersfield <img src="/static/logos/Huddersfield Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackburn Rovers FC.png" height="25px"> Blackburn</p> |
+| <p align="center">2'</p> | <p align="right">Huddersfield <img src="/static/logos/Huddersfield Town FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blackburn Rovers FC.png" height="25px"> Blackburn</p> |
 | <p align="center">14:00</p> | <p align="right">Birmingham <img src="/static/logos/Birmingham City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stoke City FC.png" height="25px"> Stoke</p> |
 | <p align="center">14:00</p> | <p align="right">Cardiff <img src="/static/logos/Cardiff City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sunderland AFC.png" height="25px"> Sunderland</p> |
 | <p align="center">14:00</p> | <p align="right">Coventry <img src="/static/logos/Coventry City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Watford FC.png" height="25px"> Watford</p> |
@@ -211,7 +211,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Hobro <img src="/static/logos/Hobro IK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hillerød Fodbold.png" height="25px"> Hillerød</p> |
+| <p align="center">30'</p> | <p align="right">Hobro <img src="/static/logos/Hobro IK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hillerød Fodbold.png" height="25px"> Hillerød</p> |
 | <p align="center">12:00</p> | <p align="right">Vendsyssel <img src="/static/logos/Vendsyssel FF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vejle Boldklub.png" height="25px"> Vejle</p> |
 | <p align="center">13:00</p> | <p align="right">SønderjyskE <img src="/static/logos/Sønderjysk Elitesport Fodbold.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Næstved BK.png" height="25px"> Næstved</p> |
 </div>
@@ -317,12 +317,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Gibraltar <img src="/static/logos/Gibraltar Under 19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Georgia Under 19.png" height="25px"> Georgia</p> |
-| <p align="center">16'</p> | <p align="right">Macedonia <img src="/static/logos/North Macedonia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Israel Under 19.png" height="25px"> Israel</p> |
-| <p align="center">17'</p> | <p align="right">Kosovo <img src="/static/logos/Kosovo Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Northern Ireland Under 19.png" height="25px"> N. Ireland</p> |
-| <p align="center">16'</p> | <p align="right">Latvia <img src="/static/logos/Latvia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cyprus Under 19.png" height="25px"> Cyprus</p> |
-| <p align="center">56'</p> | <p align="right">Faroe Islands <img src="/static/logos/Faroe Islands Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Armenia Under 19.png" height="25px"> Armenia</p> |
-| <p align="center">13'</p> | <p align="right">Estonia <img src="/static/logos/Estonia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wales Under 19.png" height="25px"> Wales</p> |
+| <p align="center">32'</p> | <p align="right">Gibraltar <img src="/static/logos/Gibraltar Under 19.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Georgia Under 19.png" height="25px"> Georgia</p> |
+| <p align="center">31'</p> | <p align="right">Macedonia <img src="/static/logos/North Macedonia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Israel Under 19.png" height="25px"> Israel</p> |
+| <p align="center">32'</p> | <p align="right">Kosovo <img src="/static/logos/Kosovo Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Northern Ireland Under 19.png" height="25px"> N. Ireland</p> |
+| <p align="center">31'</p> | <p align="right">Latvia <img src="/static/logos/Latvia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cyprus Under 19.png" height="25px"> Cyprus</p> |
+| <p align="center">71'</p> | <p align="right">Faroe Islands <img src="/static/logos/Faroe Islands Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Armenia Under 19.png" height="25px"> Armenia</p> |
+| <p align="center">28'</p> | <p align="right">Estonia <img src="/static/logos/Estonia Under 19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Wales Under 19.png" height="25px"> Wales</p> |
 </div>
 
 
@@ -433,7 +433,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Benevento <img src="/static/logos/Benevento Calcio.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Società Polisportiva Ars et Labor 2013.png" height="25px"> SPAL</p> |
+| <p align="center">HT</p> | <p align="right">Benevento <img src="/static/logos/Benevento Calcio.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Società Polisportiva Ars et Labor 2013.png" height="25px"> SPAL</p> |
 | <p align="center">13:00</p> | <p align="right">Brescia <img src="/static/logos/Brescia Calcio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ternana Calcio.png" height="25px"> Ternana</p> |
 | <p align="center">13:00</p> | <p align="right">Cittadella <img src="/static/logos/AS Cittadella.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma</p> |
 | <p align="center">13:00</p> | <p align="right">Como <img src="/static/logos/Calcio Como.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Genoa CFC.png" height="25px"> Genoa</p> |
@@ -452,7 +452,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Tukums <img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Riga FC.png" height="25px"> Riga</p> |
+| <p align="center">31'</p> | <p align="right">Tukums <img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Riga FC.png" height="25px"> Riga</p> |
 | <p align="center">13:00</p> | <p align="right">Auda <img src="/static/logos/FK Auda Riga.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Rīgas Futbola skola.png" height="25px"> RFS</p> |
 </div>
 
@@ -683,7 +683,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Värnamo <img src="/static/logos/IFK Värnamo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mjällby AIF.png" height="25px"> Mjällby</p> |
+| <p align="center">32'</p> | <p align="right">Värnamo <img src="/static/logos/IFK Värnamo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mjällby AIF.png" height="25px"> Mjällby</p> |
 | <p align="center">13:00</p> | <p align="right">AIK <img src="/static/logos/AIK Fotboll.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IFK Norrköping.png" height="25px"> Norrköping</p> |
 | <p align="center">13:00</p> | <p align="right">Varberg <img src="/static/logos/Varbergs BoIS FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IF Elfsborg.png" height="25px"> Elfsborg</p> |
 </div>
@@ -695,7 +695,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Gefle <img src="/static/logos/Gefle IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Helsingborgs IF.png" height="25px"> Helsingborg</p> |
+| <p align="center">32'</p> | <p align="right">Gefle <img src="/static/logos/Gefle IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Helsingborgs IF.png" height="25px"> Helsingborg</p> |
 | <p align="center">13:00</p> | <p align="right">Öster <img src="/static/logos/Östers IF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Trelleborgs FF.png" height="25px"> Trelleborg</p> |
 | <p align="center">13:00</p> | <p align="right">Västerås <img src="/static/logos/Västerås SK Fotboll.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Örgryte IS.png" height="25px"> Örgryte</p> |
 | <p align="center">15:00</p> | <p align="right">AFC Eskilstuna <img src="/static/logos/AFC Eskilstuna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/GIF Sundsvall.png" height="25px"> Sundsvall</p> |
@@ -779,7 +779,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Finland.png" height="25px"> Finland</p> |
+| <p align="center">32'</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Finland.png" height="25px"> Finland</p> |
 </div>
 
 
