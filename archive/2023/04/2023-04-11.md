@@ -28,7 +28,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Barracas C <img src="/static/logos/CA Barracas Central.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Platense.png" height="25px"> Platense</p> |
-| <p align="center">45' 1'</p> | <p align="right">Argentinos <img src="/static/logos/Argentinos Juniors.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CA Unión de Santa Fe.png" height="25px"> Unión</p> |
+| <p align="center">63'</p> | <p align="right">Argentinos <img src="/static/logos/Argentinos Juniors.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/CA Unión de Santa Fe.png" height="25px"> Unión</p> |
 </div>
 
 
@@ -38,7 +38,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Forward <img src="/static/logos/Forward Madison FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chicago House AC.png" height="25px"> Chicago House</p> |
+| <p align="center">16'</p> | <p align="right">Forward <img src="/static/logos/Forward Madison FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chicago House AC.png" height="25px"> Chicago House</p> |
 </div>
 
 
@@ -49,8 +49,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Dep. Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/AD Pasto.png" height="25px"> Pasto</p> |
-| <p align="center">88'</p> | <p align="right">Equidad <img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Once Caldas SA.png" height="25px"> Once Caldas</p> |
-| <p align="center">23:10</p> | <p align="right">Huila <img src="/static/logos/CD Atlético Huila.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Millonarios FC SA.png" height="25px"> Millonarios</p> |
+| <p align="center">FT</p> | <p align="right">Equidad <img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Once Caldas SA.png" height="25px"> Once Caldas</p> |
+| <p align="center">11'</p> | <p align="right">Huila <img src="/static/logos/CD Atlético Huila.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Millonarios FC SA.png" height="25px"> Millonarios</p> |
 </div>
 
 
@@ -60,7 +60,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:05</p> | <p align="right">Mineros <img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"> Cimarrones</p> |
+| <p align="center">16'</p> | <p align="right">Mineros <img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"> Cimarrones</p> |
 </div>
 
 
@@ -113,8 +113,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Volta Redonda <img src="/static/logos/Volta Redonda FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/EC Bahia.png" height="25px"> Bahia</p> |
-| <p align="center">45' 3'</p> | <p align="right">Botafogo SP <img src="/static/logos/Botafogo FC Ribeirão Preto.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Santos FC Sao Paulo.png" height="25px"> Santos</p> |
-| <p align="center">23:00</p> | <p align="right">Internacional <img src="/static/logos/SC Internacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Alagoano.png" height="25px"> CSA</p> |
+| <p align="center">60'</p> | <p align="right">Botafogo SP <img src="/static/logos/Botafogo FC Ribeirão Preto.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Santos FC Sao Paulo.png" height="25px"> Santos</p> |
+| <p align="center">24'</p> | <p align="right">Internacional <img src="/static/logos/SC Internacional.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CS Alagoano.png" height="25px"> CSA</p> |
 </div>
 
 
@@ -397,7 +397,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Argentina <img src="/static/logos/Argentina Under 17.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Chile Under 17.png" height="25px"> Chile</p> |
-| <p align="center">57'</p> | <p align="right">Brazil <img src="/static/logos/Brazil Under 17.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
+| <p align="center">90' 1'</p> | <p align="right">Brazil <img src="/static/logos/Brazil Under 17.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
 </div>
 
 
