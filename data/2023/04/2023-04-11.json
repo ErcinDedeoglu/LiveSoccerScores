@@ -191,9 +191,9 @@
         {
           "startDate": "2023-04-11T01:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -219,7 +219,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -667,9 +667,9 @@
         {
           "startDate": "2023-04-11T01:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 60,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -695,7 +695,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -715,7 +715,7 @@
           "startDate": "2023-04-11T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -742,8 +742,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1995,8 +1995,8 @@
           "startDate": "2023-04-11T00:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Apertura",
