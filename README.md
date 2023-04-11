@@ -70,7 +70,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:45</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
+| <p align="center">3'</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
 </div>
 
 
@@ -210,8 +210,8 @@
 | <p align="center">15:00</p> | <p align="right">Germany <img src="/static/logos/Germany Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Norway Under 19.png" height="25px"> Norway</p> |
 | <p align="center">FT</p> | <p align="right">Czech Rep. <img src="/static/logos/Czech Republic Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Switzerland Under 19.png" height="25px"> Switzerland</p> |
 | <p align="center">FT</p> | <p align="right">Poland <img src="/static/logos/Poland Under 19.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/Serbia Under 19.png" height="25px"> Serbia</p> |
-| <p align="center">10'</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/France Under 19.png" height="25px"> France</p> |
-| <p align="center">10'</p> | <p align="right">Romania <img src="/static/logos/Romania Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hungary Under 19.png" height="25px"> Hungary</p> |
+| <p align="center">17'</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/France Under 19.png" height="25px"> France</p> |
+| <p align="center">17'</p> | <p align="right">Romania <img src="/static/logos/Romania Under 19.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Hungary Under 19.png" height="25px"> Hungary</p> |
 | <p align="center">FT</p> | <p align="right">Belarus <img src="/static/logos/Belarus Under 19.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Slovenia Under 19.png" height="25px"> Slovenia</p> |
 | <p align="center">FT</p> | <p align="right">England <img src="/static/logos/England Under 19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Spain Under 19.png" height="25px"> Spain</p> |
 | <p align="center">FT</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan Under 19.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Slovakia Under 19.png" height="25px"> Slovakia</p> |
@@ -241,7 +241,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Persebaya <img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arema FC.png" height="25px"> Arema</p> |
+| <p align="center">59'</p> | <p align="right">Persebaya <img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arema FC.png" height="25px"> Arema</p> |
 </div>
 
 
@@ -251,8 +251,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Daugavpils <img src="/static/logos/BFC Daugavpils.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Valmiera.png" height="25px"> Valmiera</p> |
-| <p align="center">40'</p> | <p align="right">Super Nova <img src="/static/logos/SK Super Nova.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FK Metta.png" height="25px"> Metta</p> |
+| <p align="center">43'</p> | <p align="right">Daugavpils <img src="/static/logos/BFC Daugavpils.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Valmiera.png" height="25px"> Valmiera</p> |
+| <p align="center">45' 1'</p> | <p align="right">Super Nova <img src="/static/logos/SK Super Nova.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FK Metta.png" height="25px"> Metta</p> |
 </div>
 
 
@@ -276,7 +276,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Strømmen <img src="/static/logos/Strømmen IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SK Brann II.png" height="25px"> Brann II</p> |
+| <p align="center">15'</p> | <p align="right">Strømmen <img src="/static/logos/Strømmen IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SK Brann II.png" height="25px"> Brann II</p> |
 | <p align="center">15:00</p> | <p align="right">Grorud <img src="/static/logos/Grorud IL.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aalesunds FK II.png" height="25px"> Aalesund II</p> |
 | <p align="center">15:00</p> | <p align="right">Vålerenga II <img src="/static/logos/Vålerenga Fotball II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fløy-Flekkerøy IL.png" height="25px"> Fløy-Flekkerøy</p> |
 | <p align="center">16:00</p> | <p align="right">Godset II <img src="/static/logos/Strømsgodset IF II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bærum SK.png" height="25px"> Bærum</p> |
@@ -375,7 +375,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Vojvodina <img src="/static/logos/FK Vojvodina Novi Sad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Novi Pazar.png" height="25px"> Novi Pazar</p> |
+| <p align="center">45' 1'</p> | <p align="right">Vojvodina <img src="/static/logos/FK Vojvodina Novi Sad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Novi Pazar.png" height="25px"> Novi Pazar</p> |
 | <p align="center">16:00</p> | <p align="right">Čukarički <img src="/static/logos/FK Čukarički.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Partizan Beograd.png" height="25px"> Partizan</p> |
 | <p align="center">16:00</p> | <p align="right">Voždovac <img src="/static/logos/FK Voždovac.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK TSC Bačka Topola.png" height="25px"> TSC</p> |
 </div>
@@ -409,7 +409,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Keçiörengücü <img src="/static/logos/Ankara Keçiörengücü.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Göztepe Spor Kulübü.png" height="25px"> Göztepe</p> |
-| <p align="center">78'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor AŞ.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Pendik Spor Kulübü.png" height="25px"> Pendik</p> |
+| <p align="center">85'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor AŞ.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Pendik Spor Kulübü.png" height="25px"> Pendik</p> |
 | <p align="center">17:30</p> | <p align="right">Samsunspor <img src="/static/logos/Samsunspor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tuzla Spor Kulübü.png" height="25px"> Tuzla</p> |
 </div>
 
@@ -442,8 +442,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Korea Republic <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Zambia.png" height="25px"> Zambia</p> |
-| <p align="center">81'</p> | <p align="right">New Zealand <img src="/static/logos/New Zealand.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
-| <p align="center">5'</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
+| <p align="center">87'</p> | <p align="right">New Zealand <img src="/static/logos/New Zealand.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
+| <p align="center">12'</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
 | <p align="center">16:00</p> | <p align="right">Denmark <img src="/static/logos/Denmark.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
 | <p align="center">16:00</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brazil.png" height="25px"> Brazil</p> |
 | <p align="center">16:00</p> | <p align="right">Spain <img src="/static/logos/Spain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/China PR.png" height="25px"> China PR</p> |
