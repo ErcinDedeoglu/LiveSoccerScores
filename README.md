@@ -185,7 +185,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle United FC Under 18 Academy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Liverpool FC Under 18 Academy.png" height="25px"> Liverpool</p> |
+| <p align="center">35'</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle United FC Under 18 Academy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Liverpool FC Under 18 Academy.png" height="25px"> Liverpool</p> |
 </div>
 
 
@@ -208,13 +208,13 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">15:00</p> | <p align="right">Croatia <img src="/static/logos/Croatia Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Republic of Ireland Under 19.png" height="25px"> Eire</p> |
 | <p align="center">15:00</p> | <p align="right">Germany <img src="/static/logos/Germany Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Norway Under 19.png" height="25px"> Norway</p> |
-| <p align="center">30'</p> | <p align="right">Czech Rep. <img src="/static/logos/Czech Republic Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Switzerland Under 19.png" height="25px"> Switzerland</p> |
-| <p align="center">32'</p> | <p align="right">Poland <img src="/static/logos/Poland Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Serbia Under 19.png" height="25px"> Serbia</p> |
+| <p align="center">38'</p> | <p align="right">Czech Rep. <img src="/static/logos/Czech Republic Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Switzerland Under 19.png" height="25px"> Switzerland</p> |
+| <p align="center">39'</p> | <p align="right">Poland <img src="/static/logos/Poland Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Serbia Under 19.png" height="25px"> Serbia</p> |
 | <p align="center">14:30</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/France Under 19.png" height="25px"> France</p> |
 | <p align="center">14:30</p> | <p align="right">Romania <img src="/static/logos/Romania Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hungary Under 19.png" height="25px"> Hungary</p> |
-| <p align="center">71'</p> | <p align="right">Belarus <img src="/static/logos/Belarus Under 19.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Slovenia Under 19.png" height="25px"> Slovenia</p> |
+| <p align="center">78'</p> | <p align="right">Belarus <img src="/static/logos/Belarus Under 19.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Slovenia Under 19.png" height="25px"> Slovenia</p> |
 | <p align="center">12:15</p> | <p align="right">England <img src="/static/logos/England Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain Under 19.png" height="25px"> Spain</p> |
-| <p align="center">74'</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan Under 19.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Slovakia Under 19.png" height="25px"> Slovakia</p> |
+| <p align="center">82'</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan Under 19.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Slovakia Under 19.png" height="25px"> Slovakia</p> |
 | <p align="center">12:30</p> | <p align="right">Iceland <img src="/static/logos/Iceland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ukraine Under 19.png" height="25px"> Ukraine</p> |
 | <p align="center">12:30</p> | <p align="right">Sweden <img src="/static/logos/Sweden Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark Under 19.png" height="25px"> Denmark</p> |
 | <p align="center">12:30</p> | <p align="right">Bosnia <img src="/static/logos/Bosnia-Herzegovina Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Greece Under 19.png" height="25px"> Greece</p> |
@@ -408,7 +408,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:30</p> | <p align="right">Keçiörengücü <img src="/static/logos/Ankara Keçiörengücü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Göztepe Spor Kulübü.png" height="25px"> Göztepe</p> |
+| <p align="center">7'</p> | <p align="right">Keçiörengücü <img src="/static/logos/Ankara Keçiörengücü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Göztepe Spor Kulübü.png" height="25px"> Göztepe</p> |
 | <p align="center">13:00</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor AŞ.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pendik Spor Kulübü.png" height="25px"> Pendik</p> |
 | <p align="center">17:30</p> | <p align="right">Samsunspor <img src="/static/logos/Samsunspor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tuzla Spor Kulübü.png" height="25px"> Tuzla</p> |
 </div>
@@ -430,7 +430,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">HAGL <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sanna Khánh Hòa BVN FC.png" height="25px"> Sanna</p> |
+| <p align="center">39'</p> | <p align="right">HAGL <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sanna Khánh Hòa BVN FC.png" height="25px"> Sanna</p> |
 | <p align="center">11:00</p> | <p align="right">Nam Dinh <img src="/static/logos/Duoc Nam Ha Nam Dinh FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Song Lam Nghe An.png" height="25px"> SLNA</p> |
 </div>
 
@@ -441,7 +441,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Korea Republic <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Zambia.png" height="25px"> Zambia</p> |
+| <p align="center">38'</p> | <p align="right">Korea Republic <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Zambia.png" height="25px"> Zambia</p> |
 | <p align="center">13:00</p> | <p align="right">New Zealand <img src="/static/logos/New Zealand.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
 | <p align="center">14:30</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
 | <p align="center">16:00</p> | <p align="right">Denmark <img src="/static/logos/Denmark.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
