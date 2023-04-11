@@ -2591,36 +2591,6 @@
           },
           "status": "FIXTURE",
           "teamA": {
-            "code": "GEY",
-            "short": "Geylang",
-            "long": "Geylang International",
-            "full": "Geylang International FC",
-            "name": "Geylang"
-          },
-          "teamB": {
-            "code": "BAL",
-            "short": "Balestier",
-            "long": "Balestier Khalsa",
-            "full": "Balestier Khalsa FC",
-            "name": "Balestier"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-11T12:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
             "code": "YLI",
             "short": "Young Lions",
             "long": "Young Lions",
