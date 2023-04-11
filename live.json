@@ -450,9 +450,9 @@
         {
           "startDate": "2023-04-11T12:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 8
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1281,9 +1281,9 @@
         {
           "startDate": "2023-04-11T12:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 1
           },
           "round": {
             "name": "Round 2 - League A",
@@ -1352,7 +1352,7 @@
           "startDate": "2023-04-11T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1389,7 +1389,7 @@
           "startDate": "2023-04-11T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -1417,7 +1417,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1426,7 +1426,7 @@
           "startDate": "2023-04-11T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1463,7 +1463,7 @@
           "startDate": "2023-04-11T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -1500,7 +1500,7 @@
           "startDate": "2023-04-11T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -2650,7 +2650,7 @@
           "startDate": "2023-04-11T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -2800,7 +2800,7 @@
           "startDate": "2023-04-11T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 12,
             "extra": 0
           },
           "round": {
@@ -2876,9 +2876,9 @@
         {
           "startDate": "2023-04-11T12:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 7
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Beyaz",
@@ -3033,7 +3033,7 @@
           "startDate": "2023-04-11T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 10,
             "extra": 0
           },
           "round": {
