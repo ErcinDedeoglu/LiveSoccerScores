@@ -943,7 +943,7 @@
           "startDate": "2023-04-11T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1120,7 +1120,7 @@
           "startDate": "2023-04-11T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -1157,7 +1157,7 @@
           "startDate": "2023-04-11T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -1185,7 +1185,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1254,7 +1254,7 @@
           "startDate": "2023-04-11T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -1321,7 +1321,7 @@
           "startDate": "2023-04-11T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -1349,7 +1349,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 3
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -2871,7 +2871,7 @@
           "startDate": "2023-04-11T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -2898,7 +2898,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2946,12 +2946,16 @@
       "matches": [
         {
           "startDate": "2023-04-11T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 31,
+            "extra": 0
+          },
           "round": {
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KOR",
             "short": "Korea Republic",
@@ -2970,7 +2974,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
