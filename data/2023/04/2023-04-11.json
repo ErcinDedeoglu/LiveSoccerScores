@@ -192,7 +192,7 @@
           "startDate": "2023-04-11T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -668,8 +668,8 @@
           "startDate": "2023-04-11T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Apertura",
@@ -695,7 +695,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 2
           },
           "agg": null,
@@ -715,8 +715,8 @@
           "startDate": "2023-04-11T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Clausura",
@@ -738,8 +738,8 @@
             "name": "Grecia"
           },
           "redCards": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "score": {
             "teamA": 1,
