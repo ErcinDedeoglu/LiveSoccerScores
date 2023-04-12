@@ -2577,36 +2577,6 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "DUM",
-            "short": "Dumbarton",
-            "long": "Dumbarton",
-            "full": "Dumbarton FC",
-            "name": "Dumbarton"
-          },
-          "teamB": {
-            "code": "STI",
-            "short": "Stirling",
-            "long": "Stirling Albion",
-            "full": "Stirling Albion FC",
-            "name": "Stirling"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-11T18:45:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
           "status": "RESULT",
           "teamA": {
             "code": "ELG",
