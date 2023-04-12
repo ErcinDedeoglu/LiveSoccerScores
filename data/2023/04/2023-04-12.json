@@ -226,7 +226,7 @@
           "startDate": "2023-04-12T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -253,7 +253,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -263,7 +263,7 @@
           "startDate": "2023-04-12T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -577,7 +577,7 @@
           "startDate": "2023-04-12T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -604,7 +604,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -622,16 +622,12 @@
       "matches": [
         {
           "startDate": "2023-04-12T21:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "USM",
             "short": "USM Alger",
@@ -862,7 +858,7 @@
           "startDate": "2023-04-12T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -890,7 +886,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -898,9 +894,9 @@
         {
           "startDate": "2023-04-12T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 0
           },
           "round": {
             "name": "3rd Round",
@@ -935,9 +931,9 @@
         {
           "startDate": "2023-04-12T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 7
           },
           "round": {
             "name": "3rd Round",
@@ -973,7 +969,7 @@
           "startDate": "2023-04-12T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -1020,7 +1016,7 @@
           "startDate": "2023-04-12T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1209,7 +1205,7 @@
           "startDate": "2023-04-12T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -2366,7 +2362,7 @@
           "startDate": "2023-04-12T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -2393,7 +2389,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -4088,7 +4084,7 @@
           "startDate": "2023-04-12T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -4115,7 +4111,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
