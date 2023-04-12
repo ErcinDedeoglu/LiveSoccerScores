@@ -193,7 +193,7 @@
           "startDate": "2023-04-12T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -230,7 +230,7 @@
           "startDate": "2023-04-12T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -420,16 +420,12 @@
         },
         {
           "startDate": "2023-04-12T20:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAG",
             "short": "Magdalena",
@@ -446,7 +442,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 0,
@@ -617,9 +613,9 @@
         {
           "startDate": "2023-04-12T21:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -856,7 +852,7 @@
           "startDate": "2023-04-12T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -883,8 +879,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1410,7 +1406,7 @@
           "startDate": "2023-04-12T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -1437,7 +1433,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -1446,9 +1442,9 @@
         {
           "startDate": "2023-04-12T21:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 53,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -2333,7 +2329,7 @@
           "startDate": "2023-04-12T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 28,
             "extra": 0
           },
           "round": {
