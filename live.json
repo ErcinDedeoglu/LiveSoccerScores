@@ -225,8 +225,8 @@
         {
           "startDate": "2023-04-12T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
+            "type": "SECOND_HALF",
+            "minute": 48,
             "extra": 0
           },
           "round": {
@@ -261,12 +261,16 @@
         },
         {
           "startDate": "2023-04-12T22:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 21,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "RAC",
             "short": "Racing Club",
@@ -285,7 +289,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -568,12 +575,16 @@
         },
         {
           "startDate": "2023-04-12T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DUR",
             "short": "Durango",
@@ -592,7 +603,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -610,7 +624,7 @@
           "startDate": "2023-04-12T21:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -847,9 +861,9 @@
         {
           "startDate": "2023-04-12T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "3rd Round",
@@ -885,7 +899,7 @@
           "startDate": "2023-04-12T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -922,7 +936,7 @@
           "startDate": "2023-04-12T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -949,7 +963,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -957,12 +971,16 @@
         },
         {
           "startDate": "2023-04-12T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 8,
+            "extra": 0
+          },
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PAL",
             "short": "Palmeiras",
@@ -981,7 +999,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -997,12 +1018,16 @@
       "matches": [
         {
           "startDate": "2023-04-12T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "2nd Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PMO",
             "short": "Potiguar M",
@@ -1021,7 +1046,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1179,12 +1207,16 @@
       "matches": [
         {
           "startDate": "2023-04-12T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CAR",
             "short": "Cartagena",
@@ -1203,7 +1235,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1414,16 +1449,12 @@
       "matches": [
         {
           "startDate": "2023-04-12T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DRA",
             "short": "Drag\u00F3n",
@@ -1444,7 +1475,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1453,8 +1484,8 @@
           "startDate": "2023-04-12T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Clausura",
@@ -1480,8 +1511,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2338,8 +2369,8 @@
         {
           "startDate": "2023-04-12T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
+            "type": "SECOND_HALF",
+            "minute": 50,
             "extra": 0
           },
           "round": {
@@ -4059,12 +4090,16 @@
       "matches": [
         {
           "startDate": "2023-04-12T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KNX",
             "short": "One Knoxville",
@@ -4083,7 +4118,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
