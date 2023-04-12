@@ -125,16 +125,12 @@
         },
         {
           "startDate": "2023-04-11T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ARG",
             "short": "Argentinos",
@@ -155,7 +151,7 @@
           },
           "score": {
             "teamA": 5,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -173,9 +169,9 @@
         {
           "startDate": "2023-04-11T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "2nd Round",
@@ -286,9 +282,9 @@
         {
           "startDate": "2023-04-11T23:10:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 26,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Apertura",
@@ -314,7 +310,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -333,9 +329,9 @@
         {
           "startDate": "2023-04-11T23:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Clausura",
@@ -653,16 +649,12 @@
         },
         {
           "startDate": "2023-04-11T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 75,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BSP",
             "short": "Botafogo SP",
@@ -685,14 +677,17 @@
             "teamA": 0,
             "teamB": 2
           },
-          "agg": null,
+          "agg": {
+            "teamA": 0,
+            "teamB": 2
+          },
           "penalty": null
         },
         {
           "startDate": "2023-04-11T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 39,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -2202,7 +2197,7 @@
           "startDate": "2023-04-11T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 36,
             "extra": 0
           },
           "round": {
@@ -2229,7 +2224,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -3564,7 +3559,7 @@
           "startDate": "2023-04-11T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 27,
             "extra": 0
           },
           "round": {
