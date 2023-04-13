@@ -46,7 +46,7 @@
 | <p align="center">FT</p> | <p align="right">R. Central <img src="/static/logos/CA Rosario Central.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Independiente.png" height="25px"> Independiente</p> |
 | <p align="center">FT</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal de Sarandí.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Godoy Cruz Antonio Tomba.png" height="25px"> Godoy Cruz</p> |
 | <p align="center">FT</p> | <p align="right">Colón <img src="/static/logos/Colón de Santa Fe.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/CA Talleres de Córdoba.png" height="25px"> Talleres</p> |
-| <p align="center">19'</p> | <p align="right">River Plate <img src="/static/logos/CA River Plate.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimnasia y Esgrima La Plata.png" height="25px"> Gimn La Plata</p> |
+| <p align="center">27'</p> | <p align="right">River Plate <img src="/static/logos/CA River Plate.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gimnasia y Esgrima La Plata.png" height="25px"> Gimn La Plata</p> |
 </div>
 
 
@@ -100,7 +100,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Belouizdad <img src="/static/logos/CR Belouizdad.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paradou AC.png" height="25px"> Paradou</p> |
+| <p align="center">68'</p> | <p align="right">Belouizdad <img src="/static/logos/CR Belouizdad.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paradou AC.png" height="25px"> Paradou</p> |
 </div>
 
 
