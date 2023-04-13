@@ -148,9 +148,9 @@
         {
           "startDate": "2023-04-13T16:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 7
+            "extra": 8
           },
           "round": {
             "name": "Quarter-finals",
@@ -352,7 +352,7 @@
           "startDate": "2023-04-13T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 37,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -379,7 +379,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1174,7 +1174,7 @@
           "startDate": "2023-04-13T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -1930,7 +1930,7 @@
           "startDate": "2023-04-13T17:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 12,
             "extra": 0
           },
           "round": {
