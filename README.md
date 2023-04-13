@@ -209,7 +209,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:45</p> | <p align="right">PAOK II <img src="/static/logos/PAOK Thessaloniki FC II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Veria NFC.png" height="25px"> Veria</p> |
+| <p align="center">15'</p> | <p align="right">PAOK II <img src="/static/logos/PAOK Thessaloniki FC II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Veria NFC.png" height="25px"> Veria</p> |
 </div>
 
 
