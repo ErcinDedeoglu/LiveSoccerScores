@@ -658,7 +658,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "SUSPENDED",
+          "status": "RESULT",
           "teamA": {
             "code": "NSW",
             "short": "NSW Institute",
@@ -678,8 +678,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
