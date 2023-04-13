@@ -452,7 +452,7 @@
           "startDate": "2023-04-13T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -800,7 +800,7 @@
           "startDate": "2023-04-13T21:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -954,9 +954,9 @@
         {
           "startDate": "2023-04-13T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "3rd Round",
@@ -1814,9 +1814,9 @@
         {
           "startDate": "2023-04-13T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Apertura",
