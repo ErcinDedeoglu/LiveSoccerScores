@@ -200,16 +200,12 @@
       "matches": [
         {
           "startDate": "2023-04-14T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ASL",
             "short": "A San Luis",
