@@ -1567,9 +1567,9 @@
         {
           "startDate": "2023-04-14T12:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1864,7 +1864,7 @@
           "startDate": "2023-04-14T12:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -5259,8 +5259,8 @@
         {
           "startDate": "2023-04-14T12:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 51,
             "extra": 0
           },
           "round": {
@@ -5338,16 +5338,12 @@
         },
         {
           "startDate": "2023-04-14T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Championship Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LNZ",
             "short": "LNZ Cherkasy",
