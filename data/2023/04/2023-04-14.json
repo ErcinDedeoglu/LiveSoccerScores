@@ -362,8 +362,8 @@
           "startDate": "2023-04-14T00:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "1st Phase",
@@ -447,12 +447,16 @@
       "matches": [
         {
           "startDate": "2023-04-14T02:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 17,
+            "extra": 0
+          },
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TIG",
             "short": "Tigres",
@@ -471,7 +475,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": {
             "teamA": 1,
             "teamB": 0
@@ -491,8 +498,8 @@
         {
           "startDate": "2023-04-14T01:10:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 33,
+            "type": "SECOND_HALF",
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -519,8 +526,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -758,8 +765,8 @@
         {
           "startDate": "2023-04-14T01:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
+            "type": "SECOND_HALF",
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -786,7 +793,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1766,7 +1773,7 @@
           "startDate": "2023-04-14T00:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -1794,7 +1801,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -4063,8 +4070,8 @@
           "startDate": "2023-04-14T00:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Apertura",
