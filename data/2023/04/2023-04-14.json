@@ -597,7 +597,7 @@
           "startDate": "2023-04-14T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -620,11 +620,11 @@
             "name": "Coquimbo"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1754,7 +1754,7 @@
           "startDate": "2023-04-14T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1781,7 +1781,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1999,7 +1999,7 @@
           "startDate": "2023-04-14T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -2074,16 +2074,12 @@
       "matches": [
         {
           "startDate": "2023-04-14T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TOL",
             "short": "Tolima",
@@ -4370,7 +4366,7 @@
           "startDate": "2023-04-14T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -5252,9 +5248,9 @@
         {
           "startDate": "2023-04-14T21:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Final Stage",
@@ -5280,7 +5276,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -5720,7 +5716,7 @@
           "startDate": "2023-04-14T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -5830,7 +5826,7 @@
           "startDate": "2023-04-14T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 28,
             "extra": 0
           },
           "round": {
