@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">Vallecano <img src="/static/logos/Rayo Vallecano.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CA Osasuna.png" height="25px"> Osasuna</p> |
+| <p align="center">FT</p> | <p align="right">Vallecano <img src="/static/logos/Rayo Vallecano.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CA Osasuna.png" height="25px"> Osasuna</p> |
 </div>
 
 
@@ -27,7 +27,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cremonese <img src="/static/logos/US Cremonese.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Empoli FC.png" height="25px"> Empoli</p> |
-| <p align="center">86'</p> | <p align="right">Spezia <img src="/static/logos/ASD Spezia Calcio 2008.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/SS Lazio.png" height="25px"> Lazio</p> |
+| <p align="center">FT</p> | <p align="right">Spezia <img src="/static/logos/ASD Spezia Calcio 2008.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/SS Lazio.png" height="25px"> Lazio</p> |
 </div>
 
 
@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Toulouse <img src="/static/logos/Toulouse FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Olympique Lyonnais.png" height="25px"> Lyon</p> |
+| <p align="center">FT</p> | <p align="right">Toulouse <img src="/static/logos/Toulouse FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Olympique Lyonnais.png" height="25px"> Lyon</p> |
 </div>
 
 
@@ -77,7 +77,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Ross County <img src="/static/logos/Ross County FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aberdeen FC.png" height="25px"> Aberdeen</p> |
+| <p align="center">FT</p> | <p align="right">Ross County <img src="/static/logos/Ross County FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aberdeen FC.png" height="25px"> Aberdeen</p> |
 </div>
 
 
@@ -87,7 +87,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">Famalicão <img src="/static/logos/FC Famalicão.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Vitória SC Guimarães.png" height="25px"> Guimarães</p> |
+| <p align="center">77'</p> | <p align="right">Famalicão <img src="/static/logos/FC Famalicão.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Vitória SC Guimarães.png" height="25px"> Guimarães</p> |
 </div>
 
 
@@ -107,7 +107,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">71'</p> | <p align="right">Middlesbrough <img src="/static/logos/Middlesbrough FC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Norwich City FC.png" height="25px"> Norwich</p> |
+| <p align="center">FT</p> | <p align="right">Middlesbrough <img src="/static/logos/Middlesbrough FC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Norwich City FC.png" height="25px"> Norwich</p> |
 </div>
 
 
@@ -137,7 +137,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Palestino <img src="/static/logos/CD Palestino.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CD Cobresal.png" height="25px"> Cobresal</p> |
+| <p align="center">65'</p> | <p align="right">Palestino <img src="/static/logos/CD Palestino.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/CD Cobresal.png" height="25px"> Cobresal</p> |
 | <p align="center">22:00</p> | <p align="right">Ñublense <img src="/static/logos/Deportivo Ñublense SADP.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Coquimbo Unido.png" height="25px"> Coquimbo</p> |
 </div>
 
@@ -169,7 +169,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Standard <img src="/static/logos/Royal Standard de Liège.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Royal Charleroi SC.png" height="25px"> Charleroi</p> |
+| <p align="center">FT</p> | <p align="right">Standard <img src="/static/logos/Royal Standard de Liège.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Royal Charleroi SC.png" height="25px"> Charleroi</p> |
 </div>
 
 
@@ -199,7 +199,7 @@
 | <p align="center">POS</p> | <p align="right">Mitre SdE <img src="/static/logos/Club Atlético Mitre de Santiago del Estero.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Club Ferro Carril Oeste.png" height="25px"> Ferro</p> |
 | <p align="center">POS</p> | <p align="right">Tristán Suárez <img src="/static/logos/CSyD Tristán Suárez.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CA Racing de Córdoba.png" height="25px"> Racing Córdoba</p> |
 | <p align="center">POS</p> | <p align="right">Villa Dálmine <img src="/static/logos/Club Villa Dálmine.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CA Estudiantes de Caseros.png" height="25px"> Est Caseros</p> |
-| <p align="center">HT</p> | <p align="right">Rafaela <img src="/static/logos/Atlético de Rafaela.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Aldosivi.png" height="25px"> Aldosivi</p> |
+| <p align="center">61'</p> | <p align="right">Rafaela <img src="/static/logos/Atlético de Rafaela.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Aldosivi.png" height="25px"> Aldosivi</p> |
 </div>
 
 
@@ -340,7 +340,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Atlético Huila.png" height="25px"> Atlético Huila</p> |
+| <p align="center">39'</p> | <p align="right">Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CD Atlético Huila.png" height="25px"> Atlético Huila</p> |
 </div>
 
 
@@ -392,9 +392,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Ahly <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Pharco.png" height="25px"> Pharco</p> |
-| <p align="center">57'</p> | <p align="right">Aswan <img src="/static/logos/Aswan SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids</p> |
-| <p align="center">57'</p> | <p align="right">Ittihad <img src="/static/logos/Al Ittihad Al Iskandary.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha</p> |
+| <p align="center">79'</p> | <p align="right">Ahly <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Pharco.png" height="25px"> Pharco</p> |
+| <p align="center">80'</p> | <p align="right">Aswan <img src="/static/logos/Aswan SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids</p> |
+| <p align="center">80'</p> | <p align="right">Ittihad <img src="/static/logos/Al Ittihad Al Iskandary.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha</p> |
 </div>
 
 
@@ -606,7 +606,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 3'</p> | <p align="right">Crusaders <img src="/static/logos/Crusaders FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Larne FC.png" height="25px"> Larne</p> |
+| <p align="center">FT</p> | <p align="right">Crusaders <img src="/static/logos/Crusaders FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Larne FC.png" height="25px"> Larne</p> |
 </div>
 
 
@@ -669,8 +669,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Gharafa <img src="/static/logos/Al Gharafa SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Duhail SC.png" height="25px"> Al Duhail</p> |
-| <p align="center">89'</p> | <p align="right">Sailiya <img src="/static/logos/Al Sailiya SC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Al Rayyan SC.png" height="25px"> Rayyan</p> |
+| <p align="center">FT</p> | <p align="right">Gharafa <img src="/static/logos/Al Gharafa SC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Al Duhail SC.png" height="25px"> Al Duhail</p> |
+| <p align="center">FT</p> | <p align="right">Sailiya <img src="/static/logos/Al Sailiya SC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Al Rayyan SC.png" height="25px"> Rayyan</p> |
 </div>
 
 
@@ -680,9 +680,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">Bohemians <img src="/static/logos/Bohemian FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/St Patrick's Athletic FC.png" height="25px"> St Pat's</p> |
-| <p align="center">90'</p> | <p align="right">Shamrock <img src="/static/logos/Shamrock Rovers FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Shelbourne FC.png" height="25px"> Shelbourne</p> |
-| <p align="center">90'</p> | <p align="right">UCD <img src="/static/logos/University College Dublin FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Cork City FC.png" height="25px"> Cork</p> |
+| <p align="center">90' 14'</p> | <p align="right">Bohemians <img src="/static/logos/Bohemian FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/St Patrick's Athletic FC.png" height="25px"> St Pat's</p> |
+| <p align="center">FT</p> | <p align="right">Shamrock <img src="/static/logos/Shamrock Rovers FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Shelbourne FC.png" height="25px"> Shelbourne</p> |
+| <p align="center">FT</p> | <p align="right">UCD <img src="/static/logos/University College Dublin FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Cork City FC.png" height="25px"> Cork</p> |
 </div>
 
 
@@ -692,10 +692,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Athlone <img src="/static/logos/Athlone Town FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Cobh Ramblers FC.png" height="25px"> Cobh</p> |
-| <p align="center">90'</p> | <p align="right">Galway Utd <img src="/static/logos/Galway United FC.png" height="25px"></p> | <p align="center">6 - 0</p> | <p align="left"><img src="/static/logos/Bray Wanderers AFC.png" height="25px"> Bray</p> |
-| <p align="center">89'</p> | <p align="right">Waterford <img src="/static/logos/Waterford FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kerry FC.png" height="25px"> Kerry</p> |
-| <p align="center">74'</p> | <p align="right">Finn Harps <img src="/static/logos/Finn Harps FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Treaty United FC.png" height="25px"> Treaty United</p> |
+| <p align="center">FT</p> | <p align="right">Athlone <img src="/static/logos/Athlone Town FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Cobh Ramblers FC.png" height="25px"> Cobh</p> |
+| <p align="center">FT</p> | <p align="right">Galway Utd <img src="/static/logos/Galway United FC.png" height="25px"></p> | <p align="center">6 - 0</p> | <p align="left"><img src="/static/logos/Bray Wanderers AFC.png" height="25px"> Bray</p> |
+| <p align="center">FT</p> | <p align="right">Waterford <img src="/static/logos/Waterford FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kerry FC.png" height="25px"> Kerry</p> |
+| <p align="center">FT</p> | <p align="right">Finn Harps <img src="/static/logos/Finn Harps FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Treaty United FC.png" height="25px"> Treaty United</p> |
 </div>
 
 
@@ -716,8 +716,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">Al Batin <img src="/static/logos/Al Batin Club.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Hilal Saudi FC.png" height="25px"> Hilal</p> |
-| <p align="center">76'</p> | <p align="right">Ittifaq <img src="/static/logos/Al Ittifaq FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Feiha.png" height="25px"> Feiha</p> |
+| <p align="center">90' 7'</p> | <p align="right">Al Batin <img src="/static/logos/Al Batin Club.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Hilal Saudi FC.png" height="25px"> Hilal</p> |
+| <p align="center">90' 9'</p> | <p align="right">Ittifaq <img src="/static/logos/Al Ittifaq FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Feiha.png" height="25px"> Feiha</p> |
 </div>
 
 
@@ -727,7 +727,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Queen's Park <img src="/static/logos/Queen's Park FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hamilton Academical FC.png" height="25px"> Hamilton</p> |
+| <p align="center">FT</p> | <p align="right">Queen's Park <img src="/static/logos/Queen's Park FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hamilton Academical FC.png" height="25px"> Hamilton</p> |
 </div>
 
 
@@ -757,7 +757,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Brazil <img src="/static/logos/Brazil Under 17.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Paraguay Under 17.png" height="25px"> Paraguay</p> |
+| <p align="center">FT</p> | <p align="right">Brazil <img src="/static/logos/Brazil Under 17.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Paraguay Under 17.png" height="25px"> Paraguay</p> |
 | <p align="center">21:30</p> | <p align="right">Argentina <img src="/static/logos/Argentina Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
 </div>
 
@@ -768,7 +768,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">Albacete <img src="/static/logos/Albacete Balompié.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/SD Eibar.png" height="25px"> Eibar</p> |
+| <p align="center">FT</p> | <p align="right">Albacete <img src="/static/logos/Albacete Balompié.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/SD Eibar.png" height="25px"> Eibar</p> |
 </div>
 
 
@@ -844,7 +844,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Estudiantes M. <img src="/static/logos/Estudiantes de Mérida FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Metropolitanos FC.png" height="25px"> Metropolitanos</p> |
+| <p align="center">68'</p> | <p align="right">Estudiantes M. <img src="/static/logos/Estudiantes de Mérida FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Metropolitanos FC.png" height="25px"> Metropolitanos</p> |
 | <p align="center">22:00</p> | <p align="right">Zamora <img src="/static/logos/Zamora Fútbol Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monagas SC.png" height="25px"> Monagas</p> |
 </div>
 
@@ -855,8 +855,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Bala <img src="/static/logos/Bala Town FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/The New Saints FC.png" height="25px"> TNS</p> |
-| <p align="center">88'</p> | <p align="right">Airbus <img src="/static/logos/Airbus UK FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Flint Town United FC.png" height="25px"> Flint Town Utd</p> |
+| <p align="center">FT</p> | <p align="right">Bala <img src="/static/logos/Bala Town FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/The New Saints FC.png" height="25px"> TNS</p> |
+| <p align="center">FT</p> | <p align="right">Airbus <img src="/static/logos/Airbus UK FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Flint Town United FC.png" height="25px"> Flint Town Utd</p> |
 </div>
 
 
