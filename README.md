@@ -127,7 +127,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">Junior <img src="/static/logos/CD Popular Junior FC SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"> Boyacá Chicó</p> |
+| <p align="center">90' 1'</p> | <p align="right">Junior <img src="/static/logos/CD Popular Junior FC SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"> Boyacá Chicó</p> |
 </div>
 
 
@@ -179,7 +179,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">Morelia <img src="/static/logos/Club Atlético Morelia.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"> Alebrijes</p> |
+| <p align="center">90' 3'</p> | <p align="right">Morelia <img src="/static/logos/Club Atlético Morelia.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"> Alebrijes</p> |
 | <p align="center">23:00</p> | <p align="right">Tepa <img src="/static/logos/Tepatitlán FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tlaxcala FC.png" height="25px"> Tlaxcala</p> |
 </div>
 
