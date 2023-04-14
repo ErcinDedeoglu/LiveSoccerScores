@@ -329,7 +329,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Tigres <img src="/static/logos/Tigres FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Real Santander.png" height="25px"> Real Santander</p> |
+| <p align="center">HT</p> | <p align="right">Tigres <img src="/static/logos/Tigres FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Real Santander.png" height="25px"> Real Santander</p> |
 | <p align="center">23:00</p> | <p align="right">Llaneros <img src="/static/logos/Club Llaneros SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Corporación Deportes Quindío.png" height="25px"> Quindío</p> |
 </div>
 
@@ -340,7 +340,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CD Atlético Huila.png" height="25px"> Atlético Huila</p> |
+| <p align="center">76'</p> | <p align="right">Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/CD Atlético Huila.png" height="25px"> Atlético Huila</p> |
 </div>
 
 
@@ -627,7 +627,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">28'</p> | <p align="right">Sp. Cristal <img src="/static/logos/Club Sporting Cristal SAC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sport Boys Association.png" height="25px"> Boys</p> |
+| <p align="center">HT</p> | <p align="right">Sp. Cristal <img src="/static/logos/Club Sporting Cristal SAC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sport Boys Association.png" height="25px"> Boys</p> |
 </div>
 
 
@@ -758,7 +758,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Brazil <img src="/static/logos/Brazil Under 17.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Paraguay Under 17.png" height="25px"> Paraguay</p> |
-| <p align="center">21:30</p> | <p align="right">Argentina <img src="/static/logos/Argentina Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
+| <p align="center">22'</p> | <p align="right">Argentina <img src="/static/logos/Argentina Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
 </div>
 
 
