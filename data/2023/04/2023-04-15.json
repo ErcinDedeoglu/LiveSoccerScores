@@ -880,16 +880,12 @@
       "matches": [
         {
           "startDate": "2023-04-15T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "POR",
             "short": "Thorns",
@@ -1022,7 +1018,7 @@
           "startDate": "2023-04-15T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -1050,7 +1046,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3621,7 +3617,7 @@
           "startDate": "2023-04-15T03:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -10646,7 +10642,7 @@
           "startDate": "2023-04-15T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -10891,12 +10887,16 @@
       "matches": [
         {
           "startDate": "2023-04-15T04:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JDR",
             "short": "Dragons",
@@ -10915,7 +10915,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
