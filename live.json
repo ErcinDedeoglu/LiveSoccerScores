@@ -2467,8 +2467,8 @@
           "startDate": "2023-04-15T07:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -2872,8 +2872,8 @@
           "startDate": "2023-04-15T07:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -2900,7 +2900,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 4
+            "teamB": 5
           },
           "agg": null,
           "penalty": null
@@ -2909,8 +2909,8 @@
           "startDate": "2023-04-15T07:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -2933,10 +2933,10 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -2946,7 +2946,7 @@
           "startDate": "2023-04-15T07:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -2974,7 +2974,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3809,9 +3809,9 @@
         {
           "startDate": "2023-04-15T07:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -3847,7 +3847,7 @@
           "startDate": "2023-04-15T08:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -5648,7 +5648,7 @@
           "startDate": "2023-04-15T08:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -5685,7 +5685,7 @@
           "startDate": "2023-04-15T08:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 36,
             "extra": 0
           },
           "round": {
@@ -9415,8 +9415,8 @@
           "startDate": "2023-04-15T07:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -9443,7 +9443,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 4
+            "teamB": 5
           },
           "agg": null,
           "penalty": null
@@ -10808,8 +10808,8 @@
           "startDate": "2023-04-15T08:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -10835,7 +10835,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -10931,7 +10931,7 @@
           "startDate": "2023-04-15T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -11041,8 +11041,8 @@
           "startDate": "2023-04-15T07:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -11076,16 +11076,12 @@
         },
         {
           "startDate": "2023-04-15T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAN",
             "short": "Gimcheon",
@@ -11105,7 +11101,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 1
           },
           "agg": null,
@@ -11892,36 +11888,6 @@
             "long": "Gombe United",
             "full": "Gombe United FC",
             "name": "Gombe Utd"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-15T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ENU",
-            "short": "Enugu",
-            "long": "Enugu Rangers",
-            "full": "Enugu Rangers International FC",
-            "name": "Enugu"
-          },
-          "teamB": {
-            "code": "NIG",
-            "short": "Tornadoes",
-            "long": "Niger Tornadoes",
-            "full": "Niger Tornadoes FC",
-            "name": "Tornadoes"
           },
           "redCards": {
             "teamA": 0,
