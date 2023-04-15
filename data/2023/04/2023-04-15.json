@@ -2465,16 +2465,12 @@
       "matches": [
         {
           "startDate": "2023-04-15T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CCM",
             "short": "Central Coast",
@@ -2870,16 +2866,12 @@
         },
         {
           "startDate": "2023-04-15T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ANT",
             "short": "Kashima",
@@ -2907,16 +2899,12 @@
         },
         {
           "startDate": "2023-04-15T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAN",
             "short": "Kyoto",
@@ -2944,16 +2932,12 @@
         },
         {
           "startDate": "2023-04-15T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TOK",
             "short": "Tokyo",
@@ -3810,7 +3794,7 @@
           "startDate": "2023-04-15T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -3847,7 +3831,7 @@
           "startDate": "2023-04-15T08:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -5648,7 +5632,7 @@
           "startDate": "2023-04-15T08:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -5685,7 +5669,7 @@
           "startDate": "2023-04-15T08:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -9413,16 +9397,12 @@
       "matches": [
         {
           "startDate": "2023-04-15T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SOU",
             "short": "Southern",
@@ -10807,9 +10787,9 @@
         {
           "startDate": "2023-04-15T08:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -10931,7 +10911,7 @@
           "startDate": "2023-04-15T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -11039,16 +11019,12 @@
         },
         {
           "startDate": "2023-04-15T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHA",
             "short": "Chungnam Asan",
