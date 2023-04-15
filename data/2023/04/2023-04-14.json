@@ -3227,6 +3227,49 @@
     },
     {
       "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-14T15:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - Preliminary Round",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BAY",
+            "short": "Bayern",
+            "long": "Bayern M\u00FCnchen U19",
+            "full": "FC Bayern M\u00FCnchen Under 19",
+            "name": "Bayern"
+          },
+          "teamB": {
+            "code": "ING",
+            "short": "Ingolstadt",
+            "long": "Ingolstadt U19",
+            "full": "FC Ingolstadt 04 Under 19",
+            "name": "Ingolstadt"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 5,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "NB I",
         "area": {
           "name": "Hungary"
