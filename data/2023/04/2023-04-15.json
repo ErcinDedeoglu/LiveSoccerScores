@@ -2559,36 +2559,6 @@
           "penalty": null
         },
         {
-          "startDate": "2023-04-15T16:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "CANCELLED",
-          "teamA": {
-            "code": "HAT",
-            "short": "Hatay",
-            "long": "Hatayspor",
-            "full": "Hatay Spor Kul\u00FCb\u00FC",
-            "name": "Hatay"
-          },
-          "teamB": {
-            "code": "FAT",
-            "short": "Fatih",
-            "long": "Fatih Karag\u00FCmr\u00FCk",
-            "full": "Fatih Karag\u00FCmr\u00FCk Spor Kul\u00FCb\u00FC",
-            "name": "Fatih"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-04-15T17:30:00Z",
           "period": null,
           "round": {
