@@ -9992,6 +9992,49 @@
     },
     {
       "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-15T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - Preliminary Round",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U19",
+            "full": "Rasen Ballsport Leipzig Under 19",
+            "name": "RB Leipzig"
+          },
+          "teamB": {
+            "code": "DYN",
+            "short": "Dynamo",
+            "long": "Dynamo Dresden U19",
+            "full": "SG Dynamo Dresden Under 19",
+            "name": "Dynamo"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Frauen Bundesliga",
         "area": {
           "name": "Germany"
