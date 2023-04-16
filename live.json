@@ -311,16 +311,12 @@
         },
         {
           "startDate": "2023-04-16T02:49:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "STL",
             "short": "St. Louis",
@@ -1112,7 +1108,7 @@
           "startDate": "2023-04-16T03:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -1140,7 +1136,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -2224,8 +2220,8 @@
           "startDate": "2023-04-16T03:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -2252,7 +2248,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -8011,9 +8007,9 @@
         {
           "startDate": "2023-04-16T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -8358,9 +8354,9 @@
         {
           "startDate": "2023-04-16T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -8395,9 +8391,9 @@
         {
           "startDate": "2023-04-16T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -8432,9 +8428,9 @@
         {
           "startDate": "2023-04-16T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -8700,7 +8696,7 @@
           "startDate": "2023-04-16T04:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -12931,7 +12927,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 160
+            "extra": 176
           },
           "round": {
             "name": "Regular Season",
@@ -13099,7 +13095,7 @@
           "startDate": "2023-04-16T03:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 85,
             "extra": 0
           },
           "round": {
