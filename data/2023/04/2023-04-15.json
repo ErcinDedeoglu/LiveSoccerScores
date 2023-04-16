@@ -2529,36 +2529,6 @@
           "penalty": null
         },
         {
-          "startDate": "2023-04-15T16:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "CANCELLED",
-          "teamA": {
-            "code": "GAZ",
-            "short": "Gaziantep",
-            "long": "Gaziantep FK",
-            "full": "Gaziantep Futbol Kul\u00FCb\u00FC",
-            "name": "Gaziantep"
-          },
-          "teamB": {
-            "code": "KON",
-            "short": "Konyaspor",
-            "long": "Konyaspor",
-            "full": "Konyaspor Kul\u00FCb\u00FC",
-            "name": "Konyaspor"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-04-15T17:30:00Z",
           "period": null,
           "round": {
