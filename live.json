@@ -130,12 +130,16 @@
       "matches": [
         {
           "startDate": "2023-04-17T01:10:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 30,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MON",
             "short": "Monterrey",
@@ -154,7 +158,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -210,12 +217,16 @@
       "matches": [
         {
           "startDate": "2023-04-17T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TAL",
             "short": "Talleres",
@@ -234,7 +245,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -340,12 +354,16 @@
       "matches": [
         {
           "startDate": "2023-04-17T01:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 10,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "AGD",
             "short": "\u00C1guilas D",
@@ -364,7 +382,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -380,12 +401,16 @@
       "matches": [
         {
           "startDate": "2023-04-17T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 49,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "UCL",
             "short": "U. La Calera",
@@ -402,9 +427,12 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -461,8 +489,8 @@
         {
           "startDate": "2023-04-17T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 16,
+            "type": "SECOND_HALF",
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -489,8 +517,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1039,6 +1067,46 @@
     },
     {
       "competition": {
+        "name": "Liga Pro",
+        "area": {
+          "name": "Ecuador"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-17T21:30:00Z",
+          "period": null,
+          "round": {
+            "name": "1st Round",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "EME",
+            "short": "Emelec",
+            "long": "Emelec",
+            "full": "CS Emelec",
+            "name": "Emelec"
+          },
+          "teamB": {
+            "code": "NAC",
+            "short": "El Nacional",
+            "long": "El Nacional",
+            "full": "CD El Nacional Quito",
+            "name": "El Nacional"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Premier League",
         "area": {
           "name": "Egypt"
@@ -1118,8 +1186,8 @@
         {
           "startDate": "2023-04-17T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 15,
+            "type": "SECOND_HALF",
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -1146,7 +1214,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1757,12 +1825,16 @@
       "matches": [
         {
           "startDate": "2023-04-17T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SPA",
             "short": "Sportivo Amel.",
@@ -1781,7 +1853,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -1828,8 +1903,8 @@
         {
           "startDate": "2023-04-17T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 15,
+            "type": "SECOND_HALF",
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -1856,7 +1931,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2495,8 +2570,8 @@
         {
           "startDate": "2023-04-17T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 11,
+            "type": "SECOND_HALF",
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -2524,7 +2599,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2532,8 +2607,8 @@
         {
           "startDate": "2023-04-17T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 11,
+            "type": "SECOND_HALF",
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -2560,20 +2635,24 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 3,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-17T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NTX",
             "short": "North Texas",
@@ -2592,7 +2671,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }

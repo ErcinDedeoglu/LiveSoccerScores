@@ -1235,16 +1235,12 @@
         },
         {
           "startDate": "2023-04-16T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 53,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "QUE",
             "short": "Quer\u00E9taro",
@@ -3904,6 +3900,39 @@
       },
       "matches": [
         {
+          "startDate": "2023-04-16T04:40:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "NSW",
+            "short": "NSW Institute",
+            "long": "Football NSW Institute",
+            "full": "Football NSW Institute",
+            "name": "NSW Institute"
+          },
+          "teamB": {
+            "code": "LEI",
+            "short": "Leichhardt",
+            "long": "APIA Leichhardt",
+            "full": "APIA Leichhardt FC",
+            "name": "Leichhardt"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
           "startDate": "2023-04-16T06:30:00Z",
           "period": null,
           "round": {
@@ -3943,37 +3972,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "NSW",
-            "short": "NSW Institute",
-            "long": "Football NSW Institute",
-            "full": "Football NSW Institute",
-            "name": "NSW Institute"
-          },
-          "teamB": {
-            "code": "LEI",
-            "short": "Leichhardt",
-            "long": "APIA Leichhardt",
-            "full": "APIA Leichhardt FC",
-            "name": "Leichhardt"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-16T06:40:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SYO",
             "short": "Sydney Olympic",
@@ -3992,7 +3991,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 5,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -4069,7 +4071,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "BSP",
             "short": "Spartans",
@@ -4088,7 +4090,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -4507,16 +4512,12 @@
         },
         {
           "startDate": "2023-04-16T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AUR",
             "short": "Aurora",
@@ -4532,12 +4533,12 @@
             "name": "Santa Cruz"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -5274,16 +5275,12 @@
         },
         {
           "startDate": "2023-04-16T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALA",
             "short": "Alajuelense",
@@ -5300,11 +5297,11 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -7458,16 +7455,12 @@
         },
         {
           "startDate": "2023-04-16T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "XIN",
             "short": "Xinabajul",
@@ -10814,16 +10807,12 @@
         },
         {
           "startDate": "2023-04-16T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 57,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BIN",
             "short": "Binacional",
@@ -10843,8 +10832,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
-            "teamB": 1
+            "teamA": 5,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -13962,16 +13951,12 @@
         },
         {
           "startDate": "2023-04-16T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CER",
             "short": "Cerro",
@@ -13987,12 +13972,12 @@
             "name": "City Torque"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -14250,16 +14235,12 @@
         },
         {
           "startDate": "2023-04-16T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 54,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATX",
             "short": "Austin II",
@@ -14279,7 +14260,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -14287,16 +14268,12 @@
         },
         {
           "startDate": "2023-04-16T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 53,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHI",
             "short": "Chicago Fire",
@@ -14317,23 +14294,19 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-16T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 51,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NY",
             "short": "New York RB II",
@@ -14361,16 +14334,12 @@
         },
         {
           "startDate": "2023-04-16T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATL",
             "short": "Atlanta Utd II",
@@ -14390,24 +14359,20 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-16T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HOU",
             "short": "Houston II",
@@ -14431,7 +14396,10 @@
             "teamB": 0
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 1
+          }
         }
       ]
     },
