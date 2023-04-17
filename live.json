@@ -547,7 +547,7 @@
       },
       "matches": [
         {
-          "startDate": "2023-04-17T21:00:00Z",
+          "startDate": "2023-04-17T21:30:00Z",
           "period": null,
           "round": {
             "name": "Regular Season",
@@ -763,7 +763,7 @@
           "startDate": "2023-04-17T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -790,7 +790,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -924,16 +924,12 @@
         },
         {
           "startDate": "2023-04-17T14:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CSK",
             "short": "CSKA",
@@ -1799,16 +1795,12 @@
         },
         {
           "startDate": "2023-04-17T14:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group 2",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SOT",
             "short": "Sotra",
@@ -1828,7 +1820,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -1838,7 +1830,7 @@
           "startDate": "2023-04-17T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -1865,7 +1857,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 4,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,
@@ -2041,7 +2033,7 @@
           "startDate": "2023-04-17T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -2126,16 +2118,12 @@
       "matches": [
         {
           "startDate": "2023-04-17T14:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Relegation Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ARG",
             "short": "Arge\u0219",
