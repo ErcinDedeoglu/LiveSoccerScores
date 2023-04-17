@@ -799,9 +799,9 @@
         {
           "startDate": "2023-04-17T10:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1711,12 +1711,16 @@
       "matches": [
         {
           "startDate": "2023-04-17T11:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Group 2",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BR2",
             "short": "Brann II",
@@ -1735,7 +1739,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2688,7 +2695,7 @@
           "startDate": "2023-04-17T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -2725,7 +2732,7 @@
           "startDate": "2023-04-17T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -2752,7 +2759,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
