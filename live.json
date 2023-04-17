@@ -376,6 +376,36 @@
           },
           "agg": null,
           "penalty": null
+        },
+        {
+          "startDate": "2023-04-17T15:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "NAC",
+            "short": "Atl. Nacional",
+            "long": "Atl\u00E9tico Nacional",
+            "full": "Club Atl\u00E9tico Nacional SA",
+            "name": "Atl. Nacional"
+          },
+          "teamB": {
+            "code": "AME",
+            "short": "Am\u00E9rica",
+            "long": "Am\u00E9rica de Cali",
+            "full": "Sociedad An\u00F3nima Deportiva Am\u00E9rica SA",
+            "name": "Am\u00E9rica"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
         }
       ]
     },
@@ -768,12 +798,16 @@
       "matches": [
         {
           "startDate": "2023-04-17T10:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "OAK",
             "short": "Oakleigh",
@@ -792,7 +826,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }

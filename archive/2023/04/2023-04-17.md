@@ -80,6 +80,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Águilas D <img src="/static/logos/Águilas Doradas.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"> Boyacá Chicó</p> |
+| <p align="center">15:00</p> | <p align="right">Atl. Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"> América</p> |
 </div>
 
 
@@ -162,7 +163,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:30</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
+| <p align="center">1'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
 </div>
 
 
