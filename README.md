@@ -153,7 +153,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Noah.png" height="25px"> Noah</p> |
-| <p align="center">HT</p> | <p align="right">Pyunik <img src="/static/logos/Pyunik FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
+| <p align="center">57'</p> | <p align="right">Pyunik <img src="/static/logos/Pyunik FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
 </div>
 
 
@@ -184,7 +184,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Botev <img src="/static/logos/FK Botev Plovdiv.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FK Spartak 1918 Varna.png" height="25px"> Spartak Varna</p> |
-| <p align="center">78'</p> | <p align="right">CSKA <img src="/static/logos/PFK CSKA Sofia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PFK Levski Sofia.png" height="25px"> Levski</p> |
+| <p align="center">89'</p> | <p align="right">CSKA <img src="/static/logos/PFK CSKA Sofia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PFK Levski Sofia.png" height="25px"> Levski</p> |
 | <p align="center">17:15</p> | <p align="right">Cherno more <img src="/static/logos/PFK Cherno more Varna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK Lokomotiv Plovdiv 1926.png" height="25px"> Loko Plovdiv</p> |
 </div>
 
@@ -325,8 +325,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Brann II <img src="/static/logos/SK Brann II.png" height="25px"></p> | <p align="center">7 - 1</p> | <p align="left"><img src="/static/logos/SK Gjøvik-Lyn.png" height="25px"> Gjøvik-Lyn</p> |
 | <p align="center">FT</p> | <p align="right">Aalesund II <img src="/static/logos/Aalesunds FK II.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/IF Fram.png" height="25px"> IF Fram</p> |
-| <p align="center">78'</p> | <p align="right">Sotra <img src="/static/logos/Sotra SK.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Strømsgodset IF II.png" height="25px"> Godset II</p> |
-| <p align="center">46'</p> | <p align="right">Egersund <img src="/static/logos/Egersunds IK.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Vålerenga Fotball II.png" height="25px"> Vålerenga II</p> |
+| <p align="center">89'</p> | <p align="right">Sotra <img src="/static/logos/Sotra SK.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Strømsgodset IF II.png" height="25px"> Godset II</p> |
+| <p align="center">58'</p> | <p align="right">Egersund <img src="/static/logos/Egersunds IK.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Vålerenga Fotball II.png" height="25px"> Vålerenga II</p> |
 </div>
 
 
@@ -367,7 +367,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Sandecja <img src="/static/logos/MKS Sandecja Nowy Sącz.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/MKS Puszcza Niepołomice.png" height="25px"> Puszcza</p> |
+| <p align="center">16'</p> | <p align="right">Sandecja <img src="/static/logos/MKS Sandecja Nowy Sącz.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/MKS Puszcza Niepołomice.png" height="25px"> Puszcza</p> |
 </div>
 
 
@@ -387,7 +387,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">Argeș <img src="/static/logos/ACS Campionii Fotbal Club Argeş.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CF Chindia Târgovişte.png" height="25px"> Chindia</p> |
+| <p align="center">87'</p> | <p align="right">Argeș <img src="/static/logos/ACS Campionii Fotbal Club Argeş.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CF Chindia Târgovişte.png" height="25px"> Chindia</p> |
 | <p align="center">17:30</p> | <p align="right">FCSB <img src="/static/logos/SC Fotbal Club FCSB SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FCV Farul Constanţa.png" height="25px"> Farul</p> |
 </div>
 
