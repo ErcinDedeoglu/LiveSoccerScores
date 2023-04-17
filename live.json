@@ -258,16 +258,12 @@
         },
         {
           "startDate": "2023-04-17T19:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PLA",
             "short": "Platense",
@@ -1029,7 +1025,7 @@
           "startDate": "2023-04-17T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1190,16 +1186,12 @@
       "matches": [
         {
           "startDate": "2023-04-17T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SMO",
             "short": "Smouha",
