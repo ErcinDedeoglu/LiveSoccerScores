@@ -1631,12 +1631,16 @@
       "matches": [
         {
           "startDate": "2023-04-17T07:00:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 63,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "SUSPENDED",
+          "status": "LIVE",
           "teamA": {
             "code": "RIV",
             "short": "Rivers Utd",
