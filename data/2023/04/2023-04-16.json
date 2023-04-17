@@ -13038,39 +13038,6 @@
             "name": "Group 1",
             "display": true
           },
-          "status": "SUSPENDED",
-          "teamA": {
-            "code": "EDI",
-            "short": "Edirne",
-            "long": "Edirnespor",
-            "full": "Edirne Spor Kul\u00FCb\u00FC",
-            "name": "Edirne"
-          },
-          "teamB": {
-            "code": "YOM",
-            "short": "Yomra",
-            "long": "Yomraspor",
-            "full": "Yomra Spor Kul\u00FCb\u00FC",
-            "name": "Yomra"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-16T12:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Group 1",
-            "display": true
-          },
           "status": "RESULT",
           "teamA": {
             "code": "ESK",
