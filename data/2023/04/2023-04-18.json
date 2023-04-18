@@ -522,36 +522,6 @@
           },
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-04-18T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ONC",
-            "short": "Once Caldas",
-            "long": "Once Caldas",
-            "full": "Once Caldas SA",
-            "name": "Once Caldas"
-          },
-          "teamB": {
-            "code": "PET",
-            "short": "Petrolera",
-            "long": "Alianza Petrolera",
-            "full": "Alianza Petrolera FC",
-            "name": "Petrolera"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
         }
       ]
     },
@@ -657,46 +627,6 @@
             "long": "\u00DCmraniyespor",
             "full": "\u00DCmraniye Spor Kul\u00FCb\u00FC",
             "name": "\u00DCmraniye"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Liga de Expansi\u00F3n MX",
-        "area": {
-          "name": "Mexico"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-04-18T23:05:00Z",
-          "period": null,
-          "round": {
-            "name": "Clausura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ALE",
-            "short": "Alebrijes",
-            "long": "Alebrijes de Oaxaca",
-            "full": "CF Alebrijes de Oaxaca",
-            "name": "Alebrijes"
-          },
-          "teamB": {
-            "code": "PTA",
-            "short": "Pumas Tabasco",
-            "long": "Pumas Tabasco",
-            "full": "Soccer Pumas de Tabasco",
-            "name": "Pumas Tabasco"
           },
           "redCards": {
             "teamA": 0,
@@ -920,76 +850,6 @@
             "long": "Amstetten",
             "full": "SKU Ertl Glas Amstetten",
             "name": "Amstetten"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "Canadian Championship",
-        "area": {
-          "name": "Canada"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-04-18T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Preliminary Round",
-            "display": true
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "FOR",
-            "short": "Forge",
-            "long": "Forge",
-            "full": "Forge FC",
-            "name": "Forge"
-          },
-          "teamB": {
-            "code": "FCL",
-            "short": "FC Laval",
-            "long": "FC Laval",
-            "full": "FC Laval",
-            "name": "FC Laval"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-18T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Preliminary Round",
-            "display": true
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "MTL",
-            "short": "Montr\u00E9al",
-            "long": "Montr\u00E9al",
-            "full": "Club de Foot Montr\u00E9al",
-            "name": "Montr\u00E9al"
-          },
-          "teamB": {
-            "code": "VAU",
-            "short": "Vaughan",
-            "long": "Vaughan Azzurri",
-            "full": "Vaughan Azzurri SC",
-            "name": "Vaughan"
           },
           "redCards": {
             "teamA": 0,
