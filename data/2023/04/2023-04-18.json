@@ -723,7 +723,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "POSTPONED",
+          "status": "FIXTURE",
           "teamA": {
             "code": "CSC",
             "short": "CS Constantine",
@@ -2164,16 +2164,12 @@
       "matches": [
         {
           "startDate": "2023-04-18T11:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "South",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHE",
             "short": "Chelsea",
@@ -2193,7 +2189,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -2502,8 +2498,8 @@
         {
           "startDate": "2023-04-18T11:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 10,
+            "type": "SECOND_HALF",
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -2530,8 +2526,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2539,8 +2535,8 @@
         {
           "startDate": "2023-04-18T11:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 8,
+            "type": "SECOND_HALF",
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -2568,7 +2564,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2576,8 +2572,8 @@
         {
           "startDate": "2023-04-18T11:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 4,
+            "type": "SECOND_HALF",
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -2604,8 +2600,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2688,16 +2684,12 @@
         },
         {
           "startDate": "2023-04-18T10:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 63,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GYE",
             "short": "Gyeongnam",
@@ -2717,7 +2709,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 2
           },
           "agg": null,
