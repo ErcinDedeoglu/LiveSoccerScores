@@ -492,16 +492,12 @@
       "matches": [
         {
           "startDate": "2023-04-18T00:40:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HUI",
             "short": "Huila",
@@ -794,7 +790,7 @@
           "startDate": "2023-04-18T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -822,7 +818,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
