@@ -2199,7 +2199,7 @@
           "startDate": "2023-04-18T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -2226,7 +2226,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -2234,12 +2234,16 @@
         },
         {
           "startDate": "2023-04-18T14:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 8,
+            "extra": 0
+          },
           "round": {
             "name": "South",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LEI",
             "short": "Leicester",
@@ -2258,7 +2262,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2724,7 +2731,7 @@
           "startDate": "2023-04-18T14:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -2841,7 +2848,7 @@
           "startDate": "2023-04-18T13:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -2878,7 +2885,7 @@
           "startDate": "2023-04-18T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -2915,7 +2922,7 @@
           "startDate": "2023-04-18T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 31,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -2952,7 +2959,7 @@
           "startDate": "2023-04-18T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -2979,7 +2986,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
