@@ -27,8 +27,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">62'</p> | <p align="right">Internacional <img src="/static/logos/SC Internacional.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Metropolitanos FC.png" height="25px"> Metropolitanos</p> |
-| <p align="center">64'</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club The Strongest.png" height="25px"> The Strongest</p> |
+| <p align="center">85'</p> | <p align="right">Internacional <img src="/static/logos/SC Internacional.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Metropolitanos FC.png" height="25px"> Metropolitanos</p> |
+| <p align="center">87'</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club The Strongest.png" height="25px"> The Strongest</p> |
 </div>
 
 
@@ -64,8 +64,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">62'</p> | <p align="right">RB Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CD Oriente Petrolero.png" height="25px"> O. Petrolero</p> |
-| <p align="center">63'</p> | <p align="right">NOB <img src="/static/logos/Newell's Old Boys.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Club Blooming.png" height="25px"> Blooming</p> |
+| <p align="center">85'</p> | <p align="right">RB Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/CD Oriente Petrolero.png" height="25px"> O. Petrolero</p> |
+| <p align="center">86'</p> | <p align="right">NOB <img src="/static/logos/Newell's Old Boys.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Club Blooming.png" height="25px"> Blooming</p> |
 </div>
 
 
@@ -76,7 +76,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Huila <img src="/static/logos/CD Atlético Huila.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AD Pasto.png" height="25px"> Pasto</p> |
-| <p align="center">20'</p> | <p align="right">Once Caldas <img src="/static/logos/Once Caldas SA.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
+| <p align="center">43'</p> | <p align="right">Once Caldas <img src="/static/logos/Once Caldas SA.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
 </div>
 
 
@@ -107,7 +107,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Alebrijes <img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"> Pumas Tabasco</p> |
+| <p align="center">35'</p> | <p align="right">Alebrijes <img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Soccer Pumas de Tabasco.png" height="25px"> Pumas Tabasco</p> |
 </div>
 
 
@@ -158,8 +158,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Forge <img src="/static/logos/Forge FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Laval.png" height="25px"> FC Laval</p> |
-| <p align="center">14'</p> | <p align="right">Montréal <img src="/static/logos/Club de Foot Montréal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vaughan Azzurri SC.png" height="25px"> Vaughan</p> |
+| <p align="center">38'</p> | <p align="right">Forge <img src="/static/logos/Forge FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Laval.png" height="25px"> FC Laval</p> |
+| <p align="center">36'</p> | <p align="right">Montréal <img src="/static/logos/Club de Foot Montréal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Vaughan Azzurri SC.png" height="25px"> Vaughan</p> |
 </div>
 
 
