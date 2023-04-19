@@ -38,7 +38,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">22:00</p> | <p align="right">Nacional <img src="/static/logos/Club Nacional de Football Montevideo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"> Medellín</p> |
-| <p align="center">90' 2'</p> | <p align="right">Ind. del Valle <img src="/static/logos/CSD Independiente del Valle.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Liverpool FC Montevideo.png" height="25px"> Liverpool</p> |
+| <p align="center">FT</p> | <p align="right">Ind. del Valle <img src="/static/logos/CSD Independiente del Valle.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Liverpool FC Montevideo.png" height="25px"> Liverpool</p> |
 | <p align="center">FT</p> | <p align="right">Boca Juniors <img src="/static/logos/CA Boca Juniors.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
 | <p align="center">FT</p> | <p align="right">Paranaense <img src="/static/logos/Club Athletico Paranaense.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Clube Atlético Mineiro.png" height="25px"> Atl. Mineiro</p> |
 | <p align="center">FT</p> | <p align="right">Olimpia <img src="/static/logos/Club Olimpia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Patronato de la Juventud Católica.png" height="25px"> Patronato</p> |
@@ -69,7 +69,7 @@
 | <p align="center">22:00</p> | <p align="right">Guaraní <img src="/static/logos/Club Guaraní.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Danubio Fútbol Club.png" height="25px"> Danubio</p> |
 | <p align="center">FT</p> | <p align="right">Estudiantes <img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Tacuary FC.png" height="25px"> Tacuary</p> |
 | <p align="center">FT</p> | <p align="right">São Paulo <img src="/static/logos/São Paulo FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Academia Puerto Cabello.png" height="25px"> Puerto Cabello</p> |
-| <p align="center">90' 1'</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Gimnasia y Esgrima La Plata.png" height="25px"> Gimn La Plata</p> |
+| <p align="center">FT</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Gimnasia y Esgrima La Plata.png" height="25px"> Gimn La Plata</p> |
 | <p align="center">FT</p> | <p align="right">Palestino <img src="/static/logos/CD Palestino.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Estudiantes de Mérida FC.png" height="25px"> Estudiantes M.</p> |
 </div>
 
@@ -105,7 +105,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC Yucatán.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cancún FC.png" height="25px"> Cancún</p> |
-| <p align="center">43'</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Morelia.png" height="25px"> Morelia</p> |
+| <p align="center">HT</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Morelia.png" height="25px"> Morelia</p> |
 | <p align="center">23:00</p> | <p align="right">Tapatío <img src="/static/logos/CD Tapatío.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
 </div>
 
