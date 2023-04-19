@@ -898,7 +898,7 @@
           "startDate": "2023-04-19T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 81,
             "extra": 0
           },
           "round": {
