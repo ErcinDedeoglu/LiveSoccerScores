@@ -432,18 +432,6 @@
 </div>
 
 
-## <img src="/static/logos/Nicaragua-Primera Division.png" height="25px"> Nicaragua - Primera Division
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Diriangén <img src="/static/logos/Diriangén FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Sport Sébaco FC.png" height="25px"> Sport Sébaco</p> |
-| <p align="center">21:00</p> | <p align="right">Juventus <img src="/static/logos/Juventus FC Managua.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ART Municipal Jalapa.png" height="25px"> Jalapa</p> |
-| <p align="center">21:00</p> | <p align="right">Matagalpa <img src="/static/logos/Indígenas de Matagalpa FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Managua FC.png" height="25px"> Managua</p> |
-</div>
-
-
 ## <img src="/static/logos/Norway-Eliteserien.png" height="25px"> Norway - Eliteserien
 
 <div align="center">
