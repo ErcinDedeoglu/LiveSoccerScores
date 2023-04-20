@@ -29,8 +29,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">AZ <img src="/static/logos/Alkmaar Zaanstreek.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/RSC Anderlecht.png" height="25px"> Anderlecht</p> |
-| <p align="center">60'</p> | <p align="right">Fiorentina <img src="/static/logos/ACF Fiorentina.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/KKS Lech Poznań.png" height="25px"> Lech</p> |
+| <p align="center">102'</p> | <p align="right">AZ <img src="/static/logos/Alkmaar Zaanstreek.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/RSC Anderlecht.png" height="25px"> Anderlecht</p> |
+| <p align="center">FT</p> | <p align="right">Fiorentina <img src="/static/logos/ACF Fiorentina.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/KKS Lech Poznań.png" height="25px"> Lech</p> |
 | <p align="center">19:00</p> | <p align="right">Nice <img src="/static/logos/OGC Nice Côte d'Azur.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Basel 1893.png" height="25px"> Basel</p> |
 | <p align="center">19:00</p> | <p align="right">West Ham <img src="/static/logos/West Ham United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KAA Gent.png" height="25px"> Gent</p> |
 </div>
@@ -92,7 +92,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ankaragücü <img src="/static/logos/MKE Ankaragücü Spor Kulübü.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Giresun Spor Kulübü.png" height="25px"> Giresun</p> |
-| <p align="center">37'</p> | <p align="right">Sivasspor <img src="/static/logos/Sivasspor Kulübü.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Trabzonspor Kulübü.png" height="25px"> Trabzonspor</p> |
+| <p align="center">67'</p> | <p align="right">Sivasspor <img src="/static/logos/Sivasspor Kulübü.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Trabzonspor Kulübü.png" height="25px"> Trabzonspor</p> |
 </div>
 
 
@@ -238,7 +238,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Türkgücü <img src="/static/logos/SV Türkgücü München.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SV Viktoria Aschaffenburg.png" height="25px"> Aschaffenburg</p> |
+| <p align="center">FT</p> | <p align="right">Türkgücü <img src="/static/logos/SV Türkgücü München.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SV Viktoria Aschaffenburg.png" height="25px"> Aschaffenburg</p> |
 </div>
 
 
@@ -287,7 +287,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sirens <img src="/static/logos/Sirens FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pietà Hotspurs FC.png" height="25px"> Pietà</p> |
-| <p align="center">18:30</p> | <p align="right">Valletta <img src="/static/logos/Valletta FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Marsaxlokk FC.png" height="25px"> Marsaxlokk</p> |
+| <p align="center">29'</p> | <p align="right">Valletta <img src="/static/logos/Valletta FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Marsaxlokk FC.png" height="25px"> Marsaxlokk</p> |
 </div>
 
 
