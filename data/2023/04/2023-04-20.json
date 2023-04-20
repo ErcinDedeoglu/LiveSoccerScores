@@ -854,16 +854,12 @@
         },
         {
           "startDate": "2023-04-20T03:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MOB",
             "short": "Raya2",
