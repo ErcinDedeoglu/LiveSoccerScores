@@ -856,7 +856,7 @@
           "startDate": "2023-04-20T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1100,16 +1100,12 @@
         },
         {
           "startDate": "2023-04-20T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Preliminary Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TSS",
             "short": "TSS Rovers",
