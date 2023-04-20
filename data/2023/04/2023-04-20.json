@@ -357,16 +357,12 @@
         },
         {
           "startDate": "2023-04-20T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAR",
             "short": "Barcelona",
@@ -503,16 +499,12 @@
       "matches": [
         {
           "startDate": "2023-04-20T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LDU",
             "short": "LDU Quito",
@@ -718,7 +710,7 @@
           "startDate": "2023-04-20T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -745,7 +737,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -867,9 +859,9 @@
         {
           "startDate": "2023-04-20T03:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 5
           },
           "round": {
             "name": "Clausura",
@@ -1114,7 +1106,7 @@
           "startDate": "2023-04-20T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1141,7 +1133,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -1342,7 +1334,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 28
+            "extra": 47
           },
           "round": {
             "name": "Clausura",
@@ -1612,16 +1604,12 @@
       "matches": [
         {
           "startDate": "2023-04-20T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "XEL",
             "short": "Xelaj\u00FA",
@@ -2202,16 +2190,12 @@
       "matches": [
         {
           "startDate": "2023-04-20T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LA",
             "short": "Angel City",
@@ -2239,16 +2223,12 @@
         },
         {
           "startDate": "2023-04-20T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SD",
             "short": "San Diego Wave",
