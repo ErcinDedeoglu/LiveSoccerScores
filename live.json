@@ -211,9 +211,9 @@
         {
           "startDate": "2023-04-21T02:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 79,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -239,7 +239,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -372,7 +372,7 @@
           "startDate": "2023-04-21T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -400,7 +400,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -525,7 +525,7 @@
           "startDate": "2023-04-21T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -561,9 +561,9 @@
         {
           "startDate": "2023-04-21T02:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 88,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -585,12 +585,12 @@
             "name": "Tigre"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -599,7 +599,7 @@
           "startDate": "2023-04-21T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -626,8 +626,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1838,9 +1838,9 @@
         {
           "startDate": "2023-04-21T02:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 79,
+            "extra": 0
           },
           "round": {
             "name": "Preliminary Round",
@@ -2128,9 +2128,9 @@
         {
           "startDate": "2023-04-21T02:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 83,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -2157,7 +2157,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 3
           },
           "agg": null,
           "penalty": null

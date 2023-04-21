@@ -66,7 +66,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
+| <p align="center">79'</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
 </div>
 
 
@@ -97,7 +97,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Palmeiras <img src="/static/logos/SE Palmeiras.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Cerro Porteño.png" height="25px"> Cerro Porteño</p> |
-| <p align="center">47'</p> | <p align="right">Libertad <img src="/static/logos/Club Libertad.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Alianza Lima.png" height="25px"> Alianza Lima</p> |
+| <p align="center">90'</p> | <p align="right">Libertad <img src="/static/logos/Club Libertad.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Alianza Lima.png" height="25px"> Alianza Lima</p> |
 | <p align="center">FT</p> | <p align="right">Atl. Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/FBC Melgar.png" height="25px"> Melgar</p> |
 </div>
 
@@ -119,9 +119,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Botafogo <img src="/static/logos/Botafogo FR.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/CD Universidad César Vallejo.png" height="25px"> César Vallejo</p> |
-| <p align="center">46'</p> | <p align="right">Emelec <img src="/static/logos/CS Emelec.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Huracán.png" height="25px"> Huracán</p> |
-| <p align="center">HT</p> | <p align="right">Dep. Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Tigre.png" height="25px"> Tigre</p> |
-| <p align="center">46'</p> | <p align="right">Universitario <img src="/static/logos/Club Universitario de Deportes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Goiás EC.png" height="25px"> Goiás</p> |
+| <p align="center">89'</p> | <p align="right">Emelec <img src="/static/logos/CS Emelec.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Huracán.png" height="25px"> Huracán</p> |
+| <p align="center">88'</p> | <p align="right">Dep. Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CA Tigre.png" height="25px"> Tigre</p> |
+| <p align="center">89'</p> | <p align="right">Universitario <img src="/static/logos/Club Universitario de Deportes.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Goiás EC.png" height="25px"> Goiás</p> |
 </div>
 
 
@@ -292,7 +292,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Pacific <img src="/static/logos/Pacific FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cavalry FC.png" height="25px"> Cavalry</p> |
+| <p align="center">79'</p> | <p align="right">Pacific <img src="/static/logos/Pacific FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cavalry FC.png" height="25px"> Cavalry</p> |
 </div>
 
 
@@ -336,7 +336,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CS Cartaginés.png" height="25px"> Cartaginés</p> |
+| <p align="center">83'</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/CS Cartaginés.png" height="25px"> Cartaginés</p> |
 </div>
 
 
