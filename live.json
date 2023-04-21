@@ -1515,12 +1515,16 @@
       "matches": [
         {
           "startDate": "2023-04-21T14:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 18,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SMO",
             "short": "Smorgon",
@@ -1539,7 +1543,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1766,9 +1773,9 @@
         {
           "startDate": "2023-04-21T13:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 76,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1795,7 +1802,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2190,9 +2197,9 @@
         {
           "startDate": "2023-04-21T14:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 8,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -2776,9 +2783,9 @@
         {
           "startDate": "2023-04-21T13:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 87,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2805,7 +2812,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3585,16 +3592,12 @@
         },
         {
           "startDate": "2023-04-21T12:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "EGA",
             "short": "Egaleo",

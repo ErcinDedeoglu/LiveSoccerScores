@@ -238,7 +238,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Smorgon <img src="/static/logos/FC Smorgon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Slutsk.png" height="25px"> Slutsk</p> |
+| <p align="center">18'</p> | <p align="right">Smorgon <img src="/static/logos/FC Smorgon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Slutsk.png" height="25px"> Slutsk</p> |
 </div>
 
 
@@ -281,7 +281,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Botev Vratsa <img src="/static/logos/POFK Botev Vratsa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PFK Cherno more Varna.png" height="25px"> Cherno more</p> |
+| <p align="center">76'</p> | <p align="right">Botev Vratsa <img src="/static/logos/POFK Botev Vratsa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/PFK Cherno more Varna.png" height="25px"> Cherno more</p> |
 | <p align="center">15:45</p> | <p align="right">Ludogorets <img src="/static/logos/PFK Ludogorets 1945 Razgrad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Lokomotiv Sofia 1929.png" height="25px"> Lokomotiv Sf</p> |
 </div>
 
@@ -346,7 +346,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Lokomotiva <img src="/static/logos/NK Lokomotiva Zagreb.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/HNK Šibenik.png" height="25px"> Šibenik</p> |
+| <p align="center">HT</p> | <p align="right">Lokomotiva <img src="/static/logos/NK Lokomotiva Zagreb.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/HNK Šibenik.png" height="25px"> Šibenik</p> |
 | <p align="center">16:10</p> | <p align="right">Slaven <img src="/static/logos/NK Slaven Belupo Koprivnica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NK Osijek.png" height="25px"> Osijek</p> |
 </div>
 
@@ -443,7 +443,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Paris 13 <img src="/static/logos/FC Paris 13 Atletico.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AS Nancy-Lorraine.png" height="25px"> Nancy</p> |
+| <p align="center">87'</p> | <p align="right">Paris 13 <img src="/static/logos/FC Paris 13 Atletico.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/AS Nancy-Lorraine.png" height="25px"> Nancy</p> |
 | <p align="center">17:30</p> | <p align="right">Avranches <img src="/static/logos/US Avranches Mont-Saint-Michel.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/US Concarneau.png" height="25px"> Concarneau</p> |
 | <p align="center">17:30</p> | <p align="right">Bourg <img src="/static/logos/Football Bourg-en-Bresse Péronnas 01.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Le Mans FC.png" height="25px"> Le Mans</p> |
 | <p align="center">17:30</p> | <p align="right">Le Puy F. 43 <img src="/static/logos/Le Puy Football 43 Auvergne.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/US Orléans Loiret Football.png" height="25px"> Orléans</p> |
@@ -513,7 +513,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">PAO Rouf <img src="/static/logos/FC PAO Rouf.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Olympiakos CFP II.png" height="25px"> Olympiakos II</p> |
-| <p align="center">89'</p> | <p align="right">Egaleo <img src="/static/logos/PAE Egaleo FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Panachaiki FC.png" height="25px"> Panachaiki</p> |
+| <p align="center">FT</p> | <p align="right">Egaleo <img src="/static/logos/PAE Egaleo FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Panachaiki FC.png" height="25px"> Panachaiki</p> |
 </div>
 
 
