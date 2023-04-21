@@ -152,7 +152,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Espérance Sportive de Tunis.png" height="25px"> Tunis</p> |
+| <p align="center">69'</p> | <p align="right">Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Espérance Sportive de Tunis.png" height="25px"> Tunis</p> |
 </div>
 
 
@@ -260,7 +260,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Independiente <img src="/static/logos/Club Independiente Petrolero.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Nacional Potosí.png" height="25px"> Nacional</p> |
+| <p align="center">30'</p> | <p align="right">Independiente <img src="/static/logos/Club Independiente Petrolero.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Nacional Potosí.png" height="25px"> Nacional</p> |
 </div>
 
 
@@ -271,7 +271,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Atlético GO <img src="/static/logos/Atlético Goianiense.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Clube de Regatas Brasil.png" height="25px"> CRB</p> |
-| <p align="center">19'</p> | <p align="right">Botafogo SP <img src="/static/logos/Botafogo FC Ribeirão Preto.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sampaio Corrêa FC.png" height="25px"> Sampaio Corrêa</p> |
+| <p align="center">28'</p> | <p align="right">Botafogo SP <img src="/static/logos/Botafogo FC Ribeirão Preto.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sampaio Corrêa FC.png" height="25px"> Sampaio Corrêa</p> |
 </div>
 
 
@@ -326,7 +326,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">La Equidad <img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
+| <p align="center">FT</p> | <p align="right">La Equidad <img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
 </div>
 
 
@@ -604,7 +604,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">UTC Cajamarca <img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Grau.png" height="25px"> Grau</p> |
+| <p align="center">FT</p> | <p align="right">UTC Cajamarca <img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Atlético Grau.png" height="25px"> Grau</p> |
 </div>
 
 
@@ -785,7 +785,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Cerro Largo <img src="/static/logos/Cerro Largo FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Racing Club de Montevideo.png" height="25px"> Racing</p> |
+| <p align="center">24'</p> | <p align="right">Cerro Largo <img src="/static/logos/Cerro Largo FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Racing Club de Montevideo.png" height="25px"> Racing</p> |
 </div>
 
 
@@ -795,7 +795,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">One Knoxville <img src="/static/logos/One Knoxville SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Georgia Tormenta FC.png" height="25px"> Tormenta</p> |
+| <p align="center">22'</p> | <p align="right">One Knoxville <img src="/static/logos/One Knoxville SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Georgia Tormenta FC.png" height="25px"> Tormenta</p> |
 | <p align="center">23:00</p> | <p align="right">North Carolina <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chattanooga Red Wolves SC.png" height="25px"> Red Wolves</p> |
 </div>
 
@@ -816,7 +816,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Rayo Zuliano <img src="/static/logos/Deportivo Rayo Zuliano.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Zamora Fútbol Club.png" height="25px"> Zamora</p> |
+| <p align="center">69'</p> | <p align="right">Rayo Zuliano <img src="/static/logos/Deportivo Rayo Zuliano.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Zamora Fútbol Club.png" height="25px"> Zamora</p> |
 </div>
 
 
