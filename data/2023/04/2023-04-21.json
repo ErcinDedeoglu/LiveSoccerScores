@@ -1125,7 +1125,7 @@
           "startDate": "2023-04-21T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -1769,12 +1769,16 @@
       "matches": [
         {
           "startDate": "2023-04-21T13:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BVR",
             "short": "Botev Vratsa",
@@ -1793,7 +1797,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1953,7 +1960,7 @@
           "startDate": "2023-04-21T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -1990,7 +1997,7 @@
           "startDate": "2023-04-21T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -2027,7 +2034,7 @@
           "startDate": "2023-04-21T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -2559,9 +2566,9 @@
         {
           "startDate": "2023-04-21T12:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "North",
@@ -2605,16 +2612,12 @@
       "matches": [
         {
           "startDate": "2023-04-21T11:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 96,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SCP",
             "short": "Sporting CP",
@@ -2639,8 +2642,8 @@
           },
           "agg": null,
           "penalty": {
-            "teamA": 2,
-            "teamB": 2
+            "teamA": 3,
+            "teamB": 4
           }
         },
         {
@@ -2787,7 +2790,7 @@
           "startDate": "2023-04-21T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -2815,7 +2818,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3564,7 +3567,7 @@
           "startDate": "2023-04-21T11:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -5234,7 +5237,7 @@
           "startDate": "2023-04-21T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 59,
             "extra": 0
           },
           "round": {
