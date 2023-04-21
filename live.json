@@ -1817,16 +1817,12 @@
       "matches": [
         {
           "startDate": "2023-04-21T02:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 94,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Preliminary Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAC",
             "short": "Pacific",
@@ -1851,8 +1847,8 @@
           },
           "agg": null,
           "penalty": {
-            "teamA": 3,
-            "teamB": 2
+            "teamA": 5,
+            "teamB": 3
           }
         }
       ]
