@@ -2386,7 +2386,7 @@
           "startDate": "2023-04-22T21:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -3074,8 +3074,8 @@
           "startDate": "2023-04-22T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Group B",
@@ -3111,7 +3111,7 @@
           "startDate": "2023-04-22T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -4746,7 +4746,7 @@
           "startDate": "2023-04-22T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 59,
             "extra": 0
           },
           "round": {
@@ -5104,16 +5104,12 @@
         },
         {
           "startDate": "2023-04-22T20:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PMO",
             "short": "Puerto Montt",
@@ -5371,7 +5367,7 @@
           "startDate": "2023-04-22T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -6036,7 +6032,7 @@
           "startDate": "2023-04-22T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 56,
             "extra": 0
           },
           "round": {
@@ -12429,7 +12425,7 @@
           "startDate": "2023-04-22T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -16380,7 +16376,7 @@
           "startDate": "2023-04-22T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -16706,7 +16702,7 @@
           "startDate": "2023-04-22T22:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 21,
             "extra": 0
           },
           "round": {
