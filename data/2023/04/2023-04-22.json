@@ -1779,8 +1779,8 @@
         {
           "startDate": "2023-04-22T21:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 51,
             "extra": 0
           },
           "round": {
@@ -1816,9 +1816,9 @@
         {
           "startDate": "2023-04-22T21:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 7
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2386,7 +2386,7 @@
           "startDate": "2023-04-22T21:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -2495,9 +2495,9 @@
         {
           "startDate": "2023-04-22T21:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 50,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -3072,16 +3072,12 @@
         },
         {
           "startDate": "2023-04-22T20:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHA",
             "short": "Chacarita",
@@ -3111,7 +3107,7 @@
           "startDate": "2023-04-22T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -4566,8 +4562,8 @@
         {
           "startDate": "2023-04-22T21:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 48,
             "extra": 0
           },
           "round": {
@@ -4746,7 +4742,7 @@
           "startDate": "2023-04-22T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -5367,7 +5363,7 @@
           "startDate": "2023-04-22T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -6032,7 +6028,7 @@
           "startDate": "2023-04-22T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -12425,7 +12421,7 @@
           "startDate": "2023-04-22T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -16376,7 +16372,7 @@
           "startDate": "2023-04-22T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -16702,7 +16698,7 @@
           "startDate": "2023-04-22T22:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 28,
             "extra": 0
           },
           "round": {
