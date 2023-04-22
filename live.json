@@ -3251,16 +3251,12 @@
         },
         {
           "startDate": "2023-04-22T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MBJ",
             "short": "Moreton Bay",
@@ -3290,7 +3286,7 @@
           "startDate": "2023-04-22T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -3327,7 +3323,7 @@
           "startDate": "2023-04-22T08:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -3520,7 +3516,7 @@
           "startDate": "2023-04-22T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 11,
             "extra": 0
           },
           "round": {
@@ -3547,7 +3543,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -3696,7 +3692,7 @@
           "startDate": "2023-04-22T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -3776,7 +3772,7 @@
           "startDate": "2023-04-22T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -3813,7 +3809,7 @@
           "startDate": "2023-04-22T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -3850,7 +3846,7 @@
           "startDate": "2023-04-22T09:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 11,
             "extra": 0
           },
           "round": {
@@ -4916,16 +4912,12 @@
       "matches": [
         {
           "startDate": "2023-04-22T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DON",
             "short": "Dongguan Utd",
@@ -4953,16 +4945,12 @@
         },
         {
           "startDate": "2023-04-22T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NAN",
             "short": "Nanjing City",
@@ -5401,9 +5389,9 @@
         {
           "startDate": "2023-04-22T08:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -5439,7 +5427,7 @@
           "startDate": "2023-04-22T08:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 54,
             "extra": 0
           },
           "round": {
@@ -10137,16 +10125,12 @@
         },
         {
           "startDate": "2023-04-22T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DAE",
             "short": "Daegu",
@@ -10174,16 +10158,12 @@
         },
         {
           "startDate": "2023-04-22T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ULS",
             "short": "Ulsan",
@@ -13797,12 +13777,16 @@
       "matches": [
         {
           "startDate": "2023-04-22T09:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SOC",
             "short": "Sociedad",
@@ -13821,7 +13805,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -15009,7 +14996,7 @@
           "startDate": "2023-04-22T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 23,
             "extra": 0
           },
           "round": {
