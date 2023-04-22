@@ -112,7 +112,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CF Monterrey.png" height="25px"> Monterrey</p> |
 | <p align="center">FT</p> | <p align="right">Necaxa <img src="/static/logos/Club Necaxa.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"> Atlas</p> |
-| <p align="center">38'</p> | <p align="right">Tijuana <img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club León.png" height="25px"> León</p> |
+| <p align="center">45' 2'</p> | <p align="right">Tijuana <img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club León.png" height="25px"> León</p> |
 | <p align="center">23:00</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlético San Luis.png" height="25px"> A San Luis</p> |
 </div>
 
@@ -1019,7 +1019,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:00</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata Ladies.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JEF United Ichihara Chiba Ladies.png" height="25px"> JEF Utd</p> |
+| <p align="center">1'</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata Ladies.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JEF United Ichihara Chiba Ladies.png" height="25px"> JEF Utd</p> |
 | <p align="center">04:00</p> | <p align="right">Sendai <img src="/static/logos/Mynavi Sendai Ladies.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"> Urawa</p> |
 | <p align="center">05:00</p> | <p align="right">Nojima Stella <img src="/static/logos/Nojima Stella Kanagawa Sagamihara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chifure AS Elfen Saitama FC.png" height="25px"> Elfen</p> |
 </div>
