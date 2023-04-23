@@ -31,8 +31,8 @@
 | <p align="center">FT</p> | <p align="right">Nashville <img src="/static/logos/Nashville SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Los Angeles FC.png" height="25px"> Los Angeles</p> |
 | <p align="center">FT</p> | <p align="right">Colorado <img src="/static/logos/Colorado Rapids.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/St. Louis City SC.png" height="25px"> St. Louis</p> |
 | <p align="center">FT</p> | <p align="right">Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> Earthquakes</p> |
-| <p align="center">80'</p> | <p align="right">Galaxy <img src="/static/logos/LA Galaxy.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Austin FC.png" height="25px"> Austin</p> |
-| <p align="center">84'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Minnesota United FC.png" height="25px"> Minnesota</p> |
+| <p align="center">FT</p> | <p align="right">Galaxy <img src="/static/logos/LA Galaxy.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Austin FC.png" height="25px"> Austin</p> |
+| <p align="center">FT</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Minnesota United FC.png" height="25px"> Minnesota</p> |
 | <p align="center">20:30</p> | <p align="right">Atlanta United <img src="/static/logos/Atlanta United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago</p> |
 </div>
 
@@ -98,7 +98,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">Thorns <img src="/static/logos/Portland Thorns FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Racing Louisville FC.png" height="25px"> Racing Lou</p> |
+| <p align="center">90' 8'</p> | <p align="right">Thorns <img src="/static/logos/Portland Thorns FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Racing Louisville FC.png" height="25px"> Racing Lou</p> |
 | <p align="center">21:00</p> | <p align="right">KC Current <img src="/static/logos/Kansas City Current.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Orlando Pride.png" height="25px"> Pride</p> |
 </div>
 
@@ -110,7 +110,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Guadalajara <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Cruz Azul FC.png" height="25px"> Cruz Azul</p> |
-| <p align="center">HT</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"> Pumas</p> |
+| <p align="center">59'</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"> Pumas</p> |
 | <p align="center">18:00</p> | <p align="right">Toluca <img src="/static/logos/Deportivo Toluca FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Juárez.png" height="25px"> Juárez</p> |
 </div>
 
@@ -578,7 +578,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">SP. San José <img src="/static/logos/Sporting San José FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Puntarenas FC.png" height="25px"> Puntarenas</p> |
 | <p align="center">FT</p> | <p align="right">Pérez Zeledón <img src="/static/logos/Municipal de Pérez Zeledón.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Guadalupe FC.png" height="25px"> Guadalupe</p> |
-| <p align="center">90' 3'</p> | <p align="right">San Carlos <img src="/static/logos/AD San Carlos.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/AD Santos de Guápiles.png" height="25px"> Guápiles</p> |
+| <p align="center">FT</p> | <p align="right">San Carlos <img src="/static/logos/AD San Carlos.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/AD Santos de Guápiles.png" height="25px"> Guápiles</p> |
 | <p align="center">22:00</p> | <p align="right">Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Herediano.png" height="25px"> Herediano</p> |
 </div>
 
@@ -1013,7 +1013,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:30</p> | <p align="right">Chungnam Asan <img src="/static/logos/Chungnam Asan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gyeongnam FC.png" height="25px"> Gyeongnam</p> |
+| <p align="center">7'</p> | <p align="right">Chungnam Asan <img src="/static/logos/Chungnam Asan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gyeongnam FC.png" height="25px"> Gyeongnam</p> |
 | <p align="center">07:00</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bucheon FC 1995.png" height="25px"> Bucheon</p> |
 | <p align="center">09:30</p> | <p align="right">Ansan Greeners <img src="/static/logos/Ansan Greeners FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jeonnam Dragons FC.png" height="25px"> Dragons</p> |
 </div>
