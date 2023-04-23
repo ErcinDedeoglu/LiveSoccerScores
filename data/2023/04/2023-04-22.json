@@ -1244,39 +1244,6 @@
           "penalty": null
         },
         {
-          "startDate": "2023-04-22T18:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "SUSPENDED",
-          "teamA": {
-            "code": "GRO",
-            "short": "Groningen",
-            "long": "Groningen",
-            "full": "FC Groningen",
-            "name": "Groningen"
-          },
-          "teamB": {
-            "code": "NEC",
-            "short": "NEC",
-            "long": "NEC",
-            "full": "Nijmegen Eendracht Combinatie",
-            "name": "NEC"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-04-22T19:00:00Z",
           "period": null,
           "round": {
