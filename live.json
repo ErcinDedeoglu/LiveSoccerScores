@@ -4002,17 +4002,13 @@
       },
       "matches": [
         {
-          "startDate": "2023-04-23T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "startDate": "2023-04-23T07:15:00Z",
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BCT",
             "short": "Brisbane City",
@@ -4088,9 +4084,9 @@
         {
           "startDate": "2023-04-23T08:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -4162,9 +4158,9 @@
         {
           "startDate": "2023-04-23T08:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -4444,16 +4440,12 @@
         },
         {
           "startDate": "2023-04-23T07:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GRV",
             "short": "Ravens",
@@ -4511,12 +4503,16 @@
         },
         {
           "startDate": "2023-04-23T09:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BCL",
             "short": "Bankstown City",
@@ -4535,7 +4531,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -4653,7 +4652,7 @@
           "startDate": "2023-04-23T08:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -5276,7 +5275,7 @@
           "startDate": "2023-04-23T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -5313,7 +5312,7 @@
           "startDate": "2023-04-23T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -5341,7 +5340,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -5879,7 +5878,7 @@
           "startDate": "2023-04-23T08:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -9818,7 +9817,7 @@
           "startDate": "2023-04-23T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -9842,7 +9841,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 0,
