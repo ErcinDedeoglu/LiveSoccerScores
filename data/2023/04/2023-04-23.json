@@ -214,7 +214,7 @@
           "startDate": "2023-04-23T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -251,7 +251,7 @@
           "startDate": "2023-04-23T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -278,7 +278,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -938,7 +938,7 @@
           "startDate": "2023-04-23T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -5500,7 +5500,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 3
           },
           "round": {
             "name": "Clausura",
