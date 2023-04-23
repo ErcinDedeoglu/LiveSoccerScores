@@ -3030,6 +3030,36 @@
           "penalty": null
         },
         {
+          "startDate": "2023-04-22T18:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Group B",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "DMA",
+            "short": "Dep Madryn",
+            "long": "Deportivo Madryn",
+            "full": "Club Social y Deportivo Madryn",
+            "name": "Dep Madryn"
+          },
+          "teamB": {
+            "code": "ATR",
+            "short": "Rafaela",
+            "long": "Atl\u00E9tico Rafaela",
+            "full": "Atl\u00E9tico de Rafaela",
+            "name": "Rafaela"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
           "startDate": "2023-04-22T20:30:00Z",
           "period": null,
           "round": {
