@@ -2763,7 +2763,7 @@
           "startDate": "2023-04-23T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -2800,7 +2800,7 @@
           "startDate": "2023-04-23T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -2837,7 +2837,7 @@
           "startDate": "2023-04-23T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -4008,12 +4008,16 @@
       "matches": [
         {
           "startDate": "2023-04-23T07:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 22,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BCT",
             "short": "Brisbane City",
@@ -4032,7 +4036,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -4311,16 +4318,12 @@
         },
         {
           "startDate": "2023-04-23T05:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LEI",
             "short": "Leichhardt",
@@ -4341,7 +4344,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4380,7 +4383,7 @@
           "startDate": "2023-04-23T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -4407,8 +4410,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4417,7 +4420,7 @@
           "startDate": "2023-04-23T07:10:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -4452,12 +4455,16 @@
         },
         {
           "startDate": "2023-04-23T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TIG",
             "short": "Tigers",
@@ -4476,7 +4483,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -5207,7 +5217,7 @@
           "startDate": "2023-04-23T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -5242,12 +5252,16 @@
         },
         {
           "startDate": "2023-04-23T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 10,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DDT",
             "short": "Dandong Teng.",
@@ -5266,18 +5280,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-23T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SKF",
             "short": "Shijiazhuang",
@@ -5296,7 +5317,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -8225,7 +8249,7 @@
           "startDate": "2023-04-23T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -8262,7 +8286,7 @@
           "startDate": "2023-04-23T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -9771,12 +9795,16 @@
         },
         {
           "startDate": "2023-04-23T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 11,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JEJ",
             "short": "Jeju Utd",
@@ -9795,7 +9823,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -9846,7 +9877,7 @@
           "startDate": "2023-04-23T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -9874,7 +9905,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
