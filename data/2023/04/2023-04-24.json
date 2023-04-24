@@ -513,9 +513,9 @@
         {
           "startDate": "2023-04-24T09:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -714,7 +714,7 @@
           "startDate": "2023-04-24T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -741,7 +741,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -751,7 +751,7 @@
           "startDate": "2023-04-24T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -3365,12 +3365,16 @@
       "matches": [
         {
           "startDate": "2023-04-24T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 11,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DN1",
             "short": "Dnipro-1",
@@ -3389,7 +3393,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
