@@ -233,36 +233,6 @@
           "score": null,
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-04-24T22:30:00Z",
-          "period": null,
-          "round": {
-            "name": "1st Phase",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "TIG",
-            "short": "Tigre",
-            "long": "Tigre",
-            "full": "CA Tigre",
-            "name": "Tigre"
-          },
-          "teamB": {
-            "code": "HUR",
-            "short": "Hurac\u00E1n",
-            "long": "Hurac\u00E1n",
-            "full": "CA Hurac\u00E1n",
-            "name": "Hurac\u00E1n"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
         }
       ]
     },
@@ -544,7 +514,7 @@
           "startDate": "2023-04-24T09:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -572,7 +542,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -744,7 +714,7 @@
           "startDate": "2023-04-24T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -771,7 +741,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -779,12 +749,16 @@
         },
         {
           "startDate": "2023-04-24T09:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 15,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SMB",
             "short": "South Melb",
@@ -803,7 +777,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
