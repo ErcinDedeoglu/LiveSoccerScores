@@ -139,16 +139,12 @@
       "matches": [
         {
           "startDate": "2023-04-24T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VIG",
             "short": "Guimar\u00E3es",
@@ -169,7 +165,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -965,8 +961,8 @@
         {
           "startDate": "2023-04-24T20:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
+            "type": "SECOND_HALF",
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -1003,7 +999,7 @@
           "startDate": "2023-04-24T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1030,7 +1026,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1932,16 +1928,12 @@
       "matches": [
         {
           "startDate": "2023-04-24T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FYL",
             "short": "Fylkir",
@@ -1961,7 +1953,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 2
           },
           "agg": null,
@@ -1969,16 +1961,12 @@
         },
         {
           "startDate": "2023-04-24T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "STJ",
             "short": "Stjarnan",
@@ -1999,23 +1987,19 @@
           },
           "score": {
             "teamA": 5,
-            "teamB": 3
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-24T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VIR",
             "short": "V\u00EDkingur R",
