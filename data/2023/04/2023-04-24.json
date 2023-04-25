@@ -260,7 +260,7 @@
           "startDate": "2023-04-24T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -288,7 +288,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -663,9 +663,9 @@
         {
           "startDate": "2023-04-24T23:40:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Group A",
@@ -1046,12 +1046,16 @@
         },
         {
           "startDate": "2023-04-24T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 78,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CAR",
             "short": "Cartagena",
@@ -2731,7 +2735,7 @@
           "startDate": "2023-04-24T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -2758,8 +2762,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2845,7 +2849,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 1
+            "teamB": 0
           },
           "agg": null,
           "penalty": null
@@ -3852,7 +3856,7 @@
           "startDate": "2023-04-24T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 78,
             "extra": 0
           },
           "round": {
