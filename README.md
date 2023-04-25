@@ -169,7 +169,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:30</p> | <p align="right">Cherno more <img src="/static/logos/PFK Cherno more Varna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK Ludogorets 1945 Razgrad.png" height="25px"> Ludogorets</p> |
+| <p align="center">13'</p> | <p align="right">Cherno more <img src="/static/logos/PFK Cherno more Varna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PFK Ludogorets 1945 Razgrad.png" height="25px"> Ludogorets</p> |
 </div>
 
 
@@ -233,8 +233,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:30</p> | <p align="right">Pardubice <img src="/static/logos/FK Pardubice.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/1. FC Slovácko.png" height="25px"> Slovácko</p> |
-| <p align="center">15:30</p> | <p align="right">Teplice <img src="/static/logos/FK Teplice.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Mladá Boleslav.png" height="25px"> Mladá Boleslav</p> |
+| <p align="center">14'</p> | <p align="right">Pardubice <img src="/static/logos/FK Pardubice.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/1. FC Slovácko.png" height="25px"> Slovácko</p> |
+| <p align="center">13'</p> | <p align="right">Teplice <img src="/static/logos/FK Teplice.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Mladá Boleslav.png" height="25px"> Mladá Boleslav</p> |
 | <p align="center">17:30</p> | <p align="right">Baník <img src="/static/logos/FC Baník Ostrava.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SK Slavia Praha.png" height="25px"> Slavia</p> |
 </div>
 
@@ -381,7 +381,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Riga <img src="/static/logos/Riga FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Metta.png" height="25px"> Metta</p> |
+| <p align="center">42'</p> | <p align="right">Riga <img src="/static/logos/Riga FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FK Metta.png" height="25px"> Metta</p> |
 </div>
 
 
@@ -461,7 +461,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Bistrica <img src="/static/logos/NK Kety Emmi Bistrica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/NK Maribor.png" height="25px"> Maribor</p> |
+| <p align="center">55'</p> | <p align="right">Bistrica <img src="/static/logos/NK Kety Emmi Bistrica.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/NK Maribor.png" height="25px"> Maribor</p> |
 </div>
 
 
