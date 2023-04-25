@@ -304,12 +304,16 @@
         },
         {
           "startDate": "2023-04-25T22:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 10,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TIG",
             "short": "Tigre",
@@ -328,7 +332,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -582,7 +589,7 @@
           "startDate": "2023-04-25T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -950,7 +957,7 @@
           "startDate": "2023-04-25T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -1188,7 +1195,7 @@
           "startDate": "2023-04-25T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -1300,9 +1307,9 @@
         {
           "startDate": "2023-04-25T20:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
