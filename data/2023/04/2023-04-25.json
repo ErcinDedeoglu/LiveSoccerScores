@@ -526,16 +526,12 @@
       "matches": [
         {
           "startDate": "2023-04-25T01:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AME",
             "short": "Am\u00E9rica",
@@ -555,7 +551,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -1032,11 +1028,11 @@
           },
           "status": "FIXTURE",
           "teamA": {
-            "code": "QMA",
-            "short": "Manatee",
-            "long": "Qingdao Manatee",
-            "full": "Qingdao Manatee FC",
-            "name": "Manatee"
+            "code": "QDH",
+            "short": "Hainiu",
+            "long": "Qingdao Hainiu",
+            "full": "Qingdao Hainiu FC",
+            "name": "Hainiu"
           },
           "teamB": {
             "code": "BJG",
@@ -1101,7 +1097,7 @@
           "teamB": {
             "code": "ZHP",
             "short": "Zhejiang",
-            "long": "Zhejiang Professional",
+            "long": "Zhejiang",
             "full": "Zhejiang Professional FC",
             "name": "Zhejiang"
           },
@@ -1266,9 +1262,9 @@
         {
           "startDate": "2023-04-25T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Clausura",
@@ -2545,9 +2541,9 @@
         {
           "startDate": "2023-04-25T01:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 68,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
