@@ -51,7 +51,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Argentinos <img src="/static/logos/Argentinos Juniors.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Gimnasia y Esgrima La Plata.png" height="25px"> Gimn La Plata</p> |
-| <p align="center">45'</p> | <p align="right">Tigre <img src="/static/logos/CA Tigre.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Huracán.png" height="25px"> Huracán</p> |
+| <p align="center">HT</p> | <p align="right">Tigre <img src="/static/logos/CA Tigre.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Huracán.png" height="25px"> Huracán</p> |
 </div>
 
 
@@ -61,8 +61,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Charleston <img src="/static/logos/Charleston Battery.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Charlotte Independence.png" height="25px"> Independence</p> |
-| <p align="center">11'</p> | <p align="right">Pittsburgh <img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Maryland Bobcats FC.png" height="25px"> Maryland</p> |
+| <p align="center">18'</p> | <p align="right">Charleston <img src="/static/logos/Charleston Battery.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Charlotte Independence.png" height="25px"> Independence</p> |
+| <p align="center">19'</p> | <p align="right">Pittsburgh <img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Maryland Bobcats FC.png" height="25px"> Maryland</p> |
 | <p align="center">23:30</p> | <p align="right">Charlotte <img src="/static/logos/Charlotte FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/South Georgia Tormenta FC.png" height="25px"> Tormenta</p> |
 | <p align="center">23:30</p> | <p align="right">Detroit City <img src="/static/logos/Detroit City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Minnesota United FC.png" height="25px"> Minnesota</p> |
 | <p align="center">23:30</p> | <p align="right">New England <img src="/static/logos/New England Revolution.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hartford Athletic.png" height="25px"> Hartford Ath</p> |
@@ -87,7 +87,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">América <img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
 | <p align="center">FT</p> | <p align="right">Bucaramanga <img src="/static/logos/CA Bucaramanga.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
-| <p align="center">5'</p> | <p align="right">Pasto <img src="/static/logos/AD Pasto.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> Equidad</p> |
+| <p align="center">13'</p> | <p align="right">Pasto <img src="/static/logos/AD Pasto.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> Equidad</p> |
 </div>
 
 
@@ -158,8 +158,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">53'</p> | <p align="right">Cruzeiro <img src="/static/logos/Cruzeiro EC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Clube Náutico Capibaribe.png" height="25px"> Náutico</p> |
-| <p align="center">11'</p> | <p align="right">Paysandu <img src="/static/logos/Paysandu SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Fluminense FC.png" height="25px"> Fluminense</p> |
+| <p align="center">61'</p> | <p align="right">Cruzeiro <img src="/static/logos/Cruzeiro EC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Clube Náutico Capibaribe.png" height="25px"> Náutico</p> |
+| <p align="center">19'</p> | <p align="right">Paysandu <img src="/static/logos/Paysandu SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Fluminense FC.png" height="25px"> Fluminense</p> |
 </div>
 
 
@@ -203,7 +203,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Dep. Pasto <img src="/static/logos/AD Pasto.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/CD Atlético Huila.png" height="25px"> Atlético Huila</p> |
 | <p align="center">FT</p> | <p align="right">Pereira <img src="/static/logos/Deportivo Pereira FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Cortuluá Yumbo Industriales FC.png" height="25px"> Industriales</p> |
-| <p align="center">82'</p> | <p align="right">Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"> Boyacá Chicó</p> |
+| <p align="center">90'</p> | <p align="right">Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"> Boyacá Chicó</p> |
 </div>
 
 
