@@ -313,16 +313,12 @@
       "matches": [
         {
           "startDate": "2023-04-26T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "STL",
             "short": "St. Louis",
@@ -350,16 +346,12 @@
         },
         {
           "startDate": "2023-04-26T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 62,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SKC",
             "short": "Sporting KC",
@@ -379,7 +371,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -387,12 +379,16 @@
         },
         {
           "startDate": "2023-04-26T02:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 42,
+            "extra": 0
+          },
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MB",
             "short": "Monterey Bay",
@@ -411,7 +407,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -677,12 +676,16 @@
       "matches": [
         {
           "startDate": "2023-04-26T02:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 43,
+            "extra": 0
+          },
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TIG",
             "short": "Tigres",
@@ -701,7 +704,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -718,8 +724,8 @@
         {
           "startDate": "2023-04-26T01:20:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 29,
+            "type": "SECOND_HALF",
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -746,8 +752,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1184,16 +1190,12 @@
       "matches": [
         {
           "startDate": "2023-04-26T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "THS",
             "short": "The Strongest",
@@ -1261,16 +1263,12 @@
       "matches": [
         {
           "startDate": "2023-04-26T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 61,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ITU",
             "short": "Ituano",
@@ -1291,26 +1289,22 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "penalty": null
         },
         {
           "startDate": "2023-04-26T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 61,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAP",
             "short": "Paranaense",
@@ -1330,14 +1324,17 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 2
           },
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 2
+          }
         },
         {
           "startDate": "2023-04-26T22:00:00Z",
