@@ -441,7 +441,7 @@
           "startDate": "2023-04-26T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -476,12 +476,16 @@
         },
         {
           "startDate": "2023-04-26T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 24,
+            "extra": 0
+          },
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LDN",
             "short": "Loudoun Utd",
@@ -500,7 +504,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -566,12 +573,16 @@
         },
         {
           "startDate": "2023-04-26T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DC",
             "short": "DC United",
@@ -590,7 +601,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -821,16 +835,12 @@
         },
         {
           "startDate": "2023-04-26T21:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TOL",
             "short": "Dep. Tolima",
@@ -851,19 +861,23 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-26T23:20:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "AGD",
             "short": "\u00C1guilas D",
@@ -882,7 +896,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1411,7 +1428,7 @@
           "startDate": "2023-04-26T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -1438,11 +1455,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "penalty": null
@@ -1450,9 +1467,9 @@
         {
           "startDate": "2023-04-26T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 69,
+            "extra": 0
           },
           "round": {
             "name": "3rd Round",
@@ -1490,9 +1507,9 @@
         {
           "startDate": "2023-04-26T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "3rd Round",
@@ -1530,9 +1547,9 @@
         {
           "startDate": "2023-04-26T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 11
           },
           "round": {
             "name": "3rd Round",
@@ -1571,7 +1588,7 @@
           "startDate": "2023-04-26T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -1599,11 +1616,11 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 2,
-            "teamB": 4
+            "teamB": 5
           },
           "penalty": null
         }
@@ -2404,16 +2421,12 @@
       "matches": [
         {
           "startDate": "2023-04-26T21:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FIR",
             "short": "Firpo",
@@ -2441,16 +2454,12 @@
         },
         {
           "startDate": "2023-04-26T21:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PLA",
             "short": "Platense",
@@ -2478,16 +2487,12 @@
         },
         {
           "startDate": "2023-04-26T21:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AGU",
             "short": "\u00C1guila",
@@ -2507,7 +2512,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -2515,16 +2520,12 @@
         },
         {
           "startDate": "2023-04-26T21:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "OND",
             "short": "Once Deportivo",
@@ -2544,7 +2545,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
