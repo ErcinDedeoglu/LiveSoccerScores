@@ -1043,7 +1043,7 @@
           "startDate": "2023-04-26T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -1586,8 +1586,8 @@
           "startDate": "2023-04-26T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -1623,8 +1623,8 @@
           "startDate": "2023-04-26T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
+            "minute": 90,
+            "extra": 7
           },
           "round": {
             "name": "Regular Season",
@@ -1658,16 +1658,12 @@
         },
         {
           "startDate": "2023-04-26T11:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SHE",
             "short": "Shenhua",
@@ -1695,16 +1691,12 @@
         },
         {
           "startDate": "2023-04-26T11:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SFC",
             "short": "Shenzhen",
@@ -1814,7 +1806,7 @@
           "startDate": "2023-04-26T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -3045,7 +3037,7 @@
           "startDate": "2023-04-26T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -3545,7 +3537,7 @@
           "startDate": "2023-04-26T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 74,
             "extra": 0
           },
           "round": {
