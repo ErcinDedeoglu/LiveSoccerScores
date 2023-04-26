@@ -1043,7 +1043,7 @@
           "startDate": "2023-04-26T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -1071,7 +1071,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1584,16 +1584,12 @@
         },
         {
           "startDate": "2023-04-26T11:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DLP",
             "short": "Dalian",
@@ -1621,16 +1617,12 @@
         },
         {
           "startDate": "2023-04-26T11:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NZH",
             "short": "Nantong Zhiyun",
@@ -1806,7 +1798,7 @@
           "startDate": "2023-04-26T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -3037,7 +3029,7 @@
           "startDate": "2023-04-26T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -3537,7 +3529,7 @@
           "startDate": "2023-04-26T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 82,
             "extra": 0
           },
           "round": {
