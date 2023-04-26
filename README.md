@@ -54,7 +54,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">St. Louis <img src="/static/logos/St. Louis City SC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Union Omaha.png" height="25px"> Union Omaha</p> |
 | <p align="center">FT</p> | <p align="right">Sporting KC <img src="/static/logos/Sporting Kansas City.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Tulsa Athletic.png" height="25px"> Tulsa Athl.</p> |
-| <p align="center">51'</p> | <p align="right">Monterey Bay <img src="/static/logos/Monterey Bay FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> Earthquakes</p> |
+| <p align="center">83'</p> | <p align="right">Monterey Bay <img src="/static/logos/Monterey Bay FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> Earthquakes</p> |
 | <p align="center">23:00</p> | <p align="right">Cincinnati <img src="/static/logos/FC Cincinnati.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Louisville City FC.png" height="25px"> Louisville</p> |
 | <p align="center">23:00</p> | <p align="right">Loudoun Utd <img src="/static/logos/Loudoun United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Flower City Union.png" height="25px"> Flower City</p> |
 | <p align="center">23:30</p> | <p align="right">Atlanta United <img src="/static/logos/Atlanta United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Memphis 901 FC.png" height="25px"> Memphis 901</p> |
@@ -81,7 +81,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club León.png" height="25px"> León</p> |
+| <p align="center">83'</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club León.png" height="25px"> León</p> |
 </div>
 
 
@@ -293,7 +293,7 @@
 | <p align="center">21:15</p> | <p align="right">Firpo <img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD FAS.png" height="25px"> FAS</p> |
 | <p align="center">21:15</p> | <p align="right">Platense <img src="/static/logos/CD Platense Municipal Zacatecoluca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jocoro FC.png" height="25px"> Jocoro</p> |
 | <p align="center">21:30</p> | <p align="right">Águila <img src="/static/logos/CD Águila.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Chalatenango.png" height="25px"> Chalatenango</p> |
-| <p align="center">POS</p> | <p align="right">Once Deportivo <img src="/static/logos/11 Deportivo FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Club Deportivo Atlético Marte.png" height="25px"> Marte</p> |
+| <p align="center">21:30</p> | <p align="right">Once Deportivo <img src="/static/logos/11 Deportivo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportivo Atlético Marte.png" height="25px"> Marte</p> |
 </div>
 
 
