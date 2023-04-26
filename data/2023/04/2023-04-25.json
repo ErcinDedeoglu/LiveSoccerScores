@@ -1680,66 +1680,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-04-25T14:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "ITT",
-            "short": "Ittihad",
-            "long": "Al Ittihad",
-            "full": "Al Ittihad Al Iskandary",
-            "name": "Ittihad"
-          },
-          "teamB": {
-            "code": "PYR",
-            "short": "Pyramids",
-            "long": "Pyramids",
-            "full": "Pyramids FC",
-            "name": "Pyramids"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-25T16:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "ISM",
-            "short": "Ismaily",
-            "long": "Ismaily",
-            "full": "Ismaily SC",
-            "name": "Ismaily"
-          },
-          "teamB": {
-            "code": "ZAM",
-            "short": "Zamalek",
-            "long": "Zamalek",
-            "full": "Zamalek SC",
-            "name": "Zamalek"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-04-25T16:00:00Z",
           "period": null,
           "round": {
@@ -1769,36 +1709,6 @@
             "teamA": 0,
             "teamB": 0
           },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-25T18:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "AHL",
-            "short": "Ahly",
-            "long": "Al Ahly",
-            "full": "Al Ahly SC",
-            "name": "Ahly"
-          },
-          "teamB": {
-            "code": "CEC",
-            "short": "Ceramica Cleo",
-            "long": "Ceramica Cleopatra",
-            "full": "Ceramica Cleopatra FC",
-            "name": "Ceramica Cleo"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
           "agg": null,
           "penalty": null
         },
