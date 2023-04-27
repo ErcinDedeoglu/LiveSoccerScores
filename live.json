@@ -492,8 +492,8 @@
         {
           "startDate": "2023-04-27T02:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 116,
             "extra": 0
           },
           "round": {
@@ -520,24 +520,20 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-27T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAC",
             "short": "Sacramento ",
@@ -566,8 +562,8 @@
         {
           "startDate": "2023-04-27T02:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 120,
             "extra": 0
           },
           "round": {
@@ -594,24 +590,20 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
-            "teamB": 2
+            "teamA": 4,
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-27T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 54,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "POR",
             "short": "Portland",
@@ -631,7 +623,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
@@ -872,8 +864,8 @@
         {
           "startDate": "2023-04-27T03:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
+            "type": "SECOND_HALF",
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -900,7 +892,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1422,6 +1414,36 @@
             "teamA": 2,
             "teamB": 0
           },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-04-27T01:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "ISI",
+            "short": "Isidro",
+            "long": "Isidro Metap\u00E1n",
+            "full": "AD Isidro Metap\u00E1n",
+            "name": "Isidro"
+          },
+          "teamB": {
+            "code": "ALI",
+            "short": "Alianza",
+            "long": "Alianza",
+            "full": "Alianza FC",
+            "name": "Alianza"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
           "agg": null,
           "penalty": null
         }
