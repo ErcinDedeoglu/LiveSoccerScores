@@ -505,16 +505,12 @@
         },
         {
           "startDate": "2023-04-26T23:30:00Z",
-          "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 98,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATL",
             "short": "Atlanta United",
@@ -535,7 +531,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -608,16 +604,12 @@
         },
         {
           "startDate": "2023-04-26T23:30:00Z",
-          "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 97,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MIA",
             "short": "Miami",
@@ -637,11 +629,14 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 3,
+            "teamB": 5
+          }
         },
         {
           "startDate": "2023-04-26T23:30:00Z",
