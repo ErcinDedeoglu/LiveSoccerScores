@@ -475,7 +475,7 @@
           "startDate": "2023-04-28T09:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -512,7 +512,7 @@
           "startDate": "2023-04-28T09:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -796,12 +796,16 @@
       "matches": [
         {
           "startDate": "2023-04-28T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GGU",
             "short": "Green Gully",
@@ -820,7 +824,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -868,7 +875,7 @@
           "startDate": "2023-04-28T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -945,7 +952,7 @@
           "startDate": "2023-04-28T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -1222,7 +1229,7 @@
           "startDate": "2023-04-28T09:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -1259,7 +1266,7 @@
           "startDate": "2023-04-28T09:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -1296,7 +1303,7 @@
           "startDate": "2023-04-28T09:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -1960,12 +1967,16 @@
       "matches": [
         {
           "startDate": "2023-04-28T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CRY",
             "short": "Crystal Palace",
@@ -1984,7 +1995,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -4950,12 +4964,16 @@
       "matches": [
         {
           "startDate": "2023-04-28T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "FKM",
             "short": "FK Metalist",
@@ -4974,7 +4992,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -5050,12 +5071,16 @@
       "matches": [
         {
           "startDate": "2023-04-28T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Relegation Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PRY",
             "short": "Prykarpattia",
@@ -5074,7 +5099,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
