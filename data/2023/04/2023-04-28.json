@@ -259,9 +259,9 @@
         {
           "startDate": "2023-04-28T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 62,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -296,9 +296,9 @@
         {
           "startDate": "2023-04-28T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 64,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -429,9 +429,9 @@
         {
           "startDate": "2023-04-28T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 63,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1527,8 +1527,8 @@
         {
           "startDate": "2023-04-28T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 59,
             "extra": 0
           },
           "round": {
@@ -1564,8 +1564,8 @@
         {
           "startDate": "2023-04-28T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -1777,7 +1777,7 @@
           "startDate": "2023-04-28T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -1985,9 +1985,9 @@
         {
           "startDate": "2023-04-28T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "1st Round",
@@ -3895,9 +3895,9 @@
         {
           "startDate": "2023-04-28T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 64,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -5486,7 +5486,7 @@
           "startDate": "2023-04-28T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -5573,7 +5573,7 @@
           "startDate": "2023-04-28T22:40:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 44,
             "extra": 0
           },
           "round": {
