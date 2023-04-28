@@ -762,16 +762,12 @@
       "matches": [
         {
           "startDate": "2023-04-28T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Group 1",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VIL",
             "short": "Villa Mitre",
@@ -1533,7 +1529,7 @@
           "period": {
             "type": "HALF_TIME",
             "minute": 45,
-            "extra": 8
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1570,7 +1566,7 @@
           "period": {
             "type": "HALF_TIME",
             "minute": 45,
-            "extra": 4
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1779,12 +1775,16 @@
       "matches": [
         {
           "startDate": "2023-04-28T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "QUI",
             "short": "Quind\u00EDo",
@@ -1803,7 +1803,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1983,7 +1986,7 @@
           "startDate": "2023-04-28T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -5481,12 +5484,16 @@
         },
         {
           "startDate": "2023-04-28T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PE\u00D1",
             "short": "Pe\u00F1arol",
@@ -5505,7 +5512,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -5563,7 +5573,7 @@
           "startDate": "2023-04-28T22:40:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 25,
             "extra": 0
           },
           "round": {
