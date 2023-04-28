@@ -154,18 +154,6 @@
 </div>
 
 
-## <img src="/static/logos/Argentina-Primera Nacional.png" height="25px"> Argentina - Primera Nacional
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Atlanta <img src="/static/logos/CA Atlanta.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CD Riestra.png" height="25px"> Riestra</p> |
-| <p align="center">POS</p> | <p align="right">Maipú <img src="/static/logos/CD Maipú.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Atlético de Rafaela.png" height="25px"> Rafaela</p> |
-| <p align="center">POS</p> | <p align="right">Mitre SdE <img src="/static/logos/Club Atlético Mitre de Santiago del Estero.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Quilmes AC.png" height="25px"> Quilmes</p> |
-</div>
-
-
 ## <img src="/static/logos/Argentina-Torneo Federal A.png" height="25px"> Argentina - Torneo Federal A
 
 <div align="center">
