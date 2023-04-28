@@ -352,7 +352,7 @@
           "startDate": "2023-04-28T01:20:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -379,8 +379,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
-            "teamB": 1
+            "teamA": 4,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -587,16 +587,12 @@
       "matches": [
         {
           "startDate": "2023-04-28T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Clausura - Reclasificacion",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TLX",
             "short": "Tlaxcala",
@@ -2155,7 +2151,7 @@
           "startDate": "2023-04-28T01:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 72,
             "extra": 0
           },
           "round": {
