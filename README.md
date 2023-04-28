@@ -181,7 +181,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Green Gully <img src="/static/logos/Green Gully SC.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Dandenong Thunder SC.png" height="25px"> Dandenong</p> |
-| <p align="center">70'</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Moreland City FC.png" height="25px"> Moreland City</p> |
+| <p align="center">FT</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Moreland City FC.png" height="25px"> Moreland City</p> |
 </div>
 
 
@@ -396,7 +396,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">WBA <img src="/static/logos/West Bromwich Albion Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leeds United Under 21.png" height="25px"> Leeds</p> |
+| <p align="center">30'</p> | <p align="right">WBA <img src="/static/logos/West Bromwich Albion Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Leeds United Under 21.png" height="25px"> Leeds</p> |
 </div>
 
 
@@ -485,7 +485,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:15</p> | <p align="right">Panserraikos <img src="/static/logos/Panserraikos FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Veria NFC.png" height="25px"> Veria</p> |
+| <p align="center">62'</p> | <p align="right">Panserraikos <img src="/static/logos/Panserraikos FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Veria NFC.png" height="25px"> Veria</p> |
 </div>
 
 
@@ -505,7 +505,6 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">FH <img src="/static/logos/FH Hafnarfjörður.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KR Reykjavík.png" height="25px"> KR</p> |
 | <p align="center">20:00</p> | <p align="right">Breidablik <img src="/static/logos/Breidablik UBK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fram Reykjavík.png" height="25px"> Fram</p> |
 </div>
 
@@ -537,9 +536,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:15</p> | <p align="right">Negeri Seem. <img src="/static/logos/Negeri Sembilan FA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kedah Darul Aman FC.png" height="25px"> Kedah</p> |
-| <p align="center">13:00</p> | <p align="right">Kelantan <img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Perak Darul Ridzuan.png" height="25px"> Perak</p> |
-| <p align="center">13:00</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kelab Bola Sepak Sri Pahang.png" height="25px"> Sri Pahang</p> |
+| <p align="center">56'</p> | <p align="right">Negeri Seem. <img src="/static/logos/Negeri Sembilan FA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kedah Darul Aman FC.png" height="25px"> Kedah</p> |
+| <p align="center">32'</p> | <p align="right">Kelantan <img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Perak Darul Ridzuan.png" height="25px"> Perak</p> |
+| <p align="center">32'</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kelab Bola Sepak Sri Pahang.png" height="25px"> Sri Pahang</p> |
 </div>
 
 
@@ -787,7 +786,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">FK Metalist <img src="/static/logos/FK Metalist Kharkiv.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/FC Dynamo Kyiv.png" height="25px"> Dynamo Kyiv</p> |
 | <p align="center">FT</p> | <p align="right">Veres Rivne <img src="/static/logos/NK Veres Rivne.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/FK Lviv.png" height="25px"> Lviv</p> |
-| <p align="center">12:00</p> | <p align="right">Kolos <img src="/static/logos/FK Kolos Kovalivka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Shakhtar Donetsk.png" height="25px"> Shakhtar D</p> |
+| <p align="center">75'</p> | <p align="right">Kolos <img src="/static/logos/FK Kolos Kovalivka.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Shakhtar Donetsk.png" height="25px"> Shakhtar D</p> |
 </div>
 
 
