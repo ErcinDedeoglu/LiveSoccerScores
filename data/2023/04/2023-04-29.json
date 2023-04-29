@@ -703,7 +703,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 22
+            "extra": 31
           },
           "round": {
             "name": "Regular Season",
@@ -4856,8 +4856,8 @@
           "startDate": "2023-04-29T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Apertura",
@@ -5061,16 +5061,12 @@
       "matches": [
         {
           "startDate": "2023-04-29T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAN",
             "short": "San Carlos",
@@ -5538,16 +5534,12 @@
       "matches": [
         {
           "startDate": "2023-04-29T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "1st Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "EME",
             "short": "Emelec",
@@ -5567,7 +5559,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 3
           },
           "agg": null,
