@@ -2051,7 +2051,7 @@
           "startDate": "2023-04-29T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -2088,7 +2088,7 @@
           "startDate": "2023-04-29T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -2115,7 +2115,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2374,7 +2374,7 @@
           "startDate": "2023-04-29T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -2401,7 +2401,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -2411,7 +2411,7 @@
           "startDate": "2023-04-29T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -2448,7 +2448,7 @@
           "startDate": "2023-04-29T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -3297,7 +3297,7 @@
           "startDate": "2023-04-29T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -3324,8 +3324,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3403,9 +3403,9 @@
         {
           "startDate": "2023-04-29T06:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 31,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -3545,12 +3545,16 @@
         },
         {
           "startDate": "2023-04-29T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PMB",
             "short": "Port Melbourne",
@@ -3569,7 +3573,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -4668,7 +4675,7 @@
           "startDate": "2023-04-29T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -4703,12 +4710,16 @@
         },
         {
           "startDate": "2023-04-29T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DDT",
             "short": "Dandong Teng.",
@@ -4727,7 +4738,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -4803,12 +4817,16 @@
       "matches": [
         {
           "startDate": "2023-04-29T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "QRL",
             "short": "Red Lions",
@@ -4827,18 +4845,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-04-29T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHT",
             "short": "Tongliang Long",
@@ -4857,7 +4882,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -9584,7 +9612,7 @@
           "startDate": "2023-04-29T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -10395,7 +10423,7 @@
           "startDate": "2023-04-29T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -10670,7 +10698,7 @@
           "startDate": "2023-04-29T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -10697,7 +10725,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -10816,7 +10844,7 @@
           "startDate": "2023-04-29T06:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -10924,12 +10952,16 @@
         },
         {
           "startDate": "2023-04-29T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JEO",
             "short": "Jeonbuk Motors",
@@ -10948,7 +10980,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -10999,7 +11034,7 @@
           "startDate": "2023-04-29T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -11036,7 +11071,7 @@
           "startDate": "2023-04-29T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -11063,7 +11098,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
