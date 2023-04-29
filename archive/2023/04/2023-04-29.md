@@ -102,7 +102,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Juárez <img src="/static/logos/FC Juárez.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
+| <p align="center">45' 1'</p> | <p align="right">Juárez <img src="/static/logos/FC Juárez.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
 | <p align="center">23:00</p> | <p align="right">A San Luis <img src="/static/logos/Atlético San Luis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSyD Atlas de Guadalajara.png" height="25px"> Atlas</p> |
 | <p align="center">23:00</p> | <p align="right">Puebla <img src="/static/logos/Puebla FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"> Tijuana</p> |
 </div>
@@ -426,7 +426,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">03:45</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northern Tigers FC.png" height="25px"> Tigers</p> |
+| <p align="center">8'</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Northern Tigers FC.png" height="25px"> Tigers</p> |
 | <p align="center">05:00</p> | <p align="right">NWS Spirit <img src="/static/logos/North West Sydney Spirit FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gladesville Ravens SC.png" height="25px"> Ravens</p> |
 </div>
 
@@ -1060,7 +1060,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">JEF Utd <img src="/static/logos/JEF United Ichihara Chiba Ladies.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chifure AS Elfen Saitama FC.png" height="25px"> Elfen</p> |
+| <p align="center">HT</p> | <p align="right">JEF Utd <img src="/static/logos/JEF United Ichihara Chiba Ladies.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chifure AS Elfen Saitama FC.png" height="25px"> Elfen</p> |
 | <p align="center">05:00</p> | <p align="right">Omiya Ardija <img src="/static/logos/Omiya Ardija Ventus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Albirex Niigata Ladies.png" height="25px"> Albirex</p> |
 | <p align="center">05:00</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nojima Stella Kanagawa Sagamihara.png" height="25px"> Nojima Stella</p> |
 | <p align="center">06:00</p> | <p align="right">Parceiro <img src="/static/logos/AC Parceiro Nagano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Sanfrecce Hiroshima Regina.png" height="25px"> Sanfrecce</p> |
