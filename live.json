@@ -703,7 +703,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 15
+            "extra": 22
           },
           "round": {
             "name": "Regular Season",
@@ -4856,7 +4856,7 @@
           "startDate": "2023-04-29T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -5063,8 +5063,8 @@
           "startDate": "2023-04-29T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Clausura",
@@ -5540,8 +5540,8 @@
           "startDate": "2023-04-29T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "1st Round",
@@ -5568,7 +5568,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
