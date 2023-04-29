@@ -813,36 +813,6 @@
           },
           "status": "FIXTURE",
           "teamA": {
-            "code": "ASL",
-            "short": "A San Luis",
-            "long": "Atl\u00E9tico San Luis",
-            "full": "Atl\u00E9tico San Luis",
-            "name": "A San Luis"
-          },
-          "teamB": {
-            "code": "ATS",
-            "short": "Atlas",
-            "long": "Atlas",
-            "full": "CSyD Atlas de Guadalajara",
-            "name": "Atlas"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-29T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Clausura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
             "code": "PUE",
             "short": "Puebla",
             "long": "Puebla",
@@ -2116,9 +2086,9 @@
         {
           "startDate": "2023-04-29T09:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2504,9 +2474,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -3327,7 +3297,7 @@
           "startDate": "2023-04-29T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -3354,7 +3324,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,
@@ -3364,8 +3334,8 @@
           "startDate": "2023-04-29T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -3769,16 +3739,12 @@
         },
         {
           "startDate": "2023-04-29T09:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 75,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MST",
             "short": "Stallions",
@@ -3808,8 +3774,8 @@
           "startDate": "2023-04-29T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 70,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -3831,11 +3797,11 @@
             "name": "Manly Utd"
           },
           "redCards": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -4040,8 +4006,8 @@
         {
           "startDate": "2023-04-29T09:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 49,
             "extra": 0
           },
           "round": {
@@ -4077,9 +4043,9 @@
         {
           "startDate": "2023-04-29T09:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -6999,9 +6965,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 31,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "North",
@@ -7036,9 +7002,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 31,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "South",
@@ -7064,8 +7030,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -7073,9 +7039,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 29,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "South",
@@ -7101,7 +7067,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -7110,9 +7076,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "South",
@@ -7138,7 +7104,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -7147,9 +7113,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "South",
@@ -7183,12 +7149,16 @@
         },
         {
           "startDate": "2023-04-29T10:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 21,
+            "extra": 0
+          },
           "round": {
             "name": "South",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TOT",
             "short": "Spurs",
@@ -7207,7 +7177,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -9333,12 +9306,16 @@
       "matches": [
         {
           "startDate": "2023-04-29T10:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 11,
+            "extra": 0
+          },
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "AE2",
             "short": "AEK II",
@@ -9357,7 +9334,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -10158,7 +10138,7 @@
           "startDate": "2023-04-29T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -10947,9 +10927,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 31,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -10975,7 +10955,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -11170,7 +11150,7 @@
           "startDate": "2023-04-29T09:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -11286,9 +11266,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -11579,36 +11559,6 @@
           },
           "status": "FIXTURE",
           "teamA": {
-            "code": "KWA",
-            "short": "Kwara Utd",
-            "long": "Kwara United",
-            "full": "Kwara United",
-            "name": "Kwara Utd"
-          },
-          "teamB": {
-            "code": "PLT",
-            "short": "Plateau Utd",
-            "long": "Plateau United",
-            "full": "Plateau United FC",
-            "name": "Plateau Utd"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-29T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
             "code": "NAS",
             "short": "Nasarawa Utd",
             "long": "Nasarawa United",
@@ -11621,186 +11571,6 @@
             "long": "Shooting Stars",
             "full": "Shooting Stars FC (3SC)",
             "name": "Shooting Stars"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-29T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "WAR",
-            "short": "Warriors",
-            "long": "El Kanemi Warriors",
-            "full": "El Kanemi Warriors FC",
-            "name": "Warriors"
-          },
-          "teamB": {
-            "code": "ENY",
-            "short": "Enyimba",
-            "long": "Enyimba",
-            "full": "Enyimba International FC",
-            "name": "Enyimba"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-29T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ABI",
-            "short": "Abia",
-            "long": "Abia Warriors",
-            "full": "Abia Warriors FC",
-            "name": "Abia"
-          },
-          "teamB": {
-            "code": "DAK",
-            "short": "Dakkada",
-            "long": "Dakkada",
-            "full": "Dakkada FC",
-            "name": "Dakkada"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-29T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "BAY",
-            "short": "Bayelsa Utd",
-            "long": "Bayelsa United",
-            "full": "Bayelsa United FC",
-            "name": "Bayelsa Utd"
-          },
-          "teamB": {
-            "code": "SUN",
-            "short": "Sunshine",
-            "long": "Sunshine Stars",
-            "full": "Sunshine Stars FC",
-            "name": "Sunshine"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-29T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ENU",
-            "short": "Enugu",
-            "long": "Enugu Rangers",
-            "full": "Enugu Rangers International FC",
-            "name": "Enugu"
-          },
-          "teamB": {
-            "code": "WIK",
-            "short": "Wikki",
-            "long": "Wikki Tourist",
-            "full": "Wikki Tourists FC",
-            "name": "Wikki"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-29T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "LOB",
-            "short": "Lobi Stars",
-            "long": "Lobi Stars",
-            "full": "Lobi Stars FC",
-            "name": "Lobi Stars"
-          },
-          "teamB": {
-            "code": "NIG",
-            "short": "Tornadoes",
-            "long": "Niger Tornadoes",
-            "full": "Niger Tornadoes FC",
-            "name": "Tornadoes"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-29T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "RIV",
-            "short": "Rivers Utd",
-            "long": "Rivers United",
-            "full": "Rivers United FC",
-            "name": "Rivers Utd"
-          },
-          "teamB": {
-            "code": "DMU",
-            "short": "Doma United",
-            "long": "Doma United",
-            "full": "Doma United FC",
-            "name": "Doma United"
           },
           "redCards": {
             "teamA": 0,
@@ -12966,9 +12736,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 33,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -13003,9 +12773,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -13031,7 +12801,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -14190,9 +13960,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -15068,7 +14838,7 @@
           "startDate": "2023-04-29T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -15644,9 +15414,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -15681,9 +15451,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -15709,8 +15479,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -15818,9 +15588,9 @@
         {
           "startDate": "2023-04-29T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 28,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Championship Round",
@@ -15847,7 +15617,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
