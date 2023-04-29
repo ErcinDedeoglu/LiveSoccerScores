@@ -3144,6 +3144,49 @@
     },
     {
       "competition": {
+        "name": "U17 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-04-28T14:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - Preliminary Round",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "CZJ",
+            "short": "CZ Jena",
+            "long": "Carl Zeiss Jena U17",
+            "full": "FC Carl Zeiss Jena Under 17",
+            "name": "CZ Jena"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Super League 2",
         "area": {
           "name": "Greece"
