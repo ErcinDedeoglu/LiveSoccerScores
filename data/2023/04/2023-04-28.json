@@ -5490,53 +5490,6 @@
     },
     {
       "competition": {
-        "name": "MLS Next Pro",
-        "area": {
-          "name": "USA"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-04-28T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "LIVE",
-          "teamA": {
-            "code": "ATX",
-            "short": "Austin II",
-            "long": "Austin II",
-            "full": "Austin FC II",
-            "name": "Austin II"
-          },
-          "teamB": {
-            "code": "MIN",
-            "short": "MNUFC2",
-            "long": "Minnesota United II",
-            "full": "Minnesota United FC II",
-            "name": "MNUFC2"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "Primera Divisi\u00F3n",
         "area": {
           "name": "Venezuela"
