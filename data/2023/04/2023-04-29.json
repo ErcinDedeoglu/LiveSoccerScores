@@ -703,7 +703,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 31
+            "extra": 41
           },
           "round": {
             "name": "Regular Season",
@@ -777,12 +777,16 @@
       "matches": [
         {
           "startDate": "2023-04-29T03:05:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JUA",
             "short": "Ju\u00E1rez",
@@ -801,7 +805,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -4857,7 +4864,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 4
+            "extra": 5
           },
           "round": {
             "name": "Apertura",
@@ -10577,12 +10584,16 @@
       "matches": [
         {
           "startDate": "2023-04-29T03:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 10,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JEF",
             "short": "JEF Utd",
@@ -10601,7 +10612,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
