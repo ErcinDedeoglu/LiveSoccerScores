@@ -5487,36 +5487,6 @@
           "penalty": null
         },
         {
-          "startDate": "2023-04-29T22:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Clausura",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "GRE",
-            "short": "Grecia",
-            "long": "Municipal Grecia",
-            "full": "AD Municipal Grecia FC",
-            "name": "Grecia"
-          },
-          "teamB": {
-            "code": "CAR",
-            "short": "Cartagin\u00E9s",
-            "long": "Cartagin\u00E9s",
-            "full": "CS Cartagin\u00E9s",
-            "name": "Cartagin\u00E9s"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-04-29T23:00:00Z",
           "period": null,
           "round": {
