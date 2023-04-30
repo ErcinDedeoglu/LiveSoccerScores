@@ -1198,7 +1198,7 @@
           "startDate": "2023-04-30T03:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -3579,7 +3579,7 @@
           "startDate": "2023-04-30T03:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -7627,9 +7627,9 @@
         {
           "startDate": "2023-04-30T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -7664,9 +7664,9 @@
         {
           "startDate": "2023-04-30T04:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -7872,7 +7872,7 @@
           "startDate": "2023-04-30T04:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 25,
             "extra": 0
           },
           "round": {
