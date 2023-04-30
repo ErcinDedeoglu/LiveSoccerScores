@@ -3368,7 +3368,7 @@
           "startDate": "2023-04-30T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -3396,7 +3396,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3934,9 +3934,9 @@
         {
           "startDate": "2023-04-30T08:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -4596,16 +4596,12 @@
         },
         {
           "startDate": "2023-04-30T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 9
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ZHP",
             "short": "Zhejiang",
@@ -4626,7 +4622,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -4635,7 +4631,7 @@
           "startDate": "2023-04-30T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -5276,36 +5272,6 @@
             "teamA": 0,
             "teamB": 0
           },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-30T21:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Clausura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "GRE",
-            "short": "Grecia",
-            "long": "Municipal Grecia",
-            "full": "AD Municipal Grecia FC",
-            "name": "Grecia"
-          },
-          "teamB": {
-            "code": "CAR",
-            "short": "Cartagin\u00E9s",
-            "long": "Cartagin\u00E9s",
-            "full": "CS Cartagin\u00E9s",
-            "name": "Cartagin\u00E9s"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
           "agg": null,
           "penalty": null
         },
