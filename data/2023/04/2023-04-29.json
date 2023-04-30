@@ -16924,16 +16924,12 @@
         },
         {
           "startDate": "2023-04-29T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHS",
             "short": "Charleston",
@@ -17064,39 +17060,6 @@
           "score": {
             "teamA": 3,
             "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-04-29T23:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "TRM",
-            "short": "Tormenta",
-            "long": "Tormenta",
-            "full": "South Georgia Tormenta FC",
-            "name": "Tormenta"
-          },
-          "teamB": {
-            "code": "RIC",
-            "short": "Richmond",
-            "long": "Richmond Kickers",
-            "full": "Richmond Kickers",
-            "name": "Richmond"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 3
           },
           "agg": null,
           "penalty": null
