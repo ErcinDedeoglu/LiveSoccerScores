@@ -13488,39 +13488,6 @@
           "penalty": null
         },
         {
-          "startDate": "2023-04-30T18:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "SUSPENDED",
-          "teamA": {
-            "code": "RAC",
-            "short": "Racing",
-            "long": "Racing",
-            "full": "Racing Club de Montevideo",
-            "name": "Racing"
-          },
-          "teamB": {
-            "code": "PLC",
-            "short": "Plaza Colonia",
-            "long": "Plaza Colonia",
-            "full": "Club Plaza Colonia de Deportes",
-            "name": "Plaza Colonia"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-04-30T21:00:00Z",
           "period": null,
           "round": {
