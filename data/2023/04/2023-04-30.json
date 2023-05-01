@@ -5314,16 +5314,12 @@
       "matches": [
         {
           "startDate": "2023-04-30T23:40:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LLA",
             "short": "Llaneros",
@@ -5601,7 +5597,7 @@
           "penalty": null
         },
         {
-          "startDate": "2023-04-30T21:00:00Z",
+          "startDate": "2023-04-30T22:00:00Z",
           "period": null,
           "round": {
             "name": "Clausura",
@@ -5634,7 +5630,7 @@
           "penalty": null
         },
         {
-          "startDate": "2023-04-30T23:15:00Z",
+          "startDate": "2023-04-30T23:00:00Z",
           "period": null,
           "round": {
             "name": "Clausura",

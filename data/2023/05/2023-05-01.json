@@ -50,12 +50,16 @@
       "matches": [
         {
           "startDate": "2023-05-01T01:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 28,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MIN",
             "short": "Minnesota",
@@ -74,7 +78,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -162,8 +169,8 @@
           "startDate": "2023-05-01T01:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Clausura",
@@ -189,7 +196,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -319,7 +326,7 @@
           "startDate": "2023-05-01T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -364,12 +371,16 @@
       "matches": [
         {
           "startDate": "2023-05-01T01:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 23,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHI",
             "short": "Boyac\u00E1 Chic\u00F3",
@@ -388,7 +399,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -465,9 +479,9 @@
         {
           "startDate": "2023-05-01T00:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 60,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -493,7 +507,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -742,9 +756,9 @@
         {
           "startDate": "2023-05-01T00:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 58,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1693,8 +1707,8 @@
           "startDate": "2023-05-01T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Apertura",
@@ -2780,7 +2794,7 @@
           "startDate": "2023-05-01T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -2808,6 +2822,43 @@
           },
           "score": {
             "teamA": 1,
+            "teamB": 4
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-05-01T01:00:00Z",
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 45,
+            "extra": 1
+          },
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "LIVE",
+          "teamA": {
+            "code": "NYC",
+            "short": "NYCFC II",
+            "long": "New York City II",
+            "full": "New York City FC II",
+            "name": "NYCFC II"
+          },
+          "teamB": {
+            "code": "CLT",
+            "short": "Crown Legacy",
+            "long": "Crown Legacy",
+            "full": "Crown Legacy FC (Charlotte FC II)",
+            "name": "Crown Legacy"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
             "teamB": 2
           },
           "agg": null,
