@@ -1163,7 +1163,7 @@
           "startDate": "2023-05-01T07:00:00Z",
           "period": {
             "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 93,
+            "minute": 102,
             "extra": 0
           },
           "round": {
@@ -1517,6 +1517,46 @@
             "long": "Reggina",
             "full": "Urbs Sportiva Reggina 1914",
             "name": "Reggina"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Premier League",
+        "area": {
+          "name": "Malta"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-01T12:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Conference League Play-offs - Final",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "HIB",
+            "short": "Hibernians",
+            "long": "Hibernians",
+            "full": "Paola Hibernians FC",
+            "name": "Hibernians"
+          },
+          "teamB": {
+            "code": "BAL",
+            "short": "Balzan",
+            "long": "Balzan",
+            "full": "Balzan FC",
+            "name": "Balzan"
           },
           "redCards": {
             "teamA": 0,
