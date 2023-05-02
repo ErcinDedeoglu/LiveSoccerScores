@@ -1929,7 +1929,7 @@
           "startDate": "2023-05-02T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -1952,7 +1952,7 @@
             "name": "Rak\u00F3w"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -2306,7 +2306,7 @@
           "startDate": "2023-05-02T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 34,
             "extra": 0
           },
           "round": {
