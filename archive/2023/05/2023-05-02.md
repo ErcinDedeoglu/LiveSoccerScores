@@ -165,7 +165,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:45</p> | <p align="right">Botev Vratsa <img src="/static/logos/POFK Botev Vratsa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Lokomotiv Sofia 1929.png" height="25px"> Lokomotiv Sf</p> |
+| <p align="center">HT</p> | <p align="right">Botev Vratsa <img src="/static/logos/POFK Botev Vratsa.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FK Lokomotiv Sofia 1929.png" height="25px"> Lokomotiv Sf</p> |
 | <p align="center">17:00</p> | <p align="right">Slavia Sofia <img src="/static/logos/PFK Slavia 1913 Sofia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK Lokomotiv Plovdiv 1926.png" height="25px"> Loko Plovdiv</p> |
 </div>
 
@@ -197,7 +197,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Příbram <img src="/static/logos/1.FK Příbram.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SK Slavia Praha II.png" height="25px"> Slavia II</p> |
+| <p align="center">39'</p> | <p align="right">Příbram <img src="/static/logos/1.FK Příbram.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SK Slavia Praha II.png" height="25px"> Slavia II</p> |
 </div>
 
 
@@ -248,7 +248,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Trans <img src="/static/logos/JK Narva Trans.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Harju JK Laagri.png" height="25px"> Laagri</p> |
+| <p align="center">44'</p> | <p align="right">Trans <img src="/static/logos/JK Narva Trans.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Harju JK Laagri.png" height="25px"> Laagri</p> |
 | <p align="center">17:00</p> | <p align="right">Kalju <img src="/static/logos/Nõmme Kalju FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JK Tallinna Kalev.png" height="25px"> Tallinna Kalev</p> |
 </div>
 
@@ -313,7 +313,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Super Nova <img src="/static/logos/SK Super Nova.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Auda Riga.png" height="25px"> Auda</p> |
+| <p align="center">41'</p> | <p align="right">Super Nova <img src="/static/logos/SK Super Nova.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FK Auda Riga.png" height="25px"> Auda</p> |
 </div>
 
 
@@ -323,7 +323,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Džiugas <img src="/static/logos/FK Džiugas Telšiai.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Hegelmann Litauen Kaunas.png" height="25px"> H. Litauen</p> |
+| <p align="center">41'</p> | <p align="right">Džiugas <img src="/static/logos/FK Džiugas Telšiai.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Hegelmann Litauen Kaunas.png" height="25px"> H. Litauen</p> |
 | <p align="center">17:00</p> | <p align="right">Sūduva <img src="/static/logos/FK Sūduva Marijampolė.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FA Šiauliai.png" height="25px"> FA Šiauliai</p> |
 </div>
 
@@ -344,7 +344,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Arendal <img src="/static/logos/Arendal Fotball.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vålerenga Fotball II.png" height="25px"> Vålerenga II</p> |
+| <p align="center">40'</p> | <p align="right">Arendal <img src="/static/logos/Arendal Fotball.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Vålerenga Fotball II.png" height="25px"> Vålerenga II</p> |
 </div>
 
 
@@ -365,7 +365,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Legia <img src="/static/logos/KP Legia Warszawa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KS Raków Częstochowa.png" height="25px"> Raków</p> |
+| <p align="center">76'</p> | <p align="right">Legia <img src="/static/logos/KP Legia Warszawa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KS Raków Częstochowa.png" height="25px"> Raków</p> |
 </div>
 
 
@@ -398,7 +398,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Javor <img src="/static/logos/FK Javor Matis Ivanjica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Mladost GAT Novi Sad.png" height="25px"> Mladost NS</p> |
+| <p align="center">41'</p> | <p align="right">Javor <img src="/static/logos/FK Javor Matis Ivanjica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Mladost GAT Novi Sad.png" height="25px"> Mladost NS</p> |
 </div>
 
 
@@ -438,7 +438,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">34'</p> | <p align="right">Erzurumspor <img src="/static/logos/Erzurumspor Futbol Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sakaryaspor Kulübü Derneği.png" height="25px"> Sakaryaspor</p> |
+| <p align="center">81'</p> | <p align="right">Erzurumspor <img src="/static/logos/Erzurumspor Futbol Kulübü.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sakaryaspor Kulübü Derneği.png" height="25px"> Sakaryaspor</p> |
 </div>
 
 

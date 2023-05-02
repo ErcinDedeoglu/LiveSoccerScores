@@ -846,12 +846,16 @@
       "matches": [
         {
           "startDate": "2023-05-02T14:45:00Z",
-          "period": null,
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BVR",
             "short": "Botev Vratsa",
@@ -870,7 +874,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1032,12 +1039,16 @@
       "matches": [
         {
           "startDate": "2023-05-02T15:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 39,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PRI",
             "short": "P\u0159\u00EDbram",
@@ -1056,7 +1067,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1262,12 +1276,16 @@
       "matches": [
         {
           "startDate": "2023-05-02T15:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 44,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TRA",
             "short": "Trans",
@@ -1286,7 +1304,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1667,12 +1688,16 @@
       "matches": [
         {
           "startDate": "2023-05-02T15:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 41,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SPN",
             "short": "Super Nova",
@@ -1691,7 +1716,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -1707,12 +1735,16 @@
       "matches": [
         {
           "startDate": "2023-05-02T15:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 41,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DZI",
             "short": "D\u017Eiugas",
@@ -1731,7 +1763,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1817,12 +1852,16 @@
       "matches": [
         {
           "startDate": "2023-05-02T15:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 40,
+            "extra": 0
+          },
           "round": {
             "name": "Group 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ARE",
             "short": "Arendal",
@@ -1841,7 +1880,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 4,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1928,8 +1970,8 @@
         {
           "startDate": "2023-05-02T14:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
+            "type": "SECOND_HALF",
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -2144,12 +2186,16 @@
       "matches": [
         {
           "startDate": "2023-05-02T15:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 41,
+            "extra": 0
+          },
           "round": {
             "name": "Relegation Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JAV",
             "short": "Javor",
@@ -2168,7 +2214,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2305,8 +2354,8 @@
         {
           "startDate": "2023-05-02T14:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
+            "type": "SECOND_HALF",
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -2334,7 +2383,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
