@@ -552,8 +552,8 @@
           "startDate": "2023-05-02T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -580,7 +580,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 5
           },
           "agg": null,
           "penalty": null
@@ -1446,16 +1446,12 @@
       "matches": [
         {
           "startDate": "2023-05-02T11:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 72,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AKD",
             "short": "Anagennisi K",
@@ -1483,16 +1479,12 @@
         },
         {
           "startDate": "2023-05-02T11:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 71,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "APO",
             "short": "Apollon Pontou",
