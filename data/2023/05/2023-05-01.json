@@ -215,16 +215,12 @@
       "matches": [
         {
           "startDate": "2023-05-01T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAS",
             "short": "Vasco",
