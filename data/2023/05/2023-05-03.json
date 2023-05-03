@@ -1169,9 +1169,9 @@
         {
           "startDate": "2023-05-03T10:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 73,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1197,7 +1197,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -3683,16 +3683,12 @@
         },
         {
           "startDate": "2023-05-03T09:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 61,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RYU",
             "short": "Ry\u016Bky\u016B",
@@ -3712,7 +3708,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 3
           },
           "agg": null,
@@ -3863,9 +3859,9 @@
         {
           "startDate": "2023-05-03T10:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 73,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -3910,9 +3906,9 @@
         {
           "startDate": "2023-05-03T10:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 77,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -3938,8 +3934,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3947,9 +3943,9 @@
         {
           "startDate": "2023-05-03T10:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 21,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -3984,9 +3980,9 @@
         {
           "startDate": "2023-05-03T10:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 21,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -5647,9 +5643,9 @@
         {
           "startDate": "2023-05-03T10:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 72,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -5684,9 +5680,9 @@
         {
           "startDate": "2023-05-03T10:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 76,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -5720,12 +5716,16 @@
         },
         {
           "startDate": "2023-05-03T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 21,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LVI",
             "short": "Lviv",
@@ -5744,7 +5744,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -5848,156 +5851,6 @@
             "teamA": 1,
             "teamB": 0
           },
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "USL Championship",
-        "area": {
-          "name": "USA"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-05-03T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "MIA",
-            "short": "Miami",
-            "long": "Miami FC",
-            "full": "The Miami FC",
-            "name": "Miami"
-          },
-          "teamB": {
-            "code": "BHM",
-            "short": "Legion",
-            "long": "Birmingham Legion",
-            "full": "Birmingham Legion FC",
-            "name": "Legion"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "USL League One",
-        "area": {
-          "name": "USA"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-05-03T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "CLT",
-            "short": "Independence",
-            "long": "Charlotte Independence",
-            "full": "Charlotte Independence",
-            "name": "Independence"
-          },
-          "teamB": {
-            "code": "GVL",
-            "short": "Greenville",
-            "long": "Greenville Triumph",
-            "full": "Greenville Triumph SC",
-            "name": "Greenville"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-05-03T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "KNX",
-            "short": "One Knoxville",
-            "long": "One Knoxville",
-            "full": "One Knoxville SC",
-            "name": "One Knoxville"
-          },
-          "teamB": {
-            "code": "MAD",
-            "short": "Forward",
-            "long": "Forward Madison",
-            "full": "Forward Madison FC",
-            "name": "Forward"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "NWSL Challenge Cup",
-        "area": {
-          "name": "USA"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-05-03T23:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Group Stage",
-            "display": true
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "NC",
-            "short": "Courage",
-            "long": "North Carolina Courage",
-            "full": "North Carolina Courage",
-            "name": "Courage"
-          },
-          "teamB": {
-            "code": "NJY",
-            "short": "Gotham FC",
-            "long": "Gotham FC",
-            "full": "NJ/NY Gotham FC",
-            "name": "Gotham FC"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
           "agg": null,
           "penalty": null
         }
