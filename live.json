@@ -2640,7 +2640,7 @@
           "startDate": "2023-05-03T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -2677,7 +2677,7 @@
           "startDate": "2023-05-03T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -2714,7 +2714,7 @@
           "startDate": "2023-05-03T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -2751,7 +2751,7 @@
           "startDate": "2023-05-03T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -3960,7 +3960,7 @@
           "startDate": "2023-05-03T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -3987,7 +3987,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 3
           },
           "agg": null,
@@ -3997,7 +3997,7 @@
           "startDate": "2023-05-03T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -5725,9 +5725,9 @@
         {
           "startDate": "2023-05-03T11:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 49,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -5761,12 +5761,16 @@
         },
         {
           "startDate": "2023-05-03T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 12,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHO",
             "short": "Chornomorets",
@@ -5785,7 +5789,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -5793,7 +5800,7 @@
           "startDate": "2023-05-03T12:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 15,
             "extra": 0
           },
           "round": {
