@@ -565,7 +565,7 @@
           "startDate": "2023-05-03T02:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -718,7 +718,7 @@
           "startDate": "2023-05-03T02:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -745,11 +745,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "penalty": null
@@ -832,16 +832,12 @@
         },
         {
           "startDate": "2023-05-03T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NOB",
             "short": "NOB",
@@ -861,7 +857,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1201,7 +1197,7 @@
           "startDate": "2023-05-03T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -1229,7 +1225,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1439,16 +1435,12 @@
       "matches": [
         {
           "startDate": "2023-05-03T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AGO",
             "short": "Atl\u00E9tico GO",
@@ -1468,7 +1460,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -1576,16 +1568,12 @@
       "matches": [
         {
           "startDate": "2023-05-03T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 72,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAN",
             "short": "Manaus",
@@ -1605,7 +1593,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -1863,16 +1851,12 @@
       "matches": [
         {
           "startDate": "2023-05-03T00:40:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 69,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PET",
             "short": "Petrolera",
@@ -1892,12 +1876,12 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 0
-          },
-          "agg": {
             "teamA": 3,
             "teamB": 1
+          },
+          "agg": {
+            "teamA": 4,
+            "teamB": 2
           },
           "penalty": null
         },
