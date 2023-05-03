@@ -1168,12 +1168,16 @@
         },
         {
           "startDate": "2023-05-03T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "YFC",
             "short": "Yokohama",
@@ -1192,7 +1196,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3435,16 +3442,12 @@
         },
         {
           "startDate": "2023-05-03T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VER",
             "short": "Tokyo Verdy",
@@ -3682,8 +3685,8 @@
           "startDate": "2023-05-03T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -3709,8 +3712,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 1,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -3859,12 +3862,16 @@
         },
         {
           "startDate": "2023-05-03T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 15,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MYN",
             "short": "Sendai",
@@ -3883,7 +3890,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3899,12 +3909,16 @@
       "matches": [
         {
           "startDate": "2023-05-03T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 19,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GYE",
             "short": "Gyeongnam",
@@ -3923,7 +3937,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -5615,12 +5632,16 @@
       "matches": [
         {
           "startDate": "2023-05-03T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 17,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DN1",
             "short": "Dnipro-1",
@@ -5639,18 +5660,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-03T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SHK",
             "short": "Shakhtar D",
@@ -5669,7 +5697,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
