@@ -1895,46 +1895,6 @@
     },
     {
       "competition": {
-        "name": "Play-offs 1/2",
-        "area": {
-          "name": "Northern Ireland"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-05-02T00:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Finals",
-            "display": true
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "WPT",
-            "short": "Warrenpoint",
-            "long": "Warrenpoint Town",
-            "full": "Warrenpoint Town FC",
-            "name": "Warrenpoint"
-          },
-          "teamB": {
-            "code": "DUN",
-            "short": "Dungannon",
-            "long": "Dungannon Swifts",
-            "full": "Dungannon Swifts FC",
-            "name": "Dungannon"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "2. Division",
         "area": {
           "name": "Norway"
