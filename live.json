@@ -565,8 +565,8 @@
           "startDate": "2023-05-03T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Group Stage",
@@ -718,7 +718,7 @@
           "startDate": "2023-05-03T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -745,11 +745,11 @@
             "teamB": 1
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "penalty": null

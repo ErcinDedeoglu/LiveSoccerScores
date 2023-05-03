@@ -69,7 +69,7 @@
 | <p align="center">22:00</p> | <p align="right">Internacional <img src="/static/logos/SC Internacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Nacional de Football Montevideo.png" height="25px"> Nacional</p> |
 | <p align="center">22:00</p> | <p align="right">Cerro Porteño <img src="/static/logos/Club Cerro Porteño.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Bolívar.png" height="25px"> Bolívar</p> |
 | <p align="center">FT</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense FC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/CA River Plate.png" height="25px"> River Plate</p> |
-| <p align="center">87'</p> | <p align="right">Sp. Cristal <img src="/static/logos/Club Sporting Cristal SAC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club The Strongest.png" height="25px"> The Strongest</p> |
+| <p align="center">90' 5'</p> | <p align="right">Sp. Cristal <img src="/static/logos/Club Sporting Cristal SAC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club The Strongest.png" height="25px"> The Strongest</p> |
 | <p align="center">FT</p> | <p align="right">Corinthians <img src="/static/logos/SC Corinthians Paulista.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CSD Independiente del Valle.png" height="25px"> Ind. del Valle</p> |
 | <p align="center">FT</p> | <p align="right">Atl. Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Club Olimpia.png" height="25px"> Olimpia</p> |
 </div>
@@ -91,7 +91,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">80'</p> | <p align="right">Los Angeles <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Philadelphia Union.png" height="25px"> Philadelphia</p> |
+| <p align="center">87'</p> | <p align="right">Los Angeles <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Philadelphia Union.png" height="25px"> Philadelphia</p> |
 </div>
 
 
