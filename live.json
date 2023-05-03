@@ -1728,7 +1728,7 @@
           "startDate": "2023-05-03T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -2647,8 +2647,8 @@
           "startDate": "2023-05-03T11:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Group B",
@@ -2674,7 +2674,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 2
           },
           "agg": null,
@@ -2684,8 +2684,8 @@
           "startDate": "2023-05-03T11:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Group B",
@@ -2721,8 +2721,8 @@
           "startDate": "2023-05-03T11:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Group B",
@@ -2756,16 +2756,12 @@
         },
         {
           "startDate": "2023-05-03T11:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PRO",
             "short": "Proodeftiki",
@@ -2795,7 +2791,7 @@
           "startDate": "2023-05-03T12:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -2832,7 +2828,7 @@
           "startDate": "2023-05-03T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -5193,7 +5189,7 @@
           "startDate": "2023-05-03T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -5779,7 +5775,7 @@
           "startDate": "2023-05-03T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -5806,7 +5802,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -5814,16 +5810,12 @@
         },
         {
           "startDate": "2023-05-03T12:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 69,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "SUSPENDED",
           "teamA": {
             "code": "ZOR",
             "short": "Zorya",
