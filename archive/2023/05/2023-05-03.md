@@ -227,7 +227,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Spartak Varna <img src="/static/logos/FK Spartak 1918 Varna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK CSKA 1948 Sofia.png" height="25px"> CSKA 1948</p> |
+| <p align="center">HT</p> | <p align="right">Spartak Varna <img src="/static/logos/FK Spartak 1918 Varna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK CSKA 1948 Sofia.png" height="25px"> CSKA 1948</p> |
 | <p align="center">15:15</p> | <p align="right">Arda <img src="/static/logos/FK Arda 1924 Kardzhali.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK Cherno more Varna.png" height="25px"> Cherno more</p> |
 | <p align="center">17:30</p> | <p align="right">Ludogorets <img src="/static/logos/PFK Ludogorets 1945 Razgrad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK Beroe Stara Zagora.png" height="25px"> Beroe</p> |
 </div>
@@ -387,12 +387,12 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">00:00</p> | <p align="right">Iraklis Laris. <img src="/static/logos/AE Iraklis Larissa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Apollon Larissa FC.png" height="25px"> Apollon</p> |
 | <p align="center">00:00</p> | <p align="right">Ierapetra <img src="/static/logos/OFI Ierapetra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PAS Irodotos Nea Alikarnassos.png" height="25px"> Irodotos</p> |
-| <p align="center">90' 3'</p> | <p align="right">Egaleo <img src="/static/logos/PAE Egaleo FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/AO Episkopis Rethymno.png" height="25px"> Episkopi</p> |
-| <p align="center">90' 6'</p> | <p align="right">Ilioupoli <img src="/static/logos/GS Ilioupoli FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/PS PAE Kalamata.png" height="25px"> Kalamata</p> |
-| <p align="center">90' 3'</p> | <p align="right">Kallithea <img src="/static/logos/GS Kallithea FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Panachaiki FC.png" height="25px"> Panachaiki</p> |
+| <p align="center">FT</p> | <p align="right">Egaleo <img src="/static/logos/PAE Egaleo FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/AO Episkopis Rethymno.png" height="25px"> Episkopi</p> |
+| <p align="center">FT</p> | <p align="right">Ilioupoli <img src="/static/logos/GS Ilioupoli FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/PS PAE Kalamata.png" height="25px"> Kalamata</p> |
+| <p align="center">FT</p> | <p align="right">Kallithea <img src="/static/logos/GS Kallithea FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Panachaiki FC.png" height="25px"> Panachaiki</p> |
 | <p align="center">FT</p> | <p align="right">Proodeftiki <img src="/static/logos/Proodeftiki FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Olympiakos CFP II.png" height="25px"> Olympiakos II</p> |
-| <p align="center">65'</p> | <p align="right">Larissa <img src="/static/logos/AE Larissa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Panserraikos FC.png" height="25px"> Panserraikos</p> |
-| <p align="center">43'</p> | <p align="right">PAO Rouf <img src="/static/logos/FC PAO Rouf.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/PAE Chania.png" height="25px"> Chania</p> |
+| <p align="center">72'</p> | <p align="right">Larissa <img src="/static/logos/AE Larissa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Panserraikos FC.png" height="25px"> Panserraikos</p> |
+| <p align="center">HT</p> | <p align="right">PAO Rouf <img src="/static/logos/FC PAO Rouf.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/PAE Chania.png" height="25px"> Chania</p> |
 </div>
 
 
@@ -641,7 +641,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Pirates <img src="/static/logos/Orlando Pirates FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Royal AM.png" height="25px"> Royal AM</p> |
+| <p align="center">HT</p> | <p align="right">Pirates <img src="/static/logos/Orlando Pirates FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Royal AM.png" height="25px"> Royal AM</p> |
 | <p align="center">15:15</p> | <p align="right">Sekhukhune Utd <img src="/static/logos/Sekhukhune United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TS Galaxy FC.png" height="25px"> TS Galaxy</p> |
 | <p align="center">17:30</p> | <p align="right">AmaZulu <img src="/static/logos/AmaZulu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"> Mamelodi</p> |
 | <p align="center">17:30</p> | <p align="right">Cape Town City <img src="/static/logos/Cape Town City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lamontville Golden Arrows FC.png" height="25px"> Arrows</p> |
@@ -712,7 +712,7 @@
 | <p align="center">FT</p> | <p align="right">Dnipro-1 <img src="/static/logos/SK Dnipro-1.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/FK Metalist Kharkiv.png" height="25px"> FK Metalist</p> |
 | <p align="center">FT</p> | <p align="right">Shakhtar D <img src="/static/logos/FC Shakhtar Donetsk.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Minai.png" height="25px"> Minai</p> |
 | <p align="center">FT</p> | <p align="right">Lviv <img src="/static/logos/FK Lviv.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Oleksandria.png" height="25px"> Oleksandria</p> |
-| <p align="center">85'</p> | <p align="right">Chornomorets <img src="/static/logos/FK Chornomorets Odessa.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/FK Kolos Kovalivka.png" height="25px"> Kolos</p> |
+| <p align="center">90'</p> | <p align="right">Chornomorets <img src="/static/logos/FK Chornomorets Odessa.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/FK Kolos Kovalivka.png" height="25px"> Kolos</p> |
 | <p align="center">12:00</p> | <p align="right">Zorya <img src="/static/logos/FC Zorya Luhansk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NK Veres Rivne.png" height="25px"> Veres Rivne</p> |
 </div>
 

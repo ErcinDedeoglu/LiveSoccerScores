@@ -1727,9 +1727,9 @@
         {
           "startDate": "2023-05-03T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -2645,16 +2645,12 @@
         },
         {
           "startDate": "2023-05-03T11:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "EGA",
             "short": "Egaleo",
@@ -2675,23 +2671,19 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-03T11:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ILI",
             "short": "Ilioupoli",
@@ -2719,16 +2711,12 @@
         },
         {
           "startDate": "2023-05-03T11:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KAL",
             "short": "Kallithea",
@@ -2748,7 +2736,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
@@ -2791,7 +2779,7 @@
           "startDate": "2023-05-03T12:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -2827,9 +2815,9 @@
         {
           "startDate": "2023-05-03T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Group B",
@@ -5188,9 +5176,9 @@
         {
           "startDate": "2023-05-03T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -5775,7 +5763,7 @@
           "startDate": "2023-05-03T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
+            "minute": 90,
             "extra": 0
           },
           "round": {
