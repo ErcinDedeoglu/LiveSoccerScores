@@ -313,9 +313,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Kagoshima Utd <img src="/static/logos/Kagoshima United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Giravanz Kitakyushu.png" height="25px"> Giravanz</p> |
-| <p align="center">HT</p> | <p align="right">Sagamihara <img src="/static/logos/SC Sagamihara.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kataller Toyama.png" height="25px"> Toyama</p> |
-| <p align="center">HT</p> | <p align="right">Vanraure <img src="/static/logos/Vanraure Hachinohe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Imabari.png" height="25px"> Imabari</p> |
+| <p align="center">54'</p> | <p align="right">Kagoshima Utd <img src="/static/logos/Kagoshima United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Giravanz Kitakyushu.png" height="25px"> Giravanz</p> |
+| <p align="center">47'</p> | <p align="right">Sagamihara <img src="/static/logos/SC Sagamihara.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kataller Toyama.png" height="25px"> Toyama</p> |
+| <p align="center">49'</p> | <p align="right">Vanraure <img src="/static/logos/Vanraure Hachinohe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Imabari.png" height="25px"> Imabari</p> |
 </div>
 
 
