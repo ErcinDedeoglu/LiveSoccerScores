@@ -917,7 +917,7 @@
           "startDate": "2023-05-04T10:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 35,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -944,7 +944,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -2928,9 +2928,9 @@
         {
           "startDate": "2023-05-04T10:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2965,9 +2965,9 @@
         {
           "startDate": "2023-05-04T10:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
