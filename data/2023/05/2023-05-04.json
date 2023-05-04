@@ -1980,7 +1980,7 @@
           "startDate": "2023-05-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -2017,7 +2017,7 @@
           "startDate": "2023-05-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -2054,7 +2054,7 @@
           "startDate": "2023-05-04T05:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 25,
             "extra": 0
           },
           "round": {
