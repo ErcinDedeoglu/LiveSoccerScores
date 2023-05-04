@@ -1980,8 +1980,8 @@
           "startDate": "2023-05-04T05:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -2004,10 +2004,10 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -2017,7 +2017,7 @@
           "startDate": "2023-05-04T05:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -2045,7 +2045,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2054,7 +2054,7 @@
           "startDate": "2023-05-04T05:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -2082,7 +2082,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
