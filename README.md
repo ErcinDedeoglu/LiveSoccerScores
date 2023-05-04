@@ -140,7 +140,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
+| <p align="center">59'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
 </div>
 
 
@@ -448,8 +448,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">Inhulets' <img src="/static/logos/FK Inhulets' Petrove.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Kryvbas Kryvyi Rih.png" height="25px"> Kryvbas KR</p> |
-| <p align="center">71'</p> | <p align="right">Metalist 1925 <img src="/static/logos/FC Metalist 1925 Kharkiv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Rukh Vynnyky.png" height="25px"> Rukh Vynnyky</p> |
+| <p align="center">82'</p> | <p align="right">Inhulets' <img src="/static/logos/FK Inhulets' Petrove.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Kryvbas Kryvyi Rih.png" height="25px"> Kryvbas KR</p> |
+| <p align="center">79'</p> | <p align="right">Metalist 1925 <img src="/static/logos/FC Metalist 1925 Kharkiv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Rukh Vynnyky.png" height="25px"> Rukh Vynnyky</p> |
 | <p align="center">12:00</p> | <p align="right">Vorskla <img src="/static/logos/FC Vorskla Poltava.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dynamo Kyiv.png" height="25px"> Dynamo Kyiv</p> |
 </div>
 
