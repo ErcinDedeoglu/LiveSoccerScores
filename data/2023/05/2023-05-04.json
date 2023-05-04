@@ -119,16 +119,12 @@
         },
         {
           "startDate": "2023-05-04T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATH",
             "short": "Athletic Club",
@@ -144,7 +140,7 @@
             "name": "Betis"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -156,16 +152,12 @@
         },
         {
           "startDate": "2023-05-04T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RAY",
             "short": "Vallecano",
@@ -1381,9 +1373,9 @@
         {
           "startDate": "2023-05-04T20:45:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "3rd Round",
@@ -1432,7 +1424,7 @@
           "startDate": "2023-05-04T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -2320,8 +2312,8 @@
         {
           "startDate": "2023-05-04T19:30:00Z",
           "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 102,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 107,
             "extra": 0
           },
           "round": {
