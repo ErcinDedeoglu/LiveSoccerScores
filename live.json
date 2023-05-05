@@ -1708,7 +1708,7 @@
           "startDate": "2023-05-05T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -1745,7 +1745,7 @@
           "startDate": "2023-05-05T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -1772,7 +1772,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1782,7 +1782,7 @@
           "startDate": "2023-05-05T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -1819,7 +1819,7 @@
           "startDate": "2023-05-05T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -2154,12 +2154,16 @@
       "matches": [
         {
           "startDate": "2023-05-05T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 12,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MNU",
             "short": "Man Utd",
@@ -2178,7 +2182,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3131,9 +3138,9 @@
         {
           "startDate": "2023-05-05T12:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Group A",
@@ -4658,7 +4665,7 @@
           "startDate": "2023-05-05T11:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -4685,7 +4692,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 2
           },
           "agg": null,
