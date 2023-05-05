@@ -2140,7 +2140,7 @@
           "startDate": "2023-05-05T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -2167,7 +2167,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -3123,7 +3123,7 @@
           "startDate": "2023-05-05T12:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -4647,16 +4647,12 @@
       "matches": [
         {
           "startDate": "2023-05-05T11:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAM",
             "short": "Tampines",
@@ -4676,7 +4672,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 3
           },
           "agg": null,
