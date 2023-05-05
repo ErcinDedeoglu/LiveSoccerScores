@@ -952,6 +952,49 @@
     },
     {
       "competition": {
+        "name": "Ligue 1",
+        "area": {
+          "name": "Algeria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-04T12:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "VOR",
+            "short": "Vorskla",
+            "long": "Vorskla",
+            "full": "FC Vorskla Poltava",
+            "name": "Vorskla"
+          },
+          "teamB": {
+            "code": "DYN",
+            "short": "Dynamo Kyiv",
+            "long": "Dynamo Kyiv",
+            "full": "FC Dynamo Kyiv",
+            "name": "Dynamo Kyiv"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Queensland NPL Women",
         "area": {
           "name": "Australia"
@@ -3172,39 +3215,6 @@
           "score": {
             "teamA": 0,
             "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-05-04T12:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "RESULT",
-          "teamA": {
-            "code": "VOR",
-            "short": "Vorskla",
-            "long": "Vorskla",
-            "full": "FC Vorskla Poltava",
-            "name": "Vorskla"
-          },
-          "teamB": {
-            "code": "DYN",
-            "short": "Dynamo Kyiv",
-            "long": "Dynamo Kyiv",
-            "full": "FC Dynamo Kyiv",
-            "name": "Dynamo Kyiv"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 2
           },
           "agg": null,
           "penalty": null
