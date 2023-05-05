@@ -635,9 +635,9 @@
         {
           "startDate": "2023-05-05T03:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Clausura - Quarter-finals",
