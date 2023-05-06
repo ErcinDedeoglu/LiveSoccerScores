@@ -9326,7 +9326,7 @@
           "startDate": "2023-05-06T04:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 12,
             "extra": 0
           },
           "round": {
