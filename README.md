@@ -967,7 +967,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:30</p> | <p align="right">Ansan Greeners <img src="/static/logos/Ansan Greeners FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gyeongnam FC.png" height="25px"> Gyeongnam</p> |
+| <p align="center">5'</p> | <p align="right">Ansan Greeners <img src="/static/logos/Ansan Greeners FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gyeongnam FC.png" height="25px"> Gyeongnam</p> |
 | <p align="center">07:00</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cheonan City Government FC.png" height="25px"> Cheonan City</p> |
 | <p align="center">07:00</p> | <p align="right">Gimpo <img src="/static/logos/Gimpo Citizen FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Seoul E-Land FC.png" height="25px"> Seoul E-Land</p> |
 </div>
@@ -1373,7 +1373,7 @@
 | <p align="center">FT</p> | <p align="right">RGV FC Toros <img src="/static/logos/Rio Grande Valley FC Toros.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/New Mexico United.png" height="25px"> New Mexico Utd</p> |
 | <p align="center">FT</p> | <p align="right">Switchbacks <img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/El Paso Locomotive FC.png" height="25px"> El Paso Loco</p> |
 | <p align="center">FT</p> | <p align="right">Monterey Bay <img src="/static/logos/Monterey Bay FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh</p> |
-| <p align="center">82'</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Charleston Battery.png" height="25px"> Charleston</p> |
+| <p align="center">FT</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Charleston Battery.png" height="25px"> Charleston</p> |
 | <p align="center">23:00</p> | <p align="right">Hartford Ath <img src="/static/logos/Hartford Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Memphis 901 FC.png" height="25px"> Memphis 901</p> |
 | <p align="center">23:00</p> | <p align="right">Loudoun Utd <img src="/static/logos/Loudoun United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Indy Eleven.png" height="25px"> Indy Eleven</p> |
 | <p align="center">23:30</p> | <p align="right">Detroit City <img src="/static/logos/Detroit City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> Tulsa</p> |
