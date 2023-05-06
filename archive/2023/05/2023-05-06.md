@@ -1372,8 +1372,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">RGV FC Toros <img src="/static/logos/Rio Grande Valley FC Toros.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/New Mexico United.png" height="25px"> New Mexico Utd</p> |
 | <p align="center">FT</p> | <p align="right">Switchbacks <img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/El Paso Locomotive FC.png" height="25px"> El Paso Loco</p> |
-| <p align="center">89'</p> | <p align="right">Monterey Bay <img src="/static/logos/Monterey Bay FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh</p> |
-| <p align="center">62'</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Charleston Battery.png" height="25px"> Charleston</p> |
+| <p align="center">FT</p> | <p align="right">Monterey Bay <img src="/static/logos/Monterey Bay FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh</p> |
+| <p align="center">82'</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Charleston Battery.png" height="25px"> Charleston</p> |
 | <p align="center">23:00</p> | <p align="right">Hartford Ath <img src="/static/logos/Hartford Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Memphis 901 FC.png" height="25px"> Memphis 901</p> |
 | <p align="center">23:00</p> | <p align="right">Loudoun Utd <img src="/static/logos/Loudoun United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Indy Eleven.png" height="25px"> Indy Eleven</p> |
 | <p align="center">23:30</p> | <p align="right">Detroit City <img src="/static/logos/Detroit City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> Tulsa</p> |
@@ -1388,7 +1388,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Central Valley <img src="/static/logos/Central Valley Fuego FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/North Carolina FC.png" height="25px"> North Carolina</p> |
+| <p align="center">FT</p> | <p align="right">Central Valley <img src="/static/logos/Central Valley Fuego FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/North Carolina FC.png" height="25px"> North Carolina</p> |
 </div>
 
 
@@ -1398,8 +1398,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Earthquakes II <img src="/static/logos/San Jose Earthquakes II.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sporting Kansas City II.png" height="25px"> Sporting KC II</p> |
-| <p align="center">90' 2'</p> | <p align="right">Real Monarchs <img src="/static/logos/Real Monarchs SLC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Tacoma Defiance.png" height="25px"> Tacoma Def.</p> |
+| <p align="center">FT</p> | <p align="right">Earthquakes II <img src="/static/logos/San Jose Earthquakes II.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sporting Kansas City II.png" height="25px"> Sporting KC II</p> |
+| <p align="center">FT</p> | <p align="right">Real Monarchs <img src="/static/logos/Real Monarchs SLC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Tacoma Defiance.png" height="25px"> Tacoma Def.</p> |
 | <p align="center">21:00</p> | <p align="right">NYCFC II <img src="/static/logos/New York City FC II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/New England Revolution II.png" height="25px"> New England II</p> |
 </div>
 
