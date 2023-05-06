@@ -2934,7 +2934,7 @@
           "period": {
             "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2970,7 +2970,7 @@
           "startDate": "2023-05-06T06:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -3075,12 +3075,16 @@
       "matches": [
         {
           "startDate": "2023-05-06T07:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CAP",
             "short": "Capalaba",
@@ -3099,7 +3103,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3250,7 +3257,7 @@
           "startDate": "2023-05-06T05:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -3277,7 +3284,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 4,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,
@@ -3287,7 +3294,7 @@
           "startDate": "2023-05-06T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 13,
             "extra": 0
           },
           "round": {
@@ -5060,7 +5067,7 @@
           "startDate": "2023-05-06T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 13,
             "extra": 0
           },
           "round": {
@@ -9406,7 +9413,7 @@
           "startDate": "2023-05-06T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 11,
             "extra": 0
           },
           "round": {
@@ -9441,12 +9448,16 @@
         },
         {
           "startDate": "2023-05-06T07:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 10,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GIM",
             "short": "Gimpo",
@@ -9465,7 +9476,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
