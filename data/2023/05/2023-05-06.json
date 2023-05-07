@@ -3905,6 +3905,49 @@
     },
     {
       "competition": {
+        "name": "Jugendliga U18",
+        "area": {
+          "name": "Austria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-06T14:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "AUS",
+            "short": "Austria",
+            "long": "Austria Wien U18",
+            "full": "FK Austria Wien Under 18",
+            "name": "Austria"
+          },
+          "teamB": {
+            "code": "RBA",
+            "short": "RB Akademie",
+            "long": "Red Bull Akademie U18",
+            "full": "Red Bull Akademie Under 18 (FC Salzburg Under 18)",
+            "name": "RB Akademie"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Premier League",
         "area": {
           "name": "Bangladesh"
@@ -8531,6 +8574,82 @@
     },
     {
       "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-06T10:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - League A",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "FOR",
+            "short": "Fortuna",
+            "long": "Fortuna D\u00FCsseldorf U19",
+            "full": "D\u00FCsseldorfer TuS Fortuna 1895 Under 19",
+            "name": "Fortuna"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U19",
+            "full": "Rasen Ballsport Leipzig Under 19",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-05-06T09:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - League A",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BOC",
+            "short": "Bochum",
+            "long": "Bochum U19",
+            "full": "VfL Bochum 1848 Under 19",
+            "name": "Bochum"
+          },
+          "teamB": {
+            "code": "BAY",
+            "short": "Bayern",
+            "long": "Bayern M\u00FCnchen U19",
+            "full": "FC Bayern M\u00FCnchen Under 19",
+            "name": "Bayern"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Frauen Bundesliga",
         "area": {
           "name": "Germany"
@@ -10355,6 +10474,49 @@
           "score": {
             "teamA": 5,
             "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "NPFL",
+        "area": {
+          "name": "Nigeria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-06T15:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "DAK",
+            "short": "Dakkada",
+            "long": "Dakkada",
+            "full": "Dakkada FC",
+            "name": "Dakkada"
+          },
+          "teamB": {
+            "code": "LOB",
+            "short": "Lobi Stars",
+            "long": "Lobi Stars",
+            "full": "Lobi Stars FC",
+            "name": "Lobi Stars"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
