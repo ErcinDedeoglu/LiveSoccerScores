@@ -3759,7 +3759,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "POSTPONED",
           "teamA": {
             "code": "MAN",
             "short": "Manly Utd",
