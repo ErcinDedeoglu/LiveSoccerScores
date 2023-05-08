@@ -287,9 +287,9 @@
         {
           "startDate": "2023-05-08T03:10:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Clausura - Reclasificacion",
