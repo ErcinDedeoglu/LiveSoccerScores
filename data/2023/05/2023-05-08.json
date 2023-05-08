@@ -1319,8 +1319,8 @@
           "startDate": "2023-05-08T10:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -1872,7 +1872,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -1900,7 +1900,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1909,7 +1909,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -1946,7 +1946,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -1983,7 +1983,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -2020,7 +2020,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -2048,7 +2048,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2057,7 +2057,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -2094,7 +2094,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 36,
             "extra": 0
           },
           "round": {
@@ -2131,7 +2131,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -2168,7 +2168,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -2205,7 +2205,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -2242,7 +2242,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -2279,7 +2279,7 @@
           "startDate": "2023-05-08T11:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -2656,7 +2656,7 @@
           "startDate": "2023-05-08T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -2693,7 +2693,7 @@
           "startDate": "2023-05-08T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -2730,7 +2730,7 @@
           "startDate": "2023-05-08T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -2767,7 +2767,7 @@
           "startDate": "2023-05-08T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -2804,7 +2804,7 @@
           "startDate": "2023-05-08T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -2841,7 +2841,7 @@
           "startDate": "2023-05-08T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -4641,7 +4641,7 @@
           "startDate": "2023-05-08T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -4677,9 +4677,9 @@
         {
           "startDate": "2023-05-08T11:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -4713,12 +4713,16 @@
         },
         {
           "startDate": "2023-05-08T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "RKV",
             "short": "Rukh Vynnyky",
@@ -4737,18 +4741,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-08T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "VER",
             "short": "Veres Rivne",
@@ -4767,7 +4778,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
