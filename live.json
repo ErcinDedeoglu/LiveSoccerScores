@@ -288,7 +288,7 @@
           "startDate": "2023-05-08T03:10:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -979,16 +979,12 @@
       "matches": [
         {
           "startDate": "2023-05-08T01:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAS",
             "short": "Pasto",
@@ -1008,7 +1004,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,
