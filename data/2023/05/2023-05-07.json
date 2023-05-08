@@ -7666,6 +7666,49 @@
     },
     {
       "competition": {
+        "name": "U17 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-07T09:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - League A",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "FCB",
+            "short": "Bayern M\u00FCnchen",
+            "long": "Bayern M\u00FCnchen U17",
+            "full": "FC Bayern M\u00FCnchen Under 17",
+            "name": "Bayern M\u00FCnchen"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 4
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Frauen Bundesliga",
         "area": {
           "name": "Germany"
