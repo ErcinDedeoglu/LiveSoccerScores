@@ -556,8 +556,8 @@
         {
           "startDate": "2023-05-08T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
+            "type": "SECOND_HALF",
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -584,8 +584,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 2
+            "teamA": 2,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -603,9 +603,9 @@
         {
           "startDate": "2023-05-08T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 7,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -1088,12 +1088,16 @@
         },
         {
           "startDate": "2023-05-08T23:15:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 42,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CAL",
             "short": "Cali",
@@ -1112,7 +1116,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1294,9 +1301,9 @@
         {
           "startDate": "2023-05-08T22:05:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 89,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -1493,9 +1500,9 @@
         {
           "startDate": "2023-05-08T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 8,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -1540,9 +1547,9 @@
         {
           "startDate": "2023-05-08T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 8,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 8
           },
           "round": {
             "name": "Regular Season",
@@ -1564,11 +1571,11 @@
             "name": "Londrina"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1587,9 +1594,9 @@
         {
           "startDate": "2023-05-08T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 8,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -1615,8 +1622,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1624,9 +1631,9 @@
         {
           "startDate": "2023-05-08T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 7,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -1652,7 +1659,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1671,9 +1678,9 @@
         {
           "startDate": "2023-05-08T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 4,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "1st Phase",
@@ -1707,12 +1714,16 @@
         },
         {
           "startDate": "2023-05-08T23:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 26,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DGV",
             "short": "Democrata GV",
@@ -1731,7 +1742,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3578,9 +3592,9 @@
         {
           "startDate": "2023-05-08T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 8,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Apertura",
@@ -3606,7 +3620,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -5108,9 +5122,9 @@
         {
           "startDate": "2023-05-08T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 3,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Apertura",
