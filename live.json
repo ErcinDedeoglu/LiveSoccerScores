@@ -50,12 +50,16 @@
       "matches": [
         {
           "startDate": "2023-05-09T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CSE",
             "short": "C\u00F3rdoba SdE",
@@ -74,7 +78,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -432,7 +439,7 @@
           "startDate": "2023-05-09T00:10:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -809,7 +816,7 @@
           "startDate": "2023-05-09T00:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 41,
             "extra": 0
           },
           "round": {
