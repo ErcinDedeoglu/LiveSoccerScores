@@ -102,7 +102,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">BKMA <img src="/static/logos/Banaki Kentronakan Marzakan Akumb.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Lernayin Artsakh Goris.png" height="25px"> L. Artsakh</p> |
+| <p align="center">5'</p> | <p align="right">BKMA <img src="/static/logos/Banaki Kentronakan Marzakan Akumb.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Lernayin Artsakh Goris.png" height="25px"> L. Artsakh</p> |
 </div>
 
 
@@ -133,9 +133,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Dalian <img src="/static/logos/Dalian Professional FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Cangzhou Mighty Lions FC.png" height="25px"> Cangzhou</p> |
-| <p align="center">75'</p> | <p align="right">Henan <img src="/static/logos/Henan FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wuhan Three Towns FC.png" height="25px"> Three Towns</p> |
-| <p align="center">77'</p> | <p align="right">Shenzhen <img src="/static/logos/Shenzhen FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Shanghai Shenhua FC.png" height="25px"> Shenhua</p> |
+| <p align="center">FT</p> | <p align="right">Dalian <img src="/static/logos/Dalian Professional FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cangzhou Mighty Lions FC.png" height="25px"> Cangzhou</p> |
+| <p align="center">FT</p> | <p align="right">Henan <img src="/static/logos/Henan FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Wuhan Three Towns FC.png" height="25px"> Three Towns</p> |
+| <p align="center">FT</p> | <p align="right">Shenzhen <img src="/static/logos/Shenzhen FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Shanghai Shenhua FC.png" height="25px"> Shenhua</p> |
 </div>
 
 
@@ -210,7 +210,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Tukums <img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Rīgas Futbola skola.png" height="25px"> RFS</p> |
+| <p align="center">7'</p> | <p align="right">Tukums <img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Rīgas Futbola skola.png" height="25px"> RFS</p> |
 | <p align="center">15:00</p> | <p align="right">Jelgava <img src="/static/logos/FS Jelgava.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Metta.png" height="25px"> Metta</p> |
 </div>
 

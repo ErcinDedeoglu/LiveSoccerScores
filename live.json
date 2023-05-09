@@ -519,12 +519,16 @@
       "matches": [
         {
           "startDate": "2023-05-09T14:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BKM",
             "short": "BKMA",
@@ -543,7 +547,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -669,16 +676,12 @@
       "matches": [
         {
           "startDate": "2023-05-09T11:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DLP",
             "short": "Dalian",
@@ -698,7 +701,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -706,16 +709,12 @@
         },
         {
           "startDate": "2023-05-09T11:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 75,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HFC",
             "short": "Henan",
@@ -736,23 +735,19 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-09T11:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SFC",
             "short": "Shenzhen",
@@ -772,7 +767,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 3
           },
           "agg": null,
@@ -1192,12 +1187,16 @@
       "matches": [
         {
           "startDate": "2023-05-09T14:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TUK",
             "short": "Tukums",
@@ -1216,7 +1215,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
