@@ -274,8 +274,8 @@
           "startDate": "2023-05-09T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -302,7 +302,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1671,16 +1671,12 @@
       "matches": [
         {
           "startDate": "2023-05-09T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GLA",
             "short": "Glasgow Women",
