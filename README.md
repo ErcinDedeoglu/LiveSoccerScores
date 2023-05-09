@@ -133,9 +133,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:35</p> | <p align="right">Dalian <img src="/static/logos/Dalian Professional FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cangzhou Mighty Lions FC.png" height="25px"> Cangzhou</p> |
-| <p align="center">11:35</p> | <p align="right">Henan <img src="/static/logos/Henan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wuhan Three Towns FC.png" height="25px"> Three Towns</p> |
-| <p align="center">11:35</p> | <p align="right">Shenzhen <img src="/static/logos/Shenzhen FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shanghai Shenhua FC.png" height="25px"> Shenhua</p> |
+| <p align="center">48'</p> | <p align="right">Dalian <img src="/static/logos/Dalian Professional FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cangzhou Mighty Lions FC.png" height="25px"> Cangzhou</p> |
+| <p align="center">47'</p> | <p align="right">Henan <img src="/static/logos/Henan FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wuhan Three Towns FC.png" height="25px"> Three Towns</p> |
+| <p align="center">48'</p> | <p align="right">Shenzhen <img src="/static/logos/Shenzhen FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Shanghai Shenhua FC.png" height="25px"> Shenhua</p> |
 </div>
 
 
@@ -198,9 +198,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Ulsan <img src="/static/logos/Ulsan Hyundai FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gangwon FC.png" height="25px"> Gangwon</p> |
-| <p align="center">HT</p> | <p align="right">Daegu <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Pohang Steelers.png" height="25px"> Pohang</p> |
-| <p align="center">HT</p> | <p align="right">Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju</p> |
+| <p align="center">FT</p> | <p align="right">Ulsan <img src="/static/logos/Ulsan Hyundai FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gangwon FC.png" height="25px"> Gangwon</p> |
+| <p align="center">FT</p> | <p align="right">Daegu <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Pohang Steelers.png" height="25px"> Pohang</p> |
+| <p align="center">FT</p> | <p align="right">Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju</p> |
 </div>
 
 
