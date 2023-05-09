@@ -272,16 +272,12 @@
       "matches": [
         {
           "startDate": "2023-05-09T19:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAG",
             "short": "Magallanes",
@@ -297,7 +293,7 @@
             "name": "Curic\u00F3 Unido"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
