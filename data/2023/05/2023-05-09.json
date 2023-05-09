@@ -101,7 +101,7 @@
           "startDate": "2023-05-09T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -138,7 +138,7 @@
           "startDate": "2023-05-09T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -175,7 +175,7 @@
           "startDate": "2023-05-09T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -212,7 +212,7 @@
           "startDate": "2023-05-09T23:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -335,7 +335,7 @@
           "startDate": "2023-05-09T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -372,7 +372,7 @@
           "startDate": "2023-05-09T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -538,7 +538,7 @@
           "startDate": "2023-05-09T23:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -628,7 +628,7 @@
           "startDate": "2023-05-09T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -665,7 +665,7 @@
           "startDate": "2023-05-09T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -693,7 +693,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
