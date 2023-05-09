@@ -223,16 +223,12 @@
       "matches": [
         {
           "startDate": "2023-05-09T01:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HUI",
             "short": "Huila",
