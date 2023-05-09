@@ -49,7 +49,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Huila <img src="/static/logos/CD Atlético Huila.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"> América</p> |
+| <p align="center">90' 2'</p> | <p align="right">Huila <img src="/static/logos/CD Atlético Huila.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"> América</p> |
 </div>
 
 
