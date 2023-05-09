@@ -10,16 +10,12 @@
       "matches": [
         {
           "startDate": "2023-05-09T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RMA",
             "short": "Real Madrid",
@@ -42,7 +38,10 @@
             "teamA": 1,
             "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "penalty": null
         }
       ]
@@ -275,7 +274,7 @@
           "startDate": "2023-05-09T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -1626,16 +1625,12 @@
         },
         {
           "startDate": "2023-05-09T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "EFI",
             "short": "East Fife",
@@ -1658,7 +1653,10 @@
             "teamA": 0,
             "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "penalty": null
         }
       ]
@@ -1675,7 +1673,7 @@
           "startDate": "2023-05-09T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 81,
             "extra": 0
           },
           "round": {
