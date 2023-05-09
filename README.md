@@ -60,8 +60,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Magallanes <img src="/static/logos/Club Deportivo Magallanes.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CD Provincial Curicó Unido.png" height="25px"> Curicó Unido</p> |
-| <p align="center">35'</p> | <p align="right">Ñublense <img src="/static/logos/Deportivo Ñublense SADP.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Copiapó.png" height="25px"> Copiapó</p> |
-| <p align="center">34'</p> | <p align="right">Unión Española <img src="/static/logos/Unión Española.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
+| <p align="center">HT</p> | <p align="right">Ñublense <img src="/static/logos/Deportivo Ñublense SADP.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Copiapó.png" height="25px"> Copiapó</p> |
+| <p align="center">45' 4'</p> | <p align="right">Unión Española <img src="/static/logos/Unión Española.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
 </div>
 
 
