@@ -684,16 +684,12 @@
       "matches": [
         {
           "startDate": "2023-05-10T13:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 70,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "YAF",
             "short": "Young Africans",
@@ -713,10 +709,13 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "penalty": null
         },
         {
