@@ -834,7 +834,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 2
+            "extra": 1
           },
           "round": {
             "name": "Semi-finals",
@@ -860,11 +860,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "penalty": null
