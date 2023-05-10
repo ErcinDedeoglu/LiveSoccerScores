@@ -210,16 +210,12 @@
       "matches": [
         {
           "startDate": "2023-05-10T00:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 39,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 32",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHI",
             "short": "Chicago",
@@ -239,8 +235,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -248,8 +244,8 @@
         {
           "startDate": "2023-05-10T00:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 9,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 112,
             "extra": 0
           },
           "round": {
@@ -276,20 +272,24 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-10T02:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 18,
+            "extra": 0
+          },
           "round": {
             "name": "Round of 32",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MB",
             "short": "Monterey Bay",
@@ -308,18 +308,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-10T02:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 19,
+            "extra": 0
+          },
           "round": {
             "name": "Round of 32",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SAC",
             "short": "Sacramento ",
@@ -338,7 +345,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         },
@@ -454,16 +464,12 @@
       "matches": [
         {
           "startDate": "2023-05-10T00:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 12,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COL",
             "short": "Colo Colo",
@@ -483,8 +489,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -620,6 +626,46 @@
             "long": "Tapat\u00EDo",
             "full": "CD Tapat\u00EDo",
             "name": "Tapat\u00EDo"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "Liga Nacional",
+        "area": {
+          "name": "Honduras"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-10T21:45:00Z",
+          "period": null,
+          "round": {
+            "name": "Clausura - Semi-finals",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "MAR",
+            "short": "Marath\u00F3n",
+            "long": "Marath\u00F3n",
+            "full": "CD Marath\u00F3n",
+            "name": "Marath\u00F3n"
+          },
+          "teamB": {
+            "code": "OLI",
+            "short": "Olimpia",
+            "long": "Olimpia",
+            "full": "CD Olimpia",
+            "name": "Olimpia"
           },
           "redCards": {
             "teamA": 0,
