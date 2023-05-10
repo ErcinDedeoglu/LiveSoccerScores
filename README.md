@@ -236,8 +236,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">07:00</p> | <p align="right">Shenyang <img src="/static/logos/Liaoning Shenyang Urban FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jinan Xingzhou FC.png" height="25px"> Xingzhou</p> |
-| <p align="center">07:00</p> | <p align="right">Wuxi Wugou <img src="/static/logos/Wuxi Wugou FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yanbian Longding FC.png" height="25px"> Longding</p> |
+| <p align="center">9'</p> | <p align="right">Shenyang <img src="/static/logos/Liaoning Shenyang Urban FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jinan Xingzhou FC.png" height="25px"> Xingzhou</p> |
+| <p align="center">9'</p> | <p align="right">Wuxi Wugou <img src="/static/logos/Wuxi Wugou FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Yanbian Longding FC.png" height="25px"> Longding</p> |
 | <p align="center">07:30</p> | <p align="right">Dongguan Utd <img src="/static/logos/Dongguan United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jiangxi Lushan FC.png" height="25px"> Jiangxi</p> |
 | <p align="center">07:30</p> | <p align="right">Qingdao WC <img src="/static/logos/Qingdao West Coast FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Heilongjiang Ice City FC.png" height="25px"> Heilongjiang</p> |
 | <p align="center">07:30</p> | <p align="right">Sichuan Jiuniu <img src="/static/logos/Sichuan Jiuniu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dandong Tengyue FC.png" height="25px"> Dandong Teng.</p> |
