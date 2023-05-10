@@ -243,16 +243,12 @@
         },
         {
           "startDate": "2023-05-10T00:30:00Z",
-          "period": {
-            "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 112,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 32",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MIN",
             "short": "Minnesota",
@@ -273,23 +269,22 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 7,
+            "teamB": 6
+          }
         },
         {
           "startDate": "2023-05-10T02:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 18,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 32",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MB",
             "short": "Monterey Bay",
@@ -309,24 +304,23 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 5
+          }
         },
         {
           "startDate": "2023-05-10T02:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 19,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 32",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAC",
             "short": "Sacramento ",
@@ -346,8 +340,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 2
+            "teamA": 2,
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -826,7 +820,7 @@
       },
       "matches": [
         {
-          "startDate": "2023-05-10T13:00:00Z",
+          "startDate": "2023-05-10T12:00:00Z",
           "period": null,
           "round": {
             "name": "Semi-finals",
@@ -859,7 +853,7 @@
           "penalty": null
         },
         {
-          "startDate": "2023-05-10T16:00:00Z",
+          "startDate": "2023-05-10T15:00:00Z",
           "period": null,
           "round": {
             "name": "Semi-finals",
@@ -2135,46 +2129,6 @@
             "long": "Jeonbuk Motors",
             "full": "Jeonbuk Hyundai Motors FC",
             "name": "Jeonbuk Motors"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "NPFL",
-        "area": {
-          "name": "Nigeria"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-05-10T15:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "WIK",
-            "short": "Wikki",
-            "long": "Wikki Tourist",
-            "full": "Wikki Tourists FC",
-            "name": "Wikki"
-          },
-          "teamB": {
-            "code": "RIV",
-            "short": "Rivers Utd",
-            "long": "Rivers United",
-            "full": "Rivers United FC",
-            "name": "Rivers Utd"
           },
           "redCards": {
             "teamA": 0,
