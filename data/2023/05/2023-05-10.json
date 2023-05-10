@@ -686,7 +686,7 @@
           "startDate": "2023-05-10T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -833,7 +833,7 @@
           "startDate": "2023-05-10T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -1366,16 +1366,12 @@
         },
         {
           "startDate": "2023-05-10T11:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NZH",
             "short": "Nantong Zhiyun",
@@ -1403,16 +1399,12 @@
         },
         {
           "startDate": "2023-05-10T11:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHR",
             "short": "Rongcheng",
