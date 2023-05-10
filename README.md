@@ -77,7 +77,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
+| <p align="center">77'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
 </div>
 
 
@@ -129,7 +129,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Egnatia <img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KS Vllaznia Shkodër.png" height="25px"> Vllaznia</p> |
+| <p align="center">4'</p> | <p align="right">Egnatia <img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KS Vllaznia Shkodër.png" height="25px"> Vllaznia</p> |
 | <p align="center">15:00</p> | <p align="right">Teuta <img src="/static/logos/KS Teuta Durrës.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KF Tirana.png" height="25px"> Tirana</p> |
 </div>
 
@@ -222,11 +222,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Changchun <img src="/static/logos/Changchun Yatai FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Meizhou Hakka FC.png" height="25px"> Meizhou Hakka</p> |
-| <p align="center">21'</p> | <p align="right">Guoan <img src="/static/logos/Beijing Guoan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tianjin Jinmen Tiger FC.png" height="25px"> Tianjin JMT</p> |
-| <p align="center">21'</p> | <p align="right">Nantong Zhiyun <img src="/static/logos/Nantong Zhiyun FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Zhejiang Professional FC.png" height="25px"> Zhejiang</p> |
-| <p align="center">21'</p> | <p align="right">Rongcheng <img src="/static/logos/Chengdu Rongcheng FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shandong Taishan FC.png" height="25px"> Shandong</p> |
-| <p align="center">21'</p> | <p align="right">Shanghai Port <img src="/static/logos/Shanghai Port FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Qingdao Hainiu FC.png" height="25px"> Hainiu</p> |
+| <p align="center">32'</p> | <p align="right">Changchun <img src="/static/logos/Changchun Yatai FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Meizhou Hakka FC.png" height="25px"> Meizhou Hakka</p> |
+| <p align="center">32'</p> | <p align="right">Guoan <img src="/static/logos/Beijing Guoan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tianjin Jinmen Tiger FC.png" height="25px"> Tianjin JMT</p> |
+| <p align="center">32'</p> | <p align="right">Nantong Zhiyun <img src="/static/logos/Nantong Zhiyun FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Zhejiang Professional FC.png" height="25px"> Zhejiang</p> |
+| <p align="center">32'</p> | <p align="right">Rongcheng <img src="/static/logos/Chengdu Rongcheng FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shandong Taishan FC.png" height="25px"> Shandong</p> |
+| <p align="center">32'</p> | <p align="right">Shanghai Port <img src="/static/logos/Shanghai Port FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Qingdao Hainiu FC.png" height="25px"> Hainiu</p> |
 </div>
 
 
@@ -241,9 +241,9 @@
 | <p align="center">FT</p> | <p align="right">Dongguan Utd <img src="/static/logos/Dongguan United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jiangxi Lushan FC.png" height="25px"> Jiangxi</p> |
 | <p align="center">FT</p> | <p align="right">Qingdao WC <img src="/static/logos/Qingdao West Coast FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Heilongjiang Ice City FC.png" height="25px"> Heilongjiang</p> |
 | <p align="center">FT</p> | <p align="right">Sichuan Jiuniu <img src="/static/logos/Sichuan Jiuniu FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Dandong Tengyue FC.png" height="25px"> Dandong Teng.</p> |
-| <p align="center">25'</p> | <p align="right">Guangxi PH <img src="/static/logos/Guangxi Pingguo Haliao FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shanghai Jiading Huilong FC.png" height="25px"> Jiading</p> |
-| <p align="center">24'</p> | <p align="right">Shijiazhuang <img src="/static/logos/Shijiazhuang Kungfu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guangzhou FC.png" height="25px"> Guangzhou FC</p> |
-| <p align="center">24'</p> | <p align="right">Suzhou Dongwu <img src="/static/logos/Suzhou Dongwu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nanjing City FC.png" height="25px"> Nanjing City</p> |
+| <p align="center">36'</p> | <p align="right">Guangxi PH <img src="/static/logos/Guangxi Pingguo Haliao FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shanghai Jiading Huilong FC.png" height="25px"> Jiading</p> |
+| <p align="center">35'</p> | <p align="right">Shijiazhuang <img src="/static/logos/Shijiazhuang Kungfu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guangzhou FC.png" height="25px"> Guangzhou FC</p> |
+| <p align="center">35'</p> | <p align="right">Suzhou Dongwu <img src="/static/logos/Suzhou Dongwu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nanjing City FC.png" height="25px"> Nanjing City</p> |
 </div>
 
 
@@ -317,9 +317,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">Daejeon <img src="/static/logos/Daejeon Hana Citizen FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon</p> |
-| <p align="center">70'</p> | <p align="right">Jeju Utd <img src="/static/logos/Jeju United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Incheon United FC.png" height="25px"> Incheon Utd</p> |
-| <p align="center">68'</p> | <p align="right">Suwon <img src="/static/logos/Suwon Samsung Bluewings FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Motors</p> |
+| <p align="center">80'</p> | <p align="right">Daejeon <img src="/static/logos/Daejeon Hana Citizen FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon</p> |
+| <p align="center">81'</p> | <p align="right">Jeju Utd <img src="/static/logos/Jeju United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Incheon United FC.png" height="25px"> Incheon Utd</p> |
+| <p align="center">79'</p> | <p align="right">Suwon <img src="/static/logos/Suwon Samsung Bluewings FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Motors</p> |
 </div>
 
 
