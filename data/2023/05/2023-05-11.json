@@ -2002,16 +2002,12 @@
       "matches": [
         {
           "startDate": "2023-05-11T12:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 47,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Beyaz",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "T\u0130Y",
             "short": "Tarsus \u0130Y",
@@ -2032,7 +2028,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 6
           },
           "agg": null,
           "penalty": null
@@ -2049,16 +2045,12 @@
       "matches": [
         {
           "startDate": "2023-05-11T12:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Group 2",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KES",
             "short": "Kestelspor",
@@ -2078,7 +2070,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,

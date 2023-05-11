@@ -314,7 +314,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Tarsus İY <img src="/static/logos/Tarsus İdman Yurdu Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Bayburt Özel İdare Spor.png" height="25px"> Bayburt</p> |
+| <p align="center">FT</p> | <p align="right">Tarsus İY <img src="/static/logos/Tarsus İdman Yurdu Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 6</p> | <p align="left"><img src="/static/logos/Bayburt Özel İdare Spor.png" height="25px"> Bayburt</p> |
 </div>
 
 
@@ -324,7 +324,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Kestelspor <img src="/static/logos/Alanya Kestelspor.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Turgutlu Spor Kulübü.png" height="25px"> Turgutlu</p> |
+| <p align="center">FT</p> | <p align="right">Kestelspor <img src="/static/logos/Alanya Kestelspor.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Turgutlu Spor Kulübü.png" height="25px"> Turgutlu</p> |
 </div>
 
 
