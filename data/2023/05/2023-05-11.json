@@ -186,16 +186,12 @@
         },
         {
           "startDate": "2023-05-11T03:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Clausura - Quarter-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ASL",
             "short": "San Luis",
@@ -218,7 +214,10 @@
             "teamA": 1,
             "teamB": 3
           },
-          "agg": null,
+          "agg": {
+            "teamA": 1,
+            "teamB": 3
+          },
           "penalty": null
         }
       ]
