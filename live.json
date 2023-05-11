@@ -810,7 +810,7 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -837,7 +837,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1086,7 +1086,7 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -1398,7 +1398,7 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -1475,7 +1475,7 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -1632,7 +1632,7 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -1919,7 +1919,7 @@
           "startDate": "2023-05-11T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -1946,8 +1946,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2173,16 +2173,12 @@
       "matches": [
         {
           "startDate": "2023-05-11T14:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "JAZ",
             "short": "Al Jazira",
@@ -2210,16 +2206,12 @@
         },
         {
           "startDate": "2023-05-11T14:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KHO",
             "short": "Khorfakkan",
