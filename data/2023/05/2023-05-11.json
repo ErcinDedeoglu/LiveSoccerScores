@@ -187,9 +187,9 @@
         {
           "startDate": "2023-05-11T03:10:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 60,
+            "extra": 0
           },
           "round": {
             "name": "Clausura - Quarter-finals",
@@ -531,16 +531,12 @@
         },
         {
           "startDate": "2023-05-11T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 32",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LA",
             "short": "Galaxy",
@@ -560,7 +556,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
@@ -568,16 +564,12 @@
         },
         {
           "startDate": "2023-05-11T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 32",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "POR",
             "short": "Portland",
@@ -1129,16 +1121,12 @@
       "matches": [
         {
           "startDate": "2023-05-11T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 69,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAC",
             "short": "Pacific",
@@ -1158,7 +1146,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -2238,16 +2226,12 @@
       "matches": [
         {
           "startDate": "2023-05-11T02:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 95,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAF",
             "short": "LAFC II",
@@ -2273,7 +2257,7 @@
           "agg": null,
           "penalty": {
             "teamA": 3,
-            "teamB": 4
+            "teamB": 5
           }
         }
       ]
