@@ -810,8 +810,8 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Quarter-finals",
@@ -1086,8 +1086,8 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Semi-finals",
@@ -1398,8 +1398,8 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Promotion Round",
@@ -1434,9 +1434,9 @@
         {
           "startDate": "2023-05-11T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "Relegation Round",
@@ -1482,8 +1482,8 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Semi-finals",
@@ -1639,8 +1639,8 @@
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Promotion Play-offs - 1st Round",
@@ -1666,7 +1666,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -2244,7 +2244,7 @@
           "startDate": "2023-05-11T16:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 57,
             "extra": 0
           },
           "round": {
