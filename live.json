@@ -1081,8 +1081,8 @@
         {
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
-            "type": "EXTRA_TIME_PENDING",
-            "minute": 97,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 107,
             "extra": 0
           },
           "round": {
@@ -1426,9 +1426,9 @@
         {
           "startDate": "2023-05-11T17:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
           },
           "round": {
             "name": "Relegation Round",
@@ -1454,7 +1454,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -1658,12 +1658,16 @@
         },
         {
           "startDate": "2023-05-11T18:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 21,
+            "extra": 0
+          },
           "round": {
             "name": "Promotion Play-offs - 1st Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "REN",
             "short": "Renate",
@@ -1682,7 +1686,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2228,7 +2235,7 @@
           "startDate": "2023-05-11T16:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 87,
             "extra": 0
           },
           "round": {
