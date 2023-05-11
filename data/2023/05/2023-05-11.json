@@ -808,16 +808,12 @@
       "matches": [
         {
           "startDate": "2023-05-11T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MLI",
             "short": "Mali",
@@ -1085,9 +1081,9 @@
         {
           "startDate": "2023-05-11T16:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
+            "type": "EXTRA_TIME_PENDING",
+            "minute": 97,
+            "extra": 0
           },
           "round": {
             "name": "Semi-finals",
@@ -1114,11 +1110,11 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": {
             "teamA": 3,
-            "teamB": 2
+            "teamB": 3
           },
           "penalty": null
         }
@@ -1396,16 +1392,12 @@
       "matches": [
         {
           "startDate": "2023-05-11T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Promotion Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SJE",
             "short": "S\u00F8nderjyskE",
@@ -1425,7 +1417,7 @@
             "teamB": 1
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -1480,16 +1472,12 @@
       "matches": [
         {
           "startDate": "2023-05-11T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAB",
             "short": "Tabasalu",
@@ -1637,16 +1625,12 @@
       "matches": [
         {
           "startDate": "2023-05-11T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - 1st Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ANC",
             "short": "Ancona",
@@ -2244,7 +2228,7 @@
           "startDate": "2023-05-11T16:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 65,
             "extra": 0
           },
           "round": {
