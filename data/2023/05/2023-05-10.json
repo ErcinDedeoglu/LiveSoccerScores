@@ -2143,6 +2143,49 @@
     },
     {
       "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-10T14:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - League A",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BAY",
+            "short": "Bayern",
+            "long": "Bayern M\u00FCnchen U19",
+            "full": "FC Bayern M\u00FCnchen Under 19",
+            "name": "Bayern"
+          },
+          "teamB": {
+            "code": "HER",
+            "short": "Hertha",
+            "long": "Hertha BSC U19",
+            "full": "Hertha BSC Under 19",
+            "name": "Hertha"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 1
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Liga Nacional",
         "area": {
           "name": "Guatemala"
