@@ -12,8 +12,8 @@
           "startDate": "2023-05-12T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -57,16 +57,12 @@
       "matches": [
         {
           "startDate": "2023-05-12T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAZ",
             "short": "Lazio",
@@ -86,7 +82,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 2
           },
           "agg": null,
@@ -104,16 +100,12 @@
       "matches": [
         {
           "startDate": "2023-05-12T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RCL",
             "short": "Lens",
@@ -361,7 +353,7 @@
           "startDate": "2023-05-12T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -683,8 +675,8 @@
           "startDate": "2023-05-12T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Semi-finals",
@@ -796,8 +788,8 @@
           "startDate": "2023-05-12T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Quarter-finals",
@@ -823,7 +815,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -2350,8 +2342,8 @@
           "startDate": "2023-05-12T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Promotion Play-offs - Semi-finals",
@@ -2377,7 +2369,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,
@@ -3487,7 +3479,7 @@
           "startDate": "2023-05-12T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -3524,7 +3516,7 @@
           "startDate": "2023-05-12T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -3551,7 +3543,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 3
           },
           "agg": null,
@@ -3561,7 +3553,7 @@
           "startDate": "2023-05-12T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -4533,7 +4525,7 @@
           "startDate": "2023-05-12T20:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -4846,16 +4838,12 @@
       "matches": [
         {
           "startDate": "2023-05-12T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BOH",
             "short": "Bohemians",
@@ -4883,16 +4871,12 @@
         },
         {
           "startDate": "2023-05-12T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DUN",
             "short": "Dundalk",
@@ -4909,10 +4893,10 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -5062,16 +5046,12 @@
         },
         {
           "startDate": "2023-05-12T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GAL",
             "short": "Galway Utd",
@@ -5220,8 +5200,8 @@
           "startDate": "2023-05-12T18:00:00Z",
           "period": {
             "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 106,
-            "extra": 0
+            "minute": 120,
+            "extra": 1
           },
           "round": {
             "name": "Final",
@@ -5268,7 +5248,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 5
+            "extra": 19
           },
           "round": {
             "name": "Play-offs - Quarter-finals",
@@ -5316,9 +5296,9 @@
         {
           "startDate": "2023-05-12T18:45:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 100,
+            "extra": 0
           },
           "round": {
             "name": "Semi-finals",
@@ -5453,8 +5433,8 @@
           "startDate": "2023-05-12T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -6408,7 +6388,7 @@
           "startDate": "2023-05-12T20:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 31,
             "extra": 0
           },
           "round": {
