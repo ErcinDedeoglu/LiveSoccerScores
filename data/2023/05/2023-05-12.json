@@ -465,7 +465,7 @@
           "startDate": "2023-05-12T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1969,7 +1969,7 @@
           "startDate": "2023-05-12T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 51,
             "extra": 0
           },
           "round": {
@@ -4407,7 +4407,7 @@
           "startDate": "2023-05-12T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 12,
             "extra": 0
           },
           "round": {
@@ -4520,7 +4520,7 @@
           "startDate": "2023-05-12T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -5242,7 +5242,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 60
+            "extra": 68
           },
           "round": {
             "name": "Play-offs - Quarter-finals",
@@ -6374,7 +6374,7 @@
           "startDate": "2023-05-12T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 60,
             "extra": 0
           },
           "round": {
