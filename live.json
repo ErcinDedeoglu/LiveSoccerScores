@@ -2607,16 +2607,12 @@
         },
         {
           "startDate": "2023-05-12T11:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GAR",
             "short": "Gardabani",
@@ -2636,7 +2632,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
@@ -3205,8 +3201,8 @@
         {
           "startDate": "2023-05-12T12:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
+            "type": "SECOND_HALF",
+            "minute": 54,
             "extra": 0
           },
           "round": {
@@ -4998,7 +4994,7 @@
           "startDate": "2023-05-12T11:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -5021,12 +5017,12 @@
             "name": "Geylang"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -5768,9 +5764,9 @@
         {
           "startDate": "2023-05-12T12:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 73,
+            "extra": 0
           },
           "round": {
             "name": "Promotion Play-offs - Semi-finals",
@@ -5808,9 +5804,9 @@
         {
           "startDate": "2023-05-12T12:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 73,
+            "extra": 0
           },
           "round": {
             "name": "Promotion Play-offs - Semi-finals",
@@ -5837,11 +5833,11 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 3,
-            "teamB": 3
+            "teamB": 4
           },
           "penalty": null
         }
