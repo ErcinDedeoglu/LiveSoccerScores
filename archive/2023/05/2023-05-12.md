@@ -300,7 +300,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18'</p> | <p align="right">Pirin <img src="/static/logos/OFK Pirin Blagoevgrad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Hebar 1918 Pazardzhik.png" height="25px"> Hebar 1918</p> |
+| <p align="center">26'</p> | <p align="right">Pirin <img src="/static/logos/OFK Pirin Blagoevgrad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Hebar 1918 Pazardzhik.png" height="25px"> Hebar 1918</p> |
 | <p align="center">16:15</p> | <p align="right">Beroe <img src="/static/logos/PFK Beroe Stara Zagora.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK Septemvri Sofia.png" height="25px"> Septemvri</p> |
 </div>
 
@@ -839,9 +839,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Al Ain <img src="/static/logos/Al Ain FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Bataeh Club.png" height="25px"> Al Bataeh</p> |
-| <p align="center">4'</p> | <p align="right">Al Wahda <img src="/static/logos/Al Wahda FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bani Yas Club.png" height="25px"> Bani Yas</p> |
-| <p align="center">5'</p> | <p align="right">Dibba Fujairah <img src="/static/logos/Dibba Al Fujairah.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Dhafra FC.png" height="25px"> Al Dhafra</p> |
+| <p align="center">12'</p> | <p align="right">Al Ain <img src="/static/logos/Al Ain FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Bataeh Club.png" height="25px"> Al Bataeh</p> |
+| <p align="center">12'</p> | <p align="right">Al Wahda <img src="/static/logos/Al Wahda FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bani Yas Club.png" height="25px"> Bani Yas</p> |
+| <p align="center">13'</p> | <p align="right">Dibba Fujairah <img src="/static/logos/Dibba Al Fujairah.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Dhafra FC.png" height="25px"> Al Dhafra</p> |
 </div>
 
 
