@@ -2135,16 +2135,12 @@
         },
         {
           "startDate": "2023-05-13T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "REY",
             "short": "Kashiwa",
@@ -3319,8 +3315,8 @@
           "startDate": "2023-05-13T07:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -3356,7 +3352,7 @@
           "startDate": "2023-05-13T08:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -3466,7 +3462,7 @@
           "startDate": "2023-05-13T08:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -3503,7 +3499,7 @@
           "startDate": "2023-05-13T08:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -3593,7 +3589,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 55,
             "extra": 0
           },
           "round": {
@@ -3630,7 +3626,7 @@
           "startDate": "2023-05-13T08:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -5292,7 +5288,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -5369,7 +5365,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -5406,7 +5402,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -5513,7 +5509,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -5551,7 +5547,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -5585,16 +5581,12 @@
         },
         {
           "startDate": "2023-05-13T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "YUY",
             "short": "Yukun",
@@ -5623,7 +5615,7 @@
         {
           "startDate": "2023-05-13T08:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
             "extra": 2
           },
@@ -6327,7 +6319,7 @@
           "startDate": "2023-05-13T08:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -9535,16 +9527,12 @@
       "matches": [
         {
           "startDate": "2023-05-13T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Final",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BCR",
             "short": "BC Rangers",
@@ -10862,9 +10850,9 @@
         {
           "startDate": "2023-05-13T08:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -11125,7 +11113,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -11153,7 +11141,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -11233,16 +11221,12 @@
         },
         {
           "startDate": "2023-05-13T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAN",
             "short": "Gimcheon",
