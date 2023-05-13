@@ -2102,16 +2102,12 @@
         },
         {
           "startDate": "2023-05-13T06:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BEL",
             "short": "Shonan",
@@ -3576,7 +3572,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -5268,7 +5264,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -5345,7 +5341,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -5382,7 +5378,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -5489,7 +5485,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -5525,9 +5521,9 @@
         {
           "startDate": "2023-05-13T07:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -5598,12 +5594,16 @@
         },
         {
           "startDate": "2023-05-13T08:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SSP",
             "short": "Pterosaur",
@@ -5622,7 +5622,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -9498,9 +9501,9 @@
         {
           "startDate": "2023-05-13T07:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "Final",
@@ -10790,16 +10793,12 @@
         },
         {
           "startDate": "2023-05-13T06:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VER",
             "short": "Tokyo Verdy",
@@ -10827,12 +10826,16 @@
         },
         {
           "startDate": "2023-05-13T08:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "HOL",
             "short": "Mito",
@@ -10851,7 +10854,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -11084,7 +11090,7 @@
           "startDate": "2023-05-13T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -11193,9 +11199,9 @@
         {
           "startDate": "2023-05-13T07:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
