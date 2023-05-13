@@ -2908,39 +2908,6 @@
             "name": "S\u00FCdwest",
             "display": false
           },
-          "status": "SUSPENDED",
-          "teamA": {
-            "code": "HF2",
-            "short": "Hoffenheim II",
-            "long": "Hoffenheim II",
-            "full": "TSG 1899 Hoffenheim II",
-            "name": "Hoffenheim II"
-          },
-          "teamB": {
-            "code": "AAL",
-            "short": "Aalen",
-            "long": "Aalen",
-            "full": "VfR Aalen 1921",
-            "name": "Aalen"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-05-12T17:00:00Z",
-          "period": null,
-          "round": {
-            "name": "S\u00FCdwest",
-            "display": false
-          },
           "status": "RESULT",
           "teamA": {
             "code": "TRI",
