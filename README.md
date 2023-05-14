@@ -111,7 +111,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Monterrey <img src="/static/logos/CF Monterrey.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Club Santos Laguna.png" height="25px"> Santos Laguna</p> |
-| <p align="center">87'</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético de San Luis.png" height="25px"> San Luis</p> |
+| <p align="center">FT</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético de San Luis.png" height="25px"> San Luis</p> |
 | <p align="center">18:00</p> | <p align="right">Toluca <img src="/static/logos/Deportivo Toluca FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"> Tigres</p> |
 </div>
 
@@ -251,10 +251,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Yokohama F. Marinos.png" height="25px"> F Marinos</p> |
-| <p align="center">32'</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
-| <p align="center">31'</p> | <p align="right">Kashima <img src="/static/logos/Kashima Antlers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya</p> |
-| <p align="center">32'</p> | <p align="right">Kyoto <img src="/static/logos/Kyoto Sanga FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cerezo Osaka.png" height="25px"> Cerezo</p> |
+| <p align="center">42'</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Yokohama F. Marinos.png" height="25px"> F Marinos</p> |
+| <p align="center">42'</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
+| <p align="center">41'</p> | <p align="right">Kashima <img src="/static/logos/Kashima Antlers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya</p> |
+| <p align="center">43'</p> | <p align="right">Kyoto <img src="/static/logos/Kyoto Sanga FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cerezo Osaka.png" height="25px"> Cerezo</p> |
 | <p align="center">07:00</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gamba Osaka.png" height="25px"> Gamba</p> |
 </div>
 
@@ -364,7 +364,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">South Melb <img src="/static/logos/South Melbourne Womens FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Calder United SC.png" height="25px"> Calder Utd</p> |
+| <p align="center">86'</p> | <p align="right">South Melb <img src="/static/logos/South Melbourne Womens FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Calder United SC.png" height="25px"> Calder Utd</p> |
 </div>
 
 
@@ -374,9 +374,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">05:00</p> | <p align="right">Blacktown City <img src="/static/logos/Blacktown City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rockdale Ilinden FC.png" height="25px"> Rockdale</p> |
-| <p align="center">3'</p> | <p align="right">Mariners <img src="/static/logos/Central Coast Mariners FC Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Marconi Stallions FC.png" height="25px"> Stallions</p> |
-| <p align="center">05:00</p> | <p align="right">Sydney Utd <img src="/static/logos/Sydney United 58 FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
+| <p align="center">6'</p> | <p align="right">Blacktown City <img src="/static/logos/Blacktown City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rockdale Ilinden FC.png" height="25px"> Rockdale</p> |
+| <p align="center">14'</p> | <p align="right">Mariners <img src="/static/logos/Central Coast Mariners FC Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Marconi Stallions FC.png" height="25px"> Stallions</p> |
+| <p align="center">9'</p> | <p align="right">Sydney Utd <img src="/static/logos/Sydney United 58 FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
 </div>
 
 
@@ -887,7 +887,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Iwaki <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AFC Blaublitz Akita.png" height="25px"> Blaublitz</p> |
+| <p align="center">43'</p> | <p align="right">Iwaki <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AFC Blaublitz Akita.png" height="25px"> Blaublitz</p> |
 </div>
 
 
@@ -897,13 +897,13 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">46'</p> | <p align="right">Gainare <img src="/static/logos/Gainare Tottori.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Azul Claro Numazu.png" height="25px"> Azul Claro</p> |
-| <p align="center">31'</p> | <p align="right">Imabari <img src="/static/logos/FC Imabari.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ehime FC.png" height="25px"> Ehime</p> |
-| <p align="center">33'</p> | <p align="right">Kagoshima Utd <img src="/static/logos/Kagoshima United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Ryūkyū.png" height="25px"> Ryūkyū</p> |
-| <p align="center">33'</p> | <p align="right">Vanraure <img src="/static/logos/Vanraure Hachinohe.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Iwate Grulla Morioka.png" height="25px"> Grulla Morioka</p> |
-| <p align="center">3'</p> | <p align="right">Giravanz <img src="/static/logos/Giravanz Kitakyushu.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tegevajaro Miyazaki FC.png" height="25px"> Tegevajaro</p> |
-| <p align="center">3'</p> | <p align="right">Kamatamare <img src="/static/logos/Kamatamare Sanuki.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Gifu.png" height="25px"> Gifu</p> |
-| <p align="center">3'</p> | <p align="right">Toyama <img src="/static/logos/Kataller Toyama.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fukushima United FC.png" height="25px"> Fukushima</p> |
+| <p align="center">56'</p> | <p align="right">Gainare <img src="/static/logos/Gainare Tottori.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Azul Claro Numazu.png" height="25px"> Azul Claro</p> |
+| <p align="center">42'</p> | <p align="right">Imabari <img src="/static/logos/FC Imabari.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ehime FC.png" height="25px"> Ehime</p> |
+| <p align="center">43'</p> | <p align="right">Kagoshima Utd <img src="/static/logos/Kagoshima United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Ryūkyū.png" height="25px"> Ryūkyū</p> |
+| <p align="center">44'</p> | <p align="right">Vanraure <img src="/static/logos/Vanraure Hachinohe.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Iwate Grulla Morioka.png" height="25px"> Grulla Morioka</p> |
+| <p align="center">13'</p> | <p align="right">Giravanz <img src="/static/logos/Giravanz Kitakyushu.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tegevajaro Miyazaki FC.png" height="25px"> Tegevajaro</p> |
+| <p align="center">13'</p> | <p align="right">Kamatamare <img src="/static/logos/Kamatamare Sanuki.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Gifu.png" height="25px"> Gifu</p> |
+| <p align="center">13'</p> | <p align="right">Toyama <img src="/static/logos/Kataller Toyama.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fukushima United FC.png" height="25px"> Fukushima</p> |
 </div>
 
 
@@ -913,9 +913,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">48'</p> | <p align="right">Leonessa <img src="/static/logos/International Athletic Club Kobe Leonessa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"> Urawa</p> |
-| <p align="center">47'</p> | <p align="right">Sendai <img src="/static/logos/Mynavi Sendai Ladies.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Albirex Niigata Ladies.png" height="25px"> Albirex</p> |
-| <p align="center">4'</p> | <p align="right">Beleza <img src="/static/logos/Nippon TV Tokyo Verdy Beleza.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chifure AS Elfen Saitama FC.png" height="25px"> Elfen</p> |
+| <p align="center">58'</p> | <p align="right">Leonessa <img src="/static/logos/International Athletic Club Kobe Leonessa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"> Urawa</p> |
+| <p align="center">58'</p> | <p align="right">Sendai <img src="/static/logos/Mynavi Sendai Ladies.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Albirex Niigata Ladies.png" height="25px"> Albirex</p> |
+| <p align="center">14'</p> | <p align="right">Beleza <img src="/static/logos/Nippon TV Tokyo Verdy Beleza.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chifure AS Elfen Saitama FC.png" height="25px"> Elfen</p> |
 </div>
 
 
@@ -937,7 +937,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Gyeongnam <img src="/static/logos/Gyeongnam FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Seongnam FC.png" height="25px"> Seongnam</p> |
+| <p align="center">45' 1'</p> | <p align="right">Gyeongnam <img src="/static/logos/Gyeongnam FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Seongnam FC.png" height="25px"> Seongnam</p> |
 | <p align="center">07:00</p> | <p align="right">Chungnam Asan <img src="/static/logos/Chungnam Asan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gimpo Citizen FC.png" height="25px"> Gimpo</p> |
 | <p align="center">09:30</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ansan Greeners FC.png" height="25px"> Ansan Greeners</p> |
 </div>
