@@ -8315,7 +8315,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAK",
             "short": "Bakhmaro",
@@ -8334,7 +8334,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -8345,7 +8348,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "TBC",
             "short": "Tbilisi City",
@@ -8364,7 +8367,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 5,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         },
@@ -8375,7 +8381,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAS",
             "short": "Basa",
@@ -8394,7 +8400,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 4,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -8405,7 +8414,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHI",
             "short": "Chikhura",
@@ -8424,7 +8433,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 5
+          },
           "agg": null,
           "penalty": null
         },
@@ -8435,7 +8447,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "ZUG",
             "short": "Zugdidi",
@@ -8454,7 +8466,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -8465,7 +8480,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "KP2",
             "short": "Kolkh Poti II",
@@ -8484,7 +8499,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -8495,7 +8513,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAR",
             "short": "Margveti 2006",
@@ -8514,7 +8532,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         },
@@ -8525,7 +8546,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "MM2",
             "short": "Merani M. II",
@@ -8544,7 +8565,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -8555,7 +8579,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAM",
             "short": "Samegrelo",
@@ -8574,7 +8598,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 7
+          },
           "agg": null,
           "penalty": null
         },
@@ -8618,7 +8645,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SHK",
             "short": "Shukura",
@@ -8637,7 +8664,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -8648,7 +8678,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SKU",
             "short": "Skuri",
@@ -8667,7 +8697,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 6,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         },
@@ -8711,7 +8744,7 @@
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "WI2",
             "short": "WIT II",
@@ -8730,7 +8763,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
