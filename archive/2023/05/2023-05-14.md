@@ -255,7 +255,7 @@
 | <p align="center">FT</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
 | <p align="center">FT</p> | <p align="right">Kashima <img src="/static/logos/Kashima Antlers.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya</p> |
 | <p align="center">FT</p> | <p align="right">Kyoto <img src="/static/logos/Kyoto Sanga FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cerezo Osaka.png" height="25px"> Cerezo</p> |
-| <p align="center">29'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gamba Osaka.png" height="25px"> Gamba</p> |
+| <p align="center">HT</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Gamba Osaka.png" height="25px"> Gamba</p> |
 </div>
 
 
@@ -341,10 +341,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">71'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Eastern Suburbs FC.png" height="25px"> Eastern Sub</p> |
-| <p align="center">71'</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
-| <p align="center">28'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
-| <p align="center">34'</p> | <p align="right">Mitchelton <img src="/static/logos/Mitchelton FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
+| <p align="center">FT</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Eastern Suburbs FC.png" height="25px"> Eastern Sub</p> |
+| <p align="center">FT</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">8 - 0</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
+| <p align="center">HT</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
+| <p align="center">HT</p> | <p align="right">Mitchelton <img src="/static/logos/Mitchelton FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
 </div>
 
 
@@ -354,7 +354,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">South Melb <img src="/static/logos/South Melbourne FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/North Geelong Warriors FC.png" height="25px"> North Geelong</p> |
+| <p align="center">90' 5'</p> | <p align="right">South Melb <img src="/static/logos/South Melbourne FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/North Geelong Warriors FC.png" height="25px"> North Geelong</p> |
 </div>
 
 
@@ -387,10 +387,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">06:30</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Football NSW Institute.png" height="25px"> NSW Institute</p> |
-| <p align="center">45' 3'</p> | <p align="right">Sydney Olympic <img src="/static/logos/Sydney Olympic FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Macarthur Rams FC.png" height="25px"> Macarthur Rams</p> |
+| <p align="center">51'</p> | <p align="right">Sydney Olympic <img src="/static/logos/Sydney Olympic FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Macarthur Rams FC.png" height="25px"> Macarthur Rams</p> |
 | <p align="center">07:00</p> | <p align="right">Bankstown City <img src="/static/logos/Bankstown City Lions FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Emerging Jets 1st Grade FC.png" height="25px"> Emerging Jets</p> |
-| <p align="center">29'</p> | <p align="right">Spartans <img src="/static/logos/Blacktown Spartans FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Northern Tigers FC.png" height="25px"> Tigers</p> |
-| <p align="center">28'</p> | <p align="right">Sydney Univ <img src="/static/logos/Sydney University SFC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gladesville Ravens SC.png" height="25px"> Ravens</p> |
+| <p align="center">HT</p> | <p align="right">Spartans <img src="/static/logos/Blacktown Spartans FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Northern Tigers FC.png" height="25px"> Tigers</p> |
+| <p align="center">HT</p> | <p align="right">Sydney Univ <img src="/static/logos/Sydney University SFC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gladesville Ravens SC.png" height="25px"> Ravens</p> |
 | <p align="center">08:55</p> | <p align="right">Leichhardt <img src="/static/logos/APIA Leichhardt FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Illawarra Stingrays FC.png" height="25px"> Illawarra St.</p> |
 </div>
 
@@ -517,7 +517,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">Hainiu <img src="/static/logos/Qingdao Hainiu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Meizhou Hakka FC.png" height="25px"> Meizhou</p> |
+| <p align="center">25'</p> | <p align="right">Hainiu <img src="/static/logos/Qingdao Hainiu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Meizhou Hakka FC.png" height="25px"> Meizhou</p> |
 | <p align="center">09:30</p> | <p align="right">Rongcheng <img src="/static/logos/Chengdu Rongcheng FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Changchun Yatai FC.png" height="25px"> Changchun</p> |
 | <p align="center">11:35</p> | <p align="right">Cangzhou <img src="/static/logos/Cangzhou Mighty Lions FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shandong Taishan FC.png" height="25px"> Shandong</p> |
 | <p align="center">11:35</p> | <p align="right">Tianjin JMT <img src="/static/logos/Tianjin Jinmen Tiger FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Henan FC.png" height="25px"> Henan</p> |
@@ -531,8 +531,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">30'</p> | <p align="right">Guangzhou <img src="/static/logos/Guangzhou FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guangxi Pingguo Haliao FC.png" height="25px"> Pingguo Haliao</p> |
-| <p align="center">2'</p> | <p align="right">Dandong <img src="/static/logos/Dandong Tengyue FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Liaoning Shenyang Urban FC.png" height="25px"> Liaoning</p> |
+| <p align="center">HT</p> | <p align="right">Guangzhou <img src="/static/logos/Guangzhou FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guangxi Pingguo Haliao FC.png" height="25px"> Pingguo Haliao</p> |
+| <p align="center">24'</p> | <p align="right">Dandong <img src="/static/logos/Dandong Tengyue FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Liaoning Shenyang Urban FC.png" height="25px"> Liaoning</p> |
 | <p align="center">11:30</p> | <p align="right">Dongwu <img src="/static/logos/Suzhou Dongwu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Heilongjiang Ice City FC.png" height="25px"> Heilongjiang</p> |
 | <p align="center">11:30</p> | <p align="right">Shijiazhuang <img src="/static/logos/Shijiazhuang Gongfu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dongguan United FC.png" height="25px"> Dongguan Utd</p> |
 </div>
@@ -544,8 +544,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">30'</p> | <p align="right">BIT <img src="/static/logos/Beijing Institute of Technology FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Tai'an Tiankuang FC.png" height="25px"> Tai'an</p> |
-| <p align="center">2'</p> | <p align="right">Zhixing <img src="/static/logos/Dalian Zhixing FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nantong Haimen Codion FC.png" height="25px"> Haimen</p> |
+| <p align="center">HT</p> | <p align="right">BIT <img src="/static/logos/Beijing Institute of Technology FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Tai'an Tiankuang FC.png" height="25px"> Tai'an</p> |
+| <p align="center">25'</p> | <p align="right">Zhixing <img src="/static/logos/Dalian Zhixing FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nantong Haimen Codion FC.png" height="25px"> Haimen</p> |
 | <p align="center">08:00</p> | <p align="right">Jiangcheng <img src="/static/logos/Wuhan Jiangcheng.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hubei Istar FC.png" height="25px"> Istar</p> |
 | <p align="center">08:00</p> | <p align="right">Lanhang <img src="/static/logos/Guangxi Lanhang FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jiangxi Dark Horse Junior FC.png" height="25px"> Jiangxi DHJ</p> |
 </div>
@@ -818,7 +818,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Sham Shui Po <img src="/static/logos/Sham Shui Po Sports .png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Eastern SC.png" height="25px"> Eastern</p> |
+| <p align="center">HT</p> | <p align="right">Sham Shui Po <img src="/static/logos/Sham Shui Po Sports .png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Eastern SC.png" height="25px"> Eastern</p> |
 </div>
 
 
@@ -926,7 +926,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ulsan <img src="/static/logos/Ulsan Hyundai FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/FC Seoul.png" height="25px"> Seoul</p> |
-| <p align="center">3'</p> | <p align="right">Incheon Utd <img src="/static/logos/Incheon United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Motors</p> |
+| <p align="center">25'</p> | <p align="right">Incheon Utd <img src="/static/logos/Incheon United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Motors</p> |
 | <p align="center">10:00</p> | <p align="right">Suwon <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jeju United FC.png" height="25px"> Jeju Utd</p> |
 </div>
 
@@ -938,7 +938,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gyeongnam <img src="/static/logos/Gyeongnam FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Seongnam FC.png" height="25px"> Seongnam</p> |
-| <p align="center">33'</p> | <p align="right">Chungnam Asan <img src="/static/logos/Chungnam Asan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimpo Citizen FC.png" height="25px"> Gimpo</p> |
+| <p align="center">HT</p> | <p align="right">Chungnam Asan <img src="/static/logos/Chungnam Asan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimpo Citizen FC.png" height="25px"> Gimpo</p> |
 | <p align="center">09:30</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ansan Greeners FC.png" height="25px"> Ansan Greeners</p> |
 </div>
 
