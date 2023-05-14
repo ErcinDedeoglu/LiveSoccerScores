@@ -8647,11 +8647,11 @@
           },
           "status": "RESULT",
           "teamA": {
-            "code": "SHK",
-            "short": "Shukura",
-            "long": "Shukura",
-            "full": "FC Shukura Kobuleti",
-            "name": "Shukura"
+            "code": "SK2",
+            "short": "Shukura II",
+            "long": "Shukura II",
+            "full": "FC Shukura Kobuleti II",
+            "name": "Shukura II"
           },
           "teamB": {
             "code": "RUS",
