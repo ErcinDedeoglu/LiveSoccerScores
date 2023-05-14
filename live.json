@@ -996,7 +996,7 @@
           "startDate": "2023-05-14T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1429,7 +1429,7 @@
           "startDate": "2023-05-14T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -1456,7 +1456,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -1509,7 +1509,7 @@
           "startDate": "2023-05-14T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -1619,8 +1619,8 @@
           "startDate": "2023-05-14T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -1654,16 +1654,12 @@
         },
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GRE",
             "short": "Gr\u00EAmio",
@@ -1691,16 +1687,12 @@
         },
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAS",
             "short": "Vasco",
@@ -1983,7 +1975,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 1
+            "extra": 9
           },
           "round": {
             "name": "Apertura",
@@ -2120,16 +2112,12 @@
         },
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "UCL",
             "short": "U. La Calera",
@@ -2856,7 +2844,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 2
+            "extra": 6
           },
           "round": {
             "name": "Semi-finals",
@@ -2968,7 +2956,7 @@
           "startDate": "2023-05-14T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -3005,7 +2993,7 @@
           "startDate": "2023-05-14T19:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -4045,16 +4033,12 @@
       "matches": [
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LGM",
             "short": "Libertad",
@@ -4318,16 +4302,12 @@
         },
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAN",
             "short": "Manaus",
@@ -4357,7 +4337,7 @@
           "startDate": "2023-05-14T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -4496,9 +4476,9 @@
         {
           "startDate": "2023-05-14T20:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 5
+            "extra": 6
           },
           "round": {
             "name": "1st Phase",
@@ -4565,16 +4545,12 @@
         },
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TOC",
             "short": "Tocantin\u00F3polis",
@@ -4602,16 +4578,12 @@
         },
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SOU",
             "short": "Sousa",
@@ -4783,16 +4755,12 @@
         },
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ARI",
             "short": "Real Ariquemes",
@@ -4890,16 +4858,12 @@
         },
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BPE",
             "short": "Brasil Pelotas",
@@ -6257,7 +6221,7 @@
           "startDate": "2023-05-14T20:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -7999,7 +7963,7 @@
           "startDate": "2023-05-14T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -8036,7 +8000,7 @@
           "startDate": "2023-05-14T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -9680,12 +9644,16 @@
       "matches": [
         {
           "startDate": "2023-05-14T21:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GUA",
             "short": "Guaran\u00ED",
@@ -9704,7 +9672,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -9818,7 +9789,7 @@
           "startDate": "2023-05-14T20:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -10986,16 +10957,12 @@
         },
         {
           "startDate": "2023-05-14T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LPM",
             "short": "Las Palmas",
