@@ -3067,9 +3067,9 @@
         {
           "startDate": "2023-05-14T06:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -3302,8 +3302,8 @@
           "startDate": "2023-05-14T05:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -3330,23 +3330,19 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-14T05:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CCM",
             "short": "Mariners",
@@ -3376,8 +3372,8 @@
           "startDate": "2023-05-14T05:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -3453,7 +3449,7 @@
           "startDate": "2023-05-14T06:40:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 13,
             "extra": 0
           },
           "round": {
@@ -8003,16 +7999,12 @@
         },
         {
           "startDate": "2023-05-14T05:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GIR",
             "short": "Giravanz",
@@ -8042,8 +8034,8 @@
           "startDate": "2023-05-14T05:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -8077,16 +8069,12 @@
         },
         {
           "startDate": "2023-05-14T05:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KAT",
             "short": "Toyama",
@@ -8190,16 +8178,12 @@
         },
         {
           "startDate": "2023-05-14T05:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TVB",
             "short": "Beleza",
@@ -8239,7 +8223,7 @@
           "startDate": "2023-05-14T05:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -8266,7 +8250,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "agg": null,
