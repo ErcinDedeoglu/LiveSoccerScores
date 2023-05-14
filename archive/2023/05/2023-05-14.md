@@ -330,8 +330,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Eastern Suburbs SC.png" height="25px"> Eastern Sub</p> |
-| <p align="center">17'</p> | <p align="right">Knights <img src="/static/logos/Gold Coast Knights SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
+| <p align="center">70'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Eastern Suburbs SC.png" height="25px"> Eastern Sub</p> |
+| <p align="center">25'</p> | <p align="right">Knights <img src="/static/logos/Gold Coast Knights SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
 </div>
 
 
@@ -391,7 +391,7 @@
 | <p align="center">07:00</p> | <p align="right">Bankstown City <img src="/static/logos/Bankstown City Lions FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Emerging Jets 1st Grade FC.png" height="25px"> Emerging Jets</p> |
 | <p align="center">FT</p> | <p align="right">Spartans <img src="/static/logos/Blacktown Spartans FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Northern Tigers FC.png" height="25px"> Tigers</p> |
 | <p align="center">FT</p> | <p align="right">Sydney Univ <img src="/static/logos/Sydney University SFC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Gladesville Ravens SC.png" height="25px"> Ravens</p> |
-| <p align="center">31'</p> | <p align="right">Leichhardt <img src="/static/logos/APIA Leichhardt FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Illawarra Stingrays FC.png" height="25px"> Illawarra St.</p> |
+| <p align="center">38'</p> | <p align="right">Leichhardt <img src="/static/logos/APIA Leichhardt FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Illawarra Stingrays FC.png" height="25px"> Illawarra St.</p> |
 </div>
 
 
@@ -413,7 +413,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">FAC <img src="/static/logos/Floridsdorfer AC Wien.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Grazer AK 1902.png" height="25px"> GAK</p> |
+| <p align="center">52'</p> | <p align="right">FAC <img src="/static/logos/Floridsdorfer AC Wien.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Grazer AK 1902.png" height="25px"> GAK</p> |
 </div>
 
 
@@ -518,7 +518,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Hainiu <img src="/static/logos/Qingdao Hainiu FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Meizhou Hakka FC.png" height="25px"> Meizhou</p> |
-| <p align="center">09:30</p> | <p align="right">Rongcheng <img src="/static/logos/Chengdu Rongcheng FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Changchun Yatai FC.png" height="25px"> Changchun</p> |
+| <p align="center">6'</p> | <p align="right">Rongcheng <img src="/static/logos/Chengdu Rongcheng FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Changchun Yatai FC.png" height="25px"> Changchun</p> |
 | <p align="center">11:35</p> | <p align="right">Cangzhou <img src="/static/logos/Cangzhou Mighty Lions FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shandong Taishan FC.png" height="25px"> Shandong</p> |
 | <p align="center">11:35</p> | <p align="right">Tianjin JMT <img src="/static/logos/Tianjin Jinmen Tiger FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Henan FC.png" height="25px"> Henan</p> |
 | <p align="center">11:35</p> | <p align="right">Zhejiang <img src="/static/logos/Zhejiang Professional FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shanghai Port FC.png" height="25px"> Port</p> |
@@ -546,8 +546,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">BIT <img src="/static/logos/Beijing Institute of Technology FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Tai'an Tiankuang FC.png" height="25px"> Tai'an</p> |
 | <p align="center">FT</p> | <p align="right">Zhixing <img src="/static/logos/Dalian Zhixing FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nantong Haimen Codion FC.png" height="25px"> Haimen</p> |
-| <p align="center">68'</p> | <p align="right">Jiangcheng <img src="/static/logos/Wuhan Jiangcheng.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hubei Istar FC.png" height="25px"> Istar</p> |
-| <p align="center">69'</p> | <p align="right">Lanhang <img src="/static/logos/Guangxi Lanhang FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Jiangxi Dark Horse Junior FC.png" height="25px"> Jiangxi DHJ</p> |
+| <p align="center">76'</p> | <p align="right">Jiangcheng <img src="/static/logos/Wuhan Jiangcheng.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hubei Istar FC.png" height="25px"> Istar</p> |
+| <p align="center">77'</p> | <p align="right">Lanhang <img src="/static/logos/Guangxi Lanhang FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Jiangxi Dark Horse Junior FC.png" height="25px"> Jiangxi DHJ</p> |
 </div>
 
 
@@ -613,8 +613,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Sigma II <img src="/static/logos/SK Sigma Olomouc II.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/MFK Chrudim.png" height="25px"> Chrudim</p> |
-| <p align="center">56'</p> | <p align="right">Slavia II <img src="/static/logos/SK Slavia Praha II.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/FC Vysočina Jihlava.png" height="25px"> Vysočina</p> |
+| <p align="center">64'</p> | <p align="right">Sigma II <img src="/static/logos/SK Sigma Olomouc II.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/MFK Chrudim.png" height="25px"> Chrudim</p> |
+| <p align="center">64'</p> | <p align="right">Slavia II <img src="/static/logos/SK Slavia Praha II.png" height="25px"></p> | <p align="center">6 - 1</p> | <p align="left"><img src="/static/logos/FC Vysočina Jihlava.png" height="25px"> Vysočina</p> |
 | <p align="center">15:00</p> | <p align="right">Varnsdorf <img src="/static/logos/FK Varnsdorf.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK MAS Táborsko.png" height="25px"> Táborsko</p> |
 </div>
 
@@ -939,7 +939,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gyeongnam <img src="/static/logos/Gyeongnam FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Seongnam FC.png" height="25px"> Seongnam</p> |
 | <p align="center">FT</p> | <p align="right">Chungnam Asan <img src="/static/logos/Chungnam Asan FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gimpo Citizen FC.png" height="25px"> Gimpo</p> |
-| <p align="center">09:30</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ansan Greeners FC.png" height="25px"> Ansan Greeners</p> |
+| <p align="center">6'</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ansan Greeners FC.png" height="25px"> Ansan Greeners</p> |
 </div>
 
 
@@ -1282,7 +1282,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Chernihiv <img src="/static/logos/FK Chernihiv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Bukovyna Chernivtsi.png" height="25px"> Bukovyna</p> |
+| <p align="center">30'</p> | <p align="right">Chernihiv <img src="/static/logos/FK Chernihiv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Bukovyna Chernivtsi.png" height="25px"> Bukovyna</p> |
 | <p align="center">10:00</p> | <p align="right">Skoruk <img src="/static/logos/FK Skoruk Tomakivka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Prykarpattia Ivano-Frankivsk.png" height="25px"> Prykarpattia</p> |
 | <p align="center">11:00</p> | <p align="right">Nyva Ternopil <img src="/static/logos/FK Nyva Ternopil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Obolon' Kyiv.png" height="25px"> Obolon' Kyiv</p> |
 | <p align="center">14:00</p> | <p align="right">Polissya <img src="/static/logos/Polissya Zhytomyr.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"> Kremin'</p> |
