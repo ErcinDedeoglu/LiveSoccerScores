@@ -7251,6 +7251,49 @@
     },
     {
       "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-14T09:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - League A",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U19",
+            "full": "Rasen Ballsport Leipzig Under 19",
+            "name": "RB Leipzig"
+          },
+          "teamB": {
+            "code": "BVB",
+            "short": "Dortmund",
+            "long": "Borussia Dortmund U19",
+            "full": "BV Borussia 09 Dortmund Under 19",
+            "name": "Dortmund"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Frauen Bundesliga",
         "area": {
           "name": "Germany"
