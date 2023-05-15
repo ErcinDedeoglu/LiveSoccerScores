@@ -2518,8 +2518,8 @@
         {
           "startDate": "2023-05-15T03:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
+            "type": "PENALTY",
+            "minute": 93,
             "extra": 0
           },
           "round": {
@@ -2547,10 +2547,13 @@
           },
           "score": {
             "teamA": 4,
-            "teamB": 3
+            "teamB": 4
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 2
+          }
         }
       ]
     }
