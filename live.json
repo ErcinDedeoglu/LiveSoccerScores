@@ -2517,16 +2517,12 @@
       "matches": [
         {
           "startDate": "2023-05-15T03:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 93,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAC",
             "short": "Tacoma Def.",
