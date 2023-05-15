@@ -649,9 +649,9 @@
         {
           "startDate": "2023-05-15T12:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 63,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -990,7 +990,7 @@
           "startDate": "2023-05-15T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1420,7 +1420,7 @@
           "startDate": "2023-05-15T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1456,9 +1456,9 @@
         {
           "startDate": "2023-05-15T12:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Group B",
@@ -1494,7 +1494,7 @@
           "startDate": "2023-05-15T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -2450,7 +2450,7 @@
           "startDate": "2023-05-15T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 62,
             "extra": 0
           },
           "round": {
