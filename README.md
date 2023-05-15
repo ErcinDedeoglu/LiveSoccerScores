@@ -132,7 +132,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Ararat.png" height="25px"> Ararat</p> |
+| <p align="center">45' 1'</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Ararat.png" height="25px"> Ararat</p> |
 | <p align="center">15:00</p> | <p align="right">Noah <img src="/static/logos/FC Noah.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pyunik FC.png" height="25px"> Pyunik</p> |
 </div>
 
@@ -143,7 +143,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Bulleen <img src="/static/logos/FC Bulleen Lions.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Preston Lions.png" height="25px"> Preston Lions</p> |
+| <p align="center">FT</p> | <p align="right">Bulleen <img src="/static/logos/FC Bulleen Lions.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Preston Lions.png" height="25px"> Preston Lions</p> |
 </div>
 
 
@@ -195,7 +195,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:35</p> | <p align="right">Guoan <img src="/static/logos/Beijing Guoan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nantong Zhiyun FC.png" height="25px"> Nantong</p> |
+| <p align="center">57'</p> | <p align="right">Guoan <img src="/static/logos/Beijing Guoan FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nantong Zhiyun FC.png" height="25px"> Nantong</p> |
 </div>
 
 
@@ -287,8 +287,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Ierapetra <img src="/static/logos/OFI Ierapetra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Panachaiki FC.png" height="25px"> Panachaiki</p> |
-| <p align="center">12:15</p> | <p align="right">Kifisia <img src="/static/logos/Kifisias FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympiakos CFP II.png" height="25px"> Olympiakos II</p> |
+| <p align="center">HT</p> | <p align="right">Ierapetra <img src="/static/logos/OFI Ierapetra.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Panachaiki FC.png" height="25px"> Panachaiki</p> |
+| <p align="center">32'</p> | <p align="right">Kifisia <img src="/static/logos/Kifisias FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olympiakos CFP II.png" height="25px"> Olympiakos II</p> |
 | <p align="center">13:00</p> | <p align="right">Diagoras <img src="/static/logos/Diagoras GS Rodos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iraklis 1908 FC.png" height="25px"> Iraklis 1908</p> |
 </div>
 
@@ -458,8 +458,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Minai <img src="/static/logos/FC Minai.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SK Dnipro-1.png" height="25px"> Dnipro-1</p> |
-| <p align="center">12:00</p> | <p align="right">Kolos <img src="/static/logos/FK Kolos Kovalivka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Oleksandria.png" height="25px"> Oleksandria</p> |
+| <p align="center">FT</p> | <p align="right">Minai <img src="/static/logos/FC Minai.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/SK Dnipro-1.png" height="25px"> Dnipro-1</p> |
+| <p align="center">45'</p> | <p align="right">Kolos <img src="/static/logos/FK Kolos Kovalivka.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Oleksandria.png" height="25px"> Oleksandria</p> |
 </div>
 
 
