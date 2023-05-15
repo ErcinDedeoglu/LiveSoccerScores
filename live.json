@@ -51,8 +51,8 @@
         {
           "startDate": "2023-05-15T01:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 38,
+            "type": "SECOND_HALF",
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -79,7 +79,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -177,16 +177,12 @@
       "matches": [
         {
           "startDate": "2023-05-15T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 63,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura - Quarter-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHI",
             "short": "Chivas",
@@ -431,9 +427,9 @@
         {
           "startDate": "2023-05-15T01:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 7
+            "type": "SECOND_HALF",
+            "minute": 86,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -459,7 +455,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,
@@ -1513,16 +1509,12 @@
       "matches": [
         {
           "startDate": "2023-05-15T00:00:00Z",
-          "period": {
-            "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 116,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura - Quarter-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COM",
             "short": "Comunicaciones",
@@ -1543,11 +1535,11 @@
           },
           "score": {
             "teamA": 4,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 4,
-            "teamB": 2
+            "teamB": 3
           },
           "penalty": null
         }
@@ -2533,12 +2525,16 @@
       "matches": [
         {
           "startDate": "2023-05-15T03:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 17,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TAC",
             "short": "Tacoma Def.",
@@ -2557,7 +2553,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
