@@ -318,7 +318,7 @@
           "startDate": "2023-05-17T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -561,7 +561,7 @@
           "startDate": "2023-05-17T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -598,7 +598,7 @@
           "startDate": "2023-05-17T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -635,7 +635,7 @@
           "startDate": "2023-05-17T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -662,7 +662,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -672,7 +672,7 @@
           "startDate": "2023-05-17T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -2005,12 +2005,16 @@
       "matches": [
         {
           "startDate": "2023-05-17T14:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "POL",
             "short": "Poland",
@@ -2029,7 +2033,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2065,12 +2072,16 @@
         },
         {
           "startDate": "2023-05-17T14:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SCO",
             "short": "Scotland",
@@ -2089,7 +2100,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2137,7 +2151,7 @@
           "startDate": "2023-05-17T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -3290,7 +3304,7 @@
           "startDate": "2023-05-17T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 33,
             "extra": 0
           },
           "round": {
