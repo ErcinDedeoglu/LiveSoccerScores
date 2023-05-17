@@ -77,10 +77,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Erzeni <img src="/static/logos/KF Erzeni Shijak.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Bylis.png" height="25px"> Bylis</p> |
-| <p align="center">13:00</p> | <p align="right">Kastrioti <img src="/static/logos/KS Kastrioti Krujë.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"> Egnatia</p> |
-| <p align="center">13:00</p> | <p align="right">Kukësi <img src="/static/logos/KS Kukësi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KF Laçi.png" height="25px"> Laçi</p> |
-| <p align="center">13:00</p> | <p align="right">Vllaznia <img src="/static/logos/KS Vllaznia Shkodër.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KS Teuta Durrës.png" height="25px"> Teuta</p> |
+| <p align="center">4'</p> | <p align="right">Erzeni <img src="/static/logos/KF Erzeni Shijak.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Bylis.png" height="25px"> Bylis</p> |
+| <p align="center">4'</p> | <p align="right">Kastrioti <img src="/static/logos/KS Kastrioti Krujë.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"> Egnatia</p> |
+| <p align="center">4'</p> | <p align="right">Kukësi <img src="/static/logos/KS Kukësi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Laçi.png" height="25px"> Laçi</p> |
+| <p align="center">3'</p> | <p align="right">Vllaznia <img src="/static/logos/KS Vllaznia Shkodër.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KS Teuta Durrës.png" height="25px"> Teuta</p> |
 | <p align="center">16:30</p> | <p align="right">Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KF Partizani Tirana.png" height="25px"> Partizani</p> |
 </div>
 
