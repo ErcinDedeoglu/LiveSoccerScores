@@ -1352,16 +1352,12 @@
       "matches": [
         {
           "startDate": "2023-05-17T00:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FLU",
             "short": "Fluminense",
@@ -1384,7 +1380,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "penalty": null
         },
         {
@@ -1602,16 +1601,12 @@
       "matches": [
         {
           "startDate": "2023-05-17T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 63,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "IQU",
             "short": "Iquique",
@@ -1631,7 +1626,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 2
           },
           "agg": null,
@@ -1639,16 +1634,12 @@
         },
         {
           "startDate": "2023-05-17T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 61,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SFE",
             "short": "San Felipe",
@@ -3286,16 +3277,12 @@
       "matches": [
         {
           "startDate": "2023-05-17T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 68,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "OLI",
             "short": "Olimpia",
@@ -3316,7 +3303,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null

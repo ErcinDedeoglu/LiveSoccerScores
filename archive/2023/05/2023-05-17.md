@@ -147,7 +147,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CR Flamengo.png" height="25px"> Flamengo</p> |
+| <p align="center">FT</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CR Flamengo.png" height="25px"> Flamengo</p> |
 | <p align="center">22:00</p> | <p align="right">Palmeiras <img src="/static/logos/SE Palmeiras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
 | <p align="center">22:00</p> | <p align="right">Santos <img src="/static/logos/Santos FC Sao Paulo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/EC Bahia.png" height="25px"> Bahia</p> |
 | <p align="center">22:30</p> | <p align="right">Grêmio <img src="/static/logos/Grêmio FB Porto Alegrense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cruzeiro EC.png" height="25px"> Cruzeiro</p> |
@@ -181,8 +181,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Iquique <img src="/static/logos/Club Deportes Iquique.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CD La Serena.png" height="25px"> La Serena</p> |
-| <p align="center">61'</p> | <p align="right">San Felipe <img src="/static/logos/CD Unión San Felipe.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/CD Cobreloa.png" height="25px"> Cobreloa</p> |
+| <p align="center">FT</p> | <p align="right">Iquique <img src="/static/logos/Club Deportes Iquique.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/CD La Serena.png" height="25px"> La Serena</p> |
+| <p align="center">FT</p> | <p align="right">San Felipe <img src="/static/logos/CD Unión San Felipe.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/CD Cobreloa.png" height="25px"> Cobreloa</p> |
 </div>
 
 
@@ -358,7 +358,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Olimpia <img src="/static/logos/Club Olimpia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/General Caballero JLM.png" height="25px"> Caballero JLM</p> |
+| <p align="center">FT</p> | <p align="right">Olimpia <img src="/static/logos/Club Olimpia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/General Caballero JLM.png" height="25px"> Caballero JLM</p> |
 | <p align="center">22:00</p> | <p align="right">Luqueño <img src="/static/logos/Club Sportivo Luqueño.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Cerro Porteño.png" height="25px"> Cerro Porteño</p> |
 </div>
 
