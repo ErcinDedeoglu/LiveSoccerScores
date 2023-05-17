@@ -3919,6 +3919,39 @@
       },
       "matches": [
         {
+          "startDate": "2023-05-17T01:10:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "KNX",
+            "short": "One Knoxville",
+            "long": "One Knoxville",
+            "full": "One Knoxville SC",
+            "name": "One Knoxville"
+          },
+          "teamB": {
+            "code": "CHA",
+            "short": "Red Wolves",
+            "long": "Chattanooga Red Wolves",
+            "full": "Chattanooga Red Wolves SC",
+            "name": "Red Wolves"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
           "startDate": "2023-05-17T23:00:00Z",
           "period": null,
           "round": {
