@@ -2867,16 +2867,12 @@
       "matches": [
         {
           "startDate": "2023-05-17T04:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MON",
             "short": "Montedio",
@@ -2896,7 +2892,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,
@@ -3336,6 +3332,36 @@
             "long": "Cerro Porte\u00F1o",
             "full": "Club Cerro Porte\u00F1o",
             "name": "Cerro Porte\u00F1o"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-05-17T22:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Apertura",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "TAC",
+            "short": "Tacuary",
+            "long": "Tacuary",
+            "full": "Tacuary FC",
+            "name": "Tacuary"
+          },
+          "teamB": {
+            "code": "GUA",
+            "short": "Guaran\u00ED",
+            "long": "Club Guaran\u00ED",
+            "full": "Club Guaran\u00ED",
+            "name": "Guaran\u00ED"
           },
           "redCards": {
             "teamA": 0,
