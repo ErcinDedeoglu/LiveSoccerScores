@@ -3340,36 +3340,6 @@
           "score": null,
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-05-17T22:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Apertura",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "TAC",
-            "short": "Tacuary",
-            "long": "Tacuary",
-            "full": "Tacuary FC",
-            "name": "Tacuary"
-          },
-          "teamB": {
-            "code": "GUA",
-            "short": "Guaran\u00ED",
-            "long": "Club Guaran\u00ED",
-            "full": "Club Guaran\u00ED",
-            "name": "Guaran\u00ED"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
         }
       ]
     },
