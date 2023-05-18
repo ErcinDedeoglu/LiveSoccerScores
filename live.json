@@ -302,9 +302,9 @@
         {
           "startDate": "2023-05-18T01:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 20,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -339,9 +339,9 @@
         {
           "startDate": "2023-05-18T02:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 67,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -376,9 +376,9 @@
         {
           "startDate": "2023-05-18T02:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 65,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -405,7 +405,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -423,9 +423,9 @@
         {
           "startDate": "2023-05-18T03:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 28,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Clausura - Semi-finals",
@@ -452,7 +452,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2925,6 +2925,46 @@
     },
     {
       "competition": {
+        "name": "Cup",
+        "area": {
+          "name": "Serbia"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-18T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Semi-finals",
+            "display": true
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "VOJ",
+            "short": "Vojvodina",
+            "long": "Vojvodina",
+            "full": "FK Vojvodina Novi Sad",
+            "name": "Vojvodina"
+          },
+          "teamB": {
+            "code": "\u010CUK",
+            "short": "\u010Cukari\u010Dki",
+            "long": "\u010Cukari\u010Dki",
+            "full": "FK \u010Cukari\u010Dki",
+            "name": "\u010Cukari\u010Dki"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Ettan",
         "area": {
           "name": "Sweden"
@@ -3173,16 +3213,12 @@
       "matches": [
         {
           "startDate": "2023-05-18T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 67,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "OC",
             "short": "Orange County",
@@ -3199,7 +3235,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 1,
