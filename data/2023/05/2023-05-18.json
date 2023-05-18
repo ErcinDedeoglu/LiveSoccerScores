@@ -1425,9 +1425,9 @@
         {
           "startDate": "2023-05-18T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 64,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -1453,7 +1453,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1681,7 +1681,7 @@
           "startDate": "2023-05-18T21:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1708,8 +1708,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 2
+            "teamA": 1,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -2948,7 +2948,7 @@
           "startDate": "2023-05-18T22:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 67,
             "extra": 0
           },
           "round": {
