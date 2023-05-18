@@ -10,16 +10,12 @@
       "matches": [
         {
           "startDate": "2023-05-18T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 54,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LEV",
             "short": "Leverkusen",
@@ -51,9 +47,9 @@
         {
           "startDate": "2023-05-18T19:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 54,
-            "extra": 0
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 120,
+            "extra": 3
           },
           "round": {
             "name": "Semi-finals",
@@ -75,16 +71,16 @@
             "name": "Juventus"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 3,
+            "teamB": 2
           },
           "penalty": null
         }
@@ -100,16 +96,12 @@
       "matches": [
         {
           "startDate": "2023-05-18T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 57,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AZ",
             "short": "AZ",
@@ -130,20 +122,20 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "penalty": null
         },
         {
           "startDate": "2023-05-18T19:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 58,
-            "extra": 0
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 120,
+            "extra": 7
           },
           "round": {
             "name": "Semi-finals",
@@ -170,11 +162,11 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": {
             "teamA": 3,
-            "teamB": 2
+            "teamB": 3
           },
           "penalty": null
         }
@@ -190,16 +182,12 @@
       "matches": [
         {
           "startDate": "2023-05-18T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NEW",
             "short": "Newcastle",
@@ -219,7 +207,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 4,
             "teamB": 1
           },
           "agg": null,
@@ -920,16 +908,12 @@
       "matches": [
         {
           "startDate": "2023-05-18T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 50,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "3rd Place Final",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BFA",
             "short": "Burkina Faso",
@@ -950,7 +934,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1350,8 +1334,8 @@
         {
           "startDate": "2023-05-18T20:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 14,
+            "type": "SECOND_HALF",
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -1387,8 +1371,8 @@
         {
           "startDate": "2023-05-18T20:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 12,
+            "type": "SECOND_HALF",
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -1415,7 +1399,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,
@@ -1424,8 +1408,8 @@
         {
           "startDate": "2023-05-18T20:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 11,
+            "type": "SECOND_HALF",
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -1452,8 +1436,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1708,12 +1692,16 @@
         },
         {
           "startDate": "2023-05-18T21:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura - Quarter-finals",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JOC",
             "short": "Jocoro",
@@ -1732,7 +1720,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1749,8 +1740,8 @@
         {
           "startDate": "2023-05-18T19:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 54,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 115,
             "extra": 0
           },
           "round": {
@@ -1777,12 +1768,12 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 0
+            "teamA": 5,
+            "teamB": 1
           },
           "agg": {
-            "teamA": 2,
-            "teamB": 4
+            "teamA": 5,
+            "teamB": 5
           },
           "penalty": null
         }
@@ -2225,8 +2216,8 @@
         {
           "startDate": "2023-05-18T19:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 28,
+            "type": "SECOND_HALF",
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -2253,8 +2244,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 3,
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -2545,16 +2536,12 @@
       "matches": [
         {
           "startDate": "2023-05-18T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - 3rd Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ANC",
             "short": "Ancona",
@@ -2574,24 +2561,23 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 2
           },
-          "agg": null,
+          "agg": {
+            "teamA": 2,
+            "teamB": 2
+          },
           "penalty": null
         },
         {
           "startDate": "2023-05-18T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - 3rd Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AUD",
             "short": "Audace Cerig.",
@@ -2614,21 +2600,20 @@
             "teamA": 4,
             "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 4,
+            "teamB": 1
+          },
           "penalty": null
         },
         {
           "startDate": "2023-05-18T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - 3rd Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUB",
             "short": "Gubbio",
@@ -2651,21 +2636,20 @@
             "teamA": 2,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "penalty": null
         },
         {
           "startDate": "2023-05-18T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - 3rd Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SES",
             "short": "Pro Sesto",
@@ -2682,27 +2666,26 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 2,
-            "teamB": 0
+            "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "penalty": null
         },
         {
           "startDate": "2023-05-18T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - 3rd Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VVE",
             "short": "Virtus Verona",
@@ -2718,14 +2701,17 @@
             "name": "Pescara"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
             "teamA": 2,
             "teamB": 2
           },
-          "agg": null,
+          "agg": {
+            "teamA": 2,
+            "teamB": 2
+          },
           "penalty": null
         }
       ]
