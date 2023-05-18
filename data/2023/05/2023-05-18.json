@@ -2961,9 +2961,9 @@
         {
           "startDate": "2023-05-18T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "Norra",
