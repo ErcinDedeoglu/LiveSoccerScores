@@ -1424,6 +1424,49 @@
     },
     {
       "competition": {
+        "name": "Jugendliga U18",
+        "area": {
+          "name": "Austria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-17T15:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "TIR",
+            "short": "Tirol",
+            "long": "Tirol U18",
+            "full": "Akademie Tirol Under 18",
+            "name": "Tirol"
+          },
+          "teamB": {
+            "code": "RBA",
+            "short": "RB Akademie",
+            "long": "Red Bull Akademie U18",
+            "full": "Red Bull Akademie Under 18 (FC Salzburg Under 18)",
+            "name": "RB Akademie"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 2
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Copa de la Divisi\u00F3n Profesional",
         "area": {
           "name": "Bolivia"
@@ -3044,6 +3087,49 @@
           "score": {
             "teamA": 1,
             "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-17T14:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - League A",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BAY",
+            "short": "Bayern",
+            "long": "Bayern M\u00FCnchen U19",
+            "full": "FC Bayern M\u00FCnchen Under 19",
+            "name": "Bayern"
+          },
+          "teamB": {
+            "code": "LEV",
+            "short": "Bayer",
+            "long": "Bayer Leverkusen U19",
+            "full": "Bayer 04 Leverkusen Under 19",
+            "name": "Bayer"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 2
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
