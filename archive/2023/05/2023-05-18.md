@@ -52,8 +52,8 @@
 | <p align="center">FT</p> | <p align="right">Minnesota <img src="/static/logos/Minnesota United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston</p> |
 | <p align="center">FT</p> | <p align="right">Nashville <img src="/static/logos/Nashville SC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Internacional de Fútbol Miami.png" height="25px"> Inter Miami</p> |
 | <p align="center">01:30</p> | <p align="right">Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Portland Timbers.png" height="25px"> Portland</p> |
-| <p align="center">2'</p> | <p align="right">Los Angeles <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting KC</p> |
-| <p align="center">2'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Austin FC.png" height="25px"> Austin</p> |
+| <p align="center">26'</p> | <p align="right">Los Angeles <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting KC</p> |
+| <p align="center">26'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Austin FC.png" height="25px"> Austin</p> |
 </div>
 
 
@@ -63,7 +63,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">03:00</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Monterrey.png" height="25px"> Monterrey</p> |
+| <p align="center">4'</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CF Monterrey.png" height="25px"> Monterrey</p> |
 </div>
 
 
@@ -102,7 +102,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Morelia <img src="/static/logos/Club Atlético Morelia.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CD Tapatío.png" height="25px"> Tapatío</p> |
+| <p align="center">FT</p> | <p align="right">Morelia <img src="/static/logos/Club Atlético Morelia.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CD Tapatío.png" height="25px"> Tapatío</p> |
 </div>
 
 
@@ -136,7 +136,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Estudiantes SL <img src="/static/logos/Club Sportivo Estudiantes de San Luis.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Club Sportivo Peñarol.png" height="25px"> Peñarol</p> |
 | <p align="center">FT</p> | <p align="right">Atenas <img src="/static/logos/Club Sportivo y Biblioteca Atenas.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Atlético Club San Martín de Mendoza.png" height="25px"> SM Mendoza</p> |
-| <p align="center">75'</p> | <p align="right">Juv Antoniana <img src="/static/logos/Centro Juventud Antoniana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club de Gimnasia y Tiro de Salta.png" height="25px"> Gimnasia Tiro</p> |
+| <p align="center">FT</p> | <p align="right">Juv Antoniana <img src="/static/logos/Centro Juventud Antoniana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club de Gimnasia y Tiro de Salta.png" height="25px"> Gimnasia Tiro</p> |
 </div>
 
 
@@ -221,7 +221,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">FAS <img src="/static/logos/CD FAS.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza</p> |
+| <p align="center">78'</p> | <p align="right">FAS <img src="/static/logos/CD FAS.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza</p> |
 | <p align="center">21:30</p> | <p align="right">Jocoro <img src="/static/logos/Jocoro FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Águila.png" height="25px"> Águila</p> |
 </div>
 
@@ -429,7 +429,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">35'</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sacramento Republic FC.png" height="25px"> Sacramento </p> |
+| <p align="center">HT</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sacramento Republic FC.png" height="25px"> Sacramento </p> |
 </div>
 
 

@@ -333,7 +333,7 @@
           "startDate": "2023-05-18T02:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -360,8 +360,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -370,7 +370,7 @@
           "startDate": "2023-05-18T02:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -415,12 +415,16 @@
       "matches": [
         {
           "startDate": "2023-05-18T03:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura - Semi-finals",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TIG",
             "short": "Tigres",
@@ -439,7 +443,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -835,16 +842,12 @@
       "matches": [
         {
           "startDate": "2023-05-18T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura - Final",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAM",
             "short": "Morelia",
@@ -867,7 +870,10 @@
             "teamA": 1,
             "teamB": 2
           },
-          "agg": null,
+          "agg": {
+            "teamA": 1,
+            "teamB": 2
+          },
           "penalty": null
         }
       ]
@@ -1088,16 +1094,12 @@
         },
         {
           "startDate": "2023-05-18T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 75,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group 4",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ANT",
             "short": "Juv Antoniana",
@@ -1591,7 +1593,7 @@
           "startDate": "2023-05-18T01:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -3166,9 +3168,9 @@
         {
           "startDate": "2023-05-18T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",

@@ -3793,39 +3793,6 @@
           },
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-05-17T16:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Semi-finals",
-            "display": true
-          },
-          "status": "SUSPENDED",
-          "teamA": {
-            "code": "VOJ",
-            "short": "Vojvodina",
-            "long": "Vojvodina",
-            "full": "FK Vojvodina Novi Sad",
-            "name": "Vojvodina"
-          },
-          "teamB": {
-            "code": "\u010CUK",
-            "short": "\u010Cukari\u010Dki",
-            "long": "\u010Cukari\u010Dki",
-            "full": "FK \u010Cukari\u010Dki",
-            "name": "\u010Cukari\u010Dki"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 2
-          },
-          "agg": null,
-          "penalty": null
         }
       ]
     },
