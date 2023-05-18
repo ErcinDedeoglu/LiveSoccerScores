@@ -2962,8 +2962,8 @@
           "startDate": "2023-05-18T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Norra",
@@ -2989,7 +2989,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
