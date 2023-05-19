@@ -1980,6 +1980,49 @@
     },
     {
       "competition": {
+        "name": "U17 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-18T09:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - League A",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "BIE",
+            "short": "Bielefeld",
+            "long": "Arminia Bielefeld U17",
+            "full": "DSC Arminia Bielefeld Under 17",
+            "name": "Bielefeld"
+          },
+          "teamB": {
+            "code": "FCB",
+            "short": "Bayern M\u00FCnchen",
+            "long": "Bayern M\u00FCnchen U17",
+            "full": "FC Bayern M\u00FCnchen Under 17",
+            "name": "Bayern M\u00FCnchen"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "DFB Pokal Women",
         "area": {
           "name": "Germany"
