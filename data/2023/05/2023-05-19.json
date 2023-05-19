@@ -564,8 +564,8 @@
           "startDate": "2023-05-19T09:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 39,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Semi-finals",
@@ -854,7 +854,7 @@
           "startDate": "2023-05-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -901,7 +901,7 @@
           "startDate": "2023-05-19T10:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 13,
             "extra": 0
           },
           "round": {
@@ -1148,7 +1148,7 @@
           "startDate": "2023-05-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -1185,7 +1185,7 @@
           "startDate": "2023-05-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -1222,7 +1222,7 @@
           "startDate": "2023-05-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -5722,7 +5722,7 @@
           "startDate": "2023-05-19T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -5749,7 +5749,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
