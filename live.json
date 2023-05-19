@@ -172,7 +172,7 @@
           "startDate": "2023-05-19T02:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -1715,16 +1715,12 @@
       "matches": [
         {
           "startDate": "2023-05-19T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura - Finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALA",
             "short": "Alajuelense",
@@ -1744,10 +1740,13 @@
             "teamB": 1
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 3,
+            "teamB": 0
+          },
           "penalty": null
         }
       ]
