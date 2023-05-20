@@ -241,7 +241,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa</p> |
+| <p align="center">67'</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa</p> |
 | <p align="center">06:00</p> | <p align="right">Kashima <img src="/static/logos/Kashima Antlers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Tokyo.png" height="25px"> Tokyo</p> |
 | <p align="center">06:00</p> | <p align="right">Nagoya <img src="/static/logos/Nagoya Grampus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"> Sanfrecce</p> |
 | <p align="center">06:00</p> | <p align="right">Shonan <img src="/static/logos/Shonan Bellmare.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cerezo Osaka.png" height="25px"> Cerezo</p> |
@@ -330,9 +330,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18'</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
-| <p align="center">18'</p> | <p align="right">Moreland City <img src="/static/logos/Moreland City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
-| <p align="center">20'</p> | <p align="right">North Geelong <img src="/static/logos/North Geelong Warriors FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bentleigh Greens SC.png" height="25px"> Bentleigh</p> |
+| <p align="center">26'</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
+| <p align="center">26'</p> | <p align="right">Moreland City <img src="/static/logos/Moreland City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
+| <p align="center">27'</p> | <p align="right">North Geelong <img src="/static/logos/North Geelong Warriors FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bentleigh Greens SC.png" height="25px"> Bentleigh</p> |
 | <p align="center">08:30</p> | <p align="right">Hume City <img src="/static/logos/Hume City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Altona Magic SC.png" height="25px"> Altona Magic</p> |
 | <p align="center">09:15</p> | <p align="right">Dandenong <img src="/static/logos/Dandenong Thunder SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Heidelberg United FC.png" height="25px"> Heidelberg</p> |
 </div>
@@ -344,7 +344,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Alamein <img src="/static/logos/Alamein FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Box Hill United SC.png" height="25px"> Box Hill</p> |
+| <p align="center">24'</p> | <p align="right">Alamein <img src="/static/logos/Alamein FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Box Hill United SC.png" height="25px"> Box Hill</p> |
 | <p align="center">06:00</p> | <p align="right">Bulleen <img src="/static/logos/FC Bulleen Lions.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Calder United SC.png" height="25px"> Calder Utd</p> |
 | <p align="center">06:00</p> | <p align="right">South Melb <img src="/static/logos/South Melbourne Womens FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Southern United FC.png" height="25px"> Southern Utd</p> |
 | <p align="center">10:00</p> | <p align="right">Boroondara <img src="/static/logos/Boroondara Eagles FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FV Emerging Matildas.png" height="25px"> Emerging</p> |
@@ -357,7 +357,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/NWS Spirit FC.png" height="25px"> NWS Spirit</p> |
+| <p align="center">24'</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/NWS Spirit FC.png" height="25px"> NWS Spirit</p> |
 | <p align="center">07:00</p> | <p align="right">Manly Utd <img src="/static/logos/Manly United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blacktown City FC.png" height="25px"> Blacktown City</p> |
 | <p align="center">07:45</p> | <p align="right">Leichhardt <img src="/static/logos/APIA Leichhardt FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wollongong Wolves FC.png" height="25px"> Wolves</p> |
 | <p align="center">08:30</p> | <p align="right">Sutherland <img src="/static/logos/Sutherland Sharks FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
@@ -833,7 +833,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Beleza <img src="/static/logos/Nippon TV Tokyo Verdy Beleza.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nojima Stella Kanagawa Sagamihara.png" height="25px"> Nojima Stella</p> |
+| <p align="center">24'</p> | <p align="right">Beleza <img src="/static/logos/Nippon TV Tokyo Verdy Beleza.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nojima Stella Kanagawa Sagamihara.png" height="25px"> Nojima Stella</p> |
 </div>
 
 
