@@ -4988,16 +4988,12 @@
       "matches": [
         {
           "startDate": "2023-05-20T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura - Quadrangular",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FOR",
             "short": "Fortaleza",
@@ -5385,16 +5381,12 @@
       "matches": [
         {
           "startDate": "2023-05-20T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAR",
             "short": "Barcelona",
@@ -8673,8 +8665,8 @@
           "startDate": "2023-05-20T01:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Apertura",
@@ -8700,7 +8692,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,
@@ -12454,16 +12446,12 @@
       "matches": [
         {
           "startDate": "2023-05-20T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TUL",
             "short": "Tulsa",
@@ -12844,16 +12832,12 @@
         },
         {
           "startDate": "2023-05-20T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATX",
             "short": "Austin II",
