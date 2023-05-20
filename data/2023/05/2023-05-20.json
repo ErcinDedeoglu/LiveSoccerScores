@@ -4990,7 +4990,7 @@
           "startDate": "2023-05-20T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -5387,7 +5387,7 @@
           "startDate": "2023-05-20T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -5521,7 +5521,7 @@
       },
       "matches": [
         {
-          "startDate": "2023-05-20T21:15:00Z",
+          "startDate": "2023-05-20T21:00:00Z",
           "period": null,
           "round": {
             "name": "Clausura - Quarter-finals",
@@ -8673,7 +8673,7 @@
           "startDate": "2023-05-20T01:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 58,
             "extra": 0
           },
           "round": {
@@ -12456,7 +12456,7 @@
           "startDate": "2023-05-20T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -12846,7 +12846,7 @@
           "startDate": "2023-05-20T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 80,
             "extra": 0
           },
           "round": {
