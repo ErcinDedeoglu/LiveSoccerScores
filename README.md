@@ -33,9 +33,9 @@
 | <p align="center">FT</p> | <p align="right">Dallas <img src="/static/logos/FC Dallas.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston</p> |
 | <p align="center">FT</p> | <p align="right">Colorado <img src="/static/logos/Colorado Rapids.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Real Salt Lake.png" height="25px"> Salt Lake</p> |
 | <p align="center">FT</p> | <p align="right">St. Louis <img src="/static/logos/St. Louis City SC.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting KC</p> |
-| <p align="center">64'</p> | <p align="right">Los Angeles <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> Earthquakes</p> |
-| <p align="center">71'</p> | <p align="right">Portland <img src="/static/logos/Portland Timbers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Minnesota United FC.png" height="25px"> Minnesota</p> |
-| <p align="center">68'</p> | <p align="right">Whitecaps <img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Seattle Sounders FC.png" height="25px"> Sounders</p> |
+| <p align="center">FT</p> | <p align="right">Los Angeles <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> Earthquakes</p> |
+| <p align="center">FT</p> | <p align="right">Portland <img src="/static/logos/Portland Timbers.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Minnesota United FC.png" height="25px"> Minnesota</p> |
+| <p align="center">FT</p> | <p align="right">Whitecaps <img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Seattle Sounders FC.png" height="25px"> Sounders</p> |
 </div>
 
 
@@ -269,7 +269,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Tapatío <img src="/static/logos/CD Tapatío.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Atlético Morelia.png" height="25px"> Morelia</p> |
+| <p align="center">88'</p> | <p align="right">Tapatío <img src="/static/logos/CD Tapatío.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético Morelia.png" height="25px"> Morelia</p> |
 </div>
 
 
@@ -846,7 +846,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Guastatoya.png" height="25px"> Guastatoya</p> |
+| <p align="center">FT</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Guastatoya.png" height="25px"> Guastatoya</p> |
 </div>
 
 
@@ -922,7 +922,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">2'</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata Ladies.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AC Parceiro Nagano.png" height="25px"> Parceiro</p> |
+| <p align="center">HT</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata Ladies.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AC Parceiro Nagano.png" height="25px"> Parceiro</p> |
 | <p align="center">05:00</p> | <p align="right">Elfen <img src="/static/logos/Chifure AS Elfen Saitama FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/International Athletic Club Kobe Leonessa.png" height="25px"> Leonessa</p> |
 | <p align="center">05:00</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JEF United Ichihara Chiba Ladies.png" height="25px"> JEF Utd</p> |
 </div>
