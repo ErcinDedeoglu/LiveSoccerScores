@@ -4274,16 +4274,12 @@
         },
         {
           "startDate": "2023-05-21T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAC",
             "short": "Macarthur Rams",
@@ -4311,16 +4307,12 @@
         },
         {
           "startDate": "2023-05-21T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAN",
             "short": "Manly United",
@@ -4348,16 +4340,12 @@
         },
         {
           "startDate": "2023-05-21T07:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GRV",
             "short": "Ravens",
@@ -4387,7 +4375,7 @@
           "startDate": "2023-05-21T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -4414,7 +4402,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 2
           },
           "agg": null,
@@ -4534,7 +4522,7 @@
           "startDate": "2023-05-21T08:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -4562,7 +4550,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -5677,7 +5665,7 @@
           "startDate": "2023-05-21T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -5714,7 +5702,7 @@
           "startDate": "2023-05-21T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -8814,16 +8802,12 @@
         },
         {
           "startDate": "2023-05-21T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "J\u00DAB",
             "short": "J\u00FAbilo",
@@ -9002,7 +8986,7 @@
           "startDate": "2023-05-21T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -9037,12 +9021,16 @@
         },
         {
           "startDate": "2023-05-21T09:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SUW",
             "short": "Suwon",
@@ -9061,7 +9049,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
