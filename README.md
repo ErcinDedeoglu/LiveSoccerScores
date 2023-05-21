@@ -389,7 +389,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Roar <img src="/static/logos/Brisbane Roar FC Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> SC Wanderers</p> |
+| <p align="center">86'</p> | <p align="right">Roar <img src="/static/logos/Brisbane Roar FC Under 21.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> SC Wanderers</p> |
 | <p align="center">07:00</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brisbane City FC.png" height="25px"> Brisbane City</p> |
 </div>
 
@@ -400,8 +400,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">2'</p> | <p align="right">FQ QAS <img src="/static/logos/Football Queensland QAS.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
-| <p align="center">4'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
+| <p align="center">45'</p> | <p align="right">FQ QAS <img src="/static/logos/Football Queensland QAS.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
+| <p align="center">45' 3'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
 </div>
 
 
@@ -411,7 +411,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Rockdale <img src="/static/logos/Rockdale Ilinden FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/St George City FA.png" height="25px"> St George City</p> |
+| <p align="center">86'</p> | <p align="right">Rockdale <img src="/static/logos/Rockdale Ilinden FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/St George City FA.png" height="25px"> St George City</p> |
 </div>
 
 
@@ -671,9 +671,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:30</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD FAS.png" height="25px"> FAS</p> |
-| <p align="center">21:00</p> | <p align="right">Once Deportivo <img src="/static/logos/11 Deportivo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD Isidro Metapán.png" height="25px"> Isidro</p> |
-| <p align="center">21:15</p> | <p align="right">Águila <img src="/static/logos/CD Águila.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jocoro FC.png" height="25px"> Jocoro</p> |
+| <p align="center">POS</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CD FAS.png" height="25px"> FAS</p> |
+| <p align="center">POS</p> | <p align="right">Once Deportivo <img src="/static/logos/11 Deportivo FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/AD Isidro Metapán.png" height="25px"> Isidro</p> |
+| <p align="center">POS</p> | <p align="right">Águila <img src="/static/logos/CD Águila.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Jocoro FC.png" height="25px"> Jocoro</p> |
 </div>
 
 
@@ -881,7 +881,6 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">14:00</p> | <p align="right">Grótta <img src="/static/logos/IF Grótta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IF Vestri.png" height="25px"> Vestri</p> |
 | <p align="center">14:00</p> | <p align="right">Selfoss <img src="/static/logos/UMF Selfoss.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UMF Fjölnir.png" height="25px"> Fjölnir</p> |
-| <p align="center">19:15</p> | <p align="right">Grindavík <img src="/static/logos/UMF Grindavík.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UMF Njardvík.png" height="25px"> Njardvík</p> |
 | <p align="center">19:15</p> | <p align="right">Thróttur R <img src="/static/logos/Thróttur Reykjavík.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KF Ægir Thorlákshöfn.png" height="25px"> Ægir</p> |
 </div>
 
@@ -902,15 +901,15 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">46'</p> | <p align="right">Fujieda <img src="/static/logos/Fujieda MYFC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tokushima Vortis.png" height="25px"> Tokushima</p> |
-| <p align="center">47'</p> | <p align="right">JEF Utd <img src="/static/logos/JEF United Ichihara Chiba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi</p> |
-| <p align="center">HT</p> | <p align="right">Machida <img src="/static/logos/FC Machida Zelvia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu</p> |
-| <p align="center">HT</p> | <p align="right">Montedio <img src="/static/logos/Montedio Yamagata.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/AFC Blaublitz Akita.png" height="25px"> Blaublitz</p> |
-| <p align="center">HT</p> | <p align="right">Oita <img src="/static/logos/Oita Trinita.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/V-Varen Nagasaki.png" height="25px"> V-Varen</p> |
-| <p align="center">HT</p> | <p align="right">Omiya <img src="/static/logos/Omiya Ardija.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Vegalta Sendai.png" height="25px"> Vegalta</p> |
-| <p align="center">HT</p> | <p align="right">Renofa <img src="/static/logos/Renofa Yamaguchi.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Tokyo Verdy.png" height="25px"> Tokyo Verdy</p> |
-| <p align="center">46'</p> | <p align="right">Zweigen <img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet</p> |
-| <p align="center">3'</p> | <p align="right">Mito <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Roasso Kumamoto.png" height="25px"> Kumamoto</p> |
+| <p align="center">90'</p> | <p align="right">Fujieda <img src="/static/logos/Fujieda MYFC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Tokushima Vortis.png" height="25px"> Tokushima</p> |
+| <p align="center">90' 1'</p> | <p align="right">JEF Utd <img src="/static/logos/JEF United Ichihara Chiba.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi</p> |
+| <p align="center">89'</p> | <p align="right">Machida <img src="/static/logos/FC Machida Zelvia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu</p> |
+| <p align="center">87'</p> | <p align="right">Montedio <img src="/static/logos/Montedio Yamagata.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/AFC Blaublitz Akita.png" height="25px"> Blaublitz</p> |
+| <p align="center">89'</p> | <p align="right">Oita <img src="/static/logos/Oita Trinita.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/V-Varen Nagasaki.png" height="25px"> V-Varen</p> |
+| <p align="center">88'</p> | <p align="right">Omiya <img src="/static/logos/Omiya Ardija.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Vegalta Sendai.png" height="25px"> Vegalta</p> |
+| <p align="center">84'</p> | <p align="right">Renofa <img src="/static/logos/Renofa Yamaguchi.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Tokyo Verdy.png" height="25px"> Tokyo Verdy</p> |
+| <p align="center">90'</p> | <p align="right">Zweigen <img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet</p> |
+| <p align="center">HT</p> | <p align="right">Mito <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Roasso Kumamoto.png" height="25px"> Kumamoto</p> |
 | <p align="center">07:00</p> | <p align="right">Júbilo <img src="/static/logos/Júbilo Iwata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iwaki FC.png" height="25px"> Iwaki</p> |
 | <p align="center">10:00</p> | <p align="right">Fagiano <img src="/static/logos/Fagiano Okayama.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ThespaKusatsu Gunma.png" height="25px"> ThespaKusatsu</p> |
 </div>
@@ -923,8 +922,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata Ladies.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AC Parceiro Nagano.png" height="25px"> Parceiro</p> |
-| <p align="center">46'</p> | <p align="right">Elfen <img src="/static/logos/Chifure AS Elfen Saitama FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/International Athletic Club Kobe Leonessa.png" height="25px"> Leonessa</p> |
-| <p align="center">HT</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/JEF United Ichihara Chiba Ladies.png" height="25px"> JEF Utd</p> |
+| <p align="center">90'</p> | <p align="right">Elfen <img src="/static/logos/Chifure AS Elfen Saitama FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/International Athletic Club Kobe Leonessa.png" height="25px"> Leonessa</p> |
+| <p align="center">89'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/JEF United Ichihara Chiba Ladies.png" height="25px"> JEF Utd</p> |
 </div>
 
 

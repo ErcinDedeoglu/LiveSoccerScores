@@ -3869,6 +3869,49 @@
     },
     {
       "competition": {
+        "name": "Jugendliga U18",
+        "area": {
+          "name": "Austria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-20T13:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "RBA",
+            "short": "RB Akademie",
+            "long": "Red Bull Akademie U18",
+            "full": "Red Bull Akademie Under 18 (FC Salzburg Under 18)",
+            "name": "RB Akademie"
+          },
+          "teamB": {
+            "code": "ADM",
+            "short": "Admira",
+            "long": "Admira U18",
+            "full": "FC Admira Under 18",
+            "name": "Admira"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Premier League",
         "area": {
           "name": "Bangladesh"
@@ -14177,6 +14220,49 @@
           "score": {
             "teamA": 2,
             "teamB": 1
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U17 Club Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-20T11:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "COT",
+            "short": "Cottbus",
+            "long": "Energie Cottbus U17",
+            "full": "FC Energie Cottbus Under 17",
+            "name": "Cottbus"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 5
           },
           "agg": null,
           "penalty": null
