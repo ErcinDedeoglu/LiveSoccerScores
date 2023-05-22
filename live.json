@@ -249,8 +249,8 @@
         {
           "startDate": "2023-05-22T21:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 11,
+            "type": "SECOND_HALF",
+            "minute": 60,
             "extra": 0
           },
           "round": {
@@ -277,7 +277,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -319,8 +319,8 @@
         {
           "startDate": "2023-05-22T21:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 11,
+            "type": "SECOND_HALF",
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -448,12 +448,16 @@
       "matches": [
         {
           "startDate": "2023-05-22T22:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 10,
+            "extra": 0
+          },
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "RCO",
             "short": "Racing C\u00F3rdoba",
@@ -472,7 +476,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -813,12 +820,16 @@
         },
         {
           "startDate": "2023-05-22T22:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 14,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "WAN",
             "short": "Wanderers",
@@ -837,7 +848,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1675,16 +1689,12 @@
       "matches": [
         {
           "startDate": "2023-05-22T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GRV",
             "short": "Grindav\u00EDk",
@@ -1712,16 +1722,12 @@
         },
         {
           "startDate": "2023-05-22T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "\u00CDA",
             "short": "\u00CDA",
@@ -2181,8 +2187,8 @@
         {
           "startDate": "2023-05-22T21:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 12,
+            "type": "SECOND_HALF",
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -2258,8 +2264,8 @@
         {
           "startDate": "2023-05-22T20:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
+            "type": "SECOND_HALF",
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -2286,8 +2292,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
