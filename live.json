@@ -521,7 +521,7 @@
           "startDate": "2023-05-22T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -678,7 +678,7 @@
           "startDate": "2023-05-22T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -1054,7 +1054,7 @@
           "startDate": "2023-05-22T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1082,7 +1082,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1091,7 +1091,7 @@
           "startDate": "2023-05-22T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 35,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1128,7 +1128,7 @@
           "startDate": "2023-05-22T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1165,7 +1165,7 @@
           "startDate": "2023-05-22T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -1212,7 +1212,7 @@
           "startDate": "2023-05-22T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 12,
             "extra": 0
           },
           "round": {
@@ -1259,7 +1259,7 @@
           "startDate": "2023-05-22T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -1889,7 +1889,7 @@
           "startDate": "2023-05-22T14:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -1926,7 +1926,7 @@
           "startDate": "2023-05-22T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 11,
             "extra": 0
           },
           "round": {
@@ -2053,7 +2053,7 @@
           "startDate": "2023-05-22T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -2090,7 +2090,7 @@
           "startDate": "2023-05-22T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -2936,7 +2936,7 @@
           "startDate": "2023-05-22T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -2981,12 +2981,16 @@
       "matches": [
         {
           "startDate": "2023-05-22T15:35:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SHJ",
             "short": "Sharjah",
@@ -3005,7 +3009,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": {
             "teamA": 1,
             "teamB": 0
