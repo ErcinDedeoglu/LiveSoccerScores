@@ -8574,6 +8574,49 @@
     },
     {
       "competition": {
+        "name": "U19 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-21T13:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - League A",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "STU",
+            "short": "Stuttgart",
+            "long": "Stuttgart U19",
+            "full": "VfB Stuttgart Under 19",
+            "name": "Stuttgart"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U19",
+            "full": "Rasen Ballsport Leipzig Under 19",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 2,
+            "teamB": 3
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Frauen Bundesliga",
         "area": {
           "name": "Germany"
