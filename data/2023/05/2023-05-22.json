@@ -122,7 +122,7 @@
           "startDate": "2023-05-22T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -145,16 +145,16 @@
             "name": "Chivas"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "penalty": null
         }
@@ -1429,16 +1429,12 @@
       "matches": [
         {
           "startDate": "2023-05-22T01:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 121,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Clausura - Semi-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COM",
             "short": "Comunicaciones",
@@ -1466,8 +1462,8 @@
             "teamB": 1
           },
           "penalty": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 3
           }
         }
       ]
