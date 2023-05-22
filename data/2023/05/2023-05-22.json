@@ -2770,9 +2770,9 @@
         {
           "startDate": "2023-05-22T09:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Championship Round",
