@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">02:00</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> Chivas</p> |
+| <p align="center">61'</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> Chivas</p> |
 </div>
 
 
@@ -262,7 +262,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Antigua Guatemala FC.png" height="25px"> Antigua</p> |
+| <p align="center">121'</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Antigua Guatemala FC.png" height="25px"> Antigua</p> |
 </div>
 
 
@@ -486,8 +486,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">LA Galaxy II <img src="/static/logos/LA Galaxy II.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Portland Timbers 2.png" height="25px"> Timbers2</p> |
-| <p align="center">72'</p> | <p align="right">North Texas <img src="/static/logos/North Texas SC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
-| <p align="center">46'</p> | <p align="right">Whitecaps FC 2 <img src="/static/logos/Vancouver Whitecaps FC II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tacoma Defiance.png" height="25px"> Tacoma Def.</p> |
+| <p align="center">FT</p> | <p align="right">North Texas <img src="/static/logos/North Texas SC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
+| <p align="center">FT</p> | <p align="right">Whitecaps FC 2 <img src="/static/logos/Vancouver Whitecaps FC II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tacoma Defiance.png" height="25px"> Tacoma Def.</p> |
 </div>
 
 

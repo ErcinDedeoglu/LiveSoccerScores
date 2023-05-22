@@ -120,12 +120,16 @@
       "matches": [
         {
           "startDate": "2023-05-22T02:00:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura - Semi-finals",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "AME",
             "short": "Am\u00E9rica",
@@ -144,10 +148,13 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
-          "agg": {
+          "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
+          },
+          "agg": {
+            "teamA": 2,
+            "teamB": 1
           },
           "penalty": null
         }
@@ -1423,8 +1430,8 @@
         {
           "startDate": "2023-05-22T01:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 47,
+            "type": "PENALTY",
+            "minute": 121,
             "extra": 0
           },
           "round": {
@@ -1451,14 +1458,17 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "penalty": {
             "teamA": 0,
             "teamB": 0
-          },
-          "penalty": null
+          }
         }
       ]
     },
@@ -2973,16 +2983,12 @@
         },
         {
           "startDate": "2023-05-22T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 72,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NTX",
             "short": "North Texas",
@@ -3002,24 +3008,23 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 2
+            "teamA": 3,
+            "teamB": 3
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 5,
+            "teamB": 6
+          }
         },
         {
           "startDate": "2023-05-22T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 46,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAN",
             "short": "Whitecaps FC 2",
@@ -3039,7 +3044,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
