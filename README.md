@@ -462,7 +462,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">Kremin' <img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FK Nyva Ternopil.png" height="25px"> Nyva Ternopil</p> |
+| <p align="center">62'</p> | <p align="right">Kremin' <img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FK Nyva Ternopil.png" height="25px"> Nyva Ternopil</p> |
 | <p align="center">11:00</p> | <p align="right">LNZ Cherkasy <img src="/static/logos/LNZ Cherkasy FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Karpaty Lviv.png" height="25px"> Karpaty Lviv</p> |
 | <p align="center">11:00</p> | <p align="right">Metalurh <img src="/static/logos/FK Metalurh Zaporizhya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Epitsentr Dunayivtsi.png" height="25px"> Epitsentr</p> |
 | <p align="center">14:00</p> | <p align="right">Obolon' Kyiv <img src="/static/logos/FK Obolon' Kyiv.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Polissya Zhytomyr.png" height="25px"> Polissya</p> |
