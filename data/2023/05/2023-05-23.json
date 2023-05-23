@@ -120,9 +120,9 @@
         {
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "Group Stage",
@@ -157,9 +157,9 @@
         {
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Group Stage",
@@ -275,8 +275,8 @@
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "minute": 45,
+            "extra": 7
           },
           "round": {
             "name": "Group Stage",
@@ -298,8 +298,8 @@
             "name": "Santa Fe"
           },
           "redCards": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "score": {
             "teamA": 0,
@@ -311,9 +311,9 @@
         {
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
           },
           "round": {
             "name": "Group Stage",
@@ -392,8 +392,8 @@
           "startDate": "2023-05-23T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Group Stage",
@@ -415,7 +415,7 @@
             "name": "Guatemala"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "score": {
@@ -462,8 +462,8 @@
           "startDate": "2023-05-23T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Group Stage",
@@ -591,9 +591,9 @@
         {
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
