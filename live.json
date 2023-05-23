@@ -721,7 +721,7 @@
           "startDate": "2023-05-23T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -758,7 +758,7 @@
           "startDate": "2023-05-23T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -785,7 +785,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 4,
+            "teamA": 6,
             "teamB": 2
           },
           "agg": null,
@@ -795,7 +795,7 @@
           "startDate": "2023-05-23T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -823,7 +823,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 3
+            "teamB": 5
           },
           "agg": null,
           "penalty": null
@@ -832,7 +832,7 @@
           "startDate": "2023-05-23T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -879,7 +879,7 @@
           "startDate": "2023-05-23T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -906,7 +906,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1836,7 +1836,7 @@
           "startDate": "2023-05-23T12:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -1863,7 +1863,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
