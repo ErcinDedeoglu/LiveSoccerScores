@@ -574,9 +574,9 @@
         {
           "startDate": "2023-05-23T14:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 38,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Conference League Play-off Group",
@@ -1433,7 +1433,7 @@
           "startDate": "2023-05-23T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -1686,7 +1686,7 @@
           "startDate": "2023-05-23T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -1713,8 +1713,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 4,
-            "teamB": 1
+            "teamA": 6,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1803,7 +1803,7 @@
           "startDate": "2023-05-23T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -2240,16 +2240,12 @@
       "matches": [
         {
           "startDate": "2023-05-23T13:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Final",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAT",
             "short": "Tatran",
@@ -2272,7 +2268,10 @@
             "teamA": 1,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "penalty": null
         }
       ]
