@@ -450,16 +450,12 @@
       "matches": [
         {
           "startDate": "2023-05-23T00:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALL",
             "short": "All Boys",
@@ -647,16 +643,12 @@
       "matches": [
         {
           "startDate": "2023-05-23T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 63,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SCR",
             "short": "Santa Cruz",
@@ -672,8 +664,8 @@
             "name": "San Marcos"
           },
           "redCards": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "score": {
             "teamA": 1,
@@ -684,16 +676,12 @@
         },
         {
           "startDate": "2023-05-23T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 57,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "UDC",
             "short": "U. Concepci\u00F3n",
@@ -1981,16 +1969,12 @@
       "matches": [
         {
           "startDate": "2023-05-23T01:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BIN",
             "short": "Binacional",
@@ -2010,7 +1994,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,

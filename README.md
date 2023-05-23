@@ -74,7 +74,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">All Boys <img src="/static/logos/CA All Boys.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CA Defensores de Belgrano.png" height="25px"> Defensores Bel</p> |
+| <p align="center">FT</p> | <p align="right">All Boys <img src="/static/logos/CA All Boys.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CA Defensores de Belgrano.png" height="25px"> Defensores Bel</p> |
 </div>
 
 
@@ -115,8 +115,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Santa Cruz <img src="/static/logos/Deportes Santa Cruz.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD San Marcos de Arica.png" height="25px"> San Marcos</p> |
-| <p align="center">57'</p> | <p align="right">U. Concepción <img src="/static/logos/CD Universidad de Concepción.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Santiago Morning.png" height="25px"> Morning</p> |
+| <p align="center">FT</p> | <p align="right">Santa Cruz <img src="/static/logos/Deportes Santa Cruz.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD San Marcos de Arica.png" height="25px"> San Marcos</p> |
+| <p align="center">FT</p> | <p align="right">U. Concepción <img src="/static/logos/CD Universidad de Concepción.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Santiago Morning.png" height="25px"> Morning</p> |
 </div>
 
 
@@ -289,7 +289,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Binacional <img src="/static/logos/Escuela Municipal Deportivo Binacional.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CD Unión Comercio.png" height="25px"> Unión Comercio</p> |
+| <p align="center">FT</p> | <p align="right">Binacional <img src="/static/logos/Escuela Municipal Deportivo Binacional.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/CD Unión Comercio.png" height="25px"> Unión Comercio</p> |
 </div>
 
 
