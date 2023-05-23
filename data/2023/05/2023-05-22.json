@@ -177,7 +177,7 @@
           "startDate": "2023-05-22T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -366,7 +366,7 @@
           "startDate": "2023-05-22T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -489,7 +489,7 @@
           "startDate": "2023-05-22T23:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -517,7 +517,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -612,7 +612,7 @@
           "startDate": "2023-05-22T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -649,7 +649,7 @@
           "startDate": "2023-05-22T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -677,7 +677,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -695,9 +695,9 @@
         {
           "startDate": "2023-05-22T23:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 7
           },
           "round": {
             "name": "1st Phase",
@@ -2246,9 +2246,9 @@
         {
           "startDate": "2023-05-22T23:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Apertura",
