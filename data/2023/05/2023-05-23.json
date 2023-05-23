@@ -121,7 +121,7 @@
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -158,7 +158,7 @@
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -275,7 +275,7 @@
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -312,7 +312,7 @@
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -392,7 +392,7 @@
           "startDate": "2023-05-23T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -416,7 +416,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 1,
@@ -462,7 +462,7 @@
           "startDate": "2023-05-23T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -489,7 +489,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -592,7 +592,7 @@
           "startDate": "2023-05-23T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -974,16 +974,12 @@
       "matches": [
         {
           "startDate": "2023-05-23T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AMC",
             "short": "Am\u00E9rica",
@@ -1011,16 +1007,12 @@
         },
         {
           "startDate": "2023-05-23T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HUI",
             "short": "Atl\u00E9tico Huila",
@@ -1048,16 +1040,12 @@
         },
         {
           "startDate": "2023-05-23T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHI",
             "short": "Boyac\u00E1 Chic\u00F3",
@@ -1085,16 +1073,12 @@
         },
         {
           "startDate": "2023-05-23T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BUC",
             "short": "Bucaramanga",
@@ -1122,16 +1106,12 @@
         },
         {
           "startDate": "2023-05-23T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MED",
             "short": "Medell\u00EDn",
@@ -1151,7 +1131,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 2
           },
           "agg": null,
@@ -1159,16 +1139,12 @@
         },
         {
           "startDate": "2023-05-23T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RSA",
             "short": "Real Santander",
@@ -1196,16 +1172,12 @@
         },
         {
           "startDate": "2023-05-23T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "STF",
             "short": "Santa Fe",
@@ -1233,16 +1205,12 @@
         },
         {
           "startDate": "2023-05-23T20:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TOL",
             "short": "Tolima",
@@ -1263,7 +1231,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
