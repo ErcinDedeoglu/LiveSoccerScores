@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Celta Vigo <img src="/static/logos/Real Club Celta de Vigo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Girona FC.png" height="25px"> Girona</p> |
 | <p align="center">FT</p> | <p align="right">Real Sociedad <img src="/static/logos/Real Sociedad de Fútbol.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/UD Almería.png" height="25px"> Almería</p> |
-| <p align="center">79'</p> | <p align="right">Valladolid <img src="/static/logos/Real Valladolid CF.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/FC Barcelona.png" height="25px"> Barcelona</p> |
+| <p align="center">90' 4'</p> | <p align="right">Valladolid <img src="/static/logos/Real Valladolid CF.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/FC Barcelona.png" height="25px"> Barcelona</p> |
 </div>
 
 
@@ -62,9 +62,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 20.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/New Zealand Under 20.png" height="25px"> NZ</p> |
-| <p align="center">38'</p> | <p align="right">Argentina <img src="/static/logos/Argentina Under 20.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guatemala Under 20.png" height="25px"> Guatemala</p> |
+| <p align="center">HT</p> | <p align="right">Argentina <img src="/static/logos/Argentina Under 20.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guatemala Under 20.png" height="25px"> Guatemala</p> |
 | <p align="center">FT</p> | <p align="right">USA <img src="/static/logos/United States Under 20.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Fiji Under 20.png" height="25px"> Fiji</p> |
-| <p align="center">38'</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador Under 20.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Slovakia Under 20.png" height="25px"> Slovakia U20</p> |
+| <p align="center">HT</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador Under 20.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Slovakia Under 20.png" height="25px"> Slovakia U20</p> |
 </div>
 
 
@@ -149,14 +149,14 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">América <img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> La Equidad</p> |
-| <p align="center">60'</p> | <p align="right">Atlético Huila <img src="/static/logos/CD Atlético Huila.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
-| <p align="center">59'</p> | <p align="right">Boyacá Chicó <img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Popular Junior FC SA.png" height="25px"> Junior</p> |
-| <p align="center">60'</p> | <p align="right">Bucaramanga <img src="/static/logos/CA Bucaramanga.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Cortuluá Yumbo Industriales FC.png" height="25px"> Industriales</p> |
-| <p align="center">60'</p> | <p align="right">Medellín <img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Nacional</p> |
-| <p align="center">60'</p> | <p align="right">Real Santander <img src="/static/logos/CD Real Santander.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Millonarios FC SA.png" height="25px"> Millonarios</p> |
-| <p align="center">59'</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
-| <p align="center">59'</p> | <p align="right">Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Asociación Deportivo Cali.png" height="25px"> Dep. Cali</p> |
+| <p align="center">75'</p> | <p align="right">América <img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> La Equidad</p> |
+| <p align="center">75'</p> | <p align="right">Atlético Huila <img src="/static/logos/CD Atlético Huila.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
+| <p align="center">74'</p> | <p align="right">Boyacá Chicó <img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Popular Junior FC SA.png" height="25px"> Junior</p> |
+| <p align="center">75'</p> | <p align="right">Bucaramanga <img src="/static/logos/CA Bucaramanga.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Cortuluá Yumbo Industriales FC.png" height="25px"> Industriales</p> |
+| <p align="center">75'</p> | <p align="right">Medellín <img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Nacional</p> |
+| <p align="center">75'</p> | <p align="right">Real Santander <img src="/static/logos/CD Real Santander.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Millonarios FC SA.png" height="25px"> Millonarios</p> |
+| <p align="center">74'</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
+| <p align="center">74'</p> | <p align="right">Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Asociación Deportivo Cali.png" height="25px"> Dep. Cali</p> |
 </div>
 
 
