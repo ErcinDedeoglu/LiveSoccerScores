@@ -228,16 +228,12 @@
         },
         {
           "startDate": "2023-05-23T23:30:00Z",
-          "period": {
-            "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 120,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NYR",
             "short": "New York",
@@ -261,7 +257,10 @@
             "teamB": 1
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 3,
+            "teamB": 5
+          }
         }
       ]
     },
