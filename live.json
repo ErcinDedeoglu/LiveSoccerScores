@@ -152,16 +152,12 @@
         },
         {
           "startDate": "2023-05-24T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 55,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BET",
             "short": "Betis",
@@ -177,28 +173,24 @@
             "name": "Getafe"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-24T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 55,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ESP",
             "short": "Espanyol",
@@ -218,7 +210,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 3,
             "teamB": 3
           },
           "agg": null,
@@ -633,36 +625,6 @@
           },
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-05-24T22:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Group Stage",
-            "display": true
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "PAT",
-            "short": "Patronato",
-            "long": "Patronato",
-            "full": "CA Patronato de la Juventud Cat\u00F3lica",
-            "name": "Patronato"
-          },
-          "teamB": {
-            "code": "OLI",
-            "short": "Olimpia",
-            "long": "Olimpia",
-            "full": "Club Olimpia",
-            "name": "Olimpia"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
         }
       ]
     },
@@ -1031,9 +993,9 @@
         {
           "startDate": "2023-05-24T21:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 14,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Group Stage",
@@ -1059,7 +1021,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1101,9 +1063,9 @@
         {
           "startDate": "2023-05-24T21:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 15,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Group Stage",
@@ -1129,7 +1091,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
