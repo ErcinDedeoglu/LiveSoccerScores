@@ -195,16 +195,12 @@
       "matches": [
         {
           "startDate": "2023-05-23T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MIA",
             "short": "Inter Miami",
@@ -233,9 +229,9 @@
         {
           "startDate": "2023-05-23T23:30:00Z",
           "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 102,
-            "extra": 0
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 120,
+            "extra": 1
           },
           "round": {
             "name": "Round of 16",
