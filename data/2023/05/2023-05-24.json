@@ -1498,7 +1498,7 @@
           "startDate": "2023-05-24T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -1526,7 +1526,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1535,7 +1535,7 @@
           "startDate": "2023-05-24T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -1562,7 +1562,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1572,7 +1572,7 @@
           "startDate": "2023-05-24T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -1599,7 +1599,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1609,7 +1609,7 @@
           "startDate": "2023-05-24T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -2646,16 +2646,12 @@
       "matches": [
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CON",
             "short": "Consadole",
@@ -2683,16 +2679,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAG",
             "short": "Sagan",
@@ -2755,7 +2747,7 @@
           "startDate": "2023-05-24T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -2790,16 +2782,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "YFC",
             "short": "Yokohama",
@@ -2829,7 +2817,7 @@
           "startDate": "2023-05-24T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -2864,16 +2852,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ALB",
             "short": "Albirex",
@@ -2901,16 +2885,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ANT",
             "short": "Kashima",
@@ -2938,16 +2918,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GAM",
             "short": "Gamba",
@@ -2975,16 +2951,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TOK",
             "short": "Tokyo",
@@ -3023,9 +2995,9 @@
         {
           "startDate": "2023-05-24T10:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 105,
+            "extra": 0
           },
           "round": {
             "name": "Round of 16",
@@ -3052,23 +3024,19 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GIM",
             "short": "Gimpo",
@@ -3129,16 +3097,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "JEJ",
             "short": "Jeju Utd",
@@ -3167,9 +3131,9 @@
         {
           "startDate": "2023-05-24T10:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 105,
+            "extra": 0
           },
           "round": {
             "name": "Round of 16",
@@ -3195,7 +3159,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 2
           },
           "agg": null,
@@ -3203,16 +3167,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SEO",
             "short": "Seongnam",
@@ -3240,16 +3200,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SEL",
             "short": "Seoul E-Land",
@@ -3277,16 +3233,12 @@
         },
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SUW",
             "short": "Suwon",
@@ -3757,16 +3709,12 @@
       "matches": [
         {
           "startDate": "2023-05-24T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DN1",
             "short": "Dnipro-1",
@@ -3796,7 +3744,7 @@
           "startDate": "2023-05-24T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -3824,19 +3772,23 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-24T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 12,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "VER",
             "short": "Veres Rivne",
@@ -3855,7 +3807,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
