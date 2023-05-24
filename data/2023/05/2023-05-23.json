@@ -1855,6 +1855,49 @@
     },
     {
       "competition": {
+        "name": "U17 Bundesliga",
+        "area": {
+          "name": "Germany"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-05-23T16:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Special Stage - League A",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "H96",
+            "short": "Hannover 96",
+            "long": "Hannover 96 U17",
+            "full": "Hannoverscher Sportverein 1896 Under 17",
+            "name": "Hannover 96"
+          },
+          "teamB": {
+            "code": "RBL",
+            "short": "RB Leipzig",
+            "long": "RB Leipzig U17",
+            "full": "Rasen Ballsport Leipzig Under 17",
+            "name": "RB Leipzig"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 3,
+            "teamB": 4
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "State Cup",
         "area": {
           "name": "Israel"
