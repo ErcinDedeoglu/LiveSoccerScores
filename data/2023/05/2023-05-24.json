@@ -1626,16 +1626,12 @@
       "matches": [
         {
           "startDate": "2023-05-24T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NHC",
             "short": "Haimen",
@@ -1665,7 +1661,7 @@
           "startDate": "2023-05-24T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -1733,16 +1729,12 @@
         },
         {
           "startDate": "2023-05-24T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HAS",
             "short": "Star",
