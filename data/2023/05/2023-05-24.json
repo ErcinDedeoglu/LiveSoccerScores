@@ -877,12 +877,16 @@
         },
         {
           "startDate": "2023-05-24T02:00:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 82,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "SUSPENDED",
+          "status": "LIVE",
           "teamA": {
             "code": "MIL",
             "short": "Millonarios",
