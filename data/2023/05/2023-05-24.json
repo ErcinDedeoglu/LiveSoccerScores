@@ -707,7 +707,7 @@
           "startDate": "2023-05-24T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
+            "minute": 87,
             "extra": 0
           },
           "round": {
