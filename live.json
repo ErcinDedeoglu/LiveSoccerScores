@@ -1122,16 +1122,12 @@
       "matches": [
         {
           "startDate": "2023-05-25T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BIT",
             "short": "BIT",
@@ -1161,7 +1157,7 @@
           "startDate": "2023-05-25T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -1197,9 +1193,9 @@
         {
           "startDate": "2023-05-25T08:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
