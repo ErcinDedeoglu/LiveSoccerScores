@@ -732,7 +732,7 @@
           "startDate": "2023-05-25T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 13,
             "extra": 0
           },
           "round": {
@@ -759,7 +759,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -769,7 +769,7 @@
           "startDate": "2023-05-25T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -806,7 +806,7 @@
           "startDate": "2023-05-25T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 14,
             "extra": 0
           },
           "round": {
@@ -833,7 +833,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -843,7 +843,7 @@
           "startDate": "2023-05-25T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 15,
             "extra": 0
           },
           "round": {
@@ -880,7 +880,7 @@
           "startDate": "2023-05-25T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -927,7 +927,7 @@
           "startDate": "2023-05-25T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 55,
             "extra": 0
           },
           "round": {
@@ -1967,7 +1967,7 @@
           "startDate": "2023-05-25T12:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -2004,7 +2004,7 @@
           "startDate": "2023-05-25T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 17,
             "extra": 0
           },
           "round": {
@@ -2110,9 +2110,9 @@
         {
           "startDate": "2023-05-25T13:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 56,
+            "extra": 0
           },
           "round": {
             "name": "Promotion Play-offs - 1st Round",
@@ -2327,13 +2327,17 @@
           "penalty": null
         },
         {
-          "startDate": "2023-05-25T12:00:00Z",
-          "period": null,
+          "startDate": "2023-05-25T14:10:00Z",
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KKR",
             "short": "Kryvbas KR",
@@ -2352,7 +2356,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
