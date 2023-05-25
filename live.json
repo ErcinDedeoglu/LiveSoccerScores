@@ -1223,7 +1223,7 @@
           "startDate": "2023-05-25T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -1929,7 +1929,7 @@
           "startDate": "2023-05-25T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -2210,16 +2210,12 @@
         },
         {
           "startDate": "2023-05-25T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "INH",
             "short": "Inhulets\u0027",
@@ -2247,16 +2243,12 @@
         },
         {
           "startDate": "2023-05-25T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LVI",
             "short": "Lviv",
