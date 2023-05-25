@@ -12,7 +12,7 @@
           "startDate": "2023-05-25T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -39,7 +39,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -91,9 +91,9 @@
         {
           "startDate": "2023-05-25T19:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -119,7 +119,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1505,7 +1505,7 @@
           "startDate": "2023-05-25T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1550,16 +1550,12 @@
       "matches": [
         {
           "startDate": "2023-05-25T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Relegation Play-offs - Final",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "COS",
             "short": "Cosenza",
@@ -1582,7 +1578,10 @@
             "teamA": 1,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "penalty": null
         }
       ]
@@ -1599,7 +1598,7 @@
           "startDate": "2023-05-25T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -1627,7 +1626,7 @@
           },
           "score": {
             "teamA": 4,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -1676,7 +1675,7 @@
           "startDate": "2023-05-25T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -1703,8 +1702,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 5,
-            "teamB": 3
+            "teamA": 6,
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -1723,7 +1722,7 @@
           "startDate": "2023-05-25T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -1750,7 +1749,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -1857,16 +1856,12 @@
       "matches": [
         {
           "startDate": "2023-05-25T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GCZ",
             "short": "Grasshopper",
@@ -1894,16 +1889,12 @@
         },
         {
           "startDate": "2023-05-25T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LUG",
             "short": "Lugano",
@@ -1931,16 +1922,12 @@
         },
         {
           "startDate": "2023-05-25T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SER",
             "short": "Servette",
@@ -1968,16 +1955,12 @@
         },
         {
           "startDate": "2023-05-25T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SIO",
             "short": "Sion",
@@ -2005,16 +1988,12 @@
         },
         {
           "startDate": "2023-05-25T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WIN",
             "short": "Winterthur",
@@ -2035,7 +2014,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 3
+            "teamB": 2
           },
           "agg": null,
           "penalty": null

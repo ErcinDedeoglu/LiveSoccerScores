@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Man Utd <img src="/static/logos/Manchester United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Chelsea FC.png" height="25px"> Chelsea</p> |
+| <p align="center">74'</p> | <p align="right">Man Utd <img src="/static/logos/Manchester United FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Chelsea FC.png" height="25px"> Chelsea</p> |
 </div>
 
 
@@ -27,7 +27,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mallorca <img src="/static/logos/Real Club Deportivo Mallorca.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Valencia CF.png" height="25px"> Valencia</p> |
-| <p align="center">HT</p> | <p align="right">Osasuna <img src="/static/logos/CA Osasuna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Athletic Club Bilbao.png" height="25px"> Athletic Club</p> |
+| <p align="center">51'</p> | <p align="right">Osasuna <img src="/static/logos/CA Osasuna.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Athletic Club Bilbao.png" height="25px"> Athletic Club</p> |
 </div>
 
 
@@ -192,7 +192,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">KA <img src="/static/logos/KA Akureyri.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Víkingur Reykjavík.png" height="25px"> Víkingur R</p> |
-| <p align="center">50'</p> | <p align="right">Breidablik <img src="/static/logos/Breidablik UBK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Valur Reykjavík.png" height="25px"> Valur</p> |
+| <p align="center">65'</p> | <p align="right">Breidablik <img src="/static/logos/Breidablik UBK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Valur Reykjavík.png" height="25px"> Valur</p> |
 </div>
 
 
@@ -202,7 +202,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Cosenza <img src="/static/logos/Cosenza Calcio.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brescia Calcio.png" height="25px"> Brescia</p> |
+| <p align="center">FT</p> | <p align="right">Cosenza <img src="/static/logos/Cosenza Calcio.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brescia Calcio.png" height="25px"> Brescia</p> |
 </div>
 
 
@@ -212,7 +212,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica Under 20.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Puerto Rico Under 20.png" height="25px"> Puerto Rico</p> |
+| <p align="center">70'</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica Under 20.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Puerto Rico Under 20.png" height="25px"> Puerto Rico</p> |
 | <p align="center">22:00</p> | <p align="right">Mexico <img src="/static/logos/Mexico Under 20.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dominican Republic Under 20.png" height="25px"> Dominican Rep.</p> |
 </div>
 
@@ -223,7 +223,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">Moreirense <img src="/static/logos/Moreirense FC.png" height="25px"></p> | <p align="center">5 - 3</p> | <p align="left"><img src="/static/logos/SC Covilhã.png" height="25px"> Covilhã</p> |
+| <p align="center">64'</p> | <p align="right">Moreirense <img src="/static/logos/Moreirense FC.png" height="25px"></p> | <p align="center">6 - 4</p> | <p align="left"><img src="/static/logos/SC Covilhã.png" height="25px"> Covilhã</p> |
 </div>
 
 
@@ -233,7 +233,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Crvena Zvezda <img src="/static/logos/FK Crvena Zvezda Beograd.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FK Čukarički.png" height="25px"> Čukarički</p> |
+| <p align="center">73'</p> | <p align="right">Crvena Zvezda <img src="/static/logos/FK Crvena Zvezda Beograd.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FK Čukarički.png" height="25px"> Čukarički</p> |
 </div>
 
 
@@ -263,11 +263,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Grasshopper <img src="/static/logos/Grasshopper Club Zürich.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/FC Sankt Gallen 1879.png" height="25px"> St. Gallen</p> |
-| <p align="center">90' 4'</p> | <p align="right">Lugano <img src="/static/logos/FC Lugano.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/BSC Young Boys.png" height="25px"> Young Boys</p> |
-| <p align="center">90' 3'</p> | <p align="right">Servette <img src="/static/logos/Servette FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/FC Basel 1893.png" height="25px"> Basel</p> |
-| <p align="center">90' 5'</p> | <p align="right">Sion <img src="/static/logos/FC Sion.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Luzern.png" height="25px"> Luzern</p> |
-| <p align="center">90' 2'</p> | <p align="right">Winterthur <img src="/static/logos/FC Winterthur.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/FC Zürich.png" height="25px"> Zürich</p> |
+| <p align="center">FT</p> | <p align="right">Grasshopper <img src="/static/logos/Grasshopper Club Zürich.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/FC Sankt Gallen 1879.png" height="25px"> St. Gallen</p> |
+| <p align="center">FT</p> | <p align="right">Lugano <img src="/static/logos/FC Lugano.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/BSC Young Boys.png" height="25px"> Young Boys</p> |
+| <p align="center">FT</p> | <p align="right">Servette <img src="/static/logos/Servette FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/FC Basel 1893.png" height="25px"> Basel</p> |
+| <p align="center">FT</p> | <p align="right">Sion <img src="/static/logos/FC Sion.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Luzern.png" height="25px"> Luzern</p> |
+| <p align="center">FT</p> | <p align="right">Winterthur <img src="/static/logos/FC Winterthur.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Zürich.png" height="25px"> Zürich</p> |
 </div>
 
 
