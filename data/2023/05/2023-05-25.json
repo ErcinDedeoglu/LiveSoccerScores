@@ -1356,9 +1356,9 @@
         {
           "startDate": "2023-05-25T15:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1986,8 +1986,8 @@
           "startDate": "2023-05-25T14:00:00Z",
           "period": {
             "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 112,
-            "extra": 0
+            "minute": 120,
+            "extra": 1
           },
           "round": {
             "name": "Promotion Play-offs - 1st Round",
