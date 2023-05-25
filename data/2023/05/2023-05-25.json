@@ -730,16 +730,12 @@
       "matches": [
         {
           "startDate": "2023-05-25T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 9
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KAS",
             "short": "Kastrioti",
@@ -833,16 +829,12 @@
         },
         {
           "startDate": "2023-05-25T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TIR",
             "short": "Tirana",
@@ -870,16 +862,12 @@
         },
         {
           "startDate": "2023-05-25T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 10
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VLL",
             "short": "Vllaznia",
@@ -1369,7 +1357,7 @@
           "startDate": "2023-05-25T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -1998,7 +1986,7 @@
           "startDate": "2023-05-25T14:00:00Z",
           "period": {
             "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 93,
+            "minute": 103,
             "extra": 0
           },
           "round": {
@@ -2318,16 +2306,12 @@
         },
         {
           "startDate": "2023-05-25T14:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KKR",
             "short": "Kryvbas KR",
