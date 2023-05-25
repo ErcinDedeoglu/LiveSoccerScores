@@ -88,7 +88,7 @@
           "startDate": "2023-05-25T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -115,7 +115,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -646,12 +646,16 @@
         },
         {
           "startDate": "2023-05-25T21:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "IRQ",
             "short": "Iraq",
@@ -670,7 +674,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -711,7 +718,7 @@
           "startDate": "2023-05-25T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 10,
             "extra": 0
           },
           "round": {
@@ -1344,12 +1351,16 @@
         },
         {
           "startDate": "2023-05-25T21:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura - Quadrangular",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CUC",
             "short": "C\u00FAcuta",
@@ -1368,7 +1379,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1508,8 +1522,8 @@
           "startDate": "2023-05-25T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -1599,16 +1613,12 @@
       "matches": [
         {
           "startDate": "2023-05-25T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CRC",
             "short": "Costa Rica",
@@ -1628,7 +1638,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 6,
+            "teamA": 7,
             "teamB": 3
           },
           "agg": null,
@@ -1676,16 +1686,12 @@
       "matches": [
         {
           "startDate": "2023-05-25T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MOR",
             "short": "Moreirense",
