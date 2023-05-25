@@ -733,7 +733,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 1
+            "extra": 9
           },
           "round": {
             "name": "Regular Season",
@@ -767,16 +767,12 @@
         },
         {
           "startDate": "2023-05-25T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KUK",
             "short": "Kuk\u00EBsi",
@@ -840,7 +836,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 8
           },
           "round": {
             "name": "Regular Season",
@@ -877,7 +873,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 2
+            "extra": 10
           },
           "round": {
             "name": "Regular Season",
@@ -1373,7 +1369,7 @@
           "startDate": "2023-05-25T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -2001,9 +1997,9 @@
         {
           "startDate": "2023-05-25T14:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 93,
+            "extra": 0
           },
           "round": {
             "name": "Promotion Play-offs - 1st Round",
@@ -2324,8 +2320,8 @@
           "startDate": "2023-05-25T14:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
