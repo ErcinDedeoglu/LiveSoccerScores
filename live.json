@@ -925,16 +925,12 @@
       "matches": [
         {
           "startDate": "2023-05-25T13:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAR",
             "short": "L. Artsakh",
@@ -1967,7 +1963,7 @@
           "startDate": "2023-05-25T12:30:00Z",
           "period": {
             "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 110,
+            "minute": 119,
             "extra": 0
           },
           "round": {
@@ -2110,8 +2106,8 @@
         {
           "startDate": "2023-05-25T13:00:00Z",
           "period": {
-            "type": "EXTRA_TIME_PENDING",
-            "minute": 95,
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 96,
             "extra": 0
           },
           "round": {
@@ -2329,9 +2325,9 @@
         {
           "startDate": "2023-05-25T14:10:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
