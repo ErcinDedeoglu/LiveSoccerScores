@@ -1157,7 +1157,7 @@
           "startDate": "2023-05-25T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1194,7 +1194,7 @@
           "startDate": "2023-05-25T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 65,
             "extra": 0
           },
           "round": {
