@@ -37,7 +37,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Rio Ave <img src="/static/logos/Rio Ave FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/FC Famalicão.png" height="25px"> Famalicão</p> |
-| <p align="center">26'</p> | <p align="right">Vizela <img src="/static/logos/FC Vizela.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sporting Clube de Portugal.png" height="25px"> Sporting</p> |
+| <p align="center">HT</p> | <p align="right">Vizela <img src="/static/logos/FC Vizela.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sporting Clube de Portugal.png" height="25px"> Sporting</p> |
 </div>
 
 
@@ -71,8 +71,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:00</p> | <p align="right">NZ <img src="/static/logos/New Zealand Under 20.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Argentina Under 20.png" height="25px"> Argentina</p> |
-| <p align="center">21:00</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 20.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guatemala Under 20.png" height="25px"> Guatemala</p> |
+| <p align="center">17'</p> | <p align="right">NZ <img src="/static/logos/New Zealand Under 20.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Argentina Under 20.png" height="25px"> Argentina</p> |
+| <p align="center">18'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 20.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guatemala Under 20.png" height="25px"> Guatemala</p> |
 | <p align="center">FT</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador Under 20.png" height="25px"></p> | <p align="center">9 - 0</p> | <p align="left"><img src="/static/logos/Fiji Under 20.png" height="25px"> Fiji</p> |
 | <p align="center">FT</p> | <p align="right">Slovakia U20 <img src="/static/logos/Slovakia Under 20.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/United States Under 20.png" height="25px"> USA</p> |
 </div>
@@ -345,15 +345,15 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Avranches <img src="/static/logos/US Avranches Mont-Saint-Michel.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/SO Cholet.png" height="25px"> Cholet</p> |
-| <p align="center">85'</p> | <p align="right">Bourg <img src="/static/logos/Football Bourg-en-Bresse Péronnas 01.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/AS Nancy-Lorraine.png" height="25px"> Nancy</p> |
-| <p align="center">85'</p> | <p align="right">Le Mans <img src="/static/logos/Le Mans FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/US du Littoral de Dunkerque.png" height="25px"> Dunkerque</p> |
-| <p align="center">87'</p> | <p align="right">Le Puy F. 43 <img src="/static/logos/Le Puy Football 43 Auvergne.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/FC Bastia-Borgo.png" height="25px"> Bastia-Borgo</p> |
-| <p align="center">84'</p> | <p align="right">Martigues <img src="/static/logos/FC Martigues.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/FC Versailles 78.png" height="25px"> Versailles</p> |
-| <p align="center">88'</p> | <p align="right">Orléans <img src="/static/logos/US Orléans Loiret Football.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/US Concarneau.png" height="25px"> Concarneau</p> |
-| <p align="center">83'</p> | <p align="right">Paris 13 <img src="/static/logos/FC Paris 13 Atletico.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/La Berrichonne de Châteauroux.png" height="25px"> Châteauroux</p> |
-| <p align="center">85'</p> | <p align="right">Red Star <img src="/static/logos/Red Star FC 93.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Stade Briochin.png" height="25px"> Stade Briochin</p> |
-| <p align="center">86'</p> | <p align="right">Sedan <img src="/static/logos/CS Sedan Ardennes.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Villefranche Beaujolais.png" height="25px"> Villefranche </p> |
+| <p align="center">FT</p> | <p align="right">Avranches <img src="/static/logos/US Avranches Mont-Saint-Michel.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/SO Cholet.png" height="25px"> Cholet</p> |
+| <p align="center">19:00</p> | <p align="right">Bourg <img src="/static/logos/Football Bourg-en-Bresse Péronnas 01.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AS Nancy-Lorraine.png" height="25px"> Nancy</p> |
+| <p align="center">FT</p> | <p align="right">Le Mans <img src="/static/logos/Le Mans FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/US du Littoral de Dunkerque.png" height="25px"> Dunkerque</p> |
+| <p align="center">FT</p> | <p align="right">Le Puy F. 43 <img src="/static/logos/Le Puy Football 43 Auvergne.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/FC Bastia-Borgo.png" height="25px"> Bastia-Borgo</p> |
+| <p align="center">FT</p> | <p align="right">Martigues <img src="/static/logos/FC Martigues.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/FC Versailles 78.png" height="25px"> Versailles</p> |
+| <p align="center">FT</p> | <p align="right">Orléans <img src="/static/logos/US Orléans Loiret Football.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/US Concarneau.png" height="25px"> Concarneau</p> |
+| <p align="center">FT</p> | <p align="right">Paris 13 <img src="/static/logos/FC Paris 13 Atletico.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/La Berrichonne de Châteauroux.png" height="25px"> Châteauroux</p> |
+| <p align="center">FT</p> | <p align="right">Red Star <img src="/static/logos/Red Star FC 93.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Stade Briochin.png" height="25px"> Stade Briochin</p> |
+| <p align="center">FT</p> | <p align="right">Sedan <img src="/static/logos/CS Sedan Ardennes.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/FC Villefranche Beaujolais.png" height="25px"> Villefranche </p> |
 </div>
 
 
@@ -399,9 +399,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Grótta <img src="/static/logos/IF Grótta.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/UMF Afturelding.png" height="25px"> Afturelding</p> |
 | <p align="center">FT</p> | <p align="right">Fjölnir <img src="/static/logos/UMF Fjölnir.png" height="25px"></p> | <p align="center">6 - 0</p> | <p align="left"><img src="/static/logos/Thór Akureyri.png" height="25px"> Thór</p> |
-| <p align="center">73'</p> | <p align="right">Ægir <img src="/static/logos/KF Ægir Thorlákshöfn.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/UMF Selfoss.png" height="25px"> Selfoss</p> |
-| <p align="center">68'</p> | <p align="right">Leiknir R <img src="/static/logos/Leiknir Reykjavík.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/ÍA Akranes.png" height="25px"> ÍA</p> |
-| <p align="center">71'</p> | <p align="right">Njardvík <img src="/static/logos/UMF Njardvík.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Thróttur Reykjavík.png" height="25px"> Thróttur R</p> |
+| <p align="center">FT</p> | <p align="right">Ægir <img src="/static/logos/KF Ægir Thorlákshöfn.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/UMF Selfoss.png" height="25px"> Selfoss</p> |
+| <p align="center">FT</p> | <p align="right">Leiknir R <img src="/static/logos/Leiknir Reykjavík.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/ÍA Akranes.png" height="25px"> ÍA</p> |
+| <p align="center">FT</p> | <p align="right">Njardvík <img src="/static/logos/UMF Njardvík.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Thróttur Reykjavík.png" height="25px"> Thróttur R</p> |
 </div>
 
 
@@ -442,7 +442,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">71'</p> | <p align="right">Canada <img src="/static/logos/Canada Under 20.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Jamaica Under 20.png" height="25px"> Jamaica</p> |
+| <p align="center">FT</p> | <p align="right">Canada <img src="/static/logos/Canada Under 20.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Jamaica Under 20.png" height="25px"> Jamaica</p> |
 | <p align="center">22:00</p> | <p align="right">USA <img src="/static/logos/United States Under 20.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Panama Under 20.png" height="25px"> Panama</p> |
 </div>
 
@@ -463,7 +463,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Acad. Cantolao <img src="/static/logos/Academia Deportiva Cantolao.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Deportivo Garcilaso.png" height="25px"> Deportivo G.</p> |
+| <p align="center">60'</p> | <p align="right">Acad. Cantolao <img src="/static/logos/Academia Deportiva Cantolao.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Deportivo Garcilaso.png" height="25px"> Deportivo G.</p> |
 </div>
 
 
@@ -570,7 +570,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Zaragoza <img src="/static/logos/Real Zaragoza.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Tenerife.png" height="25px"> Tenerife</p> |
+| <p align="center">FT</p> | <p align="right">Zaragoza <img src="/static/logos/Real Zaragoza.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Tenerife.png" height="25px"> Tenerife</p> |
 </div>
 
 
