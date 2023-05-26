@@ -51,8 +51,8 @@
         {
           "startDate": "2023-05-26T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 20,
+            "type": "SECOND_HALF",
+            "minute": 54,
             "extra": 0
           },
           "round": {
@@ -1519,8 +1519,8 @@
         {
           "startDate": "2023-05-26T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
+            "type": "SECOND_HALF",
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -1547,7 +1547,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2937,6 +2937,36 @@
       },
       "matches": [
         {
+          "startDate": "2023-05-26T17:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "GRO",
+            "short": "Gr\u00F3tta",
+            "long": "Gr\u00F3tta",
+            "full": "IF Gr\u00F3tta",
+            "name": "Gr\u00F3tta"
+          },
+          "teamB": {
+            "code": "AFT",
+            "short": "Afturelding",
+            "long": "Afturelding",
+            "full": "UMF Afturelding",
+            "name": "Afturelding"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
           "startDate": "2023-05-26T18:00:00Z",
           "period": null,
           "round": {
@@ -3017,36 +3047,6 @@
             "long": "Selfoss",
             "full": "UMF Selfoss",
             "name": "Selfoss"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-05-26T19:15:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "GRO",
-            "short": "Gr\u00F3tta",
-            "long": "Gr\u00F3tta",
-            "full": "IF Gr\u00F3tta",
-            "name": "Gr\u00F3tta"
-          },
-          "teamB": {
-            "code": "AFT",
-            "short": "Afturelding",
-            "long": "Afturelding",
-            "full": "UMF Afturelding",
-            "name": "Afturelding"
           },
           "redCards": {
             "teamA": 0,
@@ -4537,16 +4537,12 @@
       "matches": [
         {
           "startDate": "2023-05-26T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NTX",
             "short": "North Texas",
@@ -4570,13 +4566,16 @@
             "teamB": 3
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 2,
+            "teamB": 4
+          }
         },
         {
           "startDate": "2023-05-26T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 23,
+            "type": "SECOND_HALF",
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -4604,7 +4603,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4612,8 +4611,8 @@
         {
           "startDate": "2023-05-26T02:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 24,
+            "type": "SECOND_HALF",
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -4641,7 +4640,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
