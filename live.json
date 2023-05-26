@@ -134,7 +134,7 @@
           "startDate": "2023-05-26T20:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -399,8 +399,8 @@
           "startDate": "2023-05-26T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -436,8 +436,8 @@
           "startDate": "2023-05-26T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -3582,8 +3582,8 @@
           "startDate": "2023-05-26T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Apertura",
