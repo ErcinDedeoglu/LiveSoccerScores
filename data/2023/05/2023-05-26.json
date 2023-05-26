@@ -706,7 +706,7 @@
           "startDate": "2023-05-26T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -743,7 +743,7 @@
           "startDate": "2023-05-26T10:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -790,7 +790,7 @@
           "startDate": "2023-05-26T09:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -837,7 +837,7 @@
           "startDate": "2023-05-26T09:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -874,7 +874,7 @@
           "startDate": "2023-05-26T09:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -901,7 +901,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1207,9 +1207,9 @@
         {
           "startDate": "2023-05-26T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -1235,7 +1235,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1244,9 +1244,9 @@
         {
           "startDate": "2023-05-26T10:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 4
+            "extra": 7
           },
           "round": {
             "name": "Regular Season",
@@ -1273,7 +1273,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
