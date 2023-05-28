@@ -2598,16 +2598,12 @@
         },
         {
           "startDate": "2023-05-28T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KWF",
             "short": "Kawasaki",
@@ -4049,7 +4045,7 @@
           "startDate": "2023-05-28T08:55:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -5132,8 +5128,8 @@
           "startDate": "2023-05-28T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -5160,7 +5156,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -5169,7 +5165,7 @@
           "startDate": "2023-05-28T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -8068,12 +8064,16 @@
         },
         {
           "startDate": "2023-05-28T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GIF",
             "short": "Gifu",
@@ -8092,7 +8092,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -8185,9 +8188,9 @@
         {
           "startDate": "2023-05-28T09:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -8221,12 +8224,16 @@
         },
         {
           "startDate": "2023-05-28T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ULS",
             "short": "Ulsan",
@@ -8245,7 +8252,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -8296,8 +8306,8 @@
           "startDate": "2023-05-28T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 26,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -8324,7 +8334,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -8961,12 +8971,16 @@
       "matches": [
         {
           "startDate": "2023-05-28T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 12,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "UOL",
             "short": "UD Oliveirense",
@@ -8985,7 +8999,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -9371,12 +9388,16 @@
       "matches": [
         {
           "startDate": "2023-05-28T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 16,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BRU",
             "short": "DPMM",
@@ -9392,21 +9413,28 @@
             "name": "Tampines"
           },
           "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-28T10:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 14,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TAN",
             "short": "Tanjong",
@@ -9425,7 +9453,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
