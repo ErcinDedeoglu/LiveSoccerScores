@@ -454,7 +454,7 @@
           "startDate": "2023-05-28T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -491,7 +491,7 @@
           "startDate": "2023-05-28T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -514,7 +514,7 @@
             "name": "Charlotte"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -528,7 +528,7 @@
           "startDate": "2023-05-28T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -3724,9 +3724,9 @@
         {
           "startDate": "2023-05-28T03:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -7356,16 +7356,12 @@
       "matches": [
         {
           "startDate": "2023-05-28T02:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Clausura - Finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "XEL",
             "short": "Xelaj\u00FA",
@@ -7828,7 +7824,7 @@
           "startDate": "2023-05-28T03:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -7865,7 +7861,7 @@
           "startDate": "2023-05-28T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -7902,7 +7898,7 @@
           "startDate": "2023-05-28T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -8039,7 +8035,7 @@
           "startDate": "2023-05-28T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -8066,7 +8062,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
