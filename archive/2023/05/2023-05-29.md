@@ -223,8 +223,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Lyngby <img src="/static/logos/Lyngby Boldklub.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Aalborg BK.png" height="25px"> AaB</p> |
-| <p align="center">75'</p> | <p align="right">Silkeborg <img src="/static/logos/Silkeborg IF.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> Midtjylland</p> |
+| <p align="center">85'</p> | <p align="right">Lyngby <img src="/static/logos/Lyngby Boldklub.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Aalborg BK.png" height="25px"> AaB</p> |
+| <p align="center">90'</p> | <p align="right">Silkeborg <img src="/static/logos/Silkeborg IF.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> Midtjylland</p> |
 | <p align="center">14:00</p> | <p align="right">Viborg <img src="/static/logos/Viborg FF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC København.png" height="25px"> København</p> |
 | <p align="center">16:00</p> | <p align="right">Brøndby <img src="/static/logos/Brøndby IF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Nordsjælland.png" height="25px"> Nordsjælland</p> |
 </div>
@@ -257,8 +257,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">61'</p> | <p align="right">Kifisia <img src="/static/logos/Kifisias FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/PAE Chania.png" height="25px"> Chania</p> |
-| <p align="center">34'</p> | <p align="right">Apollon Pontou <img src="/static/logos/Apollon Pontou FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Veria NFC.png" height="25px"> Veria</p> |
+| <p align="center">76'</p> | <p align="right">Kifisia <img src="/static/logos/Kifisias FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/PAE Chania.png" height="25px"> Chania</p> |
+| <p align="center">HT</p> | <p align="right">Apollon Pontou <img src="/static/logos/Apollon Pontou FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Veria NFC.png" height="25px"> Veria</p> |
 </div>
 
 
@@ -338,14 +338,14 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">34'</p> | <p align="right">Bryne <img src="/static/logos/Bryne FK.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/KFUM Fotball.png" height="25px"> KFUM</p> |
-| <p align="center">35'</p> | <p align="right">Fredrikstad <img src="/static/logos/Fredrikstad FK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Åsane Fotball.png" height="25px"> Åsane</p> |
-| <p align="center">35'</p> | <p align="right">Jerv <img src="/static/logos/FK Jerv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IL Hødd.png" height="25px"> Hødd</p> |
-| <p align="center">35'</p> | <p align="right">Kongsvinger <img src="/static/logos/Kongsvinger IL.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sogndal Fotball.png" height="25px"> Sogndal</p> |
-| <p align="center">34'</p> | <p align="right">Kristiansund <img src="/static/logos/Kristiansund BK.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Skeid Fotball.png" height="25px"> Skeid</p> |
-| <p align="center">35'</p> | <p align="right">Mjøndalen <img src="/static/logos/Mjøndalen IF.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sandnes Ulf.png" height="25px"> Sandnes</p> |
-| <p align="center">34'</p> | <p align="right">Moss <img src="/static/logos/Moss FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Raufoss IL.png" height="25px"> Raufoss</p> |
-| <p align="center">34'</p> | <p align="right">Start <img src="/static/logos/IK Start.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ranheim Fotball.png" height="25px"> Ranheim</p> |
+| <p align="center">HT</p> | <p align="right">Bryne <img src="/static/logos/Bryne FK.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/KFUM Fotball.png" height="25px"> KFUM</p> |
+| <p align="center">HT</p> | <p align="right">Fredrikstad <img src="/static/logos/Fredrikstad FK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Åsane Fotball.png" height="25px"> Åsane</p> |
+| <p align="center">HT</p> | <p align="right">Jerv <img src="/static/logos/FK Jerv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IL Hødd.png" height="25px"> Hødd</p> |
+| <p align="center">HT</p> | <p align="right">Kongsvinger <img src="/static/logos/Kongsvinger IL.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sogndal Fotball.png" height="25px"> Sogndal</p> |
+| <p align="center">HT</p> | <p align="right">Kristiansund <img src="/static/logos/Kristiansund BK.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Skeid Fotball.png" height="25px"> Skeid</p> |
+| <p align="center">HT</p> | <p align="right">Mjøndalen <img src="/static/logos/Mjøndalen IF.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Sandnes Ulf.png" height="25px"> Sandnes</p> |
+| <p align="center">45' 3'</p> | <p align="right">Moss <img src="/static/logos/Moss FK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Raufoss IL.png" height="25px"> Raufoss</p> |
+| <p align="center">HT</p> | <p align="right">Start <img src="/static/logos/IK Start.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ranheim Fotball.png" height="25px"> Ranheim</p> |
 </div>
 
 
@@ -357,10 +357,10 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Egersund <img src="/static/logos/Egersunds IK.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sportsklubben Træff.png" height="25px"> Træff</p> |
 | <p align="center">FT</p> | <p align="right">Sotra <img src="/static/logos/Sotra SK.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Alta IF.png" height="25px"> Alta</p> |
-| <p align="center">79'</p> | <p align="right">Brattvåg <img src="/static/logos/Brattvåg IL.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Fløy-Flekkerøy IL.png" height="25px"> Fløy-Flekkerøy</p> |
-| <p align="center">77'</p> | <p align="right">TUIL <img src="/static/logos/Tromsdalen UIL.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/IL Stjørdals-Blink.png" height="25px"> Stjørdals</p> |
-| <p align="center">34'</p> | <p align="right">IF Fram <img src="/static/logos/IF Fram.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Grorud IL.png" height="25px"> Grorud</p> |
-| <p align="center">34'</p> | <p align="right">Levanger <img src="/static/logos/Levanger FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Strømmen IF.png" height="25px"> Strømmen</p> |
+| <p align="center">90' 3'</p> | <p align="right">Brattvåg <img src="/static/logos/Brattvåg IL.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Fløy-Flekkerøy IL.png" height="25px"> Fløy-Flekkerøy</p> |
+| <p align="center">90' 2'</p> | <p align="right">TUIL <img src="/static/logos/Tromsdalen UIL.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/IL Stjørdals-Blink.png" height="25px"> Stjørdals</p> |
+| <p align="center">HT</p> | <p align="right">IF Fram <img src="/static/logos/IF Fram.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Grorud IL.png" height="25px"> Grorud</p> |
+| <p align="center">HT</p> | <p align="right">Levanger <img src="/static/logos/Levanger FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Strømmen IF.png" height="25px"> Strømmen</p> |
 | <p align="center">15:00</p> | <p align="right">Lyn <img src="/static/logos/FC Lyn Oslo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ørn Horten FK.png" height="25px"> Ørn Horten</p> |
 </div>
 
@@ -459,12 +459,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Chornomorets <img src="/static/logos/FK Chornomorets Odessa.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/FC Rukh Vynnyky.png" height="25px"> Rukh Vynnyky</p> |
-| <p align="center">73'</p> | <p align="right">Dynamo Kyiv <img src="/static/logos/FC Dynamo Kyiv.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/NK Veres Rivne.png" height="25px"> Veres Rivne</p> |
-| <p align="center">76'</p> | <p align="right">FK Metalist <img src="/static/logos/FK Metalist Kharkiv.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Minai.png" height="25px"> Minai</p> |
-| <p align="center">73'</p> | <p align="right">Lviv <img src="/static/logos/FK Lviv.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FK Inhulets' Petrove.png" height="25px"> Inhulets'</p> |
-| <p align="center">78'</p> | <p align="right">Metalist 1925 <img src="/static/logos/FC Metalist 1925 Kharkiv.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FK Kryvbas Kryvyi Rih.png" height="25px"> Kryvbas KR</p> |
-| <p align="center">72'</p> | <p align="right">Vorskla <img src="/static/logos/FC Vorskla Poltava.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Kolos Kovalivka.png" height="25px"> Kolos</p> |
+| <p align="center">89'</p> | <p align="right">Chornomorets <img src="/static/logos/FK Chornomorets Odessa.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/FC Rukh Vynnyky.png" height="25px"> Rukh Vynnyky</p> |
+| <p align="center">88'</p> | <p align="right">Dynamo Kyiv <img src="/static/logos/FC Dynamo Kyiv.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/NK Veres Rivne.png" height="25px"> Veres Rivne</p> |
+| <p align="center">90'</p> | <p align="right">FK Metalist <img src="/static/logos/FK Metalist Kharkiv.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Minai.png" height="25px"> Minai</p> |
+| <p align="center">87'</p> | <p align="right">Lviv <img src="/static/logos/FK Lviv.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FK Inhulets' Petrove.png" height="25px"> Inhulets'</p> |
+| <p align="center">90' 3'</p> | <p align="right">Metalist 1925 <img src="/static/logos/FC Metalist 1925 Kharkiv.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FK Kryvbas Kryvyi Rih.png" height="25px"> Kryvbas KR</p> |
+| <p align="center">88'</p> | <p align="right">Vorskla <img src="/static/logos/FC Vorskla Poltava.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FK Kolos Kovalivka.png" height="25px"> Kolos</p> |
 </div>
 
 
