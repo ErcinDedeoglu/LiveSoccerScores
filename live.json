@@ -3380,16 +3380,12 @@
       "matches": [
         {
           "startDate": "2023-05-29T02:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LA",
             "short": "LA Galaxy II",
@@ -3413,7 +3409,10 @@
             "teamB": 2
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 2
+          }
         },
         {
           "startDate": "2023-05-29T23:00:00Z",
