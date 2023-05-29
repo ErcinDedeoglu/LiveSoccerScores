@@ -54,8 +54,8 @@
         {
           "startDate": "2023-05-29T01:35:00Z",
           "period": {
-            "type": "EXTRA_TIME_PENDING",
-            "minute": 95,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 108,
             "extra": 0
           },
           "round": {
@@ -3386,7 +3386,7 @@
           "startDate": "2023-05-29T02:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -3414,7 +3414,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
