@@ -1759,7 +1759,7 @@
           "startDate": "2023-05-29T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 88,
             "extra": 0
           },
           "round": {
