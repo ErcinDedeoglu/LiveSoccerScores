@@ -2415,7 +2415,7 @@
           "startDate": "2023-05-29T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -2452,7 +2452,7 @@
           "startDate": "2023-05-29T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -2480,7 +2480,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
