@@ -132,16 +132,12 @@
         },
         {
           "startDate": "2023-05-29T19:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 75,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAC",
             "short": "Col\u00F3n",
@@ -983,7 +979,7 @@
           "startDate": "2023-05-29T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -1011,7 +1007,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1173,7 +1169,7 @@
           "startDate": "2023-05-29T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -1773,16 +1769,12 @@
         },
         {
           "startDate": "2023-05-29T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VIR",
             "short": "V\u00EDkingur R",
@@ -2814,12 +2806,16 @@
       "matches": [
         {
           "startDate": "2023-05-29T21:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GUA",
             "short": "Guaire\u00F1a",
@@ -2838,7 +2834,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
