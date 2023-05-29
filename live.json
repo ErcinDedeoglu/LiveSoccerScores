@@ -565,7 +565,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -602,7 +602,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -647,12 +647,16 @@
       "matches": [
         {
           "startDate": "2023-05-29T19:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CAR",
             "short": "Always Ready",
@@ -671,7 +675,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -679,7 +686,7 @@
           "startDate": "2023-05-29T19:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 17,
             "extra": 0
           },
           "round": {
@@ -706,7 +713,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1535,7 +1542,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 36,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -1803,9 +1810,9 @@
         {
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Promotion Play-offs - Semi-finals",
@@ -1935,12 +1942,16 @@
       "matches": [
         {
           "startDate": "2023-05-29T19:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "PUR",
             "short": "Puerto Rico",
@@ -1959,7 +1970,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2236,16 +2250,12 @@
         },
         {
           "startDate": "2023-05-29T17:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HAM",
             "short": "HamKam",
