@@ -565,7 +565,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -602,7 +602,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -1528,7 +1528,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1797,7 +1797,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -2231,7 +2231,7 @@
           "startDate": "2023-05-29T17:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -2917,16 +2917,12 @@
       "matches": [
         {
           "startDate": "2023-05-29T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DIN",
             "short": "Dinamo",
@@ -2949,7 +2945,10 @@
             "teamA": 6,
             "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 6,
+            "teamB": 1
+          },
           "penalty": null
         }
       ]
@@ -2967,7 +2966,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 4
+            "extra": 11
           },
           "round": {
             "name": "Regular Season",
@@ -3001,16 +3000,12 @@
         },
         {
           "startDate": "2023-05-29T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HIF",
             "short": "Hammarby",
@@ -3040,8 +3035,8 @@
           "startDate": "2023-05-29T17:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -3067,7 +3062,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 1
           },
           "agg": null,
@@ -3085,16 +3080,12 @@
       "matches": [
         {
           "startDate": "2023-05-29T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "S\u00F6dra",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NOR",
             "short": "Norrby",
@@ -3165,16 +3156,12 @@
       "matches": [
         {
           "startDate": "2023-05-29T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DIF",
             "short": "Djurg\u00E5rden",
@@ -3202,16 +3189,12 @@
         },
         {
           "startDate": "2023-05-29T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KRI",
             "short": "Kristianstad",
