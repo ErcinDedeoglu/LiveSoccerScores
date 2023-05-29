@@ -565,7 +565,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -602,7 +602,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -900,16 +900,12 @@
         },
         {
           "startDate": "2023-05-29T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Conference League Play-off Group",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BOT",
             "short": "Botev",
@@ -1532,7 +1528,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -1801,7 +1797,7 @@
           "startDate": "2023-05-29T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -2235,7 +2231,7 @@
           "startDate": "2023-05-29T17:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 70,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -2923,7 +2919,7 @@
           "startDate": "2023-05-29T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 82,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -2970,8 +2966,8 @@
           "startDate": "2023-05-29T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -3007,8 +3003,8 @@
           "startDate": "2023-05-29T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -3044,7 +3040,7 @@
           "startDate": "2023-05-29T17:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -3091,8 +3087,8 @@
           "startDate": "2023-05-29T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "S\u00F6dra",
@@ -3126,16 +3122,12 @@
         },
         {
           "startDate": "2023-05-29T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "S\u00F6dra",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ODD",
             "short": "Oddevold",
@@ -3175,7 +3167,7 @@
           "startDate": "2023-05-29T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 82,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -3212,8 +3204,8 @@
           "startDate": "2023-05-29T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -3239,7 +3231,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
