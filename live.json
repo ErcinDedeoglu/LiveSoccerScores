@@ -1757,16 +1757,12 @@
       "matches": [
         {
           "startDate": "2023-05-29T07:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "POH",
             "short": "Pohang",
