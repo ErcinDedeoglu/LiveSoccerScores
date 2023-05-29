@@ -2413,12 +2413,16 @@
       "matches": [
         {
           "startDate": "2023-05-29T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Group 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "EGE",
             "short": "Egersund",
@@ -2437,7 +2441,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2445,7 +2452,7 @@
           "startDate": "2023-05-29T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 1,
+            "minute": 10,
             "extra": 0
           },
           "round": {
