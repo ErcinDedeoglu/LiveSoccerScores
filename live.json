@@ -776,7 +776,7 @@
           "startDate": "2023-05-30T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -813,7 +813,7 @@
           "startDate": "2023-05-30T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -1136,12 +1136,16 @@
       "matches": [
         {
           "startDate": "2023-05-30T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "5th Place Final",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ENG",
             "short": "England",
@@ -1160,7 +1164,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1881,7 +1888,7 @@
           "startDate": "2023-05-30T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 27,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -1990,9 +1997,9 @@
         {
           "startDate": "2023-05-30T12:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
