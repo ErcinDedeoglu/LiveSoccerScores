@@ -1937,7 +1937,7 @@
           "startDate": "2023-05-30T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 20,
             "extra": 0
           },
           "round": {
