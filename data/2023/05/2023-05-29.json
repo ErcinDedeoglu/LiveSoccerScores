@@ -233,7 +233,7 @@
           "startDate": "2023-05-29T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -736,7 +736,7 @@
           "startDate": "2023-05-29T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -783,7 +783,7 @@
           "startDate": "2023-05-29T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -820,8 +820,8 @@
           "startDate": "2023-05-29T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -867,7 +867,7 @@
           "startDate": "2023-05-29T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -1112,7 +1112,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "CML",
             "short": "Cangzhou",
@@ -1131,7 +1131,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -1142,7 +1145,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "YAT",
             "short": "Changchun",
@@ -1161,7 +1164,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 4
+          },
           "agg": null,
           "penalty": null
         },
@@ -1172,7 +1178,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "TJT",
             "short": "Tianjin JMT",
@@ -1191,7 +1197,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 3
+          },
           "agg": null,
           "penalty": null
         }
@@ -1245,7 +1254,7 @@
           "startDate": "2023-05-29T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -3712,7 +3721,7 @@
           "startDate": "2023-05-29T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 87,
             "extra": 0
           },
           "round": {
