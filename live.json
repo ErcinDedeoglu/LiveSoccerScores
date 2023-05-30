@@ -695,10 +695,13 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 5,
+            "teamB": 4
+          }
         },
         {
           "startDate": "2023-05-30T07:30:00Z",
