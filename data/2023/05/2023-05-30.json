@@ -774,16 +774,12 @@
         },
         {
           "startDate": "2023-05-30T11:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HIC",
             "short": "Heilongjiang",
@@ -811,16 +807,12 @@
         },
         {
           "startDate": "2023-05-30T11:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "YUY",
             "short": "Yukun",
@@ -1138,7 +1130,7 @@
           "startDate": "2023-05-30T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -1997,9 +1989,9 @@
         {
           "startDate": "2023-05-30T12:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 54,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
