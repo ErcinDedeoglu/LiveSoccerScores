@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">USA <img src="/static/logos/United States Under 20.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/New Zealand Under 20.png" height="25px"> NZ</p> |
+| <p align="center">FT</p> | <p align="right">USA <img src="/static/logos/United States Under 20.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/New Zealand Under 20.png" height="25px"> NZ</p> |
 | <p align="center">21:00</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 20.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Israel Under 20.png" height="25px"> Israel</p> |
 </div>
 
@@ -75,8 +75,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Fénix <img src="/static/logos/CA Fénix.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Argentino de Quilmes de Buenos Aires.png" height="25px"> A Quilmes</p> |
-| <p align="center">HT</p> | <p align="right">Sacachispas <img src="/static/logos/Sacachispas FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Colegiales.png" height="25px"> Colegiales</p> |
+| <p align="center">71'</p> | <p align="right">Fénix <img src="/static/logos/CA Fénix.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Argentino de Quilmes de Buenos Aires.png" height="25px"> A Quilmes</p> |
+| <p align="center">71'</p> | <p align="right">Sacachispas <img src="/static/logos/Sacachispas FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Colegiales.png" height="25px"> Colegiales</p> |
 </div>
 
 
@@ -175,7 +175,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">England <img src="/static/logos/England Under 17.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Switzerland Under 17.png" height="25px"> Switzerland</p> |
 | <p align="center">FT</p> | <p align="right">Poland <img src="/static/logos/Poland Under 17.png" height="25px"></p> | <p align="center">3 - 5</p> | <p align="left"><img src="/static/logos/Germany Under 17.png" height="25px"> Germany</p> |
-| <p align="center">72'</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/France Under 17.png" height="25px"> France</p> |
+| <p align="center">FT</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/France Under 17.png" height="25px"> France</p> |
 </div>
 
 
@@ -199,7 +199,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gebenbach <img src="/static/logos/DJK Gebenbach.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/SpVgg Ansbach 09.png" height="25px"> Ansbach</p> |
-| <p align="center">90' 6'</p> | <p align="right">Memmingen <img src="/static/logos/FC Memmingen 07.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/VfB Eichstätt.png" height="25px"> Eichstätt</p> |
+| <p align="center">FT</p> | <p align="right">Memmingen <img src="/static/logos/FC Memmingen 07.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/VfB Eichstätt.png" height="25px"> Eichstätt</p> |
 </div>
 
 
@@ -209,7 +209,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Cagliari <img src="/static/logos/Cagliari Calcio.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma</p> |
+| <p align="center">74'</p> | <p align="right">Cagliari <img src="/static/logos/Cagliari Calcio.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma</p> |
 </div>
 
 
@@ -229,7 +229,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica Under 20.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Panama Under 20.png" height="25px"> Panama</p> |
+| <p align="center">HT</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica Under 20.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Panama Under 20.png" height="25px"> Panama</p> |
 | <p align="center">22:00</p> | <p align="right">USA <img src="/static/logos/United States Under 20.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canada Under 20.png" height="25px"> Canada</p> |
 </div>
 
@@ -240,7 +240,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">VVV <img src="/static/logos/VVV Venlo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Almere City FC.png" height="25px"> Almere</p> |
+| <p align="center">FT</p> | <p align="right">VVV <img src="/static/logos/VVV Venlo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Almere City FC.png" height="25px"> Almere</p> |
 </div>
 
 
@@ -250,7 +250,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Annagh Utd <img src="/static/logos/Annagh United FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Dungannon Swifts FC.png" height="25px"> Dungannon</p> |
+| <p align="center">57'</p> | <p align="right">Annagh Utd <img src="/static/logos/Annagh United FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Dungannon Swifts FC.png" height="25px"> Dungannon</p> |
 </div>
 
 
