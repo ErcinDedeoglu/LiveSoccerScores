@@ -638,7 +638,7 @@
           "startDate": "2023-05-30T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -675,7 +675,7 @@
           "startDate": "2023-05-30T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -712,7 +712,7 @@
           "startDate": "2023-05-30T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -749,7 +749,7 @@
           "startDate": "2023-05-30T07:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 35,
             "extra": 0
           },
           "round": {
