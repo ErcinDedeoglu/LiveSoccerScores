@@ -735,16 +735,12 @@
         },
         {
           "startDate": "2023-05-30T07:30:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 101,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DXC",
             "short": "Zhixing",
@@ -769,8 +765,8 @@
           },
           "agg": null,
           "penalty": {
-            "teamA": 4,
-            "teamB": 4
+            "teamA": 5,
+            "teamB": 6
           }
         },
         {
