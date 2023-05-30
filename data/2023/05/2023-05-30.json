@@ -88,8 +88,8 @@
           "startDate": "2023-05-30T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Round of 16",
@@ -1643,7 +1643,7 @@
           "startDate": "2023-05-30T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -1670,7 +1670,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
