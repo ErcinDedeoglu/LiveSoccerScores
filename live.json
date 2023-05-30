@@ -1601,16 +1601,12 @@
       "matches": [
         {
           "startDate": "2023-05-30T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "JAM",
             "short": "Jamaica",
