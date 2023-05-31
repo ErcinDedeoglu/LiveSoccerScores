@@ -1115,12 +1115,16 @@
       "matches": [
         {
           "startDate": "2023-05-31T07:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 12,
+            "extra": 0
+          },
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BIT",
             "short": "BIT",
@@ -1139,7 +1143,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
