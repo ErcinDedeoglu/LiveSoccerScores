@@ -758,7 +758,7 @@
           "startDate": "2023-05-31T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -786,7 +786,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3140,9 +3140,9 @@
         {
           "startDate": "2023-05-31T12:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
@@ -3169,7 +3169,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3254,7 +3254,7 @@
           "startDate": "2023-05-31T12:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -3278,10 +3278,10 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 2,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,

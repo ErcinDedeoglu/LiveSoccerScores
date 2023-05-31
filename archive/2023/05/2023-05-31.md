@@ -110,7 +110,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
+| <p align="center">45'</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
 | <p align="center">16:00</p> | <p align="right">Shirak <img src="/static/logos/Shirak FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Noah.png" height="25px"> Noah</p> |
 </div>
 
@@ -395,7 +395,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Karaköprü BS <img src="/static/logos/Karaköprü Belediyesi Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/52 Orduspor FK.png" height="25px"> 52 Orduspor</p> |
+| <p align="center">55'</p> | <p align="right">Karaköprü BS <img src="/static/logos/Karaköprü Belediyesi Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/52 Orduspor FK.png" height="25px"> 52 Orduspor</p> |
 </div>
 
 
@@ -407,7 +407,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">HAGL <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ha Noi FC.png" height="25px"> Ha Noi</p> |
 | <p align="center">FT</p> | <p align="right">Nam Dinh <img src="/static/logos/Duoc Nam Ha Nam Dinh FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hồng Lĩnh Hà Tĩnh.png" height="25px"> Hồng Lĩnh</p> |
-| <p align="center">47'</p> | <p align="right">Ho Chi Minh <img src="/static/logos/Ho Chi Minh City FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SHB Da Nang FC.png" height="25px"> Da Nang</p> |
+| <p align="center">70'</p> | <p align="right">Ho Chi Minh <img src="/static/logos/Ho Chi Minh City FC.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/SHB Da Nang FC.png" height="25px"> Da Nang</p> |
 </div>
 
 
