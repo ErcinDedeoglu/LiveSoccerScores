@@ -11,9 +11,9 @@
         {
           "startDate": "2023-05-31T19:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 8
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Final",
@@ -865,7 +865,7 @@
           "startDate": "2023-05-31T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 57,
             "extra": 0
           },
           "round": {
@@ -1698,7 +1698,7 @@
           "startDate": "2023-05-31T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -1725,7 +1725,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -2219,7 +2219,7 @@
           "startDate": "2023-05-31T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -2259,7 +2259,7 @@
           "startDate": "2023-05-31T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -2287,11 +2287,11 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 3
           },
           "penalty": null
         },
@@ -2299,7 +2299,7 @@
           "startDate": "2023-05-31T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -2322,16 +2322,16 @@
             "name": "Lecco"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": {
             "teamA": 2,
-            "teamB": 1
+            "teamB": 2
           },
           "penalty": null
         },
@@ -2339,7 +2339,7 @@
           "startDate": "2023-05-31T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -2366,11 +2366,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 3
           },
           "agg": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 5
           },
           "penalty": null
