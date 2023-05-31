@@ -1150,7 +1150,7 @@
           "startDate": "2023-05-31T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -1187,7 +1187,7 @@
           "startDate": "2023-05-31T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -1224,7 +1224,7 @@
           "startDate": "2023-05-31T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -1261,7 +1261,7 @@
           "startDate": "2023-05-31T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -1298,7 +1298,7 @@
           "startDate": "2023-05-31T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -1335,7 +1335,7 @@
           "startDate": "2023-05-31T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -1372,7 +1372,7 @@
           "startDate": "2023-05-31T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1408,9 +1408,9 @@
         {
           "startDate": "2023-05-31T08:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 54,
+            "extra": 0
           },
           "round": {
             "name": "2nd Round",
@@ -1436,7 +1436,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 3
           },
           "agg": null,
