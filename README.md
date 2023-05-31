@@ -165,15 +165,15 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">BIT <img src="/static/logos/Beijing Institute of Technology FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Nanjing City FC.png" height="25px"> Nanjing City</p> |
-| <p align="center">54'</p> | <p align="right">Billows <img src="/static/logos/Hunan Billows FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shanghai Jiading Huilong FC.png" height="25px"> Jiading</p> |
-| <p align="center">56'</p> | <p align="right">Haimen <img src="/static/logos/Nantong Haimen Codion FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Liaoning Shenyang Urban FC.png" height="25px"> Liaoning</p> |
-| <p align="center">55'</p> | <p align="right">Jiangcheng <img src="/static/logos/Wuhan Jiangcheng.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guangzhou FC.png" height="25px"> Guangzhou</p> |
-| <p align="center">56'</p> | <p align="right">Lanhang <img src="/static/logos/Guangxi Lanhang FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wuxi Wugou FC.png" height="25px"> Wugou</p> |
-| <p align="center">54'</p> | <p align="right">Red Lions <img src="/static/logos/Qingdao Red Lions FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Suzhou Dongwu FC.png" height="25px"> Dongwu</p> |
-| <p align="center">HT</p> | <p align="right">Star <img src="/static/logos/Hainan Star FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jiangxi Lushan FC.png" height="25px"> Lushan</p> |
-| <p align="center">52'</p> | <p align="right">Tai'an <img src="/static/logos/Tai'an Tiankuang FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sichuan Jiuniu FC.png" height="25px"> Jiuniu</p> |
-| <p align="center">44'</p> | <p align="right">Istar <img src="/static/logos/Hubei Istar FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Dandong Tengyue FC.png" height="25px"> Dandong</p> |
+| <p align="center">FT</p> | <p align="right">BIT <img src="/static/logos/Beijing Institute of Technology FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Nanjing City FC.png" height="25px"> Nanjing City</p> |
+| <p align="center">69'</p> | <p align="right">Billows <img src="/static/logos/Hunan Billows FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shanghai Jiading Huilong FC.png" height="25px"> Jiading</p> |
+| <p align="center">74'</p> | <p align="right">Haimen <img src="/static/logos/Nantong Haimen Codion FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Liaoning Shenyang Urban FC.png" height="25px"> Liaoning</p> |
+| <p align="center">71'</p> | <p align="right">Jiangcheng <img src="/static/logos/Wuhan Jiangcheng.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guangzhou FC.png" height="25px"> Guangzhou</p> |
+| <p align="center">71'</p> | <p align="right">Lanhang <img src="/static/logos/Guangxi Lanhang FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wuxi Wugou FC.png" height="25px"> Wugou</p> |
+| <p align="center">69'</p> | <p align="right">Red Lions <img src="/static/logos/Qingdao Red Lions FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Suzhou Dongwu FC.png" height="25px"> Dongwu</p> |
+| <p align="center">78'</p> | <p align="right">Star <img src="/static/logos/Hainan Star FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jiangxi Lushan FC.png" height="25px"> Lushan</p> |
+| <p align="center">68'</p> | <p align="right">Tai'an <img src="/static/logos/Tai'an Tiankuang FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Sichuan Jiuniu FC.png" height="25px"> Jiuniu</p> |
+| <p align="center">HT</p> | <p align="right">Istar <img src="/static/logos/Hubei Istar FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Dandong Tengyue FC.png" height="25px"> Dandong</p> |
 | <p align="center">11:30</p> | <p align="right">Tongliang Long <img src="/static/logos/Chongqing Tongliang Long FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shijiazhuang Gongfu FC.png" height="25px"> Shijiazhuang</p> |
 </div>
 
