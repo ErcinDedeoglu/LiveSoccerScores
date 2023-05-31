@@ -110,7 +110,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">62'</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
+| <p align="center">FT</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
 | <p align="center">16:00</p> | <p align="right">Shirak <img src="/static/logos/Shirak FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Noah.png" height="25px"> Noah</p> |
 </div>
 
@@ -321,7 +321,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">24'</p> | <p align="right">Inđija <img src="/static/logos/FK Inđija.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FK Radnički Niš.png" height="25px"> Radnički Niš</p> |
+| <p align="center">HT</p> | <p align="right">Inđija <img src="/static/logos/FK Inđija.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FK Radnički Niš.png" height="25px"> Radnički Niš</p> |
 | <p align="center">16:00</p> | <p align="right">Grafičar <img src="/static/logos/FK Grafičar Beograd.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Radnik Surdulica.png" height="25px"> Radnik</p> |
 </div>
 
@@ -395,7 +395,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Karaköprü BS <img src="/static/logos/Karaköprü Belediyesi Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/52 Orduspor FK.png" height="25px"> 52 Orduspor</p> |
+| <p align="center">FT</p> | <p align="right">Karaköprü BS <img src="/static/logos/Karaköprü Belediyesi Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/52 Orduspor FK.png" height="25px"> 52 Orduspor</p> |
 </div>
 
 

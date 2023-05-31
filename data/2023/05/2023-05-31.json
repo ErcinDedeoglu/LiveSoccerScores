@@ -756,16 +756,12 @@
       "matches": [
         {
           "startDate": "2023-05-31T13:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 62,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAN",
             "short": "Van",
@@ -2740,9 +2736,9 @@
         {
           "startDate": "2023-05-31T13:55:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 24,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Finals",
@@ -3146,16 +3142,12 @@
       "matches": [
         {
           "startDate": "2023-05-31T12:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KAR",
             "short": "Karak\u00F6pr\u00FC BS",
@@ -3178,7 +3170,10 @@
             "teamA": 1,
             "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "penalty": null
         }
       ]
