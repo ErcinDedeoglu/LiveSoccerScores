@@ -1527,8 +1527,8 @@
           "startDate": "2023-05-31T01:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Apertura - Quadrangular",
