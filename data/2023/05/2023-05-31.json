@@ -481,9 +481,9 @@
         {
           "startDate": "2023-05-31T10:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -1428,12 +1428,16 @@
         },
         {
           "startDate": "2023-05-31T11:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHT",
             "short": "Tongliang Long",
@@ -1452,7 +1456,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3175,7 +3182,7 @@
           "startDate": "2023-05-31T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -3212,7 +3219,7 @@
           "startDate": "2023-05-31T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 29,
             "extra": 0
           },
           "round": {
