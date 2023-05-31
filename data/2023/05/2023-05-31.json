@@ -758,7 +758,7 @@
           "startDate": "2023-05-31T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -1431,16 +1431,12 @@
         },
         {
           "startDate": "2023-05-31T11:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHT",
             "short": "Tongliang Long",
@@ -3144,9 +3140,9 @@
         {
           "startDate": "2023-05-31T12:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
@@ -3257,9 +3253,9 @@
         {
           "startDate": "2023-05-31T12:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",

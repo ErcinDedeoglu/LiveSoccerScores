@@ -110,7 +110,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10'</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
+| <p align="center">21'</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
 | <p align="center">16:00</p> | <p align="right">Shirak <img src="/static/logos/Shirak FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Noah.png" height="25px"> Noah</p> |
 </div>
 
@@ -174,7 +174,7 @@
 | <p align="center">FT</p> | <p align="right">Star <img src="/static/logos/Hainan Star FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Jiangxi Lushan FC.png" height="25px"> Lushan</p> |
 | <p align="center">FT</p> | <p align="right">Tai'an <img src="/static/logos/Tai'an Tiankuang FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Sichuan Jiuniu FC.png" height="25px"> Jiuniu</p> |
 | <p align="center">FT</p> | <p align="right">Istar <img src="/static/logos/Hubei Istar FC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Dandong Tengyue FC.png" height="25px"> Dandong</p> |
-| <p align="center">82'</p> | <p align="right">Tongliang Long <img src="/static/logos/Chongqing Tongliang Long FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Shijiazhuang Gongfu FC.png" height="25px"> Shijiazhuang</p> |
+| <p align="center">FT</p> | <p align="right">Tongliang Long <img src="/static/logos/Chongqing Tongliang Long FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Shijiazhuang Gongfu FC.png" height="25px"> Shijiazhuang</p> |
 </div>
 
 
@@ -395,7 +395,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">Karaköprü BS <img src="/static/logos/Karaköprü Belediyesi Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/52 Orduspor FK.png" height="25px"> 52 Orduspor</p> |
+| <p align="center">HT</p> | <p align="right">Karaköprü BS <img src="/static/logos/Karaköprü Belediyesi Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/52 Orduspor FK.png" height="25px"> 52 Orduspor</p> |
 </div>
 
 
@@ -407,7 +407,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">HAGL <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ha Noi FC.png" height="25px"> Ha Noi</p> |
 | <p align="center">FT</p> | <p align="right">Nam Dinh <img src="/static/logos/Duoc Nam Ha Nam Dinh FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hồng Lĩnh Hà Tĩnh.png" height="25px"> Hồng Lĩnh</p> |
-| <p align="center">HT</p> | <p align="right">Ho Chi Minh <img src="/static/logos/Ho Chi Minh City FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SHB Da Nang FC.png" height="25px"> Da Nang</p> |
+| <p align="center">47'</p> | <p align="right">Ho Chi Minh <img src="/static/logos/Ho Chi Minh City FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SHB Da Nang FC.png" height="25px"> Da Nang</p> |
 </div>
 
 
