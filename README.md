@@ -365,7 +365,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:30</p> | <p align="right">Rapperswil <img src="/static/logos/FC Rapperswil-Jona.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Neuchâtel Xamax FCS.png" height="25px"> Xamax</p> |
+| <p align="center">17:30</p> | <p align="right">Rapperswil <img src="/static/logos/FC Rapperswil-Jona 1928.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Neuchâtel Xamax FCS.png" height="25px"> Xamax</p> |
 </div>
 
 
