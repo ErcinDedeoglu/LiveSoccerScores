@@ -480,16 +480,12 @@
       "matches": [
         {
           "startDate": "2023-05-31T10:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RED",
             "short": "Urawa",
@@ -509,7 +505,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -1429,9 +1425,9 @@
         {
           "startDate": "2023-05-31T11:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 46,
+            "extra": 0
           },
           "round": {
             "name": "2nd Round",
@@ -3140,12 +3136,16 @@
       "matches": [
         {
           "startDate": "2023-05-31T12:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KAR",
             "short": "Karak\u00F6pr\u00FC BS",
@@ -3164,7 +3164,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3215,7 +3218,7 @@
           "startDate": "2023-05-31T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -3243,7 +3246,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3252,7 +3255,7 @@
           "startDate": "2023-05-31T12:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -3279,7 +3282,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
