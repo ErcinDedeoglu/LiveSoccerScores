@@ -57,8 +57,8 @@
         {
           "startDate": "2023-05-31T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 16,
+            "type": "SECOND_HALF",
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -85,8 +85,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 1
+            "teamA": 1,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -94,8 +94,8 @@
         {
           "startDate": "2023-05-31T23:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 2,
+            "type": "SECOND_HALF",
+            "minute": 52,
             "extra": 0
           },
           "round": {
@@ -122,8 +122,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -131,8 +131,8 @@
         {
           "startDate": "2023-05-31T23:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 2,
+            "type": "SECOND_HALF",
+            "minute": 51,
             "extra": 0
           },
           "round": {
@@ -159,47 +159,17 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-05-31T23:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "MIA",
-            "short": "Inter Miami",
-            "long": "Inter Miami",
-            "full": "Club Internacional de F\u00FAtbol Miami",
-            "name": "Inter Miami"
-          },
-          "teamB": {
-            "code": "NYR",
-            "short": "New York",
-            "long": "New York RB",
-            "full": "New York Red Bulls",
-            "name": "New York"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-05-31T23:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 2,
+            "type": "SECOND_HALF",
+            "minute": 49,
             "extra": 0
           },
           "round": {
@@ -227,7 +197,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -235,8 +205,8 @@
         {
           "startDate": "2023-05-31T23:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 2,
+            "type": "SECOND_HALF",
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -272,8 +242,8 @@
         {
           "startDate": "2023-05-31T23:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 2,
+            "type": "SECOND_HALF",
+            "minute": 48,
             "extra": 0
           },
           "round": {
@@ -319,8 +289,8 @@
         {
           "startDate": "2023-05-31T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
+            "type": "SECOND_HALF",
+            "minute": 84,
             "extra": 0
           },
           "round": {
@@ -347,8 +317,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -508,8 +478,8 @@
         {
           "startDate": "2023-05-31T23:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 26,
+            "type": "SECOND_HALF",
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -967,16 +937,12 @@
       "matches": [
         {
           "startDate": "2023-05-31T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BAH",
             "short": "Bahia",
@@ -997,26 +963,25 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 3
+          }
         },
         {
           "startDate": "2023-05-31T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FOR",
             "short": "Fortaleza",
@@ -1048,8 +1013,8 @@
         {
           "startDate": "2023-05-31T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
+            "type": "SECOND_HALF",
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1098,8 +1063,8 @@
         {
           "startDate": "2023-05-31T23:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 39,
+            "type": "SECOND_HALF",
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1127,11 +1092,11 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 4,
-            "teamB": 0
+            "teamB": 1
           },
           "penalty": null
         }
@@ -1610,7 +1575,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHR",
             "short": "Rongcheng",
@@ -1629,7 +1594,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -1640,7 +1608,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SHP",
             "short": "Port",
@@ -1659,7 +1627,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -1670,7 +1641,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "ZHP",
             "short": "Zhejiang",
@@ -1689,7 +1660,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
