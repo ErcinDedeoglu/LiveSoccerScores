@@ -876,16 +876,12 @@
       "matches": [
         {
           "startDate": "2023-06-01T14:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Conference League Play-off Group",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LOS",
             "short": "Lokomotiv Sf",
@@ -901,7 +897,7 @@
             "name": "Botev"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -1124,8 +1120,8 @@
         {
           "startDate": "2023-06-01T15:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
+            "type": "SECOND_HALF",
+            "minute": 51,
             "extra": 0
           },
           "round": {
@@ -1153,7 +1149,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1161,9 +1157,9 @@
         {
           "startDate": "2023-06-01T15:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Finals",
@@ -1209,7 +1205,7 @@
           "startDate": "2023-06-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -1286,7 +1282,7 @@
           "startDate": "2023-06-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -1313,8 +1309,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1619,7 +1615,7 @@
           "startDate": "2023-06-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -1646,7 +1642,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2005,7 +2001,7 @@
           "startDate": "2023-06-01T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 37,
             "extra": 0
           },
           "round": {
