@@ -256,7 +256,7 @@
           "startDate": "2023-06-01T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -664,7 +664,7 @@
           "startDate": "2023-06-01T20:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -1349,16 +1349,12 @@
       "matches": [
         {
           "startDate": "2023-06-01T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VFB",
             "short": "Stuttgart",
@@ -1381,7 +1377,10 @@
             "teamA": 3,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 3,
+            "teamB": 0
+          },
           "penalty": null
         }
       ]
@@ -1431,7 +1430,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -1478,7 +1477,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -1515,7 +1514,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -1552,7 +1551,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -1600,7 +1599,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 15
+            "extra": 22
           },
           "round": {
             "name": "Relegation Play-offs - Final",
@@ -1723,16 +1722,12 @@
       "matches": [
         {
           "startDate": "2023-06-01T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DUN",
             "short": "Dungannon",
@@ -1861,7 +1856,7 @@
           "startDate": "2023-06-01T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 73,
+            "minute": 79,
             "extra": 0
           },
           "round": {
