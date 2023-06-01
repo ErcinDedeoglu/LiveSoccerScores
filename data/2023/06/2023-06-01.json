@@ -76,16 +76,12 @@
         },
         {
           "startDate": "2023-06-01T01:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RSL",
             "short": "Salt Lake",
@@ -113,16 +109,12 @@
         },
         {
           "startDate": "2023-06-01T01:35:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SKC",
             "short": "Sporting KC",
@@ -346,7 +338,7 @@
           "startDate": "2023-06-01T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -491,16 +483,12 @@
         },
         {
           "startDate": "2023-06-01T01:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Apertura - Quadrangular",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AME",
             "short": "Am\u00E9rica",
@@ -2052,7 +2040,7 @@
           "startDate": "2023-06-01T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -2132,7 +2120,7 @@
           "startDate": "2023-06-01T02:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 72,
             "extra": 0
           },
           "round": {
