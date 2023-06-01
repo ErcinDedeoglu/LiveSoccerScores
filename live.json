@@ -255,9 +255,9 @@
         {
           "startDate": "2023-06-01T19:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 56,
+            "extra": 0
           },
           "round": {
             "name": "Europa League Play-offs - Semi-finals",
@@ -662,12 +662,16 @@
       "matches": [
         {
           "startDate": "2023-06-01T20:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 18,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CMP",
             "short": "Campinense",
@@ -686,7 +690,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1258,7 +1265,7 @@
           "startDate": "2023-06-01T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -1285,7 +1292,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1348,7 +1355,7 @@
           "startDate": "2023-06-01T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -1372,7 +1379,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 3,
@@ -1427,9 +1434,9 @@
         {
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -1455,7 +1462,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 2
           },
           "agg": null,
@@ -1474,8 +1481,8 @@
         {
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
+            "type": "SECOND_HALF",
+            "minute": 47,
             "extra": 0
           },
           "round": {
@@ -1503,7 +1510,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1511,9 +1518,9 @@
         {
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -1548,8 +1555,8 @@
         {
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
+            "type": "SECOND_HALF",
+            "minute": 47,
             "extra": 0
           },
           "round": {
@@ -1596,7 +1603,7 @@
           "startDate": "2023-06-01T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 68,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -1623,11 +1630,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "penalty": null
@@ -1722,7 +1729,7 @@
           "startDate": "2023-06-01T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -1749,11 +1756,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 2
           },
           "penalty": null
@@ -1813,16 +1820,12 @@
       "matches": [
         {
           "startDate": "2023-06-01T17:30:00Z",
-          "period": {
-            "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 118,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Conference League Play-offs - Final",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CFR",
             "short": "CFR",
@@ -1861,9 +1864,9 @@
         {
           "startDate": "2023-06-01T19:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
           },
           "round": {
             "name": "Play-offs - Final",

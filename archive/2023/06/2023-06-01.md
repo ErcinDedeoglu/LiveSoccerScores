@@ -32,7 +32,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Heerenveen <img src="/static/logos/SC Heerenveen.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Twente.png" height="25px"> Twente</p> |
-| <p align="center">HT</p> | <p align="right">Utrecht <img src="/static/logos/FC Utrecht.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sparta Rotterdam.png" height="25px"> Sparta</p> |
+| <p align="center">56'</p> | <p align="right">Utrecht <img src="/static/logos/FC Utrecht.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sparta Rotterdam.png" height="25px"> Sparta</p> |
 </div>
 
 
@@ -114,7 +114,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20:00</p> | <p align="right">Campinense <img src="/static/logos/Campinense Clube.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nacional AC (Patos).png" height="25px"> Nacional</p> |
+| <p align="center">18'</p> | <p align="right">Campinense <img src="/static/logos/Campinense Clube.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nacional AC (Patos).png" height="25px"> Nacional</p> |
 </div>
 
 
@@ -184,7 +184,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Haras <img src="/static/logos/Haras El Hodood.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Aswan SC.png" height="25px"> Aswan</p> |
-| <p align="center">65'</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ghazl El Mehalla.png" height="25px"> Ghazl</p> |
+| <p align="center">85'</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI Club.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ghazl El Mehalla.png" height="25px"> Ghazl</p> |
 </div>
 
 
@@ -204,7 +204,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">Stuttgart <img src="/static/logos/VfB Stuttgart 1893.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Hamburger SV.png" height="25px"> Hamburg</p> |
+| <p align="center">75'</p> | <p align="right">Stuttgart <img src="/static/logos/VfB Stuttgart 1893.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Hamburger SV.png" height="25px"> Hamburg</p> |
 </div>
 
 
@@ -215,7 +215,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">ÍBV <img src="/static/logos/ÍB Vestmannaeyja.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/HK Kópavogur.png" height="25px"> HK</p> |
-| <p align="center">41'</p> | <p align="right">Fylkir <img src="/static/logos/Fylkir FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/KR Reykjavík.png" height="25px"> KR</p> |
+| <p align="center">HT</p> | <p align="right">Fylkir <img src="/static/logos/Fylkir FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/KR Reykjavík.png" height="25px"> KR</p> |
 </div>
 
 
@@ -225,9 +225,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Grindavík <img src="/static/logos/UMF Grindavík.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/UMF Afturelding.png" height="25px"> Afturelding</p> |
-| <p align="center">43'</p> | <p align="right">ÍA <img src="/static/logos/ÍA Akranes.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/UMF Fjölnir.png" height="25px"> Fjölnir</p> |
-| <p align="center">43'</p> | <p align="right">Selfoss <img src="/static/logos/UMF Selfoss.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Thróttur Reykjavík.png" height="25px"> Thróttur R</p> |
+| <p align="center">47'</p> | <p align="right">Grindavík <img src="/static/logos/UMF Grindavík.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/UMF Afturelding.png" height="25px"> Afturelding</p> |
+| <p align="center">HT</p> | <p align="right">ÍA <img src="/static/logos/ÍA Akranes.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/UMF Fjölnir.png" height="25px"> Fjölnir</p> |
+| <p align="center">47'</p> | <p align="right">Selfoss <img src="/static/logos/UMF Selfoss.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Thróttur Reykjavík.png" height="25px"> Thróttur R</p> |
 </div>
 
 
@@ -237,7 +237,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Brescia <img src="/static/logos/Brescia Calcio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cosenza Calcio.png" height="25px"> Cosenza</p> |
+| <p align="center">89'</p> | <p align="right">Brescia <img src="/static/logos/Brescia Calcio.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Cosenza Calcio.png" height="25px"> Cosenza</p> |
 </div>
 
 
@@ -258,7 +258,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Dungannon <img src="/static/logos/Dungannon Swifts FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Annagh United FC.png" height="25px"> Annagh Utd</p> |
+| <p align="center">76'</p> | <p align="right">Dungannon <img src="/static/logos/Dungannon Swifts FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Annagh United FC.png" height="25px"> Annagh Utd</p> |
 </div>
 
 
@@ -278,7 +278,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">118'</p> | <p align="right">CFR <img src="/static/logos/SCS CFR 1907 Cluj.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC U Craiova 1948 SA.png" height="25px"> U Craiova 1948</p> |
+| <p align="center">FT</p> | <p align="right">CFR <img src="/static/logos/SCS CFR 1907 Cluj.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC U Craiova 1948 SA.png" height="25px"> U Craiova 1948</p> |
 </div>
 
 
@@ -288,7 +288,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Partick <img src="/static/logos/Partick Thistle FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ross County FC.png" height="25px"> Ross County</p> |
+| <p align="center">57'</p> | <p align="right">Partick <img src="/static/logos/Partick Thistle FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ross County FC.png" height="25px"> Ross County</p> |
 </div>
 
 
