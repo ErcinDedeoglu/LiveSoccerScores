@@ -94,7 +94,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Ararat-Armenia <img src="/static/logos/Ararat-Armenia FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Lernayin Artsakh Goris.png" height="25px"> L. Artsakh</p> |
+| <p align="center">24'</p> | <p align="right">Ararat-Armenia <img src="/static/logos/Ararat-Armenia FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Lernayin Artsakh Goris.png" height="25px"> L. Artsakh</p> |
 </div>
 
 
@@ -247,7 +247,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Liepāja <img src="/static/logos/FK Liepāja.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"> Tukums</p> |
+| <p align="center">24'</p> | <p align="right">Liepāja <img src="/static/logos/FK Liepāja.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"> Tukums</p> |
 | <p align="center">16:00</p> | <p align="right">Auda <img src="/static/logos/FK Auda Riga.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FS Jelgava.png" height="25px"> Jelgava</p> |
 </div>
 
@@ -331,7 +331,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Karaman FK <img src="/static/logos/Karaman Futbol Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Orduspor 1967 Futbol İşletmeciliği Spor Kulübü.png" height="25px"> Orduspor 1967</p> |
+| <p align="center">63'</p> | <p align="right">Karaman FK <img src="/static/logos/Karaman Futbol Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Orduspor 1967 Futbol İşletmeciliği Spor Kulübü.png" height="25px"> Orduspor 1967</p> |
 </div>
 
 
@@ -364,7 +364,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Binh Duong <img src="/static/logos/Becamex Binh Duong FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Thanh Hóa.png" height="25px"> Thanh Hóa</p> |
-| <p align="center">84'</p> | <p align="right">Viettel <img src="/static/logos/Viettel FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Song Lam Nghe An.png" height="25px"> SLNA</p> |
+| <p align="center">FT</p> | <p align="right">Viettel <img src="/static/logos/Viettel FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Song Lam Nghe An.png" height="25px"> SLNA</p> |
 </div>
 
 

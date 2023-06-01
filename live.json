@@ -557,12 +557,16 @@
       "matches": [
         {
           "startDate": "2023-06-01T14:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 24,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ARM",
             "short": "Ararat-Armenia",
@@ -581,7 +585,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1546,12 +1553,16 @@
       "matches": [
         {
           "startDate": "2023-06-01T14:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 24,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LIE",
             "short": "Liep\u0101ja",
@@ -1570,7 +1581,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1996,9 +2010,9 @@
         {
           "startDate": "2023-06-01T13:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 63,
+            "extra": 0
           },
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
@@ -2227,16 +2241,12 @@
         },
         {
           "startDate": "2023-06-01T12:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VTL",
             "short": "Viettel",
