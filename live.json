@@ -255,9 +255,9 @@
         {
           "startDate": "2023-06-01T19:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 5
           },
           "round": {
             "name": "Europa League Play-offs - Semi-finals",
@@ -1258,7 +1258,7 @@
           "startDate": "2023-06-01T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1348,7 +1348,7 @@
           "startDate": "2023-06-01T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 55,
             "extra": 0
           },
           "round": {
@@ -1375,7 +1375,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -1393,16 +1393,12 @@
       "matches": [
         {
           "startDate": "2023-06-01T18:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "IBV",
             "short": "\u00CDBV",
@@ -1432,7 +1428,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -1479,7 +1475,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 35,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -1516,7 +1512,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 35,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -1553,7 +1549,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 35,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -1600,7 +1596,7 @@
           "startDate": "2023-06-01T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -1726,7 +1722,7 @@
           "startDate": "2023-06-01T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 56,
             "extra": 0
           },
           "round": {
@@ -1819,7 +1815,7 @@
           "startDate": "2023-06-01T17:30:00Z",
           "period": {
             "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 111,
+            "minute": 118,
             "extra": 0
           },
           "round": {
@@ -1865,9 +1861,9 @@
         {
           "startDate": "2023-06-01T19:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 5
           },
           "round": {
             "name": "Play-offs - Final",
