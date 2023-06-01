@@ -20,8 +20,8 @@
 | <p align="center">FT</p> | <p align="right">Austin <img src="/static/logos/Austin FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Minnesota United FC.png" height="25px"> Minnesota</p> |
 | <p align="center">FT</p> | <p align="right">Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/LA Galaxy.png" height="25px"> Galaxy</p> |
 | <p align="center">FT</p> | <p align="right">Sporting KC <img src="/static/logos/Sporting Kansas City.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> Dallas</p> |
-| <p align="center">HT</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> Earthquakes</p> |
-| <p align="center">HT</p> | <p align="right">Whitecaps <img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston</p> |
+| <p align="center">50'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> Earthquakes</p> |
+| <p align="center">53'</p> | <p align="right">Whitecaps <img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston</p> |
 </div>
 
 
@@ -52,7 +52,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Los Angeles FC.png" height="25px"> Los Angeles</p> |
+| <p align="center">80'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Los Angeles FC.png" height="25px"> Los Angeles</p> |
 </div>
 
 
@@ -341,7 +341,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Monterey Bay <img src="/static/logos/Monterey Bay FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> Tulsa</p> |
+| <p align="center">82'</p> | <p align="right">Monterey Bay <img src="/static/logos/Monterey Bay FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> Tulsa</p> |
 </div>
 
 
@@ -352,8 +352,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Red Stars <img src="/static/logos/Chicago Red Stars.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Racing Louisville FC.png" height="25px"> Racing Lou</p> |
-| <p align="center">72'</p> | <p align="right">San Diego Wave <img src="/static/logos/San Diego Wave FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/OL Reign.png" height="25px"> Reign</p> |
-| <p align="center">HT</p> | <p align="right">Thorns <img src="/static/logos/Portland Thorns FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Angel City FC.png" height="25px"> Angel City</p> |
+| <p align="center">80'</p> | <p align="right">San Diego Wave <img src="/static/logos/San Diego Wave FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/OL Reign.png" height="25px"> Reign</p> |
+| <p align="center">52'</p> | <p align="right">Thorns <img src="/static/logos/Portland Thorns FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Angel City FC.png" height="25px"> Angel City</p> |
 </div>
 
 
