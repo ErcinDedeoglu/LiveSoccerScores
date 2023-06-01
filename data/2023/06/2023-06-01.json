@@ -559,7 +559,7 @@
           "startDate": "2023-06-01T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -880,12 +880,16 @@
       "matches": [
         {
           "startDate": "2023-06-01T14:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Conference League Play-off Group",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LOS",
             "short": "Lokomotiv Sf",
@@ -904,7 +908,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1555,7 +1562,7 @@
           "startDate": "2023-06-01T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -2011,7 +2018,7 @@
           "startDate": "2023-06-01T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -2038,7 +2045,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
