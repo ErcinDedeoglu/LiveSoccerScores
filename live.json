@@ -256,7 +256,7 @@
           "startDate": "2023-06-01T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -664,8 +664,8 @@
           "startDate": "2023-06-01T20:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "1st Phase",
@@ -1430,7 +1430,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -1457,8 +1457,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 2
+            "teamA": 3,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -1477,7 +1477,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1514,7 +1514,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -1551,7 +1551,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1599,7 +1599,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 22
+            "extra": 7
           },
           "round": {
             "name": "Relegation Play-offs - Final",
@@ -1856,7 +1856,7 @@
           "startDate": "2023-06-01T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 88,
             "extra": 0
           },
           "round": {
