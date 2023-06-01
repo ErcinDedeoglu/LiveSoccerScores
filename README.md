@@ -63,7 +63,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gambia <img src="/static/logos/Gambia Under 20.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Uruguay Under 20.png" height="25px"> Uruguay</p> |
-| <p align="center">16'</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador Under 20.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Korea Republic Under 20.png" height="25px"> Korea Rep.</p> |
+| <p align="center">24'</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador Under 20.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Korea Republic Under 20.png" height="25px"> Korea Rep.</p> |
 </div>
 
 
@@ -114,7 +114,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">Campinense <img src="/static/logos/Campinense Clube.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nacional AC (Patos).png" height="25px"> Nacional</p> |
+| <p align="center">61'</p> | <p align="right">Campinense <img src="/static/logos/Campinense Clube.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nacional AC (Patos).png" height="25px"> Nacional</p> |
 </div>
 
 
@@ -161,8 +161,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
-| <p align="center">14'</p> | <p align="right">Valledupar <img src="/static/logos/Valledupar FC Real.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"> Cortuluá</p> |
+| <p align="center">23'</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
+| <p align="center">22'</p> | <p align="right">Valledupar <img src="/static/logos/Valledupar FC Real.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"> Cortuluá</p> |
 </div>
 
 
