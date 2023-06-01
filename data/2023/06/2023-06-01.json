@@ -256,8 +256,8 @@
           "startDate": "2023-06-01T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Europa League Play-offs - Semi-finals",
@@ -663,9 +663,9 @@
         {
           "startDate": "2023-06-01T20:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 4
+            "extra": 5
           },
           "round": {
             "name": "1st Phase",
@@ -1430,7 +1430,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 71,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1477,7 +1477,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -1514,7 +1514,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 75,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -1542,7 +1542,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1551,7 +1551,7 @@
           "startDate": "2023-06-01T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -1599,7 +1599,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 7
+            "extra": 35
           },
           "round": {
             "name": "Relegation Play-offs - Final",
@@ -1854,16 +1854,12 @@
       "matches": [
         {
           "startDate": "2023-06-01T19:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Play-offs - Final",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAR",
             "short": "Partick",
@@ -1886,7 +1882,10 @@
             "teamA": 2,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "penalty": null
         }
       ]
