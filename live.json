@@ -1996,9 +1996,9 @@
         {
           "startDate": "2023-06-01T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 5
+            "extra": 6
           },
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
@@ -2229,7 +2229,7 @@
           "startDate": "2023-06-01T12:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
+            "minute": 84,
             "extra": 0
           },
           "round": {
