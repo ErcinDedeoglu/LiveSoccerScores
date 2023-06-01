@@ -558,9 +558,9 @@
         {
           "startDate": "2023-06-01T14:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 39,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -882,7 +882,7 @@
           "startDate": "2023-06-01T14:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1561,9 +1561,9 @@
         {
           "startDate": "2023-06-01T14:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 39,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -2018,8 +2018,8 @@
           "startDate": "2023-06-01T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
