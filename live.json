@@ -769,12 +769,16 @@
       "matches": [
         {
           "startDate": "2023-06-02T15:20:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 18,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SLV",
             "short": "Slavia",
@@ -793,7 +797,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1926,7 +1933,7 @@
           "startDate": "2023-06-02T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -1963,7 +1970,7 @@
           "startDate": "2023-06-02T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -1990,7 +1997,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -2253,7 +2260,7 @@
           "startDate": "2023-06-02T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -2331,12 +2338,16 @@
         },
         {
           "startDate": "2023-06-02T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 6
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "SUSPENDED",
+          "status": "LIVE",
           "teamA": {
             "code": "KTU",
             "short": "Kelantan Utd",
@@ -2357,7 +2368,7 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
