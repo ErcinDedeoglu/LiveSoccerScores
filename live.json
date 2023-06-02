@@ -50,16 +50,12 @@
       "matches": [
         {
           "startDate": "2023-06-02T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 77,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ARS",
             "short": "Arsenal",
@@ -128,8 +124,8 @@
         {
           "startDate": "2023-06-02T01:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -2488,7 +2484,7 @@
           "startDate": "2023-06-02T01:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -2511,11 +2507,11 @@
             "name": "Cienciano"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,
