@@ -67,7 +67,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Moreton Bay <img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
+| <p align="center">45'</p> | <p align="right">Moreton Bay <img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
 </div>
 
 
@@ -77,7 +77,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">28'</p> | <p align="right">Souths Utd NPL <img src="/static/logos/Souths United FC (NPL).png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
+| <p align="center">35'</p> | <p align="right">Souths Utd NPL <img src="/static/logos/Souths United FC (NPL).png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
 </div>
 
 
@@ -87,10 +87,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Knights <img src="/static/logos/Melbourne Knights FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
-| <p align="center">HT</p> | <p align="right">Green Gully <img src="/static/logos/Green Gully SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bentleigh Greens SC.png" height="25px"> Bentleigh</p> |
-| <p align="center">29'</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/St. Albans Saints FC.png" height="25px"> St. Albans</p> |
-| <p align="center">30'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dandenong Thunder SC.png" height="25px"> Dandenong</p> |
+| <p align="center">80'</p> | <p align="right">Knights <img src="/static/logos/Melbourne Knights FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
+| <p align="center">50'</p> | <p align="right">Green Gully <img src="/static/logos/Green Gully SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bentleigh Greens SC.png" height="25px"> Bentleigh</p> |
+| <p align="center">36'</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/St. Albans Saints FC.png" height="25px"> St. Albans</p> |
+| <p align="center">37'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dandenong Thunder SC.png" height="25px"> Dandenong</p> |
 </div>
 
 
@@ -110,7 +110,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">57'</p> | <p align="right">Sutherland <img src="/static/logos/Sutherland Sharks FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC Under 21.png" height="25px"> Mariners</p> |
+| <p align="center">65'</p> | <p align="right">Sutherland <img src="/static/logos/Sutherland Sharks FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC Under 21.png" height="25px"> Mariners</p> |
 </div>
 
 
@@ -133,8 +133,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">HT</p> | <p align="right">Abahani Dhaka <img src="/static/logos/Abahani Limited Dhaka.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sheikh Jamal Dhanmondi Club.png" height="25px"> Jamal</p> |
-| <p align="center">HT</p> | <p align="right">Uttara <img src="/static/logos/Azampur Football Club Uttara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sheikh Russel Krira Chakra.png" height="25px"> Russel</p> |
-| <p align="center">11:00</p> | <p align="right">Kings <img src="/static/logos/Bashundhara Kings.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mohammedan SC Dhaka.png" height="25px"> Mohammedan</p> |
+| <p align="center">48'</p> | <p align="right">Uttara <img src="/static/logos/Azampur Football Club Uttara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sheikh Russel Krira Chakra.png" height="25px"> Russel</p> |
+| <p align="center">6'</p> | <p align="right">Kings <img src="/static/logos/Bashundhara Kings.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mohammedan SC Dhaka.png" height="25px"> Mohammedan</p> |
 </div>
 
 
