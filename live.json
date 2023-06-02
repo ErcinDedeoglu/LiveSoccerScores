@@ -726,16 +726,12 @@
         },
         {
           "startDate": "2023-06-02T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BDK",
             "short": "Kings",
@@ -1078,7 +1074,7 @@
           "startDate": "2023-06-02T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -1105,8 +1101,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 2
+            "teamA": 4,
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -1115,8 +1111,8 @@
           "startDate": "2023-06-02T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -1142,7 +1138,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -2289,12 +2285,16 @@
       "matches": [
         {
           "startDate": "2023-06-02T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 24,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KDA",
             "short": "Kedah",
@@ -2313,18 +2313,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-06-02T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 22,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KTU",
             "short": "Kelantan Utd",
@@ -2343,7 +2350,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3002,12 +3012,16 @@
       "matches": [
         {
           "startDate": "2023-06-02T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 24,
+            "extra": 0
+          },
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BY\u00C7",
             "short": "Yeni \u00C7ar\u015F\u0131",
@@ -3026,7 +3040,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }

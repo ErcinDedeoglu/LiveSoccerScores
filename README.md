@@ -134,7 +134,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Abahani Dhaka <img src="/static/logos/Abahani Limited Dhaka.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Sheikh Jamal Dhanmondi Club.png" height="25px"> Jamal</p> |
 | <p align="center">FT</p> | <p align="right">Uttara <img src="/static/logos/Azampur Football Club Uttara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sheikh Russel Krira Chakra.png" height="25px"> Russel</p> |
-| <p align="center">88'</p> | <p align="right">Kings <img src="/static/logos/Bashundhara Kings.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mohammedan SC Dhaka.png" height="25px"> Mohammedan</p> |
+| <p align="center">FT</p> | <p align="right">Kings <img src="/static/logos/Bashundhara Kings.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mohammedan SC Dhaka.png" height="25px"> Mohammedan</p> |
 </div>
 
 
@@ -206,8 +206,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">Guoan <img src="/static/logos/Beijing Guoan FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Changchun Yatai FC.png" height="25px"> Changchun</p> |
-| <p align="center">54'</p> | <p align="right">Zhejiang <img src="/static/logos/Zhejiang Professional FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Shenzhen FC.png" height="25px"> Shenzhen</p> |
+| <p align="center">90'</p> | <p align="right">Guoan <img src="/static/logos/Beijing Guoan FC.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Changchun Yatai FC.png" height="25px"> Changchun</p> |
+| <p align="center">90' 1'</p> | <p align="right">Zhejiang <img src="/static/logos/Zhejiang Professional FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Shenzhen FC.png" height="25px"> Shenzhen</p> |
 </div>
 
 
@@ -367,8 +367,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Kedah <img src="/static/logos/Kedah Darul Aman FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Sabah.png" height="25px"> Sabah</p> |
-| <p align="center">13:00</p> | <p align="right">Kelantan Utd <img src="/static/logos/Kelantan United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"> Kelantan</p> |
+| <p align="center">24'</p> | <p align="right">Kedah <img src="/static/logos/Kedah Darul Aman FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Sabah.png" height="25px"> Sabah</p> |
+| <p align="center">22'</p> | <p align="right">Kelantan Utd <img src="/static/logos/Kelantan United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"> Kelantan</p> |
 </div>
 
 
@@ -460,7 +460,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Yeni Çarşı <img src="/static/logos/Beyoğlu Yeni Çarşı Futbol Kulübü AŞ.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Efeler 09 Spor Futbol Kulübü.png" height="25px"> Efeler 09 Spor</p> |
+| <p align="center">24'</p> | <p align="right">Yeni Çarşı <img src="/static/logos/Beyoğlu Yeni Çarşı Futbol Kulübü AŞ.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Efeler 09 Spor Futbol Kulübü.png" height="25px"> Efeler 09 Spor</p> |
 </div>
 
 
