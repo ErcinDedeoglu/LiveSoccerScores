@@ -1645,7 +1645,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 6
+            "extra": 13
           },
           "round": {
             "name": "Regular Season",
@@ -1679,16 +1679,12 @@
         },
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MET",
             "short": "Metz",
@@ -1718,7 +1714,7 @@
           "startDate": "2023-06-02T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 77,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -1786,16 +1782,12 @@
         },
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAR",
             "short": "Paris",
@@ -1823,16 +1815,12 @@
         },
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAU",
             "short": "Pau",
@@ -1905,7 +1893,7 @@
           "startDate": "2023-06-02T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 84,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -2143,7 +2131,7 @@
           "startDate": "2023-06-02T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -2180,7 +2168,7 @@
           "startDate": "2023-06-02T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -2217,7 +2205,7 @@
           "startDate": "2023-06-02T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -2297,7 +2285,7 @@
           "startDate": "2023-06-02T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -2509,7 +2497,7 @@
           "startDate": "2023-06-02T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -2727,16 +2715,12 @@
       "matches": [
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BOH",
             "short": "Bohemians",
@@ -2764,16 +2748,12 @@
         },
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DER",
             "short": "Derry",
@@ -2803,8 +2783,8 @@
           "startDate": "2023-06-02T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -2838,16 +2818,12 @@
         },
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SHA",
             "short": "Shamrock",
@@ -2875,16 +2851,12 @@
         },
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "UCD",
             "short": "UCD",
@@ -2922,16 +2894,12 @@
       "matches": [
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ATH",
             "short": "Athlone",
@@ -2948,7 +2916,7 @@
           },
           "redCards": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "score": {
             "teamA": 1,
@@ -2959,16 +2927,12 @@
         },
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BRA",
             "short": "Bray",
@@ -2996,16 +2960,12 @@
         },
         {
           "startDate": "2023-06-02T18:45:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "WAT",
             "short": "Waterford",
@@ -3025,7 +2985,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 6,
+            "teamA": 7,
             "teamB": 0
           },
           "agg": null,
@@ -3036,7 +2996,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -3072,7 +3032,7 @@
           "startDate": "2023-06-02T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -3315,7 +3275,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 34
+            "extra": 42
           },
           "round": {
             "name": "Intermediate Round",
