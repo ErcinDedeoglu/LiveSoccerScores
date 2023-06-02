@@ -300,16 +300,12 @@
       "matches": [
         {
           "startDate": "2023-06-01T23:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAR",
             "short": "Sarmiento",
@@ -469,16 +465,12 @@
       "matches": [
         {
           "startDate": "2023-06-01T23:15:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura - Quadrangular",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PAS",
             "short": "Pasto",
@@ -838,16 +830,12 @@
         },
         {
           "startDate": "2023-06-01T22:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 67,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAO",
             "short": "S\u00E3o Paulo",
@@ -868,26 +856,25 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": {
             "teamA": 3,
-            "teamB": 2
+            "teamB": 3
           },
-          "penalty": null
+          "penalty": {
+            "teamA": 5,
+            "teamB": 3
+          }
         },
         {
           "startDate": "2023-06-01T23:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Round of 16",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "FLA",
             "short": "Flamengo",
@@ -907,11 +894,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "penalty": null
@@ -1009,7 +996,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "DLP",
             "short": "Dalian",
@@ -1028,7 +1015,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -1039,7 +1029,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SHT",
             "short": "Shandong",
@@ -1058,7 +1048,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1069,7 +1062,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SHE",
             "short": "Shenhua",
@@ -1088,7 +1081,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
