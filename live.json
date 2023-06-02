@@ -1925,9 +1925,9 @@
         {
           "startDate": "2023-06-02T14:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Group B",
@@ -1962,9 +1962,9 @@
         {
           "startDate": "2023-06-02T14:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Group B",
@@ -2251,12 +2251,16 @@
       "matches": [
         {
           "startDate": "2023-06-02T15:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DZI",
             "short": "D\u017Eiugas",
@@ -2275,7 +2279,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2291,16 +2298,12 @@
       "matches": [
         {
           "startDate": "2023-06-02T13:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KDA",
             "short": "Kedah",
@@ -3014,16 +3017,12 @@
       "matches": [
         {
           "startDate": "2023-06-02T13:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BY\u00C7",
             "short": "Yeni \u00C7ar\u015F\u0131",
@@ -3046,7 +3045,10 @@
             "teamA": 1,
             "teamB": 0
           },
-          "agg": null,
+          "agg": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "penalty": null
         }
       ]
