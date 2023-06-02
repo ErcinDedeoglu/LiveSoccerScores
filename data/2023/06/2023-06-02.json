@@ -124,8 +124,8 @@
         {
           "startDate": "2023-06-02T01:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -699,7 +699,7 @@
           "penalty": null
         },
         {
-          "startDate": "2023-06-02T10:00:00Z",
+          "startDate": "2023-06-02T11:00:00Z",
           "period": null,
           "round": {
             "name": "Regular Season",
@@ -2482,16 +2482,12 @@
       "matches": [
         {
           "startDate": "2023-06-02T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 78,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SCL",
             "short": "Sp. Cristal",
@@ -2512,7 +2508,7 @@
           },
           "score": {
             "teamA": 4,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
