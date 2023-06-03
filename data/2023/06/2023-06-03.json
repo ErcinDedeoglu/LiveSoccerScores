@@ -5729,7 +5729,7 @@
           "startDate": "2023-06-03T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -5757,7 +5757,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -6016,7 +6016,7 @@
           "startDate": "2023-06-03T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -6213,7 +6213,7 @@
           "startDate": "2023-06-03T04:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -6240,7 +6240,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -9247,16 +9247,12 @@
         },
         {
           "startDate": "2023-06-03T02:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 92,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VAN",
             "short": "Whitecaps FC 2",
