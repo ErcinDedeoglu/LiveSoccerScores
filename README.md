@@ -614,12 +614,12 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">04:00</p> | <p align="right">Iwaki <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Roasso Kumamoto.png" height="25px"> Kumamoto</p> |
-| <p align="center">05:00</p> | <p align="right">Fujieda <img src="/static/logos/Fujieda MYFC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi</p> |
 | <p align="center">05:00</p> | <p align="right">Montedio <img src="/static/logos/Montedio Yamagata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu</p> |
 | <p align="center">05:00</p> | <p align="right">Omiya <img src="/static/logos/Omiya Ardija.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mito Hollyhock.png" height="25px"> Mito</p> |
 | <p align="center">05:00</p> | <p align="right">Renofa <img src="/static/logos/Renofa Yamaguchi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/V-Varen Nagasaki.png" height="25px"> V-Varen</p> |
 | <p align="center">05:00</p> | <p align="right">Zweigen <img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ThespaKusatsu Gunma.png" height="25px"> ThespaKusatsu</p> |
 | <p align="center">07:00</p> | <p align="right">Júbilo <img src="/static/logos/Júbilo Iwata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFC Blaublitz Akita.png" height="25px"> Blaublitz</p> |
+| <p align="center">08:00</p> | <p align="right">Fujieda <img src="/static/logos/Fujieda MYFC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi</p> |
 | <p align="center">09:00</p> | <p align="right">JEF Utd <img src="/static/logos/JEF United Ichihara Chiba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Machida Zelvia.png" height="25px"> Machida</p> |
 | <p align="center">10:00</p> | <p align="right">Fagiano <img src="/static/logos/Fagiano Okayama.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tokushima Vortis.png" height="25px"> Tokushima</p> |
 </div>

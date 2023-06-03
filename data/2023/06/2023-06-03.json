@@ -5743,36 +5743,6 @@
           },
           "status": "FIXTURE",
           "teamA": {
-            "code": "FUJ",
-            "short": "Fujieda",
-            "long": "Fujieda MYFC",
-            "full": "Fujieda MYFC",
-            "name": "Fujieda"
-          },
-          "teamB": {
-            "code": "TOC",
-            "short": "Tochigi",
-            "long": "Tochigi",
-            "full": "Tochigi SC",
-            "name": "Tochigi"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-06-03T05:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
             "code": "MON",
             "short": "Montedio",
             "long": "Montedio Yamagata",
@@ -5905,6 +5875,36 @@
             "long": "Blaublitz Akita",
             "full": "AFC Blaublitz Akita",
             "name": "Blaublitz"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-06-03T08:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "FUJ",
+            "short": "Fujieda",
+            "long": "Fujieda MYFC",
+            "full": "Fujieda MYFC",
+            "name": "Fujieda"
+          },
+          "teamB": {
+            "code": "TOC",
+            "short": "Tochigi",
+            "long": "Tochigi",
+            "full": "Tochigi SC",
+            "name": "Tochigi"
           },
           "redCards": {
             "teamA": 0,
