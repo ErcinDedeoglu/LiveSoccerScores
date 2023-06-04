@@ -1589,9 +1589,9 @@
         {
           "startDate": "2023-06-04T05:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 64,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1617,7 +1617,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2724,12 +2724,16 @@
       "matches": [
         {
           "startDate": "2023-06-04T06:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 20,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "HEI",
             "short": "Heidelberg",
@@ -2748,7 +2752,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2764,12 +2771,16 @@
       "matches": [
         {
           "startDate": "2023-06-04T06:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 19,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SOL",
             "short": "Sydney Olympic",
@@ -2788,7 +2799,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -5270,9 +5284,9 @@
         {
           "startDate": "2023-06-04T05:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 60,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -5307,9 +5321,9 @@
         {
           "startDate": "2023-06-04T05:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 64,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -5420,9 +5434,9 @@
         {
           "startDate": "2023-06-04T05:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 61,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -5457,9 +5471,9 @@
         {
           "startDate": "2023-06-04T05:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 65,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
