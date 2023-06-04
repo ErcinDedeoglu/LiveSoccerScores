@@ -1155,16 +1155,12 @@
         },
         {
           "startDate": "2023-06-04T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GOD",
             "short": "Godoy Cruz",
@@ -1303,7 +1299,7 @@
           "startDate": "2023-06-04T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -1340,7 +1336,7 @@
           "startDate": "2023-06-04T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -1367,7 +1363,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2076,16 +2072,12 @@
         },
         {
           "startDate": "2023-06-04T20:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SAM",
             "short": "San Mart\u00EDn SJ",
@@ -2105,7 +2097,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -2114,9 +2106,9 @@
         {
           "startDate": "2023-06-04T21:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 3
           },
           "round": {
             "name": "Group B",
@@ -2555,7 +2547,7 @@
           "startDate": "2023-06-04T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -3673,7 +3665,7 @@
           "startDate": "2023-06-04T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -3700,7 +3692,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -3894,12 +3886,16 @@
         },
         {
           "startDate": "2023-06-04T22:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CON",
             "short": "Confian\u00E7a",
@@ -3915,10 +3911,13 @@
             "name": "Amazonas"
           },
           "redCards": {
+            "teamA": 1,
+            "teamB": 0
+          },
+          "score": {
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
           "agg": null,
           "penalty": null
         },
@@ -4413,7 +4412,7 @@
           "startDate": "2023-06-04T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -5058,7 +5057,7 @@
           "startDate": "2023-06-04T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -7288,7 +7287,7 @@
           "startDate": "2023-06-04T21:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -7316,7 +7315,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -7401,7 +7400,7 @@
           "startDate": "2023-06-04T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -7425,7 +7424,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 0,
