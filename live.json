@@ -1622,9 +1622,9 @@
         {
           "startDate": "2023-06-04T08:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -1793,7 +1793,7 @@
       },
       "matches": [
         {
-          "startDate": "2023-06-04T00:00:00Z",
+          "startDate": "2023-06-04T00:10:00Z",
           "period": null,
           "round": {
             "name": "Group A",
@@ -2617,16 +2617,12 @@
       "matches": [
         {
           "startDate": "2023-06-04T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BCT",
             "short": "Brisbane City",
@@ -2696,8 +2692,8 @@
           "startDate": "2023-06-04T07:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -2724,7 +2720,7 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -2953,16 +2949,12 @@
         },
         {
           "startDate": "2023-06-04T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MAC",
             "short": "Macarthur Rams",
@@ -2990,16 +2982,12 @@
         },
         {
           "startDate": "2023-06-04T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BSP",
             "short": "Spartans",
@@ -3029,7 +3017,7 @@
           "startDate": "2023-06-04T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -4172,7 +4160,7 @@
           "startDate": "2023-06-04T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -4200,7 +4188,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4277,16 +4265,12 @@
       "matches": [
         {
           "startDate": "2023-06-04T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUA",
             "short": "Guangzhou",
@@ -4307,7 +4291,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4316,7 +4300,7 @@
           "startDate": "2023-06-04T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -4353,7 +4337,7 @@
           "startDate": "2023-06-04T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -5610,7 +5594,7 @@
           "startDate": "2023-06-04T07:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -5638,7 +5622,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -5685,16 +5669,12 @@
       "matches": [
         {
           "startDate": "2023-06-04T07:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GIM",
             "short": "Gimpo",
