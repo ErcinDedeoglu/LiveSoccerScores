@@ -57,7 +57,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mitre SdE <img src="/static/logos/Club Atlético Mitre de Santiago del Estero.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Social y Deportivo Madryn.png" height="25px"> Dep Madryn</p> |
-| <p align="center">90'</p> | <p align="right">Atlanta <img src="/static/logos/CA Atlanta.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CA Brown de Adrogué.png" height="25px"> Brown Adrogué</p> |
+| <p align="center">FT</p> | <p align="right">Atlanta <img src="/static/logos/CA Atlanta.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CA Brown de Adrogué.png" height="25px"> Brown Adrogué</p> |
 </div>
 
 
@@ -324,7 +324,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">23:15</p> | <p align="right">City Torque <img src="/static/logos/Montevideo City Torque.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Defensor Sporting Club.png" height="25px"> Def. Sporting</p> |
-| <p align="center">85'</p> | <p align="right">Maldonado <img src="/static/logos/CD Maldonado.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Fénix.png" height="25px"> Fénix</p> |
+| <p align="center">90' 2'</p> | <p align="right">Maldonado <img src="/static/logos/CD Maldonado.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CA Fénix.png" height="25px"> Fénix</p> |
 </div>
 
 
