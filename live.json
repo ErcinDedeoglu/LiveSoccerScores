@@ -217,7 +217,7 @@
           "startDate": "2023-06-05T20:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -2128,9 +2128,9 @@
         {
           "startDate": "2023-06-05T21:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 62,
+            "extra": 0
           },
           "round": {
             "name": "Intermediate Round",
