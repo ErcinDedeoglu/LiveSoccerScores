@@ -2130,16 +2130,12 @@
         },
         {
           "startDate": "2023-06-05T01:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 56
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "SUSPENDED",
           "teamA": {
             "code": "TOR",
             "short": "TFC II",
@@ -2167,16 +2163,12 @@
         },
         {
           "startDate": "2023-06-05T02:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NTX",
             "short": "North Texas",
