@@ -183,9 +183,9 @@
         {
           "startDate": "2023-06-05T17:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Group B",
@@ -337,7 +337,7 @@
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -961,7 +961,7 @@
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -1093,9 +1093,9 @@
         {
           "startDate": "2023-06-05T17:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 1
           },
           "round": {
             "name": "Quarter-finals",
@@ -1313,7 +1313,7 @@
           "startDate": "2023-06-05T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 24,
             "extra": 0
           },
           "round": {
@@ -1532,7 +1532,7 @@
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -1569,7 +1569,7 @@
           "startDate": "2023-06-05T17:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 32,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -1596,7 +1596,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1815,7 +1815,7 @@
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -1851,9 +1851,9 @@
         {
           "startDate": "2023-06-05T17:10:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 10
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1899,7 +1899,7 @@
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -1936,7 +1936,7 @@
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -1983,7 +1983,7 @@
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -2010,8 +2010,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2030,7 +2030,7 @@
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -2077,7 +2077,7 @@
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 65,
             "extra": 0
           },
           "round": {
