@@ -184,8 +184,8 @@
           "startDate": "2023-06-05T17:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Group B",
@@ -211,7 +211,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -336,9 +336,9 @@
         {
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 105,
-            "extra": 1
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 118,
+            "extra": 0
           },
           "round": {
             "name": "Conference League Play-offs - 1st Round",
@@ -384,7 +384,7 @@
           "startDate": "2023-06-05T19:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -1011,8 +1011,8 @@
           "startDate": "2023-06-05T18:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 31,
-            "extra": 0
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Finals",
@@ -1102,16 +1102,12 @@
       "matches": [
         {
           "startDate": "2023-06-05T17:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "THA",
             "short": "Th\u00F3r",
@@ -1323,7 +1319,7 @@
           "startDate": "2023-06-05T18:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -1351,7 +1347,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1575,7 +1571,7 @@
           "startDate": "2023-06-05T17:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -1602,7 +1598,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 1
           },
           "agg": null,
@@ -1612,7 +1608,7 @@
           "startDate": "2023-06-05T18:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -1640,7 +1636,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1758,7 +1754,7 @@
           "startDate": "2023-06-05T18:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 30,
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -1785,7 +1781,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1795,7 +1791,7 @@
           "startDate": "2023-06-05T18:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 44,
             "extra": 0
           },
           "round": {
@@ -2079,8 +2075,8 @@
         {
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 94,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 106,
             "extra": 0
           },
           "round": {
