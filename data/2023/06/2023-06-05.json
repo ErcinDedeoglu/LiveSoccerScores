@@ -285,16 +285,12 @@
         },
         {
           "startDate": "2023-06-05T15:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BKM",
             "short": "BKMA",
@@ -494,7 +490,7 @@
           "startDate": "2023-06-05T15:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -531,7 +527,7 @@
           "startDate": "2023-06-05T15:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -568,7 +564,7 @@
           "startDate": "2023-06-05T15:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -1272,7 +1268,7 @@
           "startDate": "2023-06-05T15:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1627,16 +1623,12 @@
       "matches": [
         {
           "startDate": "2023-06-05T15:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KER",
             "short": "Kerry",
@@ -1657,7 +1649,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 5
+            "teamB": 6
           },
           "agg": null,
           "penalty": null
@@ -2400,7 +2392,7 @@
           "startDate": "2023-06-05T15:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 73,
             "extra": 0
           },
           "round": {
