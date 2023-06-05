@@ -216,9 +216,9 @@
         {
           "startDate": "2023-06-05T20:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Group B",
@@ -1128,7 +1128,7 @@
           "startDate": "2023-06-05T20:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -2133,7 +2133,7 @@
           "startDate": "2023-06-05T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -2160,7 +2160,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
