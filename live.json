@@ -217,7 +217,7 @@
           "startDate": "2023-06-05T20:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -1127,9 +1127,9 @@
         {
           "startDate": "2023-06-05T20:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 67,
+            "extra": 0
           },
           "round": {
             "name": "Quarter-finals",
@@ -2131,12 +2131,16 @@
         },
         {
           "startDate": "2023-06-05T21:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 20,
+            "extra": 0
+          },
           "round": {
             "name": "Intermediate Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MAL",
             "short": "Maldonado",
@@ -2155,7 +2159,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
