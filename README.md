@@ -67,7 +67,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">L. Artsakh <img src="/static/logos/FK Lernayin Artsakh Goris.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shirak FC.png" height="25px"> Shirak</p> |
+| <p align="center">24'</p> | <p align="right">L. Artsakh <img src="/static/logos/FK Lernayin Artsakh Goris.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shirak FC.png" height="25px"> Shirak</p> |
 | <p align="center">15:00</p> | <p align="right">BKMA <img src="/static/logos/Banaki Kentronakan Marzakan Akumb.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ararat-Armenia FC.png" height="25px"> Ararat-Armenia</p> |
 </div>
 
@@ -219,7 +219,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Lobi Stars <img src="/static/logos/Lobi Stars FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Enyimba International FC.png" height="25px"> Enyimba</p> |
+| <p align="center">24'</p> | <p align="right">Lobi Stars <img src="/static/logos/Lobi Stars FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Enyimba International FC.png" height="25px"> Enyimba</p> |
 | <p align="center">15:30</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo Stars FC.png" height="25px"> Remo Stars</p> |
 | <p align="center">18:00</p> | <p align="right">Bendel Ins. <img src="/static/logos/Bendel Insurance.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sunshine Stars FC.png" height="25px"> Sunshine</p> |
 </div>
@@ -359,7 +359,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">57'</p> | <p align="right">Venezuela <img src="/static/logos/Venezuela Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Costa Rica Under 23.png" height="25px"> Costa Rica</p> |
+| <p align="center">68'</p> | <p align="right">Venezuela <img src="/static/logos/Venezuela Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Costa Rica Under 23.png" height="25px"> Costa Rica</p> |
 | <p align="center">15:30</p> | <p align="right">France <img src="/static/logos/France Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Saudi Arabia Under 23.png" height="25px"> Saudi Arabia</p> |
 </div>
 
