@@ -184,7 +184,7 @@
           "startDate": "2023-06-05T17:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -336,7 +336,7 @@
         {
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
-            "type": "EXTRA_TIME_PENDING",
+            "type": "EXTRA_TIME_FIRST_HALF",
             "minute": 97,
             "extra": 0
           },
@@ -382,12 +382,16 @@
       "matches": [
         {
           "startDate": "2023-06-05T19:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "GUA",
             "short": "Guabir\u00E1",
@@ -406,7 +410,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -959,16 +966,12 @@
         },
         {
           "startDate": "2023-06-05T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ZAM",
             "short": "Zamalek",
@@ -1008,7 +1011,7 @@
           "startDate": "2023-06-05T18:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -1101,7 +1104,7 @@
           "startDate": "2023-06-05T17:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 72,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -1572,7 +1575,7 @@
           "startDate": "2023-06-05T17:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -1599,7 +1602,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -1609,7 +1612,7 @@
           "startDate": "2023-06-05T18:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -1755,7 +1758,7 @@
           "startDate": "2023-06-05T18:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -1792,7 +1795,7 @@
           "startDate": "2023-06-05T18:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -1820,7 +1823,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1872,8 +1875,8 @@
           "startDate": "2023-06-05T17:10:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
+            "minute": 90,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -2080,9 +2083,9 @@
         {
           "startDate": "2023-06-05T17:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
+            "type": "EXTRA_TIME_PENDING",
+            "minute": 104,
+            "extra": 0
           },
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
