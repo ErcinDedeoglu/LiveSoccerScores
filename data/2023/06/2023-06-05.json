@@ -660,8 +660,8 @@
           "startDate": "2023-06-05T08:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -695,16 +695,12 @@
         },
         {
           "startDate": "2023-06-05T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GLH",
             "short": "Lanhang",
@@ -732,16 +728,12 @@
         },
         {
           "startDate": "2023-06-05T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "QUY",
             "short": "Quanzhou",
@@ -771,7 +763,7 @@
           "startDate": "2023-06-05T09:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -798,7 +790,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
