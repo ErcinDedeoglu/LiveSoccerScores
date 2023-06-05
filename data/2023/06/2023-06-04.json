@@ -931,16 +931,12 @@
         },
         {
           "startDate": "2023-06-04T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 74,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NJY",
             "short": "Gotham FC",
@@ -1499,16 +1495,12 @@
       "matches": [
         {
           "startDate": "2023-06-04T23:05:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura - Quadrangular",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AGD",
             "short": "\u00C1guilas D",
@@ -1525,7 +1517,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 0,
@@ -2140,16 +2132,12 @@
         },
         {
           "startDate": "2023-06-04T23:10:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 37,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SMT",
             "short": "SM Tucum\u00E1n",
@@ -2169,8 +2157,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2853,36 +2841,6 @@
       },
       "matches": [
         {
-          "startDate": "2023-06-04T06:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "GCU",
-            "short": "Gold Coast Utd",
-            "long": "Gold Coast United",
-            "full": "Gold Coast United FC",
-            "name": "Gold Coast Utd"
-          },
-          "teamB": {
-            "code": "QAS",
-            "short": "FQ QAS",
-            "long": "FQ QAS",
-            "full": "Football Queensland QAS",
-            "name": "FQ QAS"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
           "startDate": "2023-06-04T07:15:00Z",
           "period": null,
           "round": {
@@ -3114,7 +3072,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "EMJ",
             "short": "Emerging Jets",
@@ -3133,7 +3091,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 6
+          },
           "agg": null,
           "penalty": null
         },
@@ -3697,16 +3658,12 @@
         },
         {
           "startDate": "2023-06-04T23:30:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 18,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "OP",
             "short": "O. Petrolero",
@@ -3886,16 +3843,12 @@
         },
         {
           "startDate": "2023-06-04T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CON",
             "short": "Confian\u00E7a",
@@ -3923,16 +3876,12 @@
         },
         {
           "startDate": "2023-06-04T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ERE",
             "short": "Erechim",
@@ -3948,7 +3897,7 @@
             "name": "Aparecidense"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -5079,16 +5028,12 @@
         },
         {
           "startDate": "2023-06-04T23:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "1st Round",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GUA",
             "short": "Gualaceo",
@@ -5108,8 +5053,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 3,
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
@@ -7421,16 +7366,12 @@
         },
         {
           "startDate": "2023-06-04T23:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CES",
             "short": "C\u00E9sar Vallejo",
@@ -7446,12 +7387,12 @@
             "name": "UTC Cajamarca"
           },
           "redCards": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 1,
+            "teamB": 1
           },
           "score": {
-            "teamA": 0,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -9144,16 +9085,12 @@
         },
         {
           "startDate": "2023-06-04T22:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CIN",
             "short": "Cincinnati II",
@@ -9181,16 +9118,12 @@
         },
         {
           "startDate": "2023-06-04T23:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HNT",
             "short": "Huntsville",
@@ -9211,23 +9144,19 @@
           },
           "score": {
             "teamA": 3,
-            "teamB": 1
+            "teamB": 4
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-06-04T23:00:00Z",
-          "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NY",
             "short": "New York RB II",
@@ -9247,39 +9176,9 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 4,
             "teamB": 1
           },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-06-04T23:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "ATL",
-            "short": "Atlanta Utd II",
-            "long": "Atlanta United II",
-            "full": "Atlanta United 2",
-            "name": "Atlanta Utd II"
-          },
-          "teamB": {
-            "code": "MIA",
-            "short": "Inter Miami II",
-            "long": "Inter Miami II",
-            "full": "Club Internacional de F\u00FAtbol Miami II",
-            "name": "Inter Miami II"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
           "agg": null,
           "penalty": null
         }
