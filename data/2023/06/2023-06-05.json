@@ -2133,7 +2133,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 24
+            "extra": 56
           },
           "round": {
             "name": "Regular Season",
@@ -2169,7 +2169,7 @@
           "startDate": "2023-06-05T02:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 85,
             "extra": 0
           },
           "round": {
@@ -2196,7 +2196,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
