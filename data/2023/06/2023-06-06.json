@@ -1597,9 +1597,9 @@
         {
           "startDate": "2023-06-06T18:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -1720,9 +1720,9 @@
         {
           "startDate": "2023-06-06T18:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Finals",
@@ -1749,11 +1749,11 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": {
             "teamA": 1,
-            "teamB": 4
+            "teamB": 6
           },
           "penalty": null
         }
@@ -1769,16 +1769,12 @@
       "matches": [
         {
           "startDate": "2023-06-06T17:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-off Decider",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MEM",
             "short": "Memmingen",
@@ -1801,7 +1797,10 @@
             "teamA": 1,
             "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "penalty": null
         }
       ]
@@ -1816,16 +1815,12 @@
       "matches": [
         {
           "startDate": "2023-06-06T17:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "KA",
             "short": "KA",
@@ -2136,7 +2131,7 @@
           "startDate": "2023-06-06T18:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -2163,7 +2158,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2391,7 +2386,7 @@
           "startDate": "2023-06-06T19:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 15,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -2418,7 +2413,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2701,8 +2696,8 @@
         {
           "startDate": "2023-06-06T18:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 47,
             "extra": 0
           },
           "round": {
