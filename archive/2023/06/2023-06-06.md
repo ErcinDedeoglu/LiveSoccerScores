@@ -26,8 +26,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Monagas <img src="/static/logos/Monagas SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
-| <p align="center">HT</p> | <p align="right">Paranaense <img src="/static/logos/Club Athletico Paranaense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Libertad.png" height="25px"> Libertad</p> |
+| <p align="center">60'</p> | <p align="right">Monagas <img src="/static/logos/Monagas SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
+| <p align="center">60'</p> | <p align="right">Paranaense <img src="/static/logos/Club Athletico Paranaense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Libertad.png" height="25px"> Libertad</p> |
 </div>
 
 
@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Cincinnati <img src="/static/logos/FC Cincinnati.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh</p> |
+| <p align="center">14'</p> | <p align="right">Cincinnati <img src="/static/logos/FC Cincinnati.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh</p> |
 </div>
 
 
@@ -47,8 +47,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Peñarol <img src="/static/logos/CA Peñarol.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CSD Defensa y Justicia.png" height="25px"> Def y Justicia</p> |
-| <p align="center">HT</p> | <p align="right">Estudiantes M. <img src="/static/logos/Estudiantes de Mérida FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
+| <p align="center">61'</p> | <p align="right">Peñarol <img src="/static/logos/CA Peñarol.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CSD Defensa y Justicia.png" height="25px"> Def y Justicia</p> |
+| <p align="center">61'</p> | <p align="right">Estudiantes M. <img src="/static/logos/Estudiantes de Mérida FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
 </div>
 
 
@@ -137,9 +137,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Chapecoense <img src="/static/logos/Chapecoense AF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vila Nova FC.png" height="25px"> Vila Nova</p> |
-| <p align="center">HT</p> | <p align="right">Ponte Preta <img src="/static/logos/Associacao Atletica Ponte Preta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
-| <p align="center">HT</p> | <p align="right">Tombense <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/EC Vitória.png" height="25px"> Vitória</p> |
+| <p align="center">59'</p> | <p align="right">Chapecoense <img src="/static/logos/Chapecoense AF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vila Nova FC.png" height="25px"> Vila Nova</p> |
+| <p align="center">59'</p> | <p align="right">Ponte Preta <img src="/static/logos/Associacao Atletica Ponte Preta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
+| <p align="center">58'</p> | <p align="right">Tombense <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/EC Vitória.png" height="25px"> Vitória</p> |
 </div>
 
 
@@ -149,7 +149,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Náutico <img src="/static/logos/Clube Náutico Capibaribe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Volta Redonda FC.png" height="25px"> Volta Redonda</p> |
+| <p align="center">16'</p> | <p align="right">Náutico <img src="/static/logos/Clube Náutico Capibaribe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Volta Redonda FC.png" height="25px"> Volta Redonda</p> |
 </div>
 
 
@@ -159,7 +159,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Potiguar M <img src="/static/logos/ACD Potiguar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sousa EC.png" height="25px"> Sousa</p> |
+| <p align="center">20'</p> | <p align="right">Potiguar M <img src="/static/logos/ACD Potiguar.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sousa EC.png" height="25px"> Sousa</p> |
 </div>
 
 
@@ -204,7 +204,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Cortuluá <img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Patriotas FC.png" height="25px"> Patriotas</p> |
+| <p align="center">17'</p> | <p align="right">Cortuluá <img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Patriotas FC.png" height="25px"> Patriotas</p> |
 </div>
 
 
