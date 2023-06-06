@@ -333,12 +333,16 @@
       "matches": [
         {
           "startDate": "2023-06-06T10:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Club Friendlies 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "VIS",
             "short": "Vissel Kobe",
@@ -357,7 +361,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1069,16 +1076,12 @@
         },
         {
           "startDate": "2023-06-06T08:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HUB",
             "short": "Istar",
@@ -1884,7 +1887,7 @@
           "startDate": "2023-06-06T09:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -2720,7 +2723,7 @@
           "startDate": "2023-06-06T10:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 14,
+            "minute": 32,
             "extra": 0
           },
           "round": {
