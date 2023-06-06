@@ -233,12 +233,16 @@
       "matches": [
         {
           "startDate": "2023-06-06T14:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "FAT",
             "short": "Fatih",
@@ -257,18 +261,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-06-06T14:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "S\u0130V",
             "short": "Sivasspor",
@@ -287,7 +298,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -680,9 +694,9 @@
         {
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 51,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2431,9 +2445,9 @@
         {
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2468,9 +2482,9 @@
         {
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -2516,7 +2530,7 @@
           "startDate": "2023-06-06T12:00:00Z",
           "period": {
             "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 91,
+            "minute": 103,
             "extra": 0
           },
           "round": {
@@ -2552,9 +2566,9 @@
         {
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "1st Round",
