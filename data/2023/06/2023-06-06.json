@@ -235,7 +235,7 @@
           "startDate": "2023-06-06T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -272,7 +272,7 @@
           "startDate": "2023-06-06T14:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -695,7 +695,7 @@
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -2409,7 +2409,7 @@
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -2446,7 +2446,7 @@
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 67,
             "extra": 0
           },
           "round": {
@@ -2483,7 +2483,7 @@
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -2511,7 +2511,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 2
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -2530,7 +2530,7 @@
           "startDate": "2023-06-06T12:00:00Z",
           "period": {
             "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 109,
+            "minute": 117,
             "extra": 0
           },
           "round": {
@@ -2567,7 +2567,7 @@
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 66,
             "extra": 0
           },
           "round": {
