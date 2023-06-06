@@ -58,8 +58,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Fatih <img src="/static/logos/Fatih Karagümrük Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kasımpaşa Spor Kulübü.png" height="25px"> Kasımpaşa</p> |
-| <p align="center">HT</p> | <p align="right">Sivasspor <img src="/static/logos/Sivasspor Kulübü.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kayseri Spor Kulübü.png" height="25px"> Kayseri</p> |
+| <p align="center">68'</p> | <p align="right">Fatih <img src="/static/logos/Fatih Karagümrük Spor Kulübü.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kasımpaşa Spor Kulübü.png" height="25px"> Kasımpaşa</p> |
+| <p align="center">66'</p> | <p align="right">Sivasspor <img src="/static/logos/Sivasspor Kulübü.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Kayseri Spor Kulübü.png" height="25px"> Kayseri</p> |
 | <p align="center">17:00</p> | <p align="right">Başakşehir <img src="/static/logos/Medipol İstanbul Başakşehir Futbol Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Trabzonspor Kulübü.png" height="25px"> Trabzonspor</p> |
 </div>
 
@@ -116,8 +116,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Alashkert <img src="/static/logos/Alashkert FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Pyunik FC.png" height="25px"> Pyunik</p> |
-| <p align="center">15:00</p> | <p align="right">Urartu <img src="/static/logos/FC Urartu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Ararat.png" height="25px"> Ararat</p> |
+| <p align="center">FT</p> | <p align="right">Alashkert <img src="/static/logos/Alashkert FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Pyunik FC.png" height="25px"> Pyunik</p> |
+| <p align="center">22'</p> | <p align="right">Urartu <img src="/static/logos/FC Urartu.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Ararat.png" height="25px"> Ararat</p> |
 </div>
 
 
@@ -249,7 +249,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Kuressaare <img src="/static/logos/FC Kuressaare.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tallinna FCI Levadia.png" height="25px"> Levadia</p> |
+| <p align="center">25'</p> | <p align="right">Kuressaare <img src="/static/logos/FC Kuressaare.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tallinna FCI Levadia.png" height="25px"> Levadia</p> |
 | <p align="center">17:00</p> | <p align="right">Kalju <img src="/static/logos/Nõmme Kalju FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pärnu JK Vaprus.png" height="25px"> Vaprus</p> |
 </div>
 
@@ -312,7 +312,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Tukums <img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Auda Riga.png" height="25px"> Auda</p> |
+| <p align="center">25'</p> | <p align="right">Tukums <img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FK Auda Riga.png" height="25px"> Auda</p> |
 </div>
 
 
@@ -322,7 +322,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Banga <img src="/static/logos/FK Banga Gargždai.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Sūduva Marijampolė.png" height="25px"> Sūduva</p> |
+| <p align="center">24'</p> | <p align="right">Banga <img src="/static/logos/FK Banga Gargždai.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Sūduva Marijampolė.png" height="25px"> Sūduva</p> |
 | <p align="center">17:00</p> | <p align="right">Riteriai <img src="/static/logos/FK Riteriai.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Kauno Žalgiris.png" height="25px"> Kauno Žalgiris</p> |
 </div>
 
@@ -379,9 +379,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Helsingborg <img src="/static/logos/Helsingborgs IF.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Jönköpings Södra IF.png" height="25px"> Jönköpings S</p> |
-| <p align="center">90'</p> | <p align="right">Örgryte <img src="/static/logos/Örgryte IS.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Landskrona BoIS.png" height="25px"> Landskrona</p> |
-| <p align="center">89'</p> | <p align="right">Sundsvall <img src="/static/logos/GIF Sundsvall.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/GAIS.png" height="25px"> GAIS</p> |
+| <p align="center">FT</p> | <p align="right">Helsingborg <img src="/static/logos/Helsingborgs IF.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Jönköpings Södra IF.png" height="25px"> Jönköpings S</p> |
+| <p align="center">FT</p> | <p align="right">Örgryte <img src="/static/logos/Örgryte IS.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Landskrona BoIS.png" height="25px"> Landskrona</p> |
+| <p align="center">FT</p> | <p align="right">Sundsvall <img src="/static/logos/GIF Sundsvall.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/GAIS.png" height="25px"> GAIS</p> |
 </div>
 
 
@@ -392,7 +392,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Katrineholms <img src="/static/logos/Katrineholms SK FK.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/IFK Haninge.png" height="25px"> Haninge</p> |
-| <p align="center">89'</p> | <p align="right">Berga <img src="/static/logos/IFK Berga.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Oskarshamns AIK.png" height="25px"> Oskarshamn</p> |
+| <p align="center">FT</p> | <p align="right">Berga <img src="/static/logos/IFK Berga.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Oskarshamns AIK.png" height="25px"> Oskarshamn</p> |
 </div>
 
 
