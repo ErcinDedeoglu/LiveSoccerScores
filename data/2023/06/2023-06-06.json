@@ -1039,7 +1039,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 7
           },
           "round": {
             "name": "Regular Season",
@@ -1075,7 +1075,7 @@
           "startDate": "2023-06-06T08:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -1110,16 +1110,12 @@
         },
         {
           "startDate": "2023-06-06T08:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SSP",
             "short": "Pterosaur",
