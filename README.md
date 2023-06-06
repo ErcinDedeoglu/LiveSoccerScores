@@ -70,7 +70,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Barcelona.png" height="25px"> Barcelona</p> |
+| <p align="center">49'</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Barcelona.png" height="25px"> Barcelona</p> |
 </div>
 
 
@@ -442,8 +442,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Sanna <img src="/static/logos/Sanna Khánh Hòa BVN FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Viettel FC.png" height="25px"> Viettel</p> |
-| <p align="center">21'</p> | <p align="right">SLNA <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh</p> |
+| <p align="center">79'</p> | <p align="right">Sanna <img src="/static/logos/Sanna Khánh Hòa BVN FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Viettel FC.png" height="25px"> Viettel</p> |
+| <p align="center">37'</p> | <p align="right">SLNA <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh</p> |
 </div>
 
 
