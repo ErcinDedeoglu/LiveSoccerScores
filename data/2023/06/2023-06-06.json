@@ -1598,7 +1598,7 @@
           "startDate": "2023-06-06T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -1721,7 +1721,7 @@
           "startDate": "2023-06-06T18:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
+            "minute": 53,
             "extra": 0
           },
           "round": {
@@ -2132,7 +2132,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 0
+            "extra": 3
           },
           "round": {
             "name": "3rd Round",
@@ -2697,7 +2697,7 @@
           "startDate": "2023-06-06T18:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 66,
             "extra": 0
           },
           "round": {
