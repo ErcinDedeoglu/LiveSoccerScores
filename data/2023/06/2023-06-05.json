@@ -1431,36 +1431,6 @@
           },
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-06-05T17:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Group 1",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "AL2",
-            "short": "Aalesund II",
-            "long": "Aalesund II",
-            "full": "Aalesunds FK II",
-            "name": "Aalesund II"
-          },
-          "teamB": {
-            "code": "BRA",
-            "short": "Brattv\u00E5g",
-            "long": "Brattv\u00E5g",
-            "full": "Brattv\u00E5g IL",
-            "name": "Brattv\u00E5g"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
         }
       ]
     },
