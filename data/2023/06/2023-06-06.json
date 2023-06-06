@@ -299,16 +299,12 @@
         },
         {
           "startDate": "2023-06-06T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "\u0130BA",
             "short": "Ba\u015Fak\u015Fehir",
@@ -676,7 +672,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 1
+            "extra": 18
           },
           "round": {
             "name": "1st Round",
@@ -1606,7 +1602,7 @@
           "startDate": "2023-06-06T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -1729,7 +1725,7 @@
           "startDate": "2023-06-06T18:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -1779,7 +1775,7 @@
           "startDate": "2023-06-06T17:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 78,
             "extra": 0
           },
           "round": {
@@ -1826,7 +1822,7 @@
           "startDate": "2023-06-06T17:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -1854,7 +1850,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2143,9 +2139,9 @@
         {
           "startDate": "2023-06-06T18:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "3rd Round",
@@ -2288,16 +2284,12 @@
         },
         {
           "startDate": "2023-06-06T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ROA",
             "short": "R\u00F8a",
@@ -2325,16 +2317,12 @@
         },
         {
           "startDate": "2023-06-06T17:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BRA",
             "short": "Brann",
@@ -2405,12 +2393,16 @@
         },
         {
           "startDate": "2023-06-06T19:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 8,
+            "extra": 0
+          },
           "round": {
             "name": "Promotion Play-offs - Semi-finals",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NIE",
             "short": "Nieciecza",
@@ -2429,7 +2421,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -2711,7 +2706,7 @@
           "startDate": "2023-06-06T18:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 38,
             "extra": 0
           },
           "round": {
@@ -2738,12 +2733,12 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 2,
+            "teamB": 1
           },
           "agg": {
-            "teamA": 3,
-            "teamB": 0
+            "teamA": 4,
+            "teamB": 1
           },
           "penalty": null
         }
@@ -2802,16 +2797,12 @@
       "matches": [
         {
           "startDate": "2023-06-06T17:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - 2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "O67",
             "short": "Orduspor 1967",
