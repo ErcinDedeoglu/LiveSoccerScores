@@ -301,7 +301,7 @@
           "startDate": "2023-06-06T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -675,7 +675,7 @@
           "startDate": "2023-06-06T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -1016,16 +1016,12 @@
       "matches": [
         {
           "startDate": "2023-06-06T16:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Conference League Play-off Group",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BOT",
             "short": "Botev",
@@ -1053,16 +1049,12 @@
         },
         {
           "startDate": "2023-06-06T16:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Conference League Play-off Group",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SLA",
             "short": "Slavia Sofia",
@@ -1687,7 +1679,7 @@
           "startDate": "2023-06-06T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -2099,7 +2091,7 @@
           "startDate": "2023-06-06T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -2146,7 +2138,7 @@
           "startDate": "2023-06-06T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -2193,7 +2185,7 @@
           "startDate": "2023-06-06T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -2230,7 +2222,7 @@
           "startDate": "2023-06-06T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -2257,7 +2249,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -2267,7 +2259,7 @@
           "startDate": "2023-06-06T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 66,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -2304,7 +2296,7 @@
           "startDate": "2023-06-06T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 65,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -2341,7 +2333,7 @@
           "startDate": "2023-06-06T17:05:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -2811,7 +2803,7 @@
           "startDate": "2023-06-06T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -2839,11 +2831,11 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": {
             "teamA": 0,
-            "teamB": 2
+            "teamB": 3
           },
           "penalty": null
         }
