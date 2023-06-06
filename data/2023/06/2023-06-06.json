@@ -10,12 +10,16 @@
       "matches": [
         {
           "startDate": "2023-06-06T02:00:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 57,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "LA",
             "short": "Angel City",
@@ -34,7 +38,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         }
@@ -590,16 +597,12 @@
       "matches": [
         {
           "startDate": "2023-06-06T00:10:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Group B",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RCO",
             "short": "Racing C\u00F3rdoba",
@@ -1313,16 +1316,12 @@
         },
         {
           "startDate": "2023-06-06T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AMC",
             "short": "Am\u00E9rica",
@@ -1343,26 +1342,22 @@
           },
           "score": {
             "teamA": 4,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 4,
-            "teamB": 0
+            "teamB": 1
           },
           "penalty": null
         },
         {
           "startDate": "2023-06-06T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PER",
             "short": "Pereira",
@@ -1382,27 +1377,23 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 2
           },
           "penalty": null
         },
         {
           "startDate": "2023-06-06T00:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 82,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Quarter-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "STF",
             "short": "Santa Fe",
@@ -1422,11 +1413,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 6,
+            "teamA": 7,
             "teamB": 1
           },
           "agg": {
-            "teamA": 8,
+            "teamA": 9,
             "teamB": 2
           },
           "penalty": null
@@ -2665,16 +2656,12 @@
       "matches": [
         {
           "startDate": "2023-06-06T01:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "TAC",
             "short": "Tacoma Def.",
@@ -2821,7 +2808,7 @@
           "teamA": {
             "code": "SEM",
             "short": "M\u00E9diterran\u00E9e",
-            "long": "M\u00E9diterran\u00E9e",
+            "long": "S\u00E9lection M\u00E9diterran\u00E9e",
             "full": "S\u00E9lection M\u00E9diterran\u00E9e XI U21",
             "name": "M\u00E9diterran\u00E9e"
           },
