@@ -2394,9 +2394,9 @@
         {
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -2515,9 +2515,9 @@
         {
           "startDate": "2023-06-06T12:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 91,
+            "extra": 0
           },
           "round": {
             "name": "1st Round",
@@ -2552,7 +2552,7 @@
         {
           "startDate": "2023-06-06T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
             "extra": 1
           },
@@ -2843,16 +2843,12 @@
       "matches": [
         {
           "startDate": "2023-06-06T12:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "QAT",
             "short": "Qatar",
@@ -2868,7 +2864,7 @@
             "name": "Australia"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {

@@ -379,7 +379,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 1'</p> | <p align="right">Helsingborg <img src="/static/logos/Helsingborgs IF.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Jönköpings Södra IF.png" height="25px"> Jönköpings S</p> |
+| <p align="center">HT</p> | <p align="right">Helsingborg <img src="/static/logos/Helsingborgs IF.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Jönköpings Södra IF.png" height="25px"> Jönköpings S</p> |
 | <p align="center">HT</p> | <p align="right">Örgryte <img src="/static/logos/Örgryte IS.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Landskrona BoIS.png" height="25px"> Landskrona</p> |
 | <p align="center">HT</p> | <p align="right">Sundsvall <img src="/static/logos/GIF Sundsvall.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/GAIS.png" height="25px"> GAIS</p> |
 </div>
@@ -391,8 +391,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 3'</p> | <p align="right">Katrineholms <img src="/static/logos/Katrineholms SK FK.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/IFK Haninge.png" height="25px"> Haninge</p> |
-| <p align="center">45' 1'</p> | <p align="right">Berga <img src="/static/logos/IFK Berga.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Oskarshamns AIK.png" height="25px"> Oskarshamn</p> |
+| <p align="center">91'</p> | <p align="right">Katrineholms <img src="/static/logos/Katrineholms SK FK.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/IFK Haninge.png" height="25px"> Haninge</p> |
+| <p align="center">HT</p> | <p align="right">Berga <img src="/static/logos/IFK Berga.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Oskarshamns AIK.png" height="25px"> Oskarshamn</p> |
 </div>
 
 
@@ -453,7 +453,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Qatar <img src="/static/logos/Qatar Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Australia Under 23.png" height="25px"> Australia</p> |
+| <p align="center">FT</p> | <p align="right">Qatar <img src="/static/logos/Qatar Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Australia Under 23.png" height="25px"> Australia</p> |
 | <p align="center">15:30</p> | <p align="right">Méditerranée <img src="/static/logos/Sélection Méditerranée XI U21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mexico Under 23.png" height="25px"> Mexico</p> |
 </div>
 
