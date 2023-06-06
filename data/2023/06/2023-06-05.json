@@ -55,8 +55,8 @@
           "startDate": "2023-06-05T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -82,7 +82,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 4
           },
           "agg": null,
@@ -429,8 +429,8 @@
           "startDate": "2023-06-05T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -456,7 +456,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -476,8 +476,8 @@
           "startDate": "2023-06-05T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 49,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "1st Phase",
@@ -504,7 +504,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -853,7 +853,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHR",
             "short": "Rongcheng",
@@ -872,7 +872,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 3,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -883,7 +886,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "SHP",
             "short": "Port",
@@ -902,7 +905,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         },
@@ -913,7 +919,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "ZHP",
             "short": "Zhejiang",
@@ -932,7 +938,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 1
+          },
           "agg": null,
           "penalty": null
         }
@@ -2115,9 +2124,9 @@
         {
           "startDate": "2023-06-05T23:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 70,
+            "extra": 0
           },
           "round": {
             "name": "Intermediate Round",
