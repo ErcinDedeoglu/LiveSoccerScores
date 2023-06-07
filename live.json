@@ -3690,7 +3690,7 @@
           "startDate": "2023-06-07T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -3727,7 +3727,7 @@
           "startDate": "2023-06-07T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -3814,7 +3814,7 @@
           "startDate": "2023-06-07T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -4411,7 +4411,7 @@
           "startDate": "2023-06-07T11:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -4448,7 +4448,7 @@
           "startDate": "2023-06-07T11:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 70,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -4495,7 +4495,7 @@
           "startDate": "2023-06-07T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -4795,7 +4795,7 @@
           "startDate": "2023-06-07T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -4965,7 +4965,7 @@
           "startDate": "2023-06-07T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -4993,7 +4993,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
