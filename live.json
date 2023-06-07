@@ -2972,8 +2972,8 @@
         {
           "startDate": "2023-06-07T10:00:00Z",
           "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 105,
+            "type": "PENALTY",
+            "minute": 128,
             "extra": 0
           },
           "round": {
@@ -3004,7 +3004,10 @@
             "teamB": 2
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 4
+          }
         },
         {
           "startDate": "2023-06-07T10:00:00Z",
@@ -3173,16 +3176,12 @@
         },
         {
           "startDate": "2023-06-07T10:00:00Z",
-          "period": {
-            "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 108,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SSP",
             "short": "Shimizu",
@@ -3243,16 +3242,12 @@
         },
         {
           "startDate": "2023-06-07T10:00:00Z",
-          "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 105,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VOR",
             "short": "Tokushima",
@@ -3272,7 +3267,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -3313,16 +3308,12 @@
         },
         {
           "startDate": "2023-06-07T10:00:00Z",
-          "period": {
-            "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 108,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "RED",
             "short": "Urawa",
@@ -3525,16 +3516,12 @@
         },
         {
           "startDate": "2023-06-07T10:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GAN",
             "short": "Gangwon",
@@ -3562,16 +3549,12 @@
         },
         {
           "startDate": "2023-06-07T10:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "INC",
             "short": "Incheon Utd",
@@ -4410,9 +4393,9 @@
         {
           "startDate": "2023-06-07T11:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -4439,7 +4422,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -4447,8 +4430,8 @@
         {
           "startDate": "2023-06-07T11:45:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
+            "type": "SECOND_HALF",
+            "minute": 48,
             "extra": 0
           },
           "round": {
@@ -4950,9 +4933,9 @@
         {
           "startDate": "2023-06-07T12:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 17,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Group Stage",
