@@ -2078,7 +2078,7 @@
           "startDate": "2023-06-07T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -2115,7 +2115,7 @@
           "startDate": "2023-06-07T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -2192,7 +2192,7 @@
           "startDate": "2023-06-07T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -2220,7 +2220,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2229,7 +2229,7 @@
           "startDate": "2023-06-07T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -2256,7 +2256,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -2266,7 +2266,7 @@
           "startDate": "2023-06-07T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -2303,7 +2303,7 @@
           "startDate": "2023-06-07T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -2340,7 +2340,7 @@
           "startDate": "2023-06-07T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 23,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -2385,12 +2385,16 @@
       "matches": [
         {
           "startDate": "2023-06-07T15:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "EIF",
             "short": "EIF",
@@ -2409,7 +2413,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2445,12 +2452,16 @@
         },
         {
           "startDate": "2023-06-07T15:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 2,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MP",
             "short": "MP",
@@ -2469,7 +2480,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3639,7 +3653,7 @@
           "startDate": "2023-06-07T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -3965,7 +3979,7 @@
           "startDate": "2023-06-07T15:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -3992,7 +4006,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -4722,12 +4736,16 @@
         },
         {
           "startDate": "2023-06-07T15:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Championship Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "EST",
             "short": "Tunis",
@@ -4746,7 +4764,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -4764,7 +4785,7 @@
           "startDate": "2023-06-07T14:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -4841,7 +4862,7 @@
           "startDate": "2023-06-07T13:00:00Z",
           "period": {
             "type": "EXTRA_TIME_SECOND_HALF",
-            "minute": 106,
+            "minute": 113,
             "extra": 0
           },
           "round": {
@@ -5042,12 +5063,16 @@
         },
         {
           "startDate": "2023-06-07T15:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CIV",
             "short": "C\u00F4te d\u0027Ivoire",
@@ -5066,7 +5091,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
