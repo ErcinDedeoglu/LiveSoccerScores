@@ -2972,9 +2972,9 @@
         {
           "startDate": "2023-06-07T10:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 8
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 92,
+            "extra": 0
           },
           "round": {
             "name": "2nd Round",
@@ -2996,7 +2996,7 @@
             "name": "Toyama"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -3174,8 +3174,8 @@
         {
           "startDate": "2023-06-07T10:00:00Z",
           "period": {
-            "type": "EXTRA_TIME_PENDING",
-            "minute": 95,
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 99,
             "extra": 0
           },
           "round": {
@@ -3244,9 +3244,9 @@
         {
           "startDate": "2023-06-07T10:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 96,
+            "extra": 0
           },
           "round": {
             "name": "2nd Round",
@@ -3314,8 +3314,8 @@
         {
           "startDate": "2023-06-07T10:00:00Z",
           "period": {
-            "type": "EXTRA_TIME_PENDING",
-            "minute": 94,
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 97,
             "extra": 0
           },
           "round": {
@@ -3383,16 +3383,12 @@
         },
         {
           "startDate": "2023-06-07T10:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 7
-          },
+          "period": null,
           "round": {
             "name": "2nd Round",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VEG",
             "short": "Vegalta",
@@ -3531,7 +3527,7 @@
           "startDate": "2023-06-07T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -3568,7 +3564,7 @@
           "startDate": "2023-06-07T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 67,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -4415,7 +4411,7 @@
           "startDate": "2023-06-07T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -4452,7 +4448,7 @@
           "startDate": "2023-06-07T11:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -4953,12 +4949,16 @@
       "matches": [
         {
           "startDate": "2023-06-07T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JPN",
             "short": "Japan",
@@ -4977,7 +4977,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
