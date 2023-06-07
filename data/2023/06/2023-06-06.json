@@ -835,6 +835,49 @@
     },
     {
       "competition": {
+        "name": "Jugendliga U18",
+        "area": {
+          "name": "Austria"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-06-06T11:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "WAC",
+            "short": "WAC",
+            "long": "Wolfsberger AC U18",
+            "full": "Wolfsberger Athletik Club Under 18",
+            "name": "WAC"
+          },
+          "teamB": {
+            "code": "RBA",
+            "short": "RB Akademie",
+            "long": "Red Bull Akademie U18",
+            "full": "Red Bull Akademie Under 18 (FC Salzburg Under 18)",
+            "name": "RB Akademie"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 7
+          },
+          "agg": null,
+          "penalty": null
+        }
+      ]
+    },
+    {
+      "competition": {
         "name": "Serie B",
         "area": {
           "name": "Brazil"
