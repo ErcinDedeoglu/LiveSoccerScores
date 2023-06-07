@@ -81,9 +81,9 @@
         {
           "startDate": "2023-06-07T02:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 72,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -109,7 +109,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -330,9 +330,9 @@
         {
           "startDate": "2023-06-07T02:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 74,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -1971,16 +1971,12 @@
       "matches": [
         {
           "startDate": "2023-06-07T01:05:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Apertura - Quadrangular",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "VLD",
             "short": "Valledupar",
