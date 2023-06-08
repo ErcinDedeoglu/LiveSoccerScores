@@ -889,8 +889,8 @@
           "startDate": "2023-06-08T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -969,7 +969,7 @@
           "startDate": "2023-06-08T19:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -1166,8 +1166,8 @@
           "startDate": "2023-06-08T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "1st Phase",
@@ -1753,7 +1753,7 @@
           "startDate": "2023-06-08T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -1790,7 +1790,7 @@
           "startDate": "2023-06-08T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -1882,8 +1882,8 @@
         {
           "startDate": "2023-06-08T18:30:00Z",
           "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 105,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 116,
             "extra": 0
           },
           "round": {
@@ -1922,8 +1922,8 @@
         {
           "startDate": "2023-06-08T18:30:00Z",
           "period": {
-            "type": "EXTRA_TIME_FIRST_HALF",
-            "minute": 101,
+            "type": "EXTRA_TIME_SECOND_HALF",
+            "minute": 110,
             "extra": 0
           },
           "round": {
@@ -2095,8 +2095,8 @@
           "startDate": "2023-06-08T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Promotion Play-offs - Semi-finals",
@@ -2122,11 +2122,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 1
           },
           "penalty": null
