@@ -889,7 +889,7 @@
           "startDate": "2023-06-08T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -917,7 +917,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -968,9 +968,9 @@
         {
           "startDate": "2023-06-08T19:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 6
+            "type": "SECOND_HALF",
+            "minute": 47,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1166,7 +1166,7 @@
           "startDate": "2023-06-08T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -1589,16 +1589,12 @@
         },
         {
           "startDate": "2023-06-08T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 6
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ASW",
             "short": "Aswan",
@@ -1757,7 +1753,7 @@
           "startDate": "2023-06-08T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -1784,8 +1780,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 1
+            "teamA": 2,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -1794,7 +1790,7 @@
           "startDate": "2023-06-08T19:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -1839,16 +1835,12 @@
       "matches": [
         {
           "startDate": "2023-06-08T18:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 5
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - Final",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAG",
             "short": "Cagliari",
@@ -1869,9 +1861,12 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
-          "agg": null,
+          "agg": {
+            "teamA": 1,
+            "teamB": 1
+          },
           "penalty": null
         }
       ]
@@ -1887,8 +1882,8 @@
         {
           "startDate": "2023-06-08T18:30:00Z",
           "period": {
-            "type": "EXTRA_TIME_PENDING",
-            "minute": 95,
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 105,
             "extra": 0
           },
           "round": {
@@ -1927,9 +1922,9 @@
         {
           "startDate": "2023-06-08T18:30:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 9
+            "type": "EXTRA_TIME_FIRST_HALF",
+            "minute": 101,
+            "extra": 0
           },
           "round": {
             "name": "Promotion Play-offs - Semi-finals",
@@ -1955,11 +1950,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 3
           },
           "penalty": null
@@ -2100,7 +2095,7 @@
           "startDate": "2023-06-08T19:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 79,
             "extra": 0
           },
           "round": {
