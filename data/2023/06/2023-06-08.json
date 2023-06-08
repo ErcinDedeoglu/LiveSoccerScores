@@ -801,7 +801,7 @@
           "startDate": "2023-06-08T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -1529,7 +1529,7 @@
           "startDate": "2023-06-08T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -1605,9 +1605,9 @@
         {
           "startDate": "2023-06-08T15:15:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 55,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1921,16 +1921,12 @@
       "matches": [
         {
           "startDate": "2023-06-08T14:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Final",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "POM",
             "short": "Pomigliano",
@@ -2092,7 +2088,7 @@
           "startDate": "2023-06-08T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -2138,9 +2134,9 @@
         {
           "startDate": "2023-06-08T15:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 4
           },
           "round": {
             "name": "Championship Round",
@@ -2427,9 +2423,9 @@
         {
           "startDate": "2023-06-08T15:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -2456,7 +2452,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
