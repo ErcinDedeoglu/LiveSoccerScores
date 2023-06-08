@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Dallas <img src="/static/logos/FC Dallas.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/St. Louis City SC.png" height="25px"> St. Louis</p> |
-| <p align="center">59'</p> | <p align="right">Los Angeles <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atlanta United FC.png" height="25px"> Atlanta United</p> |
+| <p align="center">FT</p> | <p align="right">Los Angeles <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atlanta United FC.png" height="25px"> Atlanta United</p> |
 </div>
 
 
@@ -169,7 +169,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Whitecaps <img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club de Foot Montréal.png" height="25px"> Montréal</p> |
+| <p align="center">FT</p> | <p align="right">Whitecaps <img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club de Foot Montréal.png" height="25px"> Montréal</p> |
 </div>
 
 
@@ -328,7 +328,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Charleston <img src="/static/logos/Charleston Battery.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Detroit City FC.png" height="25px"> Detroit City</p> |
+| <p align="center">FT</p> | <p align="right">Charleston <img src="/static/logos/Charleston Battery.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Detroit City FC.png" height="25px"> Detroit City</p> |
 </div>
 
 
