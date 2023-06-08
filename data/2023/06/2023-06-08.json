@@ -800,9 +800,9 @@
         {
           "startDate": "2023-06-08T15:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Conference League Play-offs - Final",
@@ -1599,7 +1599,7 @@
           "startDate": "2023-06-08T15:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 28,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -1646,7 +1646,7 @@
           "startDate": "2023-06-08T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -1683,7 +1683,7 @@
           "startDate": "2023-06-08T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -1916,7 +1916,7 @@
           "startDate": "2023-06-08T14:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -2125,7 +2125,7 @@
           "startDate": "2023-06-08T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -2414,7 +2414,7 @@
           "startDate": "2023-06-08T15:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 18,
             "extra": 0
           },
           "round": {
