@@ -166,9 +166,9 @@
         {
           "startDate": "2023-06-08T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 67,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -195,7 +195,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -421,9 +421,9 @@
         {
           "startDate": "2023-06-08T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 66,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -491,9 +491,9 @@
         {
           "startDate": "2023-06-08T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 66,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -528,9 +528,9 @@
         {
           "startDate": "2023-06-08T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 67,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -556,7 +556,7 @@
             "teamB": 1
           },
           "score": {
-            "teamA": 3,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,
@@ -598,9 +598,9 @@
         {
           "startDate": "2023-06-08T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 64,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
@@ -677,16 +677,12 @@
         },
         {
           "startDate": "2023-06-08T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ITA",
             "short": "Italy",
@@ -767,12 +763,16 @@
       "matches": [
         {
           "startDate": "2023-06-08T23:10:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 13,
+            "extra": 0
+          },
           "round": {
             "name": "Group A",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SMT",
             "short": "SM Tucum\u00E1n",
@@ -791,7 +791,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1040,8 +1043,8 @@
           "startDate": "2023-06-08T21:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 60,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -1063,7 +1066,7 @@
             "name": "S\u00E3o Bernardo"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
@@ -1076,8 +1079,8 @@
         {
           "startDate": "2023-06-08T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -1105,19 +1108,23 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-06-08T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 24,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CSA",
             "short": "CSA",
@@ -1136,7 +1143,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1152,16 +1162,12 @@
       "matches": [
         {
           "startDate": "2023-06-08T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SFR",
             "short": "S\u00E3o Francisco",
@@ -1190,9 +1196,9 @@
         {
           "startDate": "2023-06-08T22:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
+            "type": "SECOND_HALF",
+            "minute": 66,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -1218,7 +1224,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 4,
+            "teamA": 5,
             "teamB": 0
           },
           "agg": null,
@@ -1260,9 +1266,9 @@
         {
           "startDate": "2023-06-08T22:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 18,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "1st Phase",
@@ -1297,9 +1303,9 @@
         {
           "startDate": "2023-06-08T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 4
+            "type": "SECOND_HALF",
+            "minute": 64,
+            "extra": 0
           },
           "round": {
             "name": "1st Phase",
@@ -1325,8 +1331,8 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
-            "teamB": 0
+            "teamA": 4,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2416,12 +2422,16 @@
       "matches": [
         {
           "startDate": "2023-06-08T23:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 18,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "MIA",
             "short": "Inter Miami II",
@@ -2440,7 +2450,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
