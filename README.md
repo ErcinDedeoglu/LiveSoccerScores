@@ -267,7 +267,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Pomigliano <img src="/static/logos/ASD Calcio Pomigliano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SS Lazio 2015 ARL.png" height="25px"> Lazio</p> |
+| <p align="center">6'</p> | <p align="right">Pomigliano <img src="/static/logos/ASD Calcio Pomigliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SS Lazio 2015 ARL.png" height="25px"> Lazio</p> |
 </div>
 
 
@@ -277,8 +277,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">PDRM <img src="/static/logos/Polis Di-Raja Malaysia FA.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Sabah.png" height="25px"> Sabah</p> |
-| <p align="center">68'</p> | <p align="right">Pulau Pinang <img src="/static/logos/Penang FA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kuala Lumpur City FC.png" height="25px"> Kuala Lumpur</p> |
+| <p align="center">76'</p> | <p align="right">PDRM <img src="/static/logos/Polis Di-Raja Malaysia FA.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Sabah.png" height="25px"> Sabah</p> |
+| <p align="center">76'</p> | <p align="right">Pulau Pinang <img src="/static/logos/Penang FA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kuala Lumpur City FC.png" height="25px"> Kuala Lumpur</p> |
 </div>
 
 
