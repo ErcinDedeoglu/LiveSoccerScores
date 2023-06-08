@@ -124,9 +124,9 @@
         {
           "startDate": "2023-06-08T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 7
           },
           "round": {
             "name": "Group Stage",
@@ -149,10 +149,10 @@
           },
           "redCards": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
-            "teamA": 1,
+            "teamA": 0,
             "teamB": 0
           },
           "agg": null,
@@ -192,7 +192,7 @@
           "startDate": "2023-06-08T00:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -220,7 +220,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -229,7 +229,7 @@
           "startDate": "2023-06-08T00:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 5,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -256,7 +256,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 0,
             "teamB": 0
           },
           "agg": null,
@@ -305,8 +305,8 @@
         {
           "startDate": "2023-06-08T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 27,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -442,9 +442,9 @@
         {
           "startDate": "2023-06-08T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Group Stage",
@@ -471,7 +471,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -539,9 +539,9 @@
         {
           "startDate": "2023-06-08T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Group Stage",
@@ -568,7 +568,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -765,12 +765,16 @@
       "matches": [
         {
           "startDate": "2023-06-08T00:45:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 17,
+            "extra": 0
+          },
           "round": {
             "name": "1st Round",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "INS",
             "short": "Instituto",
@@ -789,7 +793,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -847,7 +854,7 @@
           "startDate": "2023-06-08T00:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 3,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -924,7 +931,7 @@
           "startDate": "2023-06-08T00:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 34,
             "extra": 0
           },
           "round": {
@@ -951,7 +958,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1240,9 +1247,9 @@
         {
           "startDate": "2023-06-08T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 34,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "1st Phase",
