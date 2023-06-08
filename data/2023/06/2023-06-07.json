@@ -1321,16 +1321,12 @@
         },
         {
           "startDate": "2023-06-07T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ASA",
             "short": "ASA",
@@ -5102,7 +5098,7 @@
     },
     {
       "competition": {
-        "name": "USL Championship",
+        "name": "USL League One",
         "area": {
           "name": "USA"
         }
@@ -5115,51 +5111,7 @@
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
-          "teamA": {
-            "code": "CHS",
-            "short": "Charleston",
-            "long": "Charleston Battery",
-            "full": "Charleston Battery",
-            "name": "Charleston"
-          },
-          "teamB": {
-            "code": "DET",
-            "short": "Detroit City",
-            "long": "Detroit City",
-            "full": "Detroit City FC",
-            "name": "Detroit City"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
-        "name": "USL League One",
-        "area": {
-          "name": "USA"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-06-07T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 67,
-            "extra": 0
-          },
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHA",
             "short": "Red Wolves",
