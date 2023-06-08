@@ -1313,7 +1313,7 @@
           "startDate": "2023-06-08T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1340,7 +1340,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -1350,7 +1350,7 @@
           "startDate": "2023-06-08T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1387,7 +1387,7 @@
           "startDate": "2023-06-08T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -2340,12 +2340,16 @@
       "matches": [
         {
           "startDate": "2023-06-08T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 14,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KSA",
             "short": "Saudi Arabia",
@@ -2364,7 +2368,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
