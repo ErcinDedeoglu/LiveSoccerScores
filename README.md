@@ -27,7 +27,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11'</p> | <p align="right">Sparta <img src="/static/logos/Sparta Rotterdam.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Twente.png" height="25px"> Twente</p> |
+| <p align="center">38'</p> | <p align="right">Sparta <img src="/static/logos/Sparta Rotterdam.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Twente.png" height="25px"> Twente</p> |
 </div>
 
 
@@ -78,7 +78,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Uruguay <img src="/static/logos/Uruguay Under 20.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Israel Under 20.png" height="25px"> Israel</p> |
+| <p align="center">53'</p> | <p align="right">Uruguay <img src="/static/logos/Uruguay Under 20.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Israel Under 20.png" height="25px"> Israel</p> |
 | <p align="center">21:00</p> | <p align="right">Italy <img src="/static/logos/Italy Under 20.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Korea Republic Under 20.png" height="25px"> Korea Rep.</p> |
 </div>
 
@@ -204,7 +204,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ismaily <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Geish</p> |
-| <p align="center">18:30</p> | <p align="right">Aswan <img src="/static/logos/Aswan SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"> Mokawloon</p> |
+| <p align="center">9'</p> | <p align="right">Aswan <img src="/static/logos/Aswan SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"> Mokawloon</p> |
 </div>
 
 
@@ -246,7 +246,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:30</p> | <p align="right">Cagliari <img src="/static/logos/Cagliari Calcio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SSC Bari.png" height="25px"> Bari</p> |
+| <p align="center">8'</p> | <p align="right">Cagliari <img src="/static/logos/Cagliari Calcio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SSC Bari.png" height="25px"> Bari</p> |
 </div>
 
 
@@ -256,8 +256,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:30</p> | <p align="right">Cesena <img src="/static/logos/Cesena FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Calcio Lecco 1912.png" height="25px"> Lecco</p> |
-| <p align="center">18:30</p> | <p align="right">Pescara <img src="/static/logos/Delfino Pescara 1936.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Foggia Calcio 1920.png" height="25px"> Foggia</p> |
+| <p align="center">9'</p> | <p align="right">Cesena <img src="/static/logos/Cesena FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Calcio Lecco 1912.png" height="25px"> Lecco</p> |
+| <p align="center">9'</p> | <p align="right">Pescara <img src="/static/logos/Delfino Pescara 1936.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Foggia Calcio 1920.png" height="25px"> Foggia</p> |
 </div>
 
 
@@ -318,7 +318,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Pendik <img src="/static/logos/Pendik Spor Kulübü.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bodrumspor AŞ.png" height="25px"> Bodrumspor</p> |
+| <p align="center">72'</p> | <p align="right">Pendik <img src="/static/logos/Pendik Spor Kulübü.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bodrumspor AŞ.png" height="25px"> Bodrumspor</p> |
 </div>
 
 
