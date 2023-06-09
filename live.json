@@ -1168,16 +1168,12 @@
       "matches": [
         {
           "startDate": "2023-06-09T19:15:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AEG",
             "short": "\u00C6gir",
@@ -1511,7 +1507,7 @@
           "startDate": "2023-06-09T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 2,
+            "minute": 11,
             "extra": 0
           },
           "round": {
