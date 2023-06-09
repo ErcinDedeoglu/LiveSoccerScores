@@ -654,9 +654,9 @@
         {
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -745,8 +745,8 @@
           "startDate": "2023-06-09T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Finals",
@@ -1007,8 +1007,8 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 40,
-            "extra": 0
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Conference League Play-offs - Final",
@@ -1083,9 +1083,9 @@
         {
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -1131,7 +1131,7 @@
           "startDate": "2023-06-09T16:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -1287,7 +1287,7 @@
           "startDate": "2023-06-09T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 80,
+            "minute": 87,
             "extra": 0
           },
           "round": {
@@ -1905,9 +1905,9 @@
         {
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Regular Season",
@@ -1953,8 +1953,8 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 42,
-            "extra": 0
+            "minute": 45,
+            "extra": 5
           },
           "round": {
             "name": "S\u00F6dra",
@@ -2000,8 +2000,8 @@
           "startDate": "2023-06-09T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -2035,16 +2035,12 @@
         },
         {
           "startDate": "2023-06-09T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "UPP",
             "short": "Uppsala",
@@ -2074,8 +2070,8 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 41,
-            "extra": 0
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
