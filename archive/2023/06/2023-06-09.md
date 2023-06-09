@@ -143,7 +143,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Beroe <img src="/static/logos/PFK Beroe Stara Zagora.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Sportist 2009 Svoge.png" height="25px"> Svoge</p> |
+| <p align="center">FT</p> | <p align="right">Beroe <img src="/static/logos/PFK Beroe Stara Zagora.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Sportist 2009 Svoge.png" height="25px"> Svoge</p> |
 </div>
 
 
@@ -177,7 +177,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 3'</p> | <p align="right">Viborg <img src="/static/logos/Viborg FF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> Midtjylland</p> |
+| <p align="center">HT</p> | <p align="right">Viborg <img src="/static/logos/Viborg FF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> Midtjylland</p> |
 </div>
 
 
@@ -198,7 +198,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">61'</p> | <p align="right">Ansbach <img src="/static/logos/SpVgg Ansbach 09.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Memmingen 07.png" height="25px"> Memmingen</p> |
+| <p align="center">70'</p> | <p align="right">Ansbach <img src="/static/logos/SpVgg Ansbach 09.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Memmingen 07.png" height="25px"> Memmingen</p> |
 </div>
 
 
@@ -220,7 +220,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Metta <img src="/static/logos/FK Metta.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/FK Rīgas Futbola skola.png" height="25px"> RFS</p> |
 | <p align="center">FT</p> | <p align="right">Valmiera <img src="/static/logos/FK Valmiera.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Riga FC.png" height="25px"> Riga</p> |
-| <p align="center">87'</p> | <p align="right">Liepāja <img src="/static/logos/FK Liepāja.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/SK Super Nova.png" height="25px"> Super Nova</p> |
+| <p align="center">FT</p> | <p align="right">Liepāja <img src="/static/logos/FK Liepāja.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/SK Super Nova.png" height="25px"> Super Nova</p> |
 </div>
 
 
@@ -302,7 +302,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 5'</p> | <p align="right">Torns <img src="/static/logos/Torns IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ariana FC.png" height="25px"> Ariana</p> |
+| <p align="center">HT</p> | <p align="right">Torns <img src="/static/logos/Torns IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ariana FC.png" height="25px"> Ariana</p> |
 </div>
 
 
@@ -312,9 +312,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 3'</p> | <p align="right">Linköping <img src="/static/logos/Linköpings FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Vittsjö GIK.png" height="25px"> Vittsjö</p> |
+| <p align="center">FT</p> | <p align="right">Linköping <img src="/static/logos/Linköpings FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Vittsjö GIK.png" height="25px"> Vittsjö</p> |
 | <p align="center">FT</p> | <p align="right">Uppsala <img src="/static/logos/IK Uppsala Fotboll.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Rosengård.png" height="25px"> Rosengård</p> |
-| <p align="center">45' 2'</p> | <p align="right">Kalmar <img src="/static/logos/IFK Kalmar.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Djurgårdens IF DFF.png" height="25px"> Djurgården</p> |
+| <p align="center">HT</p> | <p align="right">Kalmar <img src="/static/logos/IFK Kalmar.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Djurgårdens IF DFF.png" height="25px"> Djurgården</p> |
 </div>
 
 

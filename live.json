@@ -743,16 +743,12 @@
       "matches": [
         {
           "startDate": "2023-06-09T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Finals",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BSZ",
             "short": "Beroe",
@@ -1006,9 +1002,9 @@
         {
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 4
           },
           "round": {
             "name": "Conference League Play-offs - Final",
@@ -1131,7 +1127,7 @@
           "startDate": "2023-06-09T16:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -1285,16 +1281,12 @@
         },
         {
           "startDate": "2023-06-09T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 87,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LIE",
             "short": "Liep\u0101ja",
@@ -1952,9 +1944,9 @@
         {
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 5
+            "extra": 7
           },
           "round": {
             "name": "S\u00F6dra",
@@ -1998,16 +1990,12 @@
       "matches": [
         {
           "startDate": "2023-06-09T16:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LIN",
             "short": "Link\u00F6ping",
@@ -2069,9 +2057,9 @@
         {
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
