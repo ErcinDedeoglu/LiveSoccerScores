@@ -427,7 +427,7 @@
           "startDate": "2023-06-09T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -507,7 +507,7 @@
           "startDate": "2023-06-09T10:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 69,
+            "minute": 79,
             "extra": 0
           },
           "round": {
@@ -816,7 +816,7 @@
           "startDate": "2023-06-09T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -853,7 +853,7 @@
           "startDate": "2023-06-09T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -890,7 +890,7 @@
           "startDate": "2023-06-09T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 31,
             "extra": 0
           },
           "round": {
@@ -927,7 +927,7 @@
           "startDate": "2023-06-09T11:35:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -2046,9 +2046,9 @@
         {
           "startDate": "2023-06-09T11:00:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 1
+            "type": "SECOND_HALF",
+            "minute": 48,
+            "extra": 0
           },
           "round": {
             "name": "Final",
@@ -2215,12 +2215,16 @@
       "matches": [
         {
           "startDate": "2023-06-09T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 4,
+            "extra": 0
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "AUS",
             "short": "Australia",
@@ -2239,7 +2243,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
