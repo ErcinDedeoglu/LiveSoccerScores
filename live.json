@@ -655,7 +655,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -682,7 +682,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -745,7 +745,7 @@
           "startDate": "2023-06-09T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -1007,7 +1007,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -1084,7 +1084,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -1130,9 +1130,9 @@
         {
           "startDate": "2023-06-09T16:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 36,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
           },
           "round": {
             "name": "Promotion Play-off Decider",
@@ -1159,11 +1159,11 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 3
           },
           "penalty": null
         }
@@ -1287,7 +1287,7 @@
           "startDate": "2023-06-09T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1443,8 +1443,8 @@
           "startDate": "2023-06-09T15:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Championship Round",
@@ -1910,7 +1910,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -1937,7 +1937,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -1957,7 +1957,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 9,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -2004,7 +2004,7 @@
           "startDate": "2023-06-09T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 70,
             "extra": 0
           },
           "round": {
@@ -2041,7 +2041,7 @@
           "startDate": "2023-06-09T16:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -2078,7 +2078,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -2106,7 +2106,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2322,16 +2322,12 @@
         },
         {
           "startDate": "2023-06-09T15:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MEX",
             "short": "Mexico",
