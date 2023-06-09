@@ -1283,7 +1283,7 @@
           "startDate": "2023-06-09T12:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 61,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -1320,7 +1320,7 @@
           "startDate": "2023-06-09T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -1367,7 +1367,7 @@
           "startDate": "2023-06-09T13:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 34,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -2210,7 +2210,7 @@
           "startDate": "2023-06-09T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 82,
             "extra": 0
           },
           "round": {
