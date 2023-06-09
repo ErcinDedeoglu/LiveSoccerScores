@@ -1507,7 +1507,7 @@
           "startDate": "2023-06-09T21:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 20,
+            "minute": 34,
             "extra": 0
           },
           "round": {
