@@ -86,12 +86,16 @@
       "matches": [
         {
           "startDate": "2023-06-09T18:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 6,
+            "extra": 0
+          },
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BAC",
             "short": "Barracas C",
@@ -110,7 +114,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -307,7 +314,7 @@
           "startDate": "2023-06-09T18:15:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 20,
             "extra": 0
           },
           "round": {
@@ -392,12 +399,16 @@
       "matches": [
         {
           "startDate": "2023-06-09T18:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 5,
+            "extra": 0
+          },
           "round": {
             "name": "Clausura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "COL",
             "short": "Colegiales",
@@ -416,7 +427,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -662,7 +676,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 63,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -689,7 +703,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -1010,7 +1024,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -1038,7 +1052,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1087,7 +1101,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -1132,16 +1146,12 @@
       "matches": [
         {
           "startDate": "2023-06-09T16:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-off Decider",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ANS",
             "short": "Ansbach",
@@ -1475,7 +1485,7 @@
           "startDate": "2023-06-09T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -1912,7 +1922,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 81,
             "extra": 0
           },
           "round": {
@@ -1940,7 +1950,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -1959,7 +1969,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -2072,7 +2082,7 @@
           "startDate": "2023-06-09T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 76,
             "extra": 0
           },
           "round": {
