@@ -808,7 +808,7 @@
           "startDate": "2023-06-09T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 76,
             "extra": 0
           },
           "round": {
@@ -845,7 +845,7 @@
           "startDate": "2023-06-09T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -872,7 +872,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 2
           },
           "agg": null,
@@ -882,7 +882,7 @@
           "startDate": "2023-06-09T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 74,
             "extra": 0
           },
           "round": {
@@ -919,7 +919,7 @@
           "startDate": "2023-06-09T11:35:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 52,
+            "minute": 73,
             "extra": 0
           },
           "round": {
@@ -1298,9 +1298,9 @@
         {
           "startDate": "2023-06-09T12:15:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -1334,12 +1334,16 @@
         },
         {
           "startDate": "2023-06-09T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "TRG",
             "short": "Terengganu",
@@ -1358,7 +1362,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -1374,12 +1381,16 @@
       "matches": [
         {
           "startDate": "2023-06-09T13:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Championship Round",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "RIV",
             "short": "Rivers Utd",
@@ -1398,7 +1409,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2044,16 +2058,12 @@
       "matches": [
         {
           "startDate": "2023-06-09T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Final",
             "display": true
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "YAR",
             "short": "FSC Mariupol",
@@ -2215,8 +2225,8 @@
         {
           "startDate": "2023-06-09T12:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
+            "type": "SECOND_HALF",
+            "minute": 47,
             "extra": 0
           },
           "round": {
