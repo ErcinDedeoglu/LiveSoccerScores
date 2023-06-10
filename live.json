@@ -6083,9 +6083,9 @@
         {
           "startDate": "2023-06-10T02:00:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
+            "type": "PENALTY",
+            "minute": 93,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -6115,7 +6115,10 @@
             "teamB": 3
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 3
+          }
         }
       ]
     },
