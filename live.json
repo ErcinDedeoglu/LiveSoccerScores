@@ -318,7 +318,7 @@
           "startDate": "2023-06-10T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 25,
             "extra": 0
           },
           "round": {
@@ -464,9 +464,9 @@
         {
           "startDate": "2023-06-10T21:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 8
           },
           "round": {
             "name": "Regular Season",
@@ -501,9 +501,9 @@
         {
           "startDate": "2023-06-10T21:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -1289,7 +1289,7 @@
           "startDate": "2023-06-10T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -2196,7 +2196,7 @@
           "startDate": "2023-06-10T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -2540,7 +2540,7 @@
           "startDate": "2023-06-10T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 56,
+            "minute": 64,
             "extra": 0
           },
           "round": {
@@ -2970,7 +2970,7 @@
           "startDate": "2023-06-10T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 54,
             "extra": 0
           },
           "round": {
@@ -3007,7 +3007,7 @@
           "startDate": "2023-06-10T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 54,
             "extra": 0
           },
           "round": {
@@ -3166,8 +3166,8 @@
           "startDate": "2023-06-10T20:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "1st Round",
@@ -3190,7 +3190,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 0,
@@ -5159,16 +5159,12 @@
         },
         {
           "startDate": "2023-06-10T20:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CAN",
             "short": "Acad. Cantolao",
