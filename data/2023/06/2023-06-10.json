@@ -618,7 +618,7 @@
           "startDate": "2023-06-10T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -655,7 +655,7 @@
           "startDate": "2023-06-10T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -682,7 +682,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -2679,7 +2679,7 @@
           "startDate": "2023-06-10T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -2706,7 +2706,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -3607,7 +3607,7 @@
           "startDate": "2023-06-10T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -3895,7 +3895,7 @@
           "startDate": "2023-06-10T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -3973,16 +3973,12 @@
         },
         {
           "startDate": "2023-06-10T09:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GYE",
             "short": "Gyeongnam",
@@ -4002,7 +3998,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -4012,7 +4008,7 @@
           "startDate": "2023-06-10T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -4955,7 +4951,7 @@
           "startDate": "2023-06-10T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 71,
             "extra": 0
           },
           "round": {
@@ -4992,7 +4988,7 @@
           "startDate": "2023-06-10T10:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -5019,7 +5015,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -5288,7 +5284,7 @@
           "startDate": "2023-06-10T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 28,
             "extra": 0
           },
           "round": {
@@ -5325,7 +5321,7 @@
           "startDate": "2023-06-10T11:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 13,
+            "minute": 28,
             "extra": 0
           },
           "round": {
