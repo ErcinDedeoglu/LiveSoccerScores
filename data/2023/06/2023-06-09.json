@@ -975,16 +975,12 @@
       "matches": [
         {
           "startDate": "2023-06-09T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 84,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Semi-finals",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "PER",
             "short": "Pereira",
@@ -1005,9 +1001,12 @@
           },
           "score": {
             "teamA": 2,
-            "teamB": 2
+            "teamB": 3
           },
-          "agg": null,
+          "agg": {
+            "teamA": 2,
+            "teamB": 3
+          },
           "penalty": null
         }
       ]
