@@ -6082,16 +6082,12 @@
         },
         {
           "startDate": "2023-06-10T02:00:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 93,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SLC",
             "short": "Real Monarchs",
@@ -6116,8 +6112,8 @@
           },
           "agg": null,
           "penalty": {
-            "teamA": 4,
-            "teamB": 3
+            "teamA": 5,
+            "teamB": 4
           }
         }
       ]
