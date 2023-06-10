@@ -2566,12 +2566,16 @@
         },
         {
           "startDate": "2023-06-10T11:30:00Z",
-          "period": null,
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 1
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JID",
             "short": "Jiading",
@@ -2590,15 +2594,18 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-06-10T11:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
+            "type": "SECOND_HALF",
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -2676,16 +2683,12 @@
         },
         {
           "startDate": "2023-06-10T11:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DXC",
             "short": "Zhixing",
@@ -2705,7 +2708,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -2714,8 +2717,8 @@
         {
           "startDate": "2023-06-10T11:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
+            "type": "SECOND_HALF",
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -2743,7 +2746,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -3536,8 +3539,8 @@
         {
           "startDate": "2023-06-10T11:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
+            "type": "SECOND_HALF",
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -3565,11 +3568,11 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": {
             "teamA": 1,
-            "teamB": 1
+            "teamB": 2
           },
           "penalty": null
         }
@@ -3902,16 +3905,12 @@
         },
         {
           "startDate": "2023-06-10T11:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "DJO",
             "short": "Daejeon",
@@ -3931,7 +3930,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -4015,16 +4014,12 @@
         },
         {
           "startDate": "2023-06-10T11:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BUS",
             "short": "Busan IPark",
@@ -5283,16 +5278,12 @@
       "matches": [
         {
           "startDate": "2023-06-10T11:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "GEF",
             "short": "Gefle",
@@ -5312,24 +5303,20 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
-            "teamB": 0
+            "teamA": 3,
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-06-10T11:00:00Z",
-          "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "V\u00C4S",
             "short": "V\u00E4ster\u00E5s",
@@ -5349,7 +5336,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 4,
             "teamB": 0
           },
           "agg": null,
@@ -5427,12 +5414,16 @@
       "matches": [
         {
           "startDate": "2023-06-10T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 0
+          },
           "round": {
             "name": "Norra",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "BOD",
             "short": "Boden",
@@ -5451,7 +5442,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         },
@@ -5899,106 +5893,6 @@
     },
     {
       "competition": {
-        "name": "Primera Divisi\u00F3n",
-        "area": {
-          "name": "Uruguay"
-        }
-      },
-      "matches": [
-        {
-          "startDate": "2023-06-10T18:30:00Z",
-          "period": null,
-          "round": {
-            "name": "Intermediate Round",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "PE\u00D1",
-            "short": "Pe\u00F1arol",
-            "long": "Pe\u00F1arol",
-            "full": "CA Pe\u00F1arol",
-            "name": "Pe\u00F1arol"
-          },
-          "teamB": {
-            "code": "CAR",
-            "short": "River Plate",
-            "long": "River Plate",
-            "full": "CA River Plate",
-            "name": "River Plate"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-06-10T21:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Intermediate Round",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "DEF",
-            "short": "Def. Sporting",
-            "long": "Defensor Sporting",
-            "full": "Defensor Sporting Club",
-            "name": "Def. Sporting"
-          },
-          "teamB": {
-            "code": "WAN",
-            "short": "Wanderers",
-            "long": "Wanderers",
-            "full": "Montevideo Wanderers FC",
-            "name": "Wanderers"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-06-10T13:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Intermediate Round",
-            "display": false
-          },
-          "status": "POSTPONED",
-          "teamA": {
-            "code": "FEN",
-            "short": "F\u00E9nix",
-            "long": "F\u00E9nix",
-            "full": "CA F\u00E9nix",
-            "name": "F\u00E9nix"
-          },
-          "teamB": {
-            "code": "CER",
-            "short": "Cerro",
-            "long": "Cerro",
-            "full": "Club Atl\u00E9tico Cerro",
-            "name": "Cerro"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": null,
-          "agg": null,
-          "penalty": null
-        }
-      ]
-    },
-    {
-      "competition": {
         "name": "USL Championship",
         "area": {
           "name": "USA"
@@ -6289,12 +6183,16 @@
       "matches": [
         {
           "startDate": "2023-06-10T12:00:00Z",
-          "period": null,
+          "period": {
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
+          },
           "round": {
             "name": "Group Stage",
             "display": true
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "JPN",
             "short": "Japan",
@@ -6313,7 +6211,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
