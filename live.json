@@ -2573,43 +2573,6 @@
         },
         {
           "startDate": "2023-06-10T11:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "LIVE",
-          "teamA": {
-            "code": "JID",
-            "short": "Jiading",
-            "long": "Shanghai Jiading",
-            "full": "Shanghai Jiading Huilong FC",
-            "name": "Jiading"
-          },
-          "teamB": {
-            "code": "JXI",
-            "short": "Xingzhou",
-            "long": "Jinan Xingzhou",
-            "full": "Jinan Xingzhou FC",
-            "name": "Xingzhou"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 0,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-06-10T11:30:00Z",
           "period": null,
           "round": {
             "name": "Regular Season",
@@ -2637,6 +2600,39 @@
           "score": {
             "teamA": 2,
             "teamB": 0
+          },
+          "agg": null,
+          "penalty": null
+        },
+        {
+          "startDate": "2023-06-10T12:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Regular Season",
+            "display": false
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "JID",
+            "short": "Jiading",
+            "long": "Shanghai Jiading",
+            "full": "Shanghai Jiading Huilong FC",
+            "name": "Jiading"
+          },
+          "teamB": {
+            "code": "JXI",
+            "short": "Xingzhou",
+            "long": "Jinan Xingzhou",
+            "full": "Jinan Xingzhou FC",
+            "name": "Xingzhou"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 0,
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -3540,7 +3536,7 @@
           "period": {
             "type": "EXTRA_TIME_FIRST_HALF",
             "minute": 105,
-            "extra": 0
+            "extra": 4
           },
           "round": {
             "name": "Champions League Play-offs - Final",
@@ -4270,7 +4266,7 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
             "extra": 1
           },
@@ -4344,9 +4340,9 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
@@ -4428,9 +4424,9 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "Group 2",
@@ -4465,7 +4461,7 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
             "extra": 3
           },
@@ -4502,9 +4498,9 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "Group 2",
@@ -4539,9 +4535,9 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 4
+            "extra": 5
           },
           "round": {
             "name": "Group 2",
@@ -4720,9 +4716,9 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 1
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -4757,9 +4753,9 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -5269,7 +5265,7 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
             "extra": 3
           },
@@ -5486,9 +5482,9 @@
         {
           "startDate": "2023-06-10T13:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 3
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -5532,16 +5528,12 @@
       "matches": [
         {
           "startDate": "2023-06-10T12:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Norra",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BOD",
             "short": "Boden",
@@ -6183,8 +6175,8 @@
           "startDate": "2023-06-10T12:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
+            "minute": 90,
+            "extra": 6
           },
           "round": {
             "name": "Group Stage",
