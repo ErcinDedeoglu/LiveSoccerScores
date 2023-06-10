@@ -694,7 +694,7 @@
           "startDate": "2023-06-10T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 17,
+            "minute": 35,
             "extra": 0
           },
           "round": {
@@ -1866,7 +1866,7 @@
           "startDate": "2023-06-10T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -3116,12 +3116,16 @@
         },
         {
           "startDate": "2023-06-10T16:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 9,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "KAL",
             "short": "Kalju",
@@ -3140,7 +3144,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         }
@@ -3432,7 +3439,7 @@
           "startDate": "2023-06-10T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 80,
             "extra": 0
           },
           "round": {
@@ -4139,7 +4146,7 @@
           "startDate": "2023-06-10T15:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 64,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -4219,7 +4226,7 @@
           "startDate": "2023-06-10T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 40,
             "extra": 0
           },
           "round": {
@@ -4247,7 +4254,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -4266,7 +4273,7 @@
           "startDate": "2023-06-10T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -4306,7 +4313,7 @@
           "startDate": "2023-06-10T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -4660,7 +4667,7 @@
           "startDate": "2023-06-10T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -4687,7 +4694,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 3,
             "teamB": 0
           },
           "agg": null,
@@ -4839,8 +4846,8 @@
           "startDate": "2023-06-10T14:45:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -5208,7 +5215,7 @@
           "startDate": "2023-06-10T16:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 21,
+            "minute": 39,
             "extra": 0
           },
           "round": {
@@ -5389,9 +5396,9 @@
         {
           "startDate": "2023-06-10T15:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 52,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -5819,9 +5826,9 @@
         {
           "startDate": "2023-06-10T15:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 4
           },
           "round": {
             "name": "Championship Round",
@@ -5856,9 +5863,9 @@
         {
           "startDate": "2023-06-10T15:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 3
           },
           "round": {
             "name": "Championship Round",
@@ -5902,43 +5909,6 @@
       "matches": [
         {
           "startDate": "2023-06-10T14:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
-          },
-          "round": {
-            "name": "Finals",
-            "display": true
-          },
-          "status": "LIVE",
-          "teamA": {
-            "code": "INH",
-            "short": "Inhulets\u0027",
-            "long": "Inhulets\u0027",
-            "full": "FK Inhulets\u0027 Petrove",
-            "name": "Inhulets\u0027"
-          },
-          "teamB": {
-            "code": "LNZ",
-            "short": "LNZ Cherkasy",
-            "long": "LNZ Cherkasy",
-            "full": "LNZ Cherkasy FC",
-            "name": "LNZ Cherkasy"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 1,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
-        },
-        {
-          "startDate": "2023-06-10T14:00:00Z",
           "period": null,
           "round": {
             "name": "Finals",
@@ -5970,6 +5940,42 @@
           "agg": {
             "teamA": 1,
             "teamB": 0
+          },
+          "penalty": null
+        },
+        {
+          "startDate": "2023-06-10T14:30:00Z",
+          "period": null,
+          "round": {
+            "name": "Finals",
+            "display": true
+          },
+          "status": "RESULT",
+          "teamA": {
+            "code": "INH",
+            "short": "Inhulets\u0027",
+            "long": "Inhulets\u0027",
+            "full": "FK Inhulets\u0027 Petrove",
+            "name": "Inhulets\u0027"
+          },
+          "teamB": {
+            "code": "LNZ",
+            "short": "LNZ Cherkasy",
+            "long": "LNZ Cherkasy",
+            "full": "LNZ Cherkasy FC",
+            "name": "LNZ Cherkasy"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": {
+            "teamA": 1,
+            "teamB": 1
+          },
+          "agg": {
+            "teamA": 1,
+            "teamB": 1
           },
           "penalty": null
         }
@@ -6301,9 +6307,9 @@
         {
           "startDate": "2023-06-10T15:30:00Z",
           "period": {
-            "type": "HALF_TIME",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 50,
+            "extra": 0
           },
           "round": {
             "name": "Group Stage",
