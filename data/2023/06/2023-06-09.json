@@ -2278,7 +2278,7 @@
             "name": "Friendlies 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "RESULT",
           "teamA": {
             "code": "NOR",
             "short": "Norway U18",
@@ -2297,7 +2297,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 2,
+            "teamB": 2
+          },
           "agg": null,
           "penalty": null
         }
