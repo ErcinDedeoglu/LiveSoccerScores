@@ -585,7 +585,7 @@
           "startDate": "2023-06-10T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 30,
             "extra": 0
           },
           "round": {
@@ -1245,7 +1245,7 @@
           "startDate": "2023-06-10T06:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 35,
+            "minute": 43,
             "extra": 0
           },
           "round": {
@@ -1558,7 +1558,7 @@
           "startDate": "2023-06-10T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 24,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -1635,7 +1635,7 @@
           "startDate": "2023-06-10T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 22,
+            "minute": 29,
             "extra": 0
           },
           "round": {
@@ -1663,7 +1663,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2458,7 +2458,7 @@
           "startDate": "2023-06-10T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 33,
             "extra": 0
           },
           "round": {
@@ -2495,7 +2495,7 @@
           "startDate": "2023-06-10T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 32,
             "extra": 0
           },
           "round": {
@@ -2530,12 +2530,16 @@
         },
         {
           "startDate": "2023-06-10T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DON",
             "short": "Dongguan Utd",
@@ -2554,7 +2558,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -2630,12 +2637,16 @@
       "matches": [
         {
           "startDate": "2023-06-10T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "ZIQ",
             "short": "Qisheng",
@@ -2654,7 +2665,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3787,12 +3801,16 @@
       "matches": [
         {
           "startDate": "2023-06-10T07:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 3,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "DAE",
             "short": "Daegu",
@@ -3811,7 +3829,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -3889,7 +3910,7 @@
           "startDate": "2023-06-10T07:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 25,
+            "minute": 32,
             "extra": 0
           },
           "round": {
