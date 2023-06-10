@@ -242,7 +242,7 @@
           "startDate": "2023-06-10T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 83,
             "extra": 0
           },
           "round": {
@@ -728,8 +728,8 @@
         {
           "startDate": "2023-06-10T00:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 44,
+            "type": "SECOND_HALF",
+            "minute": 56,
             "extra": 0
           },
           "round": {
@@ -1885,9 +1885,9 @@
         {
           "startDate": "2023-06-10T00:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 3
+            "type": "SECOND_HALF",
+            "minute": 59,
+            "extra": 0
           },
           "round": {
             "name": "Regular Season",
@@ -1913,7 +1913,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -2823,7 +2823,7 @@
           "startDate": "2023-06-10T01:05:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -2851,7 +2851,7 @@
           },
           "score": {
             "teamA": 1,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -2870,7 +2870,7 @@
           "startDate": "2023-06-10T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -2893,12 +2893,12 @@
             "name": "Mushuc Runa"
           },
           "redCards": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "score": {
             "teamA": 3,
-            "teamB": 0
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -4703,7 +4703,7 @@
           "startDate": "2023-06-10T00:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 86,
             "extra": 0
           },
           "round": {
@@ -4731,7 +4731,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -6069,7 +6069,7 @@
           "startDate": "2023-06-10T01:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 44,
             "extra": 0
           },
           "round": {
