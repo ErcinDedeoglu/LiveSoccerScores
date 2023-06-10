@@ -41,7 +41,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11'</p> | <p align="right">Racing Lou <img src="/static/logos/Racing Louisville FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave</p> |
+| <p align="center">32'</p> | <p align="right">Racing Lou <img src="/static/logos/Racing Louisville FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave</p> |
 | <p align="center">23:00</p> | <p align="right">Spirit <img src="/static/logos/Washington Spirit.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Angel City FC.png" height="25px"> Angel City</p> |
 </div>
 
@@ -109,7 +109,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">San Martín SJ <img src="/static/logos/CA San Martín de San Juan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Alvarado Mar del Plata.png" height="25px"> Alvarado</p> |
+| <p align="center">7'</p> | <p align="right">San Martín SJ <img src="/static/logos/CA San Martín de San Juan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Alvarado Mar del Plata.png" height="25px"> Alvarado</p> |
 | <p align="center">17:35</p> | <p align="right">San Telmo <img src="/static/logos/CA San Telmo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Almirante Brown.png" height="25px"> Almirante Br</p> |
 | <p align="center">18:00</p> | <p align="right">Guillermo Br <img src="/static/logos/Club Social y Atlético Guillermo Brown de Puerto Madryn.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Patronato de la Juventud Católica.png" height="25px"> Patronato</p> |
 | <p align="center">18:30</p> | <p align="right">Agropecuario <img src="/static/logos/Club Argentino Agropecuario de Carlos Casares.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Güemes de Santiago del Estero.png" height="25px"> Güemes</p> |
@@ -234,7 +234,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">ABC <img src="/static/logos/ABC FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense</p> |
+| <p align="center">10'</p> | <p align="right">ABC <img src="/static/logos/ABC FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense</p> |
 | <p align="center">19:00</p> | <p align="right">Vila Nova <img src="/static/logos/Vila Nova FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guarani FC de Campinas.png" height="25px"> Guarani</p> |
 | <p align="center">20:00</p> | <p align="right">Ituano <img src="/static/logos/Ituano Futebol Clube.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlético Goianiense.png" height="25px"> Atlético GO</p> |
 | <p align="center">20:00</p> | <p align="right">Novorizontino <img src="/static/logos/Grêmio Novorizontino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sampaio Corrêa FC.png" height="25px"> Sampaio Corrêa</p> |
@@ -327,7 +327,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20'</p> | <p align="right">Universidad <img src="/static/logos/CD Universidad Católica del Ecuador.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mushuc Runa SC.png" height="25px"> Mushuc Runa</p> |
+| <p align="center">40'</p> | <p align="right">Universidad <img src="/static/logos/CD Universidad Católica del Ecuador.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Mushuc Runa SC.png" height="25px"> Mushuc Runa</p> |
 | <p align="center">18:00</p> | <p align="right">Libertad <img src="/static/logos/Libertad Fútbol Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Técnico Universitario.png" height="25px"> Universitario</p> |
 | <p align="center">20:30</p> | <p align="right">LDU Quito <img src="/static/logos/Liga Deportiva Universitaria de Quito.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cumbayá FC.png" height="25px"> Cumbayá</p> |
 | <p align="center">23:00</p> | <p align="right">El Nacional <img src="/static/logos/CD El Nacional Quito.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Cuenca.png" height="25px"> Dep. Cuenca</p> |
@@ -535,7 +535,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Cienciano <img src="/static/logos/Club Cienciano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sport Boys Association.png" height="25px"> Boys</p> |
+| <p align="center">39'</p> | <p align="right">Cienciano <img src="/static/logos/Club Cienciano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sport Boys Association.png" height="25px"> Boys</p> |
 | <p align="center">18:00</p> | <p align="right">Unión Comercio <img src="/static/logos/CD Unión Comercio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Grau.png" height="25px"> Grau</p> |
 | <p align="center">20:30</p> | <p align="right">Acad. Cantolao <img src="/static/logos/Academia Deportiva Cantolao.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Centro Deportivo Municipal.png" height="25px"> Dep. Municipal</p> |
 | <p align="center">23:00</p> | <p align="right">Melgar <img src="/static/logos/FBC Melgar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Escuela Municipal Deportivo Binacional.png" height="25px"> Binacional</p> |

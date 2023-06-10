@@ -121,7 +121,7 @@
           "startDate": "2023-06-09T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 75,
             "extra": 0
           },
           "round": {
@@ -167,8 +167,8 @@
         {
           "startDate": "2023-06-09T23:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 43,
+            "type": "SECOND_HALF",
+            "minute": 46,
             "extra": 0
           },
           "round": {
@@ -985,8 +985,8 @@
           "startDate": "2023-06-09T23:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
-            "extra": 0
+            "minute": 45,
+            "extra": 53
           },
           "round": {
             "name": "Semi-finals",
@@ -1563,9 +1563,9 @@
         {
           "startDate": "2023-06-09T23:30:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 45,
-            "extra": 5
+            "type": "SECOND_HALF",
+            "minute": 49,
+            "extra": 0
           },
           "round": {
             "name": "Apertura",
@@ -2202,7 +2202,7 @@
           "startDate": "2023-06-09T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 57,
+            "minute": 77,
             "extra": 0
           },
           "round": {
@@ -2249,7 +2249,7 @@
           "startDate": "2023-06-09T23:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 78,
             "extra": 0
           },
           "round": {
