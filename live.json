@@ -515,7 +515,7 @@
           "startDate": "2023-06-10T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 46,
+            "minute": 58,
             "extra": 0
           },
           "round": {
@@ -542,7 +542,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -777,7 +777,7 @@
           "startDate": "2023-06-10T17:45:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 29,
+            "minute": 42,
             "extra": 0
           },
           "round": {
@@ -804,7 +804,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 1
           },
           "agg": null,
@@ -814,7 +814,7 @@
           "startDate": "2023-06-10T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 6,
+            "minute": 18,
             "extra": 0
           },
           "round": {
@@ -981,7 +981,7 @@
           "startDate": "2023-06-10T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 54,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -1018,7 +1018,7 @@
           "startDate": "2023-06-10T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 51,
+            "minute": 63,
             "extra": 0
           },
           "round": {
@@ -1053,12 +1053,16 @@
         },
         {
           "startDate": "2023-06-10T18:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 11,
+            "extra": 0
+          },
           "round": {
             "name": "Group 1",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "RAW",
             "short": "Ger Rawson",
@@ -1077,7 +1081,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -1085,7 +1092,7 @@
           "startDate": "2023-06-10T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -1937,7 +1944,7 @@
           "startDate": "2023-06-10T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 55,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -2187,7 +2194,7 @@
           "startDate": "2023-06-10T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 12,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -2314,7 +2321,7 @@
           "startDate": "2023-06-10T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 23,
             "extra": 0
           },
           "round": {
@@ -2351,7 +2358,7 @@
           "startDate": "2023-06-10T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 8,
+            "minute": 19,
             "extra": 0
           },
           "round": {
@@ -2508,7 +2515,7 @@
           "startDate": "2023-06-10T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 11,
+            "minute": 22,
             "extra": 0
           },
           "round": {
@@ -3054,7 +3061,7 @@
           "startDate": "2023-06-10T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -3194,8 +3201,8 @@
           "startDate": "2023-06-10T16:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 83,
-            "extra": 0
+            "minute": 90,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -3221,7 +3228,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -5047,7 +5054,7 @@
           "startDate": "2023-06-10T18:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 10,
+            "minute": 21,
             "extra": 0
           },
           "round": {
@@ -5309,7 +5316,7 @@
           "startDate": "2023-06-10T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 53,
+            "minute": 65,
             "extra": 0
           },
           "round": {
@@ -5349,7 +5356,7 @@
           "startDate": "2023-06-10T17:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 61,
             "extra": 0
           },
           "round": {
@@ -5376,11 +5383,11 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": {
-            "teamA": 2,
+            "teamA": 3,
             "teamB": 3
           },
           "penalty": null
@@ -6316,6 +6323,46 @@
             "teamA": 5,
             "teamB": 4
           }
+        }
+      ]
+    },
+    {
+      "competition": {
+        "name": "U21 National Team Friendlies",
+        "area": {
+          "name": "World"
+        }
+      },
+      "matches": [
+        {
+          "startDate": "2023-06-10T16:00:00Z",
+          "period": null,
+          "round": {
+            "name": "Friendlies 1",
+            "display": false
+          },
+          "status": "FIXTURE",
+          "teamA": {
+            "code": "ENG",
+            "short": "England",
+            "long": "England U21",
+            "full": "England Under 21",
+            "name": "England"
+          },
+          "teamB": {
+            "code": "JPN",
+            "short": "Japan",
+            "long": "Japan U22",
+            "full": "Japan Under 22",
+            "name": "Japan"
+          },
+          "redCards": {
+            "teamA": 0,
+            "teamB": 0
+          },
+          "score": null,
+          "agg": null,
+          "penalty": null
         }
       ]
     },
