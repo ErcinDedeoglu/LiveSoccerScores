@@ -459,7 +459,7 @@
           "startDate": "2023-06-11T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 16,
+            "minute": 26,
             "extra": 0
           },
           "round": {
@@ -3513,7 +3513,7 @@
           "startDate": "2023-06-11T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -3541,7 +3541,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 2
           },
           "agg": null,
           "penalty": null
@@ -3626,7 +3626,7 @@
           "startDate": "2023-06-11T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 58,
+            "minute": 68,
             "extra": 0
           },
           "round": {
@@ -3843,7 +3843,7 @@
           "startDate": "2023-06-11T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 72,
             "extra": 0
           },
           "round": {
@@ -4298,12 +4298,16 @@
       "matches": [
         {
           "startDate": "2023-06-11T11:00:00Z",
-          "period": null,
+          "period": {
+            "type": "SECOND_HALF",
+            "minute": 90,
+            "extra": 0
+          },
           "round": {
             "name": "Promotion Play-offs - Final",
             "display": false
           },
-          "status": "SUSPENDED",
+          "status": "LIVE",
           "teamA": {
             "code": "UNT",
             "short": "Unterhaching",
@@ -5561,8 +5565,8 @@
           "startDate": "2023-06-11T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 7
           },
           "round": {
             "name": "Regular Season",
@@ -7043,16 +7047,12 @@
       "matches": [
         {
           "startDate": "2023-06-11T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 3
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "AFC",
             "short": "AFC Eskilstuna",
@@ -7080,16 +7080,12 @@
         },
         {
           "startDate": "2023-06-11T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BRA",
             "short": "Brage",
@@ -7377,16 +7373,12 @@
       "matches": [
         {
           "startDate": "2023-06-11T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BRO",
             "short": "Brommapojkarna",
@@ -8311,9 +8303,9 @@
         {
           "startDate": "2023-06-11T12:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 5
           },
           "round": {
             "name": "Group Stage",
