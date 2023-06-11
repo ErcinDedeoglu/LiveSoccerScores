@@ -1658,16 +1658,12 @@
       "matches": [
         {
           "startDate": "2023-06-11T03:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 89,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "BRR",
             "short": "Roar",
@@ -4645,9 +4641,9 @@
         {
           "startDate": "2023-06-11T04:05:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 2
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
