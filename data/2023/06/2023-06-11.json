@@ -12,8 +12,8 @@
           "startDate": "2023-06-11T00:20:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 18,
-            "extra": 0
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -47,12 +47,16 @@
         },
         {
           "startDate": "2023-06-11T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 29,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CHI",
             "short": "Chicago",
@@ -71,18 +75,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-06-11T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 29,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "HOU",
             "short": "Houston",
@@ -101,18 +112,25 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
         {
           "startDate": "2023-06-11T00:30:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 29,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SKC",
             "short": "Sporting KC",
@@ -131,7 +149,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 1,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -308,8 +329,8 @@
         {
           "startDate": "2023-06-11T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 30,
+            "type": "HALF_TIME",
+            "minute": 45,
             "extra": 0
           },
           "round": {
@@ -337,7 +358,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 1
+            "teamB": 3
           },
           "agg": null,
           "penalty": null
@@ -489,7 +510,7 @@
           "startDate": "2023-06-11T00:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 37,
             "extra": 0
           },
           "round": {
@@ -516,7 +537,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -535,9 +556,9 @@
         {
           "startDate": "2023-06-11T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 39,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 9
           },
           "round": {
             "name": "Regular Season",
@@ -563,7 +584,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -843,7 +864,7 @@
           "startDate": "2023-06-11T00:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 7,
+            "minute": 36,
             "extra": 0
           },
           "round": {
@@ -919,9 +940,9 @@
         {
           "startDate": "2023-06-11T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 31,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 3
           },
           "round": {
             "name": "Friendlies 1",
@@ -948,7 +969,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -6250,12 +6271,16 @@
       "matches": [
         {
           "startDate": "2023-06-11T01:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Apertura",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "CAM",
             "short": "CA Mannucci",
@@ -6274,7 +6299,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -7459,9 +7487,9 @@
         {
           "startDate": "2023-06-11T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -7488,7 +7516,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "agg": null,
           "penalty": null
@@ -7496,9 +7524,9 @@
         {
           "startDate": "2023-06-11T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 7
           },
           "round": {
             "name": "Regular Season",
@@ -7524,7 +7552,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 2,
             "teamB": 1
           },
           "agg": null,
@@ -7532,12 +7560,16 @@
         },
         {
           "startDate": "2023-06-11T01:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 1,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "SA",
             "short": "San Antonio",
@@ -7556,7 +7588,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -7663,9 +7698,9 @@
         {
           "startDate": "2023-06-11T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 32,
-            "extra": 0
+            "type": "HALF_TIME",
+            "minute": 45,
+            "extra": 4
           },
           "round": {
             "name": "Regular Season",
@@ -7691,7 +7726,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 0,
+            "teamA": 1,
             "teamB": 0
           },
           "agg": null,
@@ -7699,12 +7734,16 @@
         },
         {
           "startDate": "2023-06-11T01:00:00Z",
-          "period": null,
+          "period": {
+            "type": "FIRST_HALF",
+            "minute": 7,
+            "extra": 0
+          },
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "FIXTURE",
+          "status": "LIVE",
           "teamA": {
             "code": "NCO",
             "short": "Hailstorm",
@@ -7723,7 +7762,10 @@
             "teamA": 0,
             "teamB": 0
           },
-          "score": null,
+          "score": {
+            "teamA": 0,
+            "teamB": 0
+          },
           "agg": null,
           "penalty": null
         },
@@ -7770,8 +7812,8 @@
         {
           "startDate": "2023-06-11T00:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
-            "minute": 33,
+            "type": "SECOND_HALF",
+            "minute": 46,
             "extra": 0
           },
           "round": {
