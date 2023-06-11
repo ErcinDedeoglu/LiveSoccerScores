@@ -686,7 +686,7 @@
           "startDate": "2023-06-11T21:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 62,
+            "minute": 69,
             "extra": 0
           },
           "round": {
@@ -713,7 +713,7 @@
             "teamB": 0
           },
           "score": {
-            "teamA": 1,
+            "teamA": 2,
             "teamB": 0
           },
           "agg": null,
@@ -723,7 +723,7 @@
           "startDate": "2023-06-11T21:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 59,
+            "minute": 66,
             "extra": 0
           },
           "round": {
@@ -770,7 +770,7 @@
           "startDate": "2023-06-11T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 81,
+            "minute": 89,
             "extra": 0
           },
           "round": {
@@ -851,7 +851,7 @@
           "period": {
             "type": "SECOND_HALF",
             "minute": 90,
-            "extra": 1
+            "extra": 8
           },
           "round": {
             "name": "Final",
@@ -1066,7 +1066,7 @@
           "startDate": "2023-06-11T22:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 33,
+            "minute": 41,
             "extra": 0
           },
           "round": {
@@ -1727,8 +1727,8 @@
           "startDate": "2023-06-11T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 85,
-            "extra": 0
+            "minute": 90,
+            "extra": 2
           },
           "round": {
             "name": "Group 4",
@@ -2614,8 +2614,8 @@
           "startDate": "2023-06-11T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -2651,7 +2651,7 @@
           "startDate": "2023-06-11T21:15:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 74,
+            "minute": 82,
             "extra": 0
           },
           "round": {
@@ -2833,9 +2833,9 @@
         {
           "startDate": "2023-06-11T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 4
+            "extra": 5
           },
           "round": {
             "name": "Regular Season",
@@ -2870,9 +2870,9 @@
         {
           "startDate": "2023-06-11T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 5
+            "extra": 6
           },
           "round": {
             "name": "Regular Season",
@@ -3015,16 +3015,12 @@
         },
         {
           "startDate": "2023-06-11T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "1st Phase",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HUM",
             "short": "Humait\u00E1",
@@ -3317,9 +3313,9 @@
         {
           "startDate": "2023-06-11T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 4
+            "extra": 5
           },
           "round": {
             "name": "1st Phase",
@@ -3890,8 +3886,8 @@
           "startDate": "2023-06-11T21:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
+            "minute": 90,
+            "extra": 5
           },
           "round": {
             "name": "Apertura - Quadrangular",
@@ -3925,16 +3921,12 @@
         },
         {
           "startDate": "2023-06-11T21:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 88,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura - Quadrangular",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LLA",
             "short": "Llaneros",
@@ -6758,7 +6750,7 @@
           "startDate": "2023-06-11T22:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 19,
+            "minute": 27,
             "extra": 0
           },
           "round": {
@@ -8540,9 +8532,9 @@
         {
           "startDate": "2023-06-11T22:00:00Z",
           "period": {
-            "type": "FIRST_HALF",
+            "type": "HALF_TIME",
             "minute": 45,
-            "extra": 0
+            "extra": 2
           },
           "round": {
             "name": "Regular Season",
