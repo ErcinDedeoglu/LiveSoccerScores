@@ -459,7 +459,7 @@
           "startDate": "2023-06-11T12:30:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 4,
+            "minute": 16,
             "extra": 0
           },
           "round": {
@@ -3513,7 +3513,7 @@
           "startDate": "2023-06-11T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 48,
+            "minute": 59,
             "extra": 0
           },
           "round": {
@@ -3626,7 +3626,7 @@
           "startDate": "2023-06-11T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 47,
+            "minute": 58,
             "extra": 0
           },
           "round": {
@@ -3843,7 +3843,7 @@
           "startDate": "2023-06-11T11:30:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 50,
+            "minute": 62,
             "extra": 0
           },
           "round": {
@@ -4298,16 +4298,12 @@
       "matches": [
         {
           "startDate": "2023-06-11T11:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 69,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Promotion Play-offs - Final",
             "display": false
           },
-          "status": "LIVE",
+          "status": "SUSPENDED",
           "teamA": {
             "code": "UNT",
             "short": "Unterhaching",
@@ -5565,7 +5561,7 @@
           "startDate": "2023-06-11T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 76,
+            "minute": 88,
             "extra": 0
           },
           "round": {
@@ -7049,8 +7045,8 @@
           "startDate": "2023-06-11T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 81,
-            "extra": 0
+            "minute": 90,
+            "extra": 3
           },
           "round": {
             "name": "Regular Season",
@@ -7086,7 +7082,7 @@
           "startDate": "2023-06-11T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 78,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -7383,7 +7379,7 @@
           "startDate": "2023-06-11T11:00:00Z",
           "period": {
             "type": "SECOND_HALF",
-            "minute": 79,
+            "minute": 90,
             "extra": 0
           },
           "round": {
@@ -7411,7 +7407,7 @@
           },
           "score": {
             "teamA": 0,
-            "teamB": 5
+            "teamB": 6
           },
           "agg": null,
           "penalty": null
@@ -8316,8 +8312,8 @@
           "startDate": "2023-06-11T12:00:00Z",
           "period": {
             "type": "FIRST_HALF",
-            "minute": 35,
-            "extra": 0
+            "minute": 45,
+            "extra": 2
           },
           "round": {
             "name": "Group Stage",
