@@ -182,7 +182,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Roar <img src="/static/logos/Brisbane Roar FC Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gold Coast United FC.png" height="25px"> Gold Coast Utd</p> |
+| <p align="center">81'</p> | <p align="right">Roar <img src="/static/logos/Brisbane Roar FC Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gold Coast United FC.png" height="25px"> Gold Coast Utd</p> |
 | <p align="center">06:15</p> | <p align="right">Rochedale <img src="/static/logos/Rochedale Rovers FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"> Moreton Bay</p> |
 | <p align="center">07:30</p> | <p align="right">Knights <img src="/static/logos/Gold Coast Knights SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Eastern Suburbs SC.png" height="25px"> Eastern Sub</p> |
 </div>
@@ -489,7 +489,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Vegalta <img src="/static/logos/Vegalta Sendai.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Júbilo Iwata.png" height="25px"> Júbilo</p> |
+| <p align="center">39'</p> | <p align="right">Vegalta <img src="/static/logos/Vegalta Sendai.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Júbilo Iwata.png" height="25px"> Júbilo</p> |
 | <p align="center">05:00</p> | <p align="right">Blaublitz <img src="/static/logos/AFC Blaublitz Akita.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"> Zweigen</p> |
 | <p align="center">05:00</p> | <p align="right">Machida <img src="/static/logos/FC Machida Zelvia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/V-Varen Nagasaki.png" height="25px"> V-Varen</p> |
 | <p align="center">05:00</p> | <p align="right">Montedio <img src="/static/logos/Montedio Yamagata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iwaki FC.png" height="25px"> Iwaki</p> |
@@ -804,7 +804,7 @@
 | <p align="center">FT</p> | <p align="right">San Antonio <img src="/static/logos/San Antonio FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/El Paso Locomotive FC.png" height="25px"> El Paso Loco</p> |
 | <p align="center">FT</p> | <p align="right">Switchbacks <img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Orange County SC.png" height="25px"> Orange County</p> |
 | <p align="center">FT</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Monterey Bay FC.png" height="25px"> Monterey Bay</p> |
-| <p align="center">90' 7'</p> | <p align="right">Phoenix Rising <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Roots</p> |
+| <p align="center">FT</p> | <p align="right">Phoenix Rising <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Roots</p> |
 </div>
 
 
