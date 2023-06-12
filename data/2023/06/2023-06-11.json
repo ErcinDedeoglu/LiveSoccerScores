@@ -8630,16 +8630,12 @@
         },
         {
           "startDate": "2023-06-11T23:30:00Z",
-          "period": {
-            "type": "PENALTY",
-            "minute": 92,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "SJ",
             "short": "Earthquakes II",
@@ -8664,8 +8660,8 @@
           },
           "agg": null,
           "penalty": {
-            "teamA": 4,
-            "teamB": 4
+            "teamA": 6,
+            "teamB": 5
           }
         },
         {
