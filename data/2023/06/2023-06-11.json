@@ -1975,39 +1975,6 @@
           },
           "agg": null,
           "penalty": null
-        },
-        {
-          "startDate": "2023-06-11T06:00:00Z",
-          "period": null,
-          "round": {
-            "name": "Regular Season",
-            "display": false
-          },
-          "status": "SUSPENDED",
-          "teamA": {
-            "code": "SMB",
-            "short": "South Melb",
-            "long": "South Melbourne",
-            "full": "South Melbourne FC",
-            "name": "South Melb"
-          },
-          "teamB": {
-            "code": "DTH",
-            "short": "Dandenong",
-            "long": "Dandenong Thunder",
-            "full": "Dandenong Thunder SC",
-            "name": "Dandenong"
-          },
-          "redCards": {
-            "teamA": 0,
-            "teamB": 0
-          },
-          "score": {
-            "teamA": 2,
-            "teamB": 1
-          },
-          "agg": null,
-          "penalty": null
         }
       ]
     },
