@@ -393,16 +393,12 @@
         },
         {
           "startDate": "2023-06-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 86,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HOU",
             "short": "Dash",
@@ -430,16 +426,12 @@
         },
         {
           "startDate": "2023-06-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 4
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "ORL",
             "short": "Pride",
@@ -926,16 +918,12 @@
         },
         {
           "startDate": "2023-06-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 70,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Apertura - Quadrangular",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "CHI",
             "short": "Boyac\u00E1 Chic\u00F3",
@@ -2476,16 +2464,12 @@
       "matches": [
         {
           "startDate": "2023-06-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 69,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "OP",
             "short": "O. Petrolero",
@@ -2502,7 +2486,7 @@
           },
           "redCards": {
             "teamA": 0,
-            "teamB": 0
+            "teamB": 1
           },
           "score": {
             "teamA": 1,
@@ -8547,16 +8531,12 @@
         },
         {
           "startDate": "2023-06-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 2
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "HNT",
             "short": "Huntsville",
@@ -8584,16 +8564,12 @@
         },
         {
           "startDate": "2023-06-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "MIN",
             "short": "MNUFC2",
@@ -8621,16 +8597,12 @@
         },
         {
           "startDate": "2023-06-11T23:00:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 90,
-            "extra": 1
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "NYC",
             "short": "NYCFC II",
@@ -8659,8 +8631,8 @@
         {
           "startDate": "2023-06-11T23:30:00Z",
           "period": {
-            "type": "SECOND_HALF",
-            "minute": 65,
+            "type": "PENALTY",
+            "minute": 92,
             "extra": 0
           },
           "round": {
@@ -8691,20 +8663,19 @@
             "teamB": 1
           },
           "agg": null,
-          "penalty": null
+          "penalty": {
+            "teamA": 4,
+            "teamB": 4
+          }
         },
         {
           "startDate": "2023-06-11T23:30:00Z",
-          "period": {
-            "type": "SECOND_HALF",
-            "minute": 63,
-            "extra": 0
-          },
+          "period": null,
           "round": {
             "name": "Regular Season",
             "display": false
           },
-          "status": "LIVE",
+          "status": "RESULT",
           "teamA": {
             "code": "LAF",
             "short": "LAFC II",
