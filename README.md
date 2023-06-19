@@ -99,7 +99,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">12:00</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Korea Republic Under 17.png" height="25px"> Korea Republic</p> |
 | <p align="center">14:00</p> | <p align="right">Qatar <img src="/static/logos/Qatar Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IR Iran Under 17.png" height="25px"> Iran</p> |
-| <p align="center">24'</p> | <p align="right">China <img src="/static/logos/China PR Under 17.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Australia Under 17.png" height="25px"> Australia</p> |
+| <p align="center">32'</p> | <p align="right">China <img src="/static/logos/China PR Under 17.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Australia Under 17.png" height="25px"> Australia</p> |
 | <p align="center">14:00</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tajikistan Under 17.png" height="25px"> Tajikistan</p> |
 </div>
 
