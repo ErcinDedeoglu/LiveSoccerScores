@@ -49,9 +49,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">00:00</p> | <p align="right">Honduras <img src="/static/logos/Honduras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
 | <p align="center">00:00</p> | <p align="right">Morocco <img src="/static/logos/Morocco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zambia.png" height="25px"> Zambia</p> |
-| <p align="center">75'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong, China.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Thailand.png" height="25px"> Thailand</p> |
-| <p align="center">77'</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
-| <p align="center">HT</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Argentina.png" height="25px"> Argentina</p> |
+| <p align="center">83'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong, China.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Thailand.png" height="25px"> Thailand</p> |
+| <p align="center">85'</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
+| <p align="center">49'</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Argentina.png" height="25px"> Argentina</p> |
 | <p align="center">16:00</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/New Zealand.png" height="25px"> New Zealand</p> |
 </div>
 
@@ -97,7 +97,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan Under 17.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Korea Republic Under 17.png" height="25px"> Korea Republic</p> |
+| <p align="center">79'</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan Under 17.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Korea Republic Under 17.png" height="25px"> Korea Republic</p> |
 | <p align="center">14:00</p> | <p align="right">Qatar <img src="/static/logos/Qatar Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IR Iran Under 17.png" height="25px"> Iran</p> |
 | <p align="center">FT</p> | <p align="right">China <img src="/static/logos/China PR Under 17.png" height="25px"></p> | <p align="center">3 - 5</p> | <p align="left"><img src="/static/logos/Australia Under 17.png" height="25px"> Australia</p> |
 | <p align="center">14:00</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tajikistan Under 17.png" height="25px"> Tajikistan</p> |
