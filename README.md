@@ -37,8 +37,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Peru.png" height="25px"> Peru</p> |
-| <p align="center">69'</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/El Salvador.png" height="25px"> El Salvador</p> |
-| <p align="center">HT</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
+| <p align="center">85'</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/El Salvador.png" height="25px"> El Salvador</p> |
+| <p align="center">53'</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
 | <p align="center">16:00</p> | <p align="right">Montenegro <img src="/static/logos/Montenegro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Czechia.png" height="25px"> Czechia</p> |
 | <p align="center">18:45</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
 | <p align="center">19:00</p> | <p align="right">Algeria <img src="/static/logos/Algeria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tunisia.png" height="25px"> Tunisia</p> |
@@ -66,7 +66,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam Under 17.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Japan Under 17.png" height="25px"> Japan</p> |
-| <p align="center">29'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/India Under 17.png" height="25px"> India</p> |
+| <p align="center">45'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/India Under 17.png" height="25px"> India</p> |
 </div>
 
 
