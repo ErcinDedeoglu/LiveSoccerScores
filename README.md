@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Norway <img src="/static/logos/Norway.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Cyprus.png" height="25px"> Cyprus</p> |
-| <p align="center">HT</p> | <p align="right">Scotland <img src="/static/logos/Scotland.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Georgia.png" height="25px"> Georgia</p> |
+| <p align="center">67'</p> | <p align="right">Scotland <img src="/static/logos/Scotland.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Georgia.png" height="25px"> Georgia</p> |
 | <p align="center">FT</p> | <p align="right">Faroe Islands <img src="/static/logos/Faroe Islands.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Albania.png" height="25px"> Albania</p> |
 | <p align="center">FT</p> | <p align="right">Moldova <img src="/static/logos/Moldova.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Poland.png" height="25px"> Poland</p> |
 | <p align="center">FT</p> | <p align="right">Austria <img src="/static/logos/Austria.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sweden.png" height="25px"> Sweden</p> |
