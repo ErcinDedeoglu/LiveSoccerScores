@@ -117,10 +117,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Latvia <img src="/static/logos/Latvia Under 21.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/San Marino Under 21.png" height="25px"> San Marino</p> |
+| <p align="center">90' 4'</p> | <p align="right">Latvia <img src="/static/logos/Latvia Under 21.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/San Marino Under 21.png" height="25px"> San Marino</p> |
 | <p align="center">18:00</p> | <p align="right">Kosovo <img src="/static/logos/Kosovo Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Estonia Under 21.png" height="25px"> Estonia</p> |
 | <p align="center">18:00</p> | <p align="right">Andorra <img src="/static/logos/Andorra Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belarus Under 21.png" height="25px"> Belarus</p> |
-| <p align="center">45'</p> | <p align="right">Denmark <img src="/static/logos/Denmark Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wales Under 21.png" height="25px"> Wales</p> |
+| <p align="center">HT</p> | <p align="right">Denmark <img src="/static/logos/Denmark Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wales Under 21.png" height="25px"> Wales</p> |
 </div>
 
 
