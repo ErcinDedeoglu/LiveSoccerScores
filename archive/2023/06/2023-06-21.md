@@ -98,8 +98,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia Under 17.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Laos Under 17.png" height="25px"> Laos</p> |
-| <p align="center">50'</p> | <p align="right">Thailand <img src="/static/logos/Thailand U17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Yemen Under 17.png" height="25px"> Yemen</p> |
+| <p align="center">70'</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia Under 17.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Laos Under 17.png" height="25px"> Laos</p> |
+| <p align="center">70'</p> | <p align="right">Thailand <img src="/static/logos/Thailand U17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Yemen Under 17.png" height="25px"> Yemen</p> |
 </div>
 
 
