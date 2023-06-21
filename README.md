@@ -74,9 +74,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Belgium <img src="/static/logos/Belgium Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Netherlands Under 21.png" height="25px"> Netherlands</p> |
-| <p align="center">16:00</p> | <p align="right">Georgia <img src="/static/logos/Georgia Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Portugal Under 21.png" height="25px"> Portugal</p> |
-| <p align="center">16:00</p> | <p align="right">Ukraine <img src="/static/logos/Ukraine Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Croatia Under 21.png" height="25px"> Croatia</p> |
+| <p align="center">6'</p> | <p align="right">Belgium <img src="/static/logos/Belgium Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Netherlands Under 21.png" height="25px"> Netherlands</p> |
+| <p align="center">5'</p> | <p align="right">Georgia <img src="/static/logos/Georgia Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Portugal Under 21.png" height="25px"> Portugal</p> |
+| <p align="center">7'</p> | <p align="right">Ukraine <img src="/static/logos/Ukraine Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Croatia Under 21.png" height="25px"> Croatia</p> |
 | <p align="center">18:45</p> | <p align="right">Romania <img src="/static/logos/Romania Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain Under 21.png" height="25px"> Spain</p> |
 </div>
 
@@ -88,7 +88,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Kuwait <img src="/static/logos/Kuwait.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Nepal.png" height="25px"> Nepal</p> |
-| <p align="center">66'</p> | <p align="right">India <img src="/static/logos/India.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Pakistan.png" height="25px"> Pakistan</p> |
+| <p align="center">FT</p> | <p align="right">India <img src="/static/logos/India.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Pakistan.png" height="25px"> Pakistan</p> |
 </div>
 
 
@@ -129,9 +129,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Honka <img src="/static/logos/FC Honka.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Honka Akatemia.png" height="25px"> Honka Akatemia</p> |
-| <p align="center">15:30</p> | <p align="right">KTP <img src="/static/logos/Kotkan Työväen Palloilijat.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ekenäs IF.png" height="25px"> EIF</p> |
-| <p align="center">15:30</p> | <p align="right">SalPa <img src="/static/logos/Salon Palloilijat.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Inter Turku.png" height="25px"> Inter Turku</p> |
+| <p align="center">51'</p> | <p align="right">Honka <img src="/static/logos/FC Honka.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Honka Akatemia.png" height="25px"> Honka Akatemia</p> |
+| <p align="center">36'</p> | <p align="right">KTP <img src="/static/logos/Kotkan Työväen Palloilijat.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ekenäs IF.png" height="25px"> EIF</p> |
+| <p align="center">33'</p> | <p align="right">SalPa <img src="/static/logos/Salon Palloilijat.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Inter Turku.png" height="25px"> Inter Turku</p> |
 </div>
 
 
