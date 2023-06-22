@@ -33,8 +33,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Córdoba SdE <img src="/static/logos/CA Central Córdoba de Santiago del Estero.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimnasia y Esgrima La Plata.png" height="25px"> Gimn La Plata</p> |
-| <p align="center">90' 4'</p> | <p align="right">Tigre <img src="/static/logos/CA Tigre.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Atlético Vélez Sarsfield.png" height="25px"> Vélez</p> |
-| <p align="center">HT</p> | <p align="right">Racing Club <img src="/static/logos/Racing Club de Avellaneda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Barracas Central.png" height="25px"> Barracas C</p> |
+| <p align="center">FT</p> | <p align="right">Tigre <img src="/static/logos/CA Tigre.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Atlético Vélez Sarsfield.png" height="25px"> Vélez</p> |
+| <p align="center">54'</p> | <p align="right">Racing Club <img src="/static/logos/Racing Club de Avellaneda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Barracas Central.png" height="25px"> Barracas C</p> |
 | <p align="center">22:45</p> | <p align="right">River Plate <img src="/static/logos/CA River Plate.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Instituto AC Córdoba.png" height="25px"> Instituto</p> |
 </div>
 
@@ -47,7 +47,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bahia <img src="/static/logos/EC Bahia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SE Palmeiras.png" height="25px"> Palmeiras</p> |
 | <p align="center">FT</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Clube Atlético Mineiro.png" height="25px"> Atl. Mineiro</p> |
-| <p align="center">22:00</p> | <p align="right">Grêmio <img src="/static/logos/Grêmio FB Porto Alegrense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/América FC (Minas Gerais).png" height="25px"> América MG</p> |
+| <p align="center">13'</p> | <p align="right">Grêmio <img src="/static/logos/Grêmio FB Porto Alegrense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/América FC (Minas Gerais).png" height="25px"> América MG</p> |
 | <p align="center">23:00</p> | <p align="right">Coritiba <img src="/static/logos/Coritiba FBC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SC Internacional.png" height="25px"> Internacional</p> |
 | <p align="center">23:00</p> | <p align="right">Cuiabá <img src="/static/logos/Cuiabá EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo FR.png" height="25px"> Botafogo</p> |
 | <p align="center">23:00</p> | <p align="right">Vasco <img src="/static/logos/CR Vasco da Gama.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Goiás EC.png" height="25px"> Goiás</p> |
