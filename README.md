@@ -163,7 +163,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">JJK <img src="/static/logos/Jyväskylän Jalkapalloklubi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turun Palloseura.png" height="25px"> TPS</p> |
+| <p align="center">3'</p> | <p align="right">JJK <img src="/static/logos/Jyväskylän Jalkapalloklubi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Turun Palloseura.png" height="25px"> TPS</p> |
 </div>
 
 
@@ -173,10 +173,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">KuPS <img src="/static/logos/Kuopion Palloseura.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Idrottsföreningen Kamraterna i Helsingfors.png" height="25px"> HIFK</p> |
-| <p align="center">15:00</p> | <p align="right">Ilves <img src="/static/logos/Tampereen Ilves.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kokkolan Pallo-Veikot.png" height="25px"> KPV</p> |
-| <p align="center">15:00</p> | <p align="right">Oulu <img src="/static/logos/AC Oulu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vaasan Palloseura.png" height="25px"> VPS</p> |
-| <p align="center">15:00</p> | <p align="right">VIFK <img src="/static/logos/Idrottsföreningen Kamraterna Vasa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IFK Mariehamn.png" height="25px"> Mariehamn</p> |
+| <p align="center">46'</p> | <p align="right">KuPS <img src="/static/logos/Kuopion Palloseura.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Idrottsföreningen Kamraterna i Helsingfors.png" height="25px"> HIFK</p> |
+| <p align="center">3'</p> | <p align="right">Ilves <img src="/static/logos/Tampereen Ilves.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kokkolan Pallo-Veikot.png" height="25px"> KPV</p> |
+| <p align="center">3'</p> | <p align="right">Oulu <img src="/static/logos/AC Oulu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vaasan Palloseura.png" height="25px"> VPS</p> |
+| <p align="center">3'</p> | <p align="right">VIFK <img src="/static/logos/Idrottsföreningen Kamraterna Vasa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IFK Mariehamn.png" height="25px"> Mariehamn</p> |
 | <p align="center">16:00</p> | <p align="right">VJS <img src="/static/logos/Vantaan Jalkapalloseura.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pallo-Iirot Rauma.png" height="25px"> P-Iirot</p> |
 </div>
 
