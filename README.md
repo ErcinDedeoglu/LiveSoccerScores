@@ -22,7 +22,7 @@
 | <p align="center">FT</p> | <p align="right">Galaxy <img src="/static/logos/LA Galaxy.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting KC</p> |
 | <p align="center">FT</p> | <p align="right">Los Angeles <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Seattle Sounders FC.png" height="25px"> Sounders</p> |
 | <p align="center">FT</p> | <p align="right">Portland <img src="/static/logos/Portland Timbers.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago</p> |
-| <p align="center">90'</p> | <p align="right">Austin <img src="/static/logos/Austin FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> Dallas</p> |
+| <p align="center">FT</p> | <p align="right">Austin <img src="/static/logos/Austin FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> Dallas</p> |
 </div>
 
 
