@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">USM Alger <img src="/static/logos/USM Alger.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
+| <p align="center">5'</p> | <p align="right">USM Alger <img src="/static/logos/USM Alger.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
 </div>
 
 
@@ -118,7 +118,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Torpedo BelAZ <img src="/static/logos/FC Torpedo-BelAZ Zhodino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Energetik-BGU.png" height="25px"> Energetik-BGU</p> |
+| <p align="center">8'</p> | <p align="right">Torpedo BelAZ <img src="/static/logos/FC Torpedo-BelAZ Zhodino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Energetik-BGU.png" height="25px"> Energetik-BGU</p> |
 </div>
 
 
@@ -209,7 +209,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Start <img src="/static/logos/IK Start.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Jerv.png" height="25px"> Jerv</p> |
+| <p align="center">7'</p> | <p align="right">Start <img src="/static/logos/IK Start.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Jerv.png" height="25px"> Jerv</p> |
 </div>
 
 
@@ -219,7 +219,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20'</p> | <p align="right">TUIL <img src="/static/logos/Tromsdalen UIL.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ullensaker / Kisa IL.png" height="25px"> Ullensaker</p> |
+| <p align="center">36'</p> | <p align="right">TUIL <img src="/static/logos/Tromsdalen UIL.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ullensaker / Kisa IL.png" height="25px"> Ullensaker</p> |
 </div>
 
 
@@ -277,8 +277,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Monastir <img src="/static/logos/US Monastirienne.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Union Sportive de Ben Guerdane.png" height="25px"> USBG</p> |
-| <p align="center">58'</p> | <p align="right">Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Olympique de Béja.png" height="25px"> Olympique Béja</p> |
+| <p align="center">73'</p> | <p align="right">Monastir <img src="/static/logos/US Monastirienne.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Union Sportive de Ben Guerdane.png" height="25px"> USBG</p> |
+| <p align="center">75'</p> | <p align="right">Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Olympique de Béja.png" height="25px"> Olympique Béja</p> |
 </div>
 
 
