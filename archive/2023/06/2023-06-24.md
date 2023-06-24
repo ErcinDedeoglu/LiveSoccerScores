@@ -77,9 +77,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Georgia <img src="/static/logos/Georgia Under 21.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Belgium Under 21.png" height="25px"> Belgium</p> |
-| <p align="center">90' 5'</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Netherlands Under 21.png" height="25px"> Netherlands</p> |
-| <p align="center">90' 4'</p> | <p align="right">Romania <img src="/static/logos/Romania Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Ukraine Under 21.png" height="25px"> Ukraine</p> |
+| <p align="center">90' 5'</p> | <p align="right">Georgia <img src="/static/logos/Georgia Under 21.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Belgium Under 21.png" height="25px"> Belgium</p> |
+| <p align="center">FT</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Netherlands Under 21.png" height="25px"> Netherlands</p> |
+| <p align="center">FT</p> | <p align="right">Romania <img src="/static/logos/Romania Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Ukraine Under 21.png" height="25px"> Ukraine</p> |
 | <p align="center">18:45</p> | <p align="right">Spain <img src="/static/logos/Spain Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Croatia Under 21.png" height="25px"> Croatia</p> |
 </div>
 
@@ -136,9 +136,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Central Norte <img src="/static/logos/CA Central Norte.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Centro Juventud Antoniana.png" height="25px"> Juv Antoniana</p> |
-| <p align="center">23'</p> | <p align="right">Ciudad Bolívar <img src="/static/logos/Club Ciudad de Bolívar.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Sportivo y Biblioteca Atenas.png" height="25px"> Atenas</p> |
-| <p align="center">20'</p> | <p align="right">De. Pro. <img src="/static/logos/Club Defensores de Pronunciamiento.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Douglas Haig.png" height="25px"> Douglas Haig</p> |
-| <p align="center">23'</p> | <p align="right">Linqueño <img src="/static/logos/Club Atlético El Linqueño.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Gimnasia y Esgrima de Concepción del Uruguay.png" height="25px"> Gim Concepción</p> |
+| <p align="center">31'</p> | <p align="right">Ciudad Bolívar <img src="/static/logos/Club Ciudad de Bolívar.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Sportivo y Biblioteca Atenas.png" height="25px"> Atenas</p> |
+| <p align="center">28'</p> | <p align="right">De. Pro. <img src="/static/logos/Club Defensores de Pronunciamiento.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Douglas Haig.png" height="25px"> Douglas Haig</p> |
+| <p align="center">30'</p> | <p align="right">Linqueño <img src="/static/logos/Club Atlético El Linqueño.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Gimnasia y Esgrima de Concepción del Uruguay.png" height="25px"> Gim Concepción</p> |
 | <p align="center">18:00</p> | <p align="right">Circulo Dep. <img src="/static/logos/Club Circulo Deportivo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Villa Mitre.png" height="25px"> Villa Mitre</p> |
 | <p align="center">18:00</p> | <p align="right">Olimpo <img src="/static/logos/Club Olimpo de Bahía Blanca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Santamarina de Tandil.png" height="25px"> Santamarina</p> |
 | <p align="center">18:00</p> | <p align="right">Sansinena <img src="/static/logos/Club Atlético Sansinena Social y Deportivo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Liniers de Bahía Blanca.png" height="25px"> Liniers BB</p> |
@@ -326,7 +326,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Coquimbo <img src="/static/logos/CD Coquimbo Unido.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD La Serena.png" height="25px"> La Serena</p> |
+| <p align="center">66'</p> | <p align="right">Coquimbo <img src="/static/logos/CD Coquimbo Unido.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD La Serena.png" height="25px"> La Serena</p> |
 | <p align="center">POS</p> | <p align="right">Magallanes <img src="/static/logos/Club Deportivo Magallanes.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Deportes Santa Cruz.png" height="25px"> Santa Cruz</p> |
 | <p align="center">20:00</p> | <p align="right">Everton <img src="/static/logos/Everton de Viña del Mar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Unión San Felipe.png" height="25px"> San Felipe</p> |
 | <p align="center">POS</p> | <p align="right">Colo Colo <img src="/static/logos/CSD Colo-Colo.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
@@ -487,7 +487,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Viking <img src="/static/logos/Viking FK.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/SK Brann.png" height="25px"> Brann</p> |
+| <p align="center">FT</p> | <p align="right">Viking <img src="/static/logos/Viking FK.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/SK Brann.png" height="25px"> Brann</p> |
 </div>
 
 
@@ -651,7 +651,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
+| <p align="center">86'</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
 </div>
 
 
