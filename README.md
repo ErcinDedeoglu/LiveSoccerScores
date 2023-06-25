@@ -138,7 +138,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ghana <img src="/static/logos/Ghana Under 23.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Congo Under 23.png" height="25px"> Congo U23</p> |
-| <p align="center">HT</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Niger Under 23.png" height="25px"> Niger</p> |
+| <p align="center">73'</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Niger Under 23.png" height="25px"> Niger</p> |
 | <p align="center">20:00</p> | <p align="right">Mali <img src="/static/logos/Mali Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gabon Under 23.png" height="25px"> Gabon U23</p> |
 </div>
 
@@ -150,9 +150,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Brown Adrogué <img src="/static/logos/CA Brown de Adrogué.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Riestra.png" height="25px"> Riestra</p> |
-| <p align="center">18:00</p> | <p align="right">Guillermo Br <img src="/static/logos/Club Social y Atlético Guillermo Brown de Puerto Madryn.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Morón.png" height="25px"> Morón</p> |
-| <p align="center">18:00</p> | <p align="right">Est Caseros <img src="/static/logos/CA Estudiantes de Caseros.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Racing de Córdoba.png" height="25px"> Racing Córdoba</p> |
-| <p align="center">18:10</p> | <p align="right">SM Tucumán <img src="/static/logos/CA San Martín de Tucumán.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Nueva Chicago.png" height="25px"> Nueva Chicago</p> |
+| <p align="center">26'</p> | <p align="right">Guillermo Br <img src="/static/logos/Club Social y Atlético Guillermo Brown de Puerto Madryn.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Morón.png" height="25px"> Morón</p> |
+| <p align="center">26'</p> | <p align="right">Est Caseros <img src="/static/logos/CA Estudiantes de Caseros.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Racing de Córdoba.png" height="25px"> Racing Córdoba</p> |
+| <p align="center">17'</p> | <p align="right">SM Tucumán <img src="/static/logos/CA San Martín de Tucumán.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Nueva Chicago.png" height="25px"> Nueva Chicago</p> |
 | <p align="center">18:30</p> | <p align="right">Maipú <img src="/static/logos/CD Maipú.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Mitre de Santiago del Estero.png" height="25px"> Mitre SdE</p> |
 | <p align="center">19:00</p> | <p align="right">Aldosivi <img src="/static/logos/CA Aldosivi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gimnasia y Esgrima de Jujuy.png" height="25px"> Gimn Jujuy</p> |
 | <p align="center">22:10</p> | <p align="right">Rafaela <img src="/static/logos/Atlético de Rafaela.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Atlanta.png" height="25px"> Atlanta</p> |
@@ -167,7 +167,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">18:30</p> | <p align="right">A Quilmes <img src="/static/logos/CA Argentino de Quilmes de Buenos Aires.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Dock Sud.png" height="25px"> Dock Sud</p> |
 | <p align="center">18:30</p> | <p align="right">Los Andes <img src="/static/logos/CA Los Andes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD UAI Urquiza.png" height="25px"> Urquiza</p> |
-| <p align="center">20:10</p> | <p align="right">Colegiales <img src="/static/logos/CA Colegiales.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Talleres Remedios de Escalada.png" height="25px"> Talleres</p> |
+| <p align="center">' '</p> | <p align="right">Colegiales <img src="/static/logos/CA Colegiales.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Talleres Remedios de Escalada.png" height="25px"> Talleres</p> |
 </div>
 
 
@@ -260,7 +260,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Belshina <img src="/static/logos/FC Belshina Bobruisk.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Minsk.png" height="25px"> Minsk</p> |
 | <p align="center">FT</p> | <p align="right">Smorgon <img src="/static/logos/FC Smorgon.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/FC Dinamo Minsk.png" height="25px"> Dinamo Minsk</p> |
-| <p align="center">18:00</p> | <p align="right">BATE <img src="/static/logos/FC BATE Borisov.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Naftan Novopolotsk.png" height="25px"> Naftan</p> |
+| <p align="center">32'</p> | <p align="right">BATE <img src="/static/logos/FC BATE Borisov.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Naftan Novopolotsk.png" height="25px"> Naftan</p> |
 </div>
 
 
@@ -310,7 +310,7 @@
 | <p align="center">20:00</p> | <p align="right">Princesa <img src="/static/logos/Princesa do Solimões EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Trem Desportivo Clube.png" height="25px"> Trem</p> |
 | <p align="center">18:30</p> | <p align="right">Iporá <img src="/static/logos/Iporá EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Clube Esportivo Operário Várzea-Grandense.png" height="25px"> CEOV</p> |
 | <p align="center">19:00</p> | <p align="right">Real Ariquemes <img src="/static/logos/Real Desportivo Ariquemes FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Interporto FC.png" height="25px"> Interporto</p> |
-| <p align="center">18:00</p> | <p align="right">Caxias <img src="/static/logos/Sociedade Esportiva e Recreativa Caxias do Sul.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/EC Novo Hamburgo.png" height="25px"> Novo Hamburgo</p> |
+| <p align="center">30'</p> | <p align="right">Caxias <img src="/static/logos/Sociedade Esportiva e Recreativa Caxias do Sul.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/EC Novo Hamburgo.png" height="25px"> Novo Hamburgo</p> |
 | <p align="center">19:00</p> | <p align="right">Aimoré <img src="/static/logos/CE Aimoré.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gremio Esportivo Brasil.png" height="25px"> Brasil Pelotas</p> |
 </div>
 
@@ -439,7 +439,7 @@
 | <p align="center">FT</p> | <p align="right">Molde <img src="/static/logos/Molde FK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Haugesund.png" height="25px"> Haugesund</p> |
 | <p align="center">FT</p> | <p align="right">Rosenborg <img src="/static/logos/Rosenborg BK.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Sarpsborg 08 FF.png" height="25px"> Sarpsborg</p> |
 | <p align="center">FT</p> | <p align="right">Tromsø <img src="/static/logos/Tromsø IL.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Stabæk Fotball.png" height="25px"> Stabæk</p> |
-| <p align="center">44'</p> | <p align="right">Strømsgodset <img src="/static/logos/Strømsgodset IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Bodø / Glimt.png" height="25px"> Bodø/Glimt</p> |
+| <p align="center">55'</p> | <p align="right">Strømsgodset <img src="/static/logos/Strømsgodset IF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Bodø / Glimt.png" height="25px"> Bodø/Glimt</p> |
 </div>
 
 
@@ -476,7 +476,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">CA Mannucci <img src="/static/logos/CSD Carlos A. Mannucci.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Deportivo Garcilaso.png" height="25px"> Deportivo G.</p> |
-| <p align="center">18:00</p> | <p align="right">Alianza Atl. <img src="/static/logos/Club Alianza Atlético Sullana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sport Boys Association.png" height="25px"> Boys</p> |
+| <p align="center">28'</p> | <p align="right">Alianza Atl. <img src="/static/logos/Club Alianza Atlético Sullana.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sport Boys Association.png" height="25px"> Boys</p> |
 | <p align="center">20:30</p> | <p align="right">Unión Comercio <img src="/static/logos/CD Unión Comercio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Centro Deportivo Municipal.png" height="25px"> Dep. Municipal</p> |
 </div>
 
@@ -497,7 +497,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Eldense <img src="/static/logos/CD Eldense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Madrid Castilla CF.png" height="25px"> Real Madrid II</p> |
+| <p align="center">31'</p> | <p align="right">Eldense <img src="/static/logos/CD Eldense.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Real Madrid Castilla CF.png" height="25px"> Real Madrid II</p> |
 </div>
 
 
@@ -537,7 +537,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">20:30</p> | <p align="right">City Torque <img src="/static/logos/Montevideo City Torque.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Boston River.png" height="25px"> Boston River</p> |
 | <p align="center">FT</p> | <p align="right">Cerro <img src="/static/logos/Club Atlético Cerro.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Racing Club de Montevideo.png" height="25px"> Racing</p> |
-| <p align="center">18:00</p> | <p align="right">Maldonado <img src="/static/logos/CD Maldonado.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cerro Largo FC.png" height="25px"> Cerro Largo</p> |
+| <p align="center">25'</p> | <p align="right">Maldonado <img src="/static/logos/CD Maldonado.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cerro Largo FC.png" height="25px"> Cerro Largo</p> |
 </div>
 
 
