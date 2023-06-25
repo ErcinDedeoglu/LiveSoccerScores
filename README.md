@@ -127,7 +127,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Vissel Kobe.png" height="25px"> Vissel Kobe</p> |
+| <p align="center">85'</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Vissel Kobe.png" height="25px"> Vissel Kobe</p> |
 </div>
 
 
@@ -177,7 +177,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Maldives.png" height="25px"> Maldives</p> |
+| <p align="center">86'</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Maldives.png" height="25px"> Maldives</p> |
 | <p align="center">14:00</p> | <p align="right">Bhutan <img src="/static/logos/Bhutan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lebanon.png" height="25px"> Lebanon</p> |
 </div>
 
@@ -188,7 +188,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Iran <img src="/static/logos/IR Iran Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Yemen Under 17.png" height="25px"> Yemen</p> |
+| <p align="center">84'</p> | <p align="right">Iran <img src="/static/logos/IR Iran Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Yemen Under 17.png" height="25px"> Yemen</p> |
 | <p align="center">14:00</p> | <p align="right">Thailand <img src="/static/logos/Thailand U17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Korea Republic Under 17.png" height="25px"> Korea Republic</p> |
 </div>
 
@@ -368,8 +368,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Vegalta <img src="/static/logos/Vegalta Sendai.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tokushima Vortis.png" height="25px"> Tokushima</p> |
-| <p align="center">78'</p> | <p align="right">Kumamoto <img src="/static/logos/Roasso Kumamoto.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Júbilo Iwata.png" height="25px"> Júbilo</p> |
-| <p align="center">48'</p> | <p align="right">ThespaKusatsu <img src="/static/logos/ThespaKusatsu Gunma.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu</p> |
+| <p align="center">85'</p> | <p align="right">Kumamoto <img src="/static/logos/Roasso Kumamoto.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Júbilo Iwata.png" height="25px"> Júbilo</p> |
+| <p align="center">55'</p> | <p align="right">ThespaKusatsu <img src="/static/logos/ThespaKusatsu Gunma.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu</p> |
 </div>
 
 
@@ -380,7 +380,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Incheon Utd <img src="/static/logos/Incheon United FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Pohang Steelers.png" height="25px"> Pohang</p> |
-| <p align="center">80'</p> | <p align="right">Suwon <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Gangwon FC.png" height="25px"> Gangwon</p> |
+| <p align="center">87'</p> | <p align="right">Suwon <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Gangwon FC.png" height="25px"> Gangwon</p> |
 </div>
 
 
@@ -462,7 +462,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Egersund <img src="/static/logos/Egersunds IK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brattvåg IL.png" height="25px"> Brattvåg</p> |
+| <p align="center">45'</p> | <p align="right">Egersund <img src="/static/logos/Egersunds IK.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Brattvåg IL.png" height="25px"> Brattvåg</p> |
 | <p align="center">13:00</p> | <p align="right">Brann II <img src="/static/logos/SK Brann II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IK Junkeren/Mo IL.png" height="25px"> Junkeren</p> |
 | <p align="center">15:00</p> | <p align="right">Alta <img src="/static/logos/Alta IF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IL Stjørdals-Blink.png" height="25px"> Stjørdals</p> |
 | <p align="center">16:00</p> | <p align="right">Grorud <img src="/static/logos/Grorud IL.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sportsklubben Træff.png" height="25px"> Træff</p> |
@@ -487,7 +487,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Lion City <img src="/static/logos/Lion City Sailors FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Hougang United FC.png" height="25px"> Hougang Utd</p> |
+| <p align="center">86'</p> | <p align="right">Lion City <img src="/static/logos/Lion City Sailors FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Hougang United FC.png" height="25px"> Hougang Utd</p> |
 </div>
 
 
@@ -507,7 +507,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Motala <img src="/static/logos/Motala AIF FK.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Umeå FC.png" height="25px"> Umeå</p> |
+| <p align="center">45'</p> | <p align="right">Motala <img src="/static/logos/Motala AIF FK.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Umeå FC.png" height="25px"> Umeå</p> |
 | <p align="center">14:00</p> | <p align="right">IF Karlstad <img src="/static/logos/IF Karlstad Fotboll.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dalkurd FF.png" height="25px"> Dalkurd</p> |
 | <p align="center">14:00</p> | <p align="right">ÖSIF <img src="/static/logos/Örebro Syrianska IF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sollentuna FK.png" height="25px"> Sollentuna</p> |
 | <p align="center">14:00</p> | <p align="right">Ängelholm <img src="/static/logos/Ängelholms FF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oskarshamns AIK.png" height="25px"> Oskarshamn</p> |
@@ -599,9 +599,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">HAGL <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh</p> |
-| <p align="center">80'</p> | <p align="right">Sanna <img src="/static/logos/Sanna Khánh Hòa BVN FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ha Noi FC.png" height="25px"> Ha Noi</p> |
-| <p align="center">35'</p> | <p align="right">SLNA <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SQC Binh Dinh.png" height="25px"> Binh Dinh</p> |
+| <p align="center">88'</p> | <p align="right">HAGL <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh</p> |
+| <p align="center">87'</p> | <p align="right">Sanna <img src="/static/logos/Sanna Khánh Hòa BVN FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ha Noi FC.png" height="25px"> Ha Noi</p> |
+| <p align="center">42'</p> | <p align="right">SLNA <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SQC Binh Dinh.png" height="25px"> Binh Dinh</p> |
 | <p align="center">12:15</p> | <p align="right">Viettel <img src="/static/logos/Viettel FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Becamex Binh Duong FC.png" height="25px"> Binh Duong</p> |
 </div>
 
