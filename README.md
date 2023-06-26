@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Belgrano <img src="/static/logos/CA Belgrano de Córdoba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Banfield.png" height="25px"> Banfield</p> |
+| <p align="center">11'</p> | <p align="right">Belgrano <img src="/static/logos/CA Belgrano de Córdoba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Banfield.png" height="25px"> Banfield</p> |
 </div>
 
 
@@ -37,7 +37,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Honduras.png" height="25px"> Honduras</p> |
-| <p align="center">17'</p> | <p align="right">El Salvador <img src="/static/logos/El Salvador.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Martinique.png" height="25px"> Martinique</p> |
+| <p align="center">35'</p> | <p align="right">El Salvador <img src="/static/logos/El Salvador.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Martinique.png" height="25px"> Martinique</p> |
 </div>
 
 
@@ -78,7 +78,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Independiente <img src="/static/logos/Club Independiente Petrolero.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CDSC Guabirá.png" height="25px"> Guabirá</p> |
+| <p align="center">11'</p> | <p align="right">Independiente <img src="/static/logos/Club Independiente Petrolero.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CDSC Guabirá.png" height="25px"> Guabirá</p> |
 </div>
 
 
@@ -88,7 +88,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Operário <img src="/static/logos/Operário Ferroviário EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AA Aparecidense.png" height="25px"> Aparecidense</p> |
+| <p align="center">10'</p> | <p align="right">Operário <img src="/static/logos/Operário Ferroviário EC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AA Aparecidense.png" height="25px"> Aparecidense</p> |
 </div>
 
 
