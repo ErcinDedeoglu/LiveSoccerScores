@@ -58,7 +58,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Japan <img src="/static/logos/Japan Under 17.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Australia Under 17.png" height="25px"> Australia</p> |
-| <p align="center">7'</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan Under 17.png" height="25px"> Uzbekistan</p> |
+| <p align="center">18'</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan Under 17.png" height="25px"> Uzbekistan</p> |
 </div>
 
 
@@ -118,8 +118,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">46'</p> | <p align="right">Kelantan Utd <img src="/static/logos/Kelantan United FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Sabah.png" height="25px"> Sabah</p> |
-| <p align="center">46'</p> | <p align="right">Negeri Seem. <img src="/static/logos/Negeri Sembilan FA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Penang FA.png" height="25px"> Pulau Pinang</p> |
+| <p align="center">59'</p> | <p align="right">Kelantan Utd <img src="/static/logos/Kelantan United FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Sabah.png" height="25px"> Sabah</p> |
+| <p align="center">57'</p> | <p align="right">Negeri Seem. <img src="/static/logos/Negeri Sembilan FA.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Penang FA.png" height="25px"> Pulau Pinang</p> |
 </div>
 
 
