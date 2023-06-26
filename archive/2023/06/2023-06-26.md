@@ -206,7 +206,7 @@
 | <p align="center">FT</p> | <p align="right">Rapids II <img src="/static/logos/Colorado Rapids 2.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/LA Galaxy II.png" height="25px"> LA Galaxy II</p> |
 | <p align="center">FT</p> | <p align="right">Atlanta Utd II <img src="/static/logos/Atlanta United 2.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/New York City FC II.png" height="25px"> NYCFC II</p> |
 | <p align="center">FT</p> | <p align="right">Timbers2 <img src="/static/logos/Portland Timbers 2.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Real Monarchs SLC.png" height="25px"> Real Monarchs</p> |
-| <p align="center">68'</p> | <p align="right">Tacoma Def. <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Austin FC II.png" height="25px"> Austin II</p> |
+| <p align="center">79'</p> | <p align="right">Tacoma Def. <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Austin FC II.png" height="25px"> Austin II</p> |
 </div>
 
 
