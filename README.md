@@ -37,7 +37,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Honduras.png" height="25px"> Honduras</p> |
-| <p align="center">22:30</p> | <p align="right">El Salvador <img src="/static/logos/El Salvador.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Martinique.png" height="25px"> Martinique</p> |
+| <p align="center">17'</p> | <p align="right">El Salvador <img src="/static/logos/El Salvador.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Martinique.png" height="25px"> Martinique</p> |
 </div>
 
 
@@ -141,7 +141,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Cusco <img src="/static/logos/Cusco FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"> UTC Cajamarca</p> |
+| <p align="center">FT</p> | <p align="right">Cusco <img src="/static/logos/Cusco FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"> UTC Cajamarca</p> |
 </div>
 
 
