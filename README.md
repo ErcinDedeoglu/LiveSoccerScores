@@ -84,7 +84,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Congo U23 <img src="/static/logos/Congo Under 23.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Guinea Under 23.png" height="25px"> Guinea</p> |
-| <p align="center">50'</p> | <p align="right">Morocco <img src="/static/logos/Morocco Under 23.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Ghana Under 23.png" height="25px"> Ghana</p> |
+| <p align="center">59'</p> | <p align="right">Morocco <img src="/static/logos/Morocco Under 23.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Ghana Under 23.png" height="25px"> Ghana</p> |
 </div>
 
 
@@ -104,7 +104,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Godoy Cruz <img src="/static/logos/Godoy Cruz Antonio Tomba.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Defensores Unidos.png" height="25px"> Def Unidos</p> |
+| <p align="center">53'</p> | <p align="right">Godoy Cruz <img src="/static/logos/Godoy Cruz Antonio Tomba.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Defensores Unidos.png" height="25px"> Def Unidos</p> |
 </div>
 
 
