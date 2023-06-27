@@ -27,8 +27,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Libertad <img src="/static/logos/Club Libertad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Clube Atlético Mineiro.png" height="25px"> Atl. Mineiro</p> |
-| <p align="center">22'</p> | <p align="right">Paranaense <img src="/static/logos/Club Athletico Paranaense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Alianza Lima.png" height="25px"> Alianza Lima</p> |
+| <p align="center">31'</p> | <p align="right">Libertad <img src="/static/logos/Club Libertad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Clube Atlético Mineiro.png" height="25px"> Atl. Mineiro</p> |
+| <p align="center">31'</p> | <p align="right">Paranaense <img src="/static/logos/Club Athletico Paranaense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Alianza Lima.png" height="25px"> Alianza Lima</p> |
 </div>
 
 
@@ -48,8 +48,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Palestino <img src="/static/logos/CD Palestino.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
-| <p align="center">22'</p> | <p align="right">San Lorenzo <img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Estudiantes de Mérida FC.png" height="25px"> Estudiantes M.</p> |
+| <p align="center">31'</p> | <p align="right">Palestino <img src="/static/logos/CD Palestino.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
+| <p align="center">31'</p> | <p align="right">San Lorenzo <img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Estudiantes de Mérida FC.png" height="25px"> Estudiantes M.</p> |
 </div>
 
 
@@ -125,8 +125,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20'</p> | <p align="right">Chapecoense <img src="/static/logos/Chapecoense AF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SC do Recife.png" height="25px"> Sport</p> |
-| <p align="center">21'</p> | <p align="right">Criciúma <img src="/static/logos/Criciuma EC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Clube de Regatas Brasil.png" height="25px"> CRB</p> |
+| <p align="center">29'</p> | <p align="right">Chapecoense <img src="/static/logos/Chapecoense AF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SC do Recife.png" height="25px"> Sport</p> |
+| <p align="center">31'</p> | <p align="right">Criciúma <img src="/static/logos/Criciuma EC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Clube de Regatas Brasil.png" height="25px"> CRB</p> |
 </div>
 
 
