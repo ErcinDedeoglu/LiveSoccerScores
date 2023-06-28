@@ -89,7 +89,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mali Under 23.png" height="25px"> Mali</p> |
-| <p align="center">HT</p> | <p align="right">Gabon U23 <img src="/static/logos/Gabon Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Niger Under 23.png" height="25px"> Niger</p> |
+| <p align="center">49'</p> | <p align="right">Gabon U23 <img src="/static/logos/Gabon Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Niger Under 23.png" height="25px"> Niger</p> |
 </div>
 
 
@@ -265,8 +265,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">ÍBV <img src="/static/logos/ÍB Vestmannaeyja.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/KA Akureyri.png" height="25px"> KA</p> |
-| <p align="center">84'</p> | <p align="right">Fram <img src="/static/logos/Fram Reykjavík.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/HK Kópavogur.png" height="25px"> HK</p> |
-| <p align="center">89'</p> | <p align="right">KR <img src="/static/logos/KR Reykjavík.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Keflavík ÍF.png" height="25px"> Keflavík</p> |
+| <p align="center">90' 3'</p> | <p align="right">Fram <img src="/static/logos/Fram Reykjavík.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/HK Kópavogur.png" height="25px"> HK</p> |
+| <p align="center">FT</p> | <p align="right">KR <img src="/static/logos/KR Reykjavík.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Keflavík ÍF.png" height="25px"> Keflavík</p> |
 </div>
 
 
@@ -277,7 +277,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Vestri <img src="/static/logos/IF Vestri.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Leiknir Reykjavík.png" height="25px"> Leiknir R</p> |
-| <p align="center">84'</p> | <p align="right">Grótta <img src="/static/logos/IF Grótta.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/UMF Selfoss.png" height="25px"> Selfoss</p> |
+| <p align="center">FT</p> | <p align="right">Grótta <img src="/static/logos/IF Grótta.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/UMF Selfoss.png" height="25px"> Selfoss</p> |
 </div>
 
 
