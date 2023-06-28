@@ -55,7 +55,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">62'</p> | <p align="right">U. de Chile <img src="/static/logos/CFP Universidad de Chile.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Universidad Católica.png" height="25px"> Univ Católica</p> |
+| <p align="center">69'</p> | <p align="right">U. de Chile <img src="/static/logos/CFP Universidad de Chile.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Universidad Católica.png" height="25px"> Univ Católica</p> |
 </div>
 
 
@@ -147,7 +147,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">CSA <img src="/static/logos/CS Alagoano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/América FC (Rio Grande do Norte).png" height="25px"> América RN</p> |
+| <p align="center">' '</p> | <p align="right">CSA <img src="/static/logos/CS Alagoano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/América FC (Rio Grande do Norte).png" height="25px"> América RN</p> |
 </div>
 
 
@@ -159,7 +159,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cordino <img src="/static/logos/Cordino EC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Parnahyba SC.png" height="25px"> Parnahyba</p> |
 | <p align="center">FT</p> | <p align="right">Fluminense PI <img src="/static/logos/Fluminense EC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Maranhão AC.png" height="25px"> Maranhão</p> |
-| <p align="center">45' 6'</p> | <p align="right">Ferroviário <img src="/static/logos/Ferroviário AC Fortaleza.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Atlético Cearense.png" height="25px"> Atlético CE</p> |
+| <p align="center">HT</p> | <p align="right">Ferroviário <img src="/static/logos/Ferroviário AC Fortaleza.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Atlético Cearense.png" height="25px"> Atlético CE</p> |
 | <p align="center">HT</p> | <p align="right">Iguatu <img src="/static/logos/Associação Desportiva Iguatu .png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Globo FC.png" height="25px"> Globo</p> |
 | <p align="center">23:00</p> | <p align="right">Nacional <img src="/static/logos/Nacional AC (Patos).png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Campinense Clube.png" height="25px"> Campinense</p> |
 | <p align="center">23:00</p> | <p align="right">Sousa <img src="/static/logos/Sousa EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Santa Cruz FC.png" height="25px"> Santa Cruz</p> |
