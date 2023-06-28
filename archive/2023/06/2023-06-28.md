@@ -89,7 +89,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mali Under 23.png" height="25px"> Mali</p> |
-| <p align="center">83'</p> | <p align="right">Gabon U23 <img src="/static/logos/Gabon Under 23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Niger Under 23.png" height="25px"> Niger</p> |
+| <p align="center">90'</p> | <p align="right">Gabon U23 <img src="/static/logos/Gabon Under 23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Niger Under 23.png" height="25px"> Niger</p> |
 </div>
 
 
