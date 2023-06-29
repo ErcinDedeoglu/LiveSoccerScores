@@ -113,7 +113,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Ismaily <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Aswan SC.png" height="25px"> Aswan</p> |
+| <p align="center">68'</p> | <p align="right">Ismaily <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Aswan SC.png" height="25px"> Aswan</p> |
 | <p align="center">18:30</p> | <p align="right">National Bank <img src="/static/logos/National Bank of Egypt SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Ahly</p> |
 </div>
 
@@ -147,7 +147,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Valmiera <img src="/static/logos/FK Valmiera.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FK Liepāja.png" height="25px"> Liepāja</p> |
-| <p align="center">33'</p> | <p align="right">Metta <img src="/static/logos/FK Metta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Auda Riga.png" height="25px"> Auda</p> |
+| <p align="center">HT</p> | <p align="right">Metta <img src="/static/logos/FK Metta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Auda Riga.png" height="25px"> Auda</p> |
 </div>
 
 
@@ -157,9 +157,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Hudiksvall <img src="/static/logos/Hudiksvalls Förenade FF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gottne IF.png" height="25px"> Gottne</p> |
-| <p align="center">7'</p> | <p align="right">Jönköpings B <img src="/static/logos/Jönköpings Bollklubb.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hemgårdarnas BK.png" height="25px"> Hemgårdarnas</p> |
-| <p align="center">9'</p> | <p align="right">Luleå <img src="/static/logos/IFK Luleå.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Skellefteå FF.png" height="25px"> Skellefteå</p> |
+| <p align="center">30'</p> | <p align="right">Hudiksvall <img src="/static/logos/Hudiksvalls Förenade FF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gottne IF.png" height="25px"> Gottne</p> |
+| <p align="center">28'</p> | <p align="right">Jönköpings B <img src="/static/logos/Jönköpings Bollklubb.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hemgårdarnas BK.png" height="25px"> Hemgårdarnas</p> |
+| <p align="center">30'</p> | <p align="right">Luleå <img src="/static/logos/IFK Luleå.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Skellefteå FF.png" height="25px"> Skellefteå</p> |
 </div>
 
 
@@ -169,7 +169,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Piteå <img src="/static/logos/Piteå IF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Djurgårdens IF DFF.png" height="25px"> Djurgården</p> |
+| <p align="center">29'</p> | <p align="right">Piteå <img src="/static/logos/Piteå IF.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Djurgårdens IF DFF.png" height="25px"> Djurgården</p> |
 </div>
 
 
