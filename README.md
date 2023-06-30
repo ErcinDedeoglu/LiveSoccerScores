@@ -82,7 +82,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">16:00</p> | <p align="right">Liefering <img src="/static/logos/FC Liefering.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/WSC Hertha Wels.png" height="25px"> Hertha</p> |
-| <p align="center">61'</p> | <p align="right">Salzburg <img src="/static/logos/FC Salzburg.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ferencvárosi TC.png" height="25px"> Ferencváros</p> |
+| <p align="center">87'</p> | <p align="right">Salzburg <img src="/static/logos/FC Salzburg.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ferencvárosi TC.png" height="25px"> Ferencváros</p> |
 </div>
 
 
@@ -158,7 +158,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Energetik-BGU <img src="/static/logos/Energetik-BGU.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Isloch Minsk Region.png" height="25px"> Isloch</p> |
-| <p align="center">15'</p> | <p align="right">Shakhtyor <img src="/static/logos/FC Shakhtyor Soligorsk.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Slutsk.png" height="25px"> Slutsk</p> |
+| <p align="center">41'</p> | <p align="right">Shakhtyor <img src="/static/logos/FC Shakhtyor Soligorsk.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Slutsk.png" height="25px"> Slutsk</p> |
 </div>
 
 
@@ -188,7 +188,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI Club.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Pharco.png" height="25px"> Pharco</p> |
+| <p align="center">78'</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI Club.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Pharco.png" height="25px"> Pharco</p> |
 | <p align="center">18:30</p> | <p align="right">Geish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ceramica Cleopatra FC.png" height="25px"> Ceramica Cleo</p> |
 | <p align="center">18:30</p> | <p align="right">Mokawloon <img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Dakhleya SC.png" height="25px"> El Dakhleya</p> |
 </div>
@@ -200,7 +200,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Vaprus <img src="/static/logos/Pärnu JK Vaprus.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Paide Linnameeskond.png" height="25px"> Paide</p> |
+| <p align="center">42'</p> | <p align="right">Vaprus <img src="/static/logos/Pärnu JK Vaprus.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Paide Linnameeskond.png" height="25px"> Paide</p> |
 </div>
 
 
@@ -222,7 +222,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Daugavpils <img src="/static/logos/BFC Daugavpils.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FS Jelgava.png" height="25px"> Jelgava</p> |
 | <p align="center">FT</p> | <p align="right">Super Nova <img src="/static/logos/SK Super Nova.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"> Tukums</p> |
-| <p align="center">14'</p> | <p align="right">Riga <img src="/static/logos/Riga FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Rīgas Futbola skola.png" height="25px"> RFS</p> |
+| <p align="center">40'</p> | <p align="right">Riga <img src="/static/logos/Riga FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FK Rīgas Futbola skola.png" height="25px"> RFS</p> |
 </div>
 
 
@@ -242,7 +242,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Lillestrøm <img src="/static/logos/Lillestrøm SK Kvinner.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vålerenga Fotball.png" height="25px"> Vålerenga</p> |
+| <p align="center">41'</p> | <p align="right">Lillestrøm <img src="/static/logos/Lillestrøm SK Kvinner.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vålerenga Fotball.png" height="25px"> Vålerenga</p> |
 </div>
 
 
@@ -289,7 +289,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Tyresö <img src="/static/logos/Tyresö FF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IFK Uppsala.png" height="25px"> Uppsala</p> |
+| <p align="center">25'</p> | <p align="right">Tyresö <img src="/static/logos/Tyresö FF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IFK Uppsala.png" height="25px"> Uppsala</p> |
 </div>
 
 
@@ -299,7 +299,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Kristianstad <img src="/static/logos/Kristianstads DFF.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Vittsjö GIK.png" height="25px"> Vittsjö</p> |
+| <p align="center">84'</p> | <p align="right">Kristianstad <img src="/static/logos/Kristianstads DFF.png" height="25px"></p> | <p align="center">1 - 5</p> | <p align="left"><img src="/static/logos/Vittsjö GIK.png" height="25px"> Vittsjö</p> |
 </div>
 
 
@@ -309,10 +309,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Club Africain <img src="/static/logos/Club Africain.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union Sportive de Ben Guerdane.png" height="25px"> USBG</p> |
-| <p align="center">64'</p> | <p align="right">ES Sahel <img src="/static/logos/Étoile Sportive du Sahel.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Olympique de Béja.png" height="25px"> Olympique Béja</p> |
-| <p align="center">77'</p> | <p align="right">Monastir <img src="/static/logos/US Monastirienne.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CS Sfaxien.png" height="25px"> Sfax</p> |
-| <p align="center">79'</p> | <p align="right">Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">1 - 6</p> | <p align="left"><img src="/static/logos/Espérance Sportive de Tunis.png" height="25px"> Tunis</p> |
+| <p align="center">90' 12'</p> | <p align="right">Club Africain <img src="/static/logos/Club Africain.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Union Sportive de Ben Guerdane.png" height="25px"> USBG</p> |
+| <p align="center">90'</p> | <p align="right">ES Sahel <img src="/static/logos/Étoile Sportive du Sahel.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Olympique de Béja.png" height="25px"> Olympique Béja</p> |
+| <p align="center">FT</p> | <p align="right">Monastir <img src="/static/logos/US Monastirienne.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CS Sfaxien.png" height="25px"> Sfax</p> |
+| <p align="center">FT</p> | <p align="right">Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">1 - 6</p> | <p align="left"><img src="/static/logos/Espérance Sportive de Tunis.png" height="25px"> Tunis</p> |
 </div>
 
 
@@ -363,7 +363,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Switzerland <img src="/static/logos/Switzerland.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Zambia.png" height="25px"> Zambia</p> |
+| <p align="center">73'</p> | <p align="right">Switzerland <img src="/static/logos/Switzerland.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Zambia.png" height="25px"> Zambia</p> |
 </div>
 
 
