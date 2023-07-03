@@ -47,8 +47,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 9'</p> | <p align="right">Honduras <img src="/static/logos/Honduras.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Haiti.png" height="25px"> Haiti</p> |
-| <p align="center">90' 7'</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Qatar.png" height="25px"> Qatar</p> |
+| <p align="center">FT</p> | <p align="right">Honduras <img src="/static/logos/Honduras.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Haiti.png" height="25px"> Haiti</p> |
+| <p align="center">FT</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Qatar.png" height="25px"> Qatar</p> |
 </div>
 
 
@@ -309,7 +309,7 @@
 | <p align="center">FT</p> | <p align="right">North Texas <img src="/static/logos/North Texas SC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Los Angeles Football Club 2.png" height="25px"> LAFC II</p> |
 | <p align="center">FT</p> | <p align="right">Chicago Fire <img src="/static/logos/Chicago Fire FC II.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Columbus Crew 2.png" height="25px"> Columbus II</p> |
 | <p align="center">FT</p> | <p align="right">Cincinnati II <img src="/static/logos/FC Cincinnati 2.png" height="25px"></p> | <p align="center">3 - 5</p> | <p align="left"><img src="/static/logos/Orlando City B.png" height="25px"> Orlando City B</p> |
-| <p align="center">71'</p> | <p align="right">Tacoma Def. <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
+| <p align="center">81'</p> | <p align="right">Tacoma Def. <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
 </div>
 
 
