@@ -309,7 +309,7 @@
 | <p align="center">FT</p> | <p align="right">North Texas <img src="/static/logos/North Texas SC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Los Angeles Football Club 2.png" height="25px"> LAFC II</p> |
 | <p align="center">FT</p> | <p align="right">Chicago Fire <img src="/static/logos/Chicago Fire FC II.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Columbus Crew 2.png" height="25px"> Columbus II</p> |
 | <p align="center">FT</p> | <p align="right">Cincinnati II <img src="/static/logos/FC Cincinnati 2.png" height="25px"></p> | <p align="center">3 - 5</p> | <p align="left"><img src="/static/logos/Orlando City B.png" height="25px"> Orlando City B</p> |
-| <p align="center">81'</p> | <p align="right">Tacoma Def. <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
+| <p align="center">FT</p> | <p align="right">Tacoma Def. <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
 </div>
 
 
