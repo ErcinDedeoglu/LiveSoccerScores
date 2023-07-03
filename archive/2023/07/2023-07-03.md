@@ -58,7 +58,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">Huachipato <img src="/static/logos/CD Huachipato.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Deportivo Magallanes.png" height="25px"> Magallanes</p> |
+| <p align="center">77'</p> | <p align="right">Huachipato <img src="/static/logos/CD Huachipato.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Deportivo Magallanes.png" height="25px"> Magallanes</p> |
 </div>
 
 
@@ -145,7 +145,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">1'</p> | <p align="right">National Bank <img src="/static/logos/National Bank of Egypt SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids</p> |
+| <p align="center">9'</p> | <p align="right">National Bank <img src="/static/logos/National Bank of Egypt SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids</p> |
 </div>
 
 
@@ -155,7 +155,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Poland <img src="/static/logos/Poland Under 19.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Portugal Under 19.png" height="25px"> Portugal</p> |
+| <p align="center">74'</p> | <p align="right">Poland <img src="/static/logos/Poland Under 19.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Portugal Under 19.png" height="25px"> Portugal</p> |
 | <p align="center">19:00</p> | <p align="right">Malta <img src="/static/logos/Malta Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Italy Under 19.png" height="25px"> Italy</p> |
 </div>
 
@@ -201,7 +201,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Tukums <img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FK Metta.png" height="25px"> Metta</p> |
-| <p align="center">30'</p> | <p align="right">Auda <img src="/static/logos/FK Auda Riga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Valmiera.png" height="25px"> Valmiera</p> |
+| <p align="center">38'</p> | <p align="right">Auda <img src="/static/logos/FK Auda Riga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Valmiera.png" height="25px"> Valmiera</p> |
 </div>
 
 
@@ -223,7 +223,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Stabæk <img src="/static/logos/Stabæk Fotball.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Strømsgodset IF.png" height="25px"> Strømsgodset</p> |
+| <p align="center">38'</p> | <p align="right">Stabæk <img src="/static/logos/Stabæk Fotball.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Strømsgodset IF.png" height="25px"> Strømsgodset</p> |
 </div>
 
 
@@ -233,7 +233,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">Fløy-Flekkerøy <img src="/static/logos/Fløy-Flekkerøy IL.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aalesunds FK II.png" height="25px"> Aalesund II</p> |
+| <p align="center">10'</p> | <p align="right">Fløy-Flekkerøy <img src="/static/logos/Fløy-Flekkerøy IL.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aalesunds FK II.png" height="25px"> Aalesund II</p> |
 </div>
 
 
@@ -264,8 +264,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Elfsborg <img src="/static/logos/IF Elfsborg.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hammarby IF.png" height="25px"> Hammarby</p> |
-| <p align="center">31'</p> | <p align="right">Mjällby <img src="/static/logos/Mjällby AIF.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kalmar FF.png" height="25px"> Kalmar</p> |
+| <p align="center">39'</p> | <p align="right">Elfsborg <img src="/static/logos/IF Elfsborg.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hammarby IF.png" height="25px"> Hammarby</p> |
+| <p align="center">38'</p> | <p align="right">Mjällby <img src="/static/logos/Mjällby AIF.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kalmar FF.png" height="25px"> Kalmar</p> |
 </div>
 
 
@@ -275,7 +275,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Brommapojkarna <img src="/static/logos/IF Brommapojkarna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hammarby IF DFF.png" height="25px"> Hammarby</p> |
+| <p align="center">39'</p> | <p align="right">Brommapojkarna <img src="/static/logos/IF Brommapojkarna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hammarby IF DFF.png" height="25px"> Hammarby</p> |
 </div>
 
 
