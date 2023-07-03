@@ -132,10 +132,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10'</p> | <p align="right">Changchun <img src="/static/logos/Changchun Yatai FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Henan FC.png" height="25px"> Henan</p> |
-| <p align="center">10'</p> | <p align="right">Rongcheng <img src="/static/logos/Chengdu Rongcheng FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Beijing Guoan FC.png" height="25px"> Guoan</p> |
-| <p align="center">10'</p> | <p align="right">Shandong <img src="/static/logos/Shandong Taishan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shanghai Port FC.png" height="25px"> Port</p> |
-| <p align="center">10'</p> | <p align="right">Shenzhen <img src="/static/logos/Shenzhen FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wuhan Three Towns FC.png" height="25px"> Three Towns</p> |
+| <p align="center">18'</p> | <p align="right">Changchun <img src="/static/logos/Changchun Yatai FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Henan FC.png" height="25px"> Henan</p> |
+| <p align="center">18'</p> | <p align="right">Rongcheng <img src="/static/logos/Chengdu Rongcheng FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Beijing Guoan FC.png" height="25px"> Guoan</p> |
+| <p align="center">18'</p> | <p align="right">Shandong <img src="/static/logos/Shandong Taishan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shanghai Port FC.png" height="25px"> Port</p> |
+| <p align="center">18'</p> | <p align="right">Shenzhen <img src="/static/logos/Shenzhen FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wuhan Three Towns FC.png" height="25px"> Three Towns</p> |
 </div>
 
 
@@ -189,8 +189,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Seongnam FC.png" height="25px"> Seongnam</p> |
-| <p align="center">86'</p> | <p align="right">Dragons <img src="/static/logos/Jeonnam Dragons FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Seoul E-Land FC.png" height="25px"> Seoul E-Land</p> |
+| <p align="center">90' 5'</p> | <p align="right">Cheongju <img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Seongnam FC.png" height="25px"> Seongnam</p> |
+| <p align="center">90' 4'</p> | <p align="right">Dragons <img src="/static/logos/Jeonnam Dragons FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Seoul E-Land FC.png" height="25px"> Seoul E-Land</p> |
 </div>
 
 
