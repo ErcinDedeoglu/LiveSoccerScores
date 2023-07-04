@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Lanús <img src="/static/logos/CA Lanús.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Vélez Sarsfield.png" height="25px"> Vélez</p> |
+| <p align="center">27'</p> | <p align="right">Lanús <img src="/static/logos/CA Lanús.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Vélez Sarsfield.png" height="25px"> Vélez</p> |
 </div>
 
 
@@ -47,8 +47,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">35'</p> | <p align="right">Canada <img src="/static/logos/Canada.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Cuba.png" height="25px"> Cuba</p> |
-| <p align="center">35'</p> | <p align="right">Guadeloupe <img src="/static/logos/Guadeloupe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guatemala.png" height="25px"> Guatemala</p> |
+| <p align="center">HT</p> | <p align="right">Canada <img src="/static/logos/Canada.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Cuba.png" height="25px"> Cuba</p> |
+| <p align="center">HT</p> | <p align="right">Guadeloupe <img src="/static/logos/Guadeloupe.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Guatemala.png" height="25px"> Guatemala</p> |
 </div>
 
 
@@ -166,8 +166,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11'</p> | <p align="right">Comercial <img src="/static/logos/Comercial FC (Ribeirão Preto).png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Marilia Atletico Clube.png" height="25px"> Marília</p> |
-| <p align="center">48'</p> | <p align="right">XV Piracicaba <img src="/static/logos/EC XV de Novembro (Piracicaba).png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Associacao Atletica Ponte Preta.png" height="25px"> Ponte Preta</p> |
+| <p align="center">30'</p> | <p align="right">Comercial <img src="/static/logos/Comercial FC (Ribeirão Preto).png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Marilia Atletico Clube.png" height="25px"> Marília</p> |
+| <p align="center">67'</p> | <p align="right">XV Piracicaba <img src="/static/logos/EC XV de Novembro (Piracicaba).png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Associacao Atletica Ponte Preta.png" height="25px"> Ponte Preta</p> |
 </div>
 
 
@@ -178,7 +178,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Rangers <img src="/static/logos/CSD Rangers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Corporación Deportiva Comunal Cabrero.png" height="25px"> Cabrero</p> |
-| <p align="center">9'</p> | <p align="right">Colo Colo <img src="/static/logos/CSD Colo-Colo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
+| <p align="center">28'</p> | <p align="right">Colo Colo <img src="/static/logos/CSD Colo-Colo.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
 </div>
 
 
@@ -253,7 +253,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Caracas <img src="/static/logos/Caracas FC Under 20.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/CD O'Higgins Under 20.png" height="25px"> O'Higgins</p> |
-| <p align="center">54'</p> | <p align="right">Peñarol <img src="/static/logos/CA Peñarol Under 20.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Club Alianza Lima Under 20.png" height="25px"> Alianza Lima U20</p> |
+| <p align="center">73'</p> | <p align="right">Peñarol <img src="/static/logos/CA Peñarol Under 20.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Club Alianza Lima Under 20.png" height="25px"> Alianza Lima U20</p> |
 </div>
 
 
