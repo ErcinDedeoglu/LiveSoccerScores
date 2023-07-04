@@ -69,7 +69,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guinea Under 23.png" height="25px"> Guinea</p> |
-| <p align="center">5'</p> | <p align="right">Morocco <img src="/static/logos/Morocco Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mali Under 23.png" height="25px"> Mali</p> |
+| <p align="center">17'</p> | <p align="right">Morocco <img src="/static/logos/Morocco Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mali Under 23.png" height="25px"> Mali</p> |
 </div>
 
 
@@ -177,7 +177,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">Rangers <img src="/static/logos/CSD Rangers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corporación Deportiva Comunal Cabrero.png" height="25px"> Cabrero</p> |
+| <p align="center">12'</p> | <p align="right">Rangers <img src="/static/logos/CSD Rangers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Corporación Deportiva Comunal Cabrero.png" height="25px"> Cabrero</p> |
 | <p align="center">23:00</p> | <p align="right">Colo Colo <img src="/static/logos/CSD Colo-Colo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
 </div>
 
@@ -220,7 +220,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">119'</p> | <p align="right">KA <img src="/static/logos/KA Akureyri.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Breidablik UBK.png" height="25px"> Breidablik</p> |
+| <p align="center">121'</p> | <p align="right">KA <img src="/static/logos/KA Akureyri.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Breidablik UBK.png" height="25px"> Breidablik</p> |
 </div>
 
 
@@ -252,7 +252,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">48'</p> | <p align="right">Caracas <img src="/static/logos/Caracas FC Under 20.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CD O'Higgins Under 20.png" height="25px"> O'Higgins</p> |
+| <p align="center">60'</p> | <p align="right">Caracas <img src="/static/logos/Caracas FC Under 20.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CD O'Higgins Under 20.png" height="25px"> O'Higgins</p> |
 | <p align="center">22:00</p> | <p align="right">Peñarol <img src="/static/logos/CA Peñarol Under 20.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Alianza Lima Under 20.png" height="25px"> Alianza Lima U20</p> |
 </div>
 
