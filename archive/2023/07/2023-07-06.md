@@ -52,7 +52,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Torpedo BelAZ <img src="/static/logos/FC Torpedo-BelAZ Zhodino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Dinamo Minsk.png" height="25px"> Dinamo Minsk</p> |
-| <p align="center">24'</p> | <p align="right">BATE <img src="/static/logos/FC BATE Borisov.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Shakhtyor Soligorsk.png" height="25px"> Shakhtyor</p> |
+| <p align="center">32'</p> | <p align="right">BATE <img src="/static/logos/FC BATE Borisov.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Shakhtyor Soligorsk.png" height="25px"> Shakhtyor</p> |
 </div>
 
 
@@ -73,7 +73,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 19.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Italy Under 19.png" height="25px"> Italy</p> |
+| <p align="center">FT</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 19.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Italy Under 19.png" height="25px"> Italy</p> |
 | <p align="center">19:15</p> | <p align="right">Malta <img src="/static/logos/Malta Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Poland Under 19.png" height="25px"> Poland</p> |
 </div>
 
