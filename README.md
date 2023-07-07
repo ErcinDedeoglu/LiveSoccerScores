@@ -28,7 +28,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Belgrano <img src="/static/logos/CA Belgrano de Córdoba.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CA Barracas Central.png" height="25px"> Barracas C</p> |
 | <p align="center">FT</p> | <p align="right">Huracán <img src="/static/logos/CA Huracán.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA Tucumán.png" height="25px"> Atl. Tucumán</p> |
-| <p align="center">3'</p> | <p align="right">Gimn La Plata <img src="/static/logos/Gimnasia y Esgrima La Plata.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Independiente.png" height="25px"> Independiente</p> |
+| <p align="center">13'</p> | <p align="right">Gimn La Plata <img src="/static/logos/Gimnasia y Esgrima La Plata.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Independiente.png" height="25px"> Independiente</p> |
 </div>
 
 
@@ -38,7 +38,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">Audax <img src="/static/logos/Audax Italiano La Florida SADP.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Palestino.png" height="25px"> Palestino</p> |
+| <p align="center">16'</p> | <p align="right">Audax <img src="/static/logos/Audax Italiano La Florida SADP.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Palestino.png" height="25px"> Palestino</p> |
 </div>
 
 
@@ -170,7 +170,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">Novorizontino <img src="/static/logos/Grêmio Novorizontino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atlético Goianiense.png" height="25px"> Atlético GO</p> |
+| <p align="center">15'</p> | <p align="right">Novorizontino <img src="/static/logos/Grêmio Novorizontino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atlético Goianiense.png" height="25px"> Atlético GO</p> |
 </div>
 
 
@@ -309,7 +309,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">46'</p> | <p align="right">Resistencia <img src="/static/logos/Resistencia SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/General Caballero JLM.png" height="25px"> Caballero JLM</p> |
+| <p align="center">56'</p> | <p align="right">Resistencia <img src="/static/logos/Resistencia SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/General Caballero JLM.png" height="25px"> Caballero JLM</p> |
 | <p align="center">23:30</p> | <p align="right">Libertad <img src="/static/logos/Club Libertad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Nacional Asunción.png" height="25px"> Nacional</p> |
 </div>
 
@@ -369,7 +369,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">O'Higgins <img src="/static/logos/CD O'Higgins Under 20.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CA Peñarol Under 20.png" height="25px"> Peñarol</p> |
-| <p align="center">3'</p> | <p align="right">Caracas <img src="/static/logos/Caracas FC Under 20.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Alianza Lima Under 20.png" height="25px"> Alianza Lima U20</p> |
+| <p align="center">13'</p> | <p align="right">Caracas <img src="/static/logos/Caracas FC Under 20.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Alianza Lima Under 20.png" height="25px"> Alianza Lima U20</p> |
 </div>
 
 
