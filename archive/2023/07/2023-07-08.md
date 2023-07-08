@@ -239,9 +239,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Dandenong Thunder SC.png" height="25px"> Dandenong</p> |
-| <p align="center">50'</p> | <p align="right">Bentleigh <img src="/static/logos/Bentleigh Greens SC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Oakleigh Cannons FC.png" height="25px"> Oakleigh</p> |
-| <p align="center">51'</p> | <p align="right">Moreland City <img src="/static/logos/Moreland City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Green Gully SC.png" height="25px"> Green Gully</p> |
+| <p align="center">90'</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Dandenong Thunder SC.png" height="25px"> Dandenong</p> |
+| <p align="center">62'</p> | <p align="right">Bentleigh <img src="/static/logos/Bentleigh Greens SC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Oakleigh Cannons FC.png" height="25px"> Oakleigh</p> |
+| <p align="center">63'</p> | <p align="right">Moreland City <img src="/static/logos/Moreland City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Green Gully SC.png" height="25px"> Green Gully</p> |
 | <p align="center">08:15</p> | <p align="right">Altona Magic <img src="/static/logos/Altona Magic SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Heidelberg United FC.png" height="25px"> Heidelberg</p> |
 </div>
 
@@ -252,8 +252,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Calder Utd <img src="/static/logos/Calder United SC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Boroondara Eagles FC.png" height="25px"> Boroondara</p> |
-| <p align="center">5'</p> | <p align="right">Bulleen <img src="/static/logos/FC Bulleen Lions.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bayside United FC.png" height="25px"> Bayside Utd</p> |
+| <p align="center">54'</p> | <p align="right">Calder Utd <img src="/static/logos/Calder United SC.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/Boroondara Eagles FC.png" height="25px"> Boroondara</p> |
+| <p align="center">17'</p> | <p align="right">Bulleen <img src="/static/logos/FC Bulleen Lions.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bayside United FC.png" height="25px"> Bayside Utd</p> |
 </div>
 
 
@@ -263,7 +263,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Mariners <img src="/static/logos/Central Coast Mariners FC Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Wollongong Wolves FC.png" height="25px"> Wolves</p> |
+| <p align="center">59'</p> | <p align="right">Mariners <img src="/static/logos/Central Coast Mariners FC Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Wollongong Wolves FC.png" height="25px"> Wolves</p> |
 | <p align="center">07:30</p> | <p align="right">NWS Spirit <img src="/static/logos/NWS Spirit FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
 | <p align="center">07:45</p> | <p align="right">Leichhardt <img src="/static/logos/APIA Leichhardt FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC Under 21.png" height="25px"> Western Sydney</p> |
 | <p align="center">09:00</p> | <p align="right">St George City <img src="/static/logos/St George City FA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bulls FC Academy.png" height="25px"> Bulls</p> |
@@ -277,7 +277,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">NWS Spirit <img src="/static/logos/North West Sydney Spirit FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sydney University SFC.png" height="25px"> Sydney Univ</p> |
+| <p align="center">55'</p> | <p align="right">NWS Spirit <img src="/static/logos/North West Sydney Spirit FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sydney University SFC.png" height="25px"> Sydney Univ</p> |
 </div>
 
 
