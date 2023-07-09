@@ -72,7 +72,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Palmeiras <img src="/static/logos/SE Palmeiras.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CR Flamengo.png" height="25px"> Flamengo</p> |
-| <p align="center">27'</p> | <p align="right">Santos <img src="/static/logos/Santos FC Sao Paulo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Goiás EC.png" height="25px"> Goiás</p> |
+| <p align="center">43'</p> | <p align="right">Santos <img src="/static/logos/Santos FC Sao Paulo.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Goiás EC.png" height="25px"> Goiás</p> |
 | <p align="center">19:00</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SC Internacional.png" height="25px"> Internacional</p> |
 | <p align="center">19:00</p> | <p align="right">RB Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/São Paulo FC.png" height="25px"> São Paulo</p> |
 | <p align="center">21:30</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Athletico Paranaense.png" height="25px"> Paranaense</p> |
@@ -133,7 +133,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Zambia <img src="/static/logos/Zambia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Comoros.png" height="25px"> Comoros</p> |
+| <p align="center">85'</p> | <p align="right">Zambia <img src="/static/logos/Zambia.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Comoros.png" height="25px"> Comoros</p> |
 | <p align="center">16:00</p> | <p align="right">Malawi <img src="/static/logos/Malawi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Seychelles.png" height="25px"> Seychelles</p> |
 </div>
 
@@ -302,7 +302,7 @@
 | <p align="center">19:00</p> | <p align="right">Real Ariquemes <img src="/static/logos/Real Desportivo Ariquemes FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ceilândia EC.png" height="25px"> Ceilândia</p> |
 | <p align="center">20:00</p> | <p align="right">CEOV <img src="/static/logos/Clube Esportivo Operário Várzea-Grandense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/União EC.png" height="25px"> U Rondonópolis</p> |
 | <p align="center">18:00</p> | <p align="right">Vitória <img src="/static/logos/Vitória FC (Espírito Santo).png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Noroeste Capixaba FC.png" height="25px"> Noroeste</p> |
-| <p align="center">25'</p> | <p align="right">CAP <img src="/static/logos/CA Patrocinense.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Operário FC (Campo Grande).png" height="25px"> Operário</p> |
+| <p align="center">40'</p> | <p align="right">CAP <img src="/static/logos/CA Patrocinense.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Operário FC (Campo Grande).png" height="25px"> Operário</p> |
 | <p align="center">18:00</p> | <p align="right">Concórdia <img src="/static/logos/Concórdia Atlético Clube.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Camboriú FC.png" height="25px"> Camboriú</p> |
 | <p align="center">19:00</p> | <p align="right">Brasil Pelotas <img src="/static/logos/Gremio Esportivo Brasil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/EC Novo Hamburgo.png" height="25px"> Novo Hamburgo</p> |
 </div>
@@ -372,7 +372,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Laagri <img src="/static/logos/Harju JK Laagri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JK Tammeka Tartu.png" height="25px"> Tammeka</p> |
+| <p align="center">43'</p> | <p align="right">Laagri <img src="/static/logos/Harju JK Laagri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JK Tammeka Tartu.png" height="25px"> Tammeka</p> |
 | <p align="center">16:00</p> | <p align="right">Levadia <img src="/static/logos/Tallinna FCI Levadia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nõmme Kalju FC.png" height="25px"> Kalju</p> |
 </div>
 
@@ -482,7 +482,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Jelgava <img src="/static/logos/FS Jelgava.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/SK Super Nova.png" height="25px"> Super Nova</p> |
+| <p align="center">85'</p> | <p align="right">Jelgava <img src="/static/logos/FS Jelgava.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/SK Super Nova.png" height="25px"> Super Nova</p> |
 </div>
 
 
@@ -503,7 +503,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sri Pahang <img src="/static/logos/Kelab Bola Sepak Sri Pahang.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bolasepak Selangor.png" height="25px"> Selangor</p> |
-| <p align="center">66'</p> | <p align="right">PDRM <img src="/static/logos/Polis Di-Raja Malaysia FA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kedah Darul Aman FC.png" height="25px"> Kedah</p> |
+| <p align="center">81'</p> | <p align="right">PDRM <img src="/static/logos/Polis Di-Raja Malaysia FA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kedah Darul Aman FC.png" height="25px"> Kedah</p> |
 </div>
 
 
@@ -528,9 +528,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Åsane <img src="/static/logos/Åsane Fotball.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Skeid Fotball.png" height="25px"> Skeid</p> |
-| <p align="center">68'</p> | <p align="right">Fredrikstad <img src="/static/logos/Fredrikstad FK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kongsvinger IL.png" height="25px"> Kongsvinger</p> |
-| <p align="center">69'</p> | <p align="right">Moss <img src="/static/logos/Moss FK.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bryne FK.png" height="25px"> Bryne</p> |
+| <p align="center">83'</p> | <p align="right">Åsane <img src="/static/logos/Åsane Fotball.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Skeid Fotball.png" height="25px"> Skeid</p> |
+| <p align="center">83'</p> | <p align="right">Fredrikstad <img src="/static/logos/Fredrikstad FK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kongsvinger IL.png" height="25px"> Kongsvinger</p> |
+| <p align="center">84'</p> | <p align="right">Moss <img src="/static/logos/Moss FK.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bryne FK.png" height="25px"> Bryne</p> |
 </div>
 
 
@@ -584,8 +584,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">Malmö <img src="/static/logos/Malmö FF.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Mjällby AIF.png" height="25px"> Mjällby</p> |
-| <p align="center">63'</p> | <p align="right">Sirius <img src="/static/logos/IK Sirius Fotboll.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hammarby IF.png" height="25px"> Hammarby</p> |
+| <p align="center">79'</p> | <p align="right">Malmö <img src="/static/logos/Malmö FF.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Mjällby AIF.png" height="25px"> Mjällby</p> |
+| <p align="center">79'</p> | <p align="right">Sirius <img src="/static/logos/IK Sirius Fotboll.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Hammarby IF.png" height="25px"> Hammarby</p> |
 | <p align="center">15:30</p> | <p align="right">Kalmar <img src="/static/logos/Kalmar FF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IF Elfsborg.png" height="25px"> Elfsborg</p> |
 </div>
 
@@ -596,7 +596,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Brage <img src="/static/logos/IK Brage.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Örgryte IS.png" height="25px"> Örgryte</p> |
+| <p align="center">78'</p> | <p align="right">Brage <img src="/static/logos/IK Brage.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Örgryte IS.png" height="25px"> Örgryte</p> |
 | <p align="center">15:00</p> | <p align="right">Skövde <img src="/static/logos/Skövde AIK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/GAIS.png" height="25px"> GAIS</p> |
 </div>
 
@@ -609,7 +609,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Brommapojkarna <img src="/static/logos/IF Brommapojkarna.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/IFK Norrköping DFK.png" height="25px"> Norrköping</p> |
 | <p align="center">FT</p> | <p align="right">Vittsjö <img src="/static/logos/Vittsjö GIK.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Djurgårdens IF DFF.png" height="25px"> Djurgården</p> |
-| <p align="center">67'</p> | <p align="right">Växjö <img src="/static/logos/Växjö DFF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/IFK Kalmar.png" height="25px"> Kalmar</p> |
+| <p align="center">82'</p> | <p align="right">Växjö <img src="/static/logos/Växjö DFF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/IFK Kalmar.png" height="25px"> Kalmar</p> |
 </div>
 
 
