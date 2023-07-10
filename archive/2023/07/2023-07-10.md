@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Barracas C <img src="/static/logos/CA Barracas Central.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos</p> |
+| <p align="center">6'</p> | <p align="right">Barracas C <img src="/static/logos/CA Barracas Central.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos</p> |
 | <p align="center">19:30</p> | <p align="right">Colón <img src="/static/logos/Colón de Santa Fe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Belgrano de Córdoba.png" height="25px"> Belgrano</p> |
 | <p align="center">22:30</p> | <p align="right">Boca Juniors <img src="/static/logos/CA Boca Juniors.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Huracán.png" height="25px"> Huracán</p> |
 </div>
@@ -59,7 +59,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mauritius.png" height="25px"> Mauritius</p> |
-| <p align="center">14'</p> | <p align="right">Mozambique <img src="/static/logos/Mozambique.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Lesotho.png" height="25px"> Lesotho</p> |
+| <p align="center">51'</p> | <p align="right">Mozambique <img src="/static/logos/Mozambique.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Lesotho.png" height="25px"> Lesotho</p> |
 </div>
 
 
@@ -69,14 +69,14 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:15</p> | <p align="right">Bayadh <img src="/static/logos/MC El Bayadh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Constantine.png" height="25px"> CS Constantine</p> |
-| <p align="center">16:15</p> | <p align="right">ES Sétif <img src="/static/logos/ES Sétif.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
-| <p align="center">16:15</p> | <p align="right">HBCL <img src="/static/logos/Hilal Baladiat Chelghoum Laïd.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/RC Arbaâ.png" height="25px"> RC Arbaâ</p> |
-| <p align="center">16:15</p> | <p align="right">Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NC Magra.png" height="25px"> NC Magra</p> |
-| <p align="center">16:15</p> | <p align="right">Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> Belouizdad</p> |
-| <p align="center">16:15</p> | <p align="right">MC Oran <img src="/static/logos/MC Oran.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JS Saoura.png" height="25px"> Saoura</p> |
-| <p align="center">16:15</p> | <p align="right">Paradou <img src="/static/logos/Paradou AC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/US Biskra.png" height="25px"> US Biskra</p> |
-| <p align="center">16:15</p> | <p align="right">USM Alger <img src="/static/logos/USM Alger.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ASO Chlef.png" height="25px"> ASO Chlef</p> |
+| <p align="center">43'</p> | <p align="right">Bayadh <img src="/static/logos/MC El Bayadh.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CS Constantine.png" height="25px"> CS Constantine</p> |
+| <p align="center">45' 4'</p> | <p align="right">ES Sétif <img src="/static/logos/ES Sétif.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
+| <p align="center">HT</p> | <p align="right">HBCL <img src="/static/logos/Hilal Baladiat Chelghoum Laïd.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/RC Arbaâ.png" height="25px"> RC Arbaâ</p> |
+| <p align="center">45'</p> | <p align="right">Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/NC Magra.png" height="25px"> NC Magra</p> |
+| <p align="center">44'</p> | <p align="right">Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> Belouizdad</p> |
+| <p align="center">HT</p> | <p align="right">MC Oran <img src="/static/logos/MC Oran.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JS Saoura.png" height="25px"> Saoura</p> |
+| <p align="center">HT</p> | <p align="right">Paradou <img src="/static/logos/Paradou AC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/US Biskra.png" height="25px"> US Biskra</p> |
+| <p align="center">41'</p> | <p align="right">USM Alger <img src="/static/logos/USM Alger.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/ASO Chlef.png" height="25px"> ASO Chlef</p> |
 </div>
 
 
@@ -175,7 +175,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">Metta <img src="/static/logos/FK Metta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BFC Daugavpils.png" height="25px"> Daugavpils</p> |
+| <p align="center">FT</p> | <p align="right">Metta <img src="/static/logos/FK Metta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BFC Daugavpils.png" height="25px"> Daugavpils</p> |
 </div>
 
 
@@ -185,7 +185,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Grorud <img src="/static/logos/Grorud IL.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vålerenga Fotball II.png" height="25px"> Vålerenga II</p> |
+| <p align="center">5'</p> | <p align="right">Grorud <img src="/static/logos/Grorud IL.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vålerenga Fotball II.png" height="25px"> Vålerenga II</p> |
 </div>
 
 
@@ -206,8 +206,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">IFK Göteborg <img src="/static/logos/IFK Göteborg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Varbergs BoIS FC.png" height="25px"> Varberg</p> |
-| <p align="center">17:00</p> | <p align="right">Norrköping <img src="/static/logos/IFK Norrköping.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Halmstads BK.png" height="25px"> Halmstad</p> |
+| <p align="center">7'</p> | <p align="right">IFK Göteborg <img src="/static/logos/IFK Göteborg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Varbergs BoIS FC.png" height="25px"> Varberg</p> |
+| <p align="center">7'</p> | <p align="right">Norrköping <img src="/static/logos/IFK Norrköping.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Halmstads BK.png" height="25px"> Halmstad</p> |
 </div>
 
 
@@ -217,8 +217,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Helsingborg <img src="/static/logos/Helsingborgs IF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Östersunds FK.png" height="25px"> Östersunds FK</p> |
-| <p align="center">17:00</p> | <p align="right">Trelleborg <img src="/static/logos/Trelleborgs FF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Utsikten BK.png" height="25px"> Utsikten</p> |
+| <p align="center">7'</p> | <p align="right">Helsingborg <img src="/static/logos/Helsingborgs IF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Östersunds FK.png" height="25px"> Östersunds FK</p> |
+| <p align="center">7'</p> | <p align="right">Trelleborg <img src="/static/logos/Trelleborgs FF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Utsikten BK.png" height="25px"> Utsikten</p> |
 </div>
 
 
