@@ -58,7 +58,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mauritius.png" height="25px"> Mauritius</p> |
+| <p align="center">HT</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mauritius.png" height="25px"> Mauritius</p> |
 | <p align="center">16:00</p> | <p align="right">Mozambique <img src="/static/logos/Mozambique.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lesotho.png" height="25px"> Lesotho</p> |
 </div>
 
