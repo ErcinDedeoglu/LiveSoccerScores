@@ -240,7 +240,7 @@
 | <p align="center">FT</p> | <p align="right">Sanfrecce <img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi</p> |
 | <p align="center">FT</p> | <p align="right">Shonan <img src="/static/logos/Shonan Bellmare.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Fagiano Okayama.png" height="25px"> Fagiano</p> |
 | <p align="center">FT</p> | <p align="right">Tokyo <img src="/static/logos/FC Tokyo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tokyo Verdy.png" height="25px"> Tokyo Verdy</p> |
-| <p align="center">105' 26'</p> | <p align="right">Toyama <img src="/static/logos/Kataller Toyama.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex</p> |
+| <p align="center">10:00</p> | <p align="right">Toyama <img src="/static/logos/Kataller Toyama.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex</p> |
 | <p align="center">FT</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Montedio Yamagata.png" height="25px"> Montedio</p> |
 | <p align="center">FT</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Júbilo Iwata.png" height="25px"> Júbilo</p> |
 </div>
