@@ -118,7 +118,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Consadole <img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex</p> |
+| <p align="center">69'</p> | <p align="right">Consadole <img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex</p> |
 | <p align="center">10:00</p> | <p align="right">F Marinos <img src="/static/logos/Yokohama F. Marinos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki</p> |
 </div>
 
@@ -212,8 +212,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Bentleigh <img src="/static/logos/Bentleigh Greens SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
-| <p align="center">16'</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Avondale FC.png" height="25px"> Avondale</p> |
+| <p align="center">29'</p> | <p align="right">Bentleigh <img src="/static/logos/Bentleigh Greens SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
+| <p align="center">28'</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Avondale FC.png" height="25px"> Avondale</p> |
 | <p align="center">07:30</p> | <p align="right">Port Melbourne <img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oakleigh Cannons FC.png" height="25px"> Oakleigh</p> |
 | <p align="center">08:30</p> | <p align="right">Hume City <img src="/static/logos/Hume City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Green Gully SC.png" height="25px"> Green Gully</p> |
 | <p align="center">09:15</p> | <p align="right">Dandenong <img src="/static/logos/Dandenong Thunder SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/North Geelong Warriors FC.png" height="25px"> North Geelong</p> |
@@ -226,7 +226,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14'</p> | <p align="right">Alamein <img src="/static/logos/Alamein FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne Womens FC.png" height="25px"> South Melb</p> |
+| <p align="center">25'</p> | <p align="right">Alamein <img src="/static/logos/Alamein FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne Womens FC.png" height="25px"> South Melb</p> |
 | <p align="center">08:00</p> | <p align="right">Boroondara <img src="/static/logos/Boroondara Eagles FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Southern United FC.png" height="25px"> Southern Utd</p> |
 </div>
 
@@ -237,7 +237,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
+| <p align="center">28'</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
 | <p align="center">07:00</p> | <p align="right">Mt Druitt Town <img src="/static/logos/Mount Druitt Town Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manly United FC.png" height="25px"> Manly Utd</p> |
 | <p align="center">07:30</p> | <p align="right">Sutherland <img src="/static/logos/Sutherland Sharks FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blacktown City FC.png" height="25px"> Blacktown City</p> |
 | <p align="center">07:45</p> | <p align="right">Leichhardt <img src="/static/logos/APIA Leichhardt FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC Under 21.png" height="25px"> Mariners</p> |
@@ -743,16 +743,6 @@
 | <p align="center">11:00</p> | <p align="right">Da Nang <img src="/static/logos/SHB Da Nang FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Becamex Binh Duong FC.png" height="25px"> Binh Duong</p> |
 | <p align="center">11:00</p> | <p align="right">SLNA <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh</p> |
 | <p align="center">12:15</p> | <p align="right">Viettel <img src="/static/logos/Viettel FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hai Phong FC.png" height="25px"> Hai Phong</p> |
-</div>
-
-
-## <img src="/static/logos/World-Friendlies Women.png" height="25px"> World - Friendlies Women
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">02:00</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/South Africa.png" height="25px"> South Africa</p> |
 </div>
 
 
