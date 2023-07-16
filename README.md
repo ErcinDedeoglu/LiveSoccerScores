@@ -61,7 +61,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Botafogo <img src="/static/logos/Botafogo FR.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> RB Bragantino</p> |
 | <p align="center">POS</p> | <p align="right">Corinthians <img src="/static/logos/SC Corinthians Paulista.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Grêmio FB Porto Alegrense.png" height="25px"> Grêmio</p> |
-| <p align="center">14:00</p> | <p align="right">Cruzeiro <img src="/static/logos/Cruzeiro EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coritiba FBC.png" height="25px"> Coritiba</p> |
+| <p align="center">4'</p> | <p align="right">Cruzeiro <img src="/static/logos/Cruzeiro EC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coritiba FBC.png" height="25px"> Coritiba</p> |
 | <p align="center">19:00</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CR Flamengo.png" height="25px"> Flamengo</p> |
 | <p align="center">19:00</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cuiabá EC.png" height="25px"> Cuiabá</p> |
 | <p align="center">19:00</p> | <p align="right">São Paulo <img src="/static/logos/São Paulo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Santos FC Sao Paulo.png" height="25px"> Santos</p> |
@@ -120,7 +120,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Celje <img src="/static/logos/NK Celje.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Trabzonspor Kulübü.png" height="25px"> Trabzonspor</p> |
-| <p align="center">14:00</p> | <p align="right">Hatay <img src="/static/logos/Hatay Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bodrumspor AŞ.png" height="25px"> Bodrumspor</p> |
+| <p align="center">2'</p> | <p align="right">Hatay <img src="/static/logos/Hatay Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bodrumspor AŞ.png" height="25px"> Bodrumspor</p> |
 </div>
 
 
@@ -146,7 +146,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Malawi <img src="/static/logos/Malawi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Africa.png" height="25px"> South Africa</p> |
+| <p align="center">48'</p> | <p align="right">Malawi <img src="/static/logos/Malawi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Africa.png" height="25px"> South Africa</p> |
 | <p align="center">16:00</p> | <p align="right">Lesotho <img src="/static/logos/Lesotho.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zambia.png" height="25px"> Zambia</p> |
 </div>
 
@@ -335,7 +335,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">HT</p> | <p align="right">Comercial <img src="/static/logos/Comercial FC (Ribeirão Preto).png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Mirassol Futebol Clube B.png" height="25px"> Mirassol B</p> |
 | <p align="center">HT</p> | <p align="right">Juventus <img src="/static/logos/CA Juventus.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/EC Primavera.png" height="25px"> Primavera</p> |
-| <p align="center">45' 3'</p> | <p align="right">Portuguesa <img src="/static/logos/AA Portuguesa Santista.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/EC Santo André B.png" height="25px"> Santo André B</p> |
+| <p align="center">HT</p> | <p align="right">Portuguesa <img src="/static/logos/AA Portuguesa Santista.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/EC Santo André B.png" height="25px"> Santo André B</p> |
 </div>
 
 
@@ -447,8 +447,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Ægir <img src="/static/logos/KF Ægir Thorlákshöfn.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UMF Njardvík.png" height="25px"> Njardvík</p> |
-| <p align="center">14:00</p> | <p align="right">Grótta <img src="/static/logos/IF Grótta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UMF Grindavík.png" height="25px"> Grindavík</p> |
+| <p align="center">2'</p> | <p align="right">Ægir <img src="/static/logos/KF Ægir Thorlákshöfn.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/UMF Njardvík.png" height="25px"> Njardvík</p> |
+| <p align="center">3'</p> | <p align="right">Grótta <img src="/static/logos/IF Grótta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/UMF Grindavík.png" height="25px"> Grindavík</p> |
 | <p align="center">14:00</p> | <p align="right">ÍA <img src="/static/logos/ÍA Akranes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IF Vestri.png" height="25px"> Vestri</p> |
 | <p align="center">14:00</p> | <p align="right">Selfoss <img src="/static/logos/UMF Selfoss.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leiknir Reykjavík.png" height="25px"> Leiknir R</p> |
 | <p align="center">16:00</p> | <p align="right">Thór <img src="/static/logos/Thór Akureyri.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UMF Afturelding.png" height="25px"> Afturelding</p> |
@@ -551,7 +551,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">80'</p> | <p align="right">Kuching FA <img src="/static/logos/Kuching FA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Perak Darul Ridzuan.png" height="25px"> Perak</p> |
+| <p align="center">88'</p> | <p align="right">Kuching FA <img src="/static/logos/Kuching FA.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Perak Darul Ridzuan.png" height="25px"> Perak</p> |
 | <p align="center">HT</p> | <p align="right">PDRM <img src="/static/logos/Polis Di-Raja Malaysia FA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Terengganu FC.png" height="25px"> Terengganu</p> |
 </div>
 
@@ -578,8 +578,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Vålerenga II <img src="/static/logos/Vålerenga Fotball II.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Arendal Fotball.png" height="25px"> Arendal</p> |
-| <p align="center">24'</p> | <p align="right">Brattvåg <img src="/static/logos/Brattvåg IL.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Egersunds IK.png" height="25px"> Egersund</p> |
+| <p align="center">46'</p> | <p align="right">Vålerenga II <img src="/static/logos/Vålerenga Fotball II.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Arendal Fotball.png" height="25px"> Arendal</p> |
+| <p align="center">32'</p> | <p align="right">Brattvåg <img src="/static/logos/Brattvåg IL.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Egersunds IK.png" height="25px"> Egersund</p> |
 | <p align="center">15:00</p> | <p align="right">Træff <img src="/static/logos/Sportsklubben Træff.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grorud IL.png" height="25px"> Grorud</p> |
 </div>
 
@@ -647,7 +647,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 9'</p> | <p align="right">Elfsborg <img src="/static/logos/IF Elfsborg.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/IFK Göteborg.png" height="25px"> IFK Göteborg</p> |
+| <p align="center">HT</p> | <p align="right">Elfsborg <img src="/static/logos/IF Elfsborg.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/IFK Göteborg.png" height="25px"> IFK Göteborg</p> |
 | <p align="center">HT</p> | <p align="right">Hammarby <img src="/static/logos/Hammarby IF.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kalmar FF.png" height="25px"> Kalmar</p> |
 | <p align="center">15:30</p> | <p align="right">Mjällby <img src="/static/logos/Mjällby AIF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IFK Norrköping.png" height="25px"> Norrköping</p> |
 </div>
@@ -734,7 +734,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Thanh Hóa <img src="/static/logos/Thanh Hóa.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Duoc Nam Ha Nam Dinh FC.png" height="25px"> Nam Dinh</p> |
-| <p align="center">75'</p> | <p align="right">CAND <img src="/static/logos/Công An Hà Nội.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hồng Lĩnh Hà Tĩnh.png" height="25px"> Hồng Lĩnh</p> |
+| <p align="center">82'</p> | <p align="right">CAND <img src="/static/logos/Công An Hà Nội.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hồng Lĩnh Hà Tĩnh.png" height="25px"> Hồng Lĩnh</p> |
 </div>
 
 
