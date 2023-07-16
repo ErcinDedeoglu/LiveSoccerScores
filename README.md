@@ -202,7 +202,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Knights <img src="/static/logos/Gold Coast Knights SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Brisbane City FC.png" height="25px"> Brisbane City</p> |
-| <p align="center">81'</p> | <p align="right">Eastern Sub <img src="/static/logos/Eastern Suburbs SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> SC Wanderers</p> |
+| <p align="center">FT</p> | <p align="right">Eastern Sub <img src="/static/logos/Eastern Suburbs SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> SC Wanderers</p> |
 </div>
 
 
@@ -212,7 +212,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">Mitchelton <img src="/static/logos/Mitchelton FC.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
+| <p align="center">FT</p> | <p align="right">Mitchelton <img src="/static/logos/Mitchelton FC.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
 </div>
 
 
@@ -233,7 +233,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Calder United SC.png" height="25px"> Calder Utd</p> |
+| <p align="center">24'</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Calder United SC.png" height="25px"> Calder Utd</p> |
 </div>
 
 
@@ -256,10 +256,10 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">07:00</p> | <p align="right">Bankstown City <img src="/static/logos/Bankstown City Lions FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/North West Sydney Spirit FC.png" height="25px"> NWS Spirit</p> |
 | <p align="center">07:00</p> | <p align="right">Emerging Jets <img src="/static/logos/Emerging Jets 1st Grade FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
-| <p align="center">82'</p> | <p align="right">Illawarra St. <img src="/static/logos/Illawarra Stingrays FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bulls FC Academy.png" height="25px"> Bulls</p> |
-| <p align="center">80'</p> | <p align="right">Sydney Univ <img src="/static/logos/Sydney University SFC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Blacktown Spartans FC.png" height="25px"> Spartans</p> |
-| <p align="center">76'</p> | <p align="right">Ravens <img src="/static/logos/Gladesville Ravens SC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Macarthur Rams FC.png" height="25px"> Macarthur Rams</p> |
-| <p align="center">HT</p> | <p align="right">Tigers <img src="/static/logos/Northern Tigers FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Manly United FC.png" height="25px"> Manly United</p> |
+| <p align="center">FT</p> | <p align="right">Illawarra St. <img src="/static/logos/Illawarra Stingrays FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Bulls FC Academy.png" height="25px"> Bulls</p> |
+| <p align="center">FT</p> | <p align="right">Sydney Univ <img src="/static/logos/Sydney University SFC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Blacktown Spartans FC.png" height="25px"> Spartans</p> |
+| <p align="center">90' 1'</p> | <p align="right">Ravens <img src="/static/logos/Gladesville Ravens SC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Macarthur Rams FC.png" height="25px"> Macarthur Rams</p> |
+| <p align="center">07:30</p> | <p align="right">Tigers <img src="/static/logos/Northern Tigers FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manly United FC.png" height="25px"> Manly United</p> |
 | <p align="center">08:55</p> | <p align="right">Leichhardt <img src="/static/logos/APIA Leichhardt FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Football NSW Institute.png" height="25px"> NSW Institute</p> |
 </div>
 
@@ -392,9 +392,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">53'</p> | <p align="right">Qisheng <img src="/static/logos/Zibo Qisheng FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Nantong Haimen Codion FC.png" height="25px"> Haimen</p> |
-| <p align="center">08:30</p> | <p align="right">Istar <img src="/static/logos/Hubei Istar FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qingdao Red Lions FC.png" height="25px"> Red Lions</p> |
-| <p align="center">40'</p> | <p align="right">Pterosaur <img src="/static/logos/Shaoxing Shangyu Pterosaur FC.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Yunnan Yukun FC.png" height="25px"> Yukun</p> |
+| <p align="center">70'</p> | <p align="right">Qisheng <img src="/static/logos/Zibo Qisheng FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Nantong Haimen Codion FC.png" height="25px"> Haimen</p> |
+| <p align="center">27'</p> | <p align="right">Istar <img src="/static/logos/Hubei Istar FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Qingdao Red Lions FC.png" height="25px"> Red Lions</p> |
+| <p align="center">HT</p> | <p align="right">Pterosaur <img src="/static/logos/Shaoxing Shangyu Pterosaur FC.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Yunnan Yukun FC.png" height="25px"> Yukun</p> |
 | <p align="center">11:30</p> | <p align="right">Tongliang Long <img src="/static/logos/Chongqing Tongliang Long FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jiangxi Dark Horse Junior FC.png" height="25px"> Jiangxi DHJ</p> |
 </div>
 
@@ -461,7 +461,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">41'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"> Persebaya</p> |
+| <p align="center">HT</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"> Persebaya</p> |
 | <p align="center">12:00</p> | <p align="right">Persija <img src="/static/logos/Persatuan Sepak Bola Indonesia Jakarta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bhayangkara FC.png" height="25px"> Bhayangkara</p> |
 </div>
 
@@ -490,7 +490,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Azul Claro <img src="/static/logos/FC Azul Claro Numazu.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kagoshima United FC.png" height="25px"> Kagoshima Utd</p> |
+| <p align="center">HT</p> | <p align="right">Azul Claro <img src="/static/logos/FC Azul Claro Numazu.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kagoshima United FC.png" height="25px"> Kagoshima Utd</p> |
 | <p align="center">09:00</p> | <p align="right">Giravanz <img src="/static/logos/Giravanz Kitakyushu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Osaka.png" height="25px"> Osaka</p> |
 | <p align="center">09:00</p> | <p align="right">Grulla Morioka <img src="/static/logos/Iwate Grulla Morioka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yokohama Sports and Culture Club.png" height="25px"> YSCC</p> |
 | <p align="center">09:00</p> | <p align="right">Matsumoto <img src="/static/logos/Matsumoto Yamaga FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fukushima United FC.png" height="25px"> Fukushima</p> |
