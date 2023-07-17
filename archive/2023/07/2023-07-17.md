@@ -94,7 +94,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:30</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle Jets FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne Victory FC.png" height="25px"> Mel Victory</p> |
+| <p align="center">7'</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle Jets FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Melbourne Victory FC.png" height="25px"> Mel Victory</p> |
 </div>
 
 
