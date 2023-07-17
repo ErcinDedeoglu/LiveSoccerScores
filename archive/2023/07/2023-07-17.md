@@ -73,7 +73,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gaziantep <img src="/static/logos/Gaziantep Futbol Kulübü.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Klubi Futbollistik Gostivari.png" height="25px"> KF Gostivari</p> |
-| <p align="center">24'</p> | <p align="right">Gençlerbirliği <img src="/static/logos/Gençlerbirliği Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/İstanbulspor AŞ.png" height="25px"> İstanbulspor</p> |
+| <p align="center">34'</p> | <p align="right">Gençlerbirliği <img src="/static/logos/Gençlerbirliği Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/İstanbulspor AŞ.png" height="25px"> İstanbulspor</p> |
 </div>
 
 
@@ -189,7 +189,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">Inter Turku <img src="/static/logos/FC Inter Turku.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kuopion Palloseura.png" height="25px"> KuPS</p> |
+| <p align="center">13'</p> | <p align="right">Inter Turku <img src="/static/logos/FC Inter Turku.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kuopion Palloseura.png" height="25px"> KuPS</p> |
 </div>
 
 
@@ -209,7 +209,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">IF Fram <img src="/static/logos/IF Fram.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aalesunds FK II.png" height="25px"> Aalesund II</p> |
+| <p align="center">13'</p> | <p align="right">IF Fram <img src="/static/logos/IF Fram.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aalesunds FK II.png" height="25px"> Aalesund II</p> |
 | <p align="center">16:30</p> | <p align="right">Sotra <img src="/static/logos/Sotra SK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SK Brann II.png" height="25px"> Brann II</p> |
 </div>
 
