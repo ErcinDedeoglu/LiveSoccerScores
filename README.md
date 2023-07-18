@@ -97,7 +97,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Perth <img src="/static/logos/Perth Glory FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur</p> |
+| <p align="center">78'</p> | <p align="right">Perth <img src="/static/logos/Perth Glory FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur</p> |
 </div>
 
 
@@ -172,9 +172,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Bucheon <img src="/static/logos/Bucheon FC 1995.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"> Cheongju</p> |
-| <p align="center">HT</p> | <p align="right">Seoul E-Land <img src="/static/logos/Seoul E-Land FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimpo Citizen FC.png" height="25px"> Gimpo</p> |
-| <p align="center">25'</p> | <p align="right">Anyang <img src="/static/logos/FC Anyang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cheonan City Government FC.png" height="25px"> Cheonan City</p> |
+| <p align="center">46'</p> | <p align="right">Bucheon <img src="/static/logos/Bucheon FC 1995.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"> Cheongju</p> |
+| <p align="center">46'</p> | <p align="right">Seoul E-Land <img src="/static/logos/Seoul E-Land FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimpo Citizen FC.png" height="25px"> Gimpo</p> |
+| <p align="center">34'</p> | <p align="right">Anyang <img src="/static/logos/FC Anyang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cheonan City Government FC.png" height="25px"> Cheonan City</p> |
 </div>
 
 
