@@ -22,8 +22,8 @@
 | <p align="center">FT</p> | <p align="right">Sheriff <img src="/static/logos/FK Sheriff Tiraspol.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/FCV Farul Constanţa.png" height="25px"> Farul</p> |
 | <p align="center">FT</p> | <p align="right">BATE <img src="/static/logos/FC BATE Borisov.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/KF Partizani Tirana.png" height="25px"> Partizani</p> |
 | <p align="center">FT</p> | <p align="right">TNS <img src="/static/logos/The New Saints FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/BK Häcken.png" height="25px"> Häcken</p> |
-| <p align="center">116'</p> | <p align="right">Zrinjski <img src="/static/logos/HŠK Zrinjski Mostar.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/FC Urartu.png" height="25px"> Urartu</p> |
-| <p align="center">67'</p> | <p align="right">Breidablik <img src="/static/logos/Breidablik UBK.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Shamrock Rovers FC.png" height="25px"> Shamrock</p> |
+| <p align="center">125'</p> | <p align="right">Zrinjski <img src="/static/logos/HŠK Zrinjski Mostar.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/FC Urartu.png" height="25px"> Urartu</p> |
+| <p align="center">82'</p> | <p align="right">Breidablik <img src="/static/logos/Breidablik UBK.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Shamrock Rovers FC.png" height="25px"> Shamrock</p> |
 </div>
 
 
@@ -161,8 +161,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Fylkir <img src="/static/logos/Fylkir FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/HK Kópavogur.png" height="25px"> HK</p> |
-| <p align="center">38'</p> | <p align="right">KR <img src="/static/logos/KR Reykjavík.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FH Hafnarfjörður.png" height="25px"> FH</p> |
+| <p align="center">HT</p> | <p align="right">Fylkir <img src="/static/logos/Fylkir FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/HK Kópavogur.png" height="25px"> HK</p> |
+| <p align="center">HT</p> | <p align="right">KR <img src="/static/logos/KR Reykjavík.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FH Hafnarfjörður.png" height="25px"> FH</p> |
 </div>
 
 
@@ -196,17 +196,17 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Alloa Athletic <img src="/static/logos/Alloa Athletic FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Stirling Albion FC.png" height="25px"> Stirling</p> |
 | <p align="center">FT</p> | <p align="right">Ayr Utd <img src="/static/logos/Ayr United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Stenhousemuir FC.png" height="25px"> Stenhousemuir</p> |
-| <p align="center">90' 2'</p> | <p align="right">Dundee Utd <img src="/static/logos/Dundee United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Partick Thistle FC.png" height="25px"> Partick</p> |
+| <p align="center">FT</p> | <p align="right">Dundee Utd <img src="/static/logos/Dundee United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Partick Thistle FC.png" height="25px"> Partick</p> |
 | <p align="center">FT</p> | <p align="right">Spartans <img src="/static/logos/Spartans FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Falkirk FC.png" height="25px"> Falkirk</p> |
 | <p align="center">FT</p> | <p align="right">Cove Rangers <img src="/static/logos/Cove Rangers FC.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Clyde FC.png" height="25px"> Clyde</p> |
 | <p align="center">FT</p> | <p align="right">Hamilton <img src="/static/logos/Hamilton Academical FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brechin City FC.png" height="25px"> Brechin</p> |
 | <p align="center">FT</p> | <p align="right">Morton <img src="/static/logos/Greenock Morton FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Stranraer FC.png" height="25px"> Stranraer</p> |
 | <p align="center">FT</p> | <p align="right">Bonnyrigg RA <img src="/static/logos/Bonnyrigg Rose Athletic FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Dundee FC.png" height="25px"> Dundee</p> |
-| <p align="center">90' 5'</p> | <p align="right">Dumbarton <img src="/static/logos/Dumbarton FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Inverness Caledonian Thistle FC.png" height="25px"> Inverness</p> |
+| <p align="center">FT</p> | <p align="right">Dumbarton <img src="/static/logos/Dumbarton FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Inverness Caledonian Thistle FC.png" height="25px"> Inverness</p> |
 | <p align="center">FT</p> | <p align="right">Dunfermline <img src="/static/logos/Dunfermline Athletic FC.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Annan Athletic FC.png" height="25px"> Annan</p> |
 | <p align="center">FT</p> | <p align="right">Raith Rovers <img src="/static/logos/Raith Rovers FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Albion Rovers FC.png" height="25px"> Albion</p> |
 | <p align="center">FT</p> | <p align="right">East Fife <img src="/static/logos/East Fife FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Elgin City FC.png" height="25px"> Elgin</p> |
-| <p align="center">90' 4'</p> | <p align="right">Queen South <img src="/static/logos/Queen of the South FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Motherwell FC.png" height="25px"> Motherwell</p> |
+| <p align="center">FT</p> | <p align="right">Queen South <img src="/static/logos/Queen of the South FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Motherwell FC.png" height="25px"> Motherwell</p> |
 | <p align="center">FT</p> | <p align="right">Montrose <img src="/static/logos/Montrose FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Forfar Athletic FC.png" height="25px"> Forfar</p> |
 </div>
 
