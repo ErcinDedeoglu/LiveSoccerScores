@@ -27,14 +27,14 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Birkirkara <img src="/static/logos/Birkirkara FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/NK Maribor.png" height="25px"> Maribor</p> |
+| <p align="center">46'</p> | <p align="right">Birkirkara <img src="/static/logos/Birkirkara FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/NK Maribor.png" height="25px"> Maribor</p> |
 | <p align="center">HT</p> | <p align="right">Europa <img src="/static/logos/Europa FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/KF Dukagjini Klina.png" height="25px"> Dukagjini</p> |
-| <p align="center">HT</p> | <p align="right">FC St. Coloma <img src="/static/logos/Don Denis FC Santa Coloma.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Penybont FC.png" height="25px"> Penybont</p> |
-| <p align="center">26'</p> | <p align="right">Paide <img src="/static/logos/Paide Linnameeskond.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/B36 Tórshavn.png" height="25px"> B36</p> |
-| <p align="center">27'</p> | <p align="right">RFS <img src="/static/logos/FK Rīgas Futbola skola.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Makedonija Gjorče Petrov.png" height="25px"> Makedonija</p> |
-| <p align="center">27'</p> | <p align="right">Trans <img src="/static/logos/JK Narva Trans.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Pyunik FC.png" height="25px"> Pyunik</p> |
-| <p align="center">16:00</p> | <p align="right">Honka <img src="/static/logos/FC Honka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Tobol Kostanay.png" height="25px"> Tobol</p> |
-| <p align="center">16:00</p> | <p align="right">Milsami <img src="/static/logos/FC Milsami Orhei.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Panevėžys.png" height="25px"> Panevėžys</p> |
+| <p align="center">48'</p> | <p align="right">FC St. Coloma <img src="/static/logos/Don Denis FC Santa Coloma.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Penybont FC.png" height="25px"> Penybont</p> |
+| <p align="center">36'</p> | <p align="right">Paide <img src="/static/logos/Paide Linnameeskond.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/B36 Tórshavn.png" height="25px"> B36</p> |
+| <p align="center">37'</p> | <p align="right">RFS <img src="/static/logos/FK Rīgas Futbola skola.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Makedonija Gjorče Petrov.png" height="25px"> Makedonija</p> |
+| <p align="center">37'</p> | <p align="right">Trans <img src="/static/logos/JK Narva Trans.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Pyunik FC.png" height="25px"> Pyunik</p> |
+| <p align="center">6'</p> | <p align="right">Honka <img src="/static/logos/FC Honka.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Tobol Kostanay.png" height="25px"> Tobol</p> |
+| <p align="center">6'</p> | <p align="right">Milsami <img src="/static/logos/FC Milsami Orhei.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Panevėžys.png" height="25px"> Panevėžys</p> |
 | <p align="center">16:45</p> | <p align="right">Levadia <img src="/static/logos/Tallinna FCI Levadia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MŠK Žilina.png" height="25px"> Žilina</p> |
 | <p align="center">17:00</p> | <p align="right">Dila <img src="/static/logos/FC Dila Gori.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/DAC 1904 Dunajská Streda.png" height="25px"> DAC 1904</p> |
 | <p align="center">17:00</p> | <p align="right">Dinamo Batumi <img src="/static/logos/FC Dinamo Batumi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KF Tirana.png" height="25px"> Tirana</p> |
@@ -99,8 +99,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Antalyaspor <img src="/static/logos/Antalyaspor Kulübü.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Alanyaspor Kulübü.png" height="25px"> Alanyaspor</p> |
-| <p align="center">58'</p> | <p align="right">Milan <img src="/static/logos/AC Milan.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/AC Lumezzane.png" height="25px"> Lumezzane</p> |
-| <p align="center">45' 9'</p> | <p align="right">Pendik <img src="/static/logos/Pendik Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Çorum FK.png" height="25px"> Çorum FK</p> |
+| <p align="center">68'</p> | <p align="right">Milan <img src="/static/logos/AC Milan.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/AC Lumezzane.png" height="25px"> Lumezzane</p> |
+| <p align="center">HT</p> | <p align="right">Pendik <img src="/static/logos/Pendik Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Çorum FK.png" height="25px"> Çorum FK</p> |
 </div>
 
 
