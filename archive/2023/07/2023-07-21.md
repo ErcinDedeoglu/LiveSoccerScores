@@ -61,8 +61,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">11:00</p> | <p align="right">Liefering <img src="/static/logos/FC Liefering.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/LASK Amateure.png" height="25px"> LASK</p> |
-| <p align="center">HT</p> | <p align="right">Beşiktaş <img src="/static/logos/Beşiktaş Jimnastik Kulübü.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/RC Strasbourg Alsace.png" height="25px"> Strasbourg</p> |
-| <p align="center">45'</p> | <p align="right">Konyaspor <img src="/static/logos/Konyaspor Kulübü.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Səbail FK.png" height="25px"> Səbail</p> |
+| <p align="center">46'</p> | <p align="right">Beşiktaş <img src="/static/logos/Beşiktaş Jimnastik Kulübü.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/RC Strasbourg Alsace.png" height="25px"> Strasbourg</p> |
+| <p align="center">HT</p> | <p align="right">Konyaspor <img src="/static/logos/Konyaspor Kulübü.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Səbail FK.png" height="25px"> Səbail</p> |
 | <p align="center">15:00</p> | <p align="right">PSG <img src="/static/logos/Paris Saint-Germain FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Le Havre AC.png" height="25px"> Le Havre</p> |
 | <p align="center">15:00</p> | <p align="right">Demirspor <img src="/static/logos/Adana Demir Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manisa Futbol Kulübü.png" height="25px"> Manisa FK</p> |
 </div>
@@ -354,7 +354,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Super Nova <img src="/static/logos/SK Super Nova.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Metta.png" height="25px"> Metta</p> |
+| <p align="center">8'</p> | <p align="right">Super Nova <img src="/static/logos/SK Super Nova.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Metta.png" height="25px"> Metta</p> |
 | <p align="center">16:00</p> | <p align="right">Jelgava <img src="/static/logos/FS Jelgava.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Liepāja.png" height="25px"> Liepāja</p> |
 </div>
 
