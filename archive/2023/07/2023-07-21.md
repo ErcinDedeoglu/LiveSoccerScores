@@ -199,9 +199,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 3'</p> | <p align="right">Henan <img src="/static/logos/Henan FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Nantong Zhiyun FC.png" height="25px"> Nantong</p> |
+| <p align="center">FT</p> | <p align="right">Henan <img src="/static/logos/Henan FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Nantong Zhiyun FC.png" height="25px"> Nantong</p> |
 | <p align="center">FT</p> | <p align="right">Port <img src="/static/logos/Shanghai Port FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Cangzhou Mighty Lions FC.png" height="25px"> Cangzhou</p> |
-| <p align="center">90' 3'</p> | <p align="right">Tianjin JMT <img src="/static/logos/Tianjin Jinmen Tiger FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Shenzhen FC.png" height="25px"> Shenzhen</p> |
+| <p align="center">90' 11'</p> | <p align="right">Tianjin JMT <img src="/static/logos/Tianjin Jinmen Tiger FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Shenzhen FC.png" height="25px"> Shenzhen</p> |
 </div>
 
 
@@ -332,8 +332,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Borneo <img src="/static/logos/Borneo FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"> Barito</p> |
 | <p align="center">FT</p> | <p align="right">PSS <img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/PSIS Semarang.png" height="25px"> PSIS</p> |
-| <p align="center">71'</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United</p> |
-| <p align="center">69'</p> | <p align="right">Dewa United <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"> Persik</p> |
+| <p align="center">78'</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United</p> |
+| <p align="center">77'</p> | <p align="right">Dewa United <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"> Persik</p> |
 </div>
 
 
@@ -375,7 +375,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Kuching FA <img src="/static/logos/Kuching FA.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"> Kelantan</p> |
+| <p align="center">60'</p> | <p align="right">Kuching FA <img src="/static/logos/Kuching FA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"> Kelantan</p> |
 </div>
 
 
@@ -468,7 +468,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">Balestier <img src="/static/logos/Balestier Khalsa FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Hougang United FC.png" height="25px"> Hougang Utd</p> |
+| <p align="center">FT</p> | <p align="right">Balestier <img src="/static/logos/Balestier Khalsa FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Hougang United FC.png" height="25px"> Hougang Utd</p> |
 </div>
 
 
