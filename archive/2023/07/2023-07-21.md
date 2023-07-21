@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">61'</p> | <p align="right">Philippines <img src="/static/logos/Philippines.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Switzerland.png" height="25px"> Switzerland</p> |
 | <p align="center">FT</p> | <p align="right">Nigeria <img src="/static/logos/Nigeria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
+| <p align="center">86'</p> | <p align="right">Philippines <img src="/static/logos/Philippines.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Switzerland.png" height="25px"> Switzerland</p> |
 | <p align="center">07:30</p> | <p align="right">Spain <img src="/static/logos/Spain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Costa Rica.png" height="25px"> Costa Rica</p> |
 </div>
 
@@ -272,8 +272,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">15:30</p> | <p align="right">Belgium <img src="/static/logos/Belgium Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Germany Under 19.png" height="25px"> Germany</p> |
-| <p align="center">18:30</p> | <p align="right">Austria <img src="/static/logos/Austria Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Netherlands Under 19.png" height="25px"> Netherlands</p> |
 | <p align="center">15:30</p> | <p align="right">Iceland <img src="/static/logos/Iceland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Czechia Under 19.png" height="25px"> Czechia</p> |
+| <p align="center">18:30</p> | <p align="right">Austria <img src="/static/logos/Austria Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Netherlands Under 19.png" height="25px"> Netherlands</p> |
 | <p align="center">18:30</p> | <p align="right">France <img src="/static/logos/France Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain Under 19.png" height="25px"> Spain</p> |
 </div>
 
@@ -499,8 +499,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">La Luz <img src="/static/logos/La Luz FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Montevideo City Torque.png" height="25px"> City Torque</p> |
 | <p align="center">18:00</p> | <p align="right">Fénix <img src="/static/logos/CA Fénix.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liverpool FC Montevideo.png" height="25px"> Liverpool</p> |
+| <p align="center">23:00</p> | <p align="right">La Luz <img src="/static/logos/La Luz FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Montevideo City Torque.png" height="25px"> City Torque</p> |
 </div>
 
 
