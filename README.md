@@ -54,7 +54,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Pacific <img src="/static/logos/Pacific FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Forge FC.png" height="25px"> Forge</p> |
+| <p align="center">81'</p> | <p align="right">Pacific <img src="/static/logos/Pacific FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Forge FC.png" height="25px"> Forge</p> |
 | <p align="center">19:00</p> | <p align="right">Wanderers <img src="/static/logos/HFX Wanderers FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlético Ottawa.png" height="25px"> Atlético</p> |
 | <p align="center">23:00</p> | <p align="right">Vancouver FC <img src="/static/logos/Vancouver FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cavalry FC.png" height="25px"> Cavalry</p> |
 </div>
@@ -618,7 +618,7 @@
 | <p align="center">FT</p> | <p align="right">Orlando <img src="/static/logos/Orlando City SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston</p> |
 | <p align="center">FT</p> | <p align="right">Austin <img src="/static/logos/Austin FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Mazatlán FC.png" height="25px"> Mazatlán</p> |
 | <p align="center">FT</p> | <p align="right">Dallas <img src="/static/logos/FC Dallas.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Charlotte FC.png" height="25px"> Charlotte</p> |
-| <p align="center">HT</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
+| <p align="center">46'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
 | <p align="center">23:30</p> | <p align="right">Montréal <img src="/static/logos/Club de Foot Montréal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"> Pumas</p> |
 | <p align="center">23:30</p> | <p align="right">New York <img src="/static/logos/New York Red Bulls.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/New England Revolution.png" height="25px"> New England</p> |
 </div>
@@ -873,7 +873,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 34'</p> | <p align="right">Hoffenheim II <img src="/static/logos/TSG 1899 Hoffenheim II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Crystal Palace Under 21.png" height="25px"> Crystal Palace</p> |
+| <p align="center">45' 49'</p> | <p align="right">Hoffenheim II <img src="/static/logos/TSG 1899 Hoffenheim II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Crystal Palace Under 21.png" height="25px"> Crystal Palace</p> |
 </div>
 
 
@@ -883,7 +883,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Thorns <img src="/static/logos/Portland Thorns FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave</p> |
+| <p align="center">52'</p> | <p align="right">Thorns <img src="/static/logos/Portland Thorns FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave</p> |
 | <p align="center">23:00</p> | <p align="right">Courage <img src="/static/logos/North Carolina Courage.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Washington Spirit.png" height="25px"> Spirit</p> |
 </div>
 
