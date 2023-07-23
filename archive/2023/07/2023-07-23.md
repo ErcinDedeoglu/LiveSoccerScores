@@ -785,8 +785,8 @@
 | <p align="center">FT</p> | <p align="right">New Mexico Utd <img src="/static/logos/New Mexico United.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Sacramento Republic FC.png" height="25px"> Sacramento </p> |
 | <p align="center">FT</p> | <p align="right">San Antonio <img src="/static/logos/San Antonio FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/The Miami FC.png" height="25px"> Miami</p> |
 | <p align="center">FT</p> | <p align="right">El Paso Loco <img src="/static/logos/El Paso Locomotive FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Roots</p> |
-| <p align="center">90' 6'</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Hartford Athletic.png" height="25px"> Hartford Ath</p> |
-| <p align="center">90'</p> | <p align="right">Phoenix Rising <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Switchbacks</p> |
+| <p align="center">FT</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Hartford Athletic.png" height="25px"> Hartford Ath</p> |
+| <p align="center">90' 3'</p> | <p align="right">Phoenix Rising <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Switchbacks</p> |
 </div>
 
 
