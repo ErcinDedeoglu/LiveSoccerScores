@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">HJK <img src="/static/logos/Helsingin Jalkapalloklubi.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Molde FK.png" height="25px"> Molde</p> |
-| <p align="center">80'</p> | <p align="right">Žalgiris <img src="/static/logos/FK Žalgiris Vilnius.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Galatasaray Spor Kulübü.png" height="25px"> Galatasaray</p> |
+| <p align="center">89'</p> | <p align="right">HJK <img src="/static/logos/Helsingin Jalkapalloklubi.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Molde FK.png" height="25px"> Molde</p> |
+| <p align="center">87'</p> | <p align="right">Žalgiris <img src="/static/logos/FK Žalgiris Vilnius.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Galatasaray Spor Kulübü.png" height="25px"> Galatasaray</p> |
 | <p align="center">18:00</p> | <p align="right">Dinamo Zagreb <img src="/static/logos/GNK Dinamo Zagreb.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Astana.png" height="25px"> Astana</p> |
 | <p align="center">18:00</p> | <p align="right">Dnipro-1 <img src="/static/logos/SK Dnipro-1.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Panathinaikos FC.png" height="25px"> Panathinaikos</p> |
 | <p align="center">18:30</p> | <p align="right">Servette <img src="/static/logos/Servette FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KRC Genk.png" height="25px"> Genk</p> |
@@ -200,7 +200,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">Banga <img src="/static/logos/FK Banga Gargždai.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Hegelmann Litauen Kaunas.png" height="25px"> H. Litauen</p> |
+| <p align="center">90' 1'</p> | <p align="right">Banga <img src="/static/logos/FK Banga Gargždai.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/FC Hegelmann Litauen Kaunas.png" height="25px"> H. Litauen</p> |
 </div>
 
 
@@ -256,7 +256,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Columbus II <img src="/static/logos/Columbus Crew 2.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Philadelphia Union II.png" height="25px"> Union II</p> |
+| <p align="center">51'</p> | <p align="right">Columbus II <img src="/static/logos/Columbus Crew 2.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Philadelphia Union II.png" height="25px"> Union II</p> |
 </div>
 
 
