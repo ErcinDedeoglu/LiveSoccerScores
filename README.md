@@ -93,7 +93,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">PSG <img src="/static/logos/Paris Saint-Germain FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Nassr</p> |
 | <p align="center">HT</p> | <p align="right">Ajax <img src="/static/logos/AFC Ajax.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/SpVgg Unterhaching.png" height="25px"> Unterhaching</p> |
-| <p align="center">18'</p> | <p align="right">Rabotnički <img src="/static/logos/FK Rabotnički Skopje.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Trabzonspor Kulübü.png" height="25px"> Trabzonspor</p> |
+| <p align="center">25'</p> | <p align="right">Rabotnički <img src="/static/logos/FK Rabotnički Skopje.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Trabzonspor Kulübü.png" height="25px"> Trabzonspor</p> |
 </div>
 
 
