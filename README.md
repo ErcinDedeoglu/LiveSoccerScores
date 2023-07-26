@@ -59,7 +59,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Man Utd <img src="/static/logos/Manchester United FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Wrexham FC.png" height="25px"> Wrexham</p> |
 | <p align="center">FT</p> | <p align="right">Triglav <img src="/static/logos/NK Triglav Kranj.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Trabzonspor Kulübü.png" height="25px"> Trabzonspor</p> |
-| <p align="center">28'</p> | <p align="right">Bayern München <img src="/static/logos/FC Bayern München.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Manchester City FC.png" height="25px"> Man City</p> |
+| <p align="center">37'</p> | <p align="right">Bayern München <img src="/static/logos/FC Bayern München.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Manchester City FC.png" height="25px"> Man City</p> |
 | <p align="center">11:30</p> | <p align="right">Tottenham <img src="/static/logos/Tottenham Hotspur FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lion City Sailors FC.png" height="25px"> Lion City</p> |
 | <p align="center">14:00</p> | <p align="right">Sivasspor <img src="/static/logos/Sivasspor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ümraniye Spor Kulübü.png" height="25px"> Ümraniye</p> |
 | <p align="center">15:00</p> | <p align="right">Kayseri <img src="/static/logos/Kayseri Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gençlerbirliği Spor Kulübü.png" height="25px"> Gençlerbirliği</p> |
@@ -85,7 +85,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Football Queensland QAS.png" height="25px"> FQ QAS</p> |
+| <p align="center">75'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Football Queensland QAS.png" height="25px"> FQ QAS</p> |
 </div>
 
 
@@ -95,7 +95,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Illawarra St. <img src="/static/logos/Illawarra Stingrays FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sydney University SFC.png" height="25px"> Sydney Univ</p> |
+| <p align="center">77'</p> | <p align="right">Illawarra St. <img src="/static/logos/Illawarra Stingrays FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sydney University SFC.png" height="25px"> Sydney Univ</p> |
 | <p align="center">10:00</p> | <p align="right">Emerging Jets <img src="/static/logos/Emerging Jets 1st Grade FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northern Tigers FC.png" height="25px"> Tigers</p> |
 </div>
 
