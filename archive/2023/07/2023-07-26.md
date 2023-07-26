@@ -75,7 +75,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Excursionistas <img src="/static/logos/CA Excursionistas.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Almagro.png" height="25px"> Almagro</p> |
+| <p align="center">FT</p> | <p align="right">Excursionistas <img src="/static/logos/CA Excursionistas.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Club Almagro.png" height="25px"> Almagro</p> |
 </div>
 
 
@@ -272,7 +272,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Brentford <img src="/static/logos/Brentford FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Brighton & Hove Albion FC.png" height="25px"> Brighton</p> |
+| <p align="center">73'</p> | <p align="right">Brentford <img src="/static/logos/Brentford FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Brighton & Hove Albion FC.png" height="25px"> Brighton</p> |
 | <p align="center">23:00</p> | <p align="right">Fulham <img src="/static/logos/Fulham FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aston Villa FC.png" height="25px"> Aston Villa</p> |
 </div>
 
