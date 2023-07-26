@@ -19,8 +19,8 @@
 | <p align="center">FT</p> | <p align="right">Aris Limassol <img src="/static/logos/Aris FC Limassol.png" height="25px"></p> | <p align="center">6 - 2</p> | <p align="left"><img src="/static/logos/FC BATE Borisov.png" height="25px"> BATE</p> |
 | <p align="center">FT</p> | <p align="right">Sheriff <img src="/static/logos/FK Sheriff Tiraspol.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Haifa FC.png" height="25px"> M Haifa</p> |
 | <p align="center">FT</p> | <p align="right">Raków <img src="/static/logos/KS Raków Częstochowa.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Qarabağ Ağdam FK.png" height="25px"> Qarabağ</p> |
-| <p align="center">77'</p> | <p align="right">KÍ <img src="/static/logos/KÍ Klaksvík.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BK Häcken.png" height="25px"> Häcken</p> |
-| <p align="center">78'</p> | <p align="right">Ludogorets <img src="/static/logos/PFK Ludogorets 1945 Razgrad.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/NK Olimpija Ljubljana.png" height="25px"> Olimpija</p> |
+| <p align="center">FT</p> | <p align="right">KÍ <img src="/static/logos/KÍ Klaksvík.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BK Häcken.png" height="25px"> Häcken</p> |
+| <p align="center">FT</p> | <p align="right">Ludogorets <img src="/static/logos/PFK Ludogorets 1945 Razgrad.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/NK Olimpija Ljubljana.png" height="25px"> Olimpija</p> |
 </div>
 
 
@@ -65,7 +65,7 @@
 | <p align="center">FT</p> | <p align="right">Kayseri <img src="/static/logos/Kayseri Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gençlerbirliği Spor Kulübü.png" height="25px"> Gençlerbirliği</p> |
 | <p align="center">FT</p> | <p align="right">Kasımpaşa <img src="/static/logos/Kasımpaşa Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Hussein SC.png" height="25px"> Hussein</p> |
 | <p align="center">FT</p> | <p align="right">PSV <img src="/static/logos/PSV Eindhoven.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/FC Eindhoven.png" height="25px"> Eindhoven</p> |
-| <p align="center">62'</p> | <p align="right">Roma <img src="/static/logos/AS Roma.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sporting Braga.png" height="25px"> Braga</p> |
+| <p align="center">90' 2'</p> | <p align="right">Roma <img src="/static/logos/AS Roma.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sporting Braga.png" height="25px"> Braga</p> |
 </div>
 
 
@@ -139,7 +139,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Equidad <img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Águilas Doradas.png" height="25px"> Águilas D</p> |
-| <p align="center">20:30</p> | <p align="right">Tigres <img src="/static/logos/Tigres FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
+| <p align="center">19'</p> | <p align="right">Tigres <img src="/static/logos/Tigres FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
 | <p align="center">23:30</p> | <p align="right">Petrolera <img src="/static/logos/Alianza Petrolera FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportes Tolima SA.png" height="25px"> Dep. Tolima</p> |
 </div>
 
@@ -171,7 +171,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Stjarnan <img src="/static/logos/UMF Stjarnan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Fram Reykjavík.png" height="25px"> Fram</p> |
+| <p align="center">82'</p> | <p align="right">Stjarnan <img src="/static/logos/UMF Stjarnan.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Fram Reykjavík.png" height="25px"> Fram</p> |
 </div>
 
 
@@ -207,8 +207,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Gretna <img src="/static/logos/Gretna FC 2008.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/East Kilbride FC.png" height="25px"> East Kilbride</p> |
-| <p align="center">79'</p> | <p align="right">Stirling Unv <img src="/static/logos/Stirling University FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Cumbernauld Colts FC.png" height="25px"> Cumbernauld C.</p> |
+| <p align="center">FT</p> | <p align="right">Gretna <img src="/static/logos/Gretna FC 2008.png" height="25px"></p> | <p align="center">0 - 7</p> | <p align="left"><img src="/static/logos/East Kilbride FC.png" height="25px"> East Kilbride</p> |
+| <p align="center">FT</p> | <p align="right">Stirling Unv <img src="/static/logos/Stirling University FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Cumbernauld Colts FC.png" height="25px"> Cumbernauld C.</p> |
 </div>
 
 
@@ -218,10 +218,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Dundee <img src="/static/logos/Dundee FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Dumbarton FC.png" height="25px"> Dumbarton</p> |
-| <p align="center">78'</p> | <p align="right">Edinburgh City <img src="/static/logos/Edinburgh City FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Ross County FC.png" height="25px"> Ross County</p> |
-| <p align="center">80'</p> | <p align="right">Kilmarnock <img src="/static/logos/Kilmarnock FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Raith Rovers FC.png" height="25px"> Raith Rovers</p> |
-| <p align="center">79'</p> | <p align="right">Peterhead <img src="/static/logos/Peterhead FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Spartans FC.png" height="25px"> Spartans</p> |
+| <p align="center">FT</p> | <p align="right">Dundee <img src="/static/logos/Dundee FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Dumbarton FC.png" height="25px"> Dumbarton</p> |
+| <p align="center">FT</p> | <p align="right">Edinburgh City <img src="/static/logos/Edinburgh City FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Ross County FC.png" height="25px"> Ross County</p> |
+| <p align="center">FT</p> | <p align="right">Kilmarnock <img src="/static/logos/Kilmarnock FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Raith Rovers FC.png" height="25px"> Raith Rovers</p> |
+| <p align="center">FT</p> | <p align="right">Peterhead <img src="/static/logos/Peterhead FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Spartans FC.png" height="25px"> Spartans</p> |
 </div>
 
 
