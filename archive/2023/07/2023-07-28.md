@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Argentina <img src="/static/logos/Argentina.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/South Africa.png" height="25px"> South Africa</p> |
+| <p align="center">FT</p> | <p align="right">Argentina <img src="/static/logos/Argentina.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/South Africa.png" height="25px"> South Africa</p> |
 | <p align="center">08:30</p> | <p align="right">England <img src="/static/logos/England.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
 | <p align="center">11:00</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Haiti.png" height="25px"> Haiti</p> |
 </div>
@@ -232,7 +232,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Cali <img src="/static/logos/Asociación Deportivo Cali.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Independiente Santa Fe SA.png" height="25px"> Santa Fe</p> |
+| <p align="center">73'</p> | <p align="right">Cali <img src="/static/logos/Asociación Deportivo Cali.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Independiente Santa Fe SA.png" height="25px"> Santa Fe</p> |
 </div>
 
 
@@ -242,8 +242,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">San Carlos <img src="/static/logos/AD San Carlos.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AD Municipal Grecia FC.png" height="25px"> Grecia</p> |
-| <p align="center">02:00</p> | <p align="right">Cartaginés <img src="/static/logos/CS Cartaginés.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD Guanacasteca.png" height="25px"> Guanacasteca</p> |
+| <p align="center">HT</p> | <p align="right">San Carlos <img src="/static/logos/AD San Carlos.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AD Municipal Grecia FC.png" height="25px"> Grecia</p> |
+| <p align="center">29'</p> | <p align="right">Cartaginés <img src="/static/logos/CS Cartaginés.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AD Guanacasteca.png" height="25px"> Guanacasteca</p> |
 </div>
 
 
@@ -403,9 +403,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">60'</p> | <p align="right">Chivas <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Cincinnati.png" height="25px"> Cincinnati</p> |
-| <p align="center">59'</p> | <p align="right">Minnesota <img src="/static/logos/Minnesota United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago</p> |
-| <p align="center">50'</p> | <p align="right">Nashville <img src="/static/logos/Nashville SC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Deportivo Toluca FC.png" height="25px"> Toluca</p> |
-| <p align="center">02:00</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Louis City SC.png" height="25px"> St. Louis</p> |
+| <p align="center">85'</p> | <p align="right">Minnesota <img src="/static/logos/Minnesota United FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago</p> |
+| <p align="center">86'</p> | <p align="right">Nashville <img src="/static/logos/Nashville SC.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/Deportivo Toluca FC.png" height="25px"> Toluca</p> |
+| <p align="center">20'</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/St. Louis City SC.png" height="25px"> St. Louis</p> |
 </div>
 
 
