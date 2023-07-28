@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Argentina <img src="/static/logos/Argentina.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/South Africa.png" height="25px"> South Africa</p> |
-| <p align="center">HT</p> | <p align="right">England <img src="/static/logos/England.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
+| <p align="center">51'</p> | <p align="right">England <img src="/static/logos/England.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
 | <p align="center">11:00</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Haiti.png" height="25px"> Haiti</p> |
 </div>
 
@@ -105,7 +105,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Mitchelton <img src="/static/logos/Mitchelton FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Souths United FC (NPL).png" height="25px"> Souths Utd NPL</p> |
+| <p align="center">37'</p> | <p align="right">Mitchelton <img src="/static/logos/Mitchelton FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Souths United FC (NPL).png" height="25px"> Souths Utd NPL</p> |
 | <p align="center">10:30</p> | <p align="right">Olympic <img src="/static/logos/Brisbane Olympic FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Peninsula Power FC.png" height="25px"> Peninsula</p> |
 </div>
 
@@ -126,7 +126,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Preston Lions <img src="/static/logos/Preston Lions.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Bulleen Lions.png" height="25px"> Bulleen</p> |
+| <p align="center">68'</p> | <p align="right">Preston Lions <img src="/static/logos/Preston Lions.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Bulleen Lions.png" height="25px"> Bulleen</p> |
 </div>
 
 
@@ -136,7 +136,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:30</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NWS Spirit FC.png" height="25px"> NWS Spirit</p> |
+| <p align="center">5'</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/NWS Spirit FC.png" height="25px"> NWS Spirit</p> |
 </div>
 
 
@@ -369,8 +369,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Tangerang.png" height="25px"> Persita</p> |
-| <p align="center">68'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
+| <p align="center">82'</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Tangerang.png" height="25px"> Persita</p> |
+| <p align="center">85'</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
 | <p align="center">12:00</p> | <p align="right">Persik <img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"> Persib</p> |
 </div>
 
