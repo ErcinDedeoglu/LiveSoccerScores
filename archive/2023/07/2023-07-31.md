@@ -76,7 +76,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Atlanta <img src="/static/logos/CA Atlanta.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Chaco For Ever.png" height="25px"> Chaco</p> |
-| <p align="center">70'</p> | <p align="right">Defensores Bel <img src="/static/logos/CA Defensores de Belgrano.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CSyD Flandria.png" height="25px"> Flandria</p> |
+| <p align="center">78'</p> | <p align="right">Defensores Bel <img src="/static/logos/CA Defensores de Belgrano.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/CSyD Flandria.png" height="25px"> Flandria</p> |
 </div>
 
 
@@ -86,7 +86,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Dock Sud <img src="/static/logos/CS Dock Sud.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Fénix.png" height="25px"> Fénix</p> |
+| <p align="center">49'</p> | <p align="right">Dock Sud <img src="/static/logos/CS Dock Sud.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Fénix.png" height="25px"> Fénix</p> |
 | <p align="center">22:00</p> | <p align="right">Talleres <img src="/static/logos/CA Talleres Remedios de Escalada.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Argentino de Merlo.png" height="25px"> A Merlo</p> |
 </div>
 
@@ -107,7 +107,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Libertad <img src="/static/logos/FC Libertad Gran Mamoré.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA Nacional Potosí.png" height="25px"> Nacional</p> |
+| <p align="center">38'</p> | <p align="right">Libertad <img src="/static/logos/FC Libertad Gran Mamoré.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA Nacional Potosí.png" height="25px"> Nacional</p> |
 </div>
 
 
@@ -139,7 +139,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Loko Plovdiv <img src="/static/logos/PFK Lokomotiv Plovdiv 1926.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/POFK Botev Vratsa.png" height="25px"> Botev Vratsa</p> |
+| <p align="center">64'</p> | <p align="right">Loko Plovdiv <img src="/static/logos/PFK Lokomotiv Plovdiv 1926.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/POFK Botev Vratsa.png" height="25px"> Botev Vratsa</p> |
 </div>
 
 
@@ -210,7 +210,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Debrecen <img src="/static/logos/Debreceni VSC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mezőkövesd Zsóry SE.png" height="25px"> Mezőkövesd</p> |
+| <p align="center">78'</p> | <p align="right">Debrecen <img src="/static/logos/Debreceni VSC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mezőkövesd Zsóry SE.png" height="25px"> Mezőkövesd</p> |
 </div>
 
 
@@ -220,8 +220,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Keflavík <img src="/static/logos/Keflavík ÍF.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FH Hafnarfjörður.png" height="25px"> FH</p> |
-| <p align="center">14'</p> | <p align="right">KR <img src="/static/logos/KR Reykjavík.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Valur Reykjavík.png" height="25px"> Valur</p> |
+| <p align="center">21'</p> | <p align="right">Keflavík <img src="/static/logos/Keflavík ÍF.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FH Hafnarfjörður.png" height="25px"> FH</p> |
+| <p align="center">22'</p> | <p align="right">KR <img src="/static/logos/KR Reykjavík.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Valur Reykjavík.png" height="25px"> Valur</p> |
 </div>
 
 
@@ -275,7 +275,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">Boys <img src="/static/logos/Sport Boys Association.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FBC Melgar.png" height="25px"> Melgar</p> |
+| <p align="center">77'</p> | <p align="right">Boys <img src="/static/logos/Sport Boys Association.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FBC Melgar.png" height="25px"> Melgar</p> |
 | <p align="center">20:15</p> | <p align="right">Sport Huancayo <img src="/static/logos/CD Sport Huancayo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Alianza Atlético Sullana.png" height="25px"> Alianza Atl.</p> |
 </div>
 
@@ -297,7 +297,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Petrolul 52 <img src="/static/logos/ACS Petrolul 52 Ploieşti.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Voluntari.png" height="25px"> Voluntari</p> |
-| <p align="center">HT</p> | <p align="right">Dinamo <img src="/static/logos/FC Dinamo 1948 Bucureşti.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"> Sepsi</p> |
+| <p align="center">48'</p> | <p align="right">Dinamo <img src="/static/logos/FC Dinamo 1948 Bucureşti.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"> Sepsi</p> |
 </div>
 
 
@@ -375,7 +375,7 @@
 | <p align="center">FT</p> | <p align="right">Al Wahda <img src="/static/logos/Al Wahda FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> Belouizdad</p> |
 | <p align="center">FT</p> | <p align="right">Shabab <img src="/static/logos/Al Shabab FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Zamalek SC.png" height="25px"> Zamalek</p> |
 | <p align="center">FT</p> | <p align="right">Raja <img src="/static/logos/Raja Club Athletic de Casablanca.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kuwait SC.png" height="25px"> Kuwait</p> |
-| <p align="center">30'</p> | <p align="right">Monastir <img src="/static/logos/US Monastirienne.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Nassr</p> |
+| <p align="center">38'</p> | <p align="right">Monastir <img src="/static/logos/US Monastirienne.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Nassr</p> |
 </div>
 
 
