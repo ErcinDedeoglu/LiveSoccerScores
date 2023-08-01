@@ -46,8 +46,8 @@
 | <p align="center">FT</p> | <p align="right">Balzan <img src="/static/logos/Balzan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Neman Grodno.png" height="25px"> Neman</p> |
 | <p align="center">FT</p> | <p align="right">Zimbru <img src="/static/logos/FC Zimbru Chişinău.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Fenerbahçe Spor Kulübü.png" height="25px"> Fenerbahçe</p> |
 | <p align="center">FT</p> | <p align="right">Swift <img src="/static/logos/FC Swift Hesperange.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/The New Saints FC.png" height="25px"> TNS</p> |
-| <p align="center">86'</p> | <p align="right">Partizani <img src="/static/logos/KF Partizani Tirana.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/M-Perruquers Atlètic Club d'Escaldes.png" height="25px"> Atlètic</p> |
-| <p align="center">67'</p> | <p align="right">Budućnost <img src="/static/logos/FK Budućnost Podgorica.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/FC Struga Trim-Lum.png" height="25px"> Struga</p> |
+| <p align="center">FT</p> | <p align="right">Partizani <img src="/static/logos/KF Partizani Tirana.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/M-Perruquers Atlètic Club d'Escaldes.png" height="25px"> Atlètic</p> |
+| <p align="center">90'</p> | <p align="right">Budućnost <img src="/static/logos/FK Budućnost Podgorica.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/FC Struga Trim-Lum.png" height="25px"> Struga</p> |
 </div>
 
 
@@ -185,7 +185,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Universitario <img src="/static/logos/Club Universitario de Deportes.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CSD Carlos A. Mannucci.png" height="25px"> CA Mannucci</p> |
-| <p align="center">28'</p> | <p align="right">Dep. Municipal <img src="/static/logos/Club Centro Deportivo Municipal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Asociación Deportiva Tarma.png" height="25px"> ADT</p> |
+| <p align="center">HT</p> | <p align="right">Dep. Municipal <img src="/static/logos/Club Centro Deportivo Municipal.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Asociación Deportiva Tarma.png" height="25px"> ADT</p> |
 </div>
 
 
@@ -195,12 +195,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">94'</p> | <p align="right">Brechin <img src="/static/logos/Brechin City FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Heart of Midlothian FC B.png" height="25px"> Hearts</p> |
+| <p align="center">FT</p> | <p align="right">Brechin <img src="/static/logos/Brechin City FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Heart of Midlothian FC B.png" height="25px"> Hearts</p> |
 | <p align="center">FT</p> | <p align="right">Elgin <img src="/static/logos/Elgin City FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Saint Johnstone FC B.png" height="25px"> St. Johnstone</p> |
-| <p align="center">92'</p> | <p align="right">St. Mirren <img src="/static/logos/Saint Mirren B.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Albion Rovers FC.png" height="25px"> Albion</p> |
-| <p align="center">89'</p> | <p align="right">Kilmarnock II <img src="/static/logos/Kilmarnock FC B.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Bonnyrigg Rose Athletic FC.png" height="25px"> Bonnyrigg RA</p> |
-| <p align="center">87'</p> | <p align="right">Spartans <img src="/static/logos/Spartans FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Rangers FC B.png" height="25px"> Rangers</p> |
-| <p align="center">86'</p> | <p align="right">Tranent <img src="/static/logos/Tranent FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Motherwell FC B.png" height="25px"> Motherwell</p> |
+| <p align="center">FT</p> | <p align="right">St. Mirren <img src="/static/logos/Saint Mirren B.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Albion Rovers FC.png" height="25px"> Albion</p> |
+| <p align="center">FT</p> | <p align="right">Kilmarnock II <img src="/static/logos/Kilmarnock FC B.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Bonnyrigg Rose Athletic FC.png" height="25px"> Bonnyrigg RA</p> |
+| <p align="center">FT</p> | <p align="right">Spartans <img src="/static/logos/Spartans FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Rangers FC B.png" height="25px"> Rangers</p> |
+| <p align="center">FT</p> | <p align="right">Tranent <img src="/static/logos/Tranent FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Motherwell FC B.png" height="25px"> Motherwell</p> |
 </div>
 
 
