@@ -29,8 +29,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Portugal <img src="/static/logos/Portugal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/United States.png" height="25px"> United States</p> |
-| <p align="center">87'</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam.png" height="25px"></p> | <p align="center">0 - 7</p> | <p align="left"><img src="/static/logos/Netherlands.png" height="25px"> Netherlands</p> |
+| <p align="center">FT</p> | <p align="right">Portugal <img src="/static/logos/Portugal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/United States.png" height="25px"> United States</p> |
+| <p align="center">FT</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam.png" height="25px"></p> | <p align="center">0 - 7</p> | <p align="left"><img src="/static/logos/Netherlands.png" height="25px"> Netherlands</p> |
 | <p align="center">11:00</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/England.png" height="25px"> England</p> |
 | <p align="center">11:00</p> | <p align="right">Haiti <img src="/static/logos/Haiti.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
 </div>
