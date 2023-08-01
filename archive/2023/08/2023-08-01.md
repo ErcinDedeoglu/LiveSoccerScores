@@ -42,7 +42,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Valmiera <img src="/static/logos/FK Valmiera.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SP Tre Penne.png" height="25px"> Tre Penne</p> |
+| <p align="center">19'</p> | <p align="right">Valmiera <img src="/static/logos/FK Valmiera.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/SP Tre Penne.png" height="25px"> Tre Penne</p> |
 | <p align="center">17:30</p> | <p align="right">Balzan <img src="/static/logos/Balzan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Neman Grodno.png" height="25px"> Neman</p> |
 | <p align="center">17:30</p> | <p align="right">Zimbru <img src="/static/logos/FC Zimbru Chişinău.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenerbahçe Spor Kulübü.png" height="25px"> Fenerbahçe</p> |
 | <p align="center">18:00</p> | <p align="right">Swift <img src="/static/logos/FC Swift Hesperange.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/The New Saints FC.png" height="25px"> TNS</p> |
