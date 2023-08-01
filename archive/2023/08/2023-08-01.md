@@ -174,7 +174,7 @@
 | <p align="center">FT</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Columbus Crew.png" height="25px"> Columbus</p> |
 | <p align="center">FT</p> | <p align="right">Puebla <img src="/static/logos/Puebla FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago</p> |
 | <p align="center">FT</p> | <p align="right">Chivas <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting KC</p> |
-| <p align="center">HT</p> | <p align="right">Toluca <img src="/static/logos/Deportivo Toluca FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado</p> |
+| <p align="center">70'</p> | <p align="right">Toluca <img src="/static/logos/Deportivo Toluca FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado</p> |
 </div>
 
 
