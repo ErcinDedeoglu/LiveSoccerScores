@@ -47,7 +47,7 @@
 | <p align="center">FT</p> | <p align="right">Zimbru <img src="/static/logos/FC Zimbru Chişinău.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Fenerbahçe Spor Kulübü.png" height="25px"> Fenerbahçe</p> |
 | <p align="center">FT</p> | <p align="right">Swift <img src="/static/logos/FC Swift Hesperange.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/The New Saints FC.png" height="25px"> TNS</p> |
 | <p align="center">FT</p> | <p align="right">Partizani <img src="/static/logos/KF Partizani Tirana.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/M-Perruquers Atlètic Club d'Escaldes.png" height="25px"> Atlètic</p> |
-| <p align="center">90'</p> | <p align="right">Budućnost <img src="/static/logos/FK Budućnost Podgorica.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/FC Struga Trim-Lum.png" height="25px"> Struga</p> |
+| <p align="center">FT</p> | <p align="right">Budućnost <img src="/static/logos/FK Budućnost Podgorica.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/FC Struga Trim-Lum.png" height="25px"> Struga</p> |
 </div>
 
 
