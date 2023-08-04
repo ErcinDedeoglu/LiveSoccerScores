@@ -339,8 +339,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Dewa United <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persis Solo.png" height="25px"> Persis</p> |
 | <p align="center">FT</p> | <p align="right">Persebaya <img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
-| <p align="center">90'</p> | <p align="right">Borneo <img src="/static/logos/Borneo FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/RANS Nusantara FC.png" height="25px"> RANS</p> |
-| <p align="center">90'</p> | <p align="right">PSS <img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Jakarta.png" height="25px"> Persija</p> |
+| <p align="center">FT</p> | <p align="right">Borneo <img src="/static/logos/Borneo FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/RANS Nusantara FC.png" height="25px"> RANS</p> |
+| <p align="center">FT</p> | <p align="right">PSS <img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Jakarta.png" height="25px"> Persija</p> |
 </div>
 
 
