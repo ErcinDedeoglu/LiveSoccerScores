@@ -110,10 +110,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Broadmeadow <img src="/static/logos/Broadmeadow Magic FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney United 58 FC.png" height="25px"> Sydney Utd</p> |
-| <p align="center">31'</p> | <p align="right">MetroStars <img src="/static/logos/North Eastern MetroStars SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Inglewood United SC.png" height="25px"> Inglewood Utd</p> |
-| <p align="center">30'</p> | <p align="right">Mt Druitt Town <img src="/static/logos/Mount Druitt Town Rangers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Canberra Croatia FC.png" height="25px"> Canberra</p> |
-| <p align="center">30'</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wellington Phoenix FC.png" height="25px"> Wellington</p> |
+| <p align="center">37'</p> | <p align="right">Broadmeadow <img src="/static/logos/Broadmeadow Magic FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney United 58 FC.png" height="25px"> Sydney Utd</p> |
+| <p align="center">41'</p> | <p align="right">MetroStars <img src="/static/logos/North Eastern MetroStars SC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Inglewood United SC.png" height="25px"> Inglewood Utd</p> |
+| <p align="center">39'</p> | <p align="right">Mt Druitt Town <img src="/static/logos/Mount Druitt Town Rangers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Canberra Croatia FC.png" height="25px"> Canberra</p> |
+| <p align="center">40'</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wellington Phoenix FC.png" height="25px"> Wellington</p> |
 </div>
 
 
@@ -133,7 +133,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Heidelberg United FC.png" height="25px"> Heidelberg</p> |
+| <p align="center">41'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Heidelberg United FC.png" height="25px"> Heidelberg</p> |
 </div>
 
 
