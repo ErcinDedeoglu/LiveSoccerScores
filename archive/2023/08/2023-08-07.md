@@ -101,7 +101,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">West Armenia <img src="/static/logos/FK West Armenia.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
+| <p align="center">40'</p> | <p align="right">West Armenia <img src="/static/logos/FK West Armenia.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
 | <p align="center">16:00</p> | <p align="right">Urartu <img src="/static/logos/FC Urartu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ararat-Armenia FC.png" height="25px"> Ararat-Armenia</p> |
 </div>
 
@@ -311,7 +311,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">28'</p> | <p align="right">Bray <img src="/static/logos/Bray Wanderers AFC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Longford Town FC.png" height="25px"> Longford</p> |
+| <p align="center">44'</p> | <p align="right">Bray <img src="/static/logos/Bray Wanderers AFC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Longford Town FC.png" height="25px"> Longford</p> |
 | <p align="center">16:00</p> | <p align="right">Galway Utd <img src="/static/logos/Galway United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Treaty United FC.png" height="25px"> Treaty United</p> |
 | <p align="center">17:00</p> | <p align="right">Wexford <img src="/static/logos/Wexford FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Waterford FC.png" height="25px"> Waterford</p> |
 | <p align="center">18:45</p> | <p align="right">Athlone <img src="/static/logos/Athlone Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Finn Harps FC.png" height="25px"> Finn Harps</p> |
@@ -391,7 +391,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Chernihiv <img src="/static/logos/FK Chernihiv.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FK Inhulets' Petrove.png" height="25px"> Inhulets'</p> |
 | <p align="center">FT</p> | <p align="right">Hirnyk-Sport <img src="/static/logos/FC Hirnyk-Sport Horishni Plavni.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FSC Mariupol'.png" height="25px"> FSC Mariupol</p> |
-| <p align="center">69'</p> | <p align="right">Dinaz V. <img src="/static/logos/FC Dinaz Vyshhorod.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"> Kremin'</p> |
+| <p align="center">86'</p> | <p align="right">Dinaz V. <img src="/static/logos/FC Dinaz Vyshhorod.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"> Kremin'</p> |
 | <p align="center">15:00</p> | <p align="right">Livyi Bereh <img src="/static/logos/FK Livyi Bereh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SK Poltava.png" height="25px"> SK Poltava</p> |
 </div>
 
