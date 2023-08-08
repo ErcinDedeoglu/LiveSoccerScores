@@ -33,7 +33,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Colombia <img src="/static/logos/Colombia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jamaica.png" height="25px"> Jamaica</p> |
-| <p align="center">2'</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Morocco.png" height="25px"> Morocco</p> |
+| <p align="center">11'</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Morocco.png" height="25px"> Morocco</p> |
 </div>
 
 
@@ -152,7 +152,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">North Geelong <img src="/static/logos/North Geelong Warriors FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Oakleigh Cannons FC.png" height="25px"> Oakleigh</p> |
+| <p align="center">54'</p> | <p align="right">North Geelong <img src="/static/logos/North Geelong Warriors FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Oakleigh Cannons FC.png" height="25px"> Oakleigh</p> |
 </div>
 
 
@@ -162,7 +162,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">71'</p> | <p align="right">Sutherland <img src="/static/logos/Sutherland Sharks FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mount Druitt Town Rangers.png" height="25px"> Mt Druitt Town</p> |
+| <p align="center">80'</p> | <p align="right">Sutherland <img src="/static/logos/Sutherland Sharks FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mount Druitt Town Rangers.png" height="25px"> Mt Druitt Town</p> |
 </div>
 
 
@@ -301,7 +301,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">30'</p> | <p align="right">Ansan Greeners <img src="/static/logos/Ansan Greeners FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"> Cheongju</p> |
+| <p align="center">39'</p> | <p align="right">Ansan Greeners <img src="/static/logos/Ansan Greeners FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chungbuk Cheongju FC.png" height="25px"> Cheongju</p> |
 </div>
 
 
