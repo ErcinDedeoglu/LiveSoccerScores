@@ -67,8 +67,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Def y Justicia <img src="/static/logos/CSD Defensa y Justicia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CS Emelec.png" height="25px"> Emelec</p> |
 | <p align="center">FT</p> | <p align="right">NOB <img src="/static/logos/Newell's Old Boys.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SC Corinthians Paulista.png" height="25px"> Corinthians</p> |
-| <p align="center">80'</p> | <p align="right">Guaraní <img src="/static/logos/Club Guaraní.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo FR.png" height="25px"> Botafogo</p> |
-| <p align="center">82'</p> | <p align="right">Goiás <img src="/static/logos/Goiás EC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"> Estudiantes</p> |
+| <p align="center">90' 5'</p> | <p align="right">Guaraní <img src="/static/logos/Club Guaraní.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo FR.png" height="25px"> Botafogo</p> |
+| <p align="center">FT</p> | <p align="right">Goiás <img src="/static/logos/Goiás EC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"> Estudiantes</p> |
 </div>
 
 
@@ -133,7 +133,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Always Ready <img src="/static/logos/Club Always Ready.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Club Independiente Petrolero.png" height="25px"> Independiente</p> |
-| <p align="center">38'</p> | <p align="right">The Strongest <img src="/static/logos/Club The Strongest.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Deportivo Aurora.png" height="25px"> Aurora</p> |
+| <p align="center">HT</p> | <p align="right">The Strongest <img src="/static/logos/Club The Strongest.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Deportivo Aurora.png" height="25px"> Aurora</p> |
 </div>
 
 
@@ -153,7 +153,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">80'</p> | <p align="right">Wanderers <img src="/static/logos/CD Santiago Wanderers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Cobreloa.png" height="25px"> Cobreloa</p> |
+| <p align="center">90' 4'</p> | <p align="right">Wanderers <img src="/static/logos/CD Santiago Wanderers.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Cobreloa.png" height="25px"> Cobreloa</p> |
 </div>
 
 
@@ -293,7 +293,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cobán <img src="/static/logos/CSyD Cobán Imperial.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Universitario.png" height="25px"> Universitario</p> |
 | <p align="center">FT</p> | <p align="right">Real Estelí <img src="/static/logos/Real Estelí FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Olimpia.png" height="25px"> Olimpia</p> |
-| <p align="center">77'</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Águila.png" height="25px"> Águila</p> |
+| <p align="center">90' 2'</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Águila.png" height="25px"> Águila</p> |
 </div>
 
 
@@ -355,8 +355,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">35'</p> | <p align="right">Richmond <img src="/static/logos/Richmond Kickers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/North Carolina FC.png" height="25px"> North Carolina</p> |
-| <p align="center">23:30</p> | <p align="right">Tormenta <img src="/static/logos/South Georgia Tormenta FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Central Valley Fuego FC.png" height="25px"> Central Valley</p> |
+| <p align="center">HT</p> | <p align="right">Richmond <img src="/static/logos/Richmond Kickers.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/North Carolina FC.png" height="25px"> North Carolina</p> |
+| <p align="center">12'</p> | <p align="right">Tormenta <img src="/static/logos/South Georgia Tormenta FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Central Valley Fuego FC.png" height="25px"> Central Valley</p> |
 </div>
 
 
@@ -366,10 +366,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Orlando City B <img src="/static/logos/Orlando City B.png" height="25px"></p> | <p align="center">4 - 5</p> | <p align="left"><img src="/static/logos/New England Revolution II.png" height="25px"> New England II</p> |
-| <p align="center">36'</p> | <p align="right">New York RB II <img src="/static/logos/New York Red Bulls II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Toronto FC II.png" height="25px"> TFC II</p> |
-| <p align="center">12'</p> | <p align="right">Huntsville <img src="/static/logos/Huntsville City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Columbus Crew 2.png" height="25px"> Columbus II</p> |
-| <p align="center">6'</p> | <p align="right">Atlanta Utd II <img src="/static/logos/Atlanta United 2.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Crown Legacy FC (Charlotte FC II).png" height="25px"> Crown Legacy</p> |
+| <p align="center">90' 1'</p> | <p align="right">Orlando City B <img src="/static/logos/Orlando City B.png" height="25px"></p> | <p align="center">4 - 5</p> | <p align="left"><img src="/static/logos/New England Revolution II.png" height="25px"> New England II</p> |
+| <p align="center">HT</p> | <p align="right">New York RB II <img src="/static/logos/New York Red Bulls II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Toronto FC II.png" height="25px"> TFC II</p> |
+| <p align="center">27'</p> | <p align="right">Huntsville <img src="/static/logos/Huntsville City FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Columbus Crew 2.png" height="25px"> Columbus II</p> |
+| <p align="center">21'</p> | <p align="right">Atlanta Utd II <img src="/static/logos/Atlanta United 2.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Crown Legacy FC (Charlotte FC II).png" height="25px"> Crown Legacy</p> |
 </div>
 
 
@@ -379,7 +379,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Gotham FC <img src="/static/logos/NJ/NY Gotham FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Orlando Pride.png" height="25px"> Pride</p> |
+| <p align="center">19'</p> | <p align="right">Gotham FC <img src="/static/logos/NJ/NY Gotham FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Orlando Pride.png" height="25px"> Pride</p> |
 </div>
 
 
