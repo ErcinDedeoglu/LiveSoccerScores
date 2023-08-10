@@ -113,8 +113,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Moreton Bay <img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Heidelberg United FC.png" height="25px"> Heidelberg</p> |
-| <p align="center">68'</p> | <p align="right">Hellenic Athl <img src="/static/logos/Hellenic Athletic Club.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Inter Lions SC.png" height="25px"> Inter Lions</p> |
-| <p align="center">69'</p> | <p align="right">Knights <img src="/static/logos/Melbourne Knights FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Queensland Lions FC.png" height="25px"> Lions</p> |
+| <p align="center">88'</p> | <p align="right">Hellenic Athl <img src="/static/logos/Hellenic Athletic Club.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Inter Lions SC.png" height="25px"> Inter Lions</p> |
+| <p align="center">88'</p> | <p align="right">Knights <img src="/static/logos/Melbourne Knights FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Queensland Lions FC.png" height="25px"> Lions</p> |
 </div>
 
 
@@ -245,7 +245,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Hồng Lĩnh <img src="/static/logos/Hồng Lĩnh Hà Tĩnh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hai Phong FC.png" height="25px"> Hai Phong</p> |
+| <p align="center">12'</p> | <p align="right">Hồng Lĩnh <img src="/static/logos/Hồng Lĩnh Hà Tĩnh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hai Phong FC.png" height="25px"> Hai Phong</p> |
 </div>
 
 
