@@ -112,9 +112,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Moreton Bay <img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Heidelberg United FC.png" height="25px"> Heidelberg</p> |
-| <p align="center">61'</p> | <p align="right">Hellenic Athl <img src="/static/logos/Hellenic Athletic Club.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Inter Lions SC.png" height="25px"> Inter Lions</p> |
-| <p align="center">62'</p> | <p align="right">Knights <img src="/static/logos/Melbourne Knights FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Queensland Lions FC.png" height="25px"> Lions</p> |
+| <p align="center">FT</p> | <p align="right">Moreton Bay <img src="/static/logos/Moreton Bay United Jets FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Heidelberg United FC.png" height="25px"> Heidelberg</p> |
+| <p align="center">68'</p> | <p align="right">Hellenic Athl <img src="/static/logos/Hellenic Athletic Club.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Inter Lions SC.png" height="25px"> Inter Lions</p> |
+| <p align="center">69'</p> | <p align="right">Knights <img src="/static/logos/Melbourne Knights FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Queensland Lions FC.png" height="25px"> Lions</p> |
 </div>
 
 
