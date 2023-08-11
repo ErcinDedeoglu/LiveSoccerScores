@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Spain <img src="/static/logos/Spain.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Netherlands.png" height="25px"> Netherlands</p> |
+| <p align="center">89'</p> | <p align="right">Spain <img src="/static/logos/Spain.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Netherlands.png" height="25px"> Netherlands</p> |
 | <p align="center">07:30</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sweden.png" height="25px"> Sweden</p> |
 </div>
 
@@ -166,7 +166,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Tapatío <img src="/static/logos/CD Tapatío.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Celaya CF.png" height="25px"> Celaya</p> |
+| <p align="center">79'</p> | <p align="right">Tapatío <img src="/static/logos/CD Tapatío.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Celaya CF.png" height="25px"> Celaya</p> |
 | <p align="center">23:05</p> | <p align="right">Mineros <img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Alebrijes de Oaxaca.png" height="25px"> Alebrijes</p> |
 </div>
 
@@ -305,7 +305,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">57'</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios FC SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Bucaramanga.png" height="25px"> Bucaramanga</p> |
+| <p align="center">80'</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios FC SA.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CA Bucaramanga.png" height="25px"> Bucaramanga</p> |
 </div>
 
 
@@ -474,7 +474,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Jocoro <img src="/static/logos/Jocoro FC.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Deportivo Saprissa.png" height="25px"> Saprissa</p> |
-| <p align="center">19'</p> | <p align="right">Diriangén <img src="/static/logos/Diriangén FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSD Comunicaciones.png" height="25px"> Comunicaciones</p> |
+| <p align="center">43'</p> | <p align="right">Diriangén <img src="/static/logos/Diriangén FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CSD Comunicaciones.png" height="25px"> Comunicaciones</p> |
 </div>
 
 
