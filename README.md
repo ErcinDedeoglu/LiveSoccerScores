@@ -234,6 +234,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Energetik-BGU <img src="/static/logos/Energetik-BGU.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/FC BATE Borisov.png" height="25px"> BATE</p> |
+| <p align="center">16:00</p> | <p align="right">Minsk <img src="/static/logos/FC Minsk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Slutsk.png" height="25px"> Slutsk</p> |
 </div>
 
 
