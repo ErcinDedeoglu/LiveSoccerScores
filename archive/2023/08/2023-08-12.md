@@ -226,7 +226,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Consadole <img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
+| <p align="center">36'</p> | <p align="right">Consadole <img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
 | <p align="center">09:00</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shonan Bellmare.png" height="25px"> Shonan</p> |
 | <p align="center">10:00</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yokohama FC.png" height="25px"> Yokohama</p> |
 | <p align="center">10:00</p> | <p align="right">Kashiwa <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cerezo Osaka.png" height="25px"> Cerezo</p> |
@@ -273,10 +273,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 3'</p> | <p align="right">Hume City <img src="/static/logos/Hume City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
-| <p align="center">18'</p> | <p align="right">Altona Magic <img src="/static/logos/Altona Magic SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bentleigh Greens SC.png" height="25px"> Bentleigh</p> |
-| <p align="center">18'</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
-| <p align="center">19'</p> | <p align="right">Moreland City <img src="/static/logos/Moreland City FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/St. Albans Saints FC.png" height="25px"> St. Albans</p> |
+| <p align="center">51'</p> | <p align="right">Hume City <img src="/static/logos/Hume City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
+| <p align="center">41'</p> | <p align="right">Altona Magic <img src="/static/logos/Altona Magic SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bentleigh Greens SC.png" height="25px"> Bentleigh</p> |
+| <p align="center">41'</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
+| <p align="center">42'</p> | <p align="right">Moreland City <img src="/static/logos/Moreland City FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/St. Albans Saints FC.png" height="25px"> St. Albans</p> |
 </div>
 
 
@@ -286,8 +286,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">62'</p> | <p align="right">Bayside Utd <img src="/static/logos/Bayside United FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Preston Lions.png" height="25px"> Preston Lions</p> |
-| <p align="center">58'</p> | <p align="right">Southern Utd <img src="/static/logos/Southern United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne Womens FC.png" height="25px"> South Melb</p> |
+| <p align="center">85'</p> | <p align="right">Bayside Utd <img src="/static/logos/Bayside United FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Preston Lions.png" height="25px"> Preston Lions</p> |
+| <p align="center">81'</p> | <p align="right">Southern Utd <img src="/static/logos/Southern United FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/South Melbourne Womens FC.png" height="25px"> South Melb</p> |
 </div>
 
 
@@ -297,8 +297,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Blacktown City FC.png" height="25px"> Blacktown City</p> |
-| <p align="center">39'</p> | <p align="right">Manly Utd <img src="/static/logos/Manly United FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC Under 21.png" height="25px"> Western Sydney</p> |
+| <p align="center">51'</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Blacktown City FC.png" height="25px"> Blacktown City</p> |
+| <p align="center">HT</p> | <p align="right">Manly Utd <img src="/static/logos/Manly United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC Under 21.png" height="25px"> Western Sydney</p> |
 </div>
 
 
