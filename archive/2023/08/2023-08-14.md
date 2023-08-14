@@ -105,7 +105,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
+| <p align="center">03:05</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
 </div>
 
 
@@ -520,7 +520,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Tacoma Def. <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colorado Rapids 2.png" height="25px"> Rapids II</p> |
+| <p align="center">HT</p> | <p align="right">Tacoma Def. <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colorado Rapids 2.png" height="25px"> Rapids II</p> |
 </div>
 
 
