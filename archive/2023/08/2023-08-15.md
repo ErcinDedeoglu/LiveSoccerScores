@@ -45,7 +45,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 8'</p> | <p align="right">RB Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CR Vasco da Gama.png" height="25px"> Vasco</p> |
+| <p align="center">75'</p> | <p align="right">RB Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CR Vasco da Gama.png" height="25px"> Vasco</p> |
 | <p align="center">23:00</p> | <p align="right">Paranaense <img src="/static/logos/Club Athletico Paranaense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cuiabá EC.png" height="25px"> Cuiabá</p> |
 </div>
 
@@ -56,7 +56,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10'</p> | <p align="right">Boyacá Chicó <img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AD Unión Magdalena.png" height="25px"> Magdalena</p> |
+| <p align="center">HT</p> | <p align="right">Boyacá Chicó <img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AD Unión Magdalena.png" height="25px"> Magdalena</p> |
 </div>
 
 
@@ -66,7 +66,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">U. de Chile <img src="/static/logos/CFP Universidad de Chile.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Provincial Curicó Unido.png" height="25px"> Curicó Unido</p> |
+| <p align="center">77'</p> | <p align="right">U. de Chile <img src="/static/logos/CFP Universidad de Chile.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Provincial Curicó Unido.png" height="25px"> Curicó Unido</p> |
 | <p align="center">16:30</p> | <p align="right">Ñublense <img src="/static/logos/Deportivo Ñublense SADP.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
 </div>
 
