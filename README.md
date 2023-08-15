@@ -368,6 +368,7 @@
 | <p align="center">12:00</p> | <p align="right">Zvyahel <img src="/static/logos/FC Zvyahel-750 Novohrad-Volynskyi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ukranian Christian Sports Academy.png" height="25px"> UCSA</p> |
 | <p align="center">13:00</p> | <p align="right">Inhulets' <img src="/static/logos/FK Inhulets' Petrove.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Viktoriya Sumy.png" height="25px"> Viktoriya Sumy</p> |
 | <p align="center">13:00</p> | <p align="right">Lokomotiv <img src="/static/logos/FC Lokomotiv Kyiv.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Livyi Bereh.png" height="25px"> Livyi Bereh</p> |
+| <p align="center">13:00</p> | <p align="right">Skala 1911 <img src="/static/logos/FK Skala 1911 Stryi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Nyva Ternopil.png" height="25px"> Nyva Ternopil</p> |
 | <p align="center">14:00</p> | <p align="right">Mykolaiv <img src="/static/logos/FK Mykolaiv.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Ahrobiznes Volochysk.png" height="25px"> Ahrobiznes V.</p> |
 </div>
 
