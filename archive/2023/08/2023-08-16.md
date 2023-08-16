@@ -103,7 +103,7 @@
 | <p align="center">FT</p> | <p align="right">Yangon <img src="/static/logos/Yangon United FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Brunei Duli Pengiran Muda Mahkota FC.png" height="25px"> DPMM</p> |
 | <p align="center">FT</p> | <p align="right">Abahani Dhaka <img src="/static/logos/Abahani Limited Dhaka.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Eagles.png" height="25px"> Eagles</p> |
 | <p align="center">FT</p> | <p align="right">Crown <img src="/static/logos/Phnom Penh Crown FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Young Elephants FC.png" height="25px"> Elephants</p> |
-| <p align="center">74'</p> | <p align="right">Mohun Bagan <img src="/static/logos/Mohun Bagan Super Gaints FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Machhindra FC.png" height="25px"> Machhindra</p> |
+| <p align="center">FT</p> | <p align="right">Mohun Bagan <img src="/static/logos/Mohun Bagan Super Gaints FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Machhindra FC.png" height="25px"> Machhindra</p> |
 </div>
 
 
@@ -329,7 +329,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:30</p> | <p align="right">Wakrah <img src="/static/logos/Al Wakrah SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Muaither SC.png" height="25px"> Muaither</p> |
+| <p align="center">2'</p> | <p align="right">Wakrah <img src="/static/logos/Al Wakrah SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Muaither SC.png" height="25px"> Muaither</p> |
 | <p align="center">17:30</p> | <p align="right">Arabi <img src="/static/logos/Al Arabi SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Shamal SC.png" height="25px"> Shamal</p> |
 </div>
 
@@ -387,7 +387,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">100'</p> | <p align="right">Skala 1911 <img src="/static/logos/FK Skala 1911 Stryi.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FK Nyva Ternopil.png" height="25px"> Nyva Ternopil</p> |
+| <p align="center">120' 3'</p> | <p align="right">Skala 1911 <img src="/static/logos/FK Skala 1911 Stryi.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FK Nyva Ternopil.png" height="25px"> Nyva Ternopil</p> |
 </div>
 
 
