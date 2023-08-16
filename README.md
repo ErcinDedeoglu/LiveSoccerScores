@@ -79,8 +79,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Nueva Chicago <img src="/static/logos/CA Nueva Chicago.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA San Martín de San Juan.png" height="25px"> San Martín SJ</p> |
-| <p align="center">61'</p> | <p align="right">SM Tucumán <img src="/static/logos/CA San Martín de Tucumán.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Defensores Unidos.png" height="25px"> Def Unidos</p> |
-| <p align="center">44'</p> | <p align="right">Morón <img src="/static/logos/CD Morón.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Atlético Güemes de Santiago del Estero.png" height="25px"> Güemes</p> |
+| <p align="center">FT</p> | <p align="right">SM Tucumán <img src="/static/logos/CA San Martín de Tucumán.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Defensores Unidos.png" height="25px"> Def Unidos</p> |
+| <p align="center">76'</p> | <p align="right">Morón <img src="/static/logos/CD Morón.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Atlético Güemes de Santiago del Estero.png" height="25px"> Güemes</p> |
 </div>
 
 
@@ -155,7 +155,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Univ Católica <img src="/static/logos/CD Universidad Católica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSD Colo-Colo.png" height="25px"> Colo Colo</p> |
+| <p align="center">15'</p> | <p align="right">Univ Católica <img src="/static/logos/CD Universidad Católica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSD Colo-Colo.png" height="25px"> Colo Colo</p> |
 </div>
 
 
@@ -186,7 +186,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:30</p> | <p align="right">Mushuc Runa <img src="/static/logos/Mushuc Runa SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guayaquil City FC.png" height="25px"> Guayaquil City</p> |
+| <p align="center">44'</p> | <p align="right">Mushuc Runa <img src="/static/logos/Mushuc Runa SC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Guayaquil City FC.png" height="25px"> Guayaquil City</p> |
 </div>
 
 
@@ -307,7 +307,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">ADT <img src="/static/logos/Asociación Deportiva Tarma.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Universitario de Deportes.png" height="25px"> Universitario</p> |
+| <p align="center">FT</p> | <p align="right">ADT <img src="/static/logos/Asociación Deportiva Tarma.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Club Universitario de Deportes.png" height="25px"> Universitario</p> |
 | <p align="center">22:30</p> | <p align="right">CA Mannucci <img src="/static/logos/CSD Carlos A. Mannucci.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cusco FC.png" height="25px"> Cusco</p> |
 | <p align="center">23:00</p> | <p align="right">Deportivo G. <img src="/static/logos/Club Deportivo Garcilaso.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sport Boys Association.png" height="25px"> Boys</p> |
 </div>
