@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">HJK <img src="/static/logos/Helsingin Jalkapalloklubi.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Qarabağ Ağdam FK.png" height="25px"> Qarabağ</p> |
+| <p align="center">HT</p> | <p align="right">HJK <img src="/static/logos/Helsingin Jalkapalloklubi.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Qarabağ Ağdam FK.png" height="25px"> Qarabağ</p> |
 | <p align="center">17:00</p> | <p align="right">Häcken <img src="/static/logos/BK Häcken.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Žalgiris Vilnius.png" height="25px"> Žalgiris</p> |
 | <p align="center">17:30</p> | <p align="right">Breidablik <img src="/static/logos/Breidablik UBK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/HŠK Zrinjski Mostar.png" height="25px"> Zrinjski</p> |
 | <p align="center">18:00</p> | <p align="right">BATE <img src="/static/logos/FC BATE Borisov.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Sheriff Tiraspol.png" height="25px"> Sheriff</p> |
@@ -32,10 +32,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Aktobe <img src="/static/logos/FK Aktobe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"> Sepsi</p> |
-| <p align="center">42'</p> | <p align="right">Pogoń <img src="/static/logos/MKS Pogoń Szczecin.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KAA Gent.png" height="25px"> Gent</p> |
-| <p align="center">42'</p> | <p align="right">Pyunik <img src="/static/logos/Pyunik FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Bodø / Glimt.png" height="25px"> Bodø/Glimt</p> |
-| <p align="center">42'</p> | <p align="right">Red Imps <img src="/static/logos/Lincoln Red Imps FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Ballkani.png" height="25px"> Ballkani</p> |
+| <p align="center">HT</p> | <p align="right">Aktobe <img src="/static/logos/FK Aktobe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"> Sepsi</p> |
+| <p align="center">HT</p> | <p align="right">Pogoń <img src="/static/logos/MKS Pogoń Szczecin.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KAA Gent.png" height="25px"> Gent</p> |
+| <p align="center">HT</p> | <p align="right">Pyunik <img src="/static/logos/Pyunik FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FK Bodø / Glimt.png" height="25px"> Bodø/Glimt</p> |
+| <p align="center">HT</p> | <p align="right">Red Imps <img src="/static/logos/Lincoln Red Imps FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Ballkani.png" height="25px"> Ballkani</p> |
 | <p align="center">17:00</p> | <p align="right">APOEL <img src="/static/logos/APOEL FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dila Gori.png" height="25px"> Dila</p> |
 | <p align="center">17:00</p> | <p align="right">Austria <img src="/static/logos/FK Austria Wien.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KP Legia Warszawa.png" height="25px"> Legia</p> |
 | <p align="center">17:00</p> | <p align="right">Brann <img src="/static/logos/SK Brann.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Arouca.png" height="25px"> Arouca</p> |
@@ -203,7 +203,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">Esteghlal <img src="/static/logos/Esteghlal FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"> Malavan</p> |
+| <p align="center">HT</p> | <p align="right">Esteghlal <img src="/static/logos/Esteghlal FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"> Malavan</p> |
 </div>
 
 
@@ -236,7 +236,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Qatar <img src="/static/logos/Qatar SC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Al Gharafa SC.png" height="25px"> Gharafa</p> |
+| <p align="center">59'</p> | <p align="right">Qatar <img src="/static/logos/Qatar SC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Al Gharafa SC.png" height="25px"> Gharafa</p> |
 | <p align="center">17:30</p> | <p align="right">Markhiya <img src="/static/logos/Al Markhiya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Rayyan SC.png" height="25px"> Rayyan</p> |
 </div>
 
@@ -247,7 +247,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Damak <img src="/static/logos/Damak Club.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Al Riyadh SC.png" height="25px"> Riyadh</p> |
+| <p align="center">90' 6'</p> | <p align="right">Damak <img src="/static/logos/Damak Club.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Al Riyadh SC.png" height="25px"> Riyadh</p> |
 | <p align="center">18:00</p> | <p align="right">Khaleej <img src="/static/logos/Al Khaleej Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ahli SC.png" height="25px"> Ahli</p> |
 </div>
 
