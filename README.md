@@ -82,7 +82,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Correcaminos <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CD Tapatío.png" height="25px"> Tapatío</p> |
+| <p align="center">45'</p> | <p align="right">Correcaminos <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CD Tapatío.png" height="25px"> Tapatío</p> |
 | <p align="center">23:05</p> | <p align="right">Leones Negros <img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venados FC Yucatán.png" height="25px"> Venados FC</p> |
 </div>
 
@@ -179,7 +179,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Dep. Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
 | <p align="center">FT</p> | <p align="right">Pereira <img src="/static/logos/Deportivo Pereira FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tigres FC.png" height="25px"> Tigres</p> |
-| <p align="center">90'</p> | <p align="right">Junior <img src="/static/logos/CD Popular Junior FC SA.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
+| <p align="center">FT</p> | <p align="right">Junior <img src="/static/logos/CD Popular Junior FC SA.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
 | <p align="center">23:00</p> | <p align="right">Bucaramanga <img src="/static/logos/CA Bucaramanga.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Millonarios FC SA.png" height="25px"> Millonarios</p> |
 | <p align="center">23:00</p> | <p align="right">Pasto <img src="/static/logos/AD Pasto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"> Medellín</p> |
 </div>
@@ -214,7 +214,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Real CD España.png" height="25px"> Real España</p> |
-| <p align="center">82'</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/CA Independiente de La Chorrera.png" height="25px"> Independiente</p> |
+| <p align="center">90'</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/CA Independiente de La Chorrera.png" height="25px"> Independiente</p> |
 </div>
 
 
@@ -259,7 +259,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">San Antonio <img src="/static/logos/San Antonio FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Rio Grande Valley FC Toros.png" height="25px"> RGV FC Toros</p> |
-| <p align="center">81'</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh</p> |
+| <p align="center">90'</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh</p> |
 </div>
 
 
