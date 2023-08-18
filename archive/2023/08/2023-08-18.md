@@ -170,7 +170,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Noah <img src="/static/logos/FC Noah.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shirak FC.png" height="25px"> Shirak</p> |
+| <p align="center">24'</p> | <p align="right">Noah <img src="/static/logos/FC Noah.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shirak FC.png" height="25px"> Shirak</p> |
 </div>
 
 
@@ -181,7 +181,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Philippines <img src="/static/logos/Philippines Under 23.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Laos Under 23.png" height="25px"> Laos</p> |
-| <p align="center">90' 1'</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia Under 23.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Indonesia Under 23.png" height="25px"> Indonesia</p> |
+| <p align="center">FT</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia Under 23.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Indonesia Under 23.png" height="25px"> Indonesia</p> |
 </div>
 
 
@@ -244,7 +244,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20'</p> | <p align="right">Naftan <img src="/static/logos/FC Naftan Novopolotsk.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Energetik-BGU.png" height="25px"> Energetik-BGU</p> |
+| <p align="center">HT</p> | <p align="right">Naftan <img src="/static/logos/FC Naftan Novopolotsk.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Energetik-BGU.png" height="25px"> Energetik-BGU</p> |
 </div>
 
 
@@ -445,7 +445,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Lahti <img src="/static/logos/FC Lahti.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vaasan Palloseura.png" height="25px"> VPS</p> |
+| <p align="center">26'</p> | <p align="right">Lahti <img src="/static/logos/FC Lahti.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vaasan Palloseura.png" height="25px"> VPS</p> |
 | <p align="center">15:30</p> | <p align="right">Mariehamn <img src="/static/logos/IFK Mariehamn.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Honka.png" height="25px"> Honka</p> |
 </div>
 
@@ -702,7 +702,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Akhdoud <img src="/static/logos/Al Akhdoud.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Fateh SC.png" height="25px"> Fateh</p> |
+| <p align="center">26'</p> | <p align="right">Akhdoud <img src="/static/logos/Al Akhdoud.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Fateh SC.png" height="25px"> Fateh</p> |
 | <p align="center">18:00</p> | <p align="right">Hazm <img src="/static/logos/Al Hazm.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ittifaq FC.png" height="25px"> Ittifaq</p> |
 | <p align="center">18:00</p> | <p align="right">Nassr <img src="/static/logos/Al Nassr FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Taawon FC.png" height="25px"> Taawon</p> |
 | <p align="center">18:00</p> | <p align="right">Wehda <img src="/static/logos/Al Wehda FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Shabab FC.png" height="25px"> Shabab</p> |
@@ -810,7 +810,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">BGPU <img src="/static/logos/BG Pathum United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PT Prachuap FC.png" height="25px"> Prachuap</p> |
-| <p align="center">90' 1'</p> | <p align="right">Port <img src="/static/logos/Port FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Police Tero FC.png" height="25px"> Police Tero</p> |
+| <p align="center">FT</p> | <p align="right">Port <img src="/static/logos/Port FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Police Tero FC.png" height="25px"> Police Tero</p> |
 </div>
 
 
@@ -830,7 +830,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 2'</p> | <p align="right">LNZ Cherkasy <img src="/static/logos/LNZ Cherkasy FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Polissya Zhytomyr.png" height="25px"> Polissya</p> |
+| <p align="center">62'</p> | <p align="right">LNZ Cherkasy <img src="/static/logos/LNZ Cherkasy FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Polissya Zhytomyr.png" height="25px"> Polissya</p> |
 | <p align="center">16:00</p> | <p align="right">Zorya <img src="/static/logos/FC Zorya Luhansk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Oleksandria.png" height="25px"> Oleksandria</p> |
 </div>
 
@@ -841,7 +841,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Karpaty Lviv <img src="/static/logos/FC Karpaty Lviv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Nyva Buzova.png" height="25px"> Nyva Buzova</p> |
+| <p align="center">61'</p> | <p align="right">Karpaty Lviv <img src="/static/logos/FC Karpaty Lviv.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Nyva Buzova.png" height="25px"> Nyva Buzova</p> |
 </div>
 
 
@@ -851,8 +851,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Al Wahda <img src="/static/logos/Al Wahda FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Bataeh Club.png" height="25px"> Al Bataeh</p> |
-| <p align="center">45' 5'</p> | <p align="right">Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Sharjah FC.png" height="25px"> Sharjah</p> |
+| <p align="center">60'</p> | <p align="right">Al Wahda <img src="/static/logos/Al Wahda FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Bataeh Club.png" height="25px"> Al Bataeh</p> |
+| <p align="center">60'</p> | <p align="right">Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Sharjah FC.png" height="25px"> Sharjah</p> |
 | <p align="center">16:30</p> | <p align="right">Ajman <img src="/static/logos/Ajman Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shabab Al Ahli Club.png" height="25px"> Shabab Al Ahli</p> |
 | <p align="center">16:30</p> | <p align="right">Al Ain <img src="/static/logos/Al Ain FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bani Yas Club.png" height="25px"> Bani Yas</p> |
 </div>
