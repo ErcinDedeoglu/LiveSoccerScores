@@ -129,8 +129,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 1'</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex</p> |
-| <p align="center">15'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya</p> |
+| <p align="center">HT</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex</p> |
+| <p align="center">32'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya</p> |
 </div>
 
 
@@ -180,7 +180,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Philippines <img src="/static/logos/Philippines Under 23.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Laos Under 23.png" height="25px"> Laos</p> |
+| <p align="center">FT</p> | <p align="right">Philippines <img src="/static/logos/Philippines Under 23.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Laos Under 23.png" height="25px"> Laos</p> |
 | <p align="center">13:00</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Indonesia Under 23.png" height="25px"> Indonesia</p> |
 </div>
 
@@ -191,11 +191,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Eastern Sub <img src="/static/logos/Eastern Suburbs FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Peninsula Power FC.png" height="25px"> Peninsula</p> |
-| <p align="center">57'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Mitchelton FC.png" height="25px"> Mitchelton</p> |
-| <p align="center">59'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Football Queensland QAS.png" height="25px"> FQ QAS</p> |
-| <p align="center">61'</p> | <p align="right">Souths Utd NPL <img src="/static/logos/Souths United FC (NPL).png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
-| <p align="center">57'</p> | <p align="right">Sunshine Coast <img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
+| <p align="center">77'</p> | <p align="right">Eastern Sub <img src="/static/logos/Eastern Suburbs FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Peninsula Power FC.png" height="25px"> Peninsula</p> |
+| <p align="center">74'</p> | <p align="right">Gold Coast Utd <img src="/static/logos/Gold Coast United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Mitchelton FC.png" height="25px"> Mitchelton</p> |
+| <p align="center">76'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Football Queensland QAS.png" height="25px"> FQ QAS</p> |
+| <p align="center">78'</p> | <p align="right">Souths Utd NPL <img src="/static/logos/Souths United FC (NPL).png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Olympic FC.png" height="25px"> Olympic</p> |
+| <p align="center">74'</p> | <p align="right">Sunshine Coast <img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Capalaba FC.png" height="25px"> Capalaba</p> |
 </div>
 
 
@@ -205,11 +205,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Bayside Utd <img src="/static/logos/Bayside United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Calder United SC.png" height="25px"> Calder Utd</p> |
-| <p align="center">18'</p> | <p align="right">Boroondara <img src="/static/logos/Boroondara Eagles FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne Womens FC.png" height="25px"> South Melb</p> |
-| <p align="center">15'</p> | <p align="right">Bulleen <img src="/static/logos/FC Bulleen Lions.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Southern United FC.png" height="25px"> Southern Utd</p> |
+| <p align="center">33'</p> | <p align="right">Bayside Utd <img src="/static/logos/Bayside United FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Calder United SC.png" height="25px"> Calder Utd</p> |
+| <p align="center">35'</p> | <p align="right">Boroondara <img src="/static/logos/Boroondara Eagles FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne Womens FC.png" height="25px"> South Melb</p> |
+| <p align="center">32'</p> | <p align="right">Bulleen <img src="/static/logos/FC Bulleen Lions.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Southern United FC.png" height="25px"> Southern Utd</p> |
 | <p align="center">10:30</p> | <p align="right">Emerging <img src="/static/logos/FV Emerging Matildas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Heidelberg United SC.png" height="25px"> Heidelberg</p> |
-| <p align="center">15'</p> | <p align="right">Preston Lions <img src="/static/logos/Preston Lions.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Box Hill United SC.png" height="25px"> Box Hill</p> |
+| <p align="center">32'</p> | <p align="right">Preston Lions <img src="/static/logos/Preston Lions.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Box Hill United SC.png" height="25px"> Box Hill</p> |
 </div>
 
 
@@ -219,7 +219,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Rockdale Ilinden FC.png" height="25px"> Rockdale</p> |
+| <p align="center">71'</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC Under 21.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Rockdale Ilinden FC.png" height="25px"> Rockdale</p> |
 </div>
 
 
@@ -565,8 +565,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Incheon Utd <img src="/static/logos/Incheon United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju</p> |
-| <p align="center">19'</p> | <p align="right">Suwon <img src="/static/logos/Suwon Samsung Bluewings FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jeju United FC.png" height="25px"> Jeju Utd</p> |
+| <p align="center">36'</p> | <p align="right">Incheon Utd <img src="/static/logos/Incheon United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju</p> |
+| <p align="center">36'</p> | <p align="right">Suwon <img src="/static/logos/Suwon Samsung Bluewings FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jeju United FC.png" height="25px"> Jeju Utd</p> |
 </div>
 
 
