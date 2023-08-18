@@ -130,7 +130,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Avispa <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex</p> |
-| <p align="center">90' 1'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya</p> |
+| <p align="center">FT</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya</p> |
 </div>
 
 
@@ -181,7 +181,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Philippines <img src="/static/logos/Philippines Under 23.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Laos Under 23.png" height="25px"> Laos</p> |
-| <p align="center">13:00</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Indonesia Under 23.png" height="25px"> Indonesia</p> |
+| <p align="center">21'</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Indonesia Under 23.png" height="25px"> Indonesia</p> |
 </div>
 
 
@@ -307,9 +307,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Port <img src="/static/logos/Shanghai Port FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Meizhou Hakka FC.png" height="25px"> Meizhou</p> |
-| <p align="center">HT</p> | <p align="right">Shandong <img src="/static/logos/Shandong Taishan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tianjin Jinmen Tiger FC.png" height="25px"> Tianjin JMT</p> |
-| <p align="center">HT</p> | <p align="right">Zhejiang <img src="/static/logos/Zhejiang Professional FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Qingdao Hainiu FC.png" height="25px"> Hainiu</p> |
+| <p align="center">86'</p> | <p align="right">Port <img src="/static/logos/Shanghai Port FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Meizhou Hakka FC.png" height="25px"> Meizhou</p> |
+| <p align="center">89'</p> | <p align="right">Shandong <img src="/static/logos/Shandong Taishan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tianjin Jinmen Tiger FC.png" height="25px"> Tianjin JMT</p> |
+| <p align="center">87'</p> | <p align="right">Zhejiang <img src="/static/logos/Zhejiang Professional FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Qingdao Hainiu FC.png" height="25px"> Hainiu</p> |
 </div>
 
 
@@ -544,8 +544,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Persebaya <img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"> PSM</p> |
-| <p align="center">25'</p> | <p align="right">Bhayangkara <img src="/static/logos/Bhayangkara FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
-| <p align="center">27'</p> | <p align="right">Persita <img src="/static/logos/Persatuan Sepak Bola Indonesia Tangerang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
+| <p align="center">64'</p> | <p align="right">Bhayangkara <img src="/static/logos/Bhayangkara FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
+| <p align="center">63'</p> | <p align="right">Persita <img src="/static/logos/Persatuan Sepak Bola Indonesia Tangerang.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
 </div>
 
 
@@ -624,16 +624,6 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">23:00</p> | <p align="right">Olimpia <img src="/static/logos/Club Olimpia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guaireña FC.png" height="25px"> Guaireña</p> |
-</div>
-
-
-## <img src="/static/logos/Peru-Primera División.png" height="25px"> Peru - Primera División
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Alianza Atl. <img src="/static/logos/Club Alianza Atlético Sullana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Unión Comercio.png" height="25px"> Unión Comercio</p> |
 </div>
 
 
@@ -745,7 +735,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Tampines <img src="/static/logos/Tampines Rovers FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brunei Duli Pengiran Muda Mahkota FC.png" height="25px"> DPMM</p> |
+| <p align="center">81'</p> | <p align="right">Tampines <img src="/static/logos/Tampines Rovers FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Brunei Duli Pengiran Muda Mahkota FC.png" height="25px"> DPMM</p> |
 </div>
 
 
@@ -819,8 +809,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">BGPU <img src="/static/logos/BG Pathum United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PT Prachuap FC.png" height="25px"> Prachuap</p> |
-| <p align="center">13:00</p> | <p align="right">Port <img src="/static/logos/Port FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Police Tero FC.png" height="25px"> Police Tero</p> |
+| <p align="center">50'</p> | <p align="right">BGPU <img src="/static/logos/BG Pathum United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PT Prachuap FC.png" height="25px"> Prachuap</p> |
+| <p align="center">22'</p> | <p align="right">Port <img src="/static/logos/Port FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Police Tero FC.png" height="25px"> Police Tero</p> |
 </div>
 
 
