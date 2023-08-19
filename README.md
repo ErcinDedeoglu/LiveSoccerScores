@@ -114,9 +114,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mazatlán FC.png" height="25px"> Mazatlán</p> |
-| <p align="center">84'</p> | <p align="right">Pumas <img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Toluca FC.png" height="25px"> Toluca</p> |
-| <p align="center">84'</p> | <p align="right">Puebla <img src="/static/logos/Puebla FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético de San Luis.png" height="25px"> San Luis</p> |
-| <p align="center">78'</p> | <p align="right">Juárez <img src="/static/logos/FC Juárez.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> Chivas</p> |
+| <p align="center">FT</p> | <p align="right">Pumas <img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Toluca FC.png" height="25px"> Toluca</p> |
+| <p align="center">FT</p> | <p align="right">Puebla <img src="/static/logos/Puebla FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético de San Luis.png" height="25px"> San Luis</p> |
+| <p align="center">FT</p> | <p align="right">Juárez <img src="/static/logos/FC Juárez.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> Chivas</p> |
 </div>
 
 
@@ -341,13 +341,13 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">05:00</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bentleigh Greens SC.png" height="25px"> Bentleigh</p> |
-| <p align="center">05:00</p> | <p align="right">Dandenong <img src="/static/logos/Dandenong Thunder SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hume City FC.png" height="25px"> Hume City</p> |
-| <p align="center">05:00</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne Knights FC.png" height="25px"> Knights</p> |
-| <p align="center">05:00</p> | <p align="right">North Geelong <img src="/static/logos/North Geelong Warriors FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
-| <p align="center">05:00</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Moreland City FC.png" height="25px"> Moreland City</p> |
-| <p align="center">05:00</p> | <p align="right">Port Melbourne <img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Altona Magic SC.png" height="25px"> Altona Magic</p> |
-| <p align="center">05:00</p> | <p align="right">St. Albans <img src="/static/logos/St. Albans Saints FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Green Gully SC.png" height="25px"> Green Gully</p> |
+| <p align="center">17'</p> | <p align="right">Avondale <img src="/static/logos/Avondale FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bentleigh Greens SC.png" height="25px"> Bentleigh</p> |
+| <p align="center">18'</p> | <p align="right">Dandenong <img src="/static/logos/Dandenong Thunder SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hume City FC.png" height="25px"> Hume City</p> |
+| <p align="center">17'</p> | <p align="right">Heidelberg <img src="/static/logos/Heidelberg United FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Melbourne Knights FC.png" height="25px"> Knights</p> |
+| <p align="center">16'</p> | <p align="right">North Geelong <img src="/static/logos/North Geelong Warriors FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Melbourne FC.png" height="25px"> South Melb</p> |
+| <p align="center">18'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Moreland City FC.png" height="25px"> Moreland City</p> |
+| <p align="center">17'</p> | <p align="right">Port Melbourne <img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Altona Magic SC.png" height="25px"> Altona Magic</p> |
+| <p align="center">18'</p> | <p align="right">St. Albans <img src="/static/logos/St. Albans Saints FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Green Gully SC.png" height="25px"> Green Gully</p> |
 </div>
 
 
@@ -369,7 +369,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">05:00</p> | <p align="right">NWS Spirit <img src="/static/logos/North West Sydney Spirit FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Illawarra Stingrays FC.png" height="25px"> Illawarra St.</p> |
+| <p align="center">15'</p> | <p align="right">NWS Spirit <img src="/static/logos/North West Sydney Spirit FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Illawarra Stingrays FC.png" height="25px"> Illawarra St.</p> |
 </div>
 
 
