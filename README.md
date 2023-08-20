@@ -554,8 +554,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">BIT <img src="/static/logos/Beijing Institute of Technology FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guangxi Lanhang FC.png" height="25px"> Lanhang</p> |
-| <p align="center">30'</p> | <p align="right">Istar <img src="/static/logos/Hubei Istar FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Chongqing Tongliang Long FC.png" height="25px"> Tongliang Long</p> |
+| <p align="center">08:00</p> | <p align="right">BIT <img src="/static/logos/Beijing Institute of Technology FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guangxi Lanhang FC.png" height="25px"> Lanhang</p> |
+| <p align="center">39'</p> | <p align="right">Istar <img src="/static/logos/Hubei Istar FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Chongqing Tongliang Long FC.png" height="25px"> Tongliang Long</p> |
 | <p align="center">11:00</p> | <p align="right">Red Lions <img src="/static/logos/Qingdao Red Lions FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yunnan Yukun FC.png" height="25px"> Yukun</p> |
 | <p align="center">11:00</p> | <p align="right">Zhixing <img src="/static/logos/Dalian Zhixing FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jiangxi Dark Horse Junior FC.png" height="25px"> Jiangxi DHJ</p> |
 </div>
@@ -782,8 +782,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">33'</p> | <p align="right">Eastern <img src="/static/logos/Eastern SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hong Kong U23 XI.png" height="25px"> HK U23</p> |
-| <p align="center">32'</p> | <p align="right">Sham Shui Po <img src="/static/logos/Sham Shui Po Sports .png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Southern District Recreation & Sports Association.png" height="25px"> Southern</p> |
+| <p align="center">40'</p> | <p align="right">Eastern <img src="/static/logos/Eastern SC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hong Kong U23 XI.png" height="25px"> HK U23</p> |
+| <p align="center">40'</p> | <p align="right">Sham Shui Po <img src="/static/logos/Sham Shui Po Sports .png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Southern District Recreation & Sports Association.png" height="25px"> Southern</p> |
 | <p align="center">POS</p> | <p align="right">BC Rangers <img src="/static/logos/Hong Kong Rangers FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Lee Man FC.png" height="25px"> Lee Man</p> |
 </div>
 
@@ -821,7 +821,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">30'</p> | <p align="right">Persija <img src="/static/logos/Persatuan Sepak Bola Indonesia Jakarta.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Arema FC.png" height="25px"> Arema</p> |
+| <p align="center">40'</p> | <p align="right">Persija <img src="/static/logos/Persatuan Sepak Bola Indonesia Jakarta.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Arema FC.png" height="25px"> Arema</p> |
 | <p align="center">12:00</p> | <p align="right">PSIS <img src="/static/logos/PSIS Semarang.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Bandung.png" height="25px"> Persib</p> |
 </div>
 
@@ -1306,9 +1306,9 @@
 | <p align="center">FT</p> | <p align="right">Huntsville <img src="/static/logos/Huntsville City FC.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Philadelphia Union II.png" height="25px"> Union II</p> |
 | <p align="center">FT</p> | <p align="right">Sporting KC II <img src="/static/logos/Sporting Kansas City II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Minnesota United FC II.png" height="25px"> MNUFC2</p> |
 | <p align="center">FT</p> | <p align="right">North Texas <img src="/static/logos/North Texas SC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Tacoma Defiance.png" height="25px"> Tacoma Def.</p> |
-| <p align="center">FT</p> | <p align="right">Rapids II <img src="/static/logos/Colorado Rapids 2.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Los Angeles Football Club 2.png" height="25px"> LAFC II</p> |
 | <p align="center">FT</p> | <p align="right">Earthquakes II <img src="/static/logos/San Jose Earthquakes II.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
 | <p align="center">FT</p> | <p align="right">LA Galaxy II <img src="/static/logos/LA Galaxy II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Monarchs SLC.png" height="25px"> Real Monarchs</p> |
+| <p align="center">FT</p> | <p align="right">Rapids II <img src="/static/logos/Colorado Rapids 2.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Los Angeles Football Club 2.png" height="25px"> LAFC II</p> |
 | <p align="center">21:00</p> | <p align="right">Whitecaps FC 2 <img src="/static/logos/Vancouver Whitecaps FC II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Austin FC II.png" height="25px"> Austin II</p> |
 </div>
 
