@@ -173,8 +173,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">28'</p> | <p align="right">Brunei <img src="/static/logos/Brunei Darussalam Under 23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Myanmar Under 23.png" height="25px"> Myanmar</p> |
-| <p align="center">28'</p> | <p align="right">Thailand <img src="/static/logos/Thailand Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cambodia Under 23.png" height="25px"> Cambodia</p> |
+| <p align="center">36'</p> | <p align="right">Brunei <img src="/static/logos/Brunei Darussalam Under 23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Myanmar Under 23.png" height="25px"> Myanmar</p> |
+| <p align="center">36'</p> | <p align="right">Thailand <img src="/static/logos/Thailand Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cambodia Under 23.png" height="25px"> Cambodia</p> |
 </div>
 
 
@@ -502,7 +502,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Chonburi <img src="/static/logos/Chonburi FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Khonkaen United.png" height="25px"> Khonkaen</p> |
+| <p align="center">FT</p> | <p align="right">Chonburi <img src="/static/logos/Chonburi FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Khonkaen United.png" height="25px"> Khonkaen</p> |
 </div>
 
 
