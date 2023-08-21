@@ -279,7 +279,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">KTP <img src="/static/logos/Kotkan Työväen Palloilijat.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Haka.png" height="25px"> Haka</p> |
+| <p align="center">42'</p> | <p align="right">KTP <img src="/static/logos/Kotkan Työväen Palloilijat.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Haka.png" height="25px"> Haka</p> |
 </div>
 
 
@@ -361,7 +361,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Valmiera <img src="/static/logos/FK Valmiera.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"> Tukums</p> |
+| <p align="center">54'</p> | <p align="right">Valmiera <img src="/static/logos/FK Valmiera.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FK Tukums 2000 / Telms.png" height="25px"> Tukums</p> |
 | <p align="center">17:00</p> | <p align="right">Auda <img src="/static/logos/FK Auda Riga.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Riga FC.png" height="25px"> Riga</p> |
 </div>
 
@@ -383,8 +383,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">50'</p> | <p align="right">Godset II <img src="/static/logos/Strømsgodset IF II.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/IL Stjørdals-Blink.png" height="25px"> Stjørdals</p> |
-| <p align="center">7'</p> | <p align="right">Levanger <img src="/static/logos/Levanger FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SK Brann II.png" height="25px"> Brann II</p> |
+| <p align="center">84'</p> | <p align="right">Godset II <img src="/static/logos/Strømsgodset IF II.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/IL Stjørdals-Blink.png" height="25px"> Stjørdals</p> |
+| <p align="center">41'</p> | <p align="right">Levanger <img src="/static/logos/Levanger FK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SK Brann II.png" height="25px"> Brann II</p> |
 | <p align="center">16:00</p> | <p align="right">Notodden <img src="/static/logos/Notodden FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aalesunds FK II.png" height="25px"> Aalesund II</p> |
 | <p align="center">17:00</p> | <p align="right">Vålerenga II <img src="/static/logos/Vålerenga Fotball II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Lyn Oslo.png" height="25px"> Lyn</p> |
 </div>
@@ -460,7 +460,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:30</p> | <p align="right">Sepsi <img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFC Hermannstadt Sibiu.png" height="25px"> Hermannstadt</p> |
+| <p align="center">11'</p> | <p align="right">Sepsi <img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AFC Hermannstadt Sibiu.png" height="25px"> Hermannstadt</p> |
 | <p align="center">18:30</p> | <p align="right">U Cluj <img src="/static/logos/FC Universitatea Cluj.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SCS CFR 1907 Cluj.png" height="25px"> CFR</p> |
 </div>
 
