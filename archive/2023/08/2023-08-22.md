@@ -97,8 +97,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Khujand <img src="/static/logos/FC Khujand.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Merw Mary FT.png" height="25px"> Merw</p> |
-| <p align="center">HT</p> | <p align="right">Mohun Bagan <img src="/static/logos/Mohun Bagan Super Giant FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Abahani Limited Dhaka.png" height="25px"> Abahani Dhaka</p> |
-| <p align="center">25'</p> | <p align="right">Ahli Halab <img src="/static/logos/Ahli Halab Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shabab Al Khaleel.png" height="25px"> Shabab Khaleel</p> |
+| <p align="center">58'</p> | <p align="right">Mohun Bagan <img src="/static/logos/Mohun Bagan Super Giant FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Abahani Limited Dhaka.png" height="25px"> Abahani Dhaka</p> |
+| <p align="center">45' 2'</p> | <p align="right">Ahli Halab <img src="/static/logos/Ahli Halab Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shabab Al Khaleel.png" height="25px"> Shabab Khaleel</p> |
 | <p align="center">16:00</p> | <p align="right">Khalidiya <img src="/static/logos/Khalidiya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Nahda Club.png" height="25px"> Nahda</p> |
 </div>
 
@@ -109,8 +109,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Timor-Leste <img src="/static/logos/Timor-Leste Under 23.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Malaysia Under 23.png" height="25px"> Malaysia</p> |
-| <p align="center">68'</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Philippines Under 23.png" height="25px"> Philippines</p> |
+| <p align="center">90' 1'</p> | <p align="right">Timor-Leste <img src="/static/logos/Timor-Leste Under 23.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Malaysia Under 23.png" height="25px"> Malaysia</p> |
+| <p align="center">90' 1'</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Philippines Under 23.png" height="25px"> Philippines</p> |
 </div>
 
 
@@ -270,7 +270,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">Pulau Pinang <img src="/static/logos/Penang FA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kedah Darul Aman FC.png" height="25px"> Kedah</p> |
+| <p align="center">87'</p> | <p align="right">Pulau Pinang <img src="/static/logos/Penang FA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kedah Darul Aman FC.png" height="25px"> Kedah</p> |
 </div>
 
 
