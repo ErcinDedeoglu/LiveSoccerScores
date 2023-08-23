@@ -72,7 +72,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:45</p> | <p align="right">Petrolera <img src="/static/logos/Alianza Petrolera FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> Equidad</p> |
+| <p align="center">7'</p> | <p align="right">Petrolera <img src="/static/logos/Alianza Petrolera FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> Equidad</p> |
 | <p align="center">23:15</p> | <p align="right">Santa Fe <img src="/static/logos/Independiente Santa Fe SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Envigado FC.png" height="25px"> Envigado</p> |
 </div>
 
@@ -224,8 +224,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Platense <img src="/static/logos/CD Platense Municipal Zacatecoluca.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CD Águila.png" height="25px"> Águila</p> |
 | <p align="center">POS</p> | <p align="right">Santa Tecla <img src="/static/logos/Santa Tecla FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Jocoro FC.png" height="25px"> Jocoro</p> |
-| <p align="center">12'</p> | <p align="right">Dragón <img src="/static/logos/CD Dragón.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AD Isidro Metapán.png" height="25px"> Isidro</p> |
-| <p align="center">21:30</p> | <p align="right">Once Deportivo <img src="/static/logos/11 Deportivo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Municipal Limeño.png" height="25px"> Limeño</p> |
+| <p align="center">HT</p> | <p align="right">Dragón <img src="/static/logos/CD Dragón.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AD Isidro Metapán.png" height="25px"> Isidro</p> |
+| <p align="center">12'</p> | <p align="right">Once Deportivo <img src="/static/logos/11 Deportivo FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Municipal Limeño.png" height="25px"> Limeño</p> |
 </div>
 
 
