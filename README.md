@@ -107,8 +107,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">América MG <img src="/static/logos/América FC (Minas Gerais).png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
-| <p align="center">27'</p> | <p align="right">LDU Quito <img src="/static/logos/Liga Deportiva Universitaria de Quito.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/São Paulo FC.png" height="25px"> São Paulo</p> |
+| <p align="center">43'</p> | <p align="right">América MG <img src="/static/logos/América FC (Minas Gerais).png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
+| <p align="center">43'</p> | <p align="right">LDU Quito <img src="/static/logos/Liga Deportiva Universitaria de Quito.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/São Paulo FC.png" height="25px"> São Paulo</p> |
 </div>
 
 
@@ -119,7 +119,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Junior <img src="/static/logos/CD Popular Junior FC SA.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"> América</p> |
-| <p align="center">65'</p> | <p align="right">Boyacá Chicó <img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Atlético Huila.png" height="25px"> Huila</p> |
+| <p align="center">80'</p> | <p align="right">Boyacá Chicó <img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Atlético Huila.png" height="25px"> Huila</p> |
 | <p align="center">23:20</p> | <p align="right">Atl. Nacional <img src="/static/logos/Club Atlético Nacional SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD Pasto.png" height="25px"> Pasto</p> |
 </div>
 
@@ -207,7 +207,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"> Firpo</p> |
-| <p align="center">HT</p> | <p align="right">Fuerte <img src="/static/logos/CD Fuerte San Francisco.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/CD FAS.png" height="25px"> FAS</p> |
+| <p align="center">57'</p> | <p align="right">Fuerte <img src="/static/logos/CD Fuerte San Francisco.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/CD FAS.png" height="25px"> FAS</p> |
 </div>
 
 
