@@ -545,7 +545,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">San Miguelito <img src="/static/logos/AF Sporting San Miguelito.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/LD Alajuelense.png" height="25px"> Alajuelense</p> |
-| <p align="center">72'</p> | <p align="right">Real España <img src="/static/logos/Real CD España.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Diriangén FC.png" height="25px"> Diriangén</p> |
+| <p align="center">FT</p> | <p align="right">Real España <img src="/static/logos/Real CD España.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Diriangén FC.png" height="25px"> Diriangén</p> |
 </div>
 
 
