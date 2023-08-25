@@ -159,7 +159,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Shonan <img src="/static/logos/Shonan Bellmare.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa</p> |
+| <p align="center">15'</p> | <p align="right">Shonan <img src="/static/logos/Shonan Bellmare.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa</p> |
 </div>
 
 
@@ -201,8 +201,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Knights <img src="/static/logos/Melbourne Knights FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
-| <p align="center">10:00</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Altona Magic SC.png" height="25px"> Altona Magic</p> |
+| <p align="center">HT</p> | <p align="right">Knights <img src="/static/logos/Melbourne Knights FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Port Melbourne SC Sharks.png" height="25px"> Port Melbourne</p> |
+| <p align="center">17'</p> | <p align="right">Oakleigh <img src="/static/logos/Oakleigh Cannons FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Altona Magic SC.png" height="25px"> Altona Magic</p> |
 </div>
 
 
@@ -513,7 +513,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Suwon <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Incheon United FC.png" height="25px"> Incheon Utd</p> |
+| <p align="center">18'</p> | <p align="right">Suwon <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Incheon United FC.png" height="25px"> Incheon Utd</p> |
 | <p align="center">10:30</p> | <p align="right">Jeonbuk Motors <img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Daejeon Hana Citizen FC.png" height="25px"> Daejeon</p> |
 </div>
 
