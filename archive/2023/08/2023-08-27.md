@@ -108,7 +108,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">América <img src="/static/logos/Club América.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club León.png" height="25px"> León</p> |
-| <p align="center">70'</p> | <p align="right">Santos Laguna <img src="/static/logos/Club Santos Laguna.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> Chivas</p> |
+| <p align="center">77'</p> | <p align="right">Santos Laguna <img src="/static/logos/Club Santos Laguna.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> Chivas</p> |
 | <p align="center">22:00</p> | <p align="right">Necaxa <img src="/static/logos/Club Necaxa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Querétaro FC.png" height="25px"> Querétaro</p> |
 </div>
 
@@ -345,7 +345,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wellington Phoenix FC.png" height="25px"> Wellington</p> |
+| <p align="center">HT</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wellington Phoenix FC.png" height="25px"> Wellington</p> |
 </div>
 
 
@@ -1342,7 +1342,7 @@
 | <p align="center">FT</p> | <p align="right">San Antonio <img src="/static/logos/San Antonio FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh</p> |
 | <p align="center">FT</p> | <p align="right">Monterey Bay <img src="/static/logos/Monterey Bay FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Switchbacks</p> |
 | <p align="center">FT</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Phoenix Rising FC.png" height="25px"> Phoenix Rising</p> |
-| <p align="center">90' 1'</p> | <p align="right">Sacramento  <img src="/static/logos/Sacramento Republic FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Orange County SC.png" height="25px"> Orange County</p> |
+| <p align="center">FT</p> | <p align="right">Sacramento  <img src="/static/logos/Sacramento Republic FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Orange County SC.png" height="25px"> Orange County</p> |
 | <p align="center">21:00</p> | <p align="right">Legion <img src="/static/logos/Birmingham Legion FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Detroit City FC.png" height="25px"> Detroit City</p> |
 </div>
 
