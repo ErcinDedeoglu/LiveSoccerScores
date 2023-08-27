@@ -355,11 +355,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">30'</p> | <p align="right">Capalaba <img src="/static/logos/Capalaba FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Eastern Suburbs FC.png" height="25px"> Eastern Sub</p> |
-| <p align="center">29'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Souths United FC (NPL).png" height="25px"> Souths Utd NPL</p> |
-| <p align="center">27'</p> | <p align="right">Mitchelton <img src="/static/logos/Mitchelton FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Football Queensland QAS.png" height="25px"> FQ QAS</p> |
-| <p align="center">25'</p> | <p align="right">Olympic <img src="/static/logos/Brisbane Olympic FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
-| <p align="center">30'</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gold Coast United FC.png" height="25px"> Gold Coast Utd</p> |
+| <p align="center">37'</p> | <p align="right">Capalaba <img src="/static/logos/Capalaba FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Eastern Suburbs FC.png" height="25px"> Eastern Sub</p> |
+| <p align="center">36'</p> | <p align="right">Lions <img src="/static/logos/Queensland Lions FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Souths United FC (NPL).png" height="25px"> Souths Utd NPL</p> |
+| <p align="center">35'</p> | <p align="right">Mitchelton <img src="/static/logos/Mitchelton FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Football Queensland QAS.png" height="25px"> FQ QAS</p> |
+| <p align="center">32'</p> | <p align="right">Olympic <img src="/static/logos/Brisbane Olympic FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunshine Coast Wanderers FC.png" height="25px"> Sunshine Coast</p> |
+| <p align="center">37'</p> | <p align="right">Peninsula <img src="/static/logos/Peninsula Power FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gold Coast United FC.png" height="25px"> Gold Coast Utd</p> |
 </div>
 
 
@@ -386,12 +386,12 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">06:40</p> | <p align="right">NSW Institute <img src="/static/logos/Football NSW Institute.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/North West Sydney Spirit FC.png" height="25px"> NWS Spirit</p> |
-| <p align="center">29'</p> | <p align="right">Bankstown City <img src="/static/logos/Bankstown City Lions FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Manly United FC.png" height="25px"> Manly United</p> |
+| <p align="center">36'</p> | <p align="right">Bankstown City <img src="/static/logos/Bankstown City Lions FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Manly United FC.png" height="25px"> Manly United</p> |
 | <p align="center">07:00</p> | <p align="right">Emerging Jets <img src="/static/logos/Emerging Jets 1st Grade FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gladesville Ravens SC.png" height="25px"> Ravens</p> |
-| <p align="center">26'</p> | <p align="right">Illawarra St. <img src="/static/logos/Illawarra Stingrays FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Macarthur Rams FC.png" height="25px"> Macarthur Rams</p> |
-| <p align="center">31'</p> | <p align="right">Spartans <img src="/static/logos/Blacktown Spartans FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bulls FC Academy.png" height="25px"> Bulls</p> |
-| <p align="center">26'</p> | <p align="right">Sydney Univ <img src="/static/logos/Sydney University SFC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
-| <p align="center">07:30</p> | <p align="right">Tigers <img src="/static/logos/Northern Tigers FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/APIA Leichhardt FC.png" height="25px"> Leichhardt</p> |
+| <p align="center">34'</p> | <p align="right">Illawarra St. <img src="/static/logos/Illawarra Stingrays FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Macarthur Rams FC.png" height="25px"> Macarthur Rams</p> |
+| <p align="center">38'</p> | <p align="right">Spartans <img src="/static/logos/Blacktown Spartans FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bulls FC Academy.png" height="25px"> Bulls</p> |
+| <p align="center">33'</p> | <p align="right">Sydney Univ <img src="/static/logos/Sydney University SFC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
+| <p align="center">5'</p> | <p align="right">Tigers <img src="/static/logos/Northern Tigers FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/APIA Leichhardt FC.png" height="25px"> Leichhardt</p> |
 </div>
 
 
