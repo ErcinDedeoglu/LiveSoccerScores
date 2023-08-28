@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Getafe <img src="/static/logos/Getafe CF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Alavés.png" height="25px"> Alavés</p> |
-| <p align="center">HT</p> | <p align="right">Vallecano <img src="/static/logos/Rayo Vallecano.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Club Atlético de Madrid.png" height="25px"> Atlético</p> |
+| <p align="center">69'</p> | <p align="right">Vallecano <img src="/static/logos/Rayo Vallecano.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Club Atlético de Madrid.png" height="25px"> Atlético</p> |
 </div>
 
 
@@ -28,7 +28,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Salernitana <img src="/static/logos/US Salernitana 1919.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Udinese Calcio.png" height="25px"> Udinese</p> |
-| <p align="center">90' 5'</p> | <p align="right">Cagliari <img src="/static/logos/Cagliari Calcio.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Internazionale Milano.png" height="25px"> Inter</p> |
+| <p align="center">FT</p> | <p align="right">Cagliari <img src="/static/logos/Cagliari Calcio.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Internazionale Milano.png" height="25px"> Inter</p> |
 </div>
 
 
@@ -59,7 +59,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Rio Ave <img src="/static/logos/Rio Ave FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Porto.png" height="25px"> Porto</p> |
+| <p align="center">83'</p> | <p align="right">Rio Ave <img src="/static/logos/Rio Ave FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Porto.png" height="25px"> Porto</p> |
 </div>
 
 
@@ -182,9 +182,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">35'</p> | <p align="right">Atlético <img src="/static/logos/Atlético FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Real Soacha Cundinamarca.png" height="25px"> Real Soacha</p> |
-| <p align="center">35'</p> | <p align="right">Tigres <img src="/static/logos/Tigres FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
-| <p align="center">6'</p> | <p align="right">Barranquilla <img src="/static/logos/CD Barranquilla FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corporación Deportiva Bogotá FC.png" height="25px"> Bogotá</p> |
+| <p align="center">HT</p> | <p align="right">Atlético <img src="/static/logos/Atlético FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Real Soacha Cundinamarca.png" height="25px"> Real Soacha</p> |
+| <p align="center">HT</p> | <p align="right">Tigres <img src="/static/logos/Tigres FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
+| <p align="center">28'</p> | <p align="right">Barranquilla <img src="/static/logos/CD Barranquilla FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corporación Deportiva Bogotá FC.png" height="25px"> Bogotá</p> |
 </div>
 
 
@@ -277,7 +277,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Annecy  <img src="/static/logos/FC Annecy.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AS Saint-Étienne.png" height="25px"> Saint-Étienne</p> |
+| <p align="center">FT</p> | <p align="right">Annecy  <img src="/static/logos/FC Annecy.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AS Saint-Étienne.png" height="25px"> Saint-Étienne</p> |
 </div>
 
 
@@ -287,7 +287,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Versailles <img src="/static/logos/FC Versailles.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Rouen 1899.png" height="25px"> Rouen</p> |
+| <p align="center">FT</p> | <p align="right">Versailles <img src="/static/logos/FC Versailles.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/FC Rouen 1899.png" height="25px"> Rouen</p> |
 </div>
 
 
@@ -403,7 +403,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">ADT <img src="/static/logos/Asociación Deportiva Tarma.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"> UTC Cajamarca</p> |
-| <p align="center">22'</p> | <p align="right">Deportivo G. <img src="/static/logos/Club Deportivo Garcilaso.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Universidad César Vallejo.png" height="25px"> César Vallejo</p> |
+| <p align="center">45'</p> | <p align="right">Deportivo G. <img src="/static/logos/Club Deportivo Garcilaso.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Universidad César Vallejo.png" height="25px"> César Vallejo</p> |
 </div>
 
 
@@ -433,7 +433,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 5'</p> | <p align="right">Treaty United <img src="/static/logos/Treaty United FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Waterford FC.png" height="25px"> Waterford</p> |
+| <p align="center">FT</p> | <p align="right">Treaty United <img src="/static/logos/Treaty United FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Waterford FC.png" height="25px"> Waterford</p> |
 </div>
 
 
@@ -468,7 +468,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Eldense <img src="/static/logos/CD Eldense.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/SD Eibar.png" height="25px"> Eibar</p> |
-| <p align="center">48'</p> | <p align="right">Santander <img src="/static/logos/Real Racing Club de Santander.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SD Huesca.png" height="25px"> Huesca</p> |
+| <p align="center">72'</p> | <p align="right">Santander <img src="/static/logos/Real Racing Club de Santander.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SD Huesca.png" height="25px"> Huesca</p> |
 </div>
 
 
