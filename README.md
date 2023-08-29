@@ -255,7 +255,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">HT</p> | <p align="right">1599 Şelimbăr <img src="/static/logos/CSC 1599 Şelimbăr.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Voluntari.png" height="25px"> Voluntari</p> |
 | <p align="center">HT</p> | <p align="right">CSM Deva <img src="/static/logos/CSM Deva.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/AS FC Buzău.png" height="25px"> Buzău</p> |
-| <p align="center">45' 1'</p> | <p align="right">FC Bacău <img src="/static/logos/ACS Fotbal Club Bacău.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ASC Oțelul Galați.png" height="25px"> Oţelul</p> |
+| <p align="center">HT</p> | <p align="right">FC Bacău <img src="/static/logos/ACS Fotbal Club Bacău.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ASC Oțelul Galați.png" height="25px"> Oţelul</p> |
 | <p align="center">HT</p> | <p align="right">Phoenix Buziaș <img src="/static/logos/CS Phoenix Buziaș.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CF Chindia Târgovişte.png" height="25px"> Chindia</p> |
 | <p align="center">16:00</p> | <p align="right">Metaloglobus <img src="/static/logos/CS Metaloglobus Bucureşti.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dinamo 1948 Bucureşti.png" height="25px"> Dinamo</p> |
 </div>
@@ -267,8 +267,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Akhdoud <img src="/static/logos/Al Akhdoud.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Taawon FC.png" height="25px"> Taawon</p> |
-| <p align="center">19'</p> | <p align="right">Damak <img src="/static/logos/Damak Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Fateh SC.png" height="25px"> Fateh</p> |
+| <p align="center">26'</p> | <p align="right">Akhdoud <img src="/static/logos/Al Akhdoud.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Taawon FC.png" height="25px"> Taawon</p> |
+| <p align="center">27'</p> | <p align="right">Damak <img src="/static/logos/Damak Club.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Fateh SC.png" height="25px"> Fateh</p> |
 | <p align="center">18:00</p> | <p align="right">Ahli <img src="/static/logos/Al Ahli SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Tai.png" height="25px"> Tai</p> |
 | <p align="center">18:00</p> | <p align="right">Khaleej <img src="/static/logos/Al Khaleej Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Hazm.png" height="25px"> Hazm</p> |
 | <p align="center">18:00</p> | <p align="right">Nassr <img src="/static/logos/Al Nassr FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Shabab FC.png" height="25px"> Shabab</p> |
@@ -281,7 +281,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18'</p> | <p align="right">SuperSport Utd <img src="/static/logos/SuperSport United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Lamontville Golden Arrows FC.png" height="25px"> Arrows</p> |
+| <p align="center">27'</p> | <p align="right">SuperSport Utd <img src="/static/logos/SuperSport United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Lamontville Golden Arrows FC.png" height="25px"> Arrows</p> |
 | <p align="center">17:30</p> | <p align="right">Pirates <img src="/static/logos/Orlando Pirates FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cape Town City FC.png" height="25px"> Cape Town City</p> |
 </div>
 
