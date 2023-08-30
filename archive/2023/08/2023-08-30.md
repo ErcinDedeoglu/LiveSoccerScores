@@ -58,7 +58,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Estudiantes <img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SC Corinthians Paulista.png" height="25px"> Corinthians</p> |
-| <p align="center">22:00</p> | <p align="right">Def y Justicia <img src="/static/logos/CSD Defensa y Justicia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo FR.png" height="25px"> Botafogo</p> |
+| <p align="center">6'</p> | <p align="right">Def y Justicia <img src="/static/logos/CSD Defensa y Justicia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo FR.png" height="25px"> Botafogo</p> |
 </div>
 
 
@@ -103,7 +103,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Talleres <img src="/static/logos/CA Talleres de Córdoba.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Colón de Santa Fe.png" height="25px"> Colón</p> |
 | <p align="center">FT</p> | <p align="right">Argentinos <img src="/static/logos/Argentinos Juniors.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA San Martín de San Juan.png" height="25px"> San Martín SJ</p> |
-| <p align="center">13'</p> | <p align="right">San Lorenzo <img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Belgrano de Córdoba.png" height="25px"> Belgrano</p> |
+| <p align="center">29'</p> | <p align="right">San Lorenzo <img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Belgrano de Córdoba.png" height="25px"> Belgrano</p> |
 </div>
 
 
@@ -135,7 +135,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Novorizontino <img src="/static/logos/Grêmio Novorizontino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ituano Futebol Clube.png" height="25px"> Ituano</p> |
+| <p align="center">8'</p> | <p align="right">Novorizontino <img src="/static/logos/Grêmio Novorizontino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ituano Futebol Clube.png" height="25px"> Ituano</p> |
 </div>
 
 
@@ -156,7 +156,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza CEIF FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Leones FC.png" height="25px"> Leones</p> |
+| <p align="center">FT</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza CEIF FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Leones FC.png" height="25px"> Leones</p> |
 </div>
 
 
