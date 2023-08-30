@@ -271,13 +271,13 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Bihor <img src="/static/logos/FC Bihor Oradea.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ACS Campionii Fotbal Club Argeş.png" height="25px"> Argeș</p> |
-| <p align="center">14:30</p> | <p align="right">Alexandria <img src="/static/logos/CSM Alexandria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Concordia Chiajna.png" height="25px"> Concordia</p> |
-| <p align="center">14:30</p> | <p align="right">Hunedoara <img src="/static/logos/SC Corvinul 1921 Hunedoara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFK Csikszereda Miercurea Ciuc.png" height="25px"> Csikszereda</p> |
-| <p align="center">14:30</p> | <p align="right">Mioveni <img src="/static/logos/CS Mioveni.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Botoșani.png" height="25px"> Botoșani</p> |
-| <p align="center">14:30</p> | <p align="right">Pecica <img src="/static/logos/ACS Progresul Pecica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ACS Viitorul Şimian.png" height="25px"> Viitorul Şim.</p> |
-| <p align="center">14:30</p> | <p align="right">Unirea Dej <img src="/static/logos/FC Unirea Dej.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSA Steaua Bucureşti.png" height="25px"> CSA Steaua</p> |
-| <p align="center">14:30</p> | <p align="right">V. Ianca <img src="/static/logos/CS Viitorul Ianca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Tunari.png" height="25px"> Tunari</p> |
+| <p align="center">36'</p> | <p align="right">Bihor <img src="/static/logos/FC Bihor Oradea.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ACS Campionii Fotbal Club Argeş.png" height="25px"> Argeș</p> |
+| <p align="center">5'</p> | <p align="right">Alexandria <img src="/static/logos/CSM Alexandria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CS Concordia Chiajna.png" height="25px"> Concordia</p> |
+| <p align="center">5'</p> | <p align="right">Hunedoara <img src="/static/logos/SC Corvinul 1921 Hunedoara.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AFK Csikszereda Miercurea Ciuc.png" height="25px"> Csikszereda</p> |
+| <p align="center">8'</p> | <p align="right">Mioveni <img src="/static/logos/CS Mioveni.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Botoșani.png" height="25px"> Botoșani</p> |
+| <p align="center">7'</p> | <p align="right">Pecica <img src="/static/logos/ACS Progresul Pecica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ACS Viitorul Şimian.png" height="25px"> Viitorul Şim.</p> |
+| <p align="center">4'</p> | <p align="right">Unirea Dej <img src="/static/logos/FC Unirea Dej.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSA Steaua Bucureşti.png" height="25px"> CSA Steaua</p> |
+| <p align="center">10'</p> | <p align="right">V. Ianca <img src="/static/logos/CS Viitorul Ianca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CS Tunari.png" height="25px"> Tunari</p> |
 </div>
 
 
@@ -312,8 +312,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Al Bataeh <img src="/static/logos/Al Bataeh Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ain FC.png" height="25px"> Al Ain</p> |
-| <p align="center">9'</p> | <p align="right">Al Wahda <img src="/static/logos/Al Wahda FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Emirates Club.png" height="25px"> Emirates</p> |
+| <p align="center">35'</p> | <p align="right">Al Bataeh <img src="/static/logos/Al Bataeh Club.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Ain FC.png" height="25px"> Al Ain</p> |
+| <p align="center">36'</p> | <p align="right">Al Wahda <img src="/static/logos/Al Wahda FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Emirates Club.png" height="25px"> Emirates</p> |
 | <p align="center">16:30</p> | <p align="right">Ajman <img src="/static/logos/Ajman Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Nasr Club Dubai.png" height="25px"> Al Nasr</p> |
 </div>
 
