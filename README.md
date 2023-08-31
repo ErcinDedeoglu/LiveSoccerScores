@@ -55,7 +55,7 @@
 | <p align="center">FT</p> | <p align="right">Club Brugge <img src="/static/logos/Club Brugge KV.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/CA Osasuna.png" height="25px"> Osasuna</p> |
 | <p align="center">FT</p> | <p align="right">Frankfurt <img src="/static/logos/Eintracht Frankfurt.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/PFK Levski Sofia.png" height="25px"> Levski</p> |
 | <p align="center">FT</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Hibernian FC.png" height="25px"> Hibernian</p> |
-| <p align="center">120'</p> | <p align="right">Legia <img src="/static/logos/KP Legia Warszawa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> Midtjylland</p> |
+| <p align="center">FT</p> | <p align="right">Legia <img src="/static/logos/KP Legia Warszawa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> Midtjylland</p> |
 | <p align="center">FT</p> | <p align="right">Partizan <img src="/static/logos/FK Partizan Beograd.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Nordsjælland.png" height="25px"> Nordsjælland</p> |
 </div>
 
@@ -105,8 +105,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/América FC (Minas Gerais).png" height="25px"> América MG</p> |
-| <p align="center">22:00</p> | <p align="right">São Paulo <img src="/static/logos/São Paulo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liga Deportiva Universitaria de Quito.png" height="25px"> LDU Quito</p> |
+| <p align="center">42'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza EC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/América FC (Minas Gerais).png" height="25px"> América MG</p> |
+| <p align="center">43'</p> | <p align="right">São Paulo <img src="/static/logos/São Paulo FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Liga Deportiva Universitaria de Quito.png" height="25px"> LDU Quito</p> |
 </div>
 
 
