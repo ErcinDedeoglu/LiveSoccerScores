@@ -25,7 +25,7 @@
 | <p align="center">FT</p> | <p align="right">Čukarički <img src="/static/logos/FK Čukarički.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Olympiakos CFP.png" height="25px"> Olympiakos</p> |
 | <p align="center">FT</p> | <p align="right">Lugano <img src="/static/logos/FC Lugano.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Royale Union Saint-Gilloise.png" height="25px"> R. Union SG</p> |
 | <p align="center">FT</p> | <p align="right">Aberdeen <img src="/static/logos/Aberdeen FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/BK Häcken.png" height="25px"> Häcken</p> |
-| <p align="center">90' 5'</p> | <p align="right">Zrinjski <img src="/static/logos/HŠK Zrinjski Mostar.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Linzer Athletik Sport Klub.png" height="25px"> LASK</p> |
+| <p align="center">FT</p> | <p align="right">Zrinjski <img src="/static/logos/HŠK Zrinjski Mostar.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Linzer Athletik Sport Klub.png" height="25px"> LASK</p> |
 </div>
 
 
@@ -46,16 +46,16 @@
 | <p align="center">FT</p> | <p align="right">BATE <img src="/static/logos/FC BATE Borisov.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/KF Ballkani.png" height="25px"> Ballkani</p> |
 | <p align="center">FT</p> | <p align="right">Beşiktaş <img src="/static/logos/Beşiktaş Jimnastik Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Dynamo Kyiv.png" height="25px"> Dynamo Kyiv</p> |
 | <p align="center">FT</p> | <p align="right">Celje <img src="/static/logos/NK Celje.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv FC.png" height="25px"> Maccabi TA</p> |
-| <p align="center">119'</p> | <p align="right">Demirspor <img src="/static/logos/Adana Demir Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/KRC Genk.png" height="25px"> Genk</p> |
+| <p align="center">123'</p> | <p align="right">Demirspor <img src="/static/logos/Adana Demir Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/KRC Genk.png" height="25px"> Genk</p> |
 | <p align="center">FT</p> | <p align="right">Dnipro-1 <img src="/static/logos/SK Dnipro-1.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Spartak Trnava.png" height="25px"> Spartak</p> |
 | <p align="center">FT</p> | <p align="right">Ferencváros <img src="/static/logos/Ferencvárosi TC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/FK Žalgiris Vilnius.png" height="25px"> Žalgiris</p> |
 | <p align="center">FT</p> | <p align="right">Fiorentina <img src="/static/logos/ACF Fiorentina.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SK Rapid Wien.png" height="25px"> Rapid</p> |
 | <p align="center">FT</p> | <p align="right">Partizani <img src="/static/logos/KF Partizani Tirana.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FK Astana.png" height="25px"> Astana</p> |
-| <p align="center">120' 1'</p> | <p align="right">Rijeka <img src="/static/logos/HNK Rijeka.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Lille OSC.png" height="25px"> Lille</p> |
+| <p align="center">FT</p> | <p align="right">Rijeka <img src="/static/logos/HNK Rijeka.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Lille OSC.png" height="25px"> Lille</p> |
 | <p align="center">FT</p> | <p align="right">Club Brugge <img src="/static/logos/Club Brugge KV.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/CA Osasuna.png" height="25px"> Osasuna</p> |
 | <p align="center">FT</p> | <p align="right">Frankfurt <img src="/static/logos/Eintracht Frankfurt.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/PFK Levski Sofia.png" height="25px"> Levski</p> |
-| <p align="center">90' 5'</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Hibernian FC.png" height="25px"> Hibernian</p> |
-| <p align="center">90' 2'</p> | <p align="right">Legia <img src="/static/logos/KP Legia Warszawa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> Midtjylland</p> |
+| <p align="center">FT</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Hibernian FC.png" height="25px"> Hibernian</p> |
+| <p align="center">95'</p> | <p align="right">Legia <img src="/static/logos/KP Legia Warszawa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> Midtjylland</p> |
 | <p align="center">FT</p> | <p align="right">Partizan <img src="/static/logos/FK Partizan Beograd.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Nordsjælland.png" height="25px"> Nordsjælland</p> |
 </div>
 
