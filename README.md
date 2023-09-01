@@ -88,7 +88,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">Olimpia <img src="/static/logos/Club Olimpia.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Fluminense FC.png" height="25px"> Fluminense</p> |
+| <p align="center">FT</p> | <p align="right">Olimpia <img src="/static/logos/Club Olimpia.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Fluminense FC.png" height="25px"> Fluminense</p> |
 </div>
 
 
@@ -238,7 +238,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Juventude <img src="/static/logos/EC Juventude.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense</p> |
+| <p align="center">FT</p> | <p align="right">Juventude <img src="/static/logos/EC Juventude.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense</p> |
 | <p align="center">22:15</p> | <p align="right">Vitória <img src="/static/logos/EC Vitória.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mirassol Futebol Clube.png" height="25px"> Mirassol</p> |
 </div>
 
@@ -486,7 +486,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Olancho <img src="/static/logos/Olancho FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/AF Sporting San Miguelito.png" height="25px"> San Miguelito</p> |
-| <p align="center">8'</p> | <p align="right">Alajuelense <img src="/static/logos/LD Alajuelense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Motagua.png" height="25px"> Motagua</p> |
+| <p align="center">21'</p> | <p align="right">Alajuelense <img src="/static/logos/LD Alajuelense.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Motagua.png" height="25px"> Motagua</p> |
 </div>
 
 
