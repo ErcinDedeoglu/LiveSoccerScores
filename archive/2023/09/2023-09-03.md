@@ -358,7 +358,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/North West Sydney Spirit FC.png" height="25px"> NWS Spirit</p> |
+| <p align="center">21'</p> | <p align="right">Bulls <img src="/static/logos/Bulls FC Academy.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/North West Sydney Spirit FC.png" height="25px"> NWS Spirit</p> |
 | <p align="center">06:55</p> | <p align="right">Leichhardt <img src="/static/logos/APIA Leichhardt FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Emerging Jets 1st Grade FC.png" height="25px"> Emerging Jets</p> |
 | <p align="center">07:00</p> | <p align="right">Bankstown City <img src="/static/logos/Bankstown City Lions FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Football NSW Institute.png" height="25px"> NSW Institute</p> |
 | <p align="center">07:00</p> | <p align="right">Illawarra St. <img src="/static/logos/Illawarra Stingrays FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sydney Olympic FC.png" height="25px"> Sydney Olympic</p> |
@@ -374,7 +374,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">St. George <img src="/static/logos/St. George Saints FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mount Druitt Town Rangers.png" height="25px"> Mt Druitt Town</p> |
+| <p align="center">FT</p> | <p align="right">St. George <img src="/static/logos/St. George Saints FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mount Druitt Town Rangers.png" height="25px"> Mt Druitt Town</p> |
 </div>
 
 
