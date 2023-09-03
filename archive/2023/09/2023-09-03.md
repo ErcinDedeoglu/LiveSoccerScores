@@ -110,7 +110,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Santos Laguna <img src="/static/logos/Club Santos Laguna.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"> Pumas</p> |
 | <p align="center">FT</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Querétaro FC.png" height="25px"> Querétaro</p> |
-| <p align="center">69'</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
+| <p align="center">77'</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
 | <p align="center">18:00</p> | <p align="right">Toluca <img src="/static/logos/Deportivo Toluca FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Pachuca.png" height="25px"> Pachuca</p> |
 | <p align="center">23:05</p> | <p align="right">Chivas <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Monterrey.png" height="25px"> Monterrey</p> |
 </div>
