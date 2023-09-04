@@ -205,10 +205,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Ullensaker <img src="/static/logos/Ullensaker / Kisa IL.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/SK Brann II.png" height="25px"> Brann II</p> |
+| <p align="center">67'</p> | <p align="right">Ullensaker <img src="/static/logos/Ullensaker / Kisa IL.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/SK Brann II.png" height="25px"> Brann II</p> |
 | <p align="center">HT</p> | <p align="right">Egersund <img src="/static/logos/Egersunds IK.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Aalesunds FK II.png" height="25px"> Aalesund II</p> |
-| <p align="center">45'</p> | <p align="right">Lyn <img src="/static/logos/FC Lyn Oslo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Arendal Fotball.png" height="25px"> Arendal</p> |
-| <p align="center">45'</p> | <p align="right">Gjøvik-Lyn <img src="/static/logos/SK Gjøvik-Lyn.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Strømsgodset IF II.png" height="25px"> Godset II</p> |
+| <p align="center">HT</p> | <p align="right">Lyn <img src="/static/logos/FC Lyn Oslo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Arendal Fotball.png" height="25px"> Arendal</p> |
+| <p align="center">HT</p> | <p align="right">Gjøvik-Lyn <img src="/static/logos/SK Gjøvik-Lyn.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Strømsgodset IF II.png" height="25px"> Godset II</p> |
 | <p align="center">17:00</p> | <p align="right">Vålerenga II <img src="/static/logos/Vålerenga Fotball II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grorud IL.png" height="25px"> Grorud</p> |
 </div>
 
@@ -230,7 +230,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">U Cluj <img src="/static/logos/FC Universitatea Cluj.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/ACSM Politehnica Iași.png" height="25px"> Iaşi</p> |
-| <p align="center">48'</p> | <p align="right">Botoșani <img src="/static/logos/FC Botoșani.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/AFC Hermannstadt Sibiu.png" height="25px"> Hermannstadt</p> |
+| <p align="center">56'</p> | <p align="right">Botoșani <img src="/static/logos/FC Botoșani.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/AFC Hermannstadt Sibiu.png" height="25px"> Hermannstadt</p> |
 | <p align="center">18:30</p> | <p align="right">Sepsi <img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFC UTA Arad.png" height="25px"> Arad</p> |
 </div>
 
