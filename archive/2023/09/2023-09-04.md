@@ -47,7 +47,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Barracas C <img src="/static/logos/CA Barracas Central.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Arsenal de Sarandí.png" height="25px"> Arsenal</p> |
-| <p align="center">41'</p> | <p align="right">Unión <img src="/static/logos/CA Unión de Santa Fe.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"> San Lorenzo</p> |
+| <p align="center">45' 2'</p> | <p align="right">Unión <img src="/static/logos/CA Unión de Santa Fe.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"> San Lorenzo</p> |
 </div>
 
 
@@ -68,7 +68,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cali <img src="/static/logos/Asociación Deportivo Cali.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/AD Pasto.png" height="25px"> Pasto</p> |
-| <p align="center">32'</p> | <p align="right">Magdalena <img src="/static/logos/AD Unión Magdalena.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> Equidad</p> |
+| <p align="center">40'</p> | <p align="right">Magdalena <img src="/static/logos/AD Unión Magdalena.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD La Equidad Seguros SA.png" height="25px"> Equidad</p> |
 </div>
 
 
@@ -79,7 +79,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Morón <img src="/static/logos/CD Morón.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/CA Defensores de Belgrano.png" height="25px"> Defensores Bel</p> |
-| <p align="center">37'</p> | <p align="right">Ferro <img src="/static/logos/Club Ferro Carril Oeste.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Mitre de Santiago del Estero.png" height="25px"> Mitre SdE</p> |
+| <p align="center">44'</p> | <p align="right">Ferro <img src="/static/logos/Club Ferro Carril Oeste.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Mitre de Santiago del Estero.png" height="25px"> Mitre SdE</p> |
 </div>
 
 
@@ -89,7 +89,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">U. Concepción <img src="/static/logos/CD Universidad de Concepción.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD San Marcos de Arica.png" height="25px"> San Marcos</p> |
+| <p align="center">56'</p> | <p align="right">U. Concepción <img src="/static/logos/CD Universidad de Concepción.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD San Marcos de Arica.png" height="25px"> San Marcos</p> |
 </div>
 
 
