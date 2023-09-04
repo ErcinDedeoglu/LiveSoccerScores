@@ -195,7 +195,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Kelantan Utd <img src="/static/logos/Kelantan United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kuching FA.png" height="25px"> Kuching FA</p> |
+| <p align="center">14:30</p> | <p align="right">Kelantan Utd <img src="/static/logos/Kelantan United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kuching FA.png" height="25px"> Kuching FA</p> |
 </div>
 
 
