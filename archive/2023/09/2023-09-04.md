@@ -205,8 +205,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Egersund <img src="/static/logos/Egersunds IK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aalesunds FK II.png" height="25px"> Aalesund II</p> |
 | <p align="center">15:30</p> | <p align="right">Ullensaker <img src="/static/logos/Ullensaker / Kisa IL.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SK Brann II.png" height="25px"> Brann II</p> |
+| <p align="center">16:00</p> | <p align="right">Egersund <img src="/static/logos/Egersunds IK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aalesunds FK II.png" height="25px"> Aalesund II</p> |
 | <p align="center">16:00</p> | <p align="right">Lyn <img src="/static/logos/FC Lyn Oslo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arendal Fotball.png" height="25px"> Arendal</p> |
 | <p align="center">16:00</p> | <p align="right">Gjøvik-Lyn <img src="/static/logos/SK Gjøvik-Lyn.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Strømsgodset IF II.png" height="25px"> Godset II</p> |
 | <p align="center">17:00</p> | <p align="right">Vålerenga II <img src="/static/logos/Vålerenga Fotball II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grorud IL.png" height="25px"> Grorud</p> |
