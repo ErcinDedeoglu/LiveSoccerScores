@@ -78,12 +78,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Barrow <img src="/static/logos/Barrow AFC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackpool FC.png" height="25px"> Blackpool</p> |
-| <p align="center">18:00</p> | <p align="right">Fleetwood <img src="/static/logos/Fleetwood Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tranmere Rovers FC.png" height="25px"> Tranmere</p> |
-| <p align="center">18:00</p> | <p align="right">Forest Green <img src="/static/logos/Forest Green Rovers FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shrewsbury Town FC.png" height="25px"> Shrewsbury</p> |
-| <p align="center">18:00</p> | <p align="right">Gillingham <img src="/static/logos/Gillingham FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leyton Orient FC.png" height="25px"> L Orient</p> |
-| <p align="center">18:00</p> | <p align="right">Northampton <img src="/static/logos/Northampton Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oxford United FC.png" height="25px"> Oxford</p> |
-| <p align="center">18:00</p> | <p align="right">Wimbledon <img src="/static/logos/AFC Wimbledon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stevenage FC.png" height="25px"> Stevenage</p> |
+| <p align="center">5'</p> | <p align="right">Barrow <img src="/static/logos/Barrow AFC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blackpool FC.png" height="25px"> Blackpool</p> |
+| <p align="center">5'</p> | <p align="right">Fleetwood <img src="/static/logos/Fleetwood Town FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tranmere Rovers FC.png" height="25px"> Tranmere</p> |
+| <p align="center">3'</p> | <p align="right">Forest Green <img src="/static/logos/Forest Green Rovers FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shrewsbury Town FC.png" height="25px"> Shrewsbury</p> |
+| <p align="center">3'</p> | <p align="right">Gillingham <img src="/static/logos/Gillingham FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Leyton Orient FC.png" height="25px"> L Orient</p> |
+| <p align="center">3'</p> | <p align="right">Northampton <img src="/static/logos/Northampton Town FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Oxford United FC.png" height="25px"> Oxford</p> |
+| <p align="center">5'</p> | <p align="right">Wimbledon <img src="/static/logos/AFC Wimbledon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Stevenage FC.png" height="25px"> Stevenage</p> |
 | <p align="center">18:30</p> | <p align="right">Barnsley <img src="/static/logos/Barnsley FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grimsby Town FC.png" height="25px"> Grimsby</p> |
 | <p align="center">18:30</p> | <p align="right">Wrexham <img src="/static/logos/Wrexham FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newcastle United Under 21.png" height="25px"> Newcastle</p> |
 | <p align="center">18:45</p> | <p align="right">Accrington <img src="/static/logos/Accrington Stanley FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Carlisle United FC.png" height="25px"> Carlisle</p> |
@@ -111,7 +111,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Stabæk <img src="/static/logos/Stabæk Fotball.png" height="25px"></p> | <p align="center">1 - 5</p> | <p align="left"><img src="/static/logos/Rosenborg BK.png" height="25px"> Rosenborg</p> |
+| <p align="center">FT</p> | <p align="right">Stabæk <img src="/static/logos/Stabæk Fotball.png" height="25px"></p> | <p align="center">1 - 5</p> | <p align="left"><img src="/static/logos/Rosenborg BK.png" height="25px"> Rosenborg</p> |
 </div>
 
 
