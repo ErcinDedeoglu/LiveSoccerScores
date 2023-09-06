@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Petrolera <img src="/static/logos/Alianza Petrolera FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"> Boyacá Chicó</p> |
 | <p align="center">FT</p> | <p align="right">Envigado <img src="/static/logos/Envigado FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"> América</p> |
-| <p align="center">18'</p> | <p align="right">Dep. Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
+| <p align="center">42'</p> | <p align="right">Dep. Tolima <img src="/static/logos/Club Deportes Tolima SA.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
 </div>
 
 
@@ -104,7 +104,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">33'</p> | <p align="right">Ferroviária <img src="/static/logos/Associação Ferroviária de Esportes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Athletic Club (Minas Gerais).png" height="25px"> Athletic</p> |
+| <p align="center">HT</p> | <p align="right">Ferroviária <img src="/static/logos/Associação Ferroviária de Esportes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Athletic Club (Minas Gerais).png" height="25px"> Athletic</p> |
 </div>
 
 
@@ -138,7 +138,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Firpo <img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Santa Tecla FC.png" height="25px"> Santa Tecla</p> |
 | <p align="center">FT</p> | <p align="right">Águila <img src="/static/logos/CD Águila.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/CD Fuerte San Francisco.png" height="25px"> Fuerte</p> |
-| <p align="center">90' 1'</p> | <p align="right">Jocoro <img src="/static/logos/Jocoro FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/11 Deportivo FC.png" height="25px"> Once Deportivo</p> |
+| <p align="center">FT</p> | <p align="right">Jocoro <img src="/static/logos/Jocoro FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/11 Deportivo FC.png" height="25px"> Once Deportivo</p> |
 </div>
 
 
