@@ -74,6 +74,7 @@
 | <p align="center">11:00</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qatar Under 23.png" height="25px"> Qatar</p> |
 | <p align="center">11:35</p> | <p align="right">UAE <img src="/static/logos/United Arab Emirates Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/China PR Under 23.png" height="25px"> China PR</p> |
 | <p align="center">13:30</p> | <p align="right">Thailand <img src="/static/logos/Thailand Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Philippines Under 23.png" height="25px"> Philippines</p> |
+| <p align="center">15:30</p> | <p align="right">Laos <img src="/static/logos/Laos Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Australia Under 23.png" height="25px"> Australia</p> |
 </div>
 
 
