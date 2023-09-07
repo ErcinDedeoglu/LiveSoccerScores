@@ -17,10 +17,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Anguilla <img src="/static/logos/Anguilla.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Saint Martin.png" height="25px"> Saint Martin</p> |
-| <p align="center">46'</p> | <p align="right">Trinidad <img src="/static/logos/Trinidad and Tobago.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Curaçao.png" height="25px"> Curaçao</p> |
-| <p align="center">49'</p> | <p align="right">Sint Maarten <img src="/static/logos/Sint Maarten.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/St. Lucia.png" height="25px"> St. Lucia</p> |
-| <p align="center">4'</p> | <p align="right">St. Kitts <img src="/static/logos/St. Kitts and Nevis.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guadeloupe.png" height="25px"> Guadeloupe</p> |
-| <p align="center">4'</p> | <p align="right">USVI <img src="/static/logos/US Virgin Islands.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cayman Islands.png" height="25px"> Cayman</p> |
+| <p align="center">57'</p> | <p align="right">Trinidad <img src="/static/logos/Trinidad and Tobago.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Curaçao.png" height="25px"> Curaçao</p> |
+| <p align="center">59'</p> | <p align="right">Sint Maarten <img src="/static/logos/Sint Maarten.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/St. Lucia.png" height="25px"> St. Lucia</p> |
+| <p align="center">15'</p> | <p align="right">St. Kitts <img src="/static/logos/St. Kitts and Nevis.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guadeloupe.png" height="25px"> Guadeloupe</p> |
+| <p align="center">15'</p> | <p align="right">USVI <img src="/static/logos/US Virgin Islands.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cayman Islands.png" height="25px"> Cayman</p> |
 </div>
 
 
@@ -40,8 +40,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Paraguay <img src="/static/logos/Paraguay.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Peru.png" height="25px"> Peru</p> |
-| <p align="center">6'</p> | <p align="right">Colombia <img src="/static/logos/Colombia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
+| <p align="center">45' 2'</p> | <p align="right">Paraguay <img src="/static/logos/Paraguay.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Peru.png" height="25px"> Peru</p> |
+| <p align="center">16'</p> | <p align="right">Colombia <img src="/static/logos/Colombia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
 </div>
 
 
@@ -118,7 +118,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ceará <img src="/static/logos/Ceará SC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Londrina EC.png" height="25px"> Londrina</p> |
-| <p align="center">75'</p> | <p align="right">Tombense <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
+| <p align="center">85'</p> | <p align="right">Tombense <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
 </div>
 
 
@@ -206,7 +206,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">New England II <img src="/static/logos/New England Revolution II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Orlando City B.png" height="25px"> Orlando City B</p> |
+| <p align="center">52'</p> | <p align="right">New England II <img src="/static/logos/New England Revolution II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Orlando City B.png" height="25px"> Orlando City B</p> |
 </div>
 
 
