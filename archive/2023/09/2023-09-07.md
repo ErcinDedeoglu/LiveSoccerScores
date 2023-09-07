@@ -242,16 +242,6 @@
 </div>
 
 
-## <img src="/static/logos/World-U21 National Team Friendlies.png" height="25px"> World - U21 National Team Friendlies
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Czechia <img src="/static/logos/Czechia Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slovakia Under 21.png" height="25px"> Slovakia</p> |
-</div>
-
-
 
 
 
