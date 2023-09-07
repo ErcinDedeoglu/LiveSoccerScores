@@ -30,7 +30,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Cali <img src="/static/logos/Asociación Deportivo Cali.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Independiente Santa Fe SA.png" height="25px"> Santa Fe</p> |
+| <p align="center">FT</p> | <p align="right">Cali <img src="/static/logos/Asociación Deportivo Cali.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Independiente Santa Fe SA.png" height="25px"> Santa Fe</p> |
 </div>
 
 
@@ -149,7 +149,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Platense Municipal Zacatecoluca.png" height="25px"> Platense</p> |
-| <p align="center">79'</p> | <p align="right">Isidro <img src="/static/logos/AD Isidro Metapán.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/CD Municipal Limeño.png" height="25px"> Limeño</p> |
+| <p align="center">90' 5'</p> | <p align="right">Isidro <img src="/static/logos/AD Isidro Metapán.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/CD Municipal Limeño.png" height="25px"> Limeño</p> |
 </div>
 
 
@@ -217,7 +217,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">KC Current <img src="/static/logos/Kansas City Current.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/North Carolina Courage.png" height="25px"> Courage</p> |
-| <p align="center">HT</p> | <p align="right">Reign <img src="/static/logos/OL Reign.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Racing Louisville FC.png" height="25px"> Racing Lou</p> |
+| <p align="center">54'</p> | <p align="right">Reign <img src="/static/logos/OL Reign.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Racing Louisville FC.png" height="25px"> Racing Lou</p> |
 </div>
 
 
