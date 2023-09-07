@@ -159,7 +159,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">N. Ireland <img src="/static/logos/Northern Ireland Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Luxembourg Under 21.png" height="25px"> Luxembourg</p> |
+| <p align="center">22'</p> | <p align="right">N. Ireland <img src="/static/logos/Northern Ireland Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Luxembourg Under 21.png" height="25px"> Luxembourg</p> |
 | <p align="center">13:30</p> | <p align="right">Belarus <img src="/static/logos/Belarus Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Faroe Islands Under 21.png" height="25px"> Faroe Islands</p> |
 | <p align="center">14:30</p> | <p align="right">Estonia <img src="/static/logos/Estonia Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bulgaria Under 21.png" height="25px"> Bulgaria</p> |
 | <p align="center">15:45</p> | <p align="right">Hungary <img src="/static/logos/Hungary Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kazakhstan Under 21.png" height="25px"> Kazakhstan</p> |
