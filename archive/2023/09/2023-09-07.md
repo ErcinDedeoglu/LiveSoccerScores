@@ -16,9 +16,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Anguilla <img src="/static/logos/Anguilla.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Saint Martin.png" height="25px"> Saint Martin</p> |
-| <p align="center">22:00</p> | <p align="right">Trinidad <img src="/static/logos/Trinidad and Tobago.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Curaçao.png" height="25px"> Curaçao</p> |
-| <p align="center">22:00</p> | <p align="right">Sint Maarten <img src="/static/logos/Sint Maarten.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Lucia.png" height="25px"> St. Lucia</p> |
+| <p align="center">FT</p> | <p align="right">Anguilla <img src="/static/logos/Anguilla.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Saint Martin.png" height="25px"> Saint Martin</p> |
+| <p align="center">15'</p> | <p align="right">Trinidad <img src="/static/logos/Trinidad and Tobago.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Curaçao.png" height="25px"> Curaçao</p> |
+| <p align="center">15'</p> | <p align="right">Sint Maarten <img src="/static/logos/Sint Maarten.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/St. Lucia.png" height="25px"> St. Lucia</p> |
 | <p align="center">23:00</p> | <p align="right">St. Kitts <img src="/static/logos/St. Kitts and Nevis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guadeloupe.png" height="25px"> Guadeloupe</p> |
 | <p align="center">23:00</p> | <p align="right">USVI <img src="/static/logos/US Virgin Islands.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cayman Islands.png" height="25px"> Cayman</p> |
 </div>
@@ -55,7 +55,7 @@
 | <p align="center">FT</p> | <p align="right">Lithuania <img src="/static/logos/Lithuania.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Montenegro.png" height="25px"> Montenegro</p> |
 | <p align="center">FT</p> | <p align="right">Czechia <img src="/static/logos/Czechia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Albania.png" height="25px"> Albania</p> |
 | <p align="center">FT</p> | <p align="right">Denmark <img src="/static/logos/Denmark.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/San Marino.png" height="25px"> San Marino</p> |
-| <p align="center">90' 7'</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Republic of Ireland.png" height="25px"> Rep. Ireland</p> |
+| <p align="center">FT</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Republic of Ireland.png" height="25px"> Rep. Ireland</p> |
 | <p align="center">FT</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Greece.png" height="25px"> Greece</p> |
 | <p align="center">FT</p> | <p align="right">Poland <img src="/static/logos/Poland.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Faroe Islands.png" height="25px"> Faroe Islands</p> |
 | <p align="center">FT</p> | <p align="right">Serbia <img src="/static/logos/Serbia.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Hungary.png" height="25px"> Hungary</p> |
@@ -95,9 +95,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Madagascar.png" height="25px"> Madagascar</p> |
 | <p align="center">FT</p> | <p align="right">Ghana <img src="/static/logos/Ghana.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Central African Republic.png" height="25px"> CAR</p> |
-| <p align="center">86'</p> | <p align="right">Algeria <img src="/static/logos/Algeria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tanzania.png" height="25px"> Tanzania</p> |
-| <p align="center">86'</p> | <p align="right">Niger <img src="/static/logos/Niger.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Uganda.png" height="25px"> Uganda</p> |
-| <p align="center">85'</p> | <p align="right">Tunisia <img src="/static/logos/Tunisia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Botswana.png" height="25px"> Botswana</p> |
+| <p align="center">FT</p> | <p align="right">Algeria <img src="/static/logos/Algeria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tanzania.png" height="25px"> Tanzania</p> |
+| <p align="center">FT</p> | <p align="right">Niger <img src="/static/logos/Niger.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Uganda.png" height="25px"> Uganda</p> |
+| <p align="center">FT</p> | <p align="right">Tunisia <img src="/static/logos/Tunisia.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Botswana.png" height="25px"> Botswana</p> |
 </div>
 
 
@@ -118,7 +118,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ceará <img src="/static/logos/Ceará SC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Londrina EC.png" height="25px"> Londrina</p> |
-| <p align="center">21:30</p> | <p align="right">Tombense <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
+| <p align="center">45' 2'</p> | <p align="right">Tombense <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/ABC FC.png" height="25px"> ABC</p> |
 </div>
 
 
@@ -206,7 +206,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">New England II <img src="/static/logos/New England Revolution II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Orlando City B.png" height="25px"> Orlando City B</p> |
+| <p align="center">11'</p> | <p align="right">New England II <img src="/static/logos/New England Revolution II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Orlando City B.png" height="25px"> Orlando City B</p> |
 </div>
 
 
