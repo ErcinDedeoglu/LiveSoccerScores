@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">York <img src="/static/logos/York United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Valour FC.png" height="25px"> Valour</p> |
+| <p align="center">11'</p> | <p align="right">York <img src="/static/logos/York United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Valour FC.png" height="25px"> Valour</p> |
 </div>
 
 
@@ -31,9 +31,9 @@
 | <p align="center">FT</p> | <p align="right">Haiti <img src="/static/logos/Haiti.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cuba.png" height="25px"> Cuba</p> |
 | <p align="center">FT</p> | <p align="right">Belize <img src="/static/logos/Belize.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/St. Vincent / Grenadines.png" height="25px"> St. Vincent</p> |
 | <p align="center">FT</p> | <p align="right">Bermuda <img src="/static/logos/Bermuda.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/French Guiana.png" height="25px"> French Guiana</p> |
-| <p align="center">23:00</p> | <p align="right">Grenada <img src="/static/logos/Grenada.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Suriname.png" height="25px"> Suriname</p> |
-| <p align="center">23:00</p> | <p align="right">Barbados <img src="/static/logos/Barbados.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Montserrat.png" height="25px"> Montserrat</p> |
-| <p align="center">23:00</p> | <p align="right">Dominican Rep <img src="/static/logos/Dominican Republic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nicaragua.png" height="25px"> Nicaragua</p> |
+| <p align="center">17'</p> | <p align="right">Grenada <img src="/static/logos/Grenada.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Suriname.png" height="25px"> Suriname</p> |
+| <p align="center">16'</p> | <p align="right">Barbados <img src="/static/logos/Barbados.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Montserrat.png" height="25px"> Montserrat</p> |
+| <p align="center">15'</p> | <p align="right">Dominican Rep <img src="/static/logos/Dominican Republic.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nicaragua.png" height="25px"> Nicaragua</p> |
 </div>
 
 
@@ -44,7 +44,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Argentina <img src="/static/logos/Argentina.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ecuador.png" height="25px"> Ecuador</p> |
-| <p align="center">23:00</p> | <p align="right">Uruguay <img src="/static/logos/Uruguay.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chile.png" height="25px"> Chile</p> |
+| <p align="center">16'</p> | <p align="right">Uruguay <img src="/static/logos/Uruguay.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chile.png" height="25px"> Chile</p> |
 </div>
 
 
@@ -127,7 +127,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Ituano <img src="/static/logos/Ituano Futebol Clube.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Vila Nova FC.png" height="25px"> Vila Nova</p> |
+| <p align="center">FT</p> | <p align="right">Ituano <img src="/static/logos/Ituano Futebol Clube.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Vila Nova FC.png" height="25px"> Vila Nova</p> |
 </div>
 
 
@@ -149,7 +149,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza CEIF FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Patriotas FC.png" height="25px"> Patriotas</p> |
-| <p align="center">33'</p> | <p align="right">Barranquilla <img src="/static/logos/CD Barranquilla FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Cartagena FC SA.png" height="25px"> Cartagena</p> |
+| <p align="center">56'</p> | <p align="right">Barranquilla <img src="/static/logos/CD Barranquilla FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Cartagena FC SA.png" height="25px"> Cartagena</p> |
 </div>
 
 
@@ -312,8 +312,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Columbus II <img src="/static/logos/Columbus Crew 2.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/New York City FC II.png" height="25px"> NYCFC II</p> |
-| <p align="center">23:00</p> | <p align="right">Union II <img src="/static/logos/Philadelphia Union II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Toronto FC II.png" height="25px"> TFC II</p> |
+| <p align="center">13'</p> | <p align="right">Columbus II <img src="/static/logos/Columbus Crew 2.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/New York City FC II.png" height="25px"> NYCFC II</p> |
+| <p align="center">14'</p> | <p align="right">Union II <img src="/static/logos/Philadelphia Union II.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Toronto FC II.png" height="25px"> TFC II</p> |
 </div>
 
 
