@@ -158,8 +158,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Latvia <img src="/static/logos/Latvia Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Italy Under 21.png" height="25px"> Italy</p> |
-| <p align="center">3'</p> | <p align="right">Armenia <img src="/static/logos/Armenia Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Albania Under 21.png" height="25px"> Albania</p> |
+| <p align="center">70'</p> | <p align="right">Latvia <img src="/static/logos/Latvia Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Italy Under 21.png" height="25px"> Italy</p> |
+| <p align="center">20'</p> | <p align="right">Armenia <img src="/static/logos/Armenia Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Albania Under 21.png" height="25px"> Albania</p> |
 | <p align="center">16:00</p> | <p align="right">Sweden <img src="/static/logos/Sweden Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/North Macedonia Under 21.png" height="25px"> Macedonia</p> |
 | <p align="center">16:30</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Moldova Under 21.png" height="25px"> Moldova</p> |
 | <p align="center">16:30</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Andorra Under 21.png" height="25px"> Andorra</p> |
