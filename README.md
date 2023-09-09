@@ -195,7 +195,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">07:00</p> | <p align="right">Qatar <img src="/static/logos/Qatar Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Myanmar Under 23.png" height="25px"> Myanmar</p> |
+| <p align="center">7'</p> | <p align="right">Qatar <img src="/static/logos/Qatar Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Myanmar Under 23.png" height="25px"> Myanmar</p> |
 | <p align="center">08:30</p> | <p align="right">Maldives <img src="/static/logos/Maldives Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/United Arab Emirates Under 23.png" height="25px"> UAE</p> |
 | <p align="center">11:35</p> | <p align="right">China PR <img src="/static/logos/China PR Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/India Under 23.png" height="25px"> India</p> |
 | <p align="center">13:30</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thailand Under 23.png" height="25px"> Thailand</p> |
@@ -545,7 +545,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Nara <img src="/static/logos/Nara Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Imabari.png" height="25px"> Imabari</p> |
+| <p align="center">47'</p> | <p align="right">Nara <img src="/static/logos/Nara Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Imabari.png" height="25px"> Imabari</p> |
 | <p align="center">09:00</p> | <p align="right">Fukushima <img src="/static/logos/Fukushima United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AC Nagano Parceiro.png" height="25px"> Parceiro</p> |
 | <p align="center">09:00</p> | <p align="right">Gifu <img src="/static/logos/FC Gifu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tegevajaro Miyazaki FC.png" height="25px"> Tegevajaro</p> |
 | <p align="center">09:00</p> | <p align="right">Giravanz <img src="/static/logos/Giravanz Kitakyushu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vanraure Hachinohe.png" height="25px"> Vanraure</p> |
