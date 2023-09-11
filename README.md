@@ -39,7 +39,7 @@
 | <p align="center">FT</p> | <p align="right">Martinique <img src="/static/logos/Martinique.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Curaçao.png" height="25px"> Curaçao</p> |
 | <p align="center">FT</p> | <p align="right">Guatemala <img src="/static/logos/Guatemala.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
 | <p align="center">FT</p> | <p align="right">El Salvador <img src="/static/logos/El Salvador.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Trinidad and Tobago.png" height="25px"> Trinidad</p> |
-| <p align="center">24'</p> | <p align="right">Cayman <img src="/static/logos/Cayman Islands.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Aruba.png" height="25px"> Aruba</p> |
+| <p align="center">HT</p> | <p align="right">Cayman <img src="/static/logos/Cayman Islands.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Aruba.png" height="25px"> Aruba</p> |
 | <p align="center">23:00</p> | <p align="right">Dominican Rep <img src="/static/logos/Dominican Republic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Montserrat.png" height="25px"> Montserrat</p> |
 | <p align="center">23:00</p> | <p align="right">Saint Martin <img src="/static/logos/Saint Martin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bonaire.png" height="25px"> Bonaire</p> |
 </div>
@@ -52,7 +52,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios FC SA.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Independiente Santa Fe SA.png" height="25px"> Santa Fe</p> |
-| <p align="center">21:00</p> | <p align="right">Envigado <img src="/static/logos/Envigado FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Águilas Doradas.png" height="25px"> Águilas D</p> |
+| <p align="center">29'</p> | <p align="right">Envigado <img src="/static/logos/Envigado FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Águilas Doradas.png" height="25px"> Águilas D</p> |
 | <p align="center">23:15</p> | <p align="right">Huila <img src="/static/logos/CD Atlético Huila.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportes Tolima SA.png" height="25px"> Dep. Tolima</p> |
 </div>
 
@@ -139,8 +139,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Boca <img src="/static/logos/Club Atlético Boca Juniors de Cali.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
-| <p align="center">HT</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Atlético FC.png" height="25px"> Atlético</p> |
+| <p align="center">66'</p> | <p align="right">Boca <img src="/static/logos/Club Atlético Boca Juniors de Cali.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Llaneros SA.png" height="25px"> Llaneros</p> |
+| <p align="center">65'</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Atlético FC.png" height="25px"> Atlético</p> |
 | <p align="center">22:00</p> | <p align="right">Barranquilla <img src="/static/logos/CD Barranquilla FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fortaleza CEIF FC.png" height="25px"> Fortaleza</p> |
 </div>
 
@@ -185,7 +185,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Red Star <img src="/static/logos/Red Star FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/FC Rouen 1899.png" height="25px"> Rouen</p> |
-| <p align="center">87'</p> | <p align="right">Orléans <img src="/static/logos/US Orléans Loiret Football.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Le Mans FC.png" height="25px"> Le Mans</p> |
+| <p align="center">FT</p> | <p align="right">Orléans <img src="/static/logos/US Orléans Loiret Football.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Le Mans FC.png" height="25px"> Le Mans</p> |
 </div>
 
 
@@ -228,7 +228,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Eldense <img src="/static/logos/CD Eldense.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/AD Alcorcón.png" height="25px"> Alcorcón</p> |
+| <p align="center">FT</p> | <p align="right">Eldense <img src="/static/logos/CD Eldense.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/AD Alcorcón.png" height="25px"> Alcorcón</p> |
 </div>
 
 
