@@ -97,7 +97,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Guinea-Bissau <img src="/static/logos/Guinea-Bissau.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sierra Leone.png" height="25px"> Sierra Leone</p> |
+| <p align="center">52'</p> | <p align="right">Guinea-Bissau <img src="/static/logos/Guinea-Bissau.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Sierra Leone.png" height="25px"> Sierra Leone</p> |
 </div>
 
 
@@ -161,8 +161,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Luxembourg <img src="/static/logos/Luxembourg Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/England Under 21.png" height="25px"> England</p> |
-| <p align="center">HT</p> | <p align="right">Slovenia <img src="/static/logos/Slovenia Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/France Under 21.png" height="25px"> France</p> |
+| <p align="center">51'</p> | <p align="right">Luxembourg <img src="/static/logos/Luxembourg Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/England Under 21.png" height="25px"> England</p> |
+| <p align="center">49'</p> | <p align="right">Slovenia <img src="/static/logos/Slovenia Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/France Under 21.png" height="25px"> France</p> |
 | <p align="center">18:00</p> | <p align="right">Belgium <img src="/static/logos/Belgium Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kazakhstan Under 21.png" height="25px"> Kazakhstan</p> |
 | <p align="center">19:00</p> | <p align="right">Spain <img src="/static/logos/Spain Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scotland Under 21.png" height="25px"> Scotland</p> |
 </div>
@@ -238,7 +238,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Trollhättan <img src="/static/logos/FC Trollhättan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IK Oddevold.png" height="25px"> Oddevold</p> |
+| <p align="center">9'</p> | <p align="right">Trollhättan <img src="/static/logos/FC Trollhättan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IK Oddevold.png" height="25px"> Oddevold</p> |
 </div>
 
 
@@ -279,7 +279,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt Under 23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Russia.png" height="25px"> Russia</p> |
+| <p align="center">HT</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt Under 23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Russia.png" height="25px"> Russia</p> |
 </div>
 
 
