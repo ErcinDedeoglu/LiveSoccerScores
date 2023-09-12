@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Nicaragua <img src="/static/logos/Nicaragua.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
+| <p align="center">80'</p> | <p align="right">Nicaragua <img src="/static/logos/Nicaragua.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
 | <p align="center">19:30</p> | <p align="right">French Guiana <img src="/static/logos/French Guiana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belize.png" height="25px"> Belize</p> |
 | <p align="center">19:30</p> | <p align="right">St. Vincent <img src="/static/logos/St. Vincent / Grenadines.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bermuda.png" height="25px"> Bermuda</p> |
 | <p align="center">20:00</p> | <p align="right">Cuba <img src="/static/logos/Cuba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Suriname.png" height="25px"> Suriname</p> |
@@ -42,7 +42,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Bucaramanga <img src="/static/logos/CA Bucaramanga.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
+| <p align="center">FT</p> | <p align="right">Bucaramanga <img src="/static/logos/CA Bucaramanga.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
 </div>
 
 
@@ -85,9 +85,9 @@
 | <p align="center">11:35</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
 | <p align="center">12:20</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Türkiye.png" height="25px"> Türkiye</p> |
 | <p align="center">13:00</p> | <p align="right">Kenya <img src="/static/logos/Kenya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/South Sudan.png" height="25px"> South Sudan</p> |
+| <p align="center">15:00</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/United Arab Emirates.png" height="25px"> UAE</p> |
 | <p align="center">15:00</p> | <p align="right">South Africa <img src="/static/logos/South Africa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Congo DR.png" height="25px"> Congo DR</p> |
 | <p align="center">15:15</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Russia.png" height="25px"> Russia</p> |
-| <p align="center">16:00</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/United Arab Emirates.png" height="25px"> UAE</p> |
 | <p align="center">16:00</p> | <p align="right">Ghana <img src="/static/logos/Ghana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
 | <p align="center">16:00</p> | <p align="right">Iran <img src="/static/logos/IR Iran.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Angola.png" height="25px"> Angola</p> |
 | <p align="center">16:00</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
