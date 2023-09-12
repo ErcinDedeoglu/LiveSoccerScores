@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">80'</p> | <p align="right">Nicaragua <img src="/static/logos/Nicaragua.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
+| <p align="center">88'</p> | <p align="right">Nicaragua <img src="/static/logos/Nicaragua.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
 | <p align="center">19:30</p> | <p align="right">French Guiana <img src="/static/logos/French Guiana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belize.png" height="25px"> Belize</p> |
 | <p align="center">19:30</p> | <p align="right">St. Vincent <img src="/static/logos/St. Vincent / Grenadines.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bermuda.png" height="25px"> Bermuda</p> |
 | <p align="center">20:00</p> | <p align="right">Cuba <img src="/static/logos/Cuba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Suriname.png" height="25px"> Suriname</p> |
