@@ -82,8 +82,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
-| <p align="center">11'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Türkiye.png" height="25px"> Türkiye</p> |
+| <p align="center">55'</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
+| <p align="center">24'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Türkiye.png" height="25px"> Türkiye</p> |
 | <p align="center">13:00</p> | <p align="right">Kenya <img src="/static/logos/Kenya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/South Sudan.png" height="25px"> South Sudan</p> |
 | <p align="center">15:00</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/United Arab Emirates.png" height="25px"> UAE</p> |
 | <p align="center">15:00</p> | <p align="right">South Africa <img src="/static/logos/South Africa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Congo DR.png" height="25px"> Congo DR</p> |
