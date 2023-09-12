@@ -32,7 +32,7 @@
 | <p align="center">20:00</p> | <p align="right">Cuba <img src="/static/logos/Cuba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Suriname.png" height="25px"> Suriname</p> |
 | <p align="center">20:00</p> | <p align="right">Turks & Caicos <img src="/static/logos/Turks and Caicos Islands.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dominica.png" height="25px"> Dominica</p> |
 | <p align="center">22:00</p> | <p align="right">Guyana <img src="/static/logos/Guyana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bahamas.png" height="25px"> Bahamas</p> |
-| <p align="center">23:00</p> | <p align="right">Puerto Rico <img src="/static/logos/Puerto Rico.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Antigua and Barbuda.png" height="25px"> Antigua</p> |
+| <p align="center">23:06</p> | <p align="right">Puerto Rico <img src="/static/logos/Puerto Rico.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Antigua and Barbuda.png" height="25px"> Antigua</p> |
 </div>
 
 
