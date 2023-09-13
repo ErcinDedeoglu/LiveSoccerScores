@@ -196,7 +196,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Omladinac GV <img src="/static/logos/NK Omladinac Gornja Vrba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/HNK Hajduk Split.png" height="25px"> Hajduk</p> |
+| <p align="center">4'</p> | <p align="right">Omladinac GV <img src="/static/logos/NK Omladinac Gornja Vrba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/HNK Hajduk Split.png" height="25px"> Hajduk</p> |
 </div>
 
 
