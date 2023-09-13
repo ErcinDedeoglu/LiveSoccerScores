@@ -124,7 +124,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Circulo Dep. <img src="/static/logos/Club Circulo Deportivo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Social y Deportivo Sol de Mayo.png" height="25px"> Sol de Mayo</p> |
+| <p align="center">1'</p> | <p align="right">Circulo Dep. <img src="/static/logos/Club Circulo Deportivo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Social y Deportivo Sol de Mayo.png" height="25px"> Sol de Mayo</p> |
 | <p align="center">18:00</p> | <p align="right">Gimnasia Tiro <img src="/static/logos/Club de Gimnasia y Tiro de Salta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Boca Unidos.png" height="25px"> Boca Unidos</p> |
 | <p align="center">18:30</p> | <p align="right">Sansinena <img src="/static/logos/Club Atlético Sansinena Social y Deportivo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Germinal Trelew.png" height="25px"> Ger Rawson</p> |
 | <p align="center">18:30</p> | <p align="right">Las Heras <img src="/static/logos/Club Atletico Huracán Las Heras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Sportivo y Biblioteca Atenas.png" height="25px"> Atenas</p> |
@@ -216,7 +216,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Huddersfield <img src="/static/logos/Huddersfield Town Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newcastle United Under 21.png" height="25px"> Newcastle</p> |
+| <p align="center">7'</p> | <p align="right">Huddersfield <img src="/static/logos/Huddersfield Town Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Newcastle United Under 21.png" height="25px"> Newcastle</p> |
 </div>
 
 
@@ -226,7 +226,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Hegau <img src="/static/logos/Hegauer FV.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Eintracht Frankfurt.png" height="25px"> Eintracht</p> |
+| <p align="center">83'</p> | <p align="right">Hegau <img src="/static/logos/Hegauer FV.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Eintracht Frankfurt.png" height="25px"> Eintracht</p> |
 </div>
 
 
@@ -247,7 +247,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Brann <img src="/static/logos/SK Brann.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Stabæk Fotball.png" height="25px"> Stabæk</p> |
-| <p align="center">HT</p> | <p align="right">Vålerenga <img src="/static/logos/Vålerenga Fotball.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Lillestrøm SK Kvinner.png" height="25px"> Lillestrøm</p> |
+| <p align="center">50'</p> | <p align="right">Vålerenga <img src="/static/logos/Vålerenga Fotball.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Lillestrøm SK Kvinner.png" height="25px"> Lillestrøm</p> |
 </div>
 
 
