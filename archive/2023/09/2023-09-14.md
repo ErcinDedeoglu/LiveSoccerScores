@@ -151,7 +151,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:00</p> | <p align="right">Santa Cruz <img src="/static/logos/Deportes Santa Cruz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Antofagasta.png" height="25px"> Antofagasta</p> |
+| <p align="center">24'</p> | <p align="right">Santa Cruz <img src="/static/logos/Deportes Santa Cruz.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Antofagasta.png" height="25px"> Antofagasta</p> |
 </div>
 
 
@@ -161,7 +161,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:00</p> | <p align="right">Orsomarso <img src="/static/logos/Orsomarso SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Real Santander.png" height="25px"> Real Santander</p> |
+| <p align="center">23'</p> | <p align="right">Orsomarso <img src="/static/logos/Orsomarso SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Real Santander.png" height="25px"> Real Santander</p> |
 </div>
 
 
