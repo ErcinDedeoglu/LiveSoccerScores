@@ -88,7 +88,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/KS Skënderbeu Korçë.png" height="25px"> Skënderbeu</p> |
-| <p align="center">74'</p> | <p align="right">Vllaznia <img src="/static/logos/KS Vllaznia Shkodër.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Partizani Tirana.png" height="25px"> Partizani</p> |
+| <p align="center">80'</p> | <p align="right">Vllaznia <img src="/static/logos/KS Vllaznia Shkodër.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Partizani Tirana.png" height="25px"> Partizani</p> |
 </div>
 
 
@@ -141,7 +141,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">2'</p> | <p align="right">Levski <img src="/static/logos/PFK Levski Sofia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/OFK Pirin Blagoevgrad.png" height="25px"> Pirin</p> |
+| <p align="center">9'</p> | <p align="right">Levski <img src="/static/logos/PFK Levski Sofia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/OFK Pirin Blagoevgrad.png" height="25px"> Pirin</p> |
 </div>
 
 
@@ -183,7 +183,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">HB Køge <img src="/static/logos/HB Køge.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kolding IF.png" height="25px"> Kolding</p> |
+| <p align="center">38'</p> | <p align="right">HB Køge <img src="/static/logos/HB Køge.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kolding IF.png" height="25px"> Kolding</p> |
 </div>
 
 
@@ -226,7 +226,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al Ain <img src="/static/logos/Al Ain FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al Bataeh Club.png" height="25px"> Al Bataeh</p> |
 | <p align="center">FT</p> | <p align="right">Emirates <img src="/static/logos/Emirates Club.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Al Wahda FC.png" height="25px"> Al Wahda</p> |
-| <p align="center">67'</p> | <p align="right">Al Nasr <img src="/static/logos/Al Nasr Club Dubai.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Ajman Club.png" height="25px"> Ajman</p> |
+| <p align="center">73'</p> | <p align="right">Al Nasr <img src="/static/logos/Al Nasr Club Dubai.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Ajman Club.png" height="25px"> Ajman</p> |
 </div>
 
 
