@@ -121,9 +121,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">F Marinos <img src="/static/logos/Yokohama F. Marinos.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
-| <p align="center">HT</p> | <p align="right">Kawasaki <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Tokyo.png" height="25px"> Tokyo</p> |
-| <p align="center">26'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto</p> |
+| <p align="center">HT</p> | <p align="right">F Marinos <img src="/static/logos/Yokohama F. Marinos.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
+| <p align="center">64'</p> | <p align="right">Kawasaki <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Tokyo.png" height="25px"> Tokyo</p> |
+| <p align="center">HT</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto</p> |
 </div>
 
 
@@ -550,7 +550,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Ventforet <img src="/static/logos/Ventforet Kofu.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tokyo Verdy.png" height="25px"> Tokyo Verdy</p> |
+| <p align="center">64'</p> | <p align="right">Ventforet <img src="/static/logos/Ventforet Kofu.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tokyo Verdy.png" height="25px"> Tokyo Verdy</p> |
 </div>
 
 
@@ -858,7 +858,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Prykarpattia <img src="/static/logos/FK Prykarpattia Ivano-Frankivsk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Epitsentr Dunayivtsi.png" height="25px"> Epitsentr</p> |
+| <p align="center">21'</p> | <p align="right">Prykarpattia <img src="/static/logos/FK Prykarpattia Ivano-Frankivsk.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Epitsentr Dunayivtsi.png" height="25px"> Epitsentr</p> |
 | <p align="center">12:00</p> | <p align="right">Bukovyna <img src="/static/logos/FK Bukovyna Chernivtsi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Ahrobiznes Volochysk.png" height="25px"> Ahrobiznes V.</p> |
 | <p align="center">13:30</p> | <p align="right">Karpaty Lviv <img src="/static/logos/FC Karpaty Lviv.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Podillya Khmelnytskyi.png" height="25px"> Podillya Khm.</p> |
 </div>
