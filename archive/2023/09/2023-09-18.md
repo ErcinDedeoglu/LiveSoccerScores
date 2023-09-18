@@ -108,7 +108,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Huila <img src="/static/logos/CD Atlético Huila.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Águilas Doradas.png" height="25px"> Águilas D</p> |
-| <p align="center">90' 2'</p> | <p align="right">Pasto <img src="/static/logos/AD Pasto.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Club Deportes Tolima SA.png" height="25px"> Dep. Tolima</p> |
+| <p align="center">FT</p> | <p align="right">Pasto <img src="/static/logos/AD Pasto.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Club Deportes Tolima SA.png" height="25px"> Dep. Tolima</p> |
 | <p align="center">21:00</p> | <p align="right">Envigado <img src="/static/logos/Envigado FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jaguares de Córdoba FC.png" height="25px"> Jaguares</p> |
 | <p align="center">21:30</p> | <p align="right">Magdalena <img src="/static/logos/AD Unión Magdalena.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Once Caldas SA.png" height="25px"> Once Caldas</p> |
 | <p align="center">23:40</p> | <p align="right">Bucaramanga <img src="/static/logos/CA Bucaramanga.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Pereira FC.png" height="25px"> Pereira</p> |
@@ -147,7 +147,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 5'</p> | <p align="right">Génesis <img src="/static/logos/Club Deportivo Génesis.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/CD Victoria.png" height="25px"> Victoria</p> |
+| <p align="center">FT</p> | <p align="right">Génesis <img src="/static/logos/Club Deportivo Génesis.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/CD Victoria.png" height="25px"> Victoria</p> |
 </div>
 
 
@@ -480,6 +480,16 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">RGV FC Toros <img src="/static/logos/Rio Grande Valley FC Toros.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Birmingham Legion FC.png" height="25px"> Legion</p> |
+</div>
+
+
+## <img src="/static/logos/USA-USL League One.png" height="25px"> USA - USL League One
+
+<div align="center">
+
+&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
+| ------------ | ------------ | ------------ | ------------ |
+| <p align="center">FT</p> | <p align="right">Lexington <img src="/static/logos/Lexington SC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Charlotte Independence.png" height="25px"> Independence</p> |
 </div>
 
 
