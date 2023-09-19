@@ -33,7 +33,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Santos Laguna.png" height="25px"> Santos Laguna</p> |
+| <p align="center">90' 9'</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Club Santos Laguna.png" height="25px"> Santos Laguna</p> |
 </div>
 
 
@@ -164,9 +164,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Maziya <img src="/static/logos/Maziya S&RC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bashundhara Kings.png" height="25px"> Kings</p> |
 | <p align="center">14:00</p> | <p align="right">Odisha <img src="/static/logos/Odisha FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mohun Bagan Super Giant FC.png" height="25px"> Mohun Bagan</p> |
 | <p align="center">16:00</p> | <p align="right">Kahrabaa <img src="/static/logos/Al Kahrabaa Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kuwait SC.png" height="25px"> Kuwait</p> |
+| <p align="center">16:00</p> | <p align="right">Maziya <img src="/static/logos/Maziya S&RC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bashundhara Kings.png" height="25px"> Kings</p> |
 | <p align="center">18:00</p> | <p align="right">Wehdat <img src="/static/logos/Al Wehdat SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ittihad Al Ahli Aleppo SC.png" height="25px"> Al Ittihad</p> |
 </div>
 
