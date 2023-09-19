@@ -147,10 +147,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 2'</p> | <p align="right">Bahrain  <img src="/static/logos/Bahrain Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Thailand Under 23.png" height="25px"> Thailand</p> |
-| <p align="center">45'</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Myanmar Under 23.png" height="25px"> Myanmar</p> |
-| <p align="center">45'</p> | <p align="right">Korea DPR <img src="/static/logos/Korea DPR Under 23.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Chinese Taipei Under 23.png" height="25px"> Chinese Taipei</p> |
-| <p align="center">45'</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam Under 23.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Mongolia Under 23.png" height="25px"> Mongolia</p> |
+| <p align="center">HT</p> | <p align="right">Bahrain  <img src="/static/logos/Bahrain Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Thailand Under 23.png" height="25px"> Thailand</p> |
+| <p align="center">HT</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Myanmar Under 23.png" height="25px"> Myanmar</p> |
+| <p align="center">HT</p> | <p align="right">Korea DPR <img src="/static/logos/Korea DPR Under 23.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Chinese Taipei Under 23.png" height="25px"> Chinese Taipei</p> |
+| <p align="center">HT</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam Under 23.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Mongolia Under 23.png" height="25px"> Mongolia</p> |
 | <p align="center">11:30</p> | <p align="right">China PR <img src="/static/logos/China PR Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/India Under 23.png" height="25px"> India</p> |
 | <p align="center">11:30</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kyrgyz Republic Under 23.png" height="25px"> Kyrgyzstan</p> |
 | <p align="center">11:30</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kuwait Under 23.png" height="25px"> Kuwait</p> |
@@ -197,7 +197,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Pterosaur <img src="/static/logos/Shaoxing Shangyu Pterosaur FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Zibo Qisheng FC.png" height="25px"> Qisheng</p> |
+| <p align="center">HT</p> | <p align="right">Pterosaur <img src="/static/logos/Shaoxing Shangyu Pterosaur FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Zibo Qisheng FC.png" height="25px"> Qisheng</p> |
 </div>
 
 
