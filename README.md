@@ -115,9 +115,9 @@
 | <p align="center">FT</p> | <p align="right">Buriram Utd <img src="/static/logos/Buriram United FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Zhejiang Professional FC.png" height="25px"> Zhejiang</p> |
 | <p align="center">FT</p> | <p align="right">Jeonbuk Motors <img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Kitchee SC.png" height="25px"> Kitchee</p> |
 | <p align="center">FT</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet</p> |
-| <p align="center">22'</p> | <p align="right">Hà Nội <img src="/static/logos/Hà Nội FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Pohang Steelers.png" height="25px"> Pohang</p> |
-| <p align="center">22'</p> | <p align="right">Lion City <img src="/static/logos/Lion City Sailors FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/True Bangkok United FC.png" height="25px"> Bangkok Utd</p> |
-| <p align="center">22'</p> | <p align="right">Three Towns <img src="/static/logos/Wuhan Three Towns FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa</p> |
+| <p align="center">HT</p> | <p align="right">Hà Nội <img src="/static/logos/Hà Nội FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/FC Pohang Steelers.png" height="25px"> Pohang</p> |
+| <p align="center">HT</p> | <p align="right">Lion City <img src="/static/logos/Lion City Sailors FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/True Bangkok United FC.png" height="25px"> Bangkok Utd</p> |
+| <p align="center">HT</p> | <p align="right">Three Towns <img src="/static/logos/Wuhan Three Towns FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa</p> |
 </div>
 
 
@@ -161,7 +161,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">08:00</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Afghanistan Under 23.png" height="25px"> Afghanistan</p> |
-| <p align="center">HT</p> | <p align="right">Japan <img src="/static/logos/Japan Under 23.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Qatar Under 23.png" height="25px"> Qatar</p> |
+| <p align="center">63'</p> | <p align="right">Japan <img src="/static/logos/Japan Under 23.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Qatar Under 23.png" height="25px"> Qatar</p> |
 | <p align="center">11:30</p> | <p align="right">Syria <img src="/static/logos/Syria Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hong Kong, China U23.png" height="25px"> Hong Kong </p> |
 </div>
 
@@ -173,7 +173,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Stallion <img src="/static/logos/Stallion Laguna FC.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United</p> |
-| <p align="center">22'</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC.png" height="25px"> Central Coast</p> |
+| <p align="center">HT</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC.png" height="25px"> Central Coast</p> |
 </div>
 
 
@@ -305,10 +305,10 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Galatasaray <img src="/static/logos/Galatasaray Spor Kulübü Under 19.png" height="25px"></p> | <p align="center">1 - 5</p> | <p align="left"><img src="/static/logos/FC København Under 19.png" height="25px"> København</p> |
 | <p align="center">FT</p> | <p align="right">Real Sociedad <img src="/static/logos/Real Sociedad de Fútbol U19.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/FC Internazionale Milano U19.png" height="25px"> Inter</p> |
-| <p align="center">22'</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal FC Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PSV Eindhoven Under 19.png" height="25px"> PSV</p> |
-| <p align="center">22'</p> | <p align="right">Benfica <img src="/static/logos/SL Benfica Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Salzburg Under 19.png" height="25px"> Salzburg</p> |
-| <p align="center">21'</p> | <p align="right">Real Madrid <img src="/static/logos/Real Madrid CF U19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/1. FC Union Berlin Under 19.png" height="25px"> Union Berlin</p> |
-| <p align="center">21'</p> | <p align="right">Sevilla <img src="/static/logos/Sevilla FC U19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Racing Club Lens Under 19.png" height="25px"> Lens</p> |
+| <p align="center">HT</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal FC Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/PSV Eindhoven Under 19.png" height="25px"> PSV</p> |
+| <p align="center">HT</p> | <p align="right">Benfica <img src="/static/logos/SL Benfica Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Salzburg Under 19.png" height="25px"> Salzburg</p> |
+| <p align="center">HT</p> | <p align="right">Real Madrid <img src="/static/logos/Real Madrid CF U19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/1. FC Union Berlin Under 19.png" height="25px"> Union Berlin</p> |
+| <p align="center">HT</p> | <p align="right">Sevilla <img src="/static/logos/Sevilla FC U19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Racing Club Lens Under 19.png" height="25px"> Lens</p> |
 | <p align="center">13:00</p> | <p align="right">Braga <img src="/static/logos/Sporting Braga Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Napoli Under 19.png" height="25px"> Napoli</p> |
 | <p align="center">14:00</p> | <p align="right">Bayern <img src="/static/logos/FC Bayern München Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manchester United FC Under 19.png" height="25px"> Man Utd</p> |
 </div>
@@ -384,8 +384,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Anyang <img src="/static/logos/FC Anyang.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Gyeongnam FC.png" height="25px"> Gyeongnam</p> |
-| <p align="center">90' 3'</p> | <p align="right">Cheonan City <img src="/static/logos/Cheonan City Government FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bucheon FC 1995.png" height="25px"> Bucheon</p> |
-| <p align="center">90' 6'</p> | <p align="right">Chungnam Asan <img src="/static/logos/Chungnam Asan FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Jeonnam Dragons FC.png" height="25px"> Dragons</p> |
+| <p align="center">FT</p> | <p align="right">Cheonan City <img src="/static/logos/Cheonan City Government FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bucheon FC 1995.png" height="25px"> Bucheon</p> |
+| <p align="center">FT</p> | <p align="right">Chungnam Asan <img src="/static/logos/Chungnam Asan FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Jeonnam Dragons FC.png" height="25px"> Dragons</p> |
 </div>
 
 
