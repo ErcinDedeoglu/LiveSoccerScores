@@ -63,8 +63,8 @@
 | <p align="center">FT</p> | <p align="right">R. Central <img src="/static/logos/CA Rosario Central.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CA Independiente.png" height="25px"> Independiente</p> |
 | <p align="center">FT</p> | <p align="right">Barracas C <img src="/static/logos/CA Barracas Central.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Banfield.png" height="25px"> Banfield</p> |
 | <p align="center">FT</p> | <p align="right">Def y Justicia <img src="/static/logos/CSD Defensa y Justicia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CA Tigre.png" height="25px"> Tigre</p> |
-| <p align="center">24'</p> | <p align="right">Estudiantes <img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"> San Lorenzo</p> |
-| <p align="center">26'</p> | <p align="right">Vélez <img src="/static/logos/Club Atlético Vélez Sarsfield.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Arsenal de Sarandí.png" height="25px"> Arsenal</p> |
+| <p align="center">33'</p> | <p align="right">Estudiantes <img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"> San Lorenzo</p> |
+| <p align="center">35'</p> | <p align="right">Vélez <img src="/static/logos/Club Atlético Vélez Sarsfield.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Arsenal de Sarandí.png" height="25px"> Arsenal</p> |
 </div>
 
 
@@ -75,7 +75,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">América MG <img src="/static/logos/América FC (Minas Gerais).png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> RB Bragantino</p> |
-| <p align="center">22:00</p> | <p align="right">Goiás <img src="/static/logos/Goiás EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CR Flamengo.png" height="25px"> Flamengo</p> |
+| <p align="center">5'</p> | <p align="right">Goiás <img src="/static/logos/Goiás EC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CR Flamengo.png" height="25px"> Flamengo</p> |
 </div>
 
 
@@ -225,9 +225,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">Boca <img src="/static/logos/Club Atlético Boca Juniors de Cali.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
-| <p align="center">60'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza CEIF FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Cartagena FC SA.png" height="25px"> Cartagena</p> |
-| <p align="center">64'</p> | <p align="right">Real Santander <img src="/static/logos/CD Real Santander.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tigres FC.png" height="25px"> Tigres</p> |
+| <p align="center">74'</p> | <p align="right">Boca <img src="/static/logos/Club Atlético Boca Juniors de Cali.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
+| <p align="center">69'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza CEIF FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Cartagena FC SA.png" height="25px"> Cartagena</p> |
+| <p align="center">73'</p> | <p align="right">Real Santander <img src="/static/logos/CD Real Santander.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tigres FC.png" height="25px"> Tigres</p> |
 | <p align="center">HT</p> | <p align="right">Cortuluá <img src="/static/logos/Corporación Club Deportivo Tuluá.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Leones FC.png" height="25px"> Leones</p> |
 </div>
 
@@ -270,9 +270,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Fuerte <img src="/static/logos/CD Fuerte San Francisco.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Dragón.png" height="25px"> Dragón</p> |
-| <p align="center">23'</p> | <p align="right">Once Deportivo <img src="/static/logos/11 Deportivo FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"> Firpo</p> |
-| <p align="center">23'</p> | <p align="right">Platense <img src="/static/logos/CD Platense Municipal Zacatecoluca.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Santa Tecla FC.png" height="25px"> Santa Tecla</p> |
+| <p align="center">31'</p> | <p align="right">Fuerte <img src="/static/logos/CD Fuerte San Francisco.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Dragón.png" height="25px"> Dragón</p> |
+| <p align="center">32'</p> | <p align="right">Once Deportivo <img src="/static/logos/11 Deportivo FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"> Firpo</p> |
+| <p align="center">33'</p> | <p align="right">Platense <img src="/static/logos/CD Platense Municipal Zacatecoluca.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Santa Tecla FC.png" height="25px"> Santa Tecla</p> |
 </div>
 
 
@@ -417,7 +417,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Unión Comercio <img src="/static/logos/CD Unión Comercio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSD Carlos A. Mannucci.png" height="25px"> CA Mannucci</p> |
-| <p align="center">67'</p> | <p align="right">UTC Cajamarca <img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Club Centro Deportivo Municipal.png" height="25px"> Dep. Municipal</p> |
+| <p align="center">77'</p> | <p align="right">UTC Cajamarca <img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Club Centro Deportivo Municipal.png" height="25px"> Dep. Municipal</p> |
 | <p align="center">23:30</p> | <p align="right">Cienciano <img src="/static/logos/Club Cienciano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Asociación Deportiva Tarma.png" height="25px"> ADT</p> |
 </div>
 
