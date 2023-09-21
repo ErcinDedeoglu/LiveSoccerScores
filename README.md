@@ -278,16 +278,6 @@
 </div>
 
 
-## <img src="/static/logos/Europe-UEFA Women's Nations League.png" height="25px"> Europe - UEFA Women's Nations League
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Israel <img src="/static/logos/Israel.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Armenia.png" height="25px"> Armenia</p> |
-</div>
-
-
 ## <img src="/static/logos/Guatemala-Liga Nacional.png" height="25px"> Guatemala - Liga Nacional
 
 <div align="center">
