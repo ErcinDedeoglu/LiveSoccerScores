@@ -172,10 +172,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Chinese Taipei <img src="/static/logos/Chinese Taipei Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Indonesia Under 23.png" height="25px"> Indonesia</p> |
-| <p align="center">20'</p> | <p align="right">India <img src="/static/logos/India Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bangladesh Under 23.png" height="25px"> Bangladesh</p> |
-| <p align="center">23'</p> | <p align="right">Kuwait <img src="/static/logos/Kuwait Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bahrain Under 23.png" height="25px"> Bahrain </p> |
-| <p align="center">24'</p> | <p align="right">Mongolia <img src="/static/logos/Mongolia Under 23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Saudi Arabia Under 23.png" height="25px"> Saudi Arabia</p> |
+| <p align="center">HT</p> | <p align="right">Chinese Taipei <img src="/static/logos/Chinese Taipei Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Indonesia Under 23.png" height="25px"> Indonesia</p> |
+| <p align="center">HT</p> | <p align="right">India <img src="/static/logos/India Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bangladesh Under 23.png" height="25px"> Bangladesh</p> |
+| <p align="center">HT</p> | <p align="right">Kuwait <img src="/static/logos/Kuwait Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bahrain Under 23.png" height="25px"> Bahrain </p> |
+| <p align="center">HT</p> | <p align="right">Mongolia <img src="/static/logos/Mongolia Under 23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Saudi Arabia Under 23.png" height="25px"> Saudi Arabia</p> |
 | <p align="center">11:30</p> | <p align="right">Iran <img src="/static/logos/IR Iran Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vietnam Under 23.png" height="25px"> Vietnam</p> |
 | <p align="center">11:30</p> | <p align="right">Kyrgyzstan <img src="/static/logos/Kyrgyz Republic Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Korea DPR Under 23.png" height="25px"> Korea DPR</p> |
 | <p align="center">11:30</p> | <p align="right">Myanmar <img src="/static/logos/Myanmar Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/China PR Under 23.png" height="25px"> China PR</p> |
@@ -189,7 +189,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">24'</p> | <p align="right">Ulaanbaatar <img src="/static/logos/FC Ulaanbaatar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tainan City.png" height="25px"> Tainan</p> |
+| <p align="center">HT</p> | <p align="right">Ulaanbaatar <img src="/static/logos/FC Ulaanbaatar.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tainan City.png" height="25px"> Tainan</p> |
 | <p align="center">10:00</p> | <p align="right">CPK <img src="/static/logos/MUST Chao Pak Kei.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Taichung Futuro FC.png" height="25px"> Futuro</p> |
 | <p align="center">12:00</p> | <p align="right">Abdysh <img src="/static/logos/FK Abdysh-Ata Kant.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Altyn Asyr FK.png" height="25px"> Altyn</p> |
 | <p align="center">12:00</p> | <p align="right">Cebu <img src="/static/logos/Dynamic Herb Cebu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Phnom Penh Crown FC.png" height="25px"> Crown</p> |
