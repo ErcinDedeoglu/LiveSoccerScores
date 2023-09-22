@@ -172,7 +172,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/KF Erzeni Shijak.png" height="25px"> Erzeni</p> |
+| <p align="center">76'</p> | <p align="right">Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/KF Erzeni Shijak.png" height="25px"> Erzeni</p> |
 | <p align="center">16:00</p> | <p align="right">Dinamo <img src="/static/logos/FC Dinamo City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KF Partizani Tirana.png" height="25px"> Partizani</p> |
 </div>
 
@@ -245,7 +245,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Gomel <img src="/static/logos/FK Gomel.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Minsk.png" height="25px"> Minsk</p> |
+| <p align="center">5'</p> | <p align="right">Gomel <img src="/static/logos/FK Gomel.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Minsk.png" height="25px"> Minsk</p> |
 | <p align="center">16:30</p> | <p align="right">BATE <img src="/static/logos/FC BATE Borisov.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Belshina Bobruisk.png" height="25px"> Belshina</p> |
 </div>
 
@@ -288,7 +288,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Botev Vratsa <img src="/static/logos/POFK Botev Vratsa.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/PFK Beroe Stara Zagora.png" height="25px"> Beroe</p> |
-| <p align="center">14:30</p> | <p align="right">CSKA 1948 <img src="/static/logos/FK CSKA 1948 Sofia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK Cherno more Varna.png" height="25px"> Cherno more</p> |
+| <p align="center">2'</p> | <p align="right">CSKA 1948 <img src="/static/logos/FK CSKA 1948 Sofia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PFK Cherno more Varna.png" height="25px"> Cherno more</p> |
 | <p align="center">17:00</p> | <p align="right">Botev <img src="/static/logos/FK Botev Plovdiv.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK CSKA Sofia.png" height="25px"> CSKA</p> |
 </div>
 
@@ -363,7 +363,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Táborsko <img src="/static/logos/FK SILON Táborsko.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/1.FK Příbram.png" height="25px"> Příbram</p> |
+| <p align="center">6'</p> | <p align="right">Táborsko <img src="/static/logos/FK SILON Táborsko.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/1.FK Příbram.png" height="25px"> Příbram</p> |
 </div>
 
 
@@ -418,13 +418,13 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">Ukraine <img src="/static/logos/Ukraine.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Serbia.png" height="25px"> Serbia</p> |
-| <p align="center">71'</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cyprus.png" height="25px"> Cyprus</p> |
-| <p align="center">69'</p> | <p align="right">Macedonia <img src="/static/logos/North Macedonia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bulgaria.png" height="25px"> Bulgaria</p> |
-| <p align="center">HT</p> | <p align="right">Latvia <img src="/static/logos/Latvia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Malta.png" height="25px"> Malta</p> |
-| <p align="center">29'</p> | <p align="right">Slovenia <img src="/static/logos/Slovenia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Czechia.png" height="25px"> Czechia</p> |
-| <p align="center">25'</p> | <p align="right">Georgia <img src="/static/logos/Georgia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Türkiye.png" height="25px"> Türkiye</p> |
-| <p align="center">27'</p> | <p align="right">Lithuania <img src="/static/logos/Lithuania.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Luxembourg.png" height="25px"> Luxembourg</p> |
+| <p align="center">77'</p> | <p align="right">Ukraine <img src="/static/logos/Ukraine.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Serbia.png" height="25px"> Serbia</p> |
+| <p align="center">78'</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cyprus.png" height="25px"> Cyprus</p> |
+| <p align="center">76'</p> | <p align="right">Macedonia <img src="/static/logos/North Macedonia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bulgaria.png" height="25px"> Bulgaria</p> |
+| <p align="center">46'</p> | <p align="right">Latvia <img src="/static/logos/Latvia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Malta.png" height="25px"> Malta</p> |
+| <p align="center">36'</p> | <p align="right">Slovenia <img src="/static/logos/Slovenia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Czechia.png" height="25px"> Czechia</p> |
+| <p align="center">33'</p> | <p align="right">Georgia <img src="/static/logos/Georgia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Türkiye.png" height="25px"> Türkiye</p> |
+| <p align="center">35'</p> | <p align="right">Lithuania <img src="/static/logos/Lithuania.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Luxembourg.png" height="25px"> Luxembourg</p> |
 | <p align="center">15:00</p> | <p align="right">Albania <img src="/static/logos/Albania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hungary.png" height="25px"> Hungary</p> |
 | <p align="center">15:00</p> | <p align="right">Estonia <img src="/static/logos/Estonia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kazakhstan.png" height="25px"> Kazakhstan</p> |
 | <p align="center">15:00</p> | <p align="right">Moldova <img src="/static/logos/Moldova.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
@@ -743,7 +743,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">26'</p> | <p align="right">Radnik <img src="/static/logos/FK Radnik Surdulica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Radnički Niš.png" height="25px"> Radnički Niš</p> |
+| <p align="center">34'</p> | <p align="right">Radnik <img src="/static/logos/FK Radnik Surdulica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Radnički Niš.png" height="25px"> Radnički Niš</p> |
 | <p align="center">16:00</p> | <p align="right">Spartak <img src="/static/logos/FK Spartak Ždrepčeva Krv Subotica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Voždovac.png" height="25px"> Voždovac</p> |
 | <p align="center">18:00</p> | <p align="right">Železničar P <img src="/static/logos/FK Železničar Pančevo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Partizan Beograd.png" height="25px"> Partizan</p> |
 </div>
@@ -841,7 +841,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">25'</p> | <p align="right">Obolon' Kyiv <img src="/static/logos/FK Obolon' Kyiv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/NK Veres Rivne.png" height="25px"> Veres Rivne</p> |
+| <p align="center">32'</p> | <p align="right">Obolon' Kyiv <img src="/static/logos/FK Obolon' Kyiv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/NK Veres Rivne.png" height="25px"> Veres Rivne</p> |
 | <p align="center">16:00</p> | <p align="right">Oleksandria <img src="/static/logos/FC Oleksandria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Chornomorets Odessa.png" height="25px"> Chornomorets</p> |
 </div>
 
