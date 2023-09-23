@@ -245,8 +245,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Yokohama FC.png" height="25px"> Yokohama</p> |
-| <p align="center">37'</p> | <p align="right">Tokyo <img src="/static/logos/FC Tokyo.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
+| <p align="center">85'</p> | <p align="right">Albirex <img src="/static/logos/Albirex Niigata.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Yokohama FC.png" height="25px"> Yokohama</p> |
+| <p align="center">45'</p> | <p align="right">Tokyo <img src="/static/logos/FC Tokyo.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan</p> |
 | <p align="center">07:00</p> | <p align="right">Nagoya <img src="/static/logos/Nagoya Grampus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"> Consadole</p> |
 | <p align="center">10:00</p> | <p align="right">Kashiwa <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa</p> |
 | <p align="center">10:00</p> | <p align="right">Kyoto <img src="/static/logos/Kyoto Sanga FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"> Sanfrecce</p> |
@@ -933,8 +933,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">Blaublitz <img src="/static/logos/AFC Blaublitz Akita.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Montedio Yamagata.png" height="25px"> Montedio</p> |
-| <p align="center">77'</p> | <p align="right">Mito <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Oita Trinita.png" height="25px"> Oita</p> |
+| <p align="center">89'</p> | <p align="right">Blaublitz <img src="/static/logos/AFC Blaublitz Akita.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Montedio Yamagata.png" height="25px"> Montedio</p> |
+| <p align="center">85'</p> | <p align="right">Mito <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Oita Trinita.png" height="25px"> Oita</p> |
 | <p align="center">08:00</p> | <p align="right">V-Varen <img src="/static/logos/V-Varen Nagasaki.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Machida Zelvia.png" height="25px"> Machida</p> |
 | <p align="center">09:00</p> | <p align="right">Iwaki <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"> Zweigen</p> |
 | <p align="center">09:00</p> | <p align="right">JEF Utd <img src="/static/logos/JEF United Ichihara Chiba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vegalta Sendai.png" height="25px"> Vegalta</p> |
@@ -948,8 +948,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">Grulla Morioka <img src="/static/logos/Iwate Grulla Morioka.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tegevajaro Miyazaki FC.png" height="25px"> Tegevajaro</p> |
-| <p align="center">37'</p> | <p align="right">Nara <img src="/static/logos/Nara Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Ryūkyū.png" height="25px"> Ryūkyū</p> |
+| <p align="center">90'</p> | <p align="right">Grulla Morioka <img src="/static/logos/Iwate Grulla Morioka.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tegevajaro Miyazaki FC.png" height="25px"> Tegevajaro</p> |
+| <p align="center">44'</p> | <p align="right">Nara <img src="/static/logos/Nara Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Ryūkyū.png" height="25px"> Ryūkyū</p> |
 | <p align="center">09:00</p> | <p align="right">Ehime <img src="/static/logos/Ehime FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kagoshima United FC.png" height="25px"> Kagoshima Utd</p> |
 | <p align="center">09:00</p> | <p align="right">Parceiro <img src="/static/logos/AC Nagano Parceiro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kataller Toyama.png" height="25px"> Toyama</p> |
 | <p align="center">10:00</p> | <p align="right">Imabari <img src="/static/logos/FC Imabari.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vanraure Hachinohe.png" height="25px"> Vanraure</p> |
@@ -962,7 +962,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">80'</p> | <p align="right">Daejeon <img src="/static/logos/Daejeon Hana Citizen FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Suwon Samsung Bluewings FC.png" height="25px"> Suwon</p> |
+| <p align="center">88'</p> | <p align="right">Daejeon <img src="/static/logos/Daejeon Hana Citizen FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Suwon Samsung Bluewings FC.png" height="25px"> Suwon</p> |
 | <p align="center">07:30</p> | <p align="right">Jeju Utd <img src="/static/logos/Jeju United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Seoul.png" height="25px"> Seoul</p> |
 </div>
 
