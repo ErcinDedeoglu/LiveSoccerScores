@@ -35,8 +35,8 @@
 | <p align="center">FT</p> | <p align="right">Minnesota <img src="/static/logos/Minnesota United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/St. Louis City SC.png" height="25px"> St. Louis</p> |
 | <p align="center">FT</p> | <p align="right">Sporting KC <img src="/static/logos/Sporting Kansas City.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston</p> |
 | <p align="center">FT</p> | <p align="right">Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
-| <p align="center">68'</p> | <p align="right">Earthquakes <img src="/static/logos/San Jose Earthquakes.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Nashville SC.png" height="25px"> Nashville</p> |
-| <p align="center">63'</p> | <p align="right">Portland <img src="/static/logos/Portland Timbers.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado</p> |
+| <p align="center">79'</p> | <p align="right">Earthquakes <img src="/static/logos/San Jose Earthquakes.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Nashville SC.png" height="25px"> Nashville</p> |
+| <p align="center">74'</p> | <p align="right">Portland <img src="/static/logos/Portland Timbers.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado</p> |
 | <p align="center">17:00</p> | <p align="right">NYCFC <img src="/static/logos/New York City Football Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Toronto FC.png" height="25px"> Toronto</p> |
 | <p align="center">23:30</p> | <p align="right">Orlando <img src="/static/logos/Orlando City SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Internacional de Fútbol Miami.png" height="25px"> Inter Miami</p> |
 </div>
@@ -793,8 +793,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:00</p> | <p align="right">Fagiano <img src="/static/logos/Fagiano Okayama.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Júbilo Iwata.png" height="25px"> Júbilo</p> |
-| <p align="center">04:00</p> | <p align="right">Shimizu <img src="/static/logos/Shimizu S-Pulse.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet</p> |
+| <p align="center">11'</p> | <p align="right">Fagiano <img src="/static/logos/Fagiano Okayama.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Júbilo Iwata.png" height="25px"> Júbilo</p> |
+| <p align="center">10'</p> | <p align="right">Shimizu <img src="/static/logos/Shimizu S-Pulse.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet</p> |
 | <p align="center">07:00</p> | <p align="right">Tokushima <img src="/static/logos/Tokushima Vortis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Omiya Ardija.png" height="25px"> Omiya</p> |
 | <p align="center">07:00</p> | <p align="right">Tokyo Verdy <img src="/static/logos/Tokyo Verdy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fujieda MYFC.png" height="25px"> Fujieda</p> |
 | <p align="center">10:00</p> | <p align="right">Kumamoto <img src="/static/logos/Roasso Kumamoto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi</p> |
@@ -807,7 +807,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:00</p> | <p align="right">Fukushima <img src="/static/logos/Fukushima United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SC Sagamihara.png" height="25px"> Sagamihara</p> |
+| <p align="center">10'</p> | <p align="right">Fukushima <img src="/static/logos/Fukushima United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SC Sagamihara.png" height="25px"> Sagamihara</p> |
 | <p align="center">05:00</p> | <p align="right">Azul Claro <img src="/static/logos/FC Azul Claro Numazu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gainare Tottori.png" height="25px"> Gainare</p> |
 | <p align="center">05:00</p> | <p align="right">Kamatamare <img src="/static/logos/Kamatamare Sanuki.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yokohama Sports and Culture Club.png" height="25px"> YSCC</p> |
 | <p align="center">05:00</p> | <p align="right">Matsumoto <img src="/static/logos/Matsumoto Yamaga FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Gifu.png" height="25px"> Gifu</p> |
