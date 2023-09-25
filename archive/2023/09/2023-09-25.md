@@ -144,7 +144,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">08:00</p> | <p align="right">Hong Kong  <img src="/static/logos/Hong Kong, China U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Afghanistan Under 23.png" height="25px"> Afghanistan</p> |
 | <p align="center">08:00</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Syria Under 23.png" height="25px"> Syria</p> |
-| <p align="center">08:00</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hong Kong, China U23.png" height="25px"> Hong Kong </p> |
+| <p align="center">9'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hong Kong, China U23.png" height="25px"> Hong Kong </p> |
 | <p align="center">11:30</p> | <p align="right">Palestine <img src="/static/logos/Palestine Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Japan Under 23.png" height="25px"> Japan</p> |
 </div>
 
@@ -155,8 +155,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:00</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
-| <p align="center">08:00</p> | <p align="right">Myanmar <img src="/static/logos/Myanmar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hong Kong, China.png" height="25px"> Hong Kong</p> |
+| <p align="center">10'</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
+| <p align="center">10'</p> | <p align="right">Myanmar <img src="/static/logos/Myanmar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hong Kong, China.png" height="25px"> Hong Kong</p> |
 | <p align="center">11:30</p> | <p align="right">Mongolia <img src="/static/logos/Mongolia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
 | <p align="center">11:30</p> | <p align="right">Nepal <img src="/static/logos/Nepal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
 | <p align="center">11:30</p> | <p align="right">Philippines <img src="/static/logos/Philippines.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Korea Republic.png" height="25px"> Korea Republic</p> |
