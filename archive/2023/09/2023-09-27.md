@@ -201,8 +201,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">Iran <img src="/static/logos/IR Iran Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Thailand Under 23.png" height="25px"> Thailand</p> |
-| <p align="center">29'</p> | <p align="right">Korea DPR <img src="/static/logos/Korea DPR Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bahrain Under 23.png" height="25px"> Bahrain </p> |
+| <p align="center">40'</p> | <p align="right">Iran <img src="/static/logos/IR Iran Under 23.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Thailand Under 23.png" height="25px"> Thailand</p> |
+| <p align="center">40'</p> | <p align="right">Korea DPR <img src="/static/logos/Korea DPR Under 23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bahrain Under 23.png" height="25px"> Bahrain </p> |
 | <p align="center">11:30</p> | <p align="right">China PR <img src="/static/logos/China PR Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qatar Under 23.png" height="25px"> Qatar</p> |
 | <p align="center">11:30</p> | <p align="right">Hong Kong  <img src="/static/logos/Hong Kong, China U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Palestine Under 23.png" height="25px"> Palestine</p> |
 | <p align="center">11:30</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kyrgyz Republic Under 23.png" height="25px"> Kyrgyzstan</p> |
@@ -215,7 +215,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Singapore <img src="/static/logos/Singapore.png" height="25px"></p> | <p align="center">0 - 7</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
+| <p align="center">51'</p> | <p align="right">Singapore <img src="/static/logos/Singapore.png" height="25px"></p> | <p align="center">0 - 7</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
 | <p align="center">11:30</p> | <p align="right">Thailand <img src="/static/logos/Thailand.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chinese Taipei.png" height="25px"> Chinese Taipei</p> |
 </div>
 
