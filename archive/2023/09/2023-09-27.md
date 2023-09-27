@@ -569,7 +569,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">62'</p> | <p align="right">ThespaKusatsu <img src="/static/logos/ThespaKusatsu Gunma.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"> Zweigen</p> |
+| <p align="center">71'</p> | <p align="right">ThespaKusatsu <img src="/static/logos/ThespaKusatsu Gunma.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"> Zweigen</p> |
 | <p align="center">HT</p> | <p align="right">Tokushima <img src="/static/logos/Tokushima Vortis.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Roasso Kumamoto.png" height="25px"> Kumamoto</p> |
 </div>
 
@@ -838,13 +838,13 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">11:00</p> | <p align="right">12 Bingöl <img src="/static/logos/12 Bingöl Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/23 Elazığ Futbol Kulübü.png" height="25px"> 23 Elazığ</p> |
-| <p align="center">11:00</p> | <p align="right">Bayburt <img src="/static/logos/Bayburt Özel İdare Spor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Eynesil Belediyespor.png" height="25px"> Eynesil Blds</p> |
-| <p align="center">11:00</p> | <p align="right">Çarşamba <img src="/static/logos/Çarşamba Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tokat Belediye Plevne Spor Kulübü.png" height="25px"> Tokat BDPS</p> |
+| <p align="center">2'</p> | <p align="right">Bayburt <img src="/static/logos/Bayburt Özel İdare Spor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Eynesil Belediyespor.png" height="25px"> Eynesil Blds</p> |
+| <p align="center">' '</p> | <p align="right">Çarşamba <img src="/static/logos/Çarşamba Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tokat Belediye Plevne Spor Kulübü.png" height="25px"> Tokat BDPS</p> |
 | <p align="center">POS</p> | <p align="right">Dersim <img src="/static/logos/Dersim Spor Kulübü.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Doğubayazıt Futbol Spor Kulübü.png" height="25px"> Doğubayazıt FK</p> |
-| <p align="center">11:00</p> | <p align="right">Erbaa <img src="/static/logos/Erbaa Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fatsa Belediyesi Spor Kulübü.png" height="25px"> Fatsa BS</p> |
+| <p align="center">2'</p> | <p align="right">Erbaa <img src="/static/logos/Erbaa Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fatsa Belediyesi Spor Kulübü.png" height="25px"> Fatsa BS</p> |
 | <p align="center">11:00</p> | <p align="right">Mardin 1969 <img src="/static/logos/Mardin 1969 Spor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Batman Petrol Spor Kulübü.png" height="25px"> Batman Petrol</p> |
-| <p align="center">11:00</p> | <p align="right">Pazar <img src="/static/logos/Pazar Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gümüşhane Spor Kulübü.png" height="25px"> Gümüşhane</p> |
-| <p align="center">11:00</p> | <p align="right">Sebat Gençlik <img src="/static/logos/Sebat Gençlik Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/1954 Kelkit Belediyespor.png" height="25px"> 1954 Kelkit</p> |
+| <p align="center">2'</p> | <p align="right">Pazar <img src="/static/logos/Pazar Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gümüşhane Spor Kulübü.png" height="25px"> Gümüşhane</p> |
+| <p align="center">' '</p> | <p align="right">Sebat Gençlik <img src="/static/logos/Sebat Gençlik Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/1954 Kelkit Belediyespor.png" height="25px"> 1954 Kelkit</p> |
 | <p align="center">11:00</p> | <p align="right">Siirt İÖİ <img src="/static/logos/Siirt İl Özel İdaresi Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Şırnak İdmanyurdu Spor.png" height="25px"> Şırnak İdman.</p> |
 | <p align="center">11:00</p> | <p align="right">Sivas DE <img src="/static/logos/Sivas Dört Eylül Futbol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Amasyaspor Futbol Kulübü.png" height="25px"> Amasyaspor FK</p> |
 | <p align="center">11:30</p> | <p align="right">1922 Konya <img src="/static/logos/1922 Konyaspor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Talasgücü Belediye Spor Kulübü.png" height="25px"> Talasgücü BS</p> |
