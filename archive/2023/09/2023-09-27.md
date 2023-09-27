@@ -201,8 +201,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Iran <img src="/static/logos/IR Iran Under 23.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Thailand Under 23.png" height="25px"> Thailand</p> |
-| <p align="center">89'</p> | <p align="right">Korea DPR <img src="/static/logos/Korea DPR Under 23.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bahrain Under 23.png" height="25px"> Bahrain </p> |
+| <p align="center">FT</p> | <p align="right">Iran <img src="/static/logos/IR Iran Under 23.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Thailand Under 23.png" height="25px"> Thailand</p> |
+| <p align="center">FT</p> | <p align="right">Korea DPR <img src="/static/logos/Korea DPR Under 23.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bahrain Under 23.png" height="25px"> Bahrain </p> |
 | <p align="center">11:30</p> | <p align="right">China PR <img src="/static/logos/China PR Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qatar Under 23.png" height="25px"> Qatar</p> |
 | <p align="center">11:30</p> | <p align="right">Hong Kong  <img src="/static/logos/Hong Kong, China U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Palestine Under 23.png" height="25px"> Palestine</p> |
 | <p align="center">11:30</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic Under 23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kyrgyz Republic Under 23.png" height="25px"> Kyrgyzstan</p> |
@@ -570,7 +570,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">HT</p> | <p align="right">ThespaKusatsu <img src="/static/logos/ThespaKusatsu Gunma.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Ishikawa FC Zweigen Kanazawa.png" height="25px"> Zweigen</p> |
-| <p align="center">18'</p> | <p align="right">Tokushima <img src="/static/logos/Tokushima Vortis.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Roasso Kumamoto.png" height="25px"> Kumamoto</p> |
+| <p align="center">27'</p> | <p align="right">Tokushima <img src="/static/logos/Tokushima Vortis.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Roasso Kumamoto.png" height="25px"> Kumamoto</p> |
 </div>
 
 
