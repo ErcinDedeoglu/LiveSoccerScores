@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">57'</p> | <p align="right">Colorado <img src="/static/logos/Colorado Rapids.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
+| <p align="center">65'</p> | <p align="right">Colorado <img src="/static/logos/Colorado Rapids.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
 </div>
 
 
@@ -111,7 +111,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC Yucatán.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Tepatitlán FC.png" height="25px"> Tepa</p> |
+| <p align="center">FT</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC Yucatán.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Tepatitlán FC.png" height="25px"> Tepa</p> |
 | <p align="center">03:05</p> | <p align="right">Celaya <img src="/static/logos/Celaya CF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cancún FC.png" height="25px"> Cancún</p> |
 </div>
 
@@ -214,7 +214,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">Águilas D <img src="/static/logos/Águilas Doradas.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Atl. Nacional</p> |
+| <p align="center">74'</p> | <p align="right">Águilas D <img src="/static/logos/Águilas Doradas.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Atl. Nacional</p> |
 | <p align="center">22:00</p> | <p align="right">Cúcuta <img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"> Medellín</p> |
 </div>
 
@@ -247,7 +247,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">FAS <img src="/static/logos/CD FAS.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Dragón.png" height="25px"> Dragón</p> |
+| <p align="center">90'</p> | <p align="right">FAS <img src="/static/logos/CD FAS.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Dragón.png" height="25px"> Dragón</p> |
 </div>
 
 
