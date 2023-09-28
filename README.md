@@ -180,7 +180,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Mirassol <img src="/static/logos/Mirassol Futebol Clube.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Clube de Regatas Brasil.png" height="25px"> CRB</p> |
+| <p align="center">63'</p> | <p align="right">Mirassol <img src="/static/logos/Mirassol Futebol Clube.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Clube de Regatas Brasil.png" height="25px"> CRB</p> |
 </div>
 
 
@@ -215,7 +215,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Águilas D <img src="/static/logos/Águilas Doradas.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Atl. Nacional</p> |
-| <p align="center">HT</p> | <p align="right">Cúcuta <img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"> Medellín</p> |
+| <p align="center">58'</p> | <p align="right">Cúcuta <img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"> Medellín</p> |
 </div>
 
 
@@ -356,7 +356,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Unión Comercio <img src="/static/logos/CD Unión Comercio.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Escuela Municipal Deportivo Binacional.png" height="25px"> Binacional</p> |
-| <p align="center">23:00</p> | <p align="right">César Vallejo <img src="/static/logos/CD Universidad César Vallejo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Universitario de Deportes.png" height="25px"> Universitario</p> |
+| <p align="center">19'</p> | <p align="right">César Vallejo <img src="/static/logos/CD Universidad César Vallejo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Universitario de Deportes.png" height="25px"> Universitario</p> |
 </div>
 
 
