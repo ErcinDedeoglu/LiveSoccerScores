@@ -138,9 +138,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JS Kabylie.png" height="25px"> Kabylie</p> |
+| <p align="center">48'</p> | <p align="right">Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JS Kabylie.png" height="25px"> Kabylie</p> |
 | <p align="center">HT</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/US Biskra.png" height="25px"> US Biskra</p> |
-| <p align="center">HT</p> | <p align="right">Souf <img src="/static/logos/US Souf.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
+| <p align="center">48'</p> | <p align="right">Souf <img src="/static/logos/US Souf.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
 | <p align="center">POS</p> | <p align="right">Paradou <img src="/static/logos/Paradou AC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> Belouizdad</p> |
 </div>
 
@@ -428,7 +428,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">NorthEast Utd <img src="/static/logos/NorthEast United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin</p> |
+| <p align="center">67'</p> | <p align="right">NorthEast Utd <img src="/static/logos/NorthEast United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin</p> |
 </div>
 
 
@@ -624,7 +624,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 5'</p> | <p align="right">Fayha <img src="/static/logos/Al Fayha.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ittihad FC.png" height="25px"> Ittihad</p> |
+| <p align="center">HT</p> | <p align="right">Fayha <img src="/static/logos/Al Fayha.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ittihad FC.png" height="25px"> Ittihad</p> |
 | <p align="center">HT</p> | <p align="right">Hazm <img src="/static/logos/Al Hazm.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Taawon FC.png" height="25px"> Taawon</p> |
 | <p align="center">HT</p> | <p align="right">Tai <img src="/static/logos/Al Tai.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Nassr</p> |
 | <p align="center">18:00</p> | <p align="right">Hilal <img src="/static/logos/Al Hilal Saudi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Shabab FC.png" height="25px"> Shabab</p> |
@@ -678,7 +678,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Žilina <img src="/static/logos/MŠK Žilina.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/MFK Skalica.png" height="25px"> Skalica</p> |
+| <p align="center">28'</p> | <p align="right">Žilina <img src="/static/logos/MŠK Žilina.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/MFK Skalica.png" height="25px"> Skalica</p> |
 </div>
 
 
