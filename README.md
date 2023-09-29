@@ -46,7 +46,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">02:00</p> | <p align="right">Atlas <img src="/static/logos/Atlas FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
+| <p align="center">21'</p> | <p align="right">Atlas <img src="/static/logos/Atlas FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
 </div>
 
 
@@ -66,7 +66,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">46'</p> | <p align="right">Boca Juniors <img src="/static/logos/CA Boca Juniors.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SE Palmeiras.png" height="25px"> Palmeiras</p> |
+| <p align="center">90' 5'</p> | <p align="right">Boca Juniors <img src="/static/logos/CA Boca Juniors.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SE Palmeiras.png" height="25px"> Palmeiras</p> |
 </div>
 
 
@@ -226,7 +226,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">48'</p> | <p align="right">Londrina <img src="/static/logos/Londrina EC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sampaio Corrêa FC.png" height="25px"> Sampaio Corrêa</p> |
+| <p align="center">90' 6'</p> | <p align="right">Londrina <img src="/static/logos/Londrina EC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sampaio Corrêa FC.png" height="25px"> Sampaio Corrêa</p> |
 | <p align="center">22:00</p> | <p align="right">Avaí <img src="/static/logos/Avai FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SC do Recife.png" height="25px"> Sport</p> |
 </div>
 
@@ -273,7 +273,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios FC SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
+| <p align="center">FT</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios FC SA.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Alianza Petrolera FC.png" height="25px"> Petrolera</p> |
 </div>
 
 
@@ -493,7 +493,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">02:00</p> | <p align="right">Cartaginés <img src="/static/logos/CS Cartaginés.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/LD Alajuelense.png" height="25px"> Alajuelense</p> |
+| <p align="center">19'</p> | <p align="right">Cartaginés <img src="/static/logos/CS Cartaginés.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/LD Alajuelense.png" height="25px"> Alajuelense</p> |
 </div>
 
 
@@ -530,7 +530,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">Alianza Lima <img src="/static/logos/Club Alianza Lima.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FBC Melgar.png" height="25px"> Melgar</p> |
+| <p align="center">HT</p> | <p align="right">Alianza Lima <img src="/static/logos/Club Alianza Lima.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FBC Melgar.png" height="25px"> Melgar</p> |
 | <p align="center">20:00</p> | <p align="right">Sport Huancayo <img src="/static/logos/CD Sport Huancayo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Centro Deportivo Municipal.png" height="25px"> Dep. Municipal</p> |
 | <p align="center">20:00</p> | <p align="right">UTC Cajamarca <img src="/static/logos/CCyD Universidad Técnica de Cajamarca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sport Boys Association.png" height="25px"> Boys</p> |
 | <p align="center">23:00</p> | <p align="right">Cusco <img src="/static/logos/Cusco FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Sporting Cristal SAC.png" height="25px"> Sp. Cristal</p> |
