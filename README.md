@@ -138,9 +138,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:45</p> | <p align="right">Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JS Kabylie.png" height="25px"> Kabylie</p> |
-| <p align="center">14:45</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/US Biskra.png" height="25px"> US Biskra</p> |
-| <p align="center">14:45</p> | <p align="right">Souf <img src="/static/logos/US Souf.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
+| <p align="center">14'</p> | <p align="right">Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JS Kabylie.png" height="25px"> Kabylie</p> |
+| <p align="center">9'</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/US Biskra.png" height="25px"> US Biskra</p> |
+| <p align="center">13'</p> | <p align="right">Souf <img src="/static/logos/US Souf.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
 | <p align="center">POS</p> | <p align="right">Paradou <img src="/static/logos/Paradou AC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> Belouizdad</p> |
 </div>
 
@@ -171,7 +171,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">71'</p> | <p align="right">Ararat-Armenia <img src="/static/logos/Ararat-Armenia FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Ararat.png" height="25px"> Ararat</p> |
+| <p align="center">FT</p> | <p align="right">Ararat-Armenia <img src="/static/logos/Ararat-Armenia FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Ararat.png" height="25px"> Ararat</p> |
 | <p align="center">15:00</p> | <p align="right">Pyunik <img src="/static/logos/Pyunik FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
 </div>
 
@@ -428,7 +428,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">NorthEast Utd <img src="/static/logos/NorthEast United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin</p> |
+| <p align="center">27'</p> | <p align="right">NorthEast Utd <img src="/static/logos/NorthEast United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin</p> |
 </div>
 
 
@@ -483,7 +483,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Kelantan <img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Sabah FC.png" height="25px"> Sabah</p> |
-| <p align="center">64'</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Persatuan Bolasepak Selangor.png" height="25px"> Selangor</p> |
+| <p align="center">FT</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu FC.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Persatuan Bolasepak Selangor.png" height="25px"> Selangor</p> |
 </div>
 
 
@@ -760,8 +760,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">46'</p> | <p align="right">Ajman <img src="/static/logos/Ajman Club.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Al Ittihad Kalba.png" height="25px"> Kalba</p> |
-| <p align="center">HT</p> | <p align="right">Bani Yas <img src="/static/logos/Bani Yas Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Emirates Club.png" height="25px"> Emirates</p> |
+| <p align="center">78'</p> | <p align="right">Ajman <img src="/static/logos/Ajman Club.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Al Ittihad Kalba.png" height="25px"> Kalba</p> |
+| <p align="center">76'</p> | <p align="right">Bani Yas <img src="/static/logos/Bani Yas Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Emirates Club.png" height="25px"> Emirates</p> |
 | <p align="center">16:00</p> | <p align="right">Shabab Al Ahli <img src="/static/logos/Shabab Al Ahli Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Wahda FC.png" height="25px"> Al Wahda</p> |
 </div>
 
