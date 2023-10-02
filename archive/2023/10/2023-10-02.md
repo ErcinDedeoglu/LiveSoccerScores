@@ -638,7 +638,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">New England II <img src="/static/logos/New England Revolution II.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Philadelphia Union II.png" height="25px"> Union II</p> |
-| <p align="center">90' 1'</p> | <p align="right">Tacoma <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
+| <p align="center">FT</p> | <p align="right">Tacoma <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
 </div>
 
 
