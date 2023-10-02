@@ -144,7 +144,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Leones Negros <img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
+| <p align="center">FT</p> | <p align="right">Leones Negros <img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
 </div>
 
 
@@ -393,7 +393,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">10:30</p> | <p align="right">Aiolikos <img src="/static/logos/APS Aiolikos Mytilinis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Makedonikos Neapolis FC.png" height="25px"> Makedonikos N.</p> |
-| <p align="center">12:30</p> | <p align="right">Chania <img src="/static/logos/PAE Chania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AO Tilikratis Lefkada 2014.png" height="25px"> Tilikratis</p> |
+| <p align="center">12:00</p> | <p align="right">Chania <img src="/static/logos/PAE Chania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AO Tilikratis Lefkada 2014.png" height="25px"> Tilikratis</p> |
 | <p align="center">13:00</p> | <p align="right">Levadiakos <img src="/static/logos/Levadiakos FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kozani.png" height="25px"> Kozani</p> |
 | <p align="center">13:00</p> | <p align="right">Kalamata <img src="/static/logos/PS PAE Kalamata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AO Giouchtas.png" height="25px"> Giouchtas</p> |
 </div>
@@ -638,7 +638,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">New England II <img src="/static/logos/New England Revolution II.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Philadelphia Union II.png" height="25px"> Union II</p> |
-| <p align="center">37'</p> | <p align="right">Tacoma <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
+| <p align="center">HT</p> | <p align="right">Tacoma <img src="/static/logos/Tacoma Defiance.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Houston Dynamo 2.png" height="25px"> Houston II</p> |
 </div>
 
 
