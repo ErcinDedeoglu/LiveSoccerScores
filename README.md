@@ -89,8 +89,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">2'</p> | <p align="right">Incheon Utd <img src="/static/logos/Incheon United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kaya FC Iloilo.png" height="25px"> Kaya</p> |
-| <p align="center">3'</p> | <p align="right">Kawasaki <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ulsan Hyundai FC.png" height="25px"> Ulsan</p> |
+| <p align="center">13'</p> | <p align="right">Incheon Utd <img src="/static/logos/Incheon United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kaya FC Iloilo.png" height="25px"> Kaya</p> |
+| <p align="center">13'</p> | <p align="right">Kawasaki <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ulsan Hyundai FC.png" height="25px"> Ulsan</p> |
 | <p align="center">12:00</p> | <p align="right">BGPU <img src="/static/logos/BG Pathum United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Johor Darul Ta'zim FC.png" height="25px"> Darul Ta'zim</p> |
 | <p align="center">12:00</p> | <p align="right">Shandong <img src="/static/logos/Shandong Taishan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yokohama F. Marinos.png" height="25px"> F Marinos</p> |
 | <p align="center">14:00</p> | <p align="right">Navbahor <img src="/static/logos/FK Navbahor Namangan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mumbai City FC.png" height="25px"> Mumbai</p> |
@@ -158,7 +158,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
+| <p align="center">10'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
 | <p align="center">12:00</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
 </div>
 
@@ -294,8 +294,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Molde <img src="/static/logos/Molde FK Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hamilton Academical FC Under 19.png" height="25px"> Hamilton U19</p> |
-| <p align="center">2'</p> | <p align="right">Inter <img src="/static/logos/FC Internazionale Milano U19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SL Benfica Under 19.png" height="25px"> Benfica</p> |
+| <p align="center">55'</p> | <p align="right">Molde <img src="/static/logos/Molde FK Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hamilton Academical FC Under 19.png" height="25px"> Hamilton U19</p> |
+| <p align="center">13'</p> | <p align="right">Inter <img src="/static/logos/FC Internazionale Milano U19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SL Benfica Under 19.png" height="25px"> Benfica</p> |
 | <p align="center">11:00</p> | <p align="right">Union Berlin <img src="/static/logos/1. FC Union Berlin Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sporting Braga Under 19.png" height="25px"> Braga</p> |
 | <p align="center">12:00</p> | <p align="right">Lens <img src="/static/logos/Racing Club Lens Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arsenal FC Under 19.png" height="25px"> Arsenal</p> |
 | <p align="center">12:00</p> | <p align="right">Napoli <img src="/static/logos/Napoli Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Madrid CF U19.png" height="25px"> Real Madrid</p> |
