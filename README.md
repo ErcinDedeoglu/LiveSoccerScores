@@ -288,14 +288,14 @@
 | <p align="center">FT</p> | <p align="right">Dortmund <img src="/static/logos/BV Borussia 09 Dortmund Under 19.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/AC Milan U19.png" height="25px"> Milan</p> |
 | <p align="center">FT</p> | <p align="right">RB Leipzig <img src="/static/logos/Rasen Ballsport Leipzig Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Manchester City FC Under 19.png" height="25px"> Man City</p> |
 | <p align="center">FT</p> | <p align="right">Pafos <img src="/static/logos/Pafos FC Under 19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/MŠK Žilina Under 19.png" height="25px"> Žilina</p> |
-| <p align="center">90' 7'</p> | <p align="right">Sparta <img src="/static/logos/AC Sparta Praha Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Haifa Samuel Under 19.png" height="25px"> M Haifa</p> |
+| <p align="center">FT</p> | <p align="right">Sparta <img src="/static/logos/AC Sparta Praha Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Haifa Samuel Under 19.png" height="25px"> M Haifa</p> |
 | <p align="center">FT</p> | <p align="right">Celtic <img src="/static/logos/Celtic FC Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/SS Lazio Under 19.png" height="25px"> Lazio</p> |
 | <p align="center">HT</p> | <p align="right">Famalicão <img src="/static/logos/FC Famalicão Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Midtjylland Under 19.png" height="25px"> Midtjylland</p> |
 | <p align="center">HT</p> | <p align="right">Olympiakos <img src="/static/logos/Olympiakos CFP Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/US Lecce Under 19.png" height="25px"> Lecce</p> |
-| <p align="center">18'</p> | <p align="right">C. Zvezda <img src="/static/logos/FK Crvena Zvezda Beograd Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BSC Young Boys Under 19.png" height="25px"> Young Boys</p> |
+| <p align="center">26'</p> | <p align="right">C. Zvezda <img src="/static/logos/FK Crvena Zvezda Beograd Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BSC Young Boys Under 19.png" height="25px"> Young Boys</p> |
 | <p align="center">HT</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle United FC Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Paris Saint Germain FC Under 19.png" height="25px"> PSG</p> |
 | <p align="center">HT</p> | <p align="right">Porto <img src="/static/logos/FC Porto Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Barcelona U19.png" height="25px"> Barcelona</p> |
-| <p align="center">15:00</p> | <p align="right">Dinamo Minsk <img src="/static/logos/FK Dinamo Minsk U19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK Ludogorets 1945 Razgrad Under 19.png" height="25px"> Ludogorets</p> |
+| <p align="center">1'</p> | <p align="right">Dinamo Minsk <img src="/static/logos/FK Dinamo Minsk U19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PFK Ludogorets 1945 Razgrad Under 19.png" height="25px"> Ludogorets</p> |
 | <p align="center">16:00</p> | <p align="right">Maribor <img src="/static/logos/NK Maribor Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FSV Mainz 05 Under 19.png" height="25px"> Mainz</p> |
 | <p align="center">16:00</p> | <p align="right">U Craiova <img src="/static/logos/Universitatea Craiova 1948 Club Sportiv U19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Partizan Beograd Under 19.png" height="25px"> Partizan U19</p> |
 | <p align="center">16:45</p> | <p align="right">Malmö <img src="/static/logos/Malmö FF Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/HJK Helsinki Under 19.png" height="25px"> HJK</p> |
@@ -344,7 +344,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">Bengaluru <img src="/static/logos/Bengaluru FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/East Bengal FC.png" height="25px"> East Bengal</p> |
+| <p align="center">30'</p> | <p align="right">Bengaluru <img src="/static/logos/Bengaluru FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/East Bengal FC.png" height="25px"> East Bengal</p> |
 </div>
 
 
@@ -384,7 +384,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10'</p> | <p align="right">Brann <img src="/static/logos/SK Brann.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Røa IL.png" height="25px"> Røa</p> |
+| <p align="center">18'</p> | <p align="right">Brann <img src="/static/logos/SK Brann.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Røa IL.png" height="25px"> Røa</p> |
 | <p align="center">17:05</p> | <p align="right">Vålerenga <img src="/static/logos/Vålerenga Fotball.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arna-Bjørnar Fotball.png" height="25px"> Arna-Bjørnar</p> |
 </div>
 
@@ -421,7 +421,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Swallows <img src="/static/logos/Moroka Swallows FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chippa United FC.png" height="25px"> Chippa Utd</p> |
+| <p align="center">1'</p> | <p align="right">Swallows <img src="/static/logos/Moroka Swallows FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chippa United FC.png" height="25px"> Chippa Utd</p> |
 | <p align="center">POS</p> | <p align="right">AmaZulu <img src="/static/logos/AmaZulu FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Orlando Pirates FC.png" height="25px"> Pirates</p> |
 | <p align="center">17:30</p> | <p align="right">Richards Bay <img src="/static/logos/Richards Bay FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Polokwane City FC.png" height="25px"> Polokwane</p> |
 | <p align="center">17:30</p> | <p align="right">Spurs <img src="/static/logos/Cape Town Spurs FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SuperSport United FC.png" height="25px"> SuperSport Utd</p> |
