@@ -215,7 +215,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">7 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
-| <p align="center">90' 5'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
+| <p align="center">FT</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
 </div>
 
 
@@ -239,7 +239,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Slutsk <img src="/static/logos/FK Slutsk.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Slavia-Mozyr.png" height="25px"> Slavia</p> |
+| <p align="center">90'</p> | <p align="right">Slutsk <img src="/static/logos/FK Slutsk.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Slavia-Mozyr.png" height="25px"> Slavia</p> |
 | <p align="center">16:00</p> | <p align="right">Shakhtyor <img src="/static/logos/FC Shakhtyor Soligorsk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Smorgon.png" height="25px"> Smorgon</p> |
 </div>
 
@@ -282,7 +282,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Krumovgrad <img src="/static/logos/FK Krumovgrad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/POFK Botev Vratsa.png" height="25px"> Botev Vratsa</p> |
+| <p align="center">18'</p> | <p align="right">Krumovgrad <img src="/static/logos/FK Krumovgrad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/POFK Botev Vratsa.png" height="25px"> Botev Vratsa</p> |
 | <p align="center">17:00</p> | <p align="right">Beroe <img src="/static/logos/PFK Beroe Stara Zagora.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Lokomotiv Sofia 1929.png" height="25px"> Lokomotiv Sf</p> |
 </div>
 
@@ -365,7 +365,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 7'</p> | <p align="right">Ittihad <img src="/static/logos/Al Ittihad Al Iskandary.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/El Gouna.png" height="25px"> Gouna</p> |
+| <p align="center">80'</p> | <p align="right">Ittihad <img src="/static/logos/Al Ittihad Al Iskandary.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/El Gouna.png" height="25px"> Gouna</p> |
 | <p align="center">16:00</p> | <p align="right">Pharco <img src="/static/logos/Pharco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ceramica Cleopatra FC.png" height="25px"> Ceramica Cleo</p> |
 </div>
 
@@ -460,7 +460,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Holstein II <img src="/static/logos/Kieler SV Holstein 1900 II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hannoverscher Sportverein 1896 II.png" height="25px"> Hannover II</p> |
+| <p align="center">87'</p> | <p align="right">Holstein II <img src="/static/logos/Kieler SV Holstein 1900 II.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hannoverscher Sportverein 1896 II.png" height="25px"> Hannover II</p> |
 | <p align="center">17:00</p> | <p align="right">Weiche <img src="/static/logos/SC Weiche Flensburg 08.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/1. FC Phönix Lübeck.png" height="25px"> Phönix Lübeck</p> |
 | <p align="center">17:00</p> | <p align="right">Babelsberg <img src="/static/logos/SV Babelsberg 03.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Viktoria 1889 Berlin Lichterfelde-Tempelhof.png" height="25px"> Viktoria B</p> |
 | <p align="center">17:00</p> | <p align="right">Eilenburg <img src="/static/logos/FC Eilenburg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Energie Cottbus.png" height="25px"> Cottbus</p> |
@@ -495,7 +495,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Punjab <img src="/static/logos/Punjab FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NorthEast United FC.png" height="25px"> NorthEast Utd</p> |
+| <p align="center">17'</p> | <p align="right">Punjab <img src="/static/logos/Punjab FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/NorthEast United FC.png" height="25px"> NorthEast Utd</p> |
 </div>
 
 
@@ -507,7 +507,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Persis Solo.png" height="25px"> Persis</p> |
 | <p align="center">FT</p> | <p align="right">RANS <img src="/static/logos/RANS Nusantara FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/PSIS Semarang.png" height="25px"> PSIS</p> |
-| <p align="center">90' 5'</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
+| <p align="center">FT</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
 | <p align="center">FT</p> | <p align="right">Dewa United <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
 </div>
 
@@ -518,7 +518,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Havadar <img src="/static/logos/Havadar SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Foolad Khuzestan FC.png" height="25px"> Foolad</p> |
+| <p align="center">54'</p> | <p align="right">Havadar <img src="/static/logos/Havadar SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Foolad Khuzestan FC.png" height="25px"> Foolad</p> |
 </div>
 
 
@@ -708,7 +708,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">FK IMT <img src="/static/logos/FK IMT Novi Beograd.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Radnik Surdulica.png" height="25px"> Radnik</p> |
+| <p align="center">18'</p> | <p align="right">FK IMT <img src="/static/logos/FK IMT Novi Beograd.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Radnik Surdulica.png" height="25px"> Radnik</p> |
 | <p align="center">16:00</p> | <p align="right">Radnički Niš <img src="/static/logos/FK Radnički Niš.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Napredak Kruševac.png" height="25px"> Napredak</p> |
 </div>
 
@@ -788,7 +788,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Lamphun <img src="/static/logos/Lamphun Warrior FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ratchaburi FC.png" height="25px"> Ratchaburi</p> |
-| <p align="center">14:00</p> | <p align="right">Uthai Thani <img src="/static/logos/Uthai Thani FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Port FC.png" height="25px"> Port</p> |
+| <p align="center">29'</p> | <p align="right">Uthai Thani <img src="/static/logos/Uthai Thani FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Port FC.png" height="25px"> Port</p> |
 </div>
 
 
@@ -808,7 +808,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Polissya <img src="/static/logos/Polissya Zhytomyr.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/FC Dynamo Kyiv.png" height="25px"> Dynamo Kyiv</p> |
+| <p align="center">FT</p> | <p align="right">Polissya <img src="/static/logos/Polissya Zhytomyr.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/FC Dynamo Kyiv.png" height="25px"> Dynamo Kyiv</p> |
 </div>
 
 
@@ -829,8 +829,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">35'</p> | <p align="right">Al Bataeh <img src="/static/logos/Al Bataeh Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Khorfakkan Club.png" height="25px"> Khorfakkan</p> |
-| <p align="center">35'</p> | <p align="right">Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hatta Club.png" height="25px"> Hatta</p> |
+| <p align="center">64'</p> | <p align="right">Al Bataeh <img src="/static/logos/Al Bataeh Club.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Khorfakkan Club.png" height="25px"> Khorfakkan</p> |
+| <p align="center">64'</p> | <p align="right">Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Hatta Club.png" height="25px"> Hatta</p> |
 | <p align="center">16:00</p> | <p align="right">Bani Yas <img src="/static/logos/Bani Yas Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Wahda FC.png" height="25px"> Al Wahda</p> |
 </div>
 
