@@ -180,7 +180,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Egnatia <img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Dinamo City.png" height="25px"> Dinamo</p> |
+| <p align="center">HT</p> | <p align="right">Egnatia <img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Dinamo City.png" height="25px"> Dinamo</p> |
 </div>
 
 
@@ -215,7 +215,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">7 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
-| <p align="center">8'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
+| <p align="center">HT</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
 </div>
 
 
@@ -507,8 +507,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Persis Solo.png" height="25px"> Persis</p> |
 | <p align="center">FT</p> | <p align="right">RANS <img src="/static/logos/RANS Nusantara FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/PSIS Semarang.png" height="25px"> PSIS</p> |
-| <p align="center">6'</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
-| <p align="center">6'</p> | <p align="right">Dewa United <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
+| <p align="center">HT</p> | <p align="right">Arema <img src="/static/logos/Arema FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
+| <p align="center">HT</p> | <p align="right">Dewa United <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Sleman.png" height="25px"> PSS</p> |
 </div>
 
 
@@ -787,7 +787,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Lamphun <img src="/static/logos/Lamphun Warrior FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ratchaburi FC.png" height="25px"> Ratchaburi</p> |
+| <p align="center">HT</p> | <p align="right">Lamphun <img src="/static/logos/Lamphun Warrior FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Ratchaburi FC.png" height="25px"> Ratchaburi</p> |
 | <p align="center">13:00</p> | <p align="right">Uthai Thani <img src="/static/logos/Uthai Thani FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Port FC.png" height="25px"> Port</p> |
 </div>
 
@@ -808,7 +808,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">Polissya <img src="/static/logos/Polissya Zhytomyr.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Dynamo Kyiv.png" height="25px"> Dynamo Kyiv</p> |
+| <p align="center">HT</p> | <p align="right">Polissya <img src="/static/logos/Polissya Zhytomyr.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Dynamo Kyiv.png" height="25px"> Dynamo Kyiv</p> |
 </div>
 
 
@@ -818,8 +818,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">FK Metalist <img src="/static/logos/FK Metalist Kharkiv.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FK Ahrobiznes Volochysk.png" height="25px"> Ahrobiznes V.</p> |
-| <p align="center">HT</p> | <p align="right">Prykarpattia <img src="/static/logos/FK Prykarpattia Ivano-Frankivsk.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Nyva Ternopil.png" height="25px"> Nyva Ternopil</p> |
+| <p align="center">FT</p> | <p align="right">FK Metalist <img src="/static/logos/FK Metalist Kharkiv.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FK Ahrobiznes Volochysk.png" height="25px"> Ahrobiznes V.</p> |
+| <p align="center">77'</p> | <p align="right">Prykarpattia <img src="/static/logos/FK Prykarpattia Ivano-Frankivsk.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Nyva Ternopil.png" height="25px"> Nyva Ternopil</p> |
 </div>
 
 
@@ -883,7 +883,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">CAND <img src="/static/logos/Công An Hà Nội.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Thanh Hóa.png" height="25px"> Thanh Hóa</p> |
+| <p align="center">FT</p> | <p align="right">CAND <img src="/static/logos/Công An Hà Nội.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Thanh Hóa.png" height="25px"> Thanh Hóa</p> |
 </div>
 
 
