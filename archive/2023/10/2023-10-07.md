@@ -109,7 +109,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 2'</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
+| <p align="center">63'</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
 | <p align="center">23:00</p> | <p align="right">Monterrey <img src="/static/logos/CF Monterrey.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Juárez.png" height="25px"> Juárez</p> |
 </div>
 
@@ -202,7 +202,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">Vancouver FC <img src="/static/logos/Vancouver FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/York United FC.png" height="25px"> York</p> |
+| <p align="center">90' 1'</p> | <p align="right">Vancouver FC <img src="/static/logos/Vancouver FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/York United FC.png" height="25px"> York</p> |
 | <p align="center">21:00</p> | <p align="right">Cavalry <img src="/static/logos/Cavalry FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pacific FC.png" height="25px"> Pacific</p> |
 | <p align="center">21:00</p> | <p align="right">Forge <img src="/static/logos/Forge FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlético Ottawa.png" height="25px"> Atlético</p> |
 </div>
