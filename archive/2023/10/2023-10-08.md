@@ -35,7 +35,7 @@
 | <p align="center">FT</p> | <p align="right">Houston <img src="/static/logos/Houston Dynamo FC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado</p> |
 | <p align="center">FT</p> | <p align="right">Minnesota <img src="/static/logos/Minnesota United FC.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/LA Galaxy.png" height="25px"> Galaxy</p> |
 | <p align="center">FT</p> | <p align="right">Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting KC</p> |
-| <p align="center">72'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
+| <p align="center">83'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
 </div>
 
 
@@ -674,7 +674,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Guastatoya.png" height="25px"> Guastatoya</p> |
+| <p align="center">53'</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Guastatoya.png" height="25px"> Guastatoya</p> |
 </div>
 
 
@@ -823,9 +823,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Fukushima <img src="/static/logos/Fukushima United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Imabari.png" height="25px"> Imabari</p> |
-| <p align="center">5'</p> | <p align="right">Gainare <img src="/static/logos/Gainare Tottori.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SC Sagamihara.png" height="25px"> Sagamihara</p> |
-| <p align="center">5'</p> | <p align="right">YSCC <img src="/static/logos/Yokohama Sports and Culture Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nara Club.png" height="25px"> Nara</p> |
+| <p align="center">16'</p> | <p align="right">Fukushima <img src="/static/logos/Fukushima United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Imabari.png" height="25px"> Imabari</p> |
+| <p align="center">16'</p> | <p align="right">Gainare <img src="/static/logos/Gainare Tottori.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SC Sagamihara.png" height="25px"> Sagamihara</p> |
+| <p align="center">16'</p> | <p align="right">YSCC <img src="/static/logos/Yokohama Sports and Culture Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nara Club.png" height="25px"> Nara</p> |
 | <p align="center">05:00</p> | <p align="right">Gifu <img src="/static/logos/FC Gifu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Azul Claro Numazu.png" height="25px"> Azul Claro</p> |
 | <p align="center">05:00</p> | <p align="right">Giravanz <img src="/static/logos/Giravanz Kitakyushu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kataller Toyama.png" height="25px"> Toyama</p> |
 | <p align="center">05:00</p> | <p align="right">Matsumoto <img src="/static/logos/Matsumoto Yamaga FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iwate Grulla Morioka.png" height="25px"> Grulla Morioka</p> |
@@ -840,7 +840,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:10</p> | <p align="right">Kumamoto <img src="/static/logos/Roasso Kumamoto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kashiwa Reysol.png" height="25px"> Kashiwa</p> |
+| <p align="center">10'</p> | <p align="right">Kumamoto <img src="/static/logos/Roasso Kumamoto.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kashiwa Reysol.png" height="25px"> Kashiwa</p> |
 | <p align="center">06:30</p> | <p align="right">Kawasaki <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa</p> |
 </div>
 
@@ -1377,10 +1377,10 @@
 | <p align="center">FT</p> | <p align="right">Memphis 901 <img src="/static/logos/Memphis 901 FC.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/El Paso Locomotive FC.png" height="25px"> El Paso Loco</p> |
 | <p align="center">FT</p> | <p align="right">RGV FC Toros <img src="/static/logos/Rio Grande Valley FC Toros.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Sacramento Republic FC.png" height="25px"> Sacramento </p> |
 | <p align="center">FT</p> | <p align="right">Tulsa <img src="/static/logos/FC Tulsa.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Indy Eleven.png" height="25px"> Indy Eleven</p> |
-| <p align="center">90' 8'</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Antonio FC.png" height="25px"> San Antonio</p> |
+| <p align="center">FT</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Antonio FC.png" height="25px"> San Antonio</p> |
 | <p align="center">FT</p> | <p align="right">SD Loyal <img src="/static/logos/San Diego Loyal SC.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Roots</p> |
-| <p align="center">72'</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Switchbacks</p> |
-| <p align="center">73'</p> | <p align="right">Phoenix Rising <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/New Mexico United.png" height="25px"> New Mexico Utd</p> |
+| <p align="center">83'</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Switchbacks</p> |
+| <p align="center">85'</p> | <p align="right">Phoenix Rising <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/New Mexico United.png" height="25px"> New Mexico Utd</p> |
 | <p align="center">21:00</p> | <p align="right">Legion <img src="/static/logos/Birmingham Legion FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monterey Bay FC.png" height="25px"> Monterey Bay</p> |
 </div>
 
