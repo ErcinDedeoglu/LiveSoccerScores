@@ -35,7 +35,7 @@
 | <p align="center">FT</p> | <p align="right">Houston <img src="/static/logos/Houston Dynamo FC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado</p> |
 | <p align="center">FT</p> | <p align="right">Minnesota <img src="/static/logos/Minnesota United FC.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/LA Galaxy.png" height="25px"> Galaxy</p> |
 | <p align="center">FT</p> | <p align="right">Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting KC</p> |
-| <p align="center">47'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
+| <p align="center">54'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps FC.png" height="25px"> Whitecaps</p> |
 </div>
 
 
@@ -113,7 +113,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Chivas <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Atlas FC.png" height="25px"> Atlas</p> |
 | <p align="center">FT</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"> Tigres</p> |
-| <p align="center">28'</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"> Pumas</p> |
+| <p align="center">35'</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"> Pumas</p> |
 | <p align="center">18:00</p> | <p align="right">Toluca <img src="/static/logos/Deportivo Toluca FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Querétaro FC.png" height="25px"> Querétaro</p> |
 | <p align="center">23:00</p> | <p align="right">Necaxa <img src="/static/logos/Club Necaxa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
 </div>
@@ -243,7 +243,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Vida <img src="/static/logos/CDyS Vida.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olancho FC.png" height="25px"> Olancho</p> |
+| <p align="center">86'</p> | <p align="right">Vida <img src="/static/logos/CDyS Vida.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olancho FC.png" height="25px"> Olancho</p> |
 | <p align="center">23:00</p> | <p align="right">Olimpia <img src="/static/logos/CD Olimpia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Victoria.png" height="25px"> Victoria</p> |
 </div>
 
@@ -416,7 +416,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Saprissa.png" height="25px"> Saprissa</p> |
+| <p align="center">89'</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Saprissa.png" height="25px"> Saprissa</p> |
 | <p align="center">21:00</p> | <p align="right">Puntarenas <img src="/static/logos/Puntarenas FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Cartaginés.png" height="25px"> Cartaginés</p> |
 | <p align="center">22:00</p> | <p align="right">Alajuelense <img src="/static/logos/LD Alajuelense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sporting San José FC.png" height="25px"> SP. San José</p> |
 </div>
@@ -674,7 +674,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Guastatoya.png" height="25px"> Guastatoya</p> |
+| <p align="center">43'</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Guastatoya.png" height="25px"> Guastatoya</p> |
 </div>
 
 
@@ -1377,10 +1377,10 @@
 | <p align="center">FT</p> | <p align="right">Memphis 901 <img src="/static/logos/Memphis 901 FC.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/El Paso Locomotive FC.png" height="25px"> El Paso Loco</p> |
 | <p align="center">FT</p> | <p align="right">RGV FC Toros <img src="/static/logos/Rio Grande Valley FC Toros.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Sacramento Republic FC.png" height="25px"> Sacramento </p> |
 | <p align="center">FT</p> | <p align="right">Tulsa <img src="/static/logos/FC Tulsa.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Indy Eleven.png" height="25px"> Indy Eleven</p> |
-| <p align="center">79'</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Antonio FC.png" height="25px"> San Antonio</p> |
-| <p align="center">78'</p> | <p align="right">SD Loyal <img src="/static/logos/San Diego Loyal SC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Roots</p> |
-| <p align="center">47'</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Switchbacks</p> |
-| <p align="center">47'</p> | <p align="right">Phoenix Rising <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/New Mexico United.png" height="25px"> New Mexico Utd</p> |
+| <p align="center">87'</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Antonio FC.png" height="25px"> San Antonio</p> |
+| <p align="center">85'</p> | <p align="right">SD Loyal <img src="/static/logos/San Diego Loyal SC.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Roots</p> |
+| <p align="center">54'</p> | <p align="right">LV Lights <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Switchbacks</p> |
+| <p align="center">54'</p> | <p align="right">Phoenix Rising <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/New Mexico United.png" height="25px"> New Mexico Utd</p> |
 | <p align="center">21:00</p> | <p align="right">Legion <img src="/static/logos/Birmingham Legion FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monterey Bay FC.png" height="25px"> Monterey Bay</p> |
 </div>
 
