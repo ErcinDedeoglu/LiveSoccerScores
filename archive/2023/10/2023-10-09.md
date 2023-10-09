@@ -29,7 +29,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal de Sarandí.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Banfield.png" height="25px"> Banfield</p> |
 | <p align="center">FT</p> | <p align="right">Barracas C <img src="/static/logos/CA Barracas Central.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Colón de Santa Fe.png" height="25px"> Colón</p> |
-| <p align="center">23:30</p> | <p align="right">Vélez <img src="/static/logos/Club Atlético Vélez Sarsfield.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Tucumán.png" height="25px"> Atl. Tucumán</p> |
+| <p align="center">24'</p> | <p align="right">Vélez <img src="/static/logos/Club Atlético Vélez Sarsfield.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CA Tucumán.png" height="25px"> Atl. Tucumán</p> |
 </div>
 
 
@@ -76,7 +76,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Vaca Díez <img src="/static/logos/Club Vaca Díez de Pando.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Real Tomayapo.png" height="25px"> Real Tomayapo</p> |
-| <p align="center">59'</p> | <p align="right">Aurora <img src="/static/logos/Club Deportivo Aurora.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CDSC Guabirá.png" height="25px"> Guabirá</p> |
+| <p align="center">90' 7'</p> | <p align="right">Aurora <img src="/static/logos/Club Deportivo Aurora.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CDSC Guabirá.png" height="25px"> Guabirá</p> |
 </div>
 
 
@@ -86,7 +86,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Sport <img src="/static/logos/SC do Recife.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Associacao Atletica Ponte Preta.png" height="25px"> Ponte Preta</p> |
+| <p align="center">45' 12'</p> | <p align="right">Sport <img src="/static/logos/SC do Recife.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Associacao Atletica Ponte Preta.png" height="25px"> Ponte Preta</p> |
 </div>
 
 
@@ -249,7 +249,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Sportivo Amel. <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Sportivo Luqueño.png" height="25px"> Luqueño</p> |
+| <p align="center">69'</p> | <p align="right">Sportivo Amel. <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Sportivo Luqueño.png" height="25px"> Luqueño</p> |
 </div>
 
 
@@ -281,8 +281,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Boca Juniors <img src="/static/logos/Club Atlético Boca Juniors.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Club Nacional de Football.png" height="25px"> Nacional</p> |
 | <p align="center">FT</p> | <p align="right">Colo-Colo <img src="/static/logos/CSD Colo-Colo.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Club Libertad Limpeño.png" height="25px"> Lib / Limp</p> |
-| <p align="center">HT</p> | <p align="right">América <img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/SC Internacional RS.png" height="25px"> Internacional</p> |
-| <p align="center">HT</p> | <p align="right">Corinthians <img src="/static/logos/Sport Club Corinthians Paulista.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Club Always Ready.png" height="25px"> Always Ready</p> |
+| <p align="center">69'</p> | <p align="right">América <img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/SC Internacional RS.png" height="25px"> Internacional</p> |
+| <p align="center">69'</p> | <p align="right">Corinthians <img src="/static/logos/Sport Club Corinthians Paulista.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Club Always Ready.png" height="25px"> Always Ready</p> |
 </div>
 
 
