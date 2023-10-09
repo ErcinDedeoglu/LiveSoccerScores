@@ -75,7 +75,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Vaca Díez <img src="/static/logos/Club Vaca Díez de Pando.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Real Tomayapo.png" height="25px"> Real Tomayapo</p> |
+| <p align="center">72'</p> | <p align="right">Vaca Díez <img src="/static/logos/Club Vaca Díez de Pando.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Real Tomayapo.png" height="25px"> Real Tomayapo</p> |
 | <p align="center">22:00</p> | <p align="right">Aurora <img src="/static/logos/Club Deportivo Aurora.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CDSC Guabirá.png" height="25px"> Guabirá</p> |
 </div>
 
@@ -178,7 +178,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Burton Albion <img src="/static/logos/Burton Albion FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Cambridge United FC.png" height="25px"> Cambridge Utd</p> |
+| <p align="center">74'</p> | <p align="right">Burton Albion <img src="/static/logos/Burton Albion FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Cambridge United FC.png" height="25px"> Cambridge Utd</p> |
 </div>
 
 
@@ -222,11 +222,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Pro Vercelli <img src="/static/logos/FC Pro Vercelli Calcio.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/LR Vicenza Virtus.png" height="25px"> Vicenza</p> |
-| <p align="center">71'</p> | <p align="right">Arezzo <img src="/static/logos/SS Arezzo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cesena FC.png" height="25px"> Cesena</p> |
-| <p align="center">73'</p> | <p align="right">Fermana <img src="/static/logos/Fermana.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Perugia Calcio.png" height="25px"> Perugia</p> |
-| <p align="center">73'</p> | <p align="right">Gubbio <img src="/static/logos/AS Gubbio 1910.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Carrarese Calcio.png" height="25px"> Carrarese</p> |
-| <p align="center">73'</p> | <p align="right">Avellino <img src="/static/logos/US Avellino 1912.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/SSD Potenza Calcio.png" height="25px"> Potenza</p> |
+| <p align="center">FT</p> | <p align="right">Pro Vercelli <img src="/static/logos/FC Pro Vercelli Calcio.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/LR Vicenza Virtus.png" height="25px"> Vicenza</p> |
+| <p align="center">87'</p> | <p align="right">Arezzo <img src="/static/logos/SS Arezzo.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Cesena FC.png" height="25px"> Cesena</p> |
+| <p align="center">89'</p> | <p align="right">Fermana <img src="/static/logos/Fermana.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Perugia Calcio.png" height="25px"> Perugia</p> |
+| <p align="center">89'</p> | <p align="right">Gubbio <img src="/static/logos/AS Gubbio 1910.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Carrarese Calcio.png" height="25px"> Carrarese</p> |
+| <p align="center">89'</p> | <p align="right">Avellino <img src="/static/logos/US Avellino 1912.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/SSD Potenza Calcio.png" height="25px"> Potenza</p> |
 </div>
 
 
@@ -259,7 +259,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">AVS <img src="/static/logos/AVS Futebol.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Penafiel.png" height="25px"> Penafiel</p> |
+| <p align="center">57'</p> | <p align="right">AVS <img src="/static/logos/AVS Futebol.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Penafiel.png" height="25px"> Penafiel</p> |
 </div>
 
 
@@ -279,8 +279,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Boca Juniors <img src="/static/logos/Club Atlético Boca Juniors.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Nacional de Football.png" height="25px"> Nacional</p> |
-| <p align="center">15'</p> | <p align="right">Colo-Colo <img src="/static/logos/CSD Colo-Colo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Libertad Limpeño.png" height="25px"> Lib / Limp</p> |
+| <p align="center">32'</p> | <p align="right">Boca Juniors <img src="/static/logos/Club Atlético Boca Juniors.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Nacional de Football.png" height="25px"> Nacional</p> |
+| <p align="center">31'</p> | <p align="right">Colo-Colo <img src="/static/logos/CSD Colo-Colo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Libertad Limpeño.png" height="25px"> Lib / Limp</p> |
 | <p align="center">22:30</p> | <p align="right">América <img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SC Internacional RS.png" height="25px"> Internacional</p> |
 | <p align="center">22:30</p> | <p align="right">Corinthians <img src="/static/logos/Sport Club Corinthians Paulista.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Always Ready.png" height="25px"> Always Ready</p> |
 </div>
@@ -293,7 +293,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Elche <img src="/static/logos/Elche CF.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Andorra.png" height="25px"> FC Andorra</p> |
-| <p align="center">57'</p> | <p align="right">Villarreal II <img src="/static/logos/Villarreal CF II.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Reial Club Deportiu Espanyol.png" height="25px"> Espanyol</p> |
+| <p align="center">73'</p> | <p align="right">Villarreal II <img src="/static/logos/Villarreal CF II.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Reial Club Deportiu Espanyol.png" height="25px"> Espanyol</p> |
 </div>
 
 
