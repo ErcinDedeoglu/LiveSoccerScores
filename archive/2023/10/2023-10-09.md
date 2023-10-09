@@ -128,7 +128,7 @@
 | <p align="center">FT</p> | <p align="right">Qisheng <img src="/static/logos/Zibo Qisheng FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hunan Billows FC.png" height="25px"> Billows</p> |
 | <p align="center">FT</p> | <p align="right">Red Lions <img src="/static/logos/Qingdao Red Lions FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Jiangxi Dark Horse Junior FC.png" height="25px"> Jiangxi DHJ</p> |
 | <p align="center">FT</p> | <p align="right">Star <img src="/static/logos/Hainan Star FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Nantong Haimen Codion FC.png" height="25px"> Haimen</p> |
-| <p align="center">47'</p> | <p align="right">Quanzhou <img src="/static/logos/Quanzhou Yassin FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tai'an Tiankuang FC.png" height="25px"> Tai'an</p> |
+| <p align="center">64'</p> | <p align="right">Quanzhou <img src="/static/logos/Quanzhou Yassin FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tai'an Tiankuang FC.png" height="25px"> Tai'an</p> |
 </div>
 
 
