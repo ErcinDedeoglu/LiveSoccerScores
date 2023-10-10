@@ -46,7 +46,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Blooming <img src="/static/logos/Club Blooming.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Royal Pari.png" height="25px"> Royal Pari</p> |
+| <p align="center">90' 4'</p> | <p align="right">Blooming <img src="/static/logos/Club Blooming.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Royal Pari.png" height="25px"> Royal Pari</p> |
 </div>
 
 
@@ -91,7 +91,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Libertad <img src="/static/logos/Libertad Fútbol Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guayaquil City FC.png" height="25px"> Guayaquil City</p> |
+| <p align="center">FT</p> | <p align="right">Libertad <img src="/static/logos/Libertad Fútbol Club.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guayaquil City FC.png" height="25px"> Guayaquil City</p> |
 </div>
 
 
