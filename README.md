@@ -69,7 +69,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">BIT <img src="/static/logos/Beijing Institute of Technology FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chongqing Tongliang Long FC.png" height="25px"> Tongliang Long</p> |
+| <p align="center">17'</p> | <p align="right">BIT <img src="/static/logos/Beijing Institute of Technology FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chongqing Tongliang Long FC.png" height="25px"> Tongliang Long</p> |
 | <p align="center">07:30</p> | <p align="right">Zhixing <img src="/static/logos/Dalian Zhixing FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yunnan Yukun FC.png" height="25px"> Yukun</p> |
 | <p align="center">08:00</p> | <p align="right">Istar <img src="/static/logos/Hubei Istar FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guangxi Lanhang FC.png" height="25px"> Lanhang</p> |
 </div>
