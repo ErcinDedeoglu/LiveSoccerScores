@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">San Lorenzo <img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA San Martín de San Juan.png" height="25px"> San Martín SJ</p> |
+| <p align="center">HT</p> | <p align="right">San Lorenzo <img src="/static/logos/CA San Lorenzo de Almagro.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA San Martín de San Juan.png" height="25px"> San Martín SJ</p> |
 </div>
 
 
@@ -114,14 +114,14 @@
 | <p align="center">FT</p> | <p align="right">Walsall <img src="/static/logos/Walsall FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Forest Green Rovers FC.png" height="25px"> Forest Green</p> |
 | <p align="center">FT</p> | <p align="right">Wigan <img src="/static/logos/Wigan Athletic FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Fleetwood Town FC.png" height="25px"> Fleetwood</p> |
 | <p align="center">FT</p> | <p align="right">Exeter <img src="/static/logos/Exeter City FC.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Arsenal FC Under 21.png" height="25px"> Arsenal</p> |
-| <p align="center">86'</p> | <p align="right">Cheltenham <img src="/static/logos/Cheltenham Town FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Newport County AFC.png" height="25px"> Newport</p> |
-| <p align="center">87'</p> | <p align="right">Crewe <img src="/static/logos/Crewe Alexandra FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Wrexham FC.png" height="25px"> Wrexham</p> |
-| <p align="center">89'</p> | <p align="right">Grimsby <img src="/static/logos/Grimsby Town FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Bradford City AFC.png" height="25px"> Bradford</p> |
-| <p align="center">88'</p> | <p align="right">Salford <img src="/static/logos/Salford City FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Stockport County FC.png" height="25px"> Stockport</p> |
-| <p align="center">74'</p> | <p align="right">Harrogate <img src="/static/logos/Harrogate Town FC.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Accrington Stanley FC.png" height="25px"> Accrington</p> |
-| <p align="center">65'</p> | <p align="right">Port Vale <img src="/static/logos/Port Vale FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Newcastle United Under 21.png" height="25px"> Newcastle</p> |
-| <p align="center">72'</p> | <p align="right">Portsmouth <img src="/static/logos/Portsmouth FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Gillingham FC.png" height="25px"> Gillingham</p> |
-| <p align="center">73'</p> | <p align="right">Sutton Utd <img src="/static/logos/Sutton United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Crawley Town FC.png" height="25px"> Crawley</p> |
+| <p align="center">FT</p> | <p align="right">Cheltenham <img src="/static/logos/Cheltenham Town FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Newport County AFC.png" height="25px"> Newport</p> |
+| <p align="center">FT</p> | <p align="right">Crewe <img src="/static/logos/Crewe Alexandra FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Wrexham FC.png" height="25px"> Wrexham</p> |
+| <p align="center">FT</p> | <p align="right">Grimsby <img src="/static/logos/Grimsby Town FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Bradford City AFC.png" height="25px"> Bradford</p> |
+| <p align="center">FT</p> | <p align="right">Salford <img src="/static/logos/Salford City FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Stockport County FC.png" height="25px"> Stockport</p> |
+| <p align="center">FT</p> | <p align="right">Harrogate <img src="/static/logos/Harrogate Town FC.png" height="25px"></p> | <p align="center">3 - 5</p> | <p align="left"><img src="/static/logos/Accrington Stanley FC.png" height="25px"> Accrington</p> |
+| <p align="center">FT</p> | <p align="right">Port Vale <img src="/static/logos/Port Vale FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Newcastle United Under 21.png" height="25px"> Newcastle</p> |
+| <p align="center">FT</p> | <p align="right">Portsmouth <img src="/static/logos/Portsmouth FC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Gillingham FC.png" height="25px"> Gillingham</p> |
+| <p align="center">FT</p> | <p align="right">Sutton Utd <img src="/static/logos/Sutton United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Crawley Town FC.png" height="25px"> Crawley</p> |
 </div>
 
 
@@ -134,7 +134,7 @@
 | <p align="center">FT</p> | <p align="right">Eintracht <img src="/static/logos/Eintracht Frankfurt.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/AC Sparta Praha.png" height="25px"> Sparta Praha</p> |
 | <p align="center">FT</p> | <p align="right">Paris <img src="/static/logos/Paris FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/VfL Wolfsburg.png" height="25px"> Wolfsburg</p> |
 | <p align="center">FT</p> | <p align="right">Valur <img src="/static/logos/Valur Reykjavík.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/SKN Sankt Pölten.png" height="25px"> St. Pölten</p> |
-| <p align="center">57'</p> | <p align="right">Man Utd <img src="/static/logos/Manchester United WFC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Paris Saint Germain FC.png" height="25px"> PSG</p> |
+| <p align="center">FT</p> | <p align="right">Man Utd <img src="/static/logos/Manchester United WFC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paris Saint Germain FC.png" height="25px"> PSG</p> |
 </div>
 
 
@@ -154,7 +154,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">Galway Utd <img src="/static/logos/Galway United FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Waterford FC.png" height="25px"> Waterford</p> |
+| <p align="center">FT</p> | <p align="right">Galway Utd <img src="/static/logos/Galway United FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Waterford FC.png" height="25px"> Waterford</p> |
 </div>
 
 
