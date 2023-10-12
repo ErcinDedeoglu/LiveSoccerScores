@@ -67,10 +67,10 @@
 | <p align="center">FT</p> | <p align="right">Maldives <img src="/static/logos/Maldives.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bangladesh.png" height="25px"> Bangladesh</p> |
 | <p align="center">FT</p> | <p align="right">Singapore <img src="/static/logos/Singapore.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Guam.png" height="25px"> Guam</p> |
 | <p align="center">FT</p> | <p align="right">Nepal <img src="/static/logos/Nepal.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Laos.png" height="25px"> Laos</p> |
-| <p align="center">85'</p> | <p align="right">Cambodia <img src="/static/logos/Cambodia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pakistan.png" height="25px"> Pakistan</p> |
-| <p align="center">87'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong, China.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Bhutan.png" height="25px"> Bhutan</p> |
-| <p align="center">87'</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Brunei Darussalam.png" height="25px"> Brunei</p> |
-| <p align="center">14:00</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mongolia.png" height="25px"> Mongolia</p> |
+| <p align="center">FT</p> | <p align="right">Cambodia <img src="/static/logos/Cambodia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pakistan.png" height="25px"> Pakistan</p> |
+| <p align="center">FT</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong, China.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Bhutan.png" height="25px"> Bhutan</p> |
+| <p align="center">FT</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">6 - 0</p> | <p align="left"><img src="/static/logos/Brunei Darussalam.png" height="25px"> Brunei</p> |
+| <p align="center">58'</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mongolia.png" height="25px"> Mongolia</p> |
 | <p align="center">17:00</p> | <p align="right">Yemen <img src="/static/logos/Yemen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sri Lanka.png" height="25px"> Sri Lanka</p> |
 </div>
 
@@ -144,7 +144,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Mar. Lázně <img src="/static/logos/FC Viktoria Mariánské Lázně.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Viktoria Plzeň.png" height="25px"> Viktoria Plzeň</p> |
+| <p align="center">56'</p> | <p align="right">Mar. Lázně <img src="/static/logos/FC Viktoria Mariánské Lázně.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/FC Viktoria Plzeň.png" height="25px"> Viktoria Plzeň</p> |
 </div>
 
 
@@ -154,8 +154,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northern Ireland Under 21.png" height="25px"> N. Ireland</p> |
-| <p align="center">14:00</p> | <p align="right">Georgia <img src="/static/logos/Georgia Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Netherlands Under 21.png" height="25px"> Netherlands</p> |
+| <p align="center">56'</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Northern Ireland Under 21.png" height="25px"> N. Ireland</p> |
+| <p align="center">58'</p> | <p align="right">Georgia <img src="/static/logos/Georgia Under 21.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Netherlands Under 21.png" height="25px"> Netherlands</p> |
 | <p align="center">POS</p> | <p align="right">Israel <img src="/static/logos/Israel Under 21.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Estonia Under 21.png" height="25px"> Estonia</p> |
 | <p align="center">17:30</p> | <p align="right">Luxembourg <img src="/static/logos/Luxembourg Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ukraine Under 21.png" height="25px"> Ukraine</p> |
 | <p align="center">18:45</p> | <p align="right">England <img src="/static/logos/England Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Serbia Under 21.png" height="25px"> Serbia</p> |
@@ -168,8 +168,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Enyimba <img src="/static/logos/Enyimba International FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
-| <p align="center">15:00</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo Stars FC.png" height="25px"> Remo Stars</p> |
+| <p align="center">POS</p> | <p align="right">Enyimba <img src="/static/logos/Enyimba International FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
+| <p align="center">16'</p> | <p align="right">Rivers Utd <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Remo Stars FC.png" height="25px"> Remo Stars</p> |
 </div>
 
 
