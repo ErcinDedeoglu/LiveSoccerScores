@@ -27,8 +27,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sint Maarten <img src="/static/logos/Sint Maarten.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/St. Kitts and Nevis.png" height="25px"> St. Kitts</p> |
-| <p align="center">81'</p> | <p align="right">Dominica <img src="/static/logos/Dominica.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/British Virgin Islands.png" height="25px"> British VI</p> |
-| <p align="center">39'</p> | <p align="right">Suriname <img src="/static/logos/Suriname.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Haiti.png" height="25px"> Haiti</p> |
+| <p align="center">89'</p> | <p align="right">Dominica <img src="/static/logos/Dominica.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/British Virgin Islands.png" height="25px"> British VI</p> |
+| <p align="center">45' 1'</p> | <p align="right">Suriname <img src="/static/logos/Suriname.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Haiti.png" height="25px"> Haiti</p> |
 | <p align="center">23:00</p> | <p align="right">Grenada <img src="/static/logos/Grenada.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jamaica.png" height="25px"> Jamaica</p> |
 | <p align="center">23:00</p> | <p align="right">Bonaire <img src="/static/logos/Bonaire.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Anguilla.png" height="25px"> Anguilla</p> |
 </div>
@@ -191,8 +191,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Colo-Colo <img src="/static/logos/CSD Colo-Colo.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Club Always Ready.png" height="25px"> Always Ready</p> |
 | <p align="center">FT</p> | <p align="right">Lib / Limp <img src="/static/logos/Club Libertad Limpeño.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Sport Club Corinthians Paulista.png" height="25px"> Corinthians</p> |
-| <p align="center">10'</p> | <p align="right">América <img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Nacional de Football.png" height="25px"> Nacional</p> |
-| <p align="center">10'</p> | <p align="right">Internacional <img src="/static/logos/SC Internacional RS.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Boca Juniors.png" height="25px"> Boca Juniors</p> |
+| <p align="center">18'</p> | <p align="right">América <img src="/static/logos/Sociedad Anónima Deportiva América SA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Nacional de Football.png" height="25px"> Nacional</p> |
+| <p align="center">18'</p> | <p align="right">Internacional <img src="/static/logos/SC Internacional RS.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Atlético Boca Juniors.png" height="25px"> Boca Juniors</p> |
 </div>
 
 
