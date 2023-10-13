@@ -68,8 +68,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
-| <p align="center">11:00</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tunisia.png" height="25px"> Tunisia</p> |
+| <p align="center">36'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
+| <p align="center">8'</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tunisia.png" height="25px"> Tunisia</p> |
 | <p align="center">13:00</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/India.png" height="25px"> India</p> |
 | <p align="center">15:00</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
 | <p align="center">16:00</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
@@ -270,8 +270,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Hirnyk-Sport <img src="/static/logos/FC Hirnyk-Sport Horishni Plavni.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Metalurh Zaporizhya.png" height="25px"> Metalurh</p> |
-| <p align="center">10:30</p> | <p align="right">Viktoriya Sumy <img src="/static/logos/FK Viktoriya Sumy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"> Kremin'</p> |
+| <p align="center">81'</p> | <p align="right">Hirnyk-Sport <img src="/static/logos/FC Hirnyk-Sport Horishni Plavni.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Metalurh Zaporizhya.png" height="25px"> Metalurh</p> |
+| <p align="center">39'</p> | <p align="right">Viktoriya Sumy <img src="/static/logos/FK Viktoriya Sumy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"> Kremin'</p> |
 | <p align="center">11:30</p> | <p align="right">Ahrobiznes V. <img src="/static/logos/FK Ahrobiznes Volochysk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Epitsentr Dunayivtsi.png" height="25px"> Epitsentr</p> |
 </div>
 
