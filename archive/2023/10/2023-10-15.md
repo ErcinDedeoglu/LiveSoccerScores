@@ -398,7 +398,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Nagoya <img src="/static/logos/Nagoya Grampus.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa</p> |
-| <p align="center">89'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Yokohama F. Marinos.png" height="25px"> F Marinos</p> |
+| <p align="center">90' 8'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Yokohama F. Marinos.png" height="25px"> F Marinos</p> |
 </div>
 
 
@@ -513,8 +513,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Huelva <img src="/static/logos/CD Sporting de Huelva Cajasol San Juan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Madrid CFF.png" height="25px"> Madrid</p> |
-| <p align="center">10:00</p> | <p align="right">UD Tenerife <img src="/static/logos/UD Costa Adeje Tenerife.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Betis Balompié.png" height="25px"> Betis</p> |
+| <p align="center">3'</p> | <p align="right">Huelva <img src="/static/logos/CD Sporting de Huelva Cajasol San Juan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Madrid CFF.png" height="25px"> Madrid</p> |
+| <p align="center">5'</p> | <p align="right">UD Tenerife <img src="/static/logos/UD Costa Adeje Tenerife.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Real Betis Balompié.png" height="25px"> Betis</p> |
 | <p align="center">14:30</p> | <p align="right">Levante <img src="/static/logos/Levante UD.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Levante Las Planas.png" height="25px"> Las Planas</p> |
 | <p align="center">16:30</p> | <p align="right">Atl. Madrid <img src="/static/logos/Club Atlético de Madrid Féminas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Barcelona.png" height="25px"> Barcelona</p> |
 </div>
