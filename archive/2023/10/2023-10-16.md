@@ -70,7 +70,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">62'</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
+| <p align="center">73'</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
 | <p align="center">15:00</p> | <p align="right">Mozambique <img src="/static/logos/Mozambique.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
 | <p align="center">16:00</p> | <p align="right">Egypt <img src="/static/logos/Egypt.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Algeria.png" height="25px"> Algeria</p> |
 | <p align="center">16:00</p> | <p align="right">Kenya <img src="/static/logos/Kenya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Russia.png" height="25px"> Russia</p> |
@@ -220,7 +220,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">24'</p> | <p align="right">Çatalca <img src="/static/logos/Çatalca Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/23 Elazığ Futbol Kulübü.png" height="25px"> 23 Elazığ</p> |
+| <p align="center">34'</p> | <p align="right">Çatalca <img src="/static/logos/Çatalca Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/23 Elazığ Futbol Kulübü.png" height="25px"> 23 Elazığ</p> |
 </div>
 
 
