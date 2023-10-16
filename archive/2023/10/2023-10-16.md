@@ -86,7 +86,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Morelia <img src="/static/logos/Club Atlético Morelia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
 | <p align="center">FT</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC Yucatán.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/CSyD Dorados de Sinaloa.png" height="25px"> Dorados</p> |
-| <p align="center">90' 1'</p> | <p align="right">La Paz <img src="/static/logos/Club Atlético La Paz.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
+| <p align="center">FT</p> | <p align="right">La Paz <img src="/static/logos/Club Atlético La Paz.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
 </div>
 
 
