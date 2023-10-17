@@ -73,12 +73,12 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Finland <img src="/static/logos/Finland.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Kazakhstan.png" height="25px"> Kazakhstan</p> |
-| <p align="center">18:45</p> | <p align="right">England <img src="/static/logos/England.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Italy.png" height="25px"> Italy</p> |
-| <p align="center">18:45</p> | <p align="right">Lithuania <img src="/static/logos/Lithuania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hungary.png" height="25px"> Hungary</p> |
-| <p align="center">18:45</p> | <p align="right">Malta <img src="/static/logos/Malta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ukraine.png" height="25px"> Ukraine</p> |
-| <p align="center">18:45</p> | <p align="right">N. Ireland <img src="/static/logos/Northern Ireland.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slovenia.png" height="25px"> Slovenia</p> |
-| <p align="center">18:45</p> | <p align="right">San Marino <img src="/static/logos/San Marino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
-| <p align="center">18:45</p> | <p align="right">Serbia <img src="/static/logos/Serbia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Montenegro.png" height="25px"> Montenegro</p> |
+| <p align="center">32'</p> | <p align="right">England <img src="/static/logos/England.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Italy.png" height="25px"> Italy</p> |
+| <p align="center">33'</p> | <p align="right">Lithuania <img src="/static/logos/Lithuania.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hungary.png" height="25px"> Hungary</p> |
+| <p align="center">32'</p> | <p align="right">Malta <img src="/static/logos/Malta.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ukraine.png" height="25px"> Ukraine</p> |
+| <p align="center">34'</p> | <p align="right">N. Ireland <img src="/static/logos/Northern Ireland.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Slovenia.png" height="25px"> Slovenia</p> |
+| <p align="center">34'</p> | <p align="right">San Marino <img src="/static/logos/San Marino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
+| <p align="center">31'</p> | <p align="right">Serbia <img src="/static/logos/Serbia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Montenegro.png" height="25px"> Montenegro</p> |
 </div>
 
 
@@ -96,10 +96,10 @@
 | <p align="center">FT</p> | <p align="right">Albania <img src="/static/logos/Albania.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bulgaria.png" height="25px"> Bulgaria</p> |
 | <p align="center">FT</p> | <p align="right">Estonia <img src="/static/logos/Estonia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Thailand.png" height="25px"> Thailand</p> |
 | <p align="center">FT</p> | <p align="right">UAE <img src="/static/logos/United Arab Emirates.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Lebanon.png" height="25px"> Lebanon</p> |
-| <p align="center">3'</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IR Iran.png" height="25px"> Iran</p> |
-| <p align="center">18:45</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/New Zealand.png" height="25px"> New Zealand</p> |
-| <p align="center">19:00</p> | <p align="right">Côte d'Ivoire <img src="/static/logos/Côte d'Ivoire.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/South Africa.png" height="25px"> South Africa</p> |
-| <p align="center">19:00</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scotland.png" height="25px"> Scotland</p> |
+| <p align="center">57'</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IR Iran.png" height="25px"> Iran</p> |
+| <p align="center">34'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/New Zealand.png" height="25px"> New Zealand</p> |
+| <p align="center">14'</p> | <p align="right">Côte d'Ivoire <img src="/static/logos/Côte d'Ivoire.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/South Africa.png" height="25px"> South Africa</p> |
+| <p align="center">8'</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Scotland.png" height="25px"> Scotland</p> |
 </div>
 
 
@@ -109,7 +109,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Morocco <img src="/static/logos/Morocco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
+| <p align="center">18'</p> | <p align="right">Morocco <img src="/static/logos/Morocco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
 </div>
 
 
@@ -140,7 +140,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">7'</p> | <p align="right">Cambridge Utd <img src="/static/logos/Cambridge United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Colchester United FC.png" height="25px"> Colchester</p> |
+| <p align="center">60'</p> | <p align="right">Cambridge Utd <img src="/static/logos/Cambridge United FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Colchester United FC.png" height="25px"> Colchester</p> |
 </div>
 
 
@@ -167,11 +167,11 @@
 | <p align="center">FT</p> | <p align="right">Czechia <img src="/static/logos/Czechia Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Denmark Under 21.png" height="25px"> Denmark</p> |
 | <p align="center">FT</p> | <p align="right">Poland <img src="/static/logos/Poland Under 21.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Estonia Under 21.png" height="25px"> Estonia</p> |
 | <p align="center">FT</p> | <p align="right">Slovenia <img src="/static/logos/Slovenia Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Austria Under 21.png" height="25px"> Austria</p> |
-| <p align="center">79'</p> | <p align="right">France <img src="/static/logos/France Under 21.png" height="25px"></p> | <p align="center">7 - 0</p> | <p align="left"><img src="/static/logos/Cyprus Under 21.png" height="25px"> Cyprus</p> |
+| <p align="center">FT</p> | <p align="right">France <img src="/static/logos/France Under 21.png" height="25px"></p> | <p align="center">9 - 0</p> | <p align="left"><img src="/static/logos/Cyprus Under 21.png" height="25px"> Cyprus</p> |
 | <p align="center">POS</p> | <p align="right">Israel <img src="/static/logos/Israel Under 21.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Germany Under 21.png" height="25px"> Germany</p> |
-| <p align="center">81'</p> | <p align="right">Scotland <img src="/static/logos/Scotland Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Malta Under 21.png" height="25px"> Malta</p> |
-| <p align="center">8'</p> | <p align="right">Andorra <img src="/static/logos/Andorra Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Faroe Islands Under 21.png" height="25px"> Faroe Islands</p> |
-| <p align="center">7'</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 21.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Greece Under 21.png" height="25px"> Greece</p> |
+| <p align="center">FT</p> | <p align="right">Scotland <img src="/static/logos/Scotland Under 21.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Malta Under 21.png" height="25px"> Malta</p> |
+| <p align="center">63'</p> | <p align="right">Andorra <img src="/static/logos/Andorra Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Faroe Islands Under 21.png" height="25px"> Faroe Islands</p> |
+| <p align="center">61'</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Greece Under 21.png" height="25px"> Greece</p> |
 </div>
 
 
@@ -213,7 +213,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">6'</p> | <p align="right">England  <img src="/static/logos/England Under 20.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Portugal Under 20.png" height="25px"> Portugal</p> |
+| <p align="center">55'</p> | <p align="right">England  <img src="/static/logos/England Under 20.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Portugal Under 20.png" height="25px"> Portugal</p> |
 </div>
 
 
@@ -224,13 +224,13 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Nürnberg II <img src="/static/logos/1. FC Nürnberg II.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/SpVgg Bayreuth.png" height="25px"> Bayreuth</p> |
-| <p align="center">81'</p> | <p align="right">Würzburg <img src="/static/logos/FC Würzburger Kickers.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/SV Schalding-Heining.png" height="25px"> Schalding</p> |
-| <p align="center">49'</p> | <p align="right">Aschaffenburg <img src="/static/logos/SV Viktoria Aschaffenburg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/TSV Aubstadt.png" height="25px"> Aubstadt</p> |
-| <p align="center">48'</p> | <p align="right">Bamberg <img src="/static/logos/1. FC Eintracht Bamberg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Augsburg II.png" height="25px"> Augsburg II</p> |
-| <p align="center">48'</p> | <p align="right">Buchbach <img src="/static/logos/TSV Buchbach.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FV Illertissen 1921.png" height="25px"> Illertissen</p> |
-| <p align="center">46'</p> | <p align="right">Burghausen <img src="/static/logos/SV Wacker Burghausen.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/FC Memmingen 07.png" height="25px"> Memmingen</p> |
-| <p align="center">52'</p> | <p align="right">Schweinfurt <img src="/static/logos/1. FC Schweinfurt 1905.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SpVgg Ansbach 09.png" height="25px"> Ansbach</p> |
-| <p align="center">50'</p> | <p align="right">Türkgücü <img src="/static/logos/SV Türkgücü München.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deutsche Jugend Kraft Vilzing.png" height="25px"> Vilzing</p> |
+| <p align="center">FT</p> | <p align="right">Würzburg <img src="/static/logos/FC Würzburger Kickers.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/SV Schalding-Heining.png" height="25px"> Schalding</p> |
+| <p align="center">FT</p> | <p align="right">Aschaffenburg <img src="/static/logos/SV Viktoria Aschaffenburg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/TSV Aubstadt.png" height="25px"> Aubstadt</p> |
+| <p align="center">FT</p> | <p align="right">Bamberg <img src="/static/logos/1. FC Eintracht Bamberg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Augsburg II.png" height="25px"> Augsburg II</p> |
+| <p align="center">FT</p> | <p align="right">Buchbach <img src="/static/logos/TSV Buchbach.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/FV Illertissen 1921.png" height="25px"> Illertissen</p> |
+| <p align="center">FT</p> | <p align="right">Burghausen <img src="/static/logos/SV Wacker Burghausen.png" height="25px"></p> | <p align="center">5 - 3</p> | <p align="left"><img src="/static/logos/FC Memmingen 07.png" height="25px"> Memmingen</p> |
+| <p align="center">FT</p> | <p align="right">Schweinfurt <img src="/static/logos/1. FC Schweinfurt 1905.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/SpVgg Ansbach 09.png" height="25px"> Ansbach</p> |
+| <p align="center">FT</p> | <p align="right">Türkgücü <img src="/static/logos/SV Türkgücü München.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deutsche Jugend Kraft Vilzing.png" height="25px"> Vilzing</p> |
 </div>
 
 
@@ -250,9 +250,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Albion <img src="/static/logos/Albion Rovers FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stirling University FC.png" height="25px"> Stirling Unv</p> |
-| <p align="center">18:45</p> | <p align="right">Bo'ness Utd <img src="/static/logos/Bo'ness United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Celtic FC II.png" height="25px"> Celtic</p> |
-| <p align="center">18:45</p> | <p align="right">Hearts <img src="/static/logos/Heart of Midlothian FC B.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Berwick Rangers FC.png" height="25px"> Berwick</p> |
+| <p align="center">32'</p> | <p align="right">Albion <img src="/static/logos/Albion Rovers FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Stirling University FC.png" height="25px"> Stirling Unv</p> |
+| <p align="center">32'</p> | <p align="right">Bo'ness Utd <img src="/static/logos/Bo'ness United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Celtic FC II.png" height="25px"> Celtic</p> |
+| <p align="center">34'</p> | <p align="right">Hearts <img src="/static/logos/Heart of Midlothian FC B.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Berwick Rangers FC.png" height="25px"> Berwick</p> |
 </div>
 
 
@@ -262,10 +262,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Barry Town <img src="/static/logos/Barry Town United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pontypridd United AFC.png" height="25px"> Pontypridd</p> |
-| <p align="center">18:45</p> | <p align="right">Caernarfon <img src="/static/logos/Caernarfon Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aberystwyth Town FC.png" height="25px"> Aberystwyth</p> |
-| <p align="center">18:45</p> | <p align="right">Cardiff MU <img src="/static/logos/Cardiff Metropolitan University FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newtown AFC.png" height="25px"> Newtown</p> |
-| <p align="center">18:45</p> | <p align="right">Haverfordwest <img src="/static/logos/Haverfordwest County AFC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Penybont FC.png" height="25px"> Penybont</p> |
+| <p align="center">33'</p> | <p align="right">Barry Town <img src="/static/logos/Barry Town United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Pontypridd United AFC.png" height="25px"> Pontypridd</p> |
+| <p align="center">32'</p> | <p align="right">Caernarfon <img src="/static/logos/Caernarfon Town FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aberystwyth Town FC.png" height="25px"> Aberystwyth</p> |
+| <p align="center">33'</p> | <p align="right">Cardiff MU <img src="/static/logos/Cardiff Metropolitan University FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Newtown AFC.png" height="25px"> Newtown</p> |
+| <p align="center">32'</p> | <p align="right">Haverfordwest <img src="/static/logos/Haverfordwest County AFC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Penybont FC.png" height="25px"> Penybont</p> |
 </div>
 
 
