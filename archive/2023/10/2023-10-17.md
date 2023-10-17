@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Dominican Rep <img src="/static/logos/Dominican Republic.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
-| <p align="center">HT</p> | <p align="right">Nicaragua <img src="/static/logos/Nicaragua.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Montserrat.png" height="25px"> Montserrat</p> |
+| <p align="center">49'</p> | <p align="right">Dominican Rep <img src="/static/logos/Dominican Republic.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
+| <p align="center">49'</p> | <p align="right">Nicaragua <img src="/static/logos/Nicaragua.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Montserrat.png" height="25px"> Montserrat</p> |
 | <p align="center">19:30</p> | <p align="right">Antigua <img src="/static/logos/Antigua and Barbuda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bahamas.png" height="25px"> Bahamas</p> |
 | <p align="center">20:00</p> | <p align="right">Guyana <img src="/static/logos/Guyana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puerto Rico.png" height="25px"> Puerto Rico</p> |
 | <p align="center">20:30</p> | <p align="right">Cayman <img src="/static/logos/Cayman Islands.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/US Virgin Islands.png" height="25px"> USVI</p> |
@@ -31,7 +31,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">71'</p> | <p align="right">Bucaramanga <img src="/static/logos/CA Bucaramanga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"> Boyacá Chicó</p> |
+| <p align="center">88'</p> | <p align="right">Bucaramanga <img src="/static/logos/CA Bucaramanga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Boyacá Chicó FC SA.png" height="25px"> Boyacá Chicó</p> |
 </div>
 
 
