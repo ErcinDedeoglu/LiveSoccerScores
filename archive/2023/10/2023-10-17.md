@@ -55,8 +55,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Guam <img src="/static/logos/Guam.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Singapore.png" height="25px"> Singapore</p> |
 | <p align="center">FT</p> | <p align="right">Mongolia <img src="/static/logos/Mongolia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Afghanistan.png" height="25px"> Afghanistan</p> |
-| <p align="center">40'</p> | <p align="right">Pakistan <img src="/static/logos/Pakistan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cambodia.png" height="25px"> Cambodia</p> |
-| <p align="center">8'</p> | <p align="right">Sri Lanka <img src="/static/logos/Sri Lanka.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Yemen.png" height="25px"> Yemen</p> |
+| <p align="center">HT</p> | <p align="right">Pakistan <img src="/static/logos/Pakistan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cambodia.png" height="25px"> Cambodia</p> |
+| <p align="center">15'</p> | <p align="right">Sri Lanka <img src="/static/logos/Sri Lanka.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Yemen.png" height="25px"> Yemen</p> |
 | <p align="center">11:00</p> | <p align="right">Timor-Leste <img src="/static/logos/Timor-Leste.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chinese Taipei.png" height="25px"> Chinese Taipeh</p> |
 | <p align="center">11:30</p> | <p align="right">Macau <img src="/static/logos/Macau.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Myanmar.png" height="25px"> Myanmar</p> |
 | <p align="center">11:45</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maldives.png" height="25px"> Maldives</p> |
