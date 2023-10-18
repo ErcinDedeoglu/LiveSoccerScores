@@ -168,7 +168,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Finland Under 17.png" height="25px"> Finland</p> |
-| <p align="center">2'</p> | <p align="right">Ukraine <img src="/static/logos/Ukraine Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Liechtenstein Under 17.png" height="25px"> Liechtenstein</p> |
+| <p align="center">20'</p> | <p align="right">Ukraine <img src="/static/logos/Ukraine Under 17.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Liechtenstein Under 17.png" height="25px"> Liechtenstein</p> |
 </div>
 
 
@@ -236,7 +236,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Smederevo <img src="/static/logos/FK Smederevo 1924.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FK TSC Bačka Topola.png" height="25px"> TSC</p> |
-| <p align="center">81'</p> | <p align="right">Trayal <img src="/static/logos/Trayal Kruševac.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/FK Crvena Zvezda Beograd.png" height="25px"> Crvena Zvezda</p> |
+| <p align="center">FT</p> | <p align="right">Trayal <img src="/static/logos/Trayal Kruševac.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/FK Crvena Zvezda Beograd.png" height="25px"> Crvena Zvezda</p> |
 </div>
 
 
