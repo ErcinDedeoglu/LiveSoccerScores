@@ -261,38 +261,6 @@
 </div>
 
 
-## <img src="/static/logos/Thailand-Thai League 3 Cup.png" height="25px"> Thailand - Thai League 3 Cup
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:00</p> | <p align="right">ACDC <img src="/static/logos/Air and Coastal Defense Command FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pluak Daeng United FC.png" height="25px"> Pluak Daeng</p> |
-| <p align="center">08:00</p> | <p align="right">Hua Hin <img src="/static/logos/Hua Hin City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thap Luang United FC.png" height="25px"> Thap Luang Utd</p> |
-| <p align="center">08:00</p> | <p align="right">Huai Thalaeng <img src="/static/logos/Nakhon Ratchasima Huai Thalaeng United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Udon United FC.png" height="25px"> Udon United</p> |
-| <p align="center">08:00</p> | <p align="right">Inter Bangkok <img src="/static/logos/AUU Inter Bangkok FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/The Icon RSU.png" height="25px"> Icon RSU</p> |
-| <p align="center">08:00</p> | <p align="right">Kabinburi <img src="/static/logos/Saimit Kabin United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Prachinburi City FC.png" height="25px"> Prachinburi C</p> |
-| <p align="center">08:00</p> | <p align="right">Kamphaeng <img src="/static/logos/Kamphaeng Phet FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Phitsanulok FC 2015.png" height="25px"> Phitsanulok</p> |
-| <p align="center">08:00</p> | <p align="right">Kasem Bundit <img src="/static/logos/Kasem Bundit University FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Samut Sakhon City FC.png" height="25px"> Samut Sakhon</p> |
-| <p align="center">08:00</p> | <p align="right">Khelang United <img src="/static/logos/Khelang United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kong Krailas United.png" height="25px"> Kong Krailas</p> |
-| <p align="center">08:00</p> | <p align="right">Khonkaen Mord. <img src="/static/logos/Khonkaen Mordindang FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Surin City FC.png" height="25px"> Surin City</p> |
-| <p align="center">08:00</p> | <p align="right">Muangnont <img src="/static/logos/Muangnont Bankunmae FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Samut Prakan FC.png" height="25px"> Samut Prakan</p> |
-| <p align="center">08:00</p> | <p align="right">Navy <img src="/static/logos/Siam Navy Club FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cha Choeng Sao Hi-Tek FC.png" height="25px"> Cha Choeng Sao</p> |
-| <p align="center">08:00</p> | <p align="right">PT University <img src="/static/logos/Pathum Thani University.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ang Thong FC.png" height="25px"> Ang Thong</p> |
-| <p align="center">08:00</p> | <p align="right">Pattaya City <img src="/static/logos/BFB Pattaya City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bankhai United FC.png" height="25px"> Bankhai United</p> |
-| <p align="center">08:00</p> | <p align="right">Prime <img src="/static/logos/Prime Bangkok.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bangkok FC.png" height="25px"> Bangkok</p> |
-| <p align="center">08:00</p> | <p align="right">See Khwae City <img src="/static/logos/Nakhon Sawan See Khwae City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northern Nakhon Mae Sot United FC.png" height="25px"> Nakhon Mae Sot</p> |
-| <p align="center">08:00</p> | <p align="right">Suranaree <img src="/static/logos/Suranaree Black Cat FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mahasarakham Sam Bai Tao FC.png" height="25px"> Mahasarakham</p> |
-| <p align="center">08:00</p> | <p align="right">Surat City <img src="/static/logos/Wiang Sa Surat Thani City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pattani FC.png" height="25px"> Pattani</p> |
-| <p align="center">08:00</p> | <p align="right">Thonburi Utd <img src="/static/logos/Thonburi United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chamchuri United FC.png" height="25px"> Chamchuri</p> |
-| <p align="center">09:00</p> | <p align="right">Lopburi City <img src="/static/logos/Lopburi City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kanchanaburi City Football Club.png" height="25px"> Kanchanaburi</p> |
-| <p align="center">09:00</p> | <p align="right">Nakhonsi <img src="/static/logos/MH Nakhonsi City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PT Satun FC.png" height="25px"> Satun</p> |
-| <p align="center">10:00</p> | <p align="right">Ubon KA <img src="/static/logos/Ubon Kruan Apat FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Khonkaen FC.png" height="25px"> Khonkaen</p> |
-| <p align="center">11:00</p> | <p align="right">Muang Loei Utd <img src="/static/logos/Muang Loei United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sisaket United FC.png" height="25px"> Sisaket Utd</p> |
-| <p align="center">11:00</p> | <p align="right">Phattalung <img src="/static/logos/Phattalung FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Muang Trang United.png" height="25px"> Muang Trang</p> |
-</div>
-
-
 ## <img src="/static/logos/Turkey-2. Lig.png" height="25px"> Turkey - 2. Lig
 
 <div align="center">
