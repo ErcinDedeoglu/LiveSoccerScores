@@ -77,7 +77,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Partizani <img src="/static/logos/KF Partizani Tirana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Tirana.png" height="25px"> Tirana</p> |
+| <p align="center">45' 1'</p> | <p align="right">Partizani <img src="/static/logos/KF Partizani Tirana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Tirana.png" height="25px"> Tirana</p> |
 </div>
 
 
@@ -139,7 +139,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Vendsyssel <img src="/static/logos/Vendsyssel FF.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AC Horsens.png" height="25px"> Horsens</p> |
+| <p align="center">45' 2'</p> | <p align="right">Vendsyssel <img src="/static/logos/Vendsyssel FF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AC Horsens.png" height="25px"> Horsens</p> |
 </div>
 
 
@@ -159,7 +159,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Hansa II <img src="/static/logos/FC Hansa Rostock II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Greifswalder FC.png" height="25px"> Greifswald</p> |
+| <p align="center">45' 1'</p> | <p align="right">Hansa II <img src="/static/logos/FC Hansa Rostock II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Greifswalder FC.png" height="25px"> Greifswald</p> |
 </div>
 
 
@@ -200,7 +200,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Iaşi <img src="/static/logos/ACSM Politehnica Iași.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"> Sepsi</p> |
+| <p align="center">44'</p> | <p align="right">Iaşi <img src="/static/logos/ACSM Politehnica Iași.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"> Sepsi</p> |
 </div>
 
 
@@ -232,7 +232,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Racing <img src="/static/logos/Racing Club de Montevideo.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CA Fénix.png" height="25px"> Fénix</p> |
-| <p align="center">7'</p> | <p align="right">Maldonado <img src="/static/logos/CD Maldonado.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA River Plate.png" height="25px"> River Plate</p> |
+| <p align="center">15'</p> | <p align="right">Maldonado <img src="/static/logos/CD Maldonado.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA River Plate.png" height="25px"> River Plate</p> |
 | <p align="center">20:00</p> | <p align="right">Cerro <img src="/static/logos/Club Atlético Cerro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Danubio Fútbol Club.png" height="25px"> Danubio</p> |
 | <p align="center">23:15</p> | <p align="right">Boston River <img src="/static/logos/CA Boston River.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Nacional de Football Montevideo.png" height="25px"> Nacional</p> |
 </div>
