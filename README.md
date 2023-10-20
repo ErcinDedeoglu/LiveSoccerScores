@@ -90,7 +90,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Adelaide Utd <img src="/static/logos/Adelaide United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC.png" height="25px"> Central Coast</p> |
+| <p align="center">50'</p> | <p align="right">Adelaide Utd <img src="/static/logos/Adelaide United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners FC.png" height="25px"> Central Coast</p> |
 </div>
 
 
@@ -455,8 +455,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Bali United <img src="/static/logos/Bali United FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"> Persebaya</p> |
-| <p align="center">90'</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/PSIS Semarang.png" height="25px"> PSIS</p> |
+| <p align="center">FT</p> | <p align="right">Bali United <img src="/static/logos/Bali United FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"> Persebaya</p> |
+| <p align="center">FT</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/PSIS Semarang.png" height="25px"> PSIS</p> |
 | <p align="center">12:00</p> | <p align="right">PSM <img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arema FC.png" height="25px"> Arema</p> |
 </div>
 
@@ -816,7 +816,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:00</p> | <p align="right">Kremin' <img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Hirnyk-Sport Horishni Plavni.png" height="25px"> Hirnyk-Sport</p> |
+| <p align="center">20'</p> | <p align="right">Kremin' <img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Hirnyk-Sport Horishni Plavni.png" height="25px"> Hirnyk-Sport</p> |
 | <p align="center">10:30</p> | <p align="right">Epitsentr <img src="/static/logos/FK Epitsentr Dunayivtsi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Podillya Khmelnytskyi.png" height="25px"> Podillya Khm.</p> |
 </div>
 
