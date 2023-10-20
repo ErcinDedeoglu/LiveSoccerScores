@@ -48,8 +48,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sarmiento <img src="/static/logos/CA Sarmiento.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Racing Club de Avellaneda.png" height="25px"> Racing Club</p> |
 | <p align="center">FT</p> | <p align="right">Tigre <img src="/static/logos/CA Tigre.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Newell's Old Boys.png" height="25px"> NOB</p> |
-| <p align="center">67'</p> | <p align="right">Huracán <img src="/static/logos/CA Huracán.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Instituto AC Córdoba.png" height="25px"> Instituto</p> |
-| <p align="center">68'</p> | <p align="right">Talleres <img src="/static/logos/CA Talleres de Córdoba.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Arsenal de Sarandí.png" height="25px"> Arsenal</p> |
+| <p align="center">90'</p> | <p align="right">Huracán <img src="/static/logos/CA Huracán.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Instituto AC Córdoba.png" height="25px"> Instituto</p> |
+| <p align="center">90'</p> | <p align="right">Talleres <img src="/static/logos/CA Talleres de Córdoba.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Arsenal de Sarandí.png" height="25px"> Arsenal</p> |
 </div>
 
 
@@ -80,7 +80,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Envigado <img src="/static/logos/Envigado FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Asociación Deportivo Cali.png" height="25px"> Cali</p> |
-| <p align="center">19'</p> | <p align="right">Jaguares <img src="/static/logos/Jaguares de Córdoba FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AD Pasto.png" height="25px"> Pasto</p> |
+| <p align="center">42'</p> | <p align="right">Jaguares <img src="/static/logos/Jaguares de Córdoba FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AD Pasto.png" height="25px"> Pasto</p> |
 </div>
 
 
@@ -222,7 +222,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Santa Cruz <img src="/static/logos/Club Real Santa Cruz.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Vaca Díez de Pando.png" height="25px"> Vaca Díez</p> |
-| <p align="center">33'</p> | <p align="right">The Strongest <img src="/static/logos/Club The Strongest.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Blooming.png" height="25px"> Blooming</p> |
+| <p align="center">HT</p> | <p align="right">The Strongest <img src="/static/logos/Club The Strongest.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Blooming.png" height="25px"> Blooming</p> |
 </div>
 
 
@@ -232,7 +232,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Sampaio Corrêa <img src="/static/logos/Sampaio Corrêa FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/EC Vitória.png" height="25px"> Vitória</p> |
+| <p align="center">FT</p> | <p align="right">Sampaio Corrêa <img src="/static/logos/Sampaio Corrêa FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/EC Vitória.png" height="25px"> Vitória</p> |
 </div>
 
 
@@ -445,7 +445,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">25'</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Antigua Guatemala FC.png" height="25px"> Antigua</p> |
+| <p align="center">HT</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Antigua Guatemala FC.png" height="25px"> Antigua</p> |
 </div>
 
 
@@ -575,7 +575,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Libertad <img src="/static/logos/Club Libertad.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sportivo Ameliano.png" height="25px"> Sportivo Amel.</p> |
+| <p align="center">67'</p> | <p align="right">Libertad <img src="/static/logos/Club Libertad.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Sportivo Ameliano.png" height="25px"> Sportivo Amel.</p> |
 </div>
 
 
@@ -836,7 +836,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:30</p> | <p align="right">Independence <img src="/static/logos/Charlotte Independence.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Greenville Triumph SC.png" height="25px"> Greenville</p> |
+| <p align="center">17'</p> | <p align="right">Independence <img src="/static/logos/Charlotte Independence.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Greenville Triumph SC.png" height="25px"> Greenville</p> |
 </div>
 
 
