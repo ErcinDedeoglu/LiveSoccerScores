@@ -88,7 +88,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">AGMK <img src="/static/logos/FK AGMK.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"> Sepahan</p> |
+| <p align="center">59'</p> | <p align="right">AGMK <img src="/static/logos/FK AGMK.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"> Sepahan</p> |
 | <p align="center">16:00</p> | <p align="right">Ittihad <img src="/static/logos/Al Ittihad FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Quwa Al Jawiya.png" height="25px"> Quwa</p> |
 | <p align="center">16:00</p> | <p align="right">Navbahor <img src="/static/logos/FK Navbahor Namangan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran.png" height="25px"> Nassaji</p> |
 | <p align="center">16:00</p> | <p align="right">Sharjah <img src="/static/logos/Sharjah FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Nasaf Qarshi.png" height="25px"> Nasaf</p> |
@@ -114,7 +114,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"> Egnatia</p> |
-| <p align="center">10'</p> | <p align="right">Erzeni <img src="/static/logos/KF Erzeni Shijak.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Partizani Tirana.png" height="25px"> Partizani</p> |
+| <p align="center">20'</p> | <p align="right">Erzeni <img src="/static/logos/KF Erzeni Shijak.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KF Partizani Tirana.png" height="25px"> Partizani</p> |
 </div>
 
 
@@ -239,7 +239,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Hyderabad <img src="/static/logos/Hyderabad FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin</p> |
+| <p align="center">45' 2'</p> | <p align="right">Hyderabad <img src="/static/logos/Hyderabad FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin</p> |
 </div>
 
 
@@ -295,7 +295,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Aalesund II <img src="/static/logos/Aalesunds FK II.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Ørn Horten FK.png" height="25px"> Ørn Horten</p> |
+| <p align="center">66'</p> | <p align="right">Aalesund II <img src="/static/logos/Aalesunds FK II.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Ørn Horten FK.png" height="25px"> Ørn Horten</p> |
 | <p align="center">17:00</p> | <p align="right">Vålerenga II <img src="/static/logos/Vålerenga Fotball II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kjelsås Fotball.png" height="25px"> Kjelsås</p> |
 | <p align="center">17:00</p> | <p align="right">Godset II <img src="/static/logos/Strømsgodset IF II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kvik Halden FK.png" height="25px"> Kvik</p> |
 </div>
@@ -359,7 +359,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10'</p> | <p align="right">Sepsi <img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Botoșani.png" height="25px"> Botoșani</p> |
+| <p align="center">21'</p> | <p align="right">Sepsi <img src="/static/logos/Sepsi OSK Sfântu Gheorghe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Botoșani.png" height="25px"> Botoșani</p> |
 | <p align="center">18:00</p> | <p align="right">CFR <img src="/static/logos/SCS CFR 1907 Cluj.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ASC Oțelul Galați.png" height="25px"> Oţelul</p> |
 </div>
 
