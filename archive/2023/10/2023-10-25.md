@@ -237,13 +237,13 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">11:00</p> | <p align="right">Başakşehir <img src="/static/logos/İstanbul Başakşehir Futbol Kulübü Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/GNK Dinamo Zagreb Under 19.png" height="25px"> Dinamo</p> |
-| <p align="center">12:00</p> | <p align="right">Midtjylland <img src="/static/logos/FC Midtjylland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Famalicão Under 19.png" height="25px"> Famalicão</p> |
 | <p align="center">12:00</p> | <p align="right">Sheriff <img src="/static/logos/FK Sheriff Tiraspol Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Turan Turkistan Under 19.png" height="25px"> Turan</p> |
 | <p align="center">12:00</p> | <p align="right">Antwerp <img src="/static/logos/Royal Antwerp FC Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Porto Under 19.png" height="25px"> Porto</p> |
 | <p align="center">12:00</p> | <p align="right">Barcelona <img src="/static/logos/FC Barcelona U19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Shakhtar Donetsk Under 19.png" height="25px"> Shakhtar</p> |
 | <p align="center">12:00</p> | <p align="right">Feyenoord <img src="/static/logos/Feyenoord Rotterdam Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SS Lazio Under 19.png" height="25px"> Lazio</p> |
 | <p align="center">12:00</p> | <p align="right">PSG <img src="/static/logos/Paris Saint Germain FC Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AC Milan U19.png" height="25px"> Milan</p> |
 | <p align="center">12:30</p> | <p align="right">Young Boys <img src="/static/logos/BSC Young Boys Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manchester City FC Under 19.png" height="25px"> Man City</p> |
+| <p align="center">13:00</p> | <p align="right">Midtjylland <img src="/static/logos/FC Midtjylland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Famalicão Under 19.png" height="25px"> Famalicão</p> |
 | <p align="center">13:00</p> | <p align="right">Celtic <img src="/static/logos/Celtic FC Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético de Madrid U19.png" height="25px"> Atl. Madrid</p> |
 | <p align="center">13:30</p> | <p align="right">RB Leipzig <img src="/static/logos/Rasen Ballsport Leipzig Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Crvena Zvezda Beograd Under 19.png" height="25px"> C. Zvezda</p> |
 | <p align="center">14:00</p> | <p align="right">M Haifa <img src="/static/logos/Maccabi Haifa Samuel Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AC Sparta Praha Under 19.png" height="25px"> Sparta</p> |
@@ -390,7 +390,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Cartaginés <img src="/static/logos/CS Cartaginés.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CSD Comunicaciones.png" height="25px"> Comunicaciones</p> |
+| <p align="center">FT</p> | <p align="right">Cartaginés <img src="/static/logos/CS Cartaginés.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CSD Comunicaciones.png" height="25px"> Comunicaciones</p> |
 </div>
 
 
@@ -430,7 +430,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Beluša <img src="/static/logos/TJ Kovo Beluša.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/MFK Skalica.png" height="25px"> Skalica</p> |
+| <p align="center">12:30</p> | <p align="right">Beluša <img src="/static/logos/TJ Kovo Beluša.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MFK Skalica.png" height="25px"> Skalica</p> |
 | <p align="center">12:30</p> | <p align="right">Brvnište <img src="/static/logos/TJ Slovan Brvnište.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Spišská Nová Ves.png" height="25px"> Spišská</p> |
 | <p align="center">12:30</p> | <p align="right">Fomat <img src="/static/logos/MŠK Fomat Martin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KFC Komárno.png" height="25px"> Komárno</p> |
 | <p align="center">12:30</p> | <p align="right">Javorník Makov <img src="/static/logos/ŠK Javorník Makov.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ŠK Odeva Lipany.png" height="25px"> Lipany</p> |
