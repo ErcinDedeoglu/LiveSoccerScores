@@ -158,7 +158,7 @@
 | <p align="center">FT</p> | <p align="right">CPK <img src="/static/logos/MUST Chao Pak Kei.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Ulaanbaatar.png" height="25px"> Ulaanbaatar</p> |
 | <p align="center">FT</p> | <p align="right">Crown <img src="/static/logos/Phnom Penh Crown FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur</p> |
 | <p align="center">FT</p> | <p align="right">Cebu <img src="/static/logos/Dynamic Herb Cebu FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Shan United FC.png" height="25px"> Shan United</p> |
-| <p align="center">3'</p> | <p align="right">Ravshan <img src="/static/logos/FK Ravshan Kulob.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Abdysh-Ata Kant.png" height="25px"> Abdysh</p> |
+| <p align="center">31'</p> | <p align="right">Ravshan <img src="/static/logos/FK Ravshan Kulob.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Abdysh-Ata Kant.png" height="25px"> Abdysh</p> |
 | <p align="center">16:00</p> | <p align="right">Merw <img src="/static/logos/Merw Mary FT.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Altyn Asyr FK.png" height="25px"> Altyn</p> |
 </div>
 
