@@ -172,9 +172,9 @@
 | <p align="center">FT</p> | <p align="right">Korea Republic <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">10 - 1</p> | <p align="left"><img src="/static/logos/Thailand.png" height="25px"> Thailand</p> |
 | <p align="center">FT</p> | <p align="right">Chinese Taipei <img src="/static/logos/Chinese Taipei.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Philippines.png" height="25px"> Philippines</p> |
 | <p align="center">FT</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">7 - 0</p> | <p align="left"><img src="/static/logos/India.png" height="25px"> India</p> |
-| <p align="center">89'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/IR Iran.png" height="25px"> Iran</p> |
-| <p align="center">56'</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
-| <p align="center">45' 5'</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
+| <p align="center">90' 8'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/IR Iran.png" height="25px"> Iran</p> |
+| <p align="center">65'</p> | <p align="right">China PR <img src="/static/logos/China PR.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
+| <p align="center">HT</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
 </div>
 
 
