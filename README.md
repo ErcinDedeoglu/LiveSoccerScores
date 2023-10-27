@@ -129,7 +129,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:45</p> | <p align="right">Brisbane <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney</p> |
+| <p align="center">16'</p> | <p align="right">Brisbane <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney</p> |
 </div>
 
 
@@ -477,7 +477,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Persik <img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"> Persebaya</p> |
+| <p align="center">HT</p> | <p align="right">Persik <img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Surabaya.png" height="25px"> Persebaya</p> |
 | <p align="center">12:00</p> | <p align="right">Barito <img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
 </div>
 
