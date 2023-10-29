@@ -93,9 +93,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
-| <p align="center">62'</p> | <p align="right">Chivas <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"> Tigres</p> |
-| <p align="center">03:10</p> | <p align="right">Monterrey <img src="/static/logos/CF Monterrey.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
+| <p align="center">FT</p> | <p align="right">Pachuca <img src="/static/logos/CF Pachuca.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
+| <p align="center">FT</p> | <p align="right">Chivas <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"> Tigres</p> |
+| <p align="center">17'</p> | <p align="right">Monterrey <img src="/static/logos/CF Monterrey.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
 | <p align="center">18:00</p> | <p align="right">Toluca <img src="/static/logos/Deportivo Toluca FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético de San Luis.png" height="25px"> San Luis</p> |
 </div>
 
@@ -228,7 +228,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Venados FC Yucatán.png" height="25px"> Venados FC</p> |
+| <p align="center">FT</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Venados FC Yucatán.png" height="25px"> Venados FC</p> |
 | <p align="center">23:00</p> | <p align="right">Leones Negros <img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tlaxcala FC.png" height="25px"> Tlaxcala</p> |
 </div>
 
@@ -239,7 +239,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Motagua <img src="/static/logos/CD Motagua.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Real CD España.png" height="25px"> Real España</p> |
+| <p align="center">FT</p> | <p align="right">Motagua <img src="/static/logos/CD Motagua.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Real CD España.png" height="25px"> Real España</p> |
 | <p align="center">21:00</p> | <p align="right">Marathón <img src="/static/logos/CD Marathón.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Real Sociedad.png" height="25px"> Real Sociedad</p> |
 | <p align="center">23:00</p> | <p align="right">Génesis <img src="/static/logos/Club Deportivo Génesis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olancho FC.png" height="25px"> Olancho</p> |
 </div>
@@ -444,7 +444,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Alajuelense <img src="/static/logos/LD Alajuelense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CS Herediano.png" height="25px"> Herediano</p> |
+| <p align="center">72'</p> | <p align="right">Alajuelense <img src="/static/logos/LD Alajuelense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CS Herediano.png" height="25px"> Herediano</p> |
 | <p align="center">22:00</p> | <p align="right">Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD San Carlos.png" height="25px"> San Carlos</p> |
 </div>
 
@@ -546,8 +546,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">FAS <img src="/static/logos/CD FAS.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Santa Tecla FC.png" height="25px"> Santa Tecla</p> |
-| <p align="center">76'</p> | <p align="right">Isidro <img src="/static/logos/AD Isidro Metapán.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/11 Deportivo FC.png" height="25px"> Once Deportivo</p> |
+| <p align="center">FT</p> | <p align="right">FAS <img src="/static/logos/CD FAS.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Santa Tecla FC.png" height="25px"> Santa Tecla</p> |
+| <p align="center">FT</p> | <p align="right">Isidro <img src="/static/logos/AD Isidro Metapán.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/11 Deportivo FC.png" height="25px"> Once Deportivo</p> |
 | <p align="center">21:00</p> | <p align="right">Águila <img src="/static/logos/CD Águila.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Municipal Limeño.png" height="25px"> Limeño</p> |
 | <p align="center">21:15</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Dragón.png" height="25px"> Dragón</p> |
 | <p align="center">21:15</p> | <p align="right">Firpo <img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Fuerte San Francisco.png" height="25px"> Fuerte</p> |
@@ -650,7 +650,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">Guastatoya <img src="/static/logos/Deportivo Guastatoya.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Malacateco-Coatepeque.png" height="25px"> Malacateco</p> |
+| <p align="center">70'</p> | <p align="right">Guastatoya <img src="/static/logos/Deportivo Guastatoya.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CD Malacateco-Coatepeque.png" height="25px"> Malacateco</p> |
 | <p align="center">17:00</p> | <p align="right">Zacapa <img src="/static/logos/CSD Zacapa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Xinabajul.png" height="25px"> Xinabajul</p> |
 | <p align="center">21:00</p> | <p align="right">Achuapa <img src="/static/logos/Deportivo Achuapa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coatepeque FC.png" height="25px"> Coatepeque</p> |
 </div>
@@ -1237,7 +1237,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Phoenix Rising FC.png" height="25px"> Phoenix Rising</p> |
+| <p align="center">70'</p> | <p align="right">Orange County <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Phoenix Rising FC.png" height="25px"> Phoenix Rising</p> |
 </div>
 
 
