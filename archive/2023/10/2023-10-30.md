@@ -270,7 +270,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:00</p> | <p align="right">RANS <img src="/static/logos/RANS Nusantara FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"> PSM</p> |
+| <p align="center">24'</p> | <p align="right">RANS <img src="/static/logos/RANS Nusantara FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"> PSM</p> |
 | <p align="center">12:00</p> | <p align="right">Bali United <img src="/static/logos/Bali United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Sepak Bola Indonesia Tangerang.png" height="25px"> Persita</p> |
 </div>
 
