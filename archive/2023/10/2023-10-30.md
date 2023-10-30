@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cincinnati <img src="/static/logos/FC Cincinnati.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/New York Red Bulls.png" height="25px"> New York</p> |
-| <p align="center">75'</p> | <p align="right">St. Louis <img src="/static/logos/St. Louis City SC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting KC</p> |
+| <p align="center">85'</p> | <p align="right">St. Louis <img src="/static/logos/St. Louis City SC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting KC</p> |
 | <p align="center">23:00</p> | <p align="right">Orlando <img src="/static/logos/Orlando City SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nashville SC.png" height="25px"> Nashville</p> |
 </div>
 
