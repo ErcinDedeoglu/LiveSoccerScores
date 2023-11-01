@@ -26,8 +26,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">41'</p> | <p align="right">Querétaro <img src="/static/logos/Querétaro FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> Chivas</p> |
-| <p align="center">41'</p> | <p align="right">Toluca <img src="/static/logos/Deportivo Toluca FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
+| <p align="center">56'</p> | <p align="right">Querétaro <img src="/static/logos/Querétaro FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> Chivas</p> |
+| <p align="center">58'</p> | <p align="right">Toluca <img src="/static/logos/Deportivo Toluca FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
 | <p align="center">03:10</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"> Pumas</p> |
 | <p align="center">03:10</p> | <p align="right">Monterrey <img src="/static/logos/CF Monterrey.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Necaxa.png" height="25px"> Necaxa</p> |
 </div>
@@ -53,7 +53,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">80'</p> | <p align="right">Córdoba SdE <img src="/static/logos/CA Central Córdoba de Santiago del Estero.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CA Unión de Santa Fe.png" height="25px"> Unión</p> |
+| <p align="center">FT</p> | <p align="right">Córdoba SdE <img src="/static/logos/CA Central Córdoba de Santiago del Estero.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CA Unión de Santa Fe.png" height="25px"> Unión</p> |
 | <p align="center">23:00</p> | <p align="right">Def y Justicia <img src="/static/logos/CSD Defensa y Justicia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Racing Club de Avellaneda.png" height="25px"> Racing Club</p> |
 </div>
 
@@ -243,7 +243,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Blooming <img src="/static/logos/Club Blooming.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CA Nacional Potosí.png" height="25px"> Nacional</p> |
+| <p align="center">FT</p> | <p align="right">Blooming <img src="/static/logos/Club Blooming.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CA Nacional Potosí.png" height="25px"> Nacional</p> |
 | <p align="center">19:00</p> | <p align="right">Palmaflor <img src="/static/logos/Club Atlético Palmaflor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CDSC Guabirá.png" height="25px"> Guabirá</p> |
 | <p align="center">23:00</p> | <p align="right">The Strongest <img src="/static/logos/Club The Strongest.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Real Santa Cruz.png" height="25px"> Santa Cruz</p> |
 </div>
@@ -287,7 +287,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:40</p> | <p align="right">Llaneros <img src="/static/logos/Club Llaneros SA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlético FC.png" height="25px"> Atlético</p> |
+| <p align="center">45' 51'</p> | <p align="right">Llaneros <img src="/static/logos/Club Llaneros SA.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Atlético FC.png" height="25px"> Atlético</p> |
 </div>
 
 
@@ -419,7 +419,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">02:15</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CS Cartaginés.png" height="25px"> Cartaginés</p> |
+| <p align="center">2'</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CS Cartaginés.png" height="25px"> Cartaginés</p> |
 </div>
 
 
