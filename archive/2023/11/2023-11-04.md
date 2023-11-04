@@ -93,7 +93,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">34'</p> | <p align="right">Puebla <img src="/static/logos/Puebla FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club León.png" height="25px"> León</p> |
+| <p align="center">41'</p> | <p align="right">Puebla <img src="/static/logos/Puebla FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club León.png" height="25px"> León</p> |
 | <p align="center">22:55</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético de San Luis.png" height="25px"> San Luis</p> |
 </div>
 
@@ -349,7 +349,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Wellington <img src="/static/logos/Wellington Phoenix FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Roar</p> |
+| <p align="center">FT</p> | <p align="right">Wellington <img src="/static/logos/Wellington Phoenix FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Roar</p> |
 | <p align="center">05:00</p> | <p align="right">Canberra <img src="/static/logos/Canberra United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth Glory</p> |
 | <p align="center">06:00</p> | <p align="right">Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide</p> |
 </div>
