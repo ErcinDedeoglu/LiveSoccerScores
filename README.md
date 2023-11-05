@@ -516,8 +516,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:15</p> | <p align="right">Sigma II <img src="/static/logos/SK Sigma Olomouc II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MFK Chrudim.png" height="25px"> Chrudim</p> |
-| <p align="center">09:15</p> | <p align="right">Žižkov <img src="/static/logos/FK Viktoria Žižkov.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Vysočina Jihlava.png" height="25px"> Vysočina</p> |
+| <p align="center">4'</p> | <p align="right">Sigma II <img src="/static/logos/SK Sigma Olomouc II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MFK Chrudim.png" height="25px"> Chrudim</p> |
+| <p align="center">3'</p> | <p align="right">Žižkov <img src="/static/logos/FK Viktoria Žižkov.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Vysočina Jihlava.png" height="25px"> Vysočina</p> |
 | <p align="center">13:00</p> | <p align="right">Dukla <img src="/static/logos/FK Dukla Praha.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK SILON Táborsko.png" height="25px"> Táborsko</p> |
 </div>
 
@@ -759,7 +759,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Hong Kong Rangers FC.png" height="25px"> BC Rangers</p> |
+| <p align="center">45' 4'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Hong Kong Rangers FC.png" height="25px"> BC Rangers</p> |
 </div>
 
 
