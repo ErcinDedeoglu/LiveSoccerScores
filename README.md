@@ -322,7 +322,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Western United <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City</p> |
-| <p align="center">81'</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Wanderers</p> |
+| <p align="center">90' 6'</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Wanderers</p> |
 </div>
 
 
@@ -759,7 +759,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:30</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hong Kong Rangers FC.png" height="25px"> BC Rangers</p> |
+| <p align="center">15'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hong Kong Rangers FC.png" height="25px"> BC Rangers</p> |
 </div>
 
 
