@@ -157,7 +157,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">CRB <img src="/static/logos/Clube de Regatas Brasil.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense</p> |
+| <p align="center">62'</p> | <p align="right">CRB <img src="/static/logos/Clube de Regatas Brasil.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense</p> |
 </div>
 
 
