@@ -98,8 +98,8 @@
 | <p align="center">FT</p> | <p align="right">Shandong <img src="/static/logos/Shandong Taishan FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Incheon United FC.png" height="25px"> Incheon Utd</p> |
 | <p align="center">FT</p> | <p align="right">Darul Ta'zim <img src="/static/logos/Johor Darul Ta'zim FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ulsan Hyundai FC.png" height="25px"> Ulsan</p> |
 | <p align="center">FT</p> | <p align="right">Kaya <img src="/static/logos/Kaya FC Iloilo.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Yokohama F. Marinos.png" height="25px"> F Marinos</p> |
-| <p align="center">65'</p> | <p align="right">Ahal <img src="/static/logos/Ahal FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Pakhtakor Tashkent.png" height="25px"> Pakhtakor</p> |
-| <p align="center">62'</p> | <p align="right">Istiklol <img src="/static/logos/FC Istiklol Dushanbe.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Persepolis FC.png" height="25px"> Persepolis</p> |
+| <p align="center">88'</p> | <p align="right">Ahal <img src="/static/logos/Ahal FK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Pakhtakor Tashkent.png" height="25px"> Pakhtakor</p> |
+| <p align="center">86'</p> | <p align="right">Istiklol <img src="/static/logos/FC Istiklol Dushanbe.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Persepolis FC.png" height="25px"> Persepolis</p> |
 | <p align="center">16:00</p> | <p align="right">Fayha <img src="/static/logos/Al Fayha.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ain FC.png" height="25px"> Al Ain</p> |
 | <p align="center">18:00</p> | <p align="right">Al Duhail <img src="/static/logos/Al Duhail SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Nassr</p> |
 </div>
@@ -122,7 +122,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Van <img src="/static/logos/FK Van.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/FK West Armenia.png" height="25px"> West Armenia</p> |
-| <p align="center">62'</p> | <p align="right">Noah <img src="/static/logos/FC Noah.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ararat-Armenia FC.png" height="25px"> Ararat-Armenia</p> |
+| <p align="center">85'</p> | <p align="right">Noah <img src="/static/logos/FC Noah.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ararat-Armenia FC.png" height="25px"> Ararat-Armenia</p> |
 </div>
 
 
@@ -133,7 +133,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Maziya <img src="/static/logos/Maziya S&RC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Odisha FC.png" height="25px"> Odisha</p> |
-| <p align="center">64'</p> | <p align="right">Kings <img src="/static/logos/Bashundhara Kings.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"> Mohun Bagan</p> |
+| <p align="center">87'</p> | <p align="right">Kings <img src="/static/logos/Bashundhara Kings.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"> Mohun Bagan</p> |
 | <p align="center">16:00</p> | <p align="right">Kahrabaa <img src="/static/logos/Al Kahrabaa Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Wehdat SC.png" height="25px"> Wehdat</p> |
 | <p align="center">16:00</p> | <p align="right">Kuwait <img src="/static/logos/Kuwait SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ittihad Al Ahli Aleppo SC.png" height="25px"> Al Ittihad</p> |
 </div>
@@ -168,7 +168,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cherno more <img src="/static/logos/PFK Cherno more Varna.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Arda 1924 Kardzhali.png" height="25px"> Arda</p> |
-| <p align="center">15:30</p> | <p align="right">CSKA 1948 <img src="/static/logos/FK CSKA 1948 Sofia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PFK Levski Sofia.png" height="25px"> Levski</p> |
+| <p align="center">10'</p> | <p align="right">CSKA 1948 <img src="/static/logos/FK CSKA 1948 Sofia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PFK Levski Sofia.png" height="25px"> Levski</p> |
 </div>
 
 
@@ -248,9 +248,9 @@
 | <p align="center">FT</p> | <p align="right">Lazio <img src="/static/logos/SS Lazio Under 19.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Feyenoord Rotterdam Under 19.png" height="25px"> Feyenoord</p> |
 | <p align="center">FT</p> | <p align="right">Man City <img src="/static/logos/Manchester City FC Under 19.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/BSC Young Boys Under 19.png" height="25px"> Young Boys</p> |
 | <p align="center">FT</p> | <p align="right">Milan <img src="/static/logos/AC Milan U19.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Paris Saint Germain FC Under 19.png" height="25px"> PSG</p> |
-| <p align="center">HT</p> | <p align="right">Porto <img src="/static/logos/FC Porto Under 19.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Royal Antwerp FC Under 19.png" height="25px"> Antwerp</p> |
-| <p align="center">20'</p> | <p align="right">Atl. Madrid <img src="/static/logos/Club Atlético de Madrid U19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Celtic FC Under 19.png" height="25px"> Celtic</p> |
-| <p align="center">20'</p> | <p align="right">C. Zvezda <img src="/static/logos/FK Crvena Zvezda Beograd Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rasen Ballsport Leipzig Under 19.png" height="25px"> RB Leipzig</p> |
+| <p align="center">57'</p> | <p align="right">Porto <img src="/static/logos/FC Porto Under 19.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Royal Antwerp FC Under 19.png" height="25px"> Antwerp</p> |
+| <p align="center">44'</p> | <p align="right">Atl. Madrid <img src="/static/logos/Club Atlético de Madrid U19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Celtic FC Under 19.png" height="25px"> Celtic</p> |
+| <p align="center">43'</p> | <p align="right">C. Zvezda <img src="/static/logos/FK Crvena Zvezda Beograd Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rasen Ballsport Leipzig Under 19.png" height="25px"> RB Leipzig</p> |
 | <p align="center">16:00</p> | <p align="right">Molde <img src="/static/logos/Molde FK Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AZ Alkmaar Under 19.png" height="25px"> AZ</p> |
 </div>
 
@@ -261,7 +261,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Punjab <img src="/static/logos/Punjab FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hyderabad FC.png" height="25px"> Hyderabad</p> |
+| <p align="center">54'</p> | <p align="right">Punjab <img src="/static/logos/Punjab FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hyderabad FC.png" height="25px"> Hyderabad</p> |
 </div>
 
 
@@ -272,7 +272,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sreenidi <img src="/static/logos/Sreenidi Deccan FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Aizawl FC.png" height="25px"> Aizawl</p> |
-| <p align="center">90'</p> | <p align="right">Mohammedan <img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"> TRAU</p> |
+| <p align="center">FT</p> | <p align="right">Mohammedan <img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"></p> | <p align="center">6 - 0</p> | <p align="left"><img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"> TRAU</p> |
 </div>
 
 
@@ -366,7 +366,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Real Oviedo <img src="/static/logos/Real Oviedo Femenino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alhama CF.png" height="25px"> Alhama</p> |
+| <p align="center">45'</p> | <p align="right">Real Oviedo <img src="/static/logos/Real Oviedo Femenino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alhama CF.png" height="25px"> Alhama</p> |
 </div>
 
 
