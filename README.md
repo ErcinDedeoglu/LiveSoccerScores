@@ -229,7 +229,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Ceramica Cleo <img src="/static/logos/Ceramica Cleopatra FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Ahly</p> |
+| <p align="center">43'</p> | <p align="right">Ceramica Cleo <img src="/static/logos/Ceramica Cleopatra FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Ahly</p> |
 </div>
 
 
@@ -313,10 +313,10 @@
 | <p align="center">FT</p> | <p align="right">Qabala <img src="/static/logos/FK Qabala Under 19.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Olympiakos CFP Under 19.png" height="25px"> Olympiakos</p> |
 | <p align="center">FT</p> | <p align="right">Sheriff <img src="/static/logos/FK Sheriff Tiraspol Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FK Partizan Beograd Under 19.png" height="25px"> Partizan U19</p> |
 | <p align="center">FT</p> | <p align="right">Sparta <img src="/static/logos/AC Sparta Praha Under 19.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/MŠK Žilina Under 19.png" height="25px"> Žilina</p> |
-| <p align="center">80'</p> | <p align="right">Rukh Vynnyky <img src="/static/logos/FC Rukh Vynnyky U19.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/FC Midtjylland Under 19.png" height="25px"> Midtjylland</p> |
-| <p align="center">81'</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal FC Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sevilla FC U19.png" height="25px"> Sevilla</p> |
-| <p align="center">76'</p> | <p align="right">PSV <img src="/static/logos/PSV Eindhoven Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Racing Club Lens Under 19.png" height="25px"> Lens</p> |
-| <p align="center">47'</p> | <p align="right">Salzburg <img src="/static/logos/FC Salzburg Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Internazionale Milano U19.png" height="25px"> Inter</p> |
+| <p align="center">87'</p> | <p align="right">Rukh Vynnyky <img src="/static/logos/FC Rukh Vynnyky U19.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/FC Midtjylland Under 19.png" height="25px"> Midtjylland</p> |
+| <p align="center">88'</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal FC Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sevilla FC U19.png" height="25px"> Sevilla</p> |
+| <p align="center">84'</p> | <p align="right">PSV <img src="/static/logos/PSV Eindhoven Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Racing Club Lens Under 19.png" height="25px"> Lens</p> |
+| <p align="center">54'</p> | <p align="right">Salzburg <img src="/static/logos/FC Salzburg Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Internazionale Milano U19.png" height="25px"> Inter</p> |
 | <p align="center">15:00</p> | <p align="right">Bayern <img src="/static/logos/FC Bayern München Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Galatasaray Spor Kulübü Under 19.png" height="25px"> Galatasaray</p> |
 | <p align="center">15:00</p> | <p align="right">København <img src="/static/logos/FC København Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manchester United FC Under 19.png" height="25px"> Man Utd</p> |
 | <p align="center">15:00</p> | <p align="right">Real Madrid <img src="/static/logos/Real Madrid CF U19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sporting Braga Under 19.png" height="25px"> Braga</p> |
@@ -395,7 +395,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Doma United <img src="/static/logos/Doma United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
+| <p align="center">43'</p> | <p align="right">Doma United <img src="/static/logos/Doma United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
 </div>
 
 
@@ -479,7 +479,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">Bizertin <img src="/static/logos/CA Bizertin.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Espérance Sportive de Tunis.png" height="25px"> Tunis</p> |
+| <p align="center">56'</p> | <p align="right">Bizertin <img src="/static/logos/CA Bizertin.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Espérance Sportive de Tunis.png" height="25px"> Tunis</p> |
 </div>
 
 
