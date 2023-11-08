@@ -308,8 +308,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Napoli <img src="/static/logos/Napoli Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/1. FC Union Berlin Under 19.png" height="25px"> Union Berlin</p> |
-| <p align="center">11:00</p> | <p align="right">Real Sociedad <img src="/static/logos/Real Sociedad de Fútbol U19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SL Benfica Under 19.png" height="25px"> Benfica</p> |
+| <p align="center">47'</p> | <p align="right">Napoli <img src="/static/logos/Napoli Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/1. FC Union Berlin Under 19.png" height="25px"> Union Berlin</p> |
+| <p align="center">2'</p> | <p align="right">Real Sociedad <img src="/static/logos/Real Sociedad de Fútbol U19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SL Benfica Under 19.png" height="25px"> Benfica</p> |
 | <p align="center">12:00</p> | <p align="right">Qabala <img src="/static/logos/FK Qabala Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympiakos CFP Under 19.png" height="25px"> Olympiakos</p> |
 | <p align="center">12:00</p> | <p align="right">Sheriff <img src="/static/logos/FK Sheriff Tiraspol Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Partizan Beograd Under 19.png" height="25px"> Partizan U19</p> |
 | <p align="center">12:00</p> | <p align="right">Sparta <img src="/static/logos/AC Sparta Praha Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MŠK Žilina Under 19.png" height="25px"> Žilina</p> |
@@ -332,7 +332,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">11:00</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kosovo Under 19.png" height="25px"> Kosovo</p> |
-| <p align="center">11:00</p> | <p align="right">Slovenia <img src="/static/logos/Slovenia Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Moldova Under 19.png" height="25px"> Moldova</p> |
+| <p align="center">2'</p> | <p align="right">Slovenia <img src="/static/logos/Slovenia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Moldova Under 19.png" height="25px"> Moldova</p> |
 </div>
 
 
