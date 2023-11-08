@@ -148,7 +148,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Shirak <img src="/static/logos/Shirak FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Ararat.png" height="25px"> Ararat</p> |
-| <p align="center">25'</p> | <p align="right">Urartu <img src="/static/logos/FC Urartu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
+| <p align="center">41'</p> | <p align="right">Urartu <img src="/static/logos/FC Urartu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alashkert FC.png" height="25px"> Alashkert</p> |
 </div>
 
 
@@ -229,7 +229,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Ceramica Cleo <img src="/static/logos/Ceramica Cleopatra FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Ahly</p> |
+| <p align="center">81'</p> | <p align="right">Ceramica Cleo <img src="/static/logos/Ceramica Cleopatra FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Ahly</p> |
 </div>
 
 
@@ -317,9 +317,9 @@
 | <p align="center">FT</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal FC Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sevilla FC U19.png" height="25px"> Sevilla</p> |
 | <p align="center">FT</p> | <p align="right">PSV <img src="/static/logos/PSV Eindhoven Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Racing Club Lens Under 19.png" height="25px"> Lens</p> |
 | <p align="center">FT</p> | <p align="right">Salzburg <img src="/static/logos/FC Salzburg Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Internazionale Milano U19.png" height="25px"> Inter</p> |
-| <p align="center">29'</p> | <p align="right">Bayern <img src="/static/logos/FC Bayern München Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Galatasaray Spor Kulübü Under 19.png" height="25px"> Galatasaray</p> |
-| <p align="center">27'</p> | <p align="right">København <img src="/static/logos/FC København Under 19.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Manchester United FC Under 19.png" height="25px"> Man Utd</p> |
-| <p align="center">29'</p> | <p align="right">Real Madrid <img src="/static/logos/Real Madrid CF U19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sporting Braga Under 19.png" height="25px"> Braga</p> |
+| <p align="center">44'</p> | <p align="right">Bayern <img src="/static/logos/FC Bayern München Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Galatasaray Spor Kulübü Under 19.png" height="25px"> Galatasaray</p> |
+| <p align="center">43'</p> | <p align="right">København <img src="/static/logos/FC København Under 19.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Manchester United FC Under 19.png" height="25px"> Man Utd</p> |
+| <p align="center">44'</p> | <p align="right">Real Madrid <img src="/static/logos/Real Madrid CF U19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sporting Braga Under 19.png" height="25px"> Braga</p> |
 | <p align="center">18:00</p> | <p align="right">Basel <img src="/static/logos/FC Basel Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/GNK Dinamo Zagreb Under 19.png" height="25px"> Dinamo</p> |
 | <p align="center">18:00</p> | <p align="right">Nantes <img src="/static/logos/FC Nantes Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/HJK Helsinki Under 19.png" height="25px"> HJK</p> |
 </div>
@@ -395,7 +395,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">61'</p> | <p align="right">Doma United <img src="/static/logos/Doma United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
+| <p align="center">77'</p> | <p align="right">Doma United <img src="/static/logos/Doma United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Ins.</p> |
 </div>
 
 
@@ -442,7 +442,7 @@
 | <p align="center">FT</p> | <p align="right">Lipany <img src="/static/logos/ŠK Odeva Lipany.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/TJ Spartak Myjava.png" height="25px"> Myjava</p> |
 | <p align="center">FT</p> | <p align="right">Lok. DNV <img src="/static/logos/FK Lokomotíva Devínska Nová Ves.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/MFK Zemplín Michalovce.png" height="25px"> Zemplín</p> |
 | <p align="center">POS</p> | <p align="right">Košice <img src="/static/logos/FC Košice.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/FC Spartak Trnava.png" height="25px"> Spartak</p> |
-| <p align="center">28'</p> | <p align="right">Skalica <img src="/static/logos/MFK Skalica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KFC Komárno.png" height="25px"> Komárno</p> |
+| <p align="center">43'</p> | <p align="right">Skalica <img src="/static/logos/MFK Skalica.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/KFC Komárno.png" height="25px"> Komárno</p> |
 </div>
 
 
