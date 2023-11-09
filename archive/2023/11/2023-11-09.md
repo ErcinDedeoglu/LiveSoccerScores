@@ -146,7 +146,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">06:00</p> | <p align="right">Ulaanbaatar <img src="/static/logos/FC Ulaanbaatar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MUST Chao Pak Kei.png" height="25px"> CPK</p> |
+| <p align="center">11'</p> | <p align="right">Ulaanbaatar <img src="/static/logos/FC Ulaanbaatar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MUST Chao Pak Kei.png" height="25px"> CPK</p> |
 | <p align="center">08:00</p> | <p align="right">Macarthur <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Phnom Penh Crown FC.png" height="25px"> Crown</p> |
 | <p align="center">08:00</p> | <p align="right">Tainan <img src="/static/logos/Tainan City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Taichung Futuro FC.png" height="25px"> Futuro</p> |
 | <p align="center">10:00</p> | <p align="right">Hougang Utd <img src="/static/logos/Hougang United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"> PSM</p> |
