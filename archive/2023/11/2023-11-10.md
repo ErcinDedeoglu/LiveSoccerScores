@@ -160,7 +160,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">West Armenia <img src="/static/logos/FK West Armenia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Banaki Kentronakan Marzakan Akumb.png" height="25px"> BKMA</p> |
+| <p align="center">FT</p> | <p align="right">West Armenia <img src="/static/logos/FK West Armenia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Banaki Kentronakan Marzakan Akumb.png" height="25px"> BKMA</p> |
 </div>
 
 
@@ -226,7 +226,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Slavia Sofia <img src="/static/logos/PFK Slavia 1913 Sofia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/POFK Botev Vratsa.png" height="25px"> Botev Vratsa</p> |
+| <p align="center">36'</p> | <p align="right">Slavia Sofia <img src="/static/logos/PFK Slavia 1913 Sofia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/POFK Botev Vratsa.png" height="25px"> Botev Vratsa</p> |
 | <p align="center">15:30</p> | <p align="right">Loko Plovdiv <img src="/static/logos/PFK Lokomotiv Plovdiv 1926.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Lokomotiv Sofia 1929.png" height="25px"> Lokomotiv Sf</p> |
 </div>
 
@@ -446,10 +446,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar FC Sirjan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Rafsanjan</p> |
-| <p align="center">27'</p> | <p align="right">Malavan <img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Esteghlal Meli-Sanati Khuzestan FC.png" height="25px"> Khuzestan</p> |
-| <p align="center">27'</p> | <p align="right">Paykan <img src="/static/logos/Paykan FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Shams Azar Qazvin.png" height="25px"> Shams Azar</p> |
-| <p align="center">13:15</p> | <p align="right">Foolad <img src="/static/logos/Foolad Khuzestan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aluminium Arak FC.png" height="25px"> Aluminium Arak</p> |
+| <p align="center">FT</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar FC Sirjan.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Rafsanjan</p> |
+| <p align="center">FT</p> | <p align="right">Malavan <img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Esteghlal Meli-Sanati Khuzestan FC.png" height="25px"> Khuzestan</p> |
+| <p align="center">FT</p> | <p align="right">Paykan <img src="/static/logos/Paykan FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Shams Azar Qazvin.png" height="25px"> Shams Azar</p> |
+| <p align="center">21'</p> | <p align="right">Foolad <img src="/static/logos/Foolad Khuzestan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aluminium Arak FC.png" height="25px"> Aluminium Arak</p> |
 </div>
 
 
@@ -654,7 +654,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Sukhothai <img src="/static/logos/Sukhothai FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Chonburi FC.png" height="25px"> Chonburi</p> |
+| <p align="center">FT</p> | <p align="right">Sukhothai <img src="/static/logos/Sukhothai FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Chonburi FC.png" height="25px"> Chonburi</p> |
 </div>
 
 
@@ -664,7 +664,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Krabi <img src="/static/logos/Krabi FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ayutthaya United FC.png" height="25px"> Ayutthaya Utd</p> |
+| <p align="center">FT</p> | <p align="right">Krabi <img src="/static/logos/Krabi FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ayutthaya United FC.png" height="25px"> Ayutthaya Utd</p> |
 </div>
 
 
@@ -694,8 +694,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:30</p> | <p align="right">Prykarpattia <img src="/static/logos/FK Prykarpattia Ivano-Frankivsk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Metalist Kharkiv.png" height="25px"> FK Metalist</p> |
-| <p align="center">12:00</p> | <p align="right">Nyva Ternopil <img src="/static/logos/FK Nyva Ternopil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Podillya Khmelnytskyi.png" height="25px"> Podillya Khm.</p> |
+| <p align="center">HT</p> | <p align="right">Nyva Ternopil <img src="/static/logos/FK Nyva Ternopil.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Podillya Khmelnytskyi.png" height="25px"> Podillya Khm.</p> |
+| <p align="center">45'</p> | <p align="right">Prykarpattia <img src="/static/logos/FK Prykarpattia Ivano-Frankivsk.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FK Metalist Kharkiv.png" height="25px"> FK Metalist</p> |
 </div>
 
 
@@ -718,8 +718,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mali <img src="/static/logos/Mali Under 17.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan Under 17.png" height="25px"> Uzbekistan</p> |
 | <p align="center">FT</p> | <p align="right">Panama <img src="/static/logos/Panama Under 17.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Morocco Under 17.png" height="25px"> Morocco</p> |
-| <p align="center">12:00</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ecuador Under 17.png" height="25px"> Ecuador</p> |
-| <p align="center">12:00</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canada Under 17.png" height="25px"> Canada</p> |
+| <p align="center">73'</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia Under 17.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ecuador Under 17.png" height="25px"> Ecuador</p> |
+| <p align="center">77'</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Canada Under 17.png" height="25px"> Canada</p> |
 </div>
 
 
