@@ -30,7 +30,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">28'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> Dallas</p> |
+| <p align="center">64'</p> | <p align="right">Sounders <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> Dallas</p> |
 | <p align="center">23:00</p> | <p align="right">Houston <img src="/static/logos/Houston Dynamo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Salt Lake.png" height="25px"> Salt Lake</p> |
 </div>
 
@@ -94,7 +94,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Atlas <img src="/static/logos/Atlas FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Necaxa.png" height="25px"> Necaxa</p> |
 | <p align="center">FT</p> | <p align="right">Mazatlán <img src="/static/logos/Mazatlán FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Toluca FC.png" height="25px"> Toluca</p> |
-| <p align="center">23'</p> | <p align="right">Tijuana <img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CF Pachuca.png" height="25px"> Pachuca</p> |
+| <p align="center">58'</p> | <p align="right">Tijuana <img src="/static/logos/Club Tijuana Xoloitzcuintles de Caliente.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CF Pachuca.png" height="25px"> Pachuca</p> |
 | <p align="center">23:00</p> | <p align="right">Querétaro <img src="/static/logos/Querétaro FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Monterrey.png" height="25px"> Monterrey</p> |
 | <p align="center">23:00</p> | <p align="right">San Luis <img src="/static/logos/Club Atlético de San Luis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Santos Laguna.png" height="25px"> Santos Laguna</p> |
 </div>
@@ -885,7 +885,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">04:00</p> | <p align="right">YSCC <img src="/static/logos/Yokohama Sports and Culture Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Azul Claro Numazu.png" height="25px"> Azul Claro</p> |
+| <p align="center">27'</p> | <p align="right">YSCC <img src="/static/logos/Yokohama Sports and Culture Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Azul Claro Numazu.png" height="25px"> Azul Claro</p> |
 | <p align="center">05:00</p> | <p align="right">Giravanz <img src="/static/logos/Giravanz Kitakyushu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iwate Grulla Morioka.png" height="25px"> Grulla Morioka</p> |
 | <p align="center">08:00</p> | <p align="right">Ryūkyū <img src="/static/logos/FC Ryūkyū.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kagoshima United FC.png" height="25px"> Kagoshima Utd</p> |
 | <p align="center">09:00</p> | <p align="right">Ehime <img src="/static/logos/Ehime FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Imabari.png" height="25px"> Imabari</p> |
