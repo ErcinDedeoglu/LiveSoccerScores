@@ -394,7 +394,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">GAK <img src="/static/logos/Grazer AK 1902.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Floridsdorfer AC Wien.png" height="25px"> FAC</p> |
+| <p align="center">19'</p> | <p align="right">GAK <img src="/static/logos/Grazer AK 1902.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Floridsdorfer AC Wien.png" height="25px"> FAC</p> |
 | <p align="center">11:30</p> | <p align="right">Liefering <img src="/static/logos/FC Liefering.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kapfenberger SV 1919.png" height="25px"> Kapfenberg</p> |
 </div>
 
@@ -512,7 +512,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Sparta II <img src="/static/logos/AC Sparta Praha II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK SILON Táborsko.png" height="25px"> Táborsko</p> |
+| <p align="center">19'</p> | <p align="right">Sparta II <img src="/static/logos/AC Sparta Praha II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK SILON Táborsko.png" height="25px"> Táborsko</p> |
 | <p align="center">13:00</p> | <p align="right">Varnsdorf <img src="/static/logos/FK Varnsdorf.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SFC Opava.png" height="25px"> Opava</p> |
 </div>
 
@@ -718,7 +718,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Resources Capital FC.png" height="25px"> Resources Capi</p> |
+| <p align="center">58'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Resources Capital FC.png" height="25px"> Resources Capi</p> |
 </div>
 
 
@@ -882,7 +882,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ansan Greeners <img src="/static/logos/Ansan Greeners FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/FC Anyang.png" height="25px"> Anyang</p> |
 | <p align="center">FT</p> | <p align="right">Cheonan City <img src="/static/logos/Cheonan City Government FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimpo Citizen FC.png" height="25px"> Gimpo</p> |
-| <p align="center">6'</p> | <p align="right">Dragons <img src="/static/logos/Jeonnam Dragons FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Busan IPark.png" height="25px"> Busan IPark</p> |
+| <p align="center">21'</p> | <p align="right">Dragons <img src="/static/logos/Jeonnam Dragons FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Busan IPark.png" height="25px"> Busan IPark</p> |
 </div>
 
 
@@ -1350,8 +1350,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">35'</p> | <p align="right">France <img src="/static/logos/France Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Burkina Faso Under 17.png" height="25px"> Burkina Faso</p> |
-| <p align="center">35'</p> | <p align="right">Venezuela <img src="/static/logos/Venezuela Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/New Zealand Under 17.png" height="25px"> New Zealand</p> |
+| <p align="center">45' 3'</p> | <p align="right">France <img src="/static/logos/France Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Burkina Faso Under 17.png" height="25px"> Burkina Faso</p> |
+| <p align="center">HT</p> | <p align="right">Venezuela <img src="/static/logos/Venezuela Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/New Zealand Under 17.png" height="25px"> New Zealand</p> |
 | <p align="center">12:00</p> | <p align="right">Korea Republic <img src="/static/logos/Korea Republic Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/United States Under 17.png" height="25px"> USA</p> |
 | <p align="center">12:00</p> | <p align="right">Mexico <img src="/static/logos/Mexico Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Germany Under 17.png" height="25px"> Germany</p> |
 </div>
