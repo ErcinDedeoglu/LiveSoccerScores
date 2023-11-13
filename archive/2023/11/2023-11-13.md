@@ -118,9 +118,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Bristol <img src="/static/logos/Bristol City Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunderland Under 21.png" height="25px"> Sunderland</p> |
-| <p align="center">90' 4'</p> | <p align="right">Reading <img src="/static/logos/Reading Under 21.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/West Bromwich Albion Under 21.png" height="25px"> WBA</p> |
-| <p align="center">90'</p> | <p align="right">Swansea <img src="/static/logos/Swansea City Under 21.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Aston Villa FC Under 21.png" height="25px"> Aston Villa</p> |
+| <p align="center">90' 10'</p> | <p align="right">Bristol <img src="/static/logos/Bristol City Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sunderland Under 21.png" height="25px"> Sunderland</p> |
+| <p align="center">FT</p> | <p align="right">Reading <img src="/static/logos/Reading Under 21.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/West Bromwich Albion Under 21.png" height="25px"> WBA</p> |
+| <p align="center">90' 9'</p> | <p align="right">Swansea <img src="/static/logos/Swansea City Under 21.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/Aston Villa FC Under 21.png" height="25px"> Aston Villa</p> |
 </div>
 
 
@@ -161,12 +161,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">Picerno <img src="/static/logos/AZ Picerno ASD.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/SSD Potenza Calcio.png" height="25px"> Potenza</p> |
-| <p align="center">52'</p> | <p align="right">Pro Vercelli <img src="/static/logos/FC Pro Vercelli Calcio.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Novara Calcio.png" height="25px"> Novara</p> |
-| <p align="center">51'</p> | <p align="right">Lucchese <img src="/static/logos/AS Lucchese Libertas 1905.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ACD Virtus Entella.png" height="25px"> Virtus</p> |
-| <p align="center">53'</p> | <p align="right">Pescara <img src="/static/logos/Delfino Pescara 1936.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AC Rimini.png" height="25px"> Rimini</p> |
-| <p align="center">49'</p> | <p align="right">Benevento <img src="/static/logos/Benevento Calcio.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SSC Giugliano.png" height="25px"> Giugliano</p> |
-| <p align="center">52'</p> | <p align="right">Juve Stabia <img src="/static/logos/SS Juve Stabia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Foggia Calcio 1920.png" height="25px"> Foggia</p> |
+| <p align="center">74'</p> | <p align="right">Picerno <img src="/static/logos/AZ Picerno ASD.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/SSD Potenza Calcio.png" height="25px"> Potenza</p> |
+| <p align="center">61'</p> | <p align="right">Pro Vercelli <img src="/static/logos/FC Pro Vercelli Calcio.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Novara Calcio.png" height="25px"> Novara</p> |
+| <p align="center">60'</p> | <p align="right">Lucchese <img src="/static/logos/AS Lucchese Libertas 1905.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ACD Virtus Entella.png" height="25px"> Virtus</p> |
+| <p align="center">62'</p> | <p align="right">Pescara <img src="/static/logos/Delfino Pescara 1936.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AC Rimini.png" height="25px"> Rimini</p> |
+| <p align="center">58'</p> | <p align="right">Benevento <img src="/static/logos/Benevento Calcio.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/SSC Giugliano.png" height="25px"> Giugliano</p> |
+| <p align="center">60'</p> | <p align="right">Juve Stabia <img src="/static/logos/SS Juve Stabia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Foggia Calcio 1920.png" height="25px"> Foggia</p> |
 </div>
 
 
@@ -176,7 +176,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Coleraine <img src="/static/logos/Coleraine FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Glentoran FC.png" height="25px"> Glentoran</p> |
+| <p align="center">61'</p> | <p align="right">Coleraine <img src="/static/logos/Coleraine FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Glentoran FC.png" height="25px"> Glentoran</p> |
 </div>
 
 
@@ -186,7 +186,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:00</p> | <p align="right">Resistencia <img src="/static/logos/Resistencia SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Guaraní.png" height="25px"> Guaraní</p> |
+| <p align="center">3'</p> | <p align="right">Resistencia <img src="/static/logos/Resistencia SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Guaraní.png" height="25px"> Guaraní</p> |
 | <p align="center">23:30</p> | <p align="right">Trinidense <img src="/static/logos/Club Sportivo Trinidense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Nacional Asunción.png" height="25px"> Nacional</p> |
 </div>
 
