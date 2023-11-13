@@ -27,7 +27,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Puebla FC.png" height="25px"> Puebla</p> |
-| <p align="center">42'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Juárez.png" height="25px"> Juárez</p> |
+| <p align="center">78'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Juárez.png" height="25px"> Juárez</p> |
 </div>
 
 
@@ -58,7 +58,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Real España <img src="/static/logos/Real CD España.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CDyS Vida.png" height="25px"> Vida</p> |
+| <p align="center">FT</p> | <p align="right">Real España <img src="/static/logos/Real CD España.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/CDyS Vida.png" height="25px"> Vida</p> |
 </div>
 
 
@@ -227,7 +227,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">120' 1'</p> | <p align="right">Charleston <img src="/static/logos/Charleston Battery.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Phoenix Rising FC.png" height="25px"> Phoenix Rising</p> |
+| <p align="center">FT</p> | <p align="right">Charleston <img src="/static/logos/Charleston Battery.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Phoenix Rising FC.png" height="25px"> Phoenix Rising</p> |
 </div>
 
 
