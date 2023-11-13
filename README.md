@@ -239,8 +239,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Morocco <img src="/static/logos/Morocco Under 17.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Ecuador Under 17.png" height="25px"> Ecuador</p> |
 | <p align="center">FT</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mali Under 17.png" height="25px"> Mali</p> |
-| <p align="center">HT</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia Under 17.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Panama Under 17.png" height="25px"> Panama</p> |
-| <p align="center">HT</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 17.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Canada Under 17.png" height="25px"> Canada</p> |
+| <p align="center">50'</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia Under 17.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Panama Under 17.png" height="25px"> Panama</p> |
+| <p align="center">53'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 17.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Canada Under 17.png" height="25px"> Canada</p> |
 </div>
 
 
