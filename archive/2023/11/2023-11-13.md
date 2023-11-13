@@ -150,7 +150,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">TRAU <img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Gokulam Kerala FC.png" height="25px"> Gokulam Kerala</p> |
+| <p align="center">82'</p> | <p align="right">TRAU <img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Gokulam Kerala FC.png" height="25px"> Gokulam Kerala</p> |
 | <p align="center">13:30</p> | <p align="right">Rajasthan Utd <img src="/static/logos/Rajasthan United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Churchill Brothers FC Goa.png" height="25px"> Churchill</p> |
 </div>
 
@@ -239,8 +239,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Morocco <img src="/static/logos/Morocco Under 17.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Ecuador Under 17.png" height="25px"> Ecuador</p> |
 | <p align="center">FT</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mali Under 17.png" height="25px"> Mali</p> |
-| <p align="center">25'</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Panama Under 17.png" height="25px"> Panama</p> |
-| <p align="center">25'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Canada Under 17.png" height="25px"> Canada</p> |
+| <p align="center">42'</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Panama Under 17.png" height="25px"> Panama</p> |
+| <p align="center">42'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 17.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Canada Under 17.png" height="25px"> Canada</p> |
 </div>
 
 
