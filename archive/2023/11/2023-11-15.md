@@ -136,11 +136,11 @@
 | <p align="center">FT</p> | <p align="right">Belarus <img src="/static/logos/Belarus Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Greece Under 19.png" height="25px"> Greece</p> |
 | <p align="center">FT</p> | <p align="right">Slovenia <img src="/static/logos/Slovenia Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Belgium Under 19.png" height="25px"> Belgium</p> |
 | <p align="center">FT</p> | <p align="right">Ukraine <img src="/static/logos/Ukraine Under 19.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Malta Under 19.png" height="25px"> Malta</p> |
-| <p align="center">67'</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus Under 19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Georgia Under 19.png" height="25px"> Georgia</p> |
-| <p align="center">66'</p> | <p align="right">Israel <img src="/static/logos/Israel Under 19.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Faroe Islands Under 19.png" height="25px"> Faroe Islands</p> |
-| <p align="center">45' 3'</p> | <p align="right">Armenia <img src="/static/logos/Armenia Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Croatia Under 19.png" height="25px"> Croatia</p> |
-| <p align="center">23'</p> | <p align="right">Italy <img src="/static/logos/Italy Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Liechtenstein Under 19.png" height="25px"> Liechtenstein</p> |
-| <p align="center">12:30</p> | <p align="right">Bulgaria <img src="/static/logos/Bulgaria Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scotland Under 19.png" height="25px"> Scotland</p> |
+| <p align="center">83'</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus Under 19.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Georgia Under 19.png" height="25px"> Georgia</p> |
+| <p align="center">82'</p> | <p align="right">Israel <img src="/static/logos/Israel Under 19.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Faroe Islands Under 19.png" height="25px"> Faroe Islands</p> |
+| <p align="center">48'</p> | <p align="right">Armenia <img src="/static/logos/Armenia Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Croatia Under 19.png" height="25px"> Croatia</p> |
+| <p align="center">39'</p> | <p align="right">Italy <img src="/static/logos/Italy Under 19.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Liechtenstein Under 19.png" height="25px"> Liechtenstein</p> |
+| <p align="center">7'</p> | <p align="right">Bulgaria <img src="/static/logos/Bulgaria Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Scotland Under 19.png" height="25px"> Scotland</p> |
 | <p align="center">13:00</p> | <p align="right">Eire <img src="/static/logos/Republic of Ireland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Albania Under 19.png" height="25px"> Albania</p> |
 | <p align="center">13:00</p> | <p align="right">Spain <img src="/static/logos/Spain Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Moldova Under 19.png" height="25px"> Moldova</p> |
 | <p align="center">13:00</p> | <p align="right">Turkey <img src="/static/logos/Turkey Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lithuania Under 19.png" height="25px"> Lithuania</p> |
@@ -161,7 +161,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">France <img src="/static/logos/France Under 17.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Estonia Under 17.png" height="25px"> Estonia</p> |
 | <p align="center">FT</p> | <p align="right">Romania <img src="/static/logos/Romania Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Norway Under 17.png" height="25px"> Norway</p> |
-| <p align="center">12:30</p> | <p align="right">Montenegro <img src="/static/logos/Montenegro Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Czech Republic Under 17.png" height="25px"> Czech</p> |
+| <p align="center">6'</p> | <p align="right">Montenegro <img src="/static/logos/Montenegro Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Czech Republic Under 17.png" height="25px"> Czech</p> |
 | <p align="center">16:00</p> | <p align="right">Belgium <img src="/static/logos/Belgium Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gibraltar Under 17.png" height="25px"> Gibraltar</p> |
 | <p align="center">17:00</p> | <p align="right">Portugal <img src="/static/logos/Portugal Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Albania Under 17.png" height="25px"> Albania</p> |
 | <p align="center">19:00</p> | <p align="right">Wales <img src="/static/logos/Wales Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Israel Under 17.png" height="25px"> Israel</p> |
@@ -278,8 +278,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mexico <img src="/static/logos/Mexico Under 17.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
 | <p align="center">FT</p> | <p align="right">USA <img src="/static/logos/United States Under 17.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Burkina Faso Under 17.png" height="25px"> Burkina Faso</p> |
-| <p align="center">22'</p> | <p align="right">France <img src="/static/logos/France Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Korea Republic Under 17.png" height="25px"> Korea Republic</p> |
-| <p align="center">22'</p> | <p align="right">New Zealand <img src="/static/logos/New Zealand Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Germany Under 17.png" height="25px"> Germany</p> |
+| <p align="center">38'</p> | <p align="right">France <img src="/static/logos/France Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Korea Republic Under 17.png" height="25px"> Korea Republic</p> |
+| <p align="center">38'</p> | <p align="right">New Zealand <img src="/static/logos/New Zealand Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Germany Under 17.png" height="25px"> Germany</p> |
 </div>
 
 
