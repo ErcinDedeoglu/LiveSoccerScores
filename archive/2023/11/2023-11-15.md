@@ -145,8 +145,8 @@
 | <p align="center">FT</p> | <p align="right">Spain <img src="/static/logos/Spain Under 19.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Moldova Under 19.png" height="25px"> Moldova</p> |
 | <p align="center">FT</p> | <p align="right">Turkey <img src="/static/logos/Turkey Under 19.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Lithuania Under 19.png" height="25px"> Lithuania</p> |
 | <p align="center">FT</p> | <p align="right">Kosovo <img src="/static/logos/Kosovo Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Slovakia Under 19.png" height="25px"> Slovakia</p> |
-| <p align="center">87'</p> | <p align="right">Iceland <img src="/static/logos/Iceland Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Denmark Under 19.png" height="25px"> Denmark</p> |
-| <p align="center">42'</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bosnia-Herzegovina Under 19.png" height="25px"> Bosnia</p> |
+| <p align="center">FT</p> | <p align="right">Iceland <img src="/static/logos/Iceland Under 19.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Denmark Under 19.png" height="25px"> Denmark</p> |
+| <p align="center">HT</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bosnia-Herzegovina Under 19.png" height="25px"> Bosnia</p> |
 | <p align="center">17:00</p> | <p align="right">France <img src="/static/logos/France Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Estonia Under 19.png" height="25px"> Estonia</p> |
 | <p align="center">17:00</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Luxembourg Under 19.png" height="25px"> Luxembourg</p> |
 | <p align="center">17:00</p> | <p align="right">Switzerland <img src="/static/logos/Switzerland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sweden Under 19.png" height="25px"> Sweden</p> |
@@ -233,8 +233,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">Doma United <img src="/static/logos/Doma United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Enyimba International FC.png" height="25px"> Enyimba</p> |
-| <p align="center">41'</p> | <p align="right">Heartland <img src="/static/logos/Heartland FC Owerri.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bayelsa United FC.png" height="25px"> Bayelsa Utd</p> |
+| <p align="center">FT</p> | <p align="right">Doma United <img src="/static/logos/Doma United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Enyimba International FC.png" height="25px"> Enyimba</p> |
+| <p align="center">HT</p> | <p align="right">Heartland <img src="/static/logos/Heartland FC Owerri.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bayelsa United FC.png" height="25px"> Bayelsa Utd</p> |
 </div>
 
 
