@@ -58,8 +58,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Bangladesh.png" height="25px"> Bangladesh</p> |
-| <p align="center">38'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Myanmar.png" height="25px"> Myanmar</p> |
+| <p align="center">85'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">7 - 0</p> | <p align="left"><img src="/static/logos/Bangladesh.png" height="25px"> Bangladesh</p> |
+| <p align="center">HT</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Myanmar.png" height="25px"> Myanmar</p> |
 | <p align="center">11:00</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singapore.png" height="25px"> Singapore</p> |
 | <p align="center">11:00</p> | <p align="right">Philippines <img src="/static/logos/Philippines.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
 | <p align="center">12:30</p> | <p align="right">Thailand <img src="/static/logos/Thailand.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/China PR.png" height="25px"> China PR</p> |
@@ -156,7 +156,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle United FC Under 18 Academy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Crystal Palace FC Under 18 Academy.png" height="25px"> Crystal Palace</p> |
+| <p align="center">23'</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle United FC Under 18 Academy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Crystal Palace FC Under 18 Academy.png" height="25px"> Crystal Palace</p> |
 </div>
 
 
@@ -224,8 +224,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Canada <img src="/static/logos/Canada Under 17.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Mali Under 17.png" height="25px"> Mali</p> |
-| <p align="center">79'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 17.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Spain Under 17.png" height="25px"> Spain</p> |
+| <p align="center">87'</p> | <p align="right">Canada <img src="/static/logos/Canada Under 17.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Mali Under 17.png" height="25px"> Mali</p> |
+| <p align="center">90' 2'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan Under 17.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Spain Under 17.png" height="25px"> Spain</p> |
 | <p align="center">12:00</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Panama Under 17.png" height="25px"> Panama</p> |
 | <p align="center">12:00</p> | <p align="right">Morocco <img src="/static/logos/Morocco Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Indonesia Under 17.png" height="25px"> Indonesia</p> |
 </div>
