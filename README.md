@@ -58,7 +58,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:00</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bangladesh.png" height="25px"> Bangladesh</p> |
+| <p align="center">09:10</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bangladesh.png" height="25px"> Bangladesh</p> |
 | <p align="center">10:02</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Myanmar.png" height="25px"> Myanmar</p> |
 | <p align="center">11:00</p> | <p align="right">Korea Rep <img src="/static/logos/Korea Republic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singapore.png" height="25px"> Singapore</p> |
 | <p align="center">11:00</p> | <p align="right">Philippines <img src="/static/logos/Philippines.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
@@ -107,16 +107,6 @@
 </div>
 
 
-## <img src="/static/logos/World-Club Friendlies.png" height="25px"> World - Club Friendlies
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:30</p> | <p align="right">H Kfar Shalem <img src="/static/logos/Hapoel Kfar Shalem FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MS Dimona.png" height="25px"> Dimona</p> |
-</div>
-
-
 ## <img src="/static/logos/Mexico-Liga de Expansión MX.png" height="25px"> Mexico - Liga de Expansión MX
 
 <div align="center">
@@ -124,7 +114,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Morelia <img src="/static/logos/Club Atlético Morelia.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"> Leones Negros</p> |
-| <p align="center">90'</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
+| <p align="center">FT</p> | <p align="right">Cimarrones <img src="/static/logos/Cimarrones de Sonora FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
 </div>
 
 
@@ -135,20 +125,6 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios FC SA.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Atlético Nacional SA.png" height="25px"> Atl. Nacional</p> |
-</div>
-
-
-## <img src="/static/logos/Côte d'Ivoire-Ligue 1.png" height="25px"> Côte d'Ivoire - Ligue 1
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:30</p> | <p align="right">Gagnoa <img src="/static/logos/Sporting Club de Gagnoa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Académie de Football Amadou Diallo de Djékanou.png" height="25px"> AFAD</p> |
-| <p align="center">15:30</p> | <p align="right">SOA <img src="/static/logos/Société Omnisports de l'Armée.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AS Denguélé d'Odienné.png" height="25px"> Denguélé</p> |
-| <p align="center">15:30</p> | <p align="right">SOL <img src="/static/logos/SOL FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Mouna d'Akoupé.png" height="25px"> Mouna</p> |
-| <p align="center">15:30</p> | <p align="right">Stade Abidjan <img src="/static/logos/Stade d'Abidjan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San-Pédro FC.png" height="25px"> San-Pédro</p> |
-| <p align="center">18:00</p> | <p align="right">Zoman <img src="/static/logos/Zoman FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CO Korhogo.png" height="25px"> Korhogo</p> |
 </div>
 
 
