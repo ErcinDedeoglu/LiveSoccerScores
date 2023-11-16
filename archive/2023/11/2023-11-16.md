@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">British VI <img src="/static/logos/British Virgin Islands.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Dominica.png" height="25px"> Dominica</p> |
+| <p align="center">FT</p> | <p align="right">British VI <img src="/static/logos/British Virgin Islands.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Dominica.png" height="25px"> Dominica</p> |
 | <p align="center">23:00</p> | <p align="right">Sint Maarten <img src="/static/logos/Sint Maarten.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guadeloupe.png" height="25px"> Guadeloupe</p> |
 | <p align="center">23:00</p> | <p align="right">St. Kitts <img src="/static/logos/St. Kitts and Nevis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Lucia.png" height="25px"> St. Lucia</p> |
 | <p align="center">23:00</p> | <p align="right">USVI <img src="/static/logos/US Virgin Islands.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aruba.png" height="25px"> Aruba</p> |
@@ -29,7 +29,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">41'</p> | <p align="right">Bolivia <img src="/static/logos/Bolivia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Peru.png" height="25px"> Peru</p> |
+| <p align="center">89'</p> | <p align="right">Bolivia <img src="/static/logos/Bolivia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Peru.png" height="25px"> Peru</p> |
 | <p align="center">22:00</p> | <p align="right">Venezuela <img src="/static/logos/Venezuela.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ecuador.png" height="25px"> Ecuador</p> |
 </div>
 
@@ -47,7 +47,7 @@
 | <p align="center">FT</p> | <p align="right">Gabon <img src="/static/logos/Gabon.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Kenya.png" height="25px"> Kenya</p> |
 | <p align="center">FT</p> | <p align="right">Nigeria <img src="/static/logos/Nigeria.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Lesotho.png" height="25px"> Lesotho</p> |
 | <p align="center">FT</p> | <p align="right">Sudan <img src="/static/logos/Sudan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Togo.png" height="25px"> Togo</p> |
-| <p align="center">85'</p> | <p align="right">Cabo Verde <img src="/static/logos/Cabo Verde.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Angola.png" height="25px"> Angola</p> |
+| <p align="center">FT</p> | <p align="right">Cabo Verde <img src="/static/logos/Cabo Verde.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Angola.png" height="25px"> Angola</p> |
 | <p align="center">19:00</p> | <p align="right">Morocco <img src="/static/logos/Morocco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Eritrea.png" height="25px"> Eritrea</p> |
 </div>
 
@@ -90,10 +90,10 @@
 | <p align="center">FT</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
 | <p align="center">FT</p> | <p align="right">Estonia <img src="/static/logos/Estonia.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Austria.png" height="25px"> Austria</p> |
 | <p align="center">FT</p> | <p align="right">Georgia <img src="/static/logos/Georgia.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Scotland.png" height="25px"> Scotland</p> |
-| <p align="center">HT</p> | <p align="right">Liechtenstein <img src="/static/logos/Liechtenstein.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Portugal.png" height="25px"> Portugal</p> |
-| <p align="center">HT</p> | <p align="right">Luxembourg <img src="/static/logos/Luxembourg.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bosnia-Herzegovina.png" height="25px"> Bosnia</p> |
-| <p align="center">HT</p> | <p align="right">Montenegro <img src="/static/logos/Montenegro.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Lithuania.png" height="25px"> Lithuania</p> |
-| <p align="center">HT</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Iceland.png" height="25px"> Iceland</p> |
+| <p align="center">FT</p> | <p align="right">Liechtenstein <img src="/static/logos/Liechtenstein.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Portugal.png" height="25px"> Portugal</p> |
+| <p align="center">FT</p> | <p align="right">Luxembourg <img src="/static/logos/Luxembourg.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Bosnia-Herzegovina.png" height="25px"> Bosnia</p> |
+| <p align="center">FT</p> | <p align="right">Montenegro <img src="/static/logos/Montenegro.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Lithuania.png" height="25px"> Lithuania</p> |
+| <p align="center">FT</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Iceland.png" height="25px"> Iceland</p> |
 </div>
 
 
@@ -146,7 +146,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Águila.png" height="25px"> Águila</p> |
-| <p align="center">21:15</p> | <p align="right">Firpo <img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/11 Deportivo FC.png" height="25px"> Once Deportivo</p> |
+| <p align="center">32'</p> | <p align="right">Firpo <img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/11 Deportivo FC.png" height="25px"> Once Deportivo</p> |
 </div>
 
 
@@ -171,7 +171,7 @@
 | <p align="center">FT</p> | <p align="right">Malta <img src="/static/logos/Malta Under 21.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Kazakhstan Under 21.png" height="25px"> Kazakhstan</p> |
 | <p align="center">FT</p> | <p align="right">San Marino <img src="/static/logos/San Marino Under 21.png" height="25px"></p> | <p align="center">0 - 7</p> | <p align="left"><img src="/static/logos/Italy Under 21.png" height="25px"> Italy</p> |
 | <p align="center">FT</p> | <p align="right">Wales <img src="/static/logos/Wales Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Iceland Under 21.png" height="25px"> Iceland</p> |
-| <p align="center">85'</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gibraltar Under 21.png" height="25px"> Gibraltar</p> |
+| <p align="center">FT</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gibraltar Under 21.png" height="25px"> Gibraltar</p> |
 </div>
 
 
@@ -182,7 +182,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sestri Levante <img src="/static/logos/US Sestri Levante.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/AC Rimini.png" height="25px"> Rimini</p> |
-| <p align="center">HT</p> | <p align="right">Virtus <img src="/static/logos/ACD Virtus Entella.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cesena FC.png" height="25px"> Cesena</p> |
+| <p align="center">FT</p> | <p align="right">Virtus <img src="/static/logos/ACD Virtus Entella.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cesena FC.png" height="25px"> Cesena</p> |
 </div>
 
 
@@ -192,7 +192,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">Maassluis <img src="/static/logos/Excelsior Maassluis.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Volendam.png" height="25px"> Volendam</p> |
+| <p align="center">FT</p> | <p align="right">Maassluis <img src="/static/logos/Excelsior Maassluis.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Volendam.png" height="25px"> Volendam</p> |
 </div>
 
 
@@ -202,7 +202,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">Aberdeen <img src="/static/logos/Aberdeen FC Women.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Partick Thistle WFC.png" height="25px"> Partick</p> |
+| <p align="center">FT</p> | <p align="right">Aberdeen <img src="/static/logos/Aberdeen FC Women.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Partick Thistle WFC.png" height="25px"> Partick</p> |
 </div>
 
 
@@ -214,7 +214,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Nacional <img src="/static/logos/Club Nacional de Football Montevideo.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Danubio Fútbol Club.png" height="25px"> Danubio</p> |
 | <p align="center">FT</p> | <p align="right">River Plate <img src="/static/logos/CA River Plate.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Fénix.png" height="25px"> Fénix</p> |
-| <p align="center">52'</p> | <p align="right">Boston River <img src="/static/logos/CA Boston River.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/La Luz FC.png" height="25px"> La Luz</p> |
+| <p align="center">FT</p> | <p align="right">Boston River <img src="/static/logos/CA Boston River.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/La Luz FC.png" height="25px"> La Luz</p> |
 </div>
 
 
