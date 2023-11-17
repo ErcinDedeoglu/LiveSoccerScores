@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">United States <img src="/static/logos/United States.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Trinidad and Tobago.png" height="25px"> Trinidad</p> |
 | <p align="center">FT</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
-| <p align="center">75'</p> | <p align="right">Montserrat <img src="/static/logos/Montserrat.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Dominican Republic.png" height="25px"> Dominican Rep</p> |
+| <p align="center">82'</p> | <p align="right">Montserrat <img src="/static/logos/Montserrat.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Dominican Republic.png" height="25px"> Dominican Rep</p> |
 | <p align="center">23:00</p> | <p align="right">Barbados <img src="/static/logos/Barbados.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nicaragua.png" height="25px"> Nicaragua</p> |
 | <p align="center">23:30</p> | <p align="right">Bermuda <img src="/static/logos/Bermuda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Vincent / Grenadines.png" height="25px"> St. Vincent</p> |
 </div>
@@ -113,7 +113,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">34'</p> | <p align="right">Ituano <img src="/static/logos/Ituano Futebol Clube.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense</p> |
+| <p align="center">42'</p> | <p align="right">Ituano <img src="/static/logos/Ituano Futebol Clube.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense</p> |
 </div>
 
 
