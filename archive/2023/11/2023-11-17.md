@@ -123,7 +123,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Slovan Velvary <img src="/static/logos/TJ Slovan Velvary.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SFC Opava.png" height="25px"> Opava</p> |
+| <p align="center">37'</p> | <p align="right">Slovan Velvary <img src="/static/logos/TJ Slovan Velvary.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SFC Opava.png" height="25px"> Opava</p> |
 </div>
 
 
@@ -164,7 +164,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">7'</p> | <p align="right">Kosovo <img src="/static/logos/Kosovo Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bulgaria Under 21.png" height="25px"> Bulgaria</p> |
+| <p align="center">37'</p> | <p align="right">Kosovo <img src="/static/logos/Kosovo Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bulgaria Under 21.png" height="25px"> Bulgaria</p> |
 | <p align="center">15:00</p> | <p align="right">Poland <img src="/static/logos/Poland Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Israel Under 21.png" height="25px"> Israel</p> |
 | <p align="center">16:00</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bosnia-Herzegovina Under 21.png" height="25px"> Bosnia</p> |
 | <p align="center">17:00</p> | <p align="right">Germany <img src="/static/logos/Germany Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Estonia Under 21.png" height="25px"> Estonia</p> |
@@ -217,7 +217,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Aizawl <img src="/static/logos/Aizawl FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Delhi FC.png" height="25px"> Delhi FC</p> |
+| <p align="center">76'</p> | <p align="right">Aizawl <img src="/static/logos/Aizawl FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Delhi FC.png" height="25px"> Delhi FC</p> |
 | <p align="center">13:30</p> | <p align="right">Churchill <img src="/static/logos/Churchill Brothers FC Goa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inter Kashi FC.png" height="25px"> Inter Kashi</p> |
 </div>
 
@@ -305,8 +305,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Poland <img src="/static/logos/Poland Under 17.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Argentina Under 17.png" height="25px"> Argentina</p> |
 | <p align="center">FT</p> | <p align="right">Senegal <img src="/static/logos/Senegal Under 17.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Japan Under 17.png" height="25px"> Japan</p> |
-| <p align="center">7'</p> | <p align="right">England <img src="/static/logos/England Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brazil Under 17.png" height="25px"> Brazil</p> |
-| <p align="center">7'</p> | <p align="right">Iran <img src="/static/logos/IR Iran Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/New Caledonia Under 17.png" height="25px"> New Caledonia</p> |
+| <p align="center">36'</p> | <p align="right">England <img src="/static/logos/England Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brazil Under 17.png" height="25px"> Brazil</p> |
+| <p align="center">36'</p> | <p align="right">Iran <img src="/static/logos/IR Iran Under 17.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/New Caledonia Under 17.png" height="25px"> New Caledonia</p> |
 </div>
 
 
