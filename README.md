@@ -132,7 +132,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 5'</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wellington Phoenix FC.png" height="25px"> Wellington</p> |
+| <p align="center">FT</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wellington Phoenix FC.png" height="25px"> Wellington</p> |
 | <p align="center">11:00</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne Victory.png" height="25px"> Victory</p> |
 </div>
 
@@ -350,7 +350,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:00</p> | <p align="right">Scotland <img src="/static/logos/Scotland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Andorra Under 19.png" height="25px"> Andorra</p> |
+| <p align="center">11'</p> | <p align="right">Scotland <img src="/static/logos/Scotland Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Andorra Under 19.png" height="25px"> Andorra</p> |
 | <p align="center">10:00</p> | <p align="right">Eire <img src="/static/logos/Republic of Ireland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slovenia Under 19.png" height="25px"> Slovenia</p> |
 | <p align="center">10:00</p> | <p align="right">Greece <img src="/static/logos/Greece Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lithuania Under 19.png" height="25px"> Lithuania</p> |
 | <p align="center">10:00</p> | <p align="right">Ukraine <img src="/static/logos/Ukraine Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kosovo Under 19.png" height="25px"> Kosovo</p> |
@@ -841,7 +841,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:00</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
+| <p align="center">9'</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
 | <p align="center">09:00</p> | <p align="right">New Zealand <img src="/static/logos/New Zealand Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mexico Under 17.png" height="25px"> Mexico</p> |
 | <p align="center">12:00</p> | <p align="right">Burkina Faso <img src="/static/logos/Burkina Faso Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Korea Republic Under 17.png" height="25px"> Korea Republic</p> |
 | <p align="center">12:00</p> | <p align="right">USA <img src="/static/logos/United States Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/France Under 17.png" height="25px"> France</p> |
