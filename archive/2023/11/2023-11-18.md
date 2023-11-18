@@ -26,9 +26,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:00</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
-| <p align="center">02:00</p> | <p align="right">Belize <img src="/static/logos/Belize.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/French Guiana.png" height="25px"> French Guiana</p> |
-| <p align="center">02:00</p> | <p align="right">Honduras <img src="/static/logos/Honduras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mexico.png" height="25px"> Mexico</p> |
+| <p align="center">54'</p> | <p align="right">Belize <img src="/static/logos/Belize.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/French Guiana.png" height="25px"> French Guiana</p> |
+| <p align="center">50'</p> | <p align="right">Honduras <img src="/static/logos/Honduras.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mexico.png" height="25px"> Mexico</p> |
+| <p align="center">15:30</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
 | <p align="center">19:00</p> | <p align="right">Antigua <img src="/static/logos/Antigua and Barbuda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puerto Rico.png" height="25px"> Puerto Rico</p> |
 | <p align="center">19:00</p> | <p align="right">Anguilla <img src="/static/logos/Anguilla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bonaire.png" height="25px"> Bonaire</p> |
 | <p align="center">22:00</p> | <p align="right">Bahamas <img src="/static/logos/Bahamas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guyana.png" height="25px"> Guyana</p> |
@@ -154,7 +154,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">7'</p> | <p align="right">Londrina <img src="/static/logos/Londrina EC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Grêmio Novorizontino.png" height="25px"> Novorizontino</p> |
+| <p align="center">FT</p> | <p align="right">Londrina <img src="/static/logos/Londrina EC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Grêmio Novorizontino.png" height="25px"> Novorizontino</p> |
 | <p align="center">20:00</p> | <p align="right">Criciúma <img src="/static/logos/Criciuma EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo FC Ribeirão Preto.png" height="25px"> Botafogo SP</p> |
 | <p align="center">20:00</p> | <p align="right">Juventude <img src="/static/logos/EC Juventude.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Associacao Atletica Ponte Preta.png" height="25px"> Ponte Preta</p> |
 | <p align="center">20:00</p> | <p align="right">Mirassol <img src="/static/logos/Mirassol Futebol Clube.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlético Goianiense.png" height="25px"> Atlético GO</p> |
@@ -180,7 +180,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">7'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza CEIF FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
+| <p align="center">FT</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza CEIF FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Corporación Nuevo Cúcuta Deportivo.png" height="25px"> Cúcuta</p> |
 </div>
 
 
