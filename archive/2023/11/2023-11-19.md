@@ -278,7 +278,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Malacateco <img src="/static/logos/CD Malacateco-Coatepeque.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CSyD Mixco.png" height="25px"> Mixco</p> |
-| <p align="center">43'</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSD Zacapa.png" height="25px"> Zacapa</p> |
+| <p align="center">HT</p> | <p align="right">Xelajú <img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSD Zacapa.png" height="25px"> Zacapa</p> |
 | <p align="center">17:00</p> | <p align="right">Coatepeque <img src="/static/logos/Coatepeque FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Antigua Guatemala FC.png" height="25px"> Antigua</p> |
 | <p align="center">21:00</p> | <p align="right">Cobán <img src="/static/logos/CSyD Cobán Imperial.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Achuapa.png" height="25px"> Achuapa</p> |
 </div>
