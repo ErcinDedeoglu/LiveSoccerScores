@@ -28,7 +28,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Djibouti <img src="/static/logos/Djibouti.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Guinea-Bissau.png" height="25px"> Guinea-Bissau</p> |
+| <p align="center">FT</p> | <p align="right">Djibouti <img src="/static/logos/Djibouti.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Guinea-Bissau.png" height="25px"> Guinea-Bissau</p> |
 | <p align="center">16:00</p> | <p align="right">Eritrea <img src="/static/logos/Eritrea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Congo.png" height="25px"> Congo</p> |
 | <p align="center">16:00</p> | <p align="right">Gambia <img src="/static/logos/Gambia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Côte d'Ivoire.png" height="25px"> Côte d'Ivoire</p> |
 | <p align="center">16:00</p> | <p align="right">Liberia <img src="/static/logos/Liberia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Equatorial Guinea.png" height="25px"> Equat Guinea</p> |
@@ -123,7 +123,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Belarus <img src="/static/logos/Belarus Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Croatia Under 21.png" height="25px"> Croatia</p> |
-| <p align="center">44'</p> | <p align="right">Greece <img src="/static/logos/Greece Under 21.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Portugal Under 21.png" height="25px"> Portugal</p> |
+| <p align="center">53'</p> | <p align="right">Greece <img src="/static/logos/Greece Under 21.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Portugal Under 21.png" height="25px"> Portugal</p> |
 | <p align="center">17:00</p> | <p align="right">Sweden <img src="/static/logos/Sweden Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Netherlands Under 21.png" height="25px"> Netherlands</p> |
 | <p align="center">18:00</p> | <p align="right">Wales <img src="/static/logos/Wales Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark Under 21.png" height="25px"> Denmark</p> |
 </div>
@@ -155,7 +155,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Niki <img src="/static/logos/Niki Volou FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Makedonikos Neapolis FC.png" height="25px"> Makedonikos N.</p> |
+| <p align="center">FT</p> | <p align="right">Niki <img src="/static/logos/Niki Volou FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Makedonikos Neapolis FC.png" height="25px"> Makedonikos N.</p> |
 </div>
 
 
