@@ -28,7 +28,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Djibouti <img src="/static/logos/Djibouti.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guinea-Bissau.png" height="25px"> Guinea-Bissau</p> |
+| <p align="center">15'</p> | <p align="right">Djibouti <img src="/static/logos/Djibouti.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guinea-Bissau.png" height="25px"> Guinea-Bissau</p> |
 | <p align="center">16:00</p> | <p align="right">Eritrea <img src="/static/logos/Eritrea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Congo.png" height="25px"> Congo</p> |
 | <p align="center">16:00</p> | <p align="right">Gambia <img src="/static/logos/Gambia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Côte d'Ivoire.png" height="25px"> Côte d'Ivoire</p> |
 | <p align="center">16:00</p> | <p align="right">Liberia <img src="/static/logos/Liberia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Equatorial Guinea.png" height="25px"> Equat Guinea</p> |
@@ -155,7 +155,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Niki <img src="/static/logos/Niki Volou FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Makedonikos Neapolis FC.png" height="25px"> Makedonikos N.</p> |
+| <p align="center">14'</p> | <p align="right">Niki <img src="/static/logos/Niki Volou FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Makedonikos Neapolis FC.png" height="25px"> Makedonikos N.</p> |
 </div>
 
 
@@ -175,7 +175,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">Kelantan <img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sabah FC.png" height="25px"> Sabah</p> |
+| <p align="center">HT</p> | <p align="right">Kelantan <img src="/static/logos/Persatuan Bola Sepak Kelantan.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Sabah FC.png" height="25px"> Sabah</p> |
 </div>
 
 
@@ -208,7 +208,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador Under 17.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Brazil Under 17.png" height="25px"> Brazil</p> |
-| <p align="center">22'</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Japan Under 17.png" height="25px"> Japan</p> |
+| <p align="center">52'</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Japan Under 17.png" height="25px"> Japan</p> |
 </div>
 
 
