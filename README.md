@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Aruba <img src="/static/logos/Aruba.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Cayman Islands.png" height="25px"> Cayman</p> |
 | <p align="center">FT</p> | <p align="right">Dominica <img src="/static/logos/Dominica.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Turks and Caicos Islands.png" height="25px"> Turks & Caicos</p> |
-| <p align="center">52'</p> | <p align="right">Montserrat <img src="/static/logos/Montserrat.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
+| <p align="center">72'</p> | <p align="right">Montserrat <img src="/static/logos/Montserrat.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
 </div>
 
 
@@ -124,7 +124,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Belarus <img src="/static/logos/Belarus Under 21.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Croatia Under 21.png" height="25px"> Croatia</p> |
 | <p align="center">FT</p> | <p align="right">Greece <img src="/static/logos/Greece Under 21.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Portugal Under 21.png" height="25px"> Portugal</p> |
-| <p align="center">17:00</p> | <p align="right">Sweden <img src="/static/logos/Sweden Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Netherlands Under 21.png" height="25px"> Netherlands</p> |
+| <p align="center">FT</p> | <p align="right">Sweden <img src="/static/logos/Sweden Under 21.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Netherlands Under 21.png" height="25px"> Netherlands</p> |
 | <p align="center">FT</p> | <p align="right">Wales <img src="/static/logos/Wales Under 21.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Denmark Under 21.png" height="25px"> Denmark</p> |
 </div>
 
@@ -197,7 +197,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Wanderers <img src="/static/logos/Montevideo Wanderers FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CA River Plate.png" height="25px"> River Plate</p> |
 | <p align="center">FT</p> | <p align="right">Fénix <img src="/static/logos/CA Fénix.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Nacional de Football Montevideo.png" height="25px"> Nacional</p> |
-| <p align="center">7'</p> | <p align="right">Def. Sporting <img src="/static/logos/Defensor Sporting Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Boston River.png" height="25px"> Boston River</p> |
+| <p align="center">26'</p> | <p align="right">Def. Sporting <img src="/static/logos/Defensor Sporting Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Boston River.png" height="25px"> Boston River</p> |
 </div>
 
 
