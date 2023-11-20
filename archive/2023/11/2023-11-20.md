@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Aruba <img src="/static/logos/Aruba.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Cayman Islands.png" height="25px"> Cayman</p> |
 | <p align="center">FT</p> | <p align="right">Dominica <img src="/static/logos/Dominica.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Turks and Caicos Islands.png" height="25px"> Turks & Caicos</p> |
-| <p align="center">90' 4'</p> | <p align="right">Montserrat <img src="/static/logos/Montserrat.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
+| <p align="center">FT</p> | <p align="right">Montserrat <img src="/static/logos/Montserrat.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Barbados.png" height="25px"> Barbados</p> |
 </div>
 
 
@@ -100,7 +100,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Sampaio Corrêa <img src="/static/logos/Sampaio Corrêa FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avai FC.png" height="25px"> Avaí</p> |
+| <p align="center">3'</p> | <p align="right">Sampaio Corrêa <img src="/static/logos/Sampaio Corrêa FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avai FC.png" height="25px"> Avaí</p> |
 </div>
 
 
