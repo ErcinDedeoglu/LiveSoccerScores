@@ -30,8 +30,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Djibouti <img src="/static/logos/Djibouti.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Guinea-Bissau.png" height="25px"> Guinea-Bissau</p> |
 | <p align="center">16:00</p> | <p align="right">Eritrea <img src="/static/logos/Eritrea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Congo.png" height="25px"> Congo</p> |
-| <p align="center">34'</p> | <p align="right">Gambia <img src="/static/logos/Gambia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Côte d'Ivoire.png" height="25px"> Côte d'Ivoire</p> |
-| <p align="center">33'</p> | <p align="right">Liberia <img src="/static/logos/Liberia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Equatorial Guinea.png" height="25px"> Equat Guinea</p> |
+| <p align="center">HT</p> | <p align="right">Gambia <img src="/static/logos/Gambia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Côte d'Ivoire.png" height="25px"> Côte d'Ivoire</p> |
+| <p align="center">45' 2'</p> | <p align="right">Liberia <img src="/static/logos/Liberia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Equatorial Guinea.png" height="25px"> Equat Guinea</p> |
 | <p align="center">19:00</p> | <p align="right">Chad <img src="/static/logos/Chad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Madagascar.png" height="25px"> Madagascar</p> |
 | <p align="center">19:00</p> | <p align="right">Mali <img src="/static/logos/Mali.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Central African Republic.png" height="25px"> CAR</p> |
 | <p align="center">19:00</p> | <p align="right">Seychelles <img src="/static/logos/Seychelles.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kenya.png" height="25px"> Kenya</p> |
@@ -60,7 +60,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">' '</p> | <p align="right">Russia <img src="/static/logos/Russia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cuba.png" height="25px"> Cuba</p> |
+| <p align="center">16'</p> | <p align="right">Russia <img src="/static/logos/Russia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cuba.png" height="25px"> Cuba</p> |
 </div>
 
 
