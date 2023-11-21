@@ -264,7 +264,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Inter Kashi <img src="/static/logos/Inter Kashi FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"> Mohammedan</p> |
+| <p align="center">22'</p> | <p align="right">Inter Kashi <img src="/static/logos/Inter Kashi FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"> Mohammedan</p> |
 | <p align="center">13:30</p> | <p align="right">Aizawl <img src="/static/logos/Aizawl FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Namdhari FC.png" height="25px"> Namdhari</p> |
 </div>
 
@@ -316,8 +316,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/United States Under 17.png" height="25px"> USA</p> |
-| <p align="center">9'</p> | <p align="right">Mali <img src="/static/logos/Mali Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mexico Under 17.png" height="25px"> Mexico</p> |
+| <p align="center">25'</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/United States Under 17.png" height="25px"> USA</p> |
+| <p align="center">23'</p> | <p align="right">Mali <img src="/static/logos/Mali Under 17.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Mexico Under 17.png" height="25px"> Mexico</p> |
 | <p align="center">12:00</p> | <p align="right">Argentina <img src="/static/logos/Argentina Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
 | <p align="center">12:00</p> | <p align="right">Morocco <img src="/static/logos/Morocco Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IR Iran Under 17.png" height="25px"> Iran</p> |
 </div>
