@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Trinidad <img src="/static/logos/Trinidad and Tobago.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/United States.png" height="25px"> United States</p> |
-| <p align="center">02:00</p> | <p align="right">Panama <img src="/static/logos/Panama.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Costa Rica.png" height="25px"> Costa Rica</p> |
+| <p align="center">FT</p> | <p align="right">Trinidad <img src="/static/logos/Trinidad and Tobago.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/United States.png" height="25px"> United States</p> |
+| <p align="center">10'</p> | <p align="right">Panama <img src="/static/logos/Panama.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Costa Rica.png" height="25px"> Costa Rica</p> |
 | <p align="center">19:00</p> | <p align="right">French Guiana <img src="/static/logos/French Guiana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bermuda.png" height="25px"> Bermuda</p> |
 | <p align="center">19:00</p> | <p align="right">St. Vincent <img src="/static/logos/St. Vincent / Grenadines.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belize.png" height="25px"> Belize</p> |
 | <p align="center">23:00</p> | <p align="right">Bonaire <img src="/static/logos/Bonaire.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Saint Martin.png" height="25px"> Saint Martin</p> |
@@ -109,7 +109,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Curaçao <img src="/static/logos/Curaçao.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/El Salvador.png" height="25px"> El Salvador</p> |
+| <p align="center">FT</p> | <p align="right">Curaçao <img src="/static/logos/Curaçao.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/El Salvador.png" height="25px"> El Salvador</p> |
 | <p align="center">19:45</p> | <p align="right">Austria <img src="/static/logos/Austria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Germany.png" height="25px"> Germany</p> |
 | <p align="center">19:45</p> | <p align="right">Poland <img src="/static/logos/Poland.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Latvia.png" height="25px"> Latvia</p> |
 | <p align="center">19:45</p> | <p align="right">Rep. Ireland <img src="/static/logos/Republic of Ireland.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/New Zealand.png" height="25px"> New Zealand</p> |
