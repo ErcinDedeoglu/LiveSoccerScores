@@ -20,7 +20,7 @@
 | <p align="center">FT</p> | <p align="right">Panama <img src="/static/logos/Panama.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Costa Rica.png" height="25px"> Costa Rica</p> |
 | <p align="center">FT</p> | <p align="right">French Guiana <img src="/static/logos/French Guiana.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Bermuda.png" height="25px"> Bermuda</p> |
 | <p align="center">FT</p> | <p align="right">St. Vincent <img src="/static/logos/St. Vincent / Grenadines.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Belize.png" height="25px"> Belize</p> |
-| <p align="center">23:00</p> | <p align="right">Bonaire <img src="/static/logos/Bonaire.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Saint Martin.png" height="25px"> Saint Martin</p> |
+| <p align="center">39'</p> | <p align="right">Bonaire <img src="/static/logos/Bonaire.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Saint Martin.png" height="25px"> Saint Martin</p> |
 </div>
 
 
@@ -30,9 +30,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Paraguay <img src="/static/logos/Paraguay.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
-| <p align="center">23:30</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chile.png" height="25px"> Chile</p> |
-| <p align="center">23:30</p> | <p align="right">Uruguay <img src="/static/logos/Uruguay.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bolivia.png" height="25px"> Bolivia</p> |
+| <p align="center">40'</p> | <p align="right">Paraguay <img src="/static/logos/Paraguay.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
+| <p align="center">10'</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chile.png" height="25px"> Chile</p> |
+| <p align="center">9'</p> | <p align="right">Uruguay <img src="/static/logos/Uruguay.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bolivia.png" height="25px"> Bolivia</p> |
 </div>
 
 
@@ -122,7 +122,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">46'</p> | <p align="right">Firpo <img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza</p> |
+| <p align="center">FT</p> | <p align="right">Firpo <img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza</p> |
 </div>
 
 
