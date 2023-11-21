@@ -66,8 +66,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Pakistan <img src="/static/logos/Pakistan.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Tajikistan.png" height="25px"> Tajikistan</p> |
-| <p align="center">38'</p> | <p align="right">Myanmar <img src="/static/logos/Myanmar.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
+| <p align="center">59'</p> | <p align="right">Pakistan <img src="/static/logos/Pakistan.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Tajikistan.png" height="25px"> Tajikistan</p> |
+| <p align="center">HT</p> | <p align="right">Myanmar <img src="/static/logos/Myanmar.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Korea DPR.png" height="25px"> Korea DPR</p> |
 | <p align="center">11:00</p> | <p align="right">Chinese Taipeh <img src="/static/logos/Chinese Taipei.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malaysia.png" height="25px"> Malaysia</p> |
 | <p align="center">11:00</p> | <p align="right">Philippines <img src="/static/logos/Philippines.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Indonesia.png" height="25px"> Indonesia</p> |
 | <p align="center">11:45</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lebanon.png" height="25px"> Lebanon</p> |
@@ -211,7 +211,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ukraine Under 19.png" height="25px"> Ukraine</p> |
+| <p align="center">21'</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ukraine Under 19.png" height="25px"> Ukraine</p> |
 | <p align="center">11:00</p> | <p align="right">Georgia <img src="/static/logos/Georgia Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain Under 19.png" height="25px"> Spain</p> |
 | <p align="center">11:00</p> | <p align="right">Moldova <img src="/static/logos/Moldova Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cyprus Under 19.png" height="25px"> Cyprus</p> |
 | <p align="center">11:30</p> | <p align="right">Croatia <img src="/static/logos/Croatia Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Israel Under 19.png" height="25px"> Israel</p> |
@@ -238,8 +238,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Estonia <img src="/static/logos/Estonia Under 17.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Romania Under 17.png" height="25px"> Romania</p> |
-| <p align="center">51'</p> | <p align="right">Norway <img src="/static/logos/Norway Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/France Under 17.png" height="25px"> France</p> |
+| <p align="center">65'</p> | <p align="right">Estonia <img src="/static/logos/Estonia Under 17.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Romania Under 17.png" height="25px"> Romania</p> |
+| <p align="center">64'</p> | <p align="right">Norway <img src="/static/logos/Norway Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/France Under 17.png" height="25px"> France</p> |
 | <p align="center">13:00</p> | <p align="right">Gibraltar <img src="/static/logos/Gibraltar Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wales Under 17.png" height="25px"> Wales</p> |
 | <p align="center">13:00</p> | <p align="right">Israel <img src="/static/logos/Israel Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belgium Under 17.png" height="25px"> Belgium</p> |
 | <p align="center">16:00</p> | <p align="right">Albania <img src="/static/logos/Albania Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Montenegro Under 17.png" height="25px"> Montenegro</p> |
@@ -264,7 +264,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Inter Kashi <img src="/static/logos/Inter Kashi FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"> Mohammedan</p> |
+| <p align="center">90' 1'</p> | <p align="right">Inter Kashi <img src="/static/logos/Inter Kashi FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Mohammedan SC Kolkata.png" height="25px"> Mohammedan</p> |
 | <p align="center">13:30</p> | <p align="right">Aizawl <img src="/static/logos/Aizawl FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Namdhari FC.png" height="25px"> Namdhari</p> |
 </div>
 
@@ -316,8 +316,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/United States Under 17.png" height="25px"> USA</p> |
-| <p align="center">78'</p> | <p align="right">Mali <img src="/static/logos/Mali Under 17.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Mexico Under 17.png" height="25px"> Mexico</p> |
+| <p align="center">90' 1'</p> | <p align="right">Germany <img src="/static/logos/Germany Under 17.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/United States Under 17.png" height="25px"> USA</p> |
+| <p align="center">89'</p> | <p align="right">Mali <img src="/static/logos/Mali Under 17.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Mexico Under 17.png" height="25px"> Mexico</p> |
 | <p align="center">12:00</p> | <p align="right">Argentina <img src="/static/logos/Argentina Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venezuela Under 17.png" height="25px"> Venezuela</p> |
 | <p align="center">12:00</p> | <p align="right">Morocco <img src="/static/logos/Morocco Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IR Iran Under 17.png" height="25px"> Iran</p> |
 </div>
