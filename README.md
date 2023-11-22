@@ -40,7 +40,7 @@
 | <p align="center">FT</p> | <p align="right">Puerto Rico <img src="/static/logos/Puerto Rico.png" height="25px"></p> | <p align="center">6 - 1</p> | <p align="left"><img src="/static/logos/Bahamas.png" height="25px"> Bahamas</p> |
 | <p align="center">FT</p> | <p align="right">Canada <img src="/static/logos/Canada.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Jamaica.png" height="25px"> Jamaica</p> |
 | <p align="center">FT</p> | <p align="right">Nicaragua <img src="/static/logos/Nicaragua.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dominican Republic.png" height="25px"> Dominican Rep</p> |
-| <p align="center">66'</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Honduras.png" height="25px"> Honduras</p> |
+| <p align="center">76'</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Honduras.png" height="25px"> Honduras</p> |
 </div>
 
 
