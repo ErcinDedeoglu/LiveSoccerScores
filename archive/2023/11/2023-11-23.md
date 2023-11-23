@@ -168,7 +168,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">NEROCA <img src="/static/logos/North Eastern Re Organising Cultural Association FC.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Real Kashmir FC.png" height="25px"> Real Kashmir</p> |
-| <p align="center">HT</p> | <p align="right">Rajasthan Utd <img src="/static/logos/Rajasthan United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sreenidi Deccan FC.png" height="25px"> Sreenidi</p> |
+| <p align="center">50'</p> | <p align="right">Rajasthan Utd <img src="/static/logos/Rajasthan United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sreenidi Deccan FC.png" height="25px"> Sreenidi</p> |
 </div>
 
 
@@ -190,7 +190,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">57'</p> | <p align="right">Khuzestan <img src="/static/logos/Esteghlal Meli-Sanati Khuzestan FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"> Sepahan</p> |
+| <p align="center">64'</p> | <p align="right">Khuzestan <img src="/static/logos/Esteghlal Meli-Sanati Khuzestan FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"> Sepahan</p> |
 </div>
 
 
