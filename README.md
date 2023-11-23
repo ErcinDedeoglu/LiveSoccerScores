@@ -48,7 +48,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Egnatia <img src="/static/logos/KS Egnatia Rrogozhinë.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/KF Partizani Tirana.png" height="25px"> Partizani</p> |
-| <p align="center">81'</p> | <p align="right">Dinamo <img src="/static/logos/FC Dinamo City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/KF Erzeni Shijak.png" height="25px"> Erzeni</p> |
+| <p align="center">FT</p> | <p align="right">Dinamo <img src="/static/logos/FC Dinamo City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/KF Erzeni Shijak.png" height="25px"> Erzeni</p> |
 | <p align="center">19:00</p> | <p align="right">Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KS Kukësi.png" height="25px"> Kukësi</p> |
 </div>
 
@@ -103,7 +103,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Fredericia <img src="/static/logos/FC Fredericia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Boldklubben af 1893.png" height="25px"> B 93</p> |
+| <p align="center">HT</p> | <p align="right">Fredericia <img src="/static/logos/FC Fredericia.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Boldklubben af 1893.png" height="25px"> B 93</p> |
 </div>
 
 
@@ -133,7 +133,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:30</p> | <p align="right">Southampton <img src="/static/logos/Southampton FC Women.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arsenal WFC.png" height="25px"> Arsenal</p> |
+| <p align="center">22'</p> | <p align="right">Southampton <img src="/static/logos/Southampton FC Women.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arsenal WFC.png" height="25px"> Arsenal</p> |
 | <p align="center">19:00</p> | <p align="right">Durham <img src="/static/logos/Durham WFC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sheffield United LFC.png" height="25px"> Sheff Utd</p> |
 </div>
 
@@ -154,8 +154,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:45</p> | <p align="right">Häcken <img src="/static/logos/BK Häcken.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Madrid CF.png" height="25px"> Real Madrid</p> |
-| <p align="center">17:45</p> | <p align="right">PSG <img src="/static/logos/Paris Saint Germain FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Bayern München.png" height="25px"> Bayern</p> |
+| <p align="center">51'</p> | <p align="right">Häcken <img src="/static/logos/BK Häcken.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Real Madrid CF.png" height="25px"> Real Madrid</p> |
+| <p align="center">48'</p> | <p align="right">PSG <img src="/static/logos/Paris Saint Germain FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Bayern München.png" height="25px"> Bayern</p> |
 | <p align="center">20:00</p> | <p align="right">Chelsea <img src="/static/logos/Chelsea FC Women.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paris FC.png" height="25px"> Paris</p> |
 | <p align="center">20:00</p> | <p align="right">Roma <img src="/static/logos/AS Roma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFC Ajax.png" height="25px"> Ajax</p> |
 </div>
@@ -246,8 +246,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Falkenberg <img src="/static/logos/Falkenbergs FF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Skövde AIK.png" height="25px"> Skövde</p> |
-| <p align="center">18:00</p> | <p align="right">United Nordic <img src="/static/logos/United IK Nordic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Örgryte IS.png" height="25px"> Örgryte</p> |
+| <p align="center">HT</p> | <p align="right">Falkenberg <img src="/static/logos/Falkenbergs FF.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Skövde AIK.png" height="25px"> Skövde</p> |
+| <p align="center">HT</p> | <p align="right">United Nordic <img src="/static/logos/United IK Nordic.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Örgryte IS.png" height="25px"> Örgryte</p> |
 </div>
 
 
