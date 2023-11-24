@@ -498,7 +498,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Sportivo Amel. <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/General Caballero JLM.png" height="25px"> Caballero JLM</p> |
+| <p align="center">HT</p> | <p align="right">Sportivo Amel. <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/General Caballero JLM.png" height="25px"> Caballero JLM</p> |
 </div>
 
 
@@ -695,7 +695,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Boston River <img src="/static/logos/CA Boston River.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Montevideo City Torque.png" height="25px"> City Torque</p> |
-| <p align="center">HT</p> | <p align="right">Cerro <img src="/static/logos/Club Atlético Cerro.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Liverpool FC Montevideo.png" height="25px"> Liverpool</p> |
+| <p align="center">52'</p> | <p align="right">Cerro <img src="/static/logos/Club Atlético Cerro.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Liverpool FC Montevideo.png" height="25px"> Liverpool</p> |
 </div>
 
 
