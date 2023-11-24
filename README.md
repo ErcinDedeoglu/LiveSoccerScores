@@ -383,7 +383,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Kitchee <img src="/static/logos/Kitchee SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Southern District Recreation & Sports Association.png" height="25px"> Southern</p> |
+| <p align="center">90' 7'</p> | <p align="right">Kitchee <img src="/static/logos/Kitchee SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Southern District Recreation & Sports Association.png" height="25px"> Southern</p> |
 </div>
 
 
@@ -403,9 +403,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Aluminium Arak <img src="/static/logos/Aluminium Arak FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paykan FC.png" height="25px"> Paykan</p> |
+| <p align="center">90' 6'</p> | <p align="right">Aluminium Arak <img src="/static/logos/Aluminium Arak FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paykan FC.png" height="25px"> Paykan</p> |
 | <p align="center">FT</p> | <p align="right">Havadar <img src="/static/logos/Havadar SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Malavan Bandar Anzali FC.png" height="25px"> Malavan</p> |
-| <p align="center">90' 3'</p> | <p align="right">Rafsanjan <img src="/static/logos/Mes Rafsanjan.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sanat Naft FC.png" height="25px"> Sanat Naft</p> |
+| <p align="center">FT</p> | <p align="right">Rafsanjan <img src="/static/logos/Mes Rafsanjan.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sanat Naft FC.png" height="25px"> Sanat Naft</p> |
 </div>
 
 
@@ -447,7 +447,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sabah FC.png" height="25px"> Sabah</p> |
+| <p align="center">HT</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Sabah FC.png" height="25px"> Sabah</p> |
 </div>
 
 
@@ -640,7 +640,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Buriram Utd <img src="/static/logos/Buriram United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ratchaburi FC.png" height="25px"> Ratchaburi</p> |
-| <p align="center">74'</p> | <p align="right">Bangkok Utd <img src="/static/logos/True Bangkok United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nakhon Pathom United FC.png" height="25px"> Nakhon Pathom</p> |
+| <p align="center">90' 7'</p> | <p align="right">Bangkok Utd <img src="/static/logos/True Bangkok United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nakhon Pathom United FC.png" height="25px"> Nakhon Pathom</p> |
 </div>
 
 
@@ -716,7 +716,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Spain <img src="/static/logos/Spain Under 17.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Germany Under 17.png" height="25px"> Germany</p> |
-| <p align="center">HT</p> | <p align="right">Brazil <img src="/static/logos/Brazil Under 17.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Argentina Under 17.png" height="25px"> Argentina</p> |
+| <p align="center">65'</p> | <p align="right">Brazil <img src="/static/logos/Brazil Under 17.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Argentina Under 17.png" height="25px"> Argentina</p> |
 </div>
 
 
