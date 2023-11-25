@@ -211,7 +211,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Wellington <img src="/static/logos/Wellington Phoenix FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City</p> |
 | <p align="center">FT</p> | <p align="right">Central Coast <img src="/static/logos/Central Coast Mariners FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Newcastle Jets FC.png" height="25px"> Newcastle</p> |
-| <p align="center">49'</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Wanderers</p> |
+| <p align="center">80'</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Wanderers</p> |
 </div>
 
 
@@ -335,7 +335,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Isloch <img src="/static/logos/FC Isloch Minsk Region.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Energetik-BGU.png" height="25px"> Energetik-BGU</p> |
+| <p align="center">26'</p> | <p align="right">Isloch <img src="/static/logos/FC Isloch Minsk Region.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Energetik-BGU.png" height="25px"> Energetik-BGU</p> |
 | <p align="center">11:45</p> | <p align="right">Slutsk <img src="/static/logos/FK Slutsk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Shakhtyor Soligorsk.png" height="25px"> Shakhtyor</p> |
 | <p align="center">14:00</p> | <p align="right">Torpedo BelAZ <img src="/static/logos/FC Torpedo-BelAZ Zhodino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Minsk.png" height="25px"> Minsk</p> |
 | <p align="center">16:00</p> | <p align="right">Slavia <img src="/static/logos/FK Slavia-Mozyr.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Gomel.png" height="25px"> Gomel</p> |
@@ -755,7 +755,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Shillong <img src="/static/logos/Shillong Lajong FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"> TRAU</p> |
+| <p align="center">90' 6'</p> | <p align="right">Shillong <img src="/static/logos/Shillong Lajong FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Tiddim Road Athletic Union FC.png" height="25px"> TRAU</p> |
 </div>
 
 
@@ -891,7 +891,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Selangor <img src="/static/logos/Persatuan Bolasepak Selangor.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Perak Darul Ridzuan.png" height="25px"> Perak</p> |
+| <p align="center">HT</p> | <p align="right">Selangor <img src="/static/logos/Persatuan Bolasepak Selangor.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Persatuan Bola Sepak Perak Darul Ridzuan.png" height="25px"> Perak</p> |
 | <p align="center">13:00</p> | <p align="right">Negeri Seem. <img src="/static/logos/Negeri Sembilan FA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Polis Di-Raja Malaysia FA.png" height="25px"> PDRM</p> |
 </div>
 
@@ -1162,8 +1162,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Balestier <img src="/static/logos/Balestier Khalsa FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tanjong Pagar United FC.png" height="25px"> Tanjong</p> |
-| <p align="center">10:00</p> | <p align="right">Hougang Utd <img src="/static/logos/Hougang United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lion City Sailors FC.png" height="25px"> Lion City</p> |
+| <p align="center">25'</p> | <p align="right">Balestier <img src="/static/logos/Balestier Khalsa FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tanjong Pagar United FC.png" height="25px"> Tanjong</p> |
+| <p align="center">27'</p> | <p align="right">Hougang Utd <img src="/static/logos/Hougang United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Lion City Sailors FC.png" height="25px"> Lion City</p> |
 </div>
 
 
@@ -1366,11 +1366,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Chernihiv <img src="/static/logos/FK Chernihiv.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SK Poltava.png" height="25px"> SK Poltava</p> |
-| <p align="center">10:00</p> | <p align="right">Dinaz V. <img src="/static/logos/FC Dinaz Vyshhorod.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Metalurh Zaporizhya.png" height="25px"> Metalurh</p> |
-| <p align="center">10:00</p> | <p align="right">FSC Mariupol <img src="/static/logos/FSC Mariupol'.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"> Kremin'</p> |
-| <p align="center">10:00</p> | <p align="right">Inhulets' <img src="/static/logos/FK Inhulets' Petrove.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Hirnyk-Sport Horishni Plavni.png" height="25px"> Hirnyk-Sport</p> |
-| <p align="center">10:00</p> | <p align="right">Livyi Bereh <img src="/static/logos/FK Livyi Bereh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Viktoriya Sumy.png" height="25px"> Viktoriya Sumy</p> |
+| <p align="center">20'</p> | <p align="right">Chernihiv <img src="/static/logos/FK Chernihiv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SK Poltava.png" height="25px"> SK Poltava</p> |
+| <p align="center">24'</p> | <p align="right">Dinaz V. <img src="/static/logos/FC Dinaz Vyshhorod.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Metalurh Zaporizhya.png" height="25px"> Metalurh</p> |
+| <p align="center">21'</p> | <p align="right">FSC Mariupol <img src="/static/logos/FSC Mariupol'.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Kremin' Kremenchuk.png" height="25px"> Kremin'</p> |
+| <p align="center">24'</p> | <p align="right">Inhulets' <img src="/static/logos/FK Inhulets' Petrove.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Hirnyk-Sport Horishni Plavni.png" height="25px"> Hirnyk-Sport</p> |
+| <p align="center">23'</p> | <p align="right">Livyi Bereh <img src="/static/logos/FK Livyi Bereh.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FK Viktoriya Sumy.png" height="25px"> Viktoriya Sumy</p> |
 </div>
 
 
@@ -1425,7 +1425,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">France <img src="/static/logos/France Under 17.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan Under 17.png" height="25px"> Uzbekistan</p> |
+| <p align="center">90' 4'</p> | <p align="right">France <img src="/static/logos/France Under 17.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan Under 17.png" height="25px"> Uzbekistan</p> |
 | <p align="center">12:00</p> | <p align="right">Mali <img src="/static/logos/Mali Under 17.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Morocco Under 17.png" height="25px"> Morocco</p> |
 </div>
 
