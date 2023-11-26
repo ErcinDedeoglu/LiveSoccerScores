@@ -27,7 +27,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Cincinnati <img src="/static/logos/FC Cincinnati.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Philadelphia Union.png" height="25px"> Philadelphia</p> |
+| <p align="center">FT</p> | <p align="right">Cincinnati <img src="/static/logos/FC Cincinnati.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Philadelphia Union.png" height="25px"> Philadelphia</p> |
 </div>
 
 
@@ -203,7 +203,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">Leones Negros <img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
+| <p align="center">23'</p> | <p align="right">Leones Negros <img src="/static/logos/Club Leones Negros de la Universidad de Guadalajara.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atlante.png" height="25px"> Atlante</p> |
 | <p align="center">23:00</p> | <p align="right">Cancún <img src="/static/logos/Cancún FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportivo Mineros de Zacatecas.png" height="25px"> Mineros</p> |
 </div>
 
@@ -263,7 +263,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11'</p> | <p align="right">Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
+| <p align="center">29'</p> | <p align="right">Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
 | <p align="center">05:00</p> | <p align="right">Canberra <img src="/static/logos/Canberra United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newcastle Jets.png" height="25px"> Newcastle</p> |
 | <p align="center">05:00</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City</p> |
 | <p align="center">06:45</p> | <p align="right">Roar <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide</p> |
@@ -359,9 +359,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">Alajuelense <img src="/static/logos/LD Alajuelense.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/AD Guanacasteca.png" height="25px"> Guanacasteca</p> |
-| <p align="center">50'</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sporting San José FC.png" height="25px"> SP. San José</p> |
-| <p align="center">50'</p> | <p align="right">Pérez Zeledón <img src="/static/logos/Municipal de Pérez Zeledón.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CS Cartaginés.png" height="25px"> Cartaginés</p> |
+| <p align="center">72'</p> | <p align="right">Alajuelense <img src="/static/logos/LD Alajuelense.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/AD Guanacasteca.png" height="25px"> Guanacasteca</p> |
+| <p align="center">68'</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sporting San José FC.png" height="25px"> SP. San José</p> |
+| <p align="center">68'</p> | <p align="right">Pérez Zeledón <img src="/static/logos/Municipal de Pérez Zeledón.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CS Cartaginés.png" height="25px"> Cartaginés</p> |
 | <p align="center">21:00</p> | <p align="right">Guápiles <img src="/static/logos/AD Santos de Guápiles.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Saprissa.png" height="25px"> Saprissa</p> |
 </div>
 
