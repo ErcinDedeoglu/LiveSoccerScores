@@ -129,7 +129,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">12:00</p> | <p align="right">Kings <img src="/static/logos/Bashundhara Kings.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maziya S&RC.png" height="25px"> Maziya</p> |
 | <p align="center">14:00</p> | <p align="right">Mohun Bagan <img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Odisha FC.png" height="25px"> Odisha</p> |
-| <p align="center">16:00</p> | <p align="right">Futuwa <img src="/static/logos/Al Futuwa SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jabal Al Mukaber Club.png" height="25px"> Jabal Mukaber</p> |
+| <p align="center">POS</p> | <p align="right">Futuwa <img src="/static/logos/Al Futuwa SC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Jabal Al Mukaber Club.png" height="25px"> Jabal Mukaber</p> |
 | <p align="center">17:00</p> | <p align="right">Nahda <img src="/static/logos/Al Nahda Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ahed SC.png" height="25px"> Ahed</p> |
 | <p align="center">18:00</p> | <p align="right">Arabi <img src="/static/logos/Al Arabi SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Zawra'a SC.png" height="25px"> Zawra'a</p> |
 | <p align="center">18:00</p> | <p align="right">Riffa <img src="/static/logos/Bahrain Riffa Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Nejmeh SC Beirut.png" height="25px"> Nejmeh</p> |
