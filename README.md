@@ -43,8 +43,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">NOB <img src="/static/logos/Newell's Old Boys.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSD Defensa y Justicia.png" height="25px"> Def y Justicia</p> |
-| <p align="center">00:30</p> | <p align="right">Racing Club <img src="/static/logos/Racing Club de Avellaneda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Belgrano de Córdoba.png" height="25px"> Belgrano</p> |
+| <p align="center">33'</p> | <p align="right">NOB <img src="/static/logos/Newell's Old Boys.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CSD Defensa y Justicia.png" height="25px"> Def y Justicia</p> |
+| <p align="center">36'</p> | <p align="right">Racing Club <img src="/static/logos/Racing Club de Avellaneda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CA Belgrano de Córdoba.png" height="25px"> Belgrano</p> |
 | <p align="center">22:00</p> | <p align="right">Barracas C <img src="/static/logos/CA Barracas Central.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos</p> |
 </div>
 
@@ -55,7 +55,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Goiás <img src="/static/logos/Goiás EC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cruzeiro EC.png" height="25px"> Cruzeiro</p> |
+| <p align="center">46'</p> | <p align="right">Goiás <img src="/static/logos/Goiás EC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cruzeiro EC.png" height="25px"> Cruzeiro</p> |
 </div>
 
 
@@ -130,7 +130,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">O. Petrolero <img src="/static/logos/CD Oriente Petrolero.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Vaca Díez de Pando.png" height="25px"> Vaca Díez</p> |
+| <p align="center">HT</p> | <p align="right">O. Petrolero <img src="/static/logos/CD Oriente Petrolero.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Vaca Díez de Pando.png" height="25px"> Vaca Díez</p> |
 </div>
 
 
