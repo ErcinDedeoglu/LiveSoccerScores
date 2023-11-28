@@ -215,7 +215,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Shakhtar <img src="/static/logos/FC Shakhtar Donetsk Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Royal Antwerp FC Under 19.png" height="25px"> Antwerp</p> |
+| <p align="center">1'</p> | <p align="right">Shakhtar <img src="/static/logos/FC Shakhtar Donetsk Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Royal Antwerp FC Under 19.png" height="25px"> Antwerp</p> |
 | <p align="center">13:00</p> | <p align="right">Feyenoord <img src="/static/logos/Feyenoord Rotterdam Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético de Madrid U19.png" height="25px"> Atl. Madrid</p> |
 | <p align="center">13:00</p> | <p align="right">Lazio <img src="/static/logos/SS Lazio Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Celtic FC Under 19.png" height="25px"> Celtic</p> |
 | <p align="center">13:00</p> | <p align="right">PSG <img src="/static/logos/Paris Saint Germain FC Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newcastle United FC Under 19.png" height="25px"> Newcastle</p> |
