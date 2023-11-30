@@ -66,7 +66,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:06</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
+| <p align="center">9'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
 | <p align="center">03:10</p> | <p align="right">San Luis <img src="/static/logos/Club Atlético de San Luis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Monterrey.png" height="25px"> Monterrey</p> |
 </div>
 
@@ -77,8 +77,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">Coritiba <img src="/static/logos/Coritiba FBC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo FR.png" height="25px"> Botafogo</p> |
-| <p align="center">00:30</p> | <p align="right">Palmeiras <img src="/static/logos/SE Palmeiras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/América FC (Minas Gerais).png" height="25px"> América MG</p> |
+| <p align="center">45' 2'</p> | <p align="right">Coritiba <img src="/static/logos/Coritiba FBC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo FR.png" height="25px"> Botafogo</p> |
+| <p align="center">45' 2'</p> | <p align="right">Palmeiras <img src="/static/logos/SE Palmeiras.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/América FC (Minas Gerais).png" height="25px"> América MG</p> |
 | <p align="center">22:00</p> | <p align="right">Grêmio <img src="/static/logos/Grêmio FB Porto Alegrense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Goiás EC.png" height="25px"> Goiás</p> |
 | <p align="center">23:00</p> | <p align="right">Cruzeiro <img src="/static/logos/Cruzeiro EC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Athletico Paranaense.png" height="25px"> Paranaense</p> |
 | <p align="center">23:30</p> | <p align="right">RB Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fortaleza EC.png" height="25px"> Fortaleza</p> |
@@ -102,7 +102,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:00</p> | <p align="right">Real Sociedad <img src="/static/logos/CD Real Sociedad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Deportivo Génesis.png" height="25px"> Génesis</p> |
+| <p align="center">16'</p> | <p align="right">Real Sociedad <img src="/static/logos/CD Real Sociedad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Deportivo Génesis.png" height="25px"> Génesis</p> |
 </div>
 
 
@@ -140,7 +140,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">Wilstermann <img src="/static/logos/Club Jorge Wilstermann.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club The Strongest.png" height="25px"> The Strongest</p> |
+| <p align="center">45' 3'</p> | <p align="right">Wilstermann <img src="/static/logos/Club Jorge Wilstermann.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club The Strongest.png" height="25px"> The Strongest</p> |
 </div>
 
 
@@ -162,7 +162,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:00</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Fuerte San Francisco.png" height="25px"> Fuerte</p> |
+| <p align="center">51'</p> | <p align="right">Alianza <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/CD Fuerte San Francisco.png" height="25px"> Fuerte</p> |
 | <p align="center">21:15</p> | <p align="right">Jocoro <img src="/static/logos/Jocoro FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Luis Ángel Firpo.png" height="25px"> Firpo</p> |
 </div>
 
@@ -203,7 +203,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:00</p> | <p align="right">Malacateco <img src="/static/logos/CD Malacateco-Coatepeque.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSD Comunicaciones.png" height="25px"> Comunicaciones</p> |
+| <p align="center">13'</p> | <p align="right">Malacateco <img src="/static/logos/CD Malacateco-Coatepeque.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSD Comunicaciones.png" height="25px"> Comunicaciones</p> |
 | <p align="center">21:00</p> | <p align="right">Zacapa <img src="/static/logos/CSD Zacapa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CSD Municipal.png" height="25px"> Municipal</p> |
 </div>
 
@@ -224,7 +224,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:00</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
+| <p align="center">55'</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
 </div>
 
 
@@ -256,7 +256,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:15</p> | <p align="right">Def. Sporting <img src="/static/logos/Defensor Sporting Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA River Plate.png" height="25px"> River Plate</p> |
+| <p align="center">HT</p> | <p align="right">Def. Sporting <img src="/static/logos/Defensor Sporting Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA River Plate.png" height="25px"> River Plate</p> |
 | <p align="center">20:30</p> | <p align="right">Cerro Largo <img src="/static/logos/Cerro Largo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atlético Cerro.png" height="25px"> Cerro</p> |
 | <p align="center">23:30</p> | <p align="right">La Luz <img src="/static/logos/La Luz FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Nacional de Football Montevideo.png" height="25px"> Nacional</p> |
 </div>
