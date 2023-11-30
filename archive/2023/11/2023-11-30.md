@@ -125,7 +125,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Futuro <img src="/static/logos/Taichung Futuro FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/MUST Chao Pak Kei.png" height="25px"> CPK</p> |
 | <p align="center">FT</p> | <p align="right">Macarthur <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Shan United FC.png" height="25px"> Shan United</p> |
-| <p align="center">10:00</p> | <p align="right">Tainan <img src="/static/logos/Tainan City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Ulaanbaatar.png" height="25px"> Ulaanbaatar</p> |
+| <p align="center">8'</p> | <p align="right">Tainan <img src="/static/logos/Tainan City.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Ulaanbaatar.png" height="25px"> Ulaanbaatar</p> |
 | <p align="center">12:00</p> | <p align="right">Crown <img src="/static/logos/Phnom Penh Crown FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dynamic Herb Cebu FC.png" height="25px"> Cebu</p> |
 | <p align="center">12:00</p> | <p align="right">Hougang Utd <img src="/static/logos/Hougang United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sabah FC.png" height="25px"> Sabah</p> |
 | <p align="center">12:00</p> | <p align="right">Merw <img src="/static/logos/Merw Mary FT.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Ravshan Kulob.png" height="25px"> Ravshan</p> |
