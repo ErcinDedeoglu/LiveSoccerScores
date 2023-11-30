@@ -112,7 +112,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Alashkert <img src="/static/logos/Alashkert FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ararat-Armenia FC.png" height="25px"> Ararat-Armenia</p> |
+| <p align="center">77'</p> | <p align="right">Alashkert <img src="/static/logos/Alashkert FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ararat-Armenia FC.png" height="25px"> Ararat-Armenia</p> |
 | <p align="center">14:00</p> | <p align="right">BKMA <img src="/static/logos/Banaki Kentronakan Marzakan Akumb.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Van.png" height="25px"> Van</p> |
 </div>
 
@@ -125,11 +125,11 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Futuro <img src="/static/logos/Taichung Futuro FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/MUST Chao Pak Kei.png" height="25px"> CPK</p> |
 | <p align="center">FT</p> | <p align="right">Macarthur <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Shan United FC.png" height="25px"> Shan United</p> |
-| <p align="center">90' 3'</p> | <p align="right">Tainan <img src="/static/logos/Tainan City.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Ulaanbaatar.png" height="25px"> Ulaanbaatar</p> |
-| <p align="center">12:00</p> | <p align="right">Crown <img src="/static/logos/Phnom Penh Crown FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dynamic Herb Cebu FC.png" height="25px"> Cebu</p> |
-| <p align="center">12:00</p> | <p align="right">Hougang Utd <img src="/static/logos/Hougang United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sabah FC.png" height="25px"> Sabah</p> |
-| <p align="center">12:00</p> | <p align="right">Merw <img src="/static/logos/Merw Mary FT.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Ravshan Kulob.png" height="25px"> Ravshan</p> |
-| <p align="center">12:00</p> | <p align="right">PSM <img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hai Phong FC.png" height="25px"> Hai Phong</p> |
+| <p align="center">FT</p> | <p align="right">Tainan <img src="/static/logos/Tainan City.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/FC Ulaanbaatar.png" height="25px"> Ulaanbaatar</p> |
+| <p align="center">9'</p> | <p align="right">Crown <img src="/static/logos/Phnom Penh Crown FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dynamic Herb Cebu FC.png" height="25px"> Cebu</p> |
+| <p align="center">9'</p> | <p align="right">Hougang Utd <img src="/static/logos/Hougang United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sabah FC.png" height="25px"> Sabah</p> |
+| <p align="center">8'</p> | <p align="right">Merw <img src="/static/logos/Merw Mary FT.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FK Ravshan Kulob.png" height="25px"> Ravshan</p> |
+| <p align="center">9'</p> | <p align="right">PSM <img src="/static/logos/Persatuan Sepakbola Makassar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hai Phong FC.png" height="25px"> Hai Phong</p> |
 | <p align="center">16:00</p> | <p align="right">Altyn <img src="/static/logos/Altyn Asyr FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Abdysh-Ata Kant.png" height="25px"> Abdysh</p> |
 </div>
 
@@ -193,7 +193,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">AEK II <img src="/static/logos/AEK Athens FC II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kampaniakos Chalastras FC.png" height="25px"> Chalastra</p> |
+| <p align="center">40'</p> | <p align="right">AEK II <img src="/static/logos/AEK Athens FC II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kampaniakos Chalastras FC.png" height="25px"> Chalastra</p> |
 </div>
 
 
