@@ -128,7 +128,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Coquimbo <img src="/static/logos/CD Coquimbo Unido.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
+| <p align="center">34'</p> | <p align="right">Coquimbo <img src="/static/logos/CD Coquimbo Unido.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Unión La Calera.png" height="25px"> U. La Calera</p> |
 </div>
 
 
@@ -238,7 +238,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Universitario <img src="/static/logos/FC Universitario de Vinto.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CDSC Guabirá.png" height="25px"> Guabirá</p> |
-| <p align="center">23:00</p> | <p align="right">Bolívar <img src="/static/logos/Club Bolívar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Real Tomayapo.png" height="25px"> Real Tomayapo</p> |
+| <p align="center">36'</p> | <p align="right">Bolívar <img src="/static/logos/Club Bolívar.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CD Real Tomayapo.png" height="25px"> Real Tomayapo</p> |
 </div>
 
 
@@ -520,9 +520,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Cerro Porteño <img src="/static/logos/Club Cerro Porteño.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Guaraní.png" height="25px"> Guaraní</p> |
-| <p align="center">19'</p> | <p align="right">Caballero JLM <img src="/static/logos/General Caballero JLM.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Olimpia.png" height="25px"> Olimpia</p> |
-| <p align="center">19'</p> | <p align="right">Luqueño <img src="/static/logos/Club Sportivo Luqueño.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Nacional Asunción.png" height="25px"> Nacional</p> |
+| <p align="center">HT</p> | <p align="right">Cerro Porteño <img src="/static/logos/Club Cerro Porteño.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Club Guaraní.png" height="25px"> Guaraní</p> |
+| <p align="center">HT</p> | <p align="right">Caballero JLM <img src="/static/logos/General Caballero JLM.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Olimpia.png" height="25px"> Olimpia</p> |
+| <p align="center">HT</p> | <p align="right">Luqueño <img src="/static/logos/Club Sportivo Luqueño.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Nacional Asunción.png" height="25px"> Nacional</p> |
 </div>
 
 
@@ -716,7 +716,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Chile <img src="/static/logos/Chile.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Peru.png" height="25px"> Peru</p> |
+| <p align="center">89'</p> | <p align="right">Chile <img src="/static/logos/Chile.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Peru.png" height="25px"> Peru</p> |
 </div>
 
 
