@@ -480,8 +480,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">POS</p> | <p align="right">Leeds Utd <img src="/static/logos/Leeds United FC Under 18 Academy.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Blackburn Rovers FC Under 18 Academy.png" height="25px"> Blackburn</p> |
 | <p align="center">11:30</p> | <p align="right">Man Utd <img src="/static/logos/Manchester United FC Under 18 Academy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wolverhampton Wanderers FC Under 18 Academy.png" height="25px"> Wolves</p> |
-| <p align="center">12:00</p> | <p align="right">Leeds Utd <img src="/static/logos/Leeds United FC Under 18 Academy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackburn Rovers FC Under 18 Academy.png" height="25px"> Blackburn</p> |
 | <p align="center">12:00</p> | <p align="right">Man City <img src="/static/logos/Manchester City FC Under 18 Academy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liverpool FC Under 18 Academy.png" height="25px"> Liverpool</p> |
 | <p align="center">12:00</p> | <p align="right">Norwich <img src="/static/logos/Norwich City FC Under 18 Academy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crystal Palace FC Under 18 Academy.png" height="25px"> Crystal Palace</p> |
 | <p align="center">12:00</p> | <p align="right">Reading <img src="/static/logos/Reading FC Under 18 Academy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chelsea FC Under 18 Academy.png" height="25px"> Chelsea</p> |
@@ -505,7 +505,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kazakhstan Under 19.png" height="25px"> Kazakhstan</p> |
+| <p align="center">23'</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia Under 19.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Kazakhstan Under 19.png" height="25px"> Kazakhstan</p> |
 | <p align="center">11:00</p> | <p align="right">Finland <img src="/static/logos/Finland Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Israel Under 19.png" height="25px"> Israel</p> |
 | <p align="center">16:00</p> | <p align="right">Germany <img src="/static/logos/Germany Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Norway Under 19.png" height="25px"> Norway</p> |
 </div>
@@ -670,7 +670,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">Real Kashmir <img src="/static/logos/Real Kashmir FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aizawl FC.png" height="25px"> Aizawl</p> |
+| <p align="center">FT</p> | <p align="right">Real Kashmir <img src="/static/logos/Real Kashmir FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aizawl FC.png" height="25px"> Aizawl</p> |
 | <p align="center">13:30</p> | <p align="right">Gokulam Kerala <img src="/static/logos/Gokulam Kerala FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Namdhari FC.png" height="25px"> Namdhari</p> |
 </div>
 
@@ -952,7 +952,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Ayr Utd <img src="/static/logos/Ayr United FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Arbroath FC.png" height="25px"> Arbroath</p> |
-| <p align="center">15:00</p> | <p align="right">Dunfermline <img src="/static/logos/Dunfermline Athletic FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Queen's Park FC.png" height="25px"> Queen's Park</p> |
+| <p align="center">POS</p> | <p align="right">Dunfermline <img src="/static/logos/Dunfermline Athletic FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Queen's Park FC.png" height="25px"> Queen's Park</p> |
 | <p align="center">15:00</p> | <p align="right">Inverness <img src="/static/logos/Inverness Caledonian Thistle FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Raith Rovers FC.png" height="25px"> Raith Rovers</p> |
 | <p align="center">POS</p> | <p align="right">Morton <img src="/static/logos/Greenock Morton FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Dundee United FC.png" height="25px"> Dundee Utd</p> |
 | <p align="center">15:00</p> | <p align="right">Partick <img src="/static/logos/Partick Thistle FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Airdrieonians FC.png" height="25px"> Airdrieonians</p> |
@@ -1198,7 +1198,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">SLNA <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Quang Nam FC.png" height="25px"> Quang Nam</p> |
+| <p align="center">26'</p> | <p align="right">SLNA <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Quang Nam FC.png" height="25px"> Quang Nam</p> |
 | <p align="center">11:00</p> | <p align="right">Sanna <img src="/static/logos/Sanna Khánh Hòa BVN FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thanh Hóa.png" height="25px"> Thanh Hóa</p> |
 </div>
 
