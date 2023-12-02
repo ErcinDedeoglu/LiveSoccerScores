@@ -225,7 +225,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Western United <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Wellington Phoenix FC.png" height="25px"> Wellington</p> |
-| <p align="center">40'</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth</p> |
+| <p align="center">HT</p> | <p align="right">Sydney <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth</p> |
 </div>
 
 
@@ -670,7 +670,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Real Kashmir <img src="/static/logos/Real Kashmir FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aizawl FC.png" height="25px"> Aizawl</p> |
+| <p align="center">51'</p> | <p align="right">Real Kashmir <img src="/static/logos/Real Kashmir FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aizawl FC.png" height="25px"> Aizawl</p> |
 | <p align="center">13:30</p> | <p align="right">Gokulam Kerala <img src="/static/logos/Gokulam Kerala FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Namdhari FC.png" height="25px"> Namdhari</p> |
 </div>
 
@@ -681,8 +681,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Barito <img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
-| <p align="center">62'</p> | <p align="right">Persik <img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dewa United FC.png" height="25px"> Dewa United</p> |
+| <p align="center">81'</p> | <p align="right">Barito <img src="/static/logos/Persatuan Sepak Bola Barito Putera.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo FC.png" height="25px"> Borneo</p> |
+| <p align="center">76'</p> | <p align="right">Persik <img src="/static/logos/Persatuan Sepakbola Indonesia Kediri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dewa United FC.png" height="25px"> Dewa United</p> |
 </div>
 
 
@@ -780,7 +780,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Gimpo <img src="/static/logos/Gimpo Citizen FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Gyeongnam FC.png" height="25px"> Gyeongnam</p> |
+| <p align="center">FT</p> | <p align="right">Gimpo <img src="/static/logos/Gimpo Citizen FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Gyeongnam FC.png" height="25px"> Gyeongnam</p> |
 </div>
 
 
