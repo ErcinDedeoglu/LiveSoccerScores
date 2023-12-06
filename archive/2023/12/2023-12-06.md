@@ -632,7 +632,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">United States <img src="/static/logos/United States.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/China PR.png" height="25px"> China PR</p> |
+| <p align="center">89'</p> | <p align="right">United States <img src="/static/logos/United States.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/China PR.png" height="25px"> China PR</p> |
 | <p align="center">03:00</p> | <p align="right">Canada <img src="/static/logos/Canada.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Australia.png" height="25px"> Australia</p> |
 | <p align="center">21:00</p> | <p align="right">Brazil <img src="/static/logos/Brazil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nicaragua.png" height="25px"> Nicaragua</p> |
 </div>
