@@ -97,9 +97,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Curicó Unido <img src="/static/logos/CD Provincial Curicó Unido.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CSD Colo-Colo.png" height="25px"> Colo Colo</p> |
-| <p align="center">68'</p> | <p align="right">Huachipato <img src="/static/logos/CD Huachipato.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Audax Italiano La Florida SADP.png" height="25px"> Audax</p> |
-| <p align="center">68'</p> | <p align="right">Unión Española <img src="/static/logos/Unión Española.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Cobresal.png" height="25px"> Cobresal</p> |
+| <p align="center">76'</p> | <p align="right">Curicó Unido <img src="/static/logos/CD Provincial Curicó Unido.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CSD Colo-Colo.png" height="25px"> Colo Colo</p> |
+| <p align="center">76'</p> | <p align="right">Huachipato <img src="/static/logos/CD Huachipato.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Audax Italiano La Florida SADP.png" height="25px"> Audax</p> |
+| <p align="center">76'</p> | <p align="right">Unión Española <img src="/static/logos/Unión Española.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Cobresal.png" height="25px"> Cobresal</p> |
 </div>
 
 
