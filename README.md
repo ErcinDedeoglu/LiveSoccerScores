@@ -265,8 +265,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">05:00</p> | <p align="right">Adelaide <img src="/static/logos/Adelaide United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United</p> |
-| <p align="center">05:00</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth Glory</p> |
+| <p align="center">3'</p> | <p align="right">Adelaide <img src="/static/logos/Adelaide United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United</p> |
+| <p align="center">3'</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Perth Glory FC.png" height="25px"> Perth Glory</p> |
 </div>
 
 
@@ -743,8 +743,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">JEF Utd <img src="/static/logos/JEF United Ichihara Chiba Ladies.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Sanfrecce Hiroshima Regina.png" height="25px"> Sanfrecce</p> |
-| <p align="center">42'</p> | <p align="right">Sendai <img src="/static/logos/Mynavi Sendai Ladies.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Omiya Ardija Ventus.png" height="25px"> Omiya Ardija</p> |
+| <p align="center">HT</p> | <p align="right">JEF Utd <img src="/static/logos/JEF United Ichihara Chiba Ladies.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Sanfrecce Hiroshima Regina.png" height="25px"> Sanfrecce</p> |
+| <p align="center">HT</p> | <p align="right">Sendai <img src="/static/logos/Mynavi Sendai Ladies.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Omiya Ardija Ventus.png" height="25px"> Omiya Ardija</p> |
 | <p align="center">05:00</p> | <p align="right">Cerezo Osaka <img src="/static/logos/Cerezo Osaka Sakai Ladies.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nojima Stella Kanagawa Sagamihara.png" height="25px"> Nojima Stella</p> |
 | <p align="center">05:00</p> | <p align="right">Parceiro <img src="/static/logos/AC Parceiro Nagano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/International Athletic Club Kobe Leonessa.png" height="25px"> Leonessa</p> |
 </div>
@@ -756,8 +756,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">05:00</p> | <p align="right">Gangwon <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gimpo Citizen FC.png" height="25px"> Gimpo</p> |
-| <p align="center">05:00</p> | <p align="right">Suwon <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Busan IPark.png" height="25px"> Busan IPark</p> |
+| <p align="center">2'</p> | <p align="right">Gangwon <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimpo Citizen FC.png" height="25px"> Gimpo</p> |
+| <p align="center">2'</p> | <p align="right">Suwon <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Busan IPark.png" height="25px"> Busan IPark</p> |
 </div>
 
 
