@@ -38,7 +38,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">02:00</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"> Pumas</p> |
+| <p align="center">45'</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Pumas de la Universidad Nacional Autonoma de Mexico.png" height="25px"> Pumas</p> |
 </div>
 
 
@@ -171,7 +171,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"> Xelajú</p> |
+| <p align="center">88'</p> | <p align="right">Comunicaciones <img src="/static/logos/CSD Comunicaciones.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CSD Xelajú Mario Camposeco.png" height="25px"> Xelajú</p> |
 </div>
 
 
@@ -181,7 +181,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:30</p> | <p align="right">Real Kashmir <img src="/static/logos/Real Kashmir FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gokulam Kerala FC.png" height="25px"> Gokulam Kerala</p> |
+| <p align="center">05:30</p> | <p align="right">Real Kashmir <img src="/static/logos/Real Kashmir FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gokulam Kerala FC.png" height="25px"> Gokulam Kerala</p> |
 | <p align="center">13:30</p> | <p align="right">Sreenidi <img src="/static/logos/Sreenidi Deccan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Delhi FC.png" height="25px"> Delhi FC</p> |
 </div>
 
