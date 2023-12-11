@@ -80,7 +80,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Pyunik <img src="/static/logos/Pyunik FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Ararat.png" height="25px"> Ararat</p> |
+| <p align="center">27'</p> | <p align="right">Pyunik <img src="/static/logos/Pyunik FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Ararat.png" height="25px"> Ararat</p> |
 </div>
 
 
@@ -90,7 +90,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Maziya <img src="/static/logos/Maziya S&RC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"> Mohun Bagan</p> |
+| <p align="center">29'</p> | <p align="right">Maziya <img src="/static/logos/Maziya S&RC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"> Mohun Bagan</p> |
 | <p align="center">14:00</p> | <p align="right">Odisha <img src="/static/logos/Odisha FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bashundhara Kings.png" height="25px"> Kings</p> |
 | <p align="center">16:00</p> | <p align="right">Kahrabaa <img src="/static/logos/Al Kahrabaa Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ittihad Al Ahli Aleppo SC.png" height="25px"> Al Ittihad</p> |
 | <p align="center">16:00</p> | <p align="right">Wehdat <img src="/static/logos/Al Wehdat SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kuwait SC.png" height="25px"> Kuwait</p> |
@@ -124,10 +124,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">POS</p> | <p align="right">Peterborough <img src="/static/logos/Peterborough United Under 21.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Bristol City Under 21.png" height="25px"> Bristol</p> |
 | <p align="center">19:00</p> | <p align="right">Burnley <img src="/static/logos/Burnley Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leicester City FC Under 21.png" height="25px"> Leicester</p> |
 | <p align="center">19:00</p> | <p align="right">Colchester <img src="/static/logos/Colchester United Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leeds United Under 21.png" height="25px"> Leeds</p> |
 | <p align="center">19:00</p> | <p align="right">Crystal Palace <img src="/static/logos/Crystal Palace Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Middlesbrough Under 21.png" height="25px"> Middlesbrough</p> |
-| <p align="center">19:00</p> | <p align="right">Peterborough <img src="/static/logos/Peterborough United Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bristol City Under 21.png" height="25px"> Bristol</p> |
 | <p align="center">19:00</p> | <p align="right">Sheffield Utd <img src="/static/logos/Sheffield United Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Bromwich Albion Under 21.png" height="25px"> WBA</p> |
 | <p align="center">19:00</p> | <p align="right">Sunderland <img src="/static/logos/Sunderland Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tottenham Hotspur Under 21.png" height="25px"> Spurs</p> |
 | <p align="center">19:00</p> | <p align="right">Wolves <img src="/static/logos/Wolverhampton Wanderers Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Norwich City Under 21.png" height="25px"> Norwich</p> |
@@ -328,7 +328,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">24 Erzincan <img src="/static/logos/24 Erzincan Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Etimesgut Belediye Spor Kulübü.png" height="25px"> Etimesgut BS</p> |
+| <p align="center">25'</p> | <p align="right">24 Erzincan <img src="/static/logos/24 Erzincan Spor Kulübü.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Etimesgut Belediye Spor Kulübü.png" height="25px"> Etimesgut BS</p> |
 | <p align="center">11:00</p> | <p align="right">Erokspor <img src="/static/logos/Esenler Erokspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bucaspor 1928.png" height="25px"> Bucaspor 1928</p> |
 | <p align="center">11:00</p> | <p align="right">Fethiye <img src="/static/logos/Fethiye Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arnavutköy Belediye Spor Kulübü.png" height="25px"> Arnavutköy BS</p> |
 </div>
