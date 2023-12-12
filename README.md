@@ -74,8 +74,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">HT</p> | <p align="right">Buriram Utd <img src="/static/logos/Buriram United FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet</p> |
 | <p align="center">HT</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Zhejiang Professional FC.png" height="25px"> Zhejiang</p> |
-| <p align="center">23'</p> | <p align="right">Darul Ta'zim <img src="/static/logos/Johor Darul Ta'zim FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BG Pathum United FC.png" height="25px"> BGPU</p> |
-| <p align="center">23'</p> | <p align="right">Ulsan <img src="/static/logos/Ulsan Hyundai FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki</p> |
+| <p align="center">32'</p> | <p align="right">Darul Ta'zim <img src="/static/logos/Johor Darul Ta'zim FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/BG Pathum United FC.png" height="25px"> BGPU</p> |
+| <p align="center">33'</p> | <p align="right">Ulsan <img src="/static/logos/Ulsan Hyundai FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki</p> |
 </div>
 
 
