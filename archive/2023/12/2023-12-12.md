@@ -185,9 +185,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Inter <img src="/static/logos/FC Internazionale Milano U19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Sociedad de Fútbol U19.png" height="25px"> Real Sociedad</p> |
-| <p align="center">3'</p> | <p align="right">Lens <img src="/static/logos/Racing Club Lens Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sevilla FC U19.png" height="25px"> Sevilla</p> |
-| <p align="center">3'</p> | <p align="right">Union Berlin <img src="/static/logos/1. FC Union Berlin Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Madrid CF U19.png" height="25px"> Real Madrid</p> |
+| <p align="center">74'</p> | <p align="right">Inter <img src="/static/logos/FC Internazionale Milano U19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Real Sociedad de Fútbol U19.png" height="25px"> Real Sociedad</p> |
+| <p align="center">31'</p> | <p align="right">Lens <img src="/static/logos/Racing Club Lens Under 19.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sevilla FC U19.png" height="25px"> Sevilla</p> |
+| <p align="center">30'</p> | <p align="right">Union Berlin <img src="/static/logos/1. FC Union Berlin Under 19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Real Madrid CF U19.png" height="25px"> Real Madrid</p> |
 | <p align="center">13:00</p> | <p align="right">PSV <img src="/static/logos/PSV Eindhoven Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arsenal FC Under 19.png" height="25px"> Arsenal</p> |
 | <p align="center">13:30</p> | <p align="right">Salzburg <img src="/static/logos/FC Salzburg Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SL Benfica Under 19.png" height="25px"> Benfica</p> |
 | <p align="center">14:00</p> | <p align="right">Man Utd <img src="/static/logos/Manchester United FC Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Bayern München Under 19.png" height="25px"> Bayern</p> |
@@ -263,7 +263,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">33'</p> | <p align="right">Sukhothai <img src="/static/logos/Sukhothai FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Muang Thong United FC.png" height="25px"> Muang Thong</p> |
+| <p align="center">HT</p> | <p align="right">Sukhothai <img src="/static/logos/Sukhothai FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Muang Thong United FC.png" height="25px"> Muang Thong</p> |
 </div>
 
 
