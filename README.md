@@ -72,10 +72,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Buriram Utd <img src="/static/logos/Buriram United FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet</p> |
-| <p align="center">59'</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Zhejiang Professional FC.png" height="25px"> Zhejiang</p> |
-| <p align="center">45' 3'</p> | <p align="right">Darul Ta'zim <img src="/static/logos/Johor Darul Ta'zim FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/BG Pathum United FC.png" height="25px"> BGPU</p> |
-| <p align="center">45' 3'</p> | <p align="right">Ulsan <img src="/static/logos/Ulsan Hyundai FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki</p> |
+| <p align="center">90' 4'</p> | <p align="right">Buriram Utd <img src="/static/logos/Buriram United FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet</p> |
+| <p align="center">90' 3'</p> | <p align="right">Melbourne City <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Zhejiang Professional FC.png" height="25px"> Zhejiang</p> |
+| <p align="center">62'</p> | <p align="right">Darul Ta'zim <img src="/static/logos/Johor Darul Ta'zim FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/BG Pathum United FC.png" height="25px"> BGPU</p> |
+| <p align="center">62'</p> | <p align="right">Ulsan <img src="/static/logos/Ulsan Hyundai FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki</p> |
 </div>
 
 
@@ -185,7 +185,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Inter <img src="/static/logos/FC Internazionale Milano U19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Sociedad de Fútbol U19.png" height="25px"> Real Sociedad</p> |
+| <p align="center">23'</p> | <p align="right">Inter <img src="/static/logos/FC Internazionale Milano U19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Sociedad de Fútbol U19.png" height="25px"> Real Sociedad</p> |
 | <p align="center">12:00</p> | <p align="right">Lens <img src="/static/logos/Racing Club Lens Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sevilla FC U19.png" height="25px"> Sevilla</p> |
 | <p align="center">12:00</p> | <p align="right">Union Berlin <img src="/static/logos/1. FC Union Berlin Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Madrid CF U19.png" height="25px"> Real Madrid</p> |
 | <p align="center">13:00</p> | <p align="right">PSV <img src="/static/logos/PSV Eindhoven Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arsenal FC Under 19.png" height="25px"> Arsenal</p> |
