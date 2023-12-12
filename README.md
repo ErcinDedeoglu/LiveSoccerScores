@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Lens <img src="/static/logos/Racing Club de Lens.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sevilla FC.png" height="25px"> Sevilla</p> |
-| <p align="center">14'</p> | <p align="right">PSV <img src="/static/logos/PSV Eindhoven.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arsenal FC.png" height="25px"> Arsenal</p> |
+| <p align="center">58'</p> | <p align="right">Lens <img src="/static/logos/Racing Club de Lens.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sevilla FC.png" height="25px"> Sevilla</p> |
+| <p align="center">57'</p> | <p align="right">PSV <img src="/static/logos/PSV Eindhoven.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Arsenal FC.png" height="25px"> Arsenal</p> |
 | <p align="center">20:00</p> | <p align="right">Inter <img src="/static/logos/FC Internazionale Milano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Sociedad de Fútbol.png" height="25px"> Real Sociedad</p> |
 | <p align="center">20:00</p> | <p align="right">København <img src="/static/logos/FC København.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Galatasaray Spor Kulübü.png" height="25px"> Galatasaray</p> |
 | <p align="center">20:00</p> | <p align="right">Man Utd <img src="/static/logos/Manchester United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Bayern München.png" height="25px"> Bayern München</p> |
@@ -33,7 +33,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Ittihad <img src="/static/logos/Al Ittihad FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Auckland City FC.png" height="25px"> Auckland</p> |
+| <p align="center">HT</p> | <p align="right">Ittihad <img src="/static/logos/Al Ittihad FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Auckland City FC.png" height="25px"> Auckland</p> |
 </div>
 
 
@@ -95,9 +95,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 9'</p> | <p align="right">Ahed <img src="/static/logos/Al Ahed SC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al Futuwa SC.png" height="25px"> Futuwa</p> |
+| <p align="center">FT</p> | <p align="right">Ahed <img src="/static/logos/Al Ahed SC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al Futuwa SC.png" height="25px"> Futuwa</p> |
 | <p align="center">16:00</p> | <p align="right">Jabal Mukaber <img src="/static/logos/Jabal Al Mukaber Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Nahda Club.png" height="25px"> Nahda</p> |
-| <p align="center">90' 9'</p> | <p align="right">Nejmeh <img src="/static/logos/Al-Nejmeh SC Beirut.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Al Arabi SC.png" height="25px"> Arabi</p> |
+| <p align="center">FT</p> | <p align="right">Nejmeh <img src="/static/logos/Al-Nejmeh SC Beirut.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Al Arabi SC.png" height="25px"> Arabi</p> |
 | <p align="center">FT</p> | <p align="right">Zawra'a <img src="/static/logos/Al Zawra'a SC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bahrain Riffa Club.png" height="25px"> Riffa</p> |
 </div>
 
@@ -203,7 +203,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Phönix Lübeck <img src="/static/logos/1. FC Phönix Lübeck.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Hamburger SV II.png" height="25px"> HSV II</p> |
-| <p align="center">HT</p> | <p align="right">Hansa II <img src="/static/logos/FC Hansa Rostock II.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Viktoria 1889 Berlin Lichterfelde-Tempelhof.png" height="25px"> Viktoria B</p> |
+| <p align="center">FT</p> | <p align="right">Hansa II <img src="/static/logos/FC Hansa Rostock II.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Viktoria 1889 Berlin Lichterfelde-Tempelhof.png" height="25px"> Viktoria B</p> |
 </div>
 
 
@@ -253,7 +253,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Sion <img src="/static/logos/FC Sion.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Stade Nyonnais.png" height="25px"> Nyon</p> |
+| <p align="center">HT</p> | <p align="right">Sion <img src="/static/logos/FC Sion.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Stade Nyonnais.png" height="25px"> Nyon</p> |
 </div>
 
 
