@@ -242,7 +242,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">07:00</p> | <p align="right">Leonessa <img src="/static/logos/International Athletic Club Kobe Leonessa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Omiya Ardija Ventus.png" height="25px"> Omiya Ardija</p> |
+| <p align="center">14'</p> | <p align="right">Leonessa <img src="/static/logos/International Athletic Club Kobe Leonessa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Omiya Ardija Ventus.png" height="25px"> Omiya Ardija</p> |
 </div>
 
 
