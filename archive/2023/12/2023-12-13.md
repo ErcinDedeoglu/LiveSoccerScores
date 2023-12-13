@@ -149,10 +149,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">RB Leipzig <img src="/static/logos/Rasen Ballsport Leipzig Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BSC Young Boys Under 19.png" height="25px"> Young Boys</p> |
-| <p align="center">HT</p> | <p align="right">Antwerp <img src="/static/logos/Royal Antwerp FC Under 19.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Barcelona U19.png" height="25px"> Barcelona</p> |
-| <p align="center">HT</p> | <p align="right">C. Zvezda <img src="/static/logos/FK Crvena Zvezda Beograd Under 19.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Manchester City FC Under 19.png" height="25px"> Man City</p> |
+| <p align="center">46'</p> | <p align="right">Antwerp <img src="/static/logos/Royal Antwerp FC Under 19.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Barcelona U19.png" height="25px"> Barcelona</p> |
+| <p align="center">46'</p> | <p align="right">C. Zvezda <img src="/static/logos/FK Crvena Zvezda Beograd Under 19.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Manchester City FC Under 19.png" height="25px"> Man City</p> |
 | <p align="center">HT</p> | <p align="right">Newcastle <img src="/static/logos/Newcastle United FC Under 19.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/AC Milan U19.png" height="25px"> Milan</p> |
-| <p align="center">14:00</p> | <p align="right">Celtic <img src="/static/logos/Celtic FC Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Feyenoord Rotterdam Under 19.png" height="25px"> Feyenoord</p> |
+| <p align="center">4'</p> | <p align="right">Celtic <img src="/static/logos/Celtic FC Under 19.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Feyenoord Rotterdam Under 19.png" height="25px"> Feyenoord</p> |
 | <p align="center">14:30</p> | <p align="right">Porto <img src="/static/logos/FC Porto Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Shakhtar Donetsk Under 19.png" height="25px"> Shakhtar</p> |
 | <p align="center">15:00</p> | <p align="right">Atl. Madrid <img src="/static/logos/Club Atlético de Madrid U19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SS Lazio Under 19.png" height="25px"> Lazio</p> |
 | <p align="center">15:00</p> | <p align="right">Dortmund <img src="/static/logos/BV Borussia 09 Dortmund Under 19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paris Saint Germain FC Under 19.png" height="25px"> PSG</p> |
@@ -191,8 +191,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">AEK II <img src="/static/logos/AEK Athens FC II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kozani.png" height="25px"> Kozani</p> |
-| <p align="center">HT</p> | <p align="right">Ionikos <img src="/static/logos/PAE Ionikos Nikaias.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/PAE Egaleo FC.png" height="25px"> Egaleo</p> |
+| <p align="center">48'</p> | <p align="right">AEK II <img src="/static/logos/AEK Athens FC II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kozani.png" height="25px"> Kozani</p> |
+| <p align="center">46'</p> | <p align="right">Ionikos <img src="/static/logos/PAE Ionikos Nikaias.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/PAE Egaleo FC.png" height="25px"> Egaleo</p> |
 </div>
 
 
