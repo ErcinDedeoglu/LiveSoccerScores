@@ -66,7 +66,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Medellín <img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Popular Junior FC SA.png" height="25px"> Junior</p> |
+| <p align="center">HT</p> | <p align="right">Medellín <img src="/static/logos/Deportivo Independiente Medellín.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Popular Junior FC SA.png" height="25px"> Junior</p> |
 </div>
 
 
@@ -76,7 +76,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Estudiantes <img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CSD Defensa y Justicia.png" height="25px"> Def y Justicia</p> |
+| <p align="center">88'</p> | <p align="right">Estudiantes <img src="/static/logos/Club Estudiantes de La Plata.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CSD Defensa y Justicia.png" height="25px"> Def y Justicia</p> |
 </div>
 
 
