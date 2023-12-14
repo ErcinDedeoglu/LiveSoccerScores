@@ -86,7 +86,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Futuro <img src="/static/logos/Taichung Futuro FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Ulaanbaatar.png" height="25px"> Ulaanbaatar</p> |
+| <p align="center">74'</p> | <p align="right">Futuro <img src="/static/logos/Taichung Futuro FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Ulaanbaatar.png" height="25px"> Ulaanbaatar</p> |
 | <p align="center">10:00</p> | <p align="right">Abdysh <img src="/static/logos/FK Abdysh-Ata Kant.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Merw Mary FT.png" height="25px"> Merw</p> |
 | <p align="center">12:00</p> | <p align="right">CPK <img src="/static/logos/MUST Chao Pak Kei.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tainan City.png" height="25px"> Tainan</p> |
 | <p align="center">12:00</p> | <p align="right">Cebu <img src="/static/logos/Dynamic Herb Cebu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur</p> |
