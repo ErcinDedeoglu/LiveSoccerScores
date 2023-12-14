@@ -87,7 +87,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Futuro <img src="/static/logos/Taichung Futuro FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Ulaanbaatar.png" height="25px"> Ulaanbaatar</p> |
-| <p align="center">55'</p> | <p align="right">Abdysh <img src="/static/logos/FK Abdysh-Ata Kant.png" height="25px"></p> | <p align="center">6 - 1</p> | <p align="left"><img src="/static/logos/Merw Mary FT.png" height="25px"> Merw</p> |
+| <p align="center">70'</p> | <p align="right">Abdysh <img src="/static/logos/FK Abdysh-Ata Kant.png" height="25px"></p> | <p align="center">6 - 1</p> | <p align="left"><img src="/static/logos/Merw Mary FT.png" height="25px"> Merw</p> |
 | <p align="center">12:00</p> | <p align="right">CPK <img src="/static/logos/MUST Chao Pak Kei.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tainan City.png" height="25px"> Tainan</p> |
 | <p align="center">12:00</p> | <p align="right">Cebu <img src="/static/logos/Dynamic Herb Cebu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur</p> |
 | <p align="center">12:00</p> | <p align="right">Hai Phong <img src="/static/logos/Hai Phong FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hougang United FC.png" height="25px"> Hougang Utd</p> |
@@ -169,7 +169,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:30</p> | <p align="right">Sepahan <img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Foolad Khuzestan FC.png" height="25px"> Foolad</p> |
+| <p align="center">3'</p> | <p align="right">Sepahan <img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Foolad Khuzestan FC.png" height="25px"> Foolad</p> |
 | <p align="center">12:45</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Esteghlal FC.png" height="25px"> Esteghlal</p> |
 | <p align="center">14:00</p> | <p align="right">Shams Azar <img src="/static/logos/Shams Azar Qazvin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran.png" height="25px"> Nassaji</p> |
 </div>
