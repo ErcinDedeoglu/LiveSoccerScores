@@ -71,16 +71,6 @@
 </div>
 
 
-## <img src="/static/logos/Mexico-Liga MX.png" height="25px"> Mexico - Liga MX
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Tigres <img src="/static/logos/CF Tigres de la Universidad Autónoma de Nuevo León.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club América.png" height="25px"> América</p> |
-</div>
-
-
 ## <img src="/static/logos/Netherlands-Eredivisie.png" height="25px"> Netherlands - Eredivisie
 
 <div align="center">
@@ -156,26 +146,6 @@
 </div>
 
 
-## <img src="/static/logos/Bolivia-Copa de la División Profesional.png" height="25px"> Bolivia - Copa de la División Profesional
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Royal Pari <img src="/static/logos/Club Royal Pari.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Jorge Wilstermann.png" height="25px"> Wilstermann</p> |
-</div>
-
-
-## <img src="/static/logos/Costa Rica-Primera División.png" height="25px"> Costa Rica - Primera División
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Herediano <img src="/static/logos/CS Herediano.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Deportivo Saprissa.png" height="25px"> Saprissa</p> |
-</div>
-
-
 ## <img src="/static/logos/Croatia-HNL.png" height="25px"> Croatia - HNL
 
 <div align="center">
@@ -204,7 +174,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Southampton <img src="/static/logos/Southampton FC Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Derby County Under 21.png" height="25px"> Derby</p> |
+| <p align="center">53'</p> | <p align="right">Southampton <img src="/static/logos/Southampton FC Under 21.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Derby County Under 21.png" height="25px"> Derby</p> |
 | <p align="center">18:00</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa FC Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fulham Under 21.png" height="25px"> Fulham</p> |
 | <p align="center">19:00</p> | <p align="right">Everton <img src="/static/logos/Everton Under 21.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Bromwich Albion Under 21.png" height="25px"> WBA</p> |
 </div>
@@ -475,7 +445,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">24'</p> | <p align="right">Prachuap <img src="/static/logos/PT Prachuap FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chonburi FC.png" height="25px"> Chonburi</p> |
+| <p align="center">39'</p> | <p align="right">Prachuap <img src="/static/logos/PT Prachuap FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Chonburi FC.png" height="25px"> Chonburi</p> |
 </div>
 
 
@@ -485,7 +455,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">Nong Bua <img src="/static/logos/Nongbua Pitchaya FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Lampang FC.png" height="25px"> Lampang</p> |
+| <p align="center">80'</p> | <p align="right">Nong Bua <img src="/static/logos/Nongbua Pitchaya FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Lampang FC.png" height="25px"> Lampang</p> |
 </div>
 
 
@@ -508,7 +478,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10'</p> | <p align="right">CAND <img src="/static/logos/Công An Hà Nội.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Quang Nam FC.png" height="25px"> Quang Nam</p> |
+| <p align="center">24'</p> | <p align="right">CAND <img src="/static/logos/Công An Hà Nội.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Quang Nam FC.png" height="25px"> Quang Nam</p> |
 </div>
 
 
