@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa</p> |
+| <p align="center">77'</p> | <p align="right">León <img src="/static/logos/Club León.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa</p> |
 | <p align="center">18:00</p> | <p align="right">Ahly <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ittihad FC.png" height="25px"> Ittihad</p> |
 </div>
 
@@ -118,9 +118,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Bayadh <img src="/static/logos/MC El Bayadh.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
-| <p align="center">54'</p> | <p align="right">Ben Aknoun <img src="/static/logos/ES Ben Aknoun.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> Belouizdad</p> |
-| <p align="center">15:45</p> | <p align="right">CS Constantine <img src="/static/logos/CS Constantine.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JS Kabylie.png" height="25px"> Kabylie</p> |
+| <p align="center">83'</p> | <p align="right">Bayadh <img src="/static/logos/MC El Bayadh.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
+| <p align="center">78'</p> | <p align="right">Ben Aknoun <img src="/static/logos/ES Ben Aknoun.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> Belouizdad</p> |
+| <p align="center">15'</p> | <p align="right">CS Constantine <img src="/static/logos/CS Constantine.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JS Kabylie.png" height="25px"> Kabylie</p> |
 | <p align="center">17:00</p> | <p align="right">ASO Chlef <img src="/static/logos/ASO Chlef.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paradou AC.png" height="25px"> Paradou</p> |
 </div>
 
@@ -152,7 +152,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Gorica <img src="/static/logos/HNK Gorica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NK Varaždin.png" height="25px"> Varaždin</p> |
+| <p align="center">2'</p> | <p align="right">Gorica <img src="/static/logos/HNK Gorica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/NK Varaždin.png" height="25px"> Varaždin</p> |
 </div>
 
 
@@ -162,9 +162,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">El Dakhleya <img src="/static/logos/El Dakhleya SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha</p> |
-| <p align="center">16:00</p> | <p align="right">Geish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"> Mokawloon</p> |
-| <p align="center">16:00</p> | <p align="right">Pharco <img src="/static/logos/Pharco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ZED FC.png" height="25px"> ZED</p> |
+| <p align="center">FT</p> | <p align="right">El Dakhleya <img src="/static/logos/El Dakhleya SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha</p> |
+| <p align="center">1'</p> | <p align="right">Geish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"> Mokawloon</p> |
+| <p align="center">5'</p> | <p align="right">Pharco <img src="/static/logos/Pharco.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/ZED FC.png" height="25px"> ZED</p> |
 </div>
 
 
@@ -255,7 +255,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">48'</p> | <p align="right">NorthEast Utd <img src="/static/logos/NorthEast United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"> Mohun Bagan</p> |
+| <p align="center">73'</p> | <p align="right">NorthEast Utd <img src="/static/logos/NorthEast United FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"> Mohun Bagan</p> |
 </div>
 
 
@@ -348,7 +348,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Voluntari <img src="/static/logos/FC Voluntari.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC U Craiova 1948 SA.png" height="25px"> U Craiova 1948</p> |
+| <p align="center">HT</p> | <p align="right">Voluntari <img src="/static/logos/FC Voluntari.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC U Craiova 1948 SA.png" height="25px"> U Craiova 1948</p> |
 | <p align="center">18:00</p> | <p align="right">Petrolul 52 <img src="/static/logos/ACS Petrolul 52 Ploieşti.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Rapid 1923 Bucureşti.png" height="25px"> Rapid</p> |
 </div>
 
@@ -359,9 +359,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">Fateh <img src="/static/logos/Al Fateh SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Shabab FC.png" height="25px"> Shabab</p> |
-| <p align="center">40'</p> | <p align="right">Hilal <img src="/static/logos/Al Hilal Saudi FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Wehda FC.png" height="25px"> Wehda</p> |
-| <p align="center">39'</p> | <p align="right">Raed <img src="/static/logos/Al Raed Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Damak Club.png" height="25px"> Damak</p> |
+| <p align="center">HT</p> | <p align="right">Fateh <img src="/static/logos/Al Fateh SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Shabab FC.png" height="25px"> Shabab</p> |
+| <p align="center">HT</p> | <p align="right">Hilal <img src="/static/logos/Al Hilal Saudi FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Wehda FC.png" height="25px"> Wehda</p> |
+| <p align="center">HT</p> | <p align="right">Raed <img src="/static/logos/Al Raed Club.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Damak Club.png" height="25px"> Damak</p> |
 </div>
 
 
@@ -391,7 +391,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Novi Pazar <img src="/static/logos/FK Novi Pazar.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FK Radnik Surdulica.png" height="25px"> Radnik</p> |
+| <p align="center">HT</p> | <p align="right">Novi Pazar <img src="/static/logos/FK Novi Pazar.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FK Radnik Surdulica.png" height="25px"> Radnik</p> |
 | <p align="center">17:00</p> | <p align="right">Voždovac <img src="/static/logos/FK Voždovac.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Železničar Pančevo.png" height="25px"> Železničar P</p> |
 </div>
 
@@ -466,8 +466,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Emirates <img src="/static/logos/Emirates Club.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Jazira Club.png" height="25px"> Al Jazira</p> |
 | <p align="center">FT</p> | <p align="right">Hatta <img src="/static/logos/Hatta Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Bataeh Club.png" height="25px"> Al Bataeh</p> |
-| <p align="center">9'</p> | <p align="right">Bani Yas <img src="/static/logos/Bani Yas Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shabab Al Ahli Club.png" height="25px"> Shabab Al Ahli</p> |
-| <p align="center">9'</p> | <p align="right">Sharjah <img src="/static/logos/Sharjah FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Khorfakkan Club.png" height="25px"> Khorfakkan</p> |
+| <p align="center">34'</p> | <p align="right">Bani Yas <img src="/static/logos/Bani Yas Club.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Shabab Al Ahli Club.png" height="25px"> Shabab Al Ahli</p> |
+| <p align="center">34'</p> | <p align="right">Sharjah <img src="/static/logos/Sharjah FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Khorfakkan Club.png" height="25px"> Khorfakkan</p> |
 </div>
 
 
