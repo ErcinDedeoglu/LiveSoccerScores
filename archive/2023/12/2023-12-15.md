@@ -162,7 +162,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 3'</p> | <p align="right">Royal Pari <img src="/static/logos/Club Royal Pari.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Club Jorge Wilstermann.png" height="25px"> Wilstermann</p> |
+| <p align="center">50'</p> | <p align="right">Royal Pari <img src="/static/logos/Club Royal Pari.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Club Jorge Wilstermann.png" height="25px"> Wilstermann</p> |
 </div>
 
 
