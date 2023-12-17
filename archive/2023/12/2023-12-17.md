@@ -358,7 +358,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Altglienicke <img src="/static/logos/VSG Altglienicke.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/1. FC Lokomotive Leipzig.png" height="25px"> Lok Leipzig</p> |
+| <p align="center">POS</p> | <p align="right">Altglienicke <img src="/static/logos/VSG Altglienicke.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/1. FC Lokomotive Leipzig.png" height="25px"> Lok Leipzig</p> |
 | <p align="center">POS</p> | <p align="right">BAK <img src="/static/logos/Berliner AK 07.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/FSV 63 Luckenwalde.png" height="25px"> Luckenwalde</p> |
 | <p align="center">12:00</p> | <p align="right">Hansa II <img src="/static/logos/FC Hansa Rostock II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Rot-Weiß Erfurt.png" height="25px"> Erfurt</p> |
 | <p align="center">13:00</p> | <p align="right">Teutonia Ott. <img src="/static/logos/Teutonia 05 Ottensen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Eintracht Norderstedt.png" height="25px"> Norderstedt</p> |
