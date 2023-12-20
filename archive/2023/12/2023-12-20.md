@@ -241,16 +241,6 @@
 </div>
 
 
-## <img src="/static/logos/Japan-WE League.png" height="25px"> Japan - WE League
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Sanfrecce <img src="/static/logos/FC Sanfrecce Hiroshima Regina.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"> Urawa</p> |
-</div>
-
-
 ## <img src="/static/logos/Netherlands-KNVB Beker.png" height="25px"> Netherlands - KNVB Beker
 
 <div align="center">
