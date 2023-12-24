@@ -150,8 +150,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Sanfrecce <img src="/static/logos/FC Sanfrecce Hiroshima Regina.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nippon TV Tokyo Verdy Beleza.png" height="25px"> Beleza</p> |
-| <p align="center">17'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AC Parceiro Nagano.png" height="25px"> Parceiro</p> |
+| <p align="center">24'</p> | <p align="right">Sanfrecce <img src="/static/logos/FC Sanfrecce Hiroshima Regina.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Nippon TV Tokyo Verdy Beleza.png" height="25px"> Beleza</p> |
+| <p align="center">25'</p> | <p align="right">Urawa <img src="/static/logos/Urawa Red Diamonds Ladies.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AC Parceiro Nagano.png" height="25px"> Parceiro</p> |
 </div>
 
 
