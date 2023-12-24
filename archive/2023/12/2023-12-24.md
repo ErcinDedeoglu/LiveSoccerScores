@@ -114,7 +114,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bengaluru <img src="/static/logos/Bengaluru FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/NorthEast United FC.png" height="25px"> NorthEast Utd</p> |
-| <p align="center">57'</p> | <p align="right">Kerala <img src="/static/logos/Kerala Blasters FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Mumbai City FC.png" height="25px"> Mumbai</p> |
+| <p align="center">65'</p> | <p align="right">Kerala <img src="/static/logos/Kerala Blasters FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Mumbai City FC.png" height="25px"> Mumbai</p> |
 </div>
 
 
@@ -129,7 +129,7 @@
 | <p align="center">FT</p> | <p align="right">Khuzestan <img src="/static/logos/Esteghlal Meli-Sanati Khuzestan FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Rafsanjan</p> |
 | <p align="center">FT</p> | <p align="right">Nassaji <img src="/static/logos/Nassaji Mazandaran.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar</p> |
 | <p align="center">FT</p> | <p align="right">Sepahan <img src="/static/logos/Foolad Mobarakeh Sepahan SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aluminium Arak FC.png" height="25px"> Aluminium Arak</p> |
-| <p align="center">85'</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Shams Azar Qazvin.png" height="25px"> Shams Azar</p> |
+| <p align="center">90' 2'</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Shams Azar Qazvin.png" height="25px"> Shams Azar</p> |
 </div>
 
 
@@ -231,8 +231,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al Bataeh <img src="/static/logos/Al Bataeh Club.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Al Ain FC.png" height="25px"> Al Ain</p> |
 | <p align="center">FT</p> | <p align="right">Sharjah <img src="/static/logos/Sharjah FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ajman Club.png" height="25px"> Ajman</p> |
-| <p align="center">18'</p> | <p align="right">Khorfakkan <img src="/static/logos/Khorfakkan Club.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Wahda FC.png" height="25px"> Al Wahda</p> |
-| <p align="center">18'</p> | <p align="right">Shabab Al Ahli <img src="/static/logos/Shabab Al Ahli Club.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Wasl Club.png" height="25px"> Al Wasl</p> |
+| <p align="center">26'</p> | <p align="right">Khorfakkan <img src="/static/logos/Khorfakkan Club.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Wahda FC.png" height="25px"> Al Wahda</p> |
+| <p align="center">26'</p> | <p align="right">Shabab Al Ahli <img src="/static/logos/Shabab Al Ahli Club.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Wasl Club.png" height="25px"> Al Wasl</p> |
 </div>
 
 
