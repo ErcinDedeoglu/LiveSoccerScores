@@ -119,8 +119,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">M Petah Tikva <img src="/static/logos/Maccabi Petah Tikva FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv FC.png" height="25px"> Maccabi TA</p> |
-| <p align="center">HT</p> | <p align="right">Hapoel Hadera <img src="/static/logos/Hapoel Hadera Shulam Shwartz FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Maccabi Haifa FC.png" height="25px"> M Haifa</p> |
+| <p align="center">76'</p> | <p align="right">M Petah Tikva <img src="/static/logos/Maccabi Petah Tikva FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv FC.png" height="25px"> Maccabi TA</p> |
+| <p align="center">47'</p> | <p align="right">Hapoel Hadera <img src="/static/logos/Hapoel Hadera Shulam Shwartz FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Maccabi Haifa FC.png" height="25px"> M Haifa</p> |
 </div>
 
 
@@ -141,7 +141,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Wehda <img src="/static/logos/Al Wehda FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Riyadh SC.png" height="25px"> Riyadh</p> |
+| <p align="center">75'</p> | <p align="right">Wehda <img src="/static/logos/Al Wehda FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Riyadh SC.png" height="25px"> Riyadh</p> |
 </div>
 
 
