@@ -129,9 +129,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Métlaoui <img src="/static/logos/Étoile Sportive de Métlaoui.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/US Monastirienne.png" height="25px"> Monastir</p> |
-| <p align="center">36'</p> | <p align="right">Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA Bizertin.png" height="25px"> Bizertin</p> |
-| <p align="center">41'</p> | <p align="right">Tunis <img src="/static/logos/Espérance Sportive de Tunis.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CS Sfaxien.png" height="25px"> Sfax</p> |
+| <p align="center">HT</p> | <p align="right">Métlaoui <img src="/static/logos/Étoile Sportive de Métlaoui.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/US Monastirienne.png" height="25px"> Monastir</p> |
+| <p align="center">HT</p> | <p align="right">Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA Bizertin.png" height="25px"> Bizertin</p> |
+| <p align="center">HT</p> | <p align="right">Tunis <img src="/static/logos/Espérance Sportive de Tunis.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CS Sfaxien.png" height="25px"> Sfax</p> |
 </div>
 
 
@@ -144,7 +144,7 @@
 | <p align="center">FT</p> | <p align="right">HAGL <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hà Nội FC.png" height="25px"> Hà Nội</p> |
 | <p align="center">FT</p> | <p align="right">Quang Nam <img src="/static/logos/Quang Nam FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Thanh Hóa.png" height="25px"> Thanh Hóa</p> |
 | <p align="center">FT</p> | <p align="right">Nam Dinh <img src="/static/logos/Duoc Nam Ha Nam Dinh FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Viettel FC.png" height="25px"> Viettel</p> |
-| <p align="center">67'</p> | <p align="right">Hai Phong <img src="/static/logos/Hai Phong FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/SQC Binh Dinh.png" height="25px"> Binh Dinh</p> |
+| <p align="center">83'</p> | <p align="right">Hai Phong <img src="/static/logos/Hai Phong FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/SQC Binh Dinh.png" height="25px"> Binh Dinh</p> |
 </div>
 
 
