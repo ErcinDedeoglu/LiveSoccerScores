@@ -54,7 +54,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">ZED <img src="/static/logos/ZED FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya SC.png" height="25px"> El Dakhleya</p> |
+| <p align="center">72'</p> | <p align="right">ZED <img src="/static/logos/ZED FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya SC.png" height="25px"> El Dakhleya</p> |
 | <p align="center">17:00</p> | <p align="right">Smouha <img src="/static/logos/Smouha SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Geish</p> |
 </div>
 
@@ -65,7 +65,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Mohun Bagan <img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kerala Blasters FC.png" height="25px"> Kerala</p> |
+| <p align="center">51'</p> | <p align="right">Mohun Bagan <img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kerala Blasters FC.png" height="25px"> Kerala</p> |
 </div>
 
 
@@ -88,7 +88,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Sunshine <img src="/static/logos/Sunshine Stars FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Doma United FC.png" height="25px"> Doma United</p> |
+| <p align="center">37'</p> | <p align="right">Sunshine <img src="/static/logos/Sunshine Stars FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Doma United FC.png" height="25px"> Doma United</p> |
 </div>
 
 
@@ -98,7 +98,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Umm Salal <img src="/static/logos/Umm Salal SC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Al Shamal SC.png" height="25px"> Shamal</p> |
+| <p align="center">53'</p> | <p align="right">Umm Salal <img src="/static/logos/Umm Salal SC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Al Shamal SC.png" height="25px"> Shamal</p> |
 | <p align="center">16:30</p> | <p align="right">Ahli <img src="/static/logos/Al Ahli SC (Doha).png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Markhiya.png" height="25px"> Markhiya</p> |
 </div>
 
@@ -109,7 +109,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:30</p> | <p align="right">Mamelodi <img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Moroka Swallows FC.png" height="25px"> Swallows</p> |
+| <p align="center">POS</p> | <p align="right">Mamelodi <img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Moroka Swallows FC.png" height="25px"> Swallows</p> |
 </div>
 
 
