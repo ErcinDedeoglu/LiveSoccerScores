@@ -65,7 +65,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">25'</p> | <p align="right">Mohun Bagan <img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kerala Blasters FC.png" height="25px"> Kerala</p> |
+| <p align="center">35'</p> | <p align="right">Mohun Bagan <img src="/static/logos/Mohun Bagan Super Giant.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kerala Blasters FC.png" height="25px"> Kerala</p> |
 </div>
 
 
@@ -88,7 +88,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Sunshine <img src="/static/logos/Sunshine Stars FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Doma United FC.png" height="25px"> Doma United</p> |
+| <p align="center">2'</p> | <p align="right">Sunshine <img src="/static/logos/Sunshine Stars FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Doma United FC.png" height="25px"> Doma United</p> |
 </div>
 
 
@@ -98,7 +98,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">28'</p> | <p align="right">Umm Salal <img src="/static/logos/Umm Salal SC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Al Shamal SC.png" height="25px"> Shamal</p> |
+| <p align="center">36'</p> | <p align="right">Umm Salal <img src="/static/logos/Umm Salal SC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Al Shamal SC.png" height="25px"> Shamal</p> |
 | <p align="center">16:30</p> | <p align="right">Ahli <img src="/static/logos/Al Ahli SC (Doha).png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Markhiya.png" height="25px"> Markhiya</p> |
 </div>
 
@@ -129,8 +129,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 3'</p> | <p align="right">Métlaoui <img src="/static/logos/Étoile Sportive de Métlaoui.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/US Monastirienne.png" height="25px"> Monastir</p> |
-| <p align="center">90'</p> | <p align="right">Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CA Bizertin.png" height="25px"> Bizertin</p> |
+| <p align="center">FT</p> | <p align="right">Métlaoui <img src="/static/logos/Étoile Sportive de Métlaoui.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/US Monastirienne.png" height="25px"> Monastir</p> |
+| <p align="center">FT</p> | <p align="right">Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CA Bizertin.png" height="25px"> Bizertin</p> |
 | <p align="center">FT</p> | <p align="right">Tunis <img src="/static/logos/Espérance Sportive de Tunis.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CS Sfaxien.png" height="25px"> Sfax</p> |
 </div>
 
