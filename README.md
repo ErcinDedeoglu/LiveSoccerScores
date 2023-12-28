@@ -149,7 +149,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Prachuap <img src="/static/logos/PT Prachuap FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Buriram United FC.png" height="25px"> Buriram Utd</p> |
+| <p align="center">8'</p> | <p align="right">Prachuap <img src="/static/logos/PT Prachuap FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Buriram United FC.png" height="25px"> Buriram Utd</p> |
 | <p align="center">12:00</p> | <p align="right">BGPU <img src="/static/logos/BG Pathum United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leo Chiangrai United FC.png" height="25px"> Chiangrai Utd</p> |
 | <p align="center">12:00</p> | <p align="right">Chonburi <img src="/static/logos/Chonburi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/True Bangkok United FC.png" height="25px"> Bangkok Utd</p> |
 </div>
@@ -161,7 +161,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Zonguldak <img src="/static/logos/Zonguldak Kömür Spor Kulübü.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bucaspor 1928.png" height="25px"> Bucaspor 1928</p> |
+| <p align="center">10'</p> | <p align="right">Zonguldak <img src="/static/logos/Zonguldak Kömür Spor Kulübü.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bucaspor 1928.png" height="25px"> Bucaspor 1928</p> |
 </div>
 
 
