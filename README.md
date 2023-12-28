@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">Brighton & Hove Albion <img src="/static/logos/Brighton & Hove Albion.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tottenham Hotspur.png" height="25px"> Tottenham Hotspur</p> |
+| <p align="center">31'</p> | <p align="right">Brighton & Hove Albion <img src="/static/logos/Brighton & Hove Albion.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Tottenham Hotspur.png" height="25px"> Tottenham Hotspur</p> |
 | <p align="center">20:15</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Ham United.png" height="25px"> West Ham United</p> |
 </div>
 
@@ -57,7 +57,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">CR Belouizdad <img src="/static/logos/CR Belouizdad.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CS Constantine.png" height="25px"> CS Constantine</p> |
+| <p align="center">90' 10'</p> | <p align="right">CR Belouizdad <img src="/static/logos/CR Belouizdad.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CS Constantine.png" height="25px"> CS Constantine</p> |
 </div>
 
 
