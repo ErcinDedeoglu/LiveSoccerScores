@@ -77,9 +77,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">FT</p> | <p align="right">Abo Qir Semad <img src="/static/logos/Abo Qir Semad.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Nogoom FC.png" height="25px"> Nogoom FC</p> |
 | <p align="center">FT</p> | <p align="right">Ghazl Kafr EL Dawar <img src="/static/logos/Ghazl Kafr EL Dawar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aswan FC.png" height="25px"> Aswan FC</p> |
 | <p align="center">FT</p> | <p align="right">Misr Lel Makkasa SC <img src="/static/logos/Misr Lel Makkasa SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Olympic El Qanah FC.png" height="25px"> Olympic El Qanah FC</p> |
-| <p align="center">FT</p> | <p align="right">Abo Qir Semad <img src="/static/logos/Abo Qir Semad.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Nogoom FC.png" height="25px"> Nogoom FC</p> |
 </div>
 
 
@@ -100,7 +100,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 5'</p> | <p align="right">Mumbai City FC <img src="/static/logos/Mumbai City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin FC</p> |
+| <p align="center">HT</p> | <p align="right">Mumbai City FC <img src="/static/logos/Mumbai City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin FC</p> |
 </div>
 
 
@@ -111,17 +111,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Sepahan.png" height="25px"> Sepahan</p> |
-| <p align="center">60'</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
-</div>
-
-
-## <img src="/static/logos/Jamaica-Premier League.png" height="25px"> Jamaica - Premier League
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Arnett Gardens <img src="/static/logos/Arnett Gardens.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Mount Pleasant.png" height="25px"> Mount Pleasant</p> |
+| <p align="center">68'</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
 </div>
 
 
@@ -131,8 +121,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18'</p> | <p align="right">FUS Rabat <img src="/static/logos/FUS Rabat.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Youssoufia Berrechid.png" height="25px"> Youssoufia Berrechid</p> |
-| <p align="center">20'</p> | <p align="right">Raja Casablanca <img src="/static/logos/Raja Casablanca.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ittihad Tanger.png" height="25px"> Ittihad Tanger</p> |
+| <p align="center">25'</p> | <p align="right">FUS Rabat <img src="/static/logos/FUS Rabat.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Youssoufia Berrechid.png" height="25px"> Youssoufia Berrechid</p> |
+| <p align="center">27'</p> | <p align="right">Raja Casablanca <img src="/static/logos/Raja Casablanca.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ittihad Tanger.png" height="25px"> Ittihad Tanger</p> |
 | <p align="center">17:00</p> | <p align="right">Chabab Mohammedia <img src="/static/logos/Chabab Mohammedia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/RSB Berkane.png" height="25px"> RSB Berkane</p> |
 | <p align="center">19:00</p> | <p align="right">MAT Tetouan <img src="/static/logos/MAT Tetouan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Union Touarga Sport.png" height="25px"> Union Touarga Sport</p> |
 </div>
@@ -144,15 +134,15 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Katsina United <img src="/static/logos/Katsina United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Akwa United.png" height="25px"> Akwa United</p> |
-| <p align="center">17'</p> | <p align="right">Kano Pillars <img src="/static/logos/Kano Pillars.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kwara United.png" height="25px"> Kwara United</p> |
-| <p align="center">20'</p> | <p align="right">Abia Warriors <img src="/static/logos/Abia Warriors.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gombe United.png" height="25px"> Gombe United</p> |
-| <p align="center">15'</p> | <p align="right">Enugu Rangers <img src="/static/logos/Enugu Rangers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
-| <p align="center">11'</p> | <p align="right">Bayelsa United <img src="/static/logos/Bayelsa United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
-| <p align="center">16'</p> | <p align="right">Heartland Owerri <img src="/static/logos/Heartland Owerri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
-| <p align="center">20'</p> | <p align="right">Rivers United FC <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Insurance</p> |
-| <p align="center">17'</p> | <p align="right">Plateau United <img src="/static/logos/Plateau United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sporting Lagos.png" height="25px"> Sporting Lagos</p> |
-| <p align="center">20'</p> | <p align="right">Lobi Stars <img src="/static/logos/Lobi Stars.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Niger Tornadoes.png" height="25px"> Niger Tornadoes</p> |
+| <p align="center">HT</p> | <p align="right">Katsina United <img src="/static/logos/Katsina United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Akwa United.png" height="25px"> Akwa United</p> |
+| <p align="center">24'</p> | <p align="right">Kano Pillars <img src="/static/logos/Kano Pillars.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kwara United.png" height="25px"> Kwara United</p> |
+| <p align="center">27'</p> | <p align="right">Abia Warriors <img src="/static/logos/Abia Warriors.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Gombe United.png" height="25px"> Gombe United</p> |
+| <p align="center">22'</p> | <p align="right">Enugu Rangers <img src="/static/logos/Enugu Rangers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
+| <p align="center">18'</p> | <p align="right">Bayelsa United <img src="/static/logos/Bayelsa United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
+| <p align="center">27'</p> | <p align="right">Lobi Stars <img src="/static/logos/Lobi Stars.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Niger Tornadoes.png" height="25px"> Niger Tornadoes</p> |
+| <p align="center">24'</p> | <p align="right">Plateau United <img src="/static/logos/Plateau United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sporting Lagos.png" height="25px"> Sporting Lagos</p> |
+| <p align="center">23'</p> | <p align="right">Heartland Owerri <img src="/static/logos/Heartland Owerri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
+| <p align="center">27'</p> | <p align="right">Rivers United FC <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Insurance</p> |
 </div>
 
 
@@ -162,8 +152,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
-| <p align="center">20'</p> | <p align="right">Al-Ettifaq <img src="/static/logos/Al-Ettifaq.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Hazem.png" height="25px"> Al Hazem</p> |
+| <p align="center">27'</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
+| <p align="center">27'</p> | <p align="right">Al-Ettifaq <img src="/static/logos/Al-Ettifaq.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Hazem.png" height="25px"> Al Hazem</p> |
 </div>
 
 
