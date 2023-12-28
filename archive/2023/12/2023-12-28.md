@@ -67,9 +67,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:30</p> | <p align="right">Misr Lel Makkasa SC <img src="/static/logos/Misr Lel Makkasa SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympic El Qanah FC.png" height="25px"> Olympic El Qanah FC</p> |
-| <p align="center">12:30</p> | <p align="right">Ghazl Kafr EL Dawar <img src="/static/logos/Ghazl Kafr EL Dawar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aswan FC.png" height="25px"> Aswan FC</p> |
 | <p align="center">12:30</p> | <p align="right">Abo Qir Semad <img src="/static/logos/Abo Qir Semad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nogoom FC.png" height="25px"> Nogoom FC</p> |
+| <p align="center">12:30</p> | <p align="right">Ghazl Kafr EL Dawar <img src="/static/logos/Ghazl Kafr EL Dawar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aswan FC.png" height="25px"> Aswan FC</p> |
+| <p align="center">12:30</p> | <p align="right">Misr Lel Makkasa SC <img src="/static/logos/Misr Lel Makkasa SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympic El Qanah FC.png" height="25px"> Olympic El Qanah FC</p> |
 </div>
 
 
@@ -93,6 +93,19 @@
 </div>
 
 
+## <img src="/static/logos/Morocco-Botola Pro.png" height="25px"> Morocco - Botola Pro
+
+<div align="center">
+
+&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
+| ------------ | ------------ | ------------ | ------------ |
+| <p align="center">15:00</p> | <p align="right">FUS Rabat <img src="/static/logos/FUS Rabat.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Youssoufia Berrechid.png" height="25px"> Youssoufia Berrechid</p> |
+| <p align="center">15:00</p> | <p align="right">Raja Casablanca <img src="/static/logos/Raja Casablanca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ittihad Tanger.png" height="25px"> Ittihad Tanger</p> |
+| <p align="center">17:00</p> | <p align="right">Chabab Mohammedia <img src="/static/logos/Chabab Mohammedia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/RSB Berkane.png" height="25px"> RSB Berkane</p> |
+| <p align="center">19:00</p> | <p align="right">MAT Tetouan <img src="/static/logos/MAT Tetouan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Union Touarga Sport.png" height="25px"> Union Touarga Sport</p> |
+</div>
+
+
 ## <img src="/static/logos/Saudi Arabia-Saudi League.png" height="25px"> Saudi Arabia - Saudi League
 
 <div align="center">
@@ -104,6 +117,29 @@
 </div>
 
 
+## <img src="/static/logos/Tanzania-Premier League.png" height="25px"> Tanzania - Premier League
+
+<div align="center">
+
+&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
+| ------------ | ------------ | ------------ | ------------ |
+| <p align="center">POS</p> | <p align="right">Tabora United <img src="/static/logos/Tabora United.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Namungo FC.png" height="25px"> Namungo FC</p> |
+| <p align="center">POS</p> | <p align="right">JKT Tanzania <img src="/static/logos/JKT Tanzania.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Simba SC.png" height="25px"> Simba SC</p> |
+</div>
+
+
+## <img src="/static/logos/Thailand-Thai League 1.png" height="25px"> Thailand - Thai League 1
+
+<div align="center">
+
+&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
+| ------------ | ------------ | ------------ | ------------ |
+| <p align="center">FT</p> | <p align="right">Prachuap FC <img src="/static/logos/Prachuap FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Buriram United.png" height="25px"> Buriram United</p> |
+| <p align="center">86'</p> | <p align="right">Chonburi FC <img src="/static/logos/Chonburi FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bangkok United.png" height="25px"> Bangkok United</p> |
+| <p align="center">86'</p> | <p align="right">BG Pathum United <img src="/static/logos/BG Pathum United.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Chiangrai United.png" height="25px"> Chiangrai United</p> |
+</div>
+
+
 ## <img src="/static/logos/Turkey-2. Lig.png" height="25px"> Turkey - 2. Lig
 
 <div align="center">
@@ -111,6 +147,16 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Zonguldak Komurspor <img src="/static/logos/Zonguldak Komurspor.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/1928 Bucaspor.png" height="25px"> 1928 Bucaspor</p> |
+</div>
+
+
+## <img src="/static/logos/Uganda-Premier League.png" height="25px"> Uganda - Premier League
+
+<div align="center">
+
+&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
+| ------------ | ------------ | ------------ | ------------ |
+| <p align="center">13:00</p> | <p align="right">BUL FC <img src="/static/logos/BUL FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Busoga United FC.png" height="25px"> Busoga United FC</p> |
 </div>
 
 
