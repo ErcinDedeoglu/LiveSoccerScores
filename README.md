@@ -100,7 +100,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Mumbai City FC <img src="/static/logos/Mumbai City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin FC</p> |
+| <p align="center">29'</p> | <p align="right">Mumbai City FC <img src="/static/logos/Mumbai City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chennaiyin FC.png" height="25px"> Chennaiyin FC</p> |
 </div>
 
 
@@ -134,7 +134,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Katsina United <img src="/static/logos/Katsina United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Akwa United.png" height="25px"> Akwa United</p> |
+| <p align="center">24'</p> | <p align="right">Katsina United <img src="/static/logos/Katsina United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Akwa United.png" height="25px"> Akwa United</p> |
 | <p align="center">15:00</p> | <p align="right">Kano Pillars <img src="/static/logos/Kano Pillars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kwara United.png" height="25px"> Kwara United</p> |
 | <p align="center">15:00</p> | <p align="right">Abia Warriors <img src="/static/logos/Abia Warriors.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gombe United.png" height="25px"> Gombe United</p> |
 | <p align="center">15:00</p> | <p align="right">Enugu Rangers <img src="/static/logos/Enugu Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
@@ -197,9 +197,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">BUL FC <img src="/static/logos/BUL FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Busoga United FC.png" height="25px"> Busoga United FC</p> |
-| <p align="center">13:00</p> | <p align="right">Kitara FC <img src="/static/logos/Kitara FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arua Hill SC.png" height="25px"> Arua Hill SC</p> |
-| <p align="center">13:00</p> | <p align="right">UPDF FC <img src="/static/logos/UPDF FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KCCA FC.png" height="25px"> KCCA FC</p> |
+| <p align="center">FT</p> | <p align="right">BUL FC <img src="/static/logos/BUL FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Busoga United FC.png" height="25px"> Busoga United FC</p> |
+| <p align="center">FT</p> | <p align="right">Kitara FC <img src="/static/logos/Kitara FC.png" height="25px"></p> | <p align="center">7 - 1</p> | <p align="left"><img src="/static/logos/Arua Hill SC.png" height="25px"> Arua Hill SC</p> |
+| <p align="center">FT</p> | <p align="right">UPDF FC <img src="/static/logos/UPDF FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/KCCA FC.png" height="25px"> KCCA FC</p> |
 </div>
 
 
