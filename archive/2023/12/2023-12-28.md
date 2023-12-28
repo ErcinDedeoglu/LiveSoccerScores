@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Brighton & Hove Albion <img src="/static/logos/Brighton & Hove Albion.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Tottenham Hotspur.png" height="25px"> Tottenham Hotspur</p> |
-| <p align="center">86'</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/West Ham United.png" height="25px"> West Ham United</p> |
+| <p align="center">FT</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/West Ham United.png" height="25px"> West Ham United</p> |
 </div>
 
 
@@ -27,7 +27,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">Estrela da Amadora <img src="/static/logos/Estrela da Amadora.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Arouca.png" height="25px"> Arouca</p> |
+| <p align="center">FT</p> | <p align="right">Estrela da Amadora <img src="/static/logos/Estrela da Amadora.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Arouca.png" height="25px"> Arouca</p> |
 </div>
 
 
@@ -152,8 +152,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Al-Ettifaq <img src="/static/logos/Al-Ettifaq.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Hazem.png" height="25px"> Al Hazem</p> |
 | <p align="center">FT</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
+| <p align="center">FT</p> | <p align="right">Al-Ettifaq <img src="/static/logos/Al-Ettifaq.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Hazem.png" height="25px"> Al Hazem</p> |
 </div>
 
 
@@ -197,9 +197,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">UPDF FC <img src="/static/logos/UPDF FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/KCCA FC.png" height="25px"> KCCA FC</p> |
 | <p align="center">FT</p> | <p align="right">BUL FC <img src="/static/logos/BUL FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Busoga United FC.png" height="25px"> Busoga United FC</p> |
 | <p align="center">FT</p> | <p align="right">Kitara FC <img src="/static/logos/Kitara FC.png" height="25px"></p> | <p align="center">7 - 1</p> | <p align="left"><img src="/static/logos/Arua Hill SC.png" height="25px"> Arua Hill SC</p> |
+| <p align="center">FT</p> | <p align="right">UPDF FC <img src="/static/logos/UPDF FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/KCCA FC.png" height="25px"> KCCA FC</p> |
 </div>
 
 
