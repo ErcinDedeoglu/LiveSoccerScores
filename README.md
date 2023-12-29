@@ -81,10 +81,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">41'</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/US Souf.png" height="25px"> US Souf</p> |
-| <p align="center">45'</p> | <p align="right">Paradou AC <img src="/static/logos/Paradou AC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JS Saoura.png" height="25px"> JS Saoura</p> |
-| <p align="center">44'</p> | <p align="right">USM Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ASO Chlef.png" height="25px"> ASO Chlef</p> |
-| <p align="center">5'</p> | <p align="right">ES Setif <img src="/static/logos/ES Setif.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
+| <p align="center">HT</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/US Souf.png" height="25px"> US Souf</p> |
+| <p align="center">HT</p> | <p align="right">Paradou AC <img src="/static/logos/Paradou AC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JS Saoura.png" height="25px"> JS Saoura</p> |
+| <p align="center">HT</p> | <p align="right">USM Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ASO Chlef.png" height="25px"> ASO Chlef</p> |
+| <p align="center">16'</p> | <p align="right">ES Setif <img src="/static/logos/ES Setif.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
 | <p align="center">17:00</p> | <p align="right">USM Alger <img src="/static/logos/USM Alger.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
 | <p align="center">17:00</p> | <p align="right">US Biskra <img src="/static/logos/US Biskra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ben Aknoun.png" height="25px"> Ben Aknoun</p> |
 </div>
@@ -185,7 +185,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Accra Lions <img src="/static/logos/Accra Lions.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Samartex.png" height="25px"> Samartex</p> |
+| <p align="center">10'</p> | <p align="right">Accra Lions <img src="/static/logos/Accra Lions.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Samartex.png" height="25px"> Samartex</p> |
 </div>
 
 
@@ -196,7 +196,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Odisha FC <img src="/static/logos/Odisha FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Jamshedpur FC.png" height="25px"> Jamshedpur FC</p> |
-| <p align="center">34'</p> | <p align="right">Northeast United FC <img src="/static/logos/Northeast United FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Goa.png" height="25px"> FC Goa</p> |
+| <p align="center">45' 1'</p> | <p align="right">Northeast United FC <img src="/static/logos/Northeast United FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Goa.png" height="25px"> FC Goa</p> |
 </div>
 
 
@@ -255,7 +255,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">6'</p> | <p align="right">Renaissance Club Zemamra <img src="/static/logos/Renaissance Club Zemamra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MCO Oujda.png" height="25px"> MCO Oujda</p> |
+| <p align="center">17'</p> | <p align="right">Renaissance Club Zemamra <img src="/static/logos/Renaissance Club Zemamra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MCO Oujda.png" height="25px"> MCO Oujda</p> |
 | <p align="center">17:00</p> | <p align="right">Hassania Agadir <img src="/static/logos/Hassania Agadir.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MAS Fes.png" height="25px"> MAS Fes</p> |
 | <p align="center">17:00</p> | <p align="right">Olympic Club de Safi <img src="/static/logos/Olympic Club de Safi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wydad Casablanca.png" height="25px"> Wydad Casablanca</p> |
 | <p align="center">19:00</p> | <p align="right">Salmi <img src="/static/logos/Salmi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FAR Rabat.png" height="25px"> FAR Rabat</p> |
@@ -268,8 +268,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Al-Raed <img src="/static/logos/Al-Raed.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Abha.png" height="25px"> Abha</p> |
-| <p align="center">5'</p> | <p align="right">Al-Fayha <img src="/static/logos/Al-Fayha.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
+| <p align="center">15'</p> | <p align="right">Al-Raed <img src="/static/logos/Al-Raed.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Abha.png" height="25px"> Abha</p> |
+| <p align="center">16'</p> | <p align="right">Al-Fayha <img src="/static/logos/Al-Fayha.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
 | <p align="center">18:00</p> | <p align="right">Al Ahli <img src="/static/logos/Al Ahli.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Khaleej.png" height="25px"> Al Khaleej</p> |
 </div>
 
