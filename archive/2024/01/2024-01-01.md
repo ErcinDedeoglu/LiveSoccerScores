@@ -37,7 +37,7 @@
 | <p align="center">FT</p> | <p align="right">Blackburn Rovers <img src="/static/logos/Blackburn Rovers.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Rotherham United.png" height="25px"> Rotherham United</p> |
 | <p align="center">FT</p> | <p align="right">Leicester City <img src="/static/logos/Leicester City.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Huddersfield Town.png" height="25px"> Huddersfield Town</p> |
 | <p align="center">FT</p> | <p align="right">Stoke City <img src="/static/logos/Stoke City.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ipswich Town.png" height="25px"> Ipswich Town</p> |
-| <p align="center">28'</p> | <p align="right">Sheffield Wednesday <img src="/static/logos/Sheffield Wednesday.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hull City.png" height="25px"> Hull City</p> |
+| <p align="center">36'</p> | <p align="right">Sheffield Wednesday <img src="/static/logos/Sheffield Wednesday.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hull City.png" height="25px"> Hull City</p> |
 </div>
 
 
@@ -58,7 +58,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">El Dakhleya <img src="/static/logos/El Dakhleya.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Ittihad Alexandria.png" height="25px"> Al Ittihad Alexandria</p> |
-| <p align="center">42'</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ismaily SC.png" height="25px"> Ismaily SC</p> |
+| <p align="center">HT</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ismaily SC.png" height="25px"> Ismaily SC</p> |
 </div>
 
 
@@ -195,9 +195,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Hapoel Rishon LeZion <img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"> Maccabi Kabilio Jaffa</p> |
-| <p align="center">45'</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"> Hapoel Nof HaGalil</p> |
-| <p align="center">45' 1'</p> | <p align="right">Sektzia Nes Tziona <img src="/static/logos/Sektzia Nes Tziona.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
+| <p align="center">HT</p> | <p align="right">Hapoel Rishon LeZion <img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"> Maccabi Kabilio Jaffa</p> |
+| <p align="center">HT</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"> Hapoel Nof HaGalil</p> |
+| <p align="center">HT</p> | <p align="right">Sektzia Nes Tziona <img src="/static/logos/Sektzia Nes Tziona.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
 </div>
 
 
