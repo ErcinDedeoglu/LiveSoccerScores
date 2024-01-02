@@ -53,7 +53,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:30</p> | <p align="right">Olympic El Qanah FC <img src="/static/logos/Olympic El Qanah FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ghazl Kafr EL Dawar.png" height="25px"> Ghazl Kafr EL Dawar</p> |
+| <p align="center">FT</p> | <p align="right">Olympic El Qanah FC <img src="/static/logos/Olympic El Qanah FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ghazl Kafr EL Dawar.png" height="25px"> Ghazl Kafr EL Dawar</p> |
 </div>
 
 
@@ -149,7 +149,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Soltilo Bright Stars FC <img src="/static/logos/Soltilo Bright Stars FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maroons FC.png" height="25px"> Maroons FC</p> |
+| <p align="center">FT</p> | <p align="right">Soltilo Bright Stars FC <img src="/static/logos/Soltilo Bright Stars FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Maroons FC.png" height="25px"> Maroons FC</p> |
 | <p align="center">13:00</p> | <p align="right">SC Villa <img src="/static/logos/SC Villa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UPDF FC.png" height="25px"> UPDF FC</p> |
 | <p align="center">13:00</p> | <p align="right">Busoga United FC <img src="/static/logos/Busoga United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kitara FC.png" height="25px"> Kitara FC</p> |
 | <p align="center">13:00</p> | <p align="right">Mbarara City <img src="/static/logos/Mbarara City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wakiso Giants.png" height="25px"> Wakiso Giants</p> |
