@@ -157,7 +157,7 @@
 | <p align="center">13:00</p> | <p align="right">CS Sfaxien <img src="/static/logos/CS Sfaxien.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/US Monastir.png" height="25px"> US Monastir</p> |
 | <p align="center">13:00</p> | <p align="right">Etoile Metlaoui <img src="/static/logos/Etoile Metlaoui.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avenir de La Marsa.png" height="25px"> Avenir de La Marsa</p> |
 | <p align="center">13:00</p> | <p align="right">Olympique de Beja <img src="/static/logos/Olympique de Beja.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Africain.png" height="25px"> Club Africain</p> |
-| <p align="center">87'</p> | <p align="right">Ben Guerdane <img src="/static/logos/Ben Guerdane.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Gafsa.png" height="25px"> Gafsa</p> |
+| <p align="center">FT</p> | <p align="right">Ben Guerdane <img src="/static/logos/Ben Guerdane.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Gafsa.png" height="25px"> Gafsa</p> |
 | <p align="center">13:00</p> | <p align="right">Esperance <img src="/static/logos/Esperance.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CA Bizertin.png" height="25px"> CA Bizertin</p> |
 </div>
 
