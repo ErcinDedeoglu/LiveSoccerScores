@@ -40,14 +40,14 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Colombe <img src="/static/logos/Colombe.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Dynamo de Douala.png" height="25px"> Dynamo de Douala</p> |
-| <p align="center">POS</p> | <p align="right">Union Douala <img src="/static/logos/Union Douala.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Les Astres.png" height="25px"> Les Astres</p> |
 | <p align="center">POS</p> | <p align="right">Canon Sportif <img src="/static/logos/Canon Sportif.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Bamboutos.png" height="25px"> Bamboutos</p> |
+| <p align="center">POS</p> | <p align="right">Fovu Club <img src="/static/logos/Fovu Club.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Stade Renard.png" height="25px"> Stade Renard</p> |
+| <p align="center">POS</p> | <p align="right">Union Douala <img src="/static/logos/Union Douala.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Les Astres.png" height="25px"> Les Astres</p> |
 | <p align="center">POS</p> | <p align="right">UMS de Loum <img src="/static/logos/UMS de Loum.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Victoria United.png" height="25px"> Victoria United</p> |
 | <p align="center">POS</p> | <p align="right">Fauve Azur <img src="/static/logos/Fauve Azur.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Young Sports Academy.png" height="25px"> Young Sports Academy</p> |
 | <p align="center">POS</p> | <p align="right">AS Fortuna <img src="/static/logos/AS Fortuna.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Gazelle.png" height="25px"> Gazelle</p> |
-| <p align="center">POS</p> | <p align="right">PWD Bamenda <img src="/static/logos/PWD Bamenda.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Aigle Royal.png" height="25px"> Aigle Royal</p> |
-| <p align="center">POS</p> | <p align="right">Fovu Club <img src="/static/logos/Fovu Club.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Stade Renard.png" height="25px"> Stade Renard</p> |
 | <p align="center">POS</p> | <p align="right">APEJES FC <img src="/static/logos/APEJES FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Avion FC.png" height="25px"> Avion FC</p> |
+| <p align="center">POS</p> | <p align="right">PWD Bamenda <img src="/static/logos/PWD Bamenda.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Aigle Royal.png" height="25px"> Aigle Royal</p> |
 </div>
 
 
@@ -141,8 +141,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">15:00</p> | <p align="right">Atletico Sanluqueno CF <img src="/static/logos/Atletico Sanluqueno CF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Castellon.png" height="25px"> Castellon</p> |
 | <p align="center">16:00</p> | <p align="right">Antequera <img src="/static/logos/Antequera.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AD Ceuta FC.png" height="25px"> AD Ceuta FC</p> |
-| <p align="center">18:00</p> | <p align="right">Real Union <img src="/static/logos/Real Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sestao.png" height="25px"> Sestao</p> |
 | <p align="center">18:00</p> | <p align="right">Ponferradina <img src="/static/logos/Ponferradina.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Arenteiro.png" height="25px"> CD Arenteiro</p> |
+| <p align="center">18:00</p> | <p align="right">Real Union <img src="/static/logos/Real Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sestao.png" height="25px"> Sestao</p> |
 | <p align="center">20:00</p> | <p align="right">Linares Deportivo <img src="/static/logos/Linares Deportivo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico Baleares.png" height="25px"> Atletico Baleares</p> |
 </div>
 
