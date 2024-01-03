@@ -168,8 +168,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Gadaffi FC <img src="/static/logos/Gadaffi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/BUL FC.png" height="25px"> BUL FC</p> |
 | <p align="center">13:00</p> | <p align="right">Arua Hill SC <img src="/static/logos/Arua Hill SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Express FC.png" height="25px"> Express FC</p> |
+| <p align="center">13:00</p> | <p align="right">Gadaffi FC <img src="/static/logos/Gadaffi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/BUL FC.png" height="25px"> BUL FC</p> |
 | <p align="center">16:00</p> | <p align="right">Vipers SC <img src="/static/logos/Vipers SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NEC FC.png" height="25px"> NEC FC</p> |
 </div>
 
