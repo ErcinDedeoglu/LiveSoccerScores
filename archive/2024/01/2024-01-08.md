@@ -91,7 +91,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Vere United <img src="/static/logos/Vere United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Molynes United.png" height="25px"> Molynes United</p> |
+| <p align="center">POS</p> | <p align="right">Vere United <img src="/static/logos/Vere United.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Molynes United.png" height="25px"> Molynes United</p> |
 </div>
 
 
