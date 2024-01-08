@@ -101,7 +101,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:35</p> | <p align="right">Al-Shabab SC <img src="/static/logos/Al-Shabab SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kazma.png" height="25px"> Kazma</p> |
+| <p align="center">FT</p> | <p align="right">Al-Shabab SC <img src="/static/logos/Al-Shabab SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kazma.png" height="25px"> Kazma</p> |
 | <p align="center">17:00</p> | <p align="right">Al Fahaheel <img src="/static/logos/Al Fahaheel.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Arabi.png" height="25px"> Al-Arabi</p> |
 </div>
 
@@ -112,7 +112,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Salmi <img src="/static/logos/Salmi.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Youssoufia Berrechid.png" height="25px"> Youssoufia Berrechid</p> |
+| <p align="center">89'</p> | <p align="right">Salmi <img src="/static/logos/Salmi.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Youssoufia Berrechid.png" height="25px"> Youssoufia Berrechid</p> |
 | <p align="center">17:00</p> | <p align="right">FUS Rabat <img src="/static/logos/FUS Rabat.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FAR Rabat.png" height="25px"> FAR Rabat</p> |
 </div>
 
