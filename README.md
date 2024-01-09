@@ -41,7 +41,7 @@
 | <p align="center">FT</p> | <p align="right">Kyrgyzstan <img src="/static/logos/Kyrgyzstan.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
 | <p align="center">13:30</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iran.png" height="25px"> Iran</p> |
 | <p align="center">14:00</p> | <p align="right">Equatorial Guinea <img src="/static/logos/Equatorial Guinea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Djibouti.png" height="25px"> Djibouti</p> |
-| <p align="center">66'</p> | <p align="right">Burundi <img src="/static/logos/Burundi.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Algeria.png" height="25px"> Algeria</p> |
+| <p align="center">73'</p> | <p align="right">Burundi <img src="/static/logos/Burundi.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Algeria.png" height="25px"> Algeria</p> |
 | <p align="center">15:35</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
 </div>
 
@@ -154,7 +154,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:35</p> | <p align="right">Al-Jahra <img src="/static/logos/Al-Jahra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Salmiyah.png" height="25px"> Al-Salmiyah</p> |
+| <p align="center">FT</p> | <p align="right">Al-Jahra <img src="/static/logos/Al-Jahra.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Al-Salmiyah.png" height="25px"> Al-Salmiyah</p> |
 </div>
 
 
