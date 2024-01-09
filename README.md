@@ -66,7 +66,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">10:00</p> | <p align="right">Lugano <img src="/static/logos/Lugano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Genk.png" height="25px"> Genk</p> |
-| <p align="center">10:00</p> | <p align="right">Borussia Dortmund <img src="/static/logos/Borussia Dortmund.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Standard Liege.png" height="25px"> Standard Liege</p> |
+| <p align="center">28'</p> | <p align="right">Borussia Dortmund <img src="/static/logos/Borussia Dortmund.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Standard Liege.png" height="25px"> Standard Liege</p> |
 </div>
 
 
@@ -109,11 +109,11 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:45</p> | <p align="right">Maidstone United <img src="/static/logos/Maidstone United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dartford.png" height="25px"> Dartford</p> |
-| <p align="center">19:45</p> | <p align="right">Southport <img src="/static/logos/Southport.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Darlington.png" height="25px"> Darlington</p> |
-| <p align="center">19:45</p> | <p align="right">Spennymoor Town FC <img src="/static/logos/Spennymoor Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scarborough Athletic.png" height="25px"> Scarborough Athletic</p> |
 | <p align="center">19:45</p> | <p align="right">Taunton Town <img src="/static/logos/Taunton Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yeovil Town.png" height="25px"> Yeovil Town</p> |
 | <p align="center">19:45</p> | <p align="right">Warrington Town <img src="/static/logos/Warrington Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tamworth.png" height="25px"> Tamworth</p> |
 | <p align="center">19:45</p> | <p align="right">Bath City <img src="/static/logos/Bath City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slough Town.png" height="25px"> Slough Town</p> |
+| <p align="center">19:45</p> | <p align="right">Southport <img src="/static/logos/Southport.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Darlington.png" height="25px"> Darlington</p> |
+| <p align="center">19:45</p> | <p align="right">Spennymoor Town FC <img src="/static/logos/Spennymoor Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scarborough Athletic.png" height="25px"> Scarborough Athletic</p> |
 | <p align="center">19:45</p> | <p align="right">Bishop's Stortford <img src="/static/logos/Bishop's Stortford.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/South Shields.png" height="25px"> South Shields</p> |
 </div>
 
