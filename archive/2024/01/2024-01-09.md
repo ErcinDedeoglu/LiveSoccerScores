@@ -38,9 +38,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">11:30</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
 | <p align="center">13:00</p> | <p align="right">Zambia <img src="/static/logos/Zambia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cameroon.png" height="25px"> Cameroon</p> |
-| <p align="center">13:00</p> | <p align="right">Burundi <img src="/static/logos/Burundi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Algeria.png" height="25px"> Algeria</p> |
 | <p align="center">13:00</p> | <p align="right">Equatorial Guinea <img src="/static/logos/Equatorial Guinea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Djibouti.png" height="25px"> Djibouti</p> |
 | <p align="center">13:30</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iran.png" height="25px"> Iran</p> |
+| <p align="center">15:00</p> | <p align="right">Burundi <img src="/static/logos/Burundi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Algeria.png" height="25px"> Algeria</p> |
 | <p align="center">15:30</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
 | <p align="center">15:30</p> | <p align="right">Kyrgyzstan <img src="/static/logos/Kyrgyzstan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
 </div>
