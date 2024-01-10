@@ -84,15 +84,15 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Djeffa <img src="/static/logos/Djeffa.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Dragons FC.png" height="25px"> Dragons FC</p> |
 | <p align="center">FT</p> | <p align="right">Aziza <img src="/static/logos/Aziza.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Etoiles Filantes.png" height="25px"> Etoiles Filantes</p> |
-| <p align="center">FT</p> | <p align="right">Adjidja <img src="/static/logos/Adjidja.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Coton FC.png" height="25px"> Coton FC</p> |
-| <p align="center">FT</p> | <p align="right">Dynamo de Parakou <img src="/static/logos/Dynamo de Parakou.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pantheres de Djougou.png" height="25px"> Pantheres de Djougou</p> |
+| <p align="center">FT</p> | <p align="right">Loto FC <img src="/static/logos/Loto FC.png" height="25px"></p> | <p align="center">1 - 6</p> | <p align="left"><img src="/static/logos/Dadje.png" height="25px"> Dadje</p> |
+| <p align="center">FT</p> | <p align="right">AS Sobemap <img src="/static/logos/AS Sobemap.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ouidah.png" height="25px"> Ouidah</p> |
 | <p align="center">FT</p> | <p align="right">Takunnin <img src="/static/logos/Takunnin.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Buffles du Borgou.png" height="25px"> Buffles du Borgou</p> |
 | <p align="center">FT</p> | <p align="right">Cavaliers <img src="/static/logos/Cavaliers.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Dynamique Djougou.png" height="25px"> Dynamique Djougou</p> |
+| <p align="center">FT</p> | <p align="right">Dynamo de Parakou <img src="/static/logos/Dynamo de Parakou.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pantheres de Djougou.png" height="25px"> Pantheres de Djougou</p> |
+| <p align="center">FT</p> | <p align="right">Adjidja <img src="/static/logos/Adjidja.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Coton FC.png" height="25px"> Coton FC</p> |
 | <p align="center">FT</p> | <p align="right">Real Sport <img src="/static/logos/Real Sport.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Espoir de Savalou.png" height="25px"> Espoir de Savalou</p> |
 | <p align="center">FT</p> | <p align="right">JAK <img src="/static/logos/JAK.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ayema FC.png" height="25px"> Ayema FC</p> |
 | <p align="center">FT</p> | <p align="right">Tonnerre FC <img src="/static/logos/Tonnerre FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Soleil FC.png" height="25px"> Soleil FC</p> |
-| <p align="center">FT</p> | <p align="right">Loto FC <img src="/static/logos/Loto FC.png" height="25px"></p> | <p align="center">1 - 6</p> | <p align="left"><img src="/static/logos/Dadje.png" height="25px"> Dadje</p> |
-| <p align="center">FT</p> | <p align="right">AS Sobemap <img src="/static/logos/AS Sobemap.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ouidah.png" height="25px"> Ouidah</p> |
 </div>
 
 
@@ -206,7 +206,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Maritimo <img src="/static/logos/Maritimo.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Uniao de Leiria.png" height="25px"> Uniao de Leiria</p> |
-| <p align="center">79'</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Braga.png" height="25px"> Braga</p> |
+| <p align="center">88'</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Braga.png" height="25px"> Braga</p> |
 </div>
 
 
