@@ -47,7 +47,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">DR Congo <img src="/static/logos/DR Congo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Burkina Faso.png" height="25px"> Burkina Faso</p> |
+| <p align="center">13:00</p> | <p align="right">DR Congo <img src="/static/logos/DR Congo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Burkina Faso.png" height="25px"> Burkina Faso</p> |
 | <p align="center">15:30</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hong Kong.png" height="25px"> Hong Kong</p> |
 | <p align="center">17:30</p> | <p align="right">Tunisia <img src="/static/logos/Tunisia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cape Verde.png" height="25px"> Cape Verde</p> |
 </div>
