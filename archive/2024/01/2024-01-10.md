@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Liverpool <img src="/static/logos/Liverpool.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Fulham.png" height="25px"> Fulham</p> |
+| <p align="center">90' 2'</p> | <p align="right">Liverpool <img src="/static/logos/Liverpool.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Fulham.png" height="25px"> Fulham</p> |
 </div>
 
 
@@ -27,7 +27,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Lazio <img src="/static/logos/Lazio.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Roma.png" height="25px"> Roma</p> |
-| <p align="center">83'</p> | <p align="right">AC Milan <img src="/static/logos/AC Milan.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Atalanta.png" height="25px"> Atalanta</p> |
+| <p align="center">89'</p> | <p align="right">AC Milan <img src="/static/logos/AC Milan.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Atalanta.png" height="25px"> Atalanta</p> |
 </div>
 
 
@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">120' 15'</p> | <p align="right">Real Madrid <img src="/static/logos/Real Madrid.png" height="25px"></p> | <p align="center">5 - 3</p> | <p align="left"><img src="/static/logos/Atletico Madrid.png" height="25px"> Atletico Madrid</p> |
+| <p align="center">FT</p> | <p align="right">Real Madrid <img src="/static/logos/Real Madrid.png" height="25px"></p> | <p align="center">5 - 3</p> | <p align="left"><img src="/static/logos/Atletico Madrid.png" height="25px"> Atletico Madrid</p> |
 </div>
 
 
@@ -85,14 +85,14 @@
 | <p align="center">FT</p> | <p align="right">Djeffa <img src="/static/logos/Djeffa.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Dragons FC.png" height="25px"> Dragons FC</p> |
 | <p align="center">FT</p> | <p align="right">Aziza <img src="/static/logos/Aziza.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Etoiles Filantes.png" height="25px"> Etoiles Filantes</p> |
 | <p align="center">FT</p> | <p align="right">Dynamo de Parakou <img src="/static/logos/Dynamo de Parakou.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pantheres de Djougou.png" height="25px"> Pantheres de Djougou</p> |
+| <p align="center">FT</p> | <p align="right">Takunnin <img src="/static/logos/Takunnin.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Buffles du Borgou.png" height="25px"> Buffles du Borgou</p> |
+| <p align="center">FT</p> | <p align="right">Cavaliers <img src="/static/logos/Cavaliers.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Dynamique Djougou.png" height="25px"> Dynamique Djougou</p> |
+| <p align="center">FT</p> | <p align="right">JAK <img src="/static/logos/JAK.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ayema FC.png" height="25px"> Ayema FC</p> |
 | <p align="center">FT</p> | <p align="right">Adjidja <img src="/static/logos/Adjidja.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Coton FC.png" height="25px"> Coton FC</p> |
 | <p align="center">FT</p> | <p align="right">Loto FC <img src="/static/logos/Loto FC.png" height="25px"></p> | <p align="center">1 - 6</p> | <p align="left"><img src="/static/logos/Dadje.png" height="25px"> Dadje</p> |
 | <p align="center">FT</p> | <p align="right">AS Sobemap <img src="/static/logos/AS Sobemap.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ouidah.png" height="25px"> Ouidah</p> |
-| <p align="center">FT</p> | <p align="right">Cavaliers <img src="/static/logos/Cavaliers.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Dynamique Djougou.png" height="25px"> Dynamique Djougou</p> |
 | <p align="center">FT</p> | <p align="right">Real Sport <img src="/static/logos/Real Sport.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Espoir de Savalou.png" height="25px"> Espoir de Savalou</p> |
 | <p align="center">FT</p> | <p align="right">Tonnerre FC <img src="/static/logos/Tonnerre FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Soleil FC.png" height="25px"> Soleil FC</p> |
-| <p align="center">FT</p> | <p align="right">Takunnin <img src="/static/logos/Takunnin.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Buffles du Borgou.png" height="25px"> Buffles du Borgou</p> |
-| <p align="center">FT</p> | <p align="right">JAK <img src="/static/logos/JAK.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ayema FC.png" height="25px"> Ayema FC</p> |
 </div>
 
 
@@ -113,8 +113,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Blackpool <img src="/static/logos/Blackpool.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Burton Albion.png" height="25px"> Burton Albion</p> |
-| <p align="center">POS</p> | <p align="right">Peterborough United <img src="/static/logos/Peterborough United.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Crawley Town.png" height="25px"> Crawley Town</p> |
 | <p align="center">FT</p> | <p align="right">Accrington Stanley <img src="/static/logos/Accrington Stanley.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Bolton Wanderers.png" height="25px"> Bolton Wanderers</p> |
+| <p align="center">POS</p> | <p align="right">Peterborough United <img src="/static/logos/Peterborough United.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Crawley Town.png" height="25px"> Crawley Town</p> |
 </div>
 
 
@@ -124,7 +124,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Chesterfield <img src="/static/logos/Chesterfield.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Gateshead FC.png" height="25px"> Gateshead FC</p> |
+| <p align="center">FT</p> | <p align="right">Chesterfield <img src="/static/logos/Chesterfield.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Gateshead FC.png" height="25px"> Gateshead FC</p> |
 </div>
 
 
@@ -134,7 +134,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Paris FC.png" height="25px"> Paris FC</p> |
+| <p align="center">90'</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Paris FC.png" height="25px"> Paris FC</p> |
 </div>
 
 
