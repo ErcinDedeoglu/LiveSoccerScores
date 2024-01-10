@@ -61,8 +61,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">14:00</p> | <p align="right">Hatayspor <img src="/static/logos/Hatayspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gaziantep FK.png" height="25px"> Gaziantep FK</p> |
 | <p align="center">14:00</p> | <p align="right">Fatih Karagumruk <img src="/static/logos/Fatih Karagumruk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kayserispor.png" height="25px"> Kayserispor</p> |
-| <p align="center">17:00</p> | <p align="right">Fenerbahce <img src="/static/logos/Fenerbahce.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Konyaspor.png" height="25px"> Konyaspor</p> |
 | <p align="center">17:00</p> | <p align="right">Adana Demirspor <img src="/static/logos/Adana Demirspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Istanbulspor.png" height="25px"> Istanbulspor</p> |
+| <p align="center">17:00</p> | <p align="right">Fenerbahce <img src="/static/logos/Fenerbahce.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Konyaspor.png" height="25px"> Konyaspor</p> |
 </div>
 
 
@@ -86,13 +86,13 @@
 | <p align="center">15:00</p> | <p align="right">Dynamo de Parakou <img src="/static/logos/Dynamo de Parakou.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pantheres de Djougou.png" height="25px"> Pantheres de Djougou</p> |
 | <p align="center">15:00</p> | <p align="right">Djeffa <img src="/static/logos/Djeffa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dragons FC.png" height="25px"> Dragons FC</p> |
 | <p align="center">15:00</p> | <p align="right">Adjidja <img src="/static/logos/Adjidja.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coton FC.png" height="25px"> Coton FC</p> |
-| <p align="center">15:00</p> | <p align="right">Loto FC <img src="/static/logos/Loto FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dadje.png" height="25px"> Dadje</p> |
-| <p align="center">15:00</p> | <p align="right">AS Sobemap <img src="/static/logos/AS Sobemap.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ouidah.png" height="25px"> Ouidah</p> |
 | <p align="center">15:00</p> | <p align="right">Takunnin <img src="/static/logos/Takunnin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Buffles du Borgou.png" height="25px"> Buffles du Borgou</p> |
 | <p align="center">15:00</p> | <p align="right">Cavaliers <img src="/static/logos/Cavaliers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dynamique Djougou.png" height="25px"> Dynamique Djougou</p> |
 | <p align="center">15:00</p> | <p align="right">Real Sport <img src="/static/logos/Real Sport.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Espoir de Savalou.png" height="25px"> Espoir de Savalou</p> |
 | <p align="center">15:00</p> | <p align="right">JAK <img src="/static/logos/JAK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ayema FC.png" height="25px"> Ayema FC</p> |
 | <p align="center">15:00</p> | <p align="right">Tonnerre FC <img src="/static/logos/Tonnerre FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Soleil FC.png" height="25px"> Soleil FC</p> |
+| <p align="center">15:00</p> | <p align="right">Loto FC <img src="/static/logos/Loto FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dadje.png" height="25px"> Dadje</p> |
+| <p align="center">15:00</p> | <p align="right">AS Sobemap <img src="/static/logos/AS Sobemap.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ouidah.png" height="25px"> Ouidah</p> |
 </div>
 
 
@@ -113,8 +113,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:00</p> | <p align="right">Blackpool <img src="/static/logos/Blackpool.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Burton Albion.png" height="25px"> Burton Albion</p> |
-| <p align="center">19:30</p> | <p align="right">Peterborough United <img src="/static/logos/Peterborough United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crawley Town.png" height="25px"> Crawley Town</p> |
 | <p align="center">19:30</p> | <p align="right">Accrington Stanley <img src="/static/logos/Accrington Stanley.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bolton Wanderers.png" height="25px"> Bolton Wanderers</p> |
+| <p align="center">19:30</p> | <p align="right">Peterborough United <img src="/static/logos/Peterborough United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crawley Town.png" height="25px"> Crawley Town</p> |
 </div>
 
 
