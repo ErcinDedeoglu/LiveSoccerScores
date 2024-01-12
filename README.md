@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 7'</p> | <p align="right">Burnley <img src="/static/logos/Burnley.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Luton Town.png" height="25px"> Luton Town</p> |
+| <p align="center">FT</p> | <p align="right">Burnley <img src="/static/logos/Burnley.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Luton Town.png" height="25px"> Luton Town</p> |
 </div>
 
 
@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">Sevilla <img src="/static/logos/Sevilla.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Deportivo Alaves.png" height="25px"> Deportivo Alaves</p> |
+| <p align="center">89'</p> | <p align="right">Sevilla <img src="/static/logos/Sevilla.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Deportivo Alaves.png" height="25px"> Deportivo Alaves</p> |
 </div>
 
 
@@ -56,7 +56,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Strasbourg.png" height="25px"> Strasbourg</p> |
+| <p align="center">90' 1'</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Strasbourg.png" height="25px"> Strasbourg</p> |
 </div>
 
 
@@ -76,7 +76,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Portimonense <img src="/static/logos/Portimonense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Farense.png" height="25px"> Farense</p> |
+| <p align="center">76'</p> | <p align="right">Portimonense <img src="/static/logos/Portimonense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Farense.png" height="25px"> Farense</p> |
 </div>
 
 
@@ -86,7 +86,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">80'</p> | <p align="right">Hull City <img src="/static/logos/Hull City.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Norwich City.png" height="25px"> Norwich City</p> |
+| <p align="center">89'</p> | <p align="right">Hull City <img src="/static/logos/Hull City.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Norwich City.png" height="25px"> Norwich City</p> |
 </div>
 
 
@@ -175,7 +175,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 11'</p> | <p align="right">Crusaders <img src="/static/logos/Crusaders.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Larne.png" height="25px"> Larne</p> |
+| <p align="center">FT</p> | <p align="right">Crusaders <img src="/static/logos/Crusaders.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Larne.png" height="25px"> Larne</p> |
 </div>
 
 
@@ -195,7 +195,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 7'</p> | <p align="right">Inverness CT <img src="/static/logos/Inverness CT.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Dundee United.png" height="25px"> Dundee United</p> |
+| <p align="center">FT</p> | <p align="right">Inverness CT <img src="/static/logos/Inverness CT.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Dundee United.png" height="25px"> Dundee United</p> |
 </div>
 
 
