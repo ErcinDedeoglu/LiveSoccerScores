@@ -103,8 +103,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Pachuca.png" height="25px"> Pachuca</p> |
 | <p align="center">FT</p> | <p align="right">CD Guadalajara <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Santos Laguna.png" height="25px"> Santos Laguna</p> |
-| <p align="center">31'</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
-| <p align="center">22'</p> | <p align="right">Tijuana <img src="/static/logos/Tijuana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
+| <p align="center">38'</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
+| <p align="center">29'</p> | <p align="right">Tijuana <img src="/static/logos/Tijuana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
 | <p align="center">18:00</p> | <p align="right">Club Universidad Nacional <img src="/static/logos/Club Universidad Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Juarez.png" height="25px"> FC Juarez</p> |
 </div>
 
