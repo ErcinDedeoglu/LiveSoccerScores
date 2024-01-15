@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">South Korea <img src="/static/logos/South Korea.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Bahrain.png" height="25px"> Bahrain</p> |
-| <p align="center">14:30</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
+| <p align="center">37'</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
 | <p align="center">17:30</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
 </div>
 
@@ -28,7 +28,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Senegal <img src="/static/logos/Senegal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gambia.png" height="25px"> Gambia</p> |
+| <p align="center">HT</p> | <p align="right">Senegal <img src="/static/logos/Senegal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gambia.png" height="25px"> Gambia</p> |
 | <p align="center">17:00</p> | <p align="right">Cameroon <img src="/static/logos/Cameroon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guinea.png" height="25px"> Guinea</p> |
 | <p align="center">20:00</p> | <p align="right">Algeria <img src="/static/logos/Algeria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Angola.png" height="25px"> Angola</p> |
 </div>
@@ -80,7 +80,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Haras El Hodoud <img src="/static/logos/Haras El Hodoud.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nogoom FC.png" height="25px"> Nogoom FC</p> |
+| <p align="center">FT</p> | <p align="right">Haras El Hodoud <img src="/static/logos/Haras El Hodoud.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nogoom FC.png" height="25px"> Nogoom FC</p> |
 </div>
 
 
@@ -174,10 +174,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Sporting Lagos <img src="/static/logos/Sporting Lagos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
-| <p align="center">15:00</p> | <p align="right">Bayelsa United <img src="/static/logos/Bayelsa United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Insurance</p> |
-| <p align="center">15:00</p> | <p align="right">Lobi Stars <img src="/static/logos/Lobi Stars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kano Pillars.png" height="25px"> Kano Pillars</p> |
-| <p align="center">15:00</p> | <p align="right">Katsina United <img src="/static/logos/Katsina United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
+| <p align="center">5'</p> | <p align="right">Sporting Lagos <img src="/static/logos/Sporting Lagos.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
+| <p align="center">7'</p> | <p align="right">Bayelsa United <img src="/static/logos/Bayelsa United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Insurance</p> |
+| <p align="center">6'</p> | <p align="right">Lobi Stars <img src="/static/logos/Lobi Stars.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kano Pillars.png" height="25px"> Kano Pillars</p> |
+| <p align="center">4'</p> | <p align="right">Katsina United <img src="/static/logos/Katsina United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
 </div>
 
 
