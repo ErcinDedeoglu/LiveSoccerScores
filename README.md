@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 8'</p> | <p align="right">South Korea <img src="/static/logos/South Korea.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Bahrain.png" height="25px"> Bahrain</p> |
+| <p align="center">FT</p> | <p align="right">South Korea <img src="/static/logos/South Korea.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Bahrain.png" height="25px"> Bahrain</p> |
 | <p align="center">14:30</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
 | <p align="center">17:30</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
 </div>
@@ -100,9 +100,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:45</p> | <p align="right">Bradford PA <img src="/static/logos/Bradford PA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Marine.png" height="25px"> Marine</p> |
 | <p align="center">19:45</p> | <p align="right">Hashtag United <img src="/static/logos/Hashtag United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lewes.png" height="25px"> Lewes</p> |
 | <p align="center">19:45</p> | <p align="right">Redditch United <img src="/static/logos/Redditch United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hitchin Town.png" height="25px"> Hitchin Town</p> |
+| <p align="center">19:45</p> | <p align="right">Bradford PA <img src="/static/logos/Bradford PA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Marine.png" height="25px"> Marine</p> |
 </div>
 
 
