@@ -38,9 +38,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:45</p> | <p align="right">Blackpool <img src="/static/logos/Blackpool.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nottingham Forest.png" height="25px"> Nottingham Forest</p> |
 | <p align="center">19:45</p> | <p align="right">Everton <img src="/static/logos/Everton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crystal Palace.png" height="25px"> Crystal Palace</p> |
 | <p align="center">19:45</p> | <p align="right">Bristol Rovers <img src="/static/logos/Bristol Rovers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Norwich City.png" height="25px"> Norwich City</p> |
+| <p align="center">19:45</p> | <p align="right">Blackpool <img src="/static/logos/Blackpool.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nottingham Forest.png" height="25px"> Nottingham Forest</p> |
 </div>
 
 
