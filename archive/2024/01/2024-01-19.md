@@ -153,7 +153,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Tepatitlan FC <img src="/static/logos/Tepatitlan FC.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Venados FC.png" height="25px"> Venados FC</p> |
-| <p align="center">16'</p> | <p align="right">Mineros de Zacatecas <img src="/static/logos/Mineros de Zacatecas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
+| <p align="center">24'</p> | <p align="right">Mineros de Zacatecas <img src="/static/logos/Mineros de Zacatecas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
 </div>
 
 
@@ -202,7 +202,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Municipal Perez Zeledon <img src="/static/logos/Municipal Perez Zeledon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Saprissa.png" height="25px"> Deportivo Saprissa</p> |
+| <p align="center">75'</p> | <p align="right">Municipal Perez Zeledon <img src="/static/logos/Municipal Perez Zeledon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Saprissa.png" height="25px"> Deportivo Saprissa</p> |
 </div>
 
 
