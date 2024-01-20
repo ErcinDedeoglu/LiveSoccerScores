@@ -192,7 +192,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Perth Glory.png" height="25px"> Perth Glory</p> |
+| <p align="center">77'</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Perth Glory.png" height="25px"> Perth Glory</p> |
 </div>
 
 
@@ -810,7 +810,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">13:00</p> | <p align="right">Albacete <img src="/static/logos/Albacete.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Alcorcon.png" height="25px"> Alcorcon</p> |
-| <p align="center">POS</p> | <p align="right">Real Zaragoza <img src="/static/logos/Real Zaragoza.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/FC Andorra.png" height="25px"> FC Andorra</p> |
+| <p align="center">15:15</p> | <p align="right">Real Zaragoza <img src="/static/logos/Real Zaragoza.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Andorra.png" height="25px"> FC Andorra</p> |
 | <p align="center">15:15</p> | <p align="right">SD Amorebieta <img src="/static/logos/SD Amorebieta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Eldense.png" height="25px"> Eldense</p> |
 | <p align="center">17:30</p> | <p align="right">Espanyol <img src="/static/logos/Espanyol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Villarreal B.png" height="25px"> Villarreal B</p> |
 | <p align="center">17:30</p> | <p align="right">Tenerife <img src="/static/logos/Tenerife.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sporting Gijon.png" height="25px"> Sporting Gijon</p> |
