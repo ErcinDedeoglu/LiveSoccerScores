@@ -88,7 +88,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Queretaro FC.png" height="25px"> Queretaro FC</p> |
-| <p align="center">53'</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tijuana.png" height="25px"> Tijuana</p> |
+| <p align="center">78'</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tijuana.png" height="25px"> Tijuana</p> |
 </div>
 
 
