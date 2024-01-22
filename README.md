@@ -163,7 +163,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Levadiakos <img src="/static/logos/Levadiakos.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kampaniakos Chalastras.png" height="25px"> Kampaniakos Chalastras</p> |
+| <p align="center">57'</p> | <p align="right">Levadiakos <img src="/static/logos/Levadiakos.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kampaniakos Chalastras.png" height="25px"> Kampaniakos Chalastras</p> |
 </div>
 
 
