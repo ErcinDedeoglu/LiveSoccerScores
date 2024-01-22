@@ -61,7 +61,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Tigres <img src="/static/logos/Tigres.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> CD Guadalajara</p> |
-| <p align="center">HT</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
+| <p align="center">63'</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
 </div>
 
 
@@ -81,7 +81,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">Atletico Nacional <img src="/static/logos/Atletico Nacional.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza FC</p> |
+| <p align="center">FT</p> | <p align="right">Atletico Nacional <img src="/static/logos/Atletico Nacional.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza FC</p> |
 | <p align="center">23:10</p> | <p align="right">La Equidad <img src="/static/logos/La Equidad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
 </div>
 
@@ -125,9 +125,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">12:30</p> | <p align="right">Petrojet <img src="/static/logos/Petrojet.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Itesalat.png" height="25px"> Itesalat</p> |
 | <p align="center">12:30</p> | <p align="right">Tanta <img src="/static/logos/Tanta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/La Viena FC.png" height="25px"> La Viena FC</p> |
+| <p align="center">12:30</p> | <p align="right">Wadi Degla FC <img src="/static/logos/Wadi Degla FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Asyut Petroleum.png" height="25px"> Asyut Petroleum</p> |
 | <p align="center">12:30</p> | <p align="right">Ghazl Kafr EL Dawar <img src="/static/logos/Ghazl Kafr EL Dawar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Misr Lel Makkasa SC.png" height="25px"> Misr Lel Makkasa SC</p> |
 | <p align="center">12:30</p> | <p align="right">Nogoom FC <img src="/static/logos/Nogoom FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ghazl Al Mahalla.png" height="25px"> Ghazl Al Mahalla</p> |
-| <p align="center">12:30</p> | <p align="right">Wadi Degla FC <img src="/static/logos/Wadi Degla FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Asyut Petroleum.png" height="25px"> Asyut Petroleum</p> |
 | <p align="center">12:30</p> | <p align="right">Proxy <img src="/static/logos/Proxy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Makadi.png" height="25px"> Makadi</p> |
 | <p align="center">12:30</p> | <p align="right">El Nasr Tadeen <img src="/static/logos/El Nasr Tadeen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aswan FC.png" height="25px"> Aswan FC</p> |
 | <p align="center">12:30</p> | <p align="right">El Sekka El Hadid <img src="/static/logos/El Sekka El Hadid.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympic El Qanah FC.png" height="25px"> Olympic El Qanah FC</p> |
