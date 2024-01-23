@@ -18,8 +18,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
 | <p align="center">FT</p> | <p align="right">Syria <img src="/static/logos/Syria.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/India.png" height="25px"> India</p> |
-| <p align="center">68'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
-| <p align="center">69'</p> | <p align="right">Iran <img src="/static/logos/Iran.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/UAE.png" height="25px"> UAE</p> |
+| <p align="center">80'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
+| <p align="center">81'</p> | <p align="right">Iran <img src="/static/logos/Iran.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/UAE.png" height="25px"> UAE</p> |
 </div>
 
 
@@ -104,9 +104,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Ben Aknoun <img src="/static/logos/Ben Aknoun.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
-| <p align="center">22'</p> | <p align="right">JS Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC El Bayadh.png" height="25px"> MC El Bayadh</p> |
-| <p align="center">24'</p> | <p align="right">US Biskra <img src="/static/logos/US Biskra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> CR Belouizdad</p> |
+| <p align="center">FT</p> | <p align="right">Ben Aknoun <img src="/static/logos/Ben Aknoun.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
+| <p align="center">34'</p> | <p align="right">JS Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC El Bayadh.png" height="25px"> MC El Bayadh</p> |
+| <p align="center">36'</p> | <p align="right">US Biskra <img src="/static/logos/US Biskra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> CR Belouizdad</p> |
 </div>
 
 
@@ -244,7 +244,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">24'</p> | <p align="right">OFI Crete <img src="/static/logos/OFI Crete.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Panetolikos.png" height="25px"> Panetolikos</p> |
+| <p align="center">36'</p> | <p align="right">OFI Crete <img src="/static/logos/OFI Crete.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Panetolikos.png" height="25px"> Panetolikos</p> |
 </div>
 
 
