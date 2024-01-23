@@ -116,7 +116,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:30</p> | <p align="right">Peterborough United <img src="/static/logos/Peterborough United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crawley Town.png" height="25px"> Crawley Town</p> |
+| <p align="center">14'</p> | <p align="right">Peterborough United <img src="/static/logos/Peterborough United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Crawley Town.png" height="25px"> Crawley Town</p> |
 </div>
 
 
@@ -156,7 +156,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:45</p> | <p align="right">AFC Fylde <img src="/static/logos/AFC Fylde.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Halifax Town.png" height="25px"> FC Halifax Town</p> |
 | <p align="center">POS</p> | <p align="right">Wealdstone <img src="/static/logos/Wealdstone.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Southend United.png" height="25px"> Southend United</p> |
-| <p align="center">19:45</p> | <p align="right">Oxford City <img src="/static/logos/Oxford City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/York City.png" height="25px"> York City</p> |
+| <p align="center">1'</p> | <p align="right">Oxford City <img src="/static/logos/Oxford City.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/York City.png" height="25px"> York City</p> |
 | <p align="center">19:45</p> | <p align="right">Dagenham & Redbridge <img src="/static/logos/Dagenham & Redbridge.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorking Wanderers.png" height="25px"> Dorking Wanderers</p> |
 | <p align="center">POS</p> | <p align="right">Gateshead FC <img src="/static/logos/Gateshead FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Solihull Moors.png" height="25px"> Solihull Moors</p> |
 | <p align="center">19:45</p> | <p align="right">Aldershot Town <img src="/static/logos/Aldershot Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bromley.png" height="25px"> Bromley</p> |
@@ -183,7 +183,7 @@
 | <p align="center">19:45</p> | <p align="right">St Albans <img src="/static/logos/St Albans.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Havant and Waterlooville.png" height="25px"> Havant and Waterlooville</p> |
 | <p align="center">19:45</p> | <p align="right">Taunton Town <img src="/static/logos/Taunton Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Weymouth.png" height="25px"> Weymouth</p> |
 | <p align="center">19:45</p> | <p align="right">Weston Super Mare <img src="/static/logos/Weston Super Mare.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bath City.png" height="25px"> Bath City</p> |
-| <p align="center">19:45</p> | <p align="right">Blyth Spartans <img src="/static/logos/Blyth Spartans.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scarborough Athletic.png" height="25px"> Scarborough Athletic</p> |
+| <p align="center">1'</p> | <p align="right">Blyth Spartans <img src="/static/logos/Blyth Spartans.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Scarborough Athletic.png" height="25px"> Scarborough Athletic</p> |
 | <p align="center">POS</p> | <p align="right">Truro City <img src="/static/logos/Truro City.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Yeovil Town.png" height="25px"> Yeovil Town</p> |
 | <p align="center">19:45</p> | <p align="right">Chippenham Town <img src="/static/logos/Chippenham Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Torquay United.png" height="25px"> Torquay United</p> |
 | <p align="center">19:45</p> | <p align="right">Worthing <img src="/static/logos/Worthing.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slough Town.png" height="25px"> Slough Town</p> |
@@ -329,8 +329,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:30</p> | <p align="right">Trefelin BGC <img src="/static/logos/Trefelin BGC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ammanford.png" height="25px"> Ammanford</p> |
-| <p align="center">19:30</p> | <p align="right">Denbigh Town <img src="/static/logos/Denbigh Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gresford Athletic.png" height="25px"> Gresford Athletic</p> |
+| <p align="center">POS</p> | <p align="right">Trefelin BGC <img src="/static/logos/Trefelin BGC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Ammanford.png" height="25px"> Ammanford</p> |
+| <p align="center">POS</p> | <p align="right">Denbigh Town <img src="/static/logos/Denbigh Town.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Gresford Athletic.png" height="25px"> Gresford Athletic</p> |
 </div>
 
 
