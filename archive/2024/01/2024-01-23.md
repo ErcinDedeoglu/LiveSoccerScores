@@ -303,16 +303,6 @@
 </div>
 
 
-## <img src="/static/logos/Scotland-FA Cup.png" height="25px"> Scotland - FA Cup
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Brora Rangers <img src="/static/logos/Brora Rangers.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Cove Rangers.png" height="25px"> Cove Rangers</p> |
-</div>
-
-
 ## <img src="/static/logos/Scotland-League One.png" height="25px"> Scotland - League One
 
 <div align="center">
