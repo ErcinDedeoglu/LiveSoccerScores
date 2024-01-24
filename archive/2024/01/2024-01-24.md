@@ -60,8 +60,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:45</p> | <p align="right">Hibernian <img src="/static/logos/Hibernian.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers.png" height="25px"> Rangers</p> |
 | <p align="center">19:45</p> | <p align="right">St. Johnstone <img src="/static/logos/St. Johnstone.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aberdeen.png" height="25px"> Aberdeen</p> |
+| <p align="center">19:45</p> | <p align="right">Hibernian <img src="/static/logos/Hibernian.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers.png" height="25px"> Rangers</p> |
 </div>
 
 
@@ -263,8 +263,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">20:15</p> | <p align="right">Tre Fiori <img src="/static/logos/Tre Fiori.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Giovanni.png" height="25px"> San Giovanni</p> |
-| <p align="center">20:15</p> | <p align="right">SS Pennarossa <img src="/static/logos/SS Pennarossa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Virtus Acquaviva.png" height="25px"> Virtus Acquaviva</p> |
 | <p align="center">20:15</p> | <p align="right">Cailungo <img src="/static/logos/Cailungo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Fiorentino.png" height="25px"> FC Fiorentino</p> |
+| <p align="center">20:15</p> | <p align="right">SS Pennarossa <img src="/static/logos/SS Pennarossa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Virtus Acquaviva.png" height="25px"> Virtus Acquaviva</p> |
 | <p align="center">20:15</p> | <p align="right">San Marino Academy U22 <img src="/static/logos/San Marino Academy U22.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tre Penne Galazzano.png" height="25px"> Tre Penne Galazzano</p> |
 </div>
 
