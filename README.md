@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Indonesia.png" height="25px"> Indonesia</p> |
-| <p align="center">67'</p> | <p align="right">Iraq <img src="/static/logos/Iraq.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
+| <p align="center">76'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Indonesia.png" height="25px"> Indonesia</p> |
+| <p align="center">77'</p> | <p align="right">Iraq <img src="/static/logos/Iraq.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
 </div>
 
 
@@ -27,8 +27,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Namibia <img src="/static/logos/Namibia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mali.png" height="25px"> Mali</p> |
 | <p align="center">17:00</p> | <p align="right">South Africa <img src="/static/logos/South Africa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tunisia.png" height="25px"> Tunisia</p> |
+| <p align="center">17:00</p> | <p align="right">Namibia <img src="/static/logos/Namibia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mali.png" height="25px"> Mali</p> |
 | <p align="center">20:00</p> | <p align="right">Tanzania <img src="/static/logos/Tanzania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/DR Congo.png" height="25px"> DR Congo</p> |
 | <p align="center">20:00</p> | <p align="right">Zambia <img src="/static/logos/Zambia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Morocco.png" height="25px"> Morocco</p> |
 </div>
@@ -60,8 +60,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:45</p> | <p align="right">Hibernian <img src="/static/logos/Hibernian.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers.png" height="25px"> Rangers</p> |
 | <p align="center">19:45</p> | <p align="right">St. Johnstone <img src="/static/logos/St. Johnstone.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aberdeen.png" height="25px"> Aberdeen</p> |
+| <p align="center">19:45</p> | <p align="right">Hibernian <img src="/static/logos/Hibernian.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers.png" height="25px"> Rangers</p> |
 </div>
 
 
@@ -104,8 +104,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">14:00</p> | <p align="right">Ankaragucu <img src="/static/logos/Ankaragucu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fatih Karagumruk.png" height="25px"> Fatih Karagumruk</p> |
 | <p align="center">14:00</p> | <p align="right">Gaziantep FK <img src="/static/logos/Gaziantep FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Konyaspor.png" height="25px"> Konyaspor</p> |
-| <p align="center">17:00</p> | <p align="right">Antalyaspor <img src="/static/logos/Antalyaspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sivasspor.png" height="25px"> Sivasspor</p> |
 | <p align="center">17:00</p> | <p align="right">Istanbul Basaksehir <img src="/static/logos/Istanbul Basaksehir.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
+| <p align="center">17:00</p> | <p align="right">Antalyaspor <img src="/static/logos/Antalyaspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sivasspor.png" height="25px"> Sivasspor</p> |
 </div>
 
 
@@ -147,6 +147,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">18:00</p> | <p align="right">Primavera SP <img src="/static/logos/Primavera SP.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sao Jose SP.png" height="25px"> Sao Jose SP</p> |
+| <p align="center">23:00</p> | <p align="right">XV de Piracicaba <img src="/static/logos/XV de Piracicaba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oeste FC.png" height="25px"> Oeste FC</p> |
 </div>
 
 
@@ -196,9 +197,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">London City Lionesses <img src="/static/logos/London City Lionesses.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crystal Palace FC.png" height="25px"> Crystal Palace FC</p> |
 | <p align="center">19:00</p> | <p align="right">Reading FC Women <img src="/static/logos/Reading FC Women.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arsenal Women.png" height="25px"> Arsenal Women</p> |
 | <p align="center">19:00</p> | <p align="right">Leicester City WFC <img src="/static/logos/Leicester City WFC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Everton Women.png" height="25px"> Everton Women</p> |
+| <p align="center">19:00</p> | <p align="right">London City Lionesses <img src="/static/logos/London City Lionesses.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crystal Palace FC.png" height="25px"> Crystal Palace FC</p> |
 | <p align="center">19:00</p> | <p align="right">Manchester City Women <img src="/static/logos/Manchester City Women.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manchester United Women.png" height="25px"> Manchester United Women</p> |
 </div>
 
@@ -273,8 +274,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">20:15</p> | <p align="right">Tre Fiori <img src="/static/logos/Tre Fiori.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Giovanni.png" height="25px"> San Giovanni</p> |
-| <p align="center">20:15</p> | <p align="right">SS Pennarossa <img src="/static/logos/SS Pennarossa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Virtus Acquaviva.png" height="25px"> Virtus Acquaviva</p> |
 | <p align="center">20:15</p> | <p align="right">Cailungo <img src="/static/logos/Cailungo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Fiorentino.png" height="25px"> FC Fiorentino</p> |
+| <p align="center">20:15</p> | <p align="right">SS Pennarossa <img src="/static/logos/SS Pennarossa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Virtus Acquaviva.png" height="25px"> Virtus Acquaviva</p> |
 | <p align="center">20:15</p> | <p align="right">San Marino Academy U22 <img src="/static/logos/San Marino Academy U22.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tre Penne Galazzano.png" height="25px"> Tre Penne Galazzano</p> |
 </div>
 
