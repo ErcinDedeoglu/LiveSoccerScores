@@ -71,7 +71,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">6'</p> | <p align="right">Samsunspor <img src="/static/logos/Samsunspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kayserispor.png" height="25px"> Kayserispor</p> |
+| <p align="center">17'</p> | <p align="right">Samsunspor <img src="/static/logos/Samsunspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kayserispor.png" height="25px"> Kayserispor</p> |
 | <p align="center">17:00</p> | <p align="right">Rizespor <img src="/static/logos/Rizespor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Trabzonspor.png" height="25px"> Trabzonspor</p> |
 | <p align="center">17:00</p> | <p align="right">Galatasaray <img src="/static/logos/Galatasaray.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Istanbulspor.png" height="25px"> Istanbulspor</p> |
 </div>
@@ -94,7 +94,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Haecken <img src="/static/logos/Haecken.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> FC Midtjylland</p> |
-| <p align="center">49'</p> | <p align="right">Malmoe FF <img src="/static/logos/Malmoe FF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Silkeborg.png" height="25px"> Silkeborg</p> |
+| <p align="center">60'</p> | <p align="right">Malmoe FF <img src="/static/logos/Malmoe FF.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Silkeborg.png" height="25px"> Silkeborg</p> |
 </div>
 
 
