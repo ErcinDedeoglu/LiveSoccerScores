@@ -56,7 +56,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">PEC Zwolle <img src="/static/logos/PEC Zwolle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vitesse.png" height="25px"> Vitesse</p> |
+| <p align="center">7'</p> | <p align="right">PEC Zwolle <img src="/static/logos/PEC Zwolle.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vitesse.png" height="25px"> Vitesse</p> |
 </div>
 
 
@@ -142,7 +142,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Karmiotissa Pano Polemidion <img src="/static/logos/Karmiotissa Pano Polemidion.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/AEK Larnaca.png" height="25px"> AEK Larnaca</p> |
+| <p align="center">FT</p> | <p align="right">Karmiotissa Pano Polemidion <img src="/static/logos/Karmiotissa Pano Polemidion.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/AEK Larnaca.png" height="25px"> AEK Larnaca</p> |
 | <p align="center">FT</p> | <p align="right">Nea Salamis <img src="/static/logos/Nea Salamis.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/APOEL Nicosia.png" height="25px"> APOEL Nicosia</p> |
 </div>
 
@@ -173,11 +173,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chateauroux.png" height="25px"> Chateauroux</p> |
-| <p align="center">28'</p> | <p align="right">Nimes <img src="/static/logos/Nimes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rouen.png" height="25px"> Rouen</p> |
-| <p align="center">28'</p> | <p align="right">GOAL FC <img src="/static/logos/GOAL FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Dijon.png" height="25px"> Dijon</p> |
-| <p align="center">19'</p> | <p align="right">Epinal <img src="/static/logos/Epinal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nancy.png" height="25px"> Nancy</p> |
-| <p align="center">26'</p> | <p align="right">Orleans <img src="/static/logos/Orleans.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Versailles.png" height="25px"> Versailles</p> |
+| <p align="center">36'</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chateauroux.png" height="25px"> Chateauroux</p> |
+| <p align="center">37'</p> | <p align="right">Nimes <img src="/static/logos/Nimes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rouen.png" height="25px"> Rouen</p> |
+| <p align="center">37'</p> | <p align="right">GOAL FC <img src="/static/logos/GOAL FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Dijon.png" height="25px"> Dijon</p> |
+| <p align="center">29'</p> | <p align="right">Epinal <img src="/static/logos/Epinal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nancy.png" height="25px"> Nancy</p> |
+| <p align="center">35'</p> | <p align="right">Orleans <img src="/static/logos/Orleans.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Versailles.png" height="25px"> Versailles</p> |
 </div>
 
 
@@ -297,10 +297,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">ADO Den Haag <img src="/static/logos/ADO Den Haag.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Emmen.png" height="25px"> FC Emmen</p> |
-| <p align="center">19:00</p> | <p align="right">De Graafschap <img src="/static/logos/De Graafschap.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/VVV-Venlo.png" height="25px"> VVV-Venlo</p> |
-| <p align="center">19:00</p> | <p align="right">Helmond Sport <img src="/static/logos/Helmond Sport.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NAC Breda.png" height="25px"> NAC Breda</p> |
-| <p align="center">19:00</p> | <p align="right">Telstar <img src="/static/logos/Telstar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Den Bosch.png" height="25px"> FC Den Bosch</p> |
+| <p align="center">6'</p> | <p align="right">ADO Den Haag <img src="/static/logos/ADO Den Haag.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Emmen.png" height="25px"> FC Emmen</p> |
+| <p align="center">3'</p> | <p align="right">De Graafschap <img src="/static/logos/De Graafschap.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/VVV-Venlo.png" height="25px"> VVV-Venlo</p> |
+| <p align="center">6'</p> | <p align="right">Helmond Sport <img src="/static/logos/Helmond Sport.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/NAC Breda.png" height="25px"> NAC Breda</p> |
+| <p align="center">6'</p> | <p align="right">Telstar <img src="/static/logos/Telstar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Den Bosch.png" height="25px"> FC Den Bosch</p> |
 </div>
 
 
@@ -351,7 +351,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 9'</p> | <p align="right">Adanaspor <img src="/static/logos/Adanaspor.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Keciorengucu.png" height="25px"> Keciorengucu</p> |
+| <p align="center">FT</p> | <p align="right">Adanaspor <img src="/static/logos/Adanaspor.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Keciorengucu.png" height="25px"> Keciorengucu</p> |
 </div>
 
 
