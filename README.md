@@ -120,9 +120,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">USM Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paradou AC.png" height="25px"> Paradou AC</p> |
-| <p align="center">9'</p> | <p align="right">ES Setif <img src="/static/logos/ES Setif.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CS Constantine.png" height="25px"> CS Constantine</p> |
-| <p align="center">16:00</p> | <p align="right">MC Oran <img src="/static/logos/MC Oran.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
+| <p align="center">83'</p> | <p align="right">USM Khenchela <img src="/static/logos/USM Khenchela.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paradou AC.png" height="25px"> Paradou AC</p> |
+| <p align="center">28'</p> | <p align="right">ES Setif <img src="/static/logos/ES Setif.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CS Constantine.png" height="25px"> CS Constantine</p> |
+| <p align="center">10'</p> | <p align="right">MC Oran <img src="/static/logos/MC Oran.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
 </div>
 
 
