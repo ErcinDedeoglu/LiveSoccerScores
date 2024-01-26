@@ -110,7 +110,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Celaya <img src="/static/logos/Celaya.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Correcaminos de la UAT.png" height="25px"> Correcaminos de la UAT</p> |
+| <p align="center">FT</p> | <p align="right">Celaya <img src="/static/logos/Celaya.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Correcaminos de la UAT.png" height="25px"> Correcaminos de la UAT</p> |
 </div>
 
 
@@ -273,8 +273,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
-| <p align="center">03:00</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
-| <p align="center">03:10</p> | <p align="right">FC Juarez <img src="/static/logos/FC Juarez.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Santos Laguna.png" height="25px"> Santos Laguna</p> |
+| <p align="center">FT</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
+| <p align="center">FT</p> | <p align="right">FC Juarez <img src="/static/logos/FC Juarez.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Santos Laguna.png" height="25px"> Santos Laguna</p> |
 | <p align="center">21:45</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Leon.png" height="25px"> Club Leon</p> |
 | <p align="center">23:00</p> | <p align="right">Atletico de San Luis <img src="/static/logos/Atletico de San Luis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pumas UNAM.png" height="25px"> Pumas UNAM</p> |
 | <p align="center">23:00</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mazatlan FC.png" height="25px"> Mazatlan FC</p> |
