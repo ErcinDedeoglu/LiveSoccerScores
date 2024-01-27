@@ -171,7 +171,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
 | <p align="center">FT</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Wellington Phoenix.png" height="25px"> Wellington Phoenix</p> |
-| <p align="center">88'</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Brisbane Roar FC</p> |
+| <p align="center">90' 6'</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Brisbane Roar FC</p> |
 </div>
 
 
@@ -830,7 +830,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:30</p> | <p align="right">Manisa Futbol Kulubu <img src="/static/logos/Manisa Futbol Kulubu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Erzurumspor FK.png" height="25px"> Erzurumspor FK</p> |
+| <p align="center">5'</p> | <p align="right">Manisa Futbol Kulubu <img src="/static/logos/Manisa Futbol Kulubu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Erzurumspor FK.png" height="25px"> Erzurumspor FK</p> |
 | <p align="center">13:00</p> | <p align="right">Corum FK <img src="/static/logos/Corum FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Goztepe.png" height="25px"> Goztepe</p> |
 | <p align="center">16:00</p> | <p align="right">Eyupspor <img src="/static/logos/Eyupspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tuzlaspor.png" height="25px"> Tuzlaspor</p> |
 </div>
