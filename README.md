@@ -58,7 +58,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:00</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Juarez.png" height="25px"> FC Juarez</p> |
+| <p align="center">71'</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Juarez.png" height="25px"> FC Juarez</p> |
 | <p align="center">03:00</p> | <p align="right">Queretaro FC <img src="/static/logos/Queretaro FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tigres.png" height="25px"> Tigres</p> |
 </div>
 
@@ -90,7 +90,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:20</p> | <p align="right">Bucaramanga <img src="/static/logos/Bucaramanga.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
+| <p align="center">55'</p> | <p align="right">Bucaramanga <img src="/static/logos/Bucaramanga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
 </div>
 
 
@@ -124,7 +124,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Atletico Morelia <img src="/static/logos/Atletico Morelia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mineros de Zacatecas.png" height="25px"> Mineros de Zacatecas</p> |
+| <p align="center">FT</p> | <p align="right">Atletico Morelia <img src="/static/logos/Atletico Morelia.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Mineros de Zacatecas.png" height="25px"> Mineros de Zacatecas</p> |
 </div>
 
 
@@ -148,13 +148,13 @@
 | <p align="center">12:30</p> | <p align="right">Aswan FC <img src="/static/logos/Aswan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Proxy.png" height="25px"> Proxy</p> |
 | <p align="center">12:30</p> | <p align="right">Abo Qir Semad <img src="/static/logos/Abo Qir Semad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ghazl Kafr EL Dawar.png" height="25px"> Ghazl Kafr EL Dawar</p> |
 | <p align="center">12:30</p> | <p align="right">Asyut Petroleum <img src="/static/logos/Asyut Petroleum.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Sekka El Hadid.png" height="25px"> El Sekka El Hadid</p> |
-| <p align="center">12:30</p> | <p align="right">Olympic El Qanah FC <img src="/static/logos/Olympic El Qanah FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Nasr Tadeen.png" height="25px"> El Nasr Tadeen</p> |
-| <p align="center">12:30</p> | <p align="right">Ghazl Al Mahalla <img src="/static/logos/Ghazl Al Mahalla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dekernes.png" height="25px"> Dekernes</p> |
 | <p align="center">12:30</p> | <p align="right">Haras El Hodoud <img src="/static/logos/Haras El Hodoud.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gomhoreyet Shbeen.png" height="25px"> Gomhoreyet Shbeen</p> |
 | <p align="center">12:30</p> | <p align="right">La Viena FC <img src="/static/logos/La Viena FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wadi Degla FC.png" height="25px"> Wadi Degla FC</p> |
-| <p align="center">12:30</p> | <p align="right">Makadi <img src="/static/logos/Makadi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Petrojet.png" height="25px"> Petrojet</p> |
 | <p align="center">12:30</p> | <p align="right">Misr Lel Makkasa SC <img src="/static/logos/Misr Lel Makkasa SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tanta.png" height="25px"> Tanta</p> |
 | <p align="center">12:30</p> | <p align="right">Itesalat <img src="/static/logos/Itesalat.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nogoom FC.png" height="25px"> Nogoom FC</p> |
+| <p align="center">12:30</p> | <p align="right">Olympic El Qanah FC <img src="/static/logos/Olympic El Qanah FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Nasr Tadeen.png" height="25px"> El Nasr Tadeen</p> |
+| <p align="center">12:30</p> | <p align="right">Makadi <img src="/static/logos/Makadi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Petrojet.png" height="25px"> Petrojet</p> |
+| <p align="center">12:30</p> | <p align="right">Ghazl Al Mahalla <img src="/static/logos/Ghazl Al Mahalla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dekernes.png" height="25px"> Dekernes</p> |
 </div>
 
 
@@ -237,8 +237,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:00</p> | <p align="right">Jong PSV <img src="/static/logos/Jong PSV.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Willem II.png" height="25px"> Willem II</p> |
-| <p align="center">19:00</p> | <p align="right">Cambuur <img src="/static/logos/Cambuur.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TOP Oss.png" height="25px"> TOP Oss</p> |
 | <p align="center">19:00</p> | <p align="right">Jong Ajax <img src="/static/logos/Jong Ajax.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
+| <p align="center">19:00</p> | <p align="right">Cambuur <img src="/static/logos/Cambuur.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TOP Oss.png" height="25px"> TOP Oss</p> |
 </div>
 
 
