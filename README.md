@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Iraq <img src="/static/logos/Iraq.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
-| <p align="center">45' 2'</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
+| <p align="center">HT</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
 </div>
 
 
@@ -135,7 +135,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Egnatia <img src="/static/logos/Egnatia.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/KF Erzeni.png" height="25px"> KF Erzeni</p> |
-| <p align="center">45' 1'</p> | <p align="right">FC Dinamo City <img src="/static/logos/FC Dinamo City.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kukesi.png" height="25px"> Kukesi</p> |
+| <p align="center">HT</p> | <p align="right">FC Dinamo City <img src="/static/logos/FC Dinamo City.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kukesi.png" height="25px"> Kukesi</p> |
 </div>
 
 
@@ -248,7 +248,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 2'</p> | <p align="right">Benfica B <img src="/static/logos/Benfica B.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uniao de Leiria.png" height="25px"> Uniao de Leiria</p> |
+| <p align="center">HT</p> | <p align="right">Benfica B <img src="/static/logos/Benfica B.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uniao de Leiria.png" height="25px"> Uniao de Leiria</p> |
 | <p align="center">18:00</p> | <p align="right">Penafiel <img src="/static/logos/Penafiel.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Feirense.png" height="25px"> Feirense</p> |
 </div>
 
