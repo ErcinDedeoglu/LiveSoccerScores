@@ -267,7 +267,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:30</p> | <p align="right">Asaria <img src="/static/logos/Asaria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Abu Salim.png" height="25px"> Abu Salim</p> |
+| <p align="center">FT</p> | <p align="right">Asaria <img src="/static/logos/Asaria.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Abu Salim.png" height="25px"> Abu Salim</p> |
 | <p align="center">15:30</p> | <p align="right">Al-Madina <img src="/static/logos/Al-Madina.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympic Azzaweya SC.png" height="25px"> Olympic Azzaweya SC</p> |
 </div>
 
@@ -278,7 +278,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">33'</p> | <p align="right">Rivers United FC <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
+| <p align="center">41'</p> | <p align="right">Rivers United FC <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
 </div>
 
 
