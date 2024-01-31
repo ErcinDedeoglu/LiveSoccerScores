@@ -52,8 +52,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mazatlan FC <img src="/static/logos/Mazatlan FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Leon.png" height="25px"> Leon</p> |
 | <p align="center">FT</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tijuana.png" height="25px"> Tijuana</p> |
-| <p align="center">27'</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
-| <p align="center">19'</p> | <p align="right">CD Guadalajara <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Toluca.png" height="25px"> Toluca</p> |
+| <p align="center">35'</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
+| <p align="center">27'</p> | <p align="right">CD Guadalajara <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Toluca.png" height="25px"> Toluca</p> |
 </div>
 
 
@@ -123,7 +123,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">33'</p> | <p align="right">Cimarrones de Sonora <img src="/static/logos/Cimarrones de Sonora.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tlaxcala FC.png" height="25px"> Tlaxcala FC</p> |
+| <p align="center">41'</p> | <p align="right">Cimarrones de Sonora <img src="/static/logos/Cimarrones de Sonora.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tlaxcala FC.png" height="25px"> Tlaxcala FC</p> |
 </div>
 
 
