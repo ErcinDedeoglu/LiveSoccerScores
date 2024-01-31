@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">25'</p> | <p align="right">Bahrain <img src="/static/logos/Bahrain.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
+| <p align="center">35'</p> | <p align="right">Bahrain <img src="/static/logos/Bahrain.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
 | <p align="center">16:00</p> | <p align="right">Iran <img src="/static/logos/Iran.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
 </div>
 
@@ -284,7 +284,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Kirsehir FK <img src="/static/logos/Kirsehir FK.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Van Spor Kulubu.png" height="25px"> Van Spor Kulubu</p> |
-| <p align="center">10:00</p> | <p align="right">24 Erzincanspor <img src="/static/logos/24 Erzincanspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Soma Spor Dernegi.png" height="25px"> Soma Spor Dernegi</p> |
+| <p align="center">FT</p> | <p align="right">24 Erzincanspor <img src="/static/logos/24 Erzincanspor.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Soma Spor Dernegi.png" height="25px"> Soma Spor Dernegi</p> |
 | <p align="center">11:00</p> | <p align="right">Karaman FK <img src="/static/logos/Karaman FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Duzcespor.png" height="25px"> Duzcespor</p> |
 | <p align="center">11:00</p> | <p align="right">Inegolspor <img src="/static/logos/Inegolspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kastamonuspor 1966.png" height="25px"> Kastamonuspor 1966</p> |
 | <p align="center">11:00</p> | <p align="right">Fethiyespor <img src="/static/logos/Fethiyespor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Igdir FK.png" height="25px"> Igdir FK</p> |
