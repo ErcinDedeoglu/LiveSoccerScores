@@ -38,7 +38,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Atlas.png" height="25px"> Atlas</p> |
-| <p align="center">HT</p> | <p align="right">Club Universidad Nacional <img src="/static/logos/Club Universidad Nacional.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
+| <p align="center">FT</p> | <p align="right">Club Universidad Nacional <img src="/static/logos/Club Universidad Nacional.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
 </div>
 
 
@@ -82,8 +82,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:30</p> | <p align="right">KV Mechelen <img src="/static/logos/KV Mechelen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Anderlecht.png" height="25px"> Anderlecht</p> |
 | <p align="center">19:30</p> | <p align="right">St.Truiden <img src="/static/logos/St.Truiden.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gent.png" height="25px"> Gent</p> |
+| <p align="center">19:30</p> | <p align="right">KV Mechelen <img src="/static/logos/KV Mechelen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Anderlecht.png" height="25px"> Anderlecht</p> |
 </div>
 
 
@@ -94,7 +94,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Dorados <img src="/static/logos/Dorados.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Venados FC.png" height="25px"> Venados FC</p> |
-| <p align="center">45' 3'</p> | <p align="right">Correcaminos de la UAT <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cancun FC.png" height="25px"> Cancun FC</p> |
+| <p align="center">FT</p> | <p align="right">Correcaminos de la UAT <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Cancun FC.png" height="25px"> Cancun FC</p> |
 </div>
 
 
@@ -105,8 +105,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">14:00</p> | <p align="right">APOEL Nicosia <img src="/static/logos/APOEL Nicosia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Karmiotissa Pano Polemidion.png" height="25px"> Karmiotissa Pano Polemidion</p> |
-| <p align="center">17:00</p> | <p align="right">Doxa Katokopia <img src="/static/logos/Doxa Katokopia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ethnikos Achnas.png" height="25px"> Ethnikos Achnas</p> |
 | <p align="center">17:00</p> | <p align="right">AEL Limassol <img src="/static/logos/AEL Limassol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nea Salamis.png" height="25px"> Nea Salamis</p> |
+| <p align="center">17:00</p> | <p align="right">Doxa Katokopia <img src="/static/logos/Doxa Katokopia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ethnikos Achnas.png" height="25px"> Ethnikos Achnas</p> |
 </div>
 
 
