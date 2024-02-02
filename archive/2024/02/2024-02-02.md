@@ -132,8 +132,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Brisbane Roar FC <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Wellington Phoenix.png" height="25px"> Wellington Phoenix</p> |
-| <p align="center">10:45</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City FC</p> |
+| <p align="center">FT</p> | <p align="right">Brisbane Roar FC <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Wellington Phoenix.png" height="25px"> Wellington Phoenix</p> |
+| <p align="center">22'</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City FC</p> |
 </div>
 
 
@@ -381,9 +381,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">KCCA FC <img src="/static/logos/KCCA FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/BUL FC.png" height="25px"> BUL FC</p> |
 | <p align="center">13:00</p> | <p align="right">Mbarara City <img src="/static/logos/Mbarara City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Express FC.png" height="25px"> Express FC</p> |
 | <p align="center">13:00</p> | <p align="right">Gadaffi FC <img src="/static/logos/Gadaffi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/URA FC.png" height="25px"> URA FC</p> |
+| <p align="center">15:00</p> | <p align="right">KCCA FC <img src="/static/logos/KCCA FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/BUL FC.png" height="25px"> BUL FC</p> |
 </div>
 
 
