@@ -206,7 +206,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">7'</p> | <p align="right">Rizespor <img src="/static/logos/Rizespor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Konyaspor.png" height="25px"> Konyaspor</p> |
+| <p align="center">39'</p> | <p align="right">Rizespor <img src="/static/logos/Rizespor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Konyaspor.png" height="25px"> Konyaspor</p> |
 | <p align="center">13:00</p> | <p align="right">Istanbul Basaksehir <img src="/static/logos/Istanbul Basaksehir.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Istanbulspor.png" height="25px"> Istanbulspor</p> |
 | <p align="center">16:00</p> | <p align="right">Antalyaspor <img src="/static/logos/Antalyaspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
 | <p align="center">16:00</p> | <p align="right">Gaziantep FK <img src="/static/logos/Gaziantep FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kayserispor.png" height="25px"> Kayserispor</p> |
@@ -221,7 +221,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
 | <p align="center">FT</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Melbourne Victory.png" height="25px"> Melbourne Victory</p> |
-| <p align="center">90' 2'</p> | <p align="right">Adelaide United <img src="/static/logos/Adelaide United.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
+| <p align="center">FT</p> | <p align="right">Adelaide United <img src="/static/logos/Adelaide United.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
 </div>
 
 
@@ -769,7 +769,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Uniao de Leiria <img src="/static/logos/Uniao de Leiria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Porto B.png" height="25px"> FC Porto B</p> |
+| <p align="center">7'</p> | <p align="right">Uniao de Leiria <img src="/static/logos/Uniao de Leiria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Porto B.png" height="25px"> FC Porto B</p> |
 | <p align="center">14:00</p> | <p align="right">Torreense <img src="/static/logos/Torreense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AVS Futebol SAD.png" height="25px"> AVS Futebol SAD</p> |
 </div>
 
@@ -864,7 +864,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Granada Feminino <img src="/static/logos/Granada Feminino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Athletic Bilbao.png" height="25px"> Athletic Bilbao</p> |
+| <p align="center">9'</p> | <p align="right">Granada Feminino <img src="/static/logos/Granada Feminino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Athletic Bilbao.png" height="25px"> Athletic Bilbao</p> |
 | <p align="center">13:00</p> | <p align="right">Madrid Femenino <img src="/static/logos/Madrid Femenino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sevilla.png" height="25px"> Sevilla</p> |
 | <p align="center">15:30</p> | <p align="right">Atletico Madrid Femenino <img src="/static/logos/Atletico Madrid Femenino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Levante.png" height="25px"> Levante</p> |
 | <p align="center">17:30</p> | <p align="right">Villarreal <img src="/static/logos/Villarreal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Betis Feminas.png" height="25px"> Real Betis Feminas</p> |
@@ -936,8 +936,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">6'</p> | <p align="right">Umraniyespor <img src="/static/logos/Umraniyespor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bodrumspor.png" height="25px"> Bodrumspor</p> |
-| <p align="center">7'</p> | <p align="right">Keciorengucu <img src="/static/logos/Keciorengucu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Boluspor.png" height="25px"> Boluspor</p> |
+| <p align="center">38'</p> | <p align="right">Umraniyespor <img src="/static/logos/Umraniyespor.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bodrumspor.png" height="25px"> Bodrumspor</p> |
+| <p align="center">39'</p> | <p align="right">Keciorengucu <img src="/static/logos/Keciorengucu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Boluspor.png" height="25px"> Boluspor</p> |
 | <p align="center">13:00</p> | <p align="right">Kocaelispor <img src="/static/logos/Kocaelispor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Adanaspor.png" height="25px"> Adanaspor</p> |
 | <p align="center">16:00</p> | <p align="right">Goztepe <img src="/static/logos/Goztepe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Altay.png" height="25px"> Altay</p> |
 </div>
