@@ -156,7 +156,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:30</p> | <p align="right">Pendikspor <img src="/static/logos/Pendikspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Adana Demirspor.png" height="25px"> Adana Demirspor</p> |
+| <p align="center">11'</p> | <p align="right">Pendikspor <img src="/static/logos/Pendikspor.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Adana Demirspor.png" height="25px"> Adana Demirspor</p> |
 | <p align="center">13:00</p> | <p align="right">Kasimpasa <img src="/static/logos/Kasimpasa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Alanyaspor.png" height="25px"> Alanyaspor</p> |
 | <p align="center">16:00</p> | <p align="right">Besiktas <img src="/static/logos/Besiktas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Trabzonspor.png" height="25px"> Trabzonspor</p> |
 </div>
@@ -556,10 +556,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Kariobangi Sharks <img src="/static/logos/Kariobangi Sharks.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFC Leopards.png" height="25px"> AFC Leopards</p> |
 | <p align="center">12:00</p> | <p align="right">Nairobi City Stars <img src="/static/logos/Nairobi City Stars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shabana.png" height="25px"> Shabana</p> |
 | <p align="center">12:00</p> | <p align="right">Ulinzi Stars <img src="/static/logos/Ulinzi Stars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Talanta.png" height="25px"> FC Talanta</p> |
 | <p align="center">12:00</p> | <p align="right">Murang'a Seal <img src="/static/logos/Murang'a Seal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bandari.png" height="25px"> Bandari</p> |
+| <p align="center">13:00</p> | <p align="right">Kariobangi Sharks <img src="/static/logos/Kariobangi Sharks.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFC Leopards.png" height="25px"> AFC Leopards</p> |
 </div>
 
 
@@ -727,8 +727,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:30</p> | <p align="right">Erzurumspor FK <img src="/static/logos/Erzurumspor FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sanliurfaspor.png" height="25px"> Sanliurfaspor</p> |
-| <p align="center">10:30</p> | <p align="right">Tuzlaspor <img src="/static/logos/Tuzlaspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manisa Futbol Kulubu.png" height="25px"> Manisa Futbol Kulubu</p> |
+| <p align="center">9'</p> | <p align="right">Erzurumspor FK <img src="/static/logos/Erzurumspor FK.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sanliurfaspor.png" height="25px"> Sanliurfaspor</p> |
+| <p align="center">11'</p> | <p align="right">Tuzlaspor <img src="/static/logos/Tuzlaspor.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Manisa Futbol Kulubu.png" height="25px"> Manisa Futbol Kulubu</p> |
 | <p align="center">13:00</p> | <p align="right">Genclerbirligi <img src="/static/logos/Genclerbirligi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Corum FK.png" height="25px"> Corum FK</p> |
 | <p align="center">16:00</p> | <p align="right">Giresunspor <img src="/static/logos/Giresunspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Eyupspor.png" height="25px"> Eyupspor</p> |
 </div>
