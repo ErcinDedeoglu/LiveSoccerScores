@@ -47,7 +47,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Santos Laguna.png" height="25px"> Santos Laguna</p> |
-| <p align="center">HT</p> | <p align="right">Atletico de San Luis <img src="/static/logos/Atletico de San Luis.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> CD Guadalajara</p> |
+| <p align="center">70'</p> | <p align="right">Atletico de San Luis <img src="/static/logos/Atletico de San Luis.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> CD Guadalajara</p> |
 </div>
 
 
@@ -67,7 +67,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Newell's Old Boys <img src="/static/logos/Newell's Old Boys.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Belgrano.png" height="25px"> Belgrano</p> |
+| <p align="center">FT</p> | <p align="right">Newell's Old Boys <img src="/static/logos/Newell's Old Boys.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Belgrano.png" height="25px"> Belgrano</p> |
 | <p align="center">20:30</p> | <p align="right">Godoy Cruz <img src="/static/logos/Godoy Cruz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lanus.png" height="25px"> Lanus</p> |
 | <p align="center">21:00</p> | <p align="right">San Lorenzo <img src="/static/logos/San Lorenzo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Union.png" height="25px"> Union</p> |
 | <p align="center">22:45</p> | <p align="right">Tigre <img src="/static/logos/Tigre.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Boca Juniors.png" height="25px"> Boca Juniors</p> |
@@ -80,7 +80,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Alianza FC <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
+| <p align="center">52'</p> | <p align="right">Alianza FC <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
 | <p align="center">21:00</p> | <p align="right">Chico FC <img src="/static/logos/Chico FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
 | <p align="center">23:10</p> | <p align="right">Deportivo Pasto <img src="/static/logos/Deportivo Pasto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Jaguares.png" height="25px"> CD Jaguares</p> |
 </div>
@@ -92,7 +92,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mineros de Zacatecas.png" height="25px"> Mineros de Zacatecas</p> |
+| <p align="center">69'</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mineros de Zacatecas.png" height="25px"> Mineros de Zacatecas</p> |
 </div>
 
 
