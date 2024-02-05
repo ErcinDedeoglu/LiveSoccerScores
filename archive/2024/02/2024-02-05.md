@@ -112,8 +112,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Al-Najma <img src="/static/logos/Al-Najma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Hidd.png" height="25px"> Al-Hidd</p> |
 | <p align="center">16:00</p> | <p align="right">Al Ahli <img src="/static/logos/Al Ahli.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Hala.png" height="25px"> Al-Hala</p> |
+| <p align="center">16:00</p> | <p align="right">Al-Najma <img src="/static/logos/Al-Najma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Hidd.png" height="25px"> Al-Hidd</p> |
 </div>
 
 
