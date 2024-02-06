@@ -248,7 +248,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">Silkeborg <img src="/static/logos/Silkeborg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Klaksvik.png" height="25px"> Klaksvik</p> |
+| <p align="center">13'</p> | <p align="right">Silkeborg <img src="/static/logos/Silkeborg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Klaksvik.png" height="25px"> Klaksvik</p> |
 </div>
 
 
@@ -273,7 +273,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">AZ Picerno <img src="/static/logos/AZ Picerno.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Catania.png" height="25px"> Catania</p> |
+| <p align="center">58'</p> | <p align="right">AZ Picerno <img src="/static/logos/AZ Picerno.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Catania.png" height="25px"> Catania</p> |
 </div>
 
 
@@ -385,8 +385,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">US Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avenir de La Marsa.png" height="25px"> Avenir de La Marsa</p> |
-| <p align="center">HT</p> | <p align="right">CA Bizertin <img src="/static/logos/CA Bizertin.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Etoile Metlaoui.png" height="25px"> Etoile Metlaoui</p> |
+| <p align="center">51'</p> | <p align="right">US Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avenir de La Marsa.png" height="25px"> Avenir de La Marsa</p> |
+| <p align="center">55'</p> | <p align="right">CA Bizertin <img src="/static/logos/CA Bizertin.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Etoile Metlaoui.png" height="25px"> Etoile Metlaoui</p> |
 </div>
 
 
