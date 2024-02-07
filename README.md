@@ -360,9 +360,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">10:00</p> | <p align="right">Kasetsart <img src="/static/logos/Kasetsart.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dragon Pathumwan Kanchanaburi.png" height="25px"> Dragon Pathumwan Kanchanaburi</p> |
-| <p align="center">11:00</p> | <p align="right">Krabi FC <img src="/static/logos/Krabi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chiangmai FC.png" height="25px"> Chiangmai FC</p> |
 | <p align="center">11:00</p> | <p align="right">Lampang FC <img src="/static/logos/Lampang FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Phrae United.png" height="25px"> Phrae United</p> |
 | <p align="center">11:00</p> | <p align="right">Nong Bua Pitchaya FC <img src="/static/logos/Nong Bua Pitchaya FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ayutthaya United FC.png" height="25px"> Ayutthaya United FC</p> |
+| <p align="center">11:00</p> | <p align="right">Krabi FC <img src="/static/logos/Krabi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chiangmai FC.png" height="25px"> Chiangmai FC</p> |
 | <p align="center">11:30</p> | <p align="right">Chanthaburi FC <img src="/static/logos/Chanthaburi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chiangmai United.png" height="25px"> Chiangmai United</p> |
 | <p align="center">11:30</p> | <p align="right">Samut Prakan City <img src="/static/logos/Samut Prakan City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Suphanburi FC.png" height="25px"> Suphanburi FC</p> |
 | <p align="center">11:30</p> | <p align="right">Rayong FC <img src="/static/logos/Rayong FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nakhon Ratchasima FC.png" height="25px"> Nakhon Ratchasima FC</p> |
@@ -400,8 +400,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">BUL FC <img src="/static/logos/BUL FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Soltilo Bright Stars FC.png" height="25px"> Soltilo Bright Stars FC</p> |
 | <p align="center">13:00</p> | <p align="right">Arua Hill SC <img src="/static/logos/Arua Hill SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vipers SC.png" height="25px"> Vipers SC</p> |
+| <p align="center">13:00</p> | <p align="right">BUL FC <img src="/static/logos/BUL FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Soltilo Bright Stars FC.png" height="25px"> Soltilo Bright Stars FC</p> |
 </div>
 
 
