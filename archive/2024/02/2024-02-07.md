@@ -27,7 +27,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Nigeria <img src="/static/logos/Nigeria.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/South Africa.png" height="25px"> South Africa</p> |
-| <p align="center">20:00</p> | <p align="right">Ivory Coast <img src="/static/logos/Ivory Coast.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/DR Congo.png" height="25px"> DR Congo</p> |
+| <p align="center">71'</p> | <p align="right">Ivory Coast <img src="/static/logos/Ivory Coast.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/DR Congo.png" height="25px"> DR Congo</p> |
 </div>
 
 
@@ -47,10 +47,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Kilmarnock <img src="/static/logos/Kilmarnock.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Livingston.png" height="25px"> Livingston</p> |
-| <p align="center">POS</p> | <p align="right">St. Mirren <img src="/static/logos/St. Mirren.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Dundee FC.png" height="25px"> Dundee FC</p> |
-| <p align="center">14'</p> | <p align="right">St. Johnstone <img src="/static/logos/St. Johnstone.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hearts.png" height="25px"> Hearts</p> |
-| <p align="center">20:00</p> | <p align="right">Hibernian <img src="/static/logos/Hibernian.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Celtic.png" height="25px"> Celtic</p> |
+| <p align="center">89'</p> | <p align="right">St. Johnstone <img src="/static/logos/St. Johnstone.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hearts.png" height="25px"> Hearts</p> |
+| <p align="center">86'</p> | <p align="right">Kilmarnock <img src="/static/logos/Kilmarnock.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Livingston.png" height="25px"> Livingston</p> |
+| <p align="center">58'</p> | <p align="right">St. Mirren <img src="/static/logos/St. Mirren.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dundee FC.png" height="25px"> Dundee FC</p> |
+| <p align="center">69'</p> | <p align="right">Hibernian <img src="/static/logos/Hibernian.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Celtic.png" height="25px"> Celtic</p> |
 </div>
 
 
@@ -70,8 +70,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14'</p> | <p align="right">Nottingham Forest <img src="/static/logos/Nottingham Forest.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bristol City.png" height="25px"> Bristol City</p> |
-| <p align="center">20:00</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chelsea.png" height="25px"> Chelsea</p> |
+| <p align="center">88'</p> | <p align="right">Nottingham Forest <img src="/static/logos/Nottingham Forest.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bristol City.png" height="25px"> Bristol City</p> |
+| <p align="center">73'</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Chelsea.png" height="25px"> Chelsea</p> |
 </div>
 
 
@@ -81,7 +81,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20:30</p> | <p align="right">Atletico Madrid <img src="/static/logos/Atletico Madrid.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Athletic Bilbao.png" height="25px"> Athletic Bilbao</p> |
+| <p align="center">HT</p> | <p align="right">Atletico Madrid <img src="/static/logos/Atletico Madrid.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Athletic Bilbao.png" height="25px"> Athletic Bilbao</p> |
 </div>
 
 
@@ -92,9 +92,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Lille.png" height="25px"> Lille</p> |
-| <p align="center">30'</p> | <p align="right">Strasbourg <img src="/static/logos/Strasbourg.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Le Havre.png" height="25px"> Le Havre</p> |
-| <p align="center">30'</p> | <p align="right">Montpellier <img src="/static/logos/Montpellier.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Nice.png" height="25px"> Nice</p> |
-| <p align="center">20:10</p> | <p align="right">Paris Saint-Germain <img src="/static/logos/Paris Saint-Germain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brest.png" height="25px"> Brest</p> |
+| <p align="center">FT</p> | <p align="right">Montpellier <img src="/static/logos/Montpellier.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Nice.png" height="25px"> Nice</p> |
+| <p align="center">FT</p> | <p align="right">Strasbourg <img src="/static/logos/Strasbourg.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Le Havre.png" height="25px"> Le Havre</p> |
+| <p align="center">61'</p> | <p align="right">Paris Saint-Germain <img src="/static/logos/Paris Saint-Germain.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Brest.png" height="25px"> Brest</p> |
 </div>
 
 
@@ -126,7 +126,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Santa Fe <img src="/static/logos/Santa Fe.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bucaramanga.png" height="25px"> Bucaramanga</p> |
-| <p align="center">21:00</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza FC</p> |
+| <p align="center">30'</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza FC</p> |
 </div>
 
 
@@ -146,7 +146,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20:00</p> | <p align="right">Deportivo Riestra <img src="/static/logos/Deportivo Riestra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Comunicaciones.png" height="25px"> Comunicaciones</p> |
+| <p align="center">69'</p> | <p align="right">Deportivo Riestra <img src="/static/logos/Deportivo Riestra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Comunicaciones.png" height="25px"> Comunicaciones</p> |
 | <p align="center">22:15</p> | <p align="right">Belgrano <img src="/static/logos/Belgrano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atletico Mitre.png" height="25px"> Club Atletico Mitre</p> |
 </div>
 
@@ -168,7 +168,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">Club Brugge <img src="/static/logos/Club Brugge.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
+| <p align="center">86'</p> | <p align="right">Club Brugge <img src="/static/logos/Club Brugge.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
 </div>
 
 
@@ -178,8 +178,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Anderlecht Futures <img src="/static/logos/Anderlecht Futures.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Liege.png" height="25px"> FC Liege</p> |
-| <p align="center">HT</p> | <p align="right">Lommel <img src="/static/logos/Lommel.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Beerschot.png" height="25px"> Beerschot</p> |
+| <p align="center">FT</p> | <p align="right">Lommel <img src="/static/logos/Lommel.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Beerschot.png" height="25px"> Beerschot</p> |
+| <p align="center">FT</p> | <p align="right">Anderlecht Futures <img src="/static/logos/Anderlecht Futures.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Liege.png" height="25px"> FC Liege</p> |
 </div>
 
 
@@ -241,7 +241,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:00</p> | <p align="right">Brighton & Hove Albion Women <img src="/static/logos/Brighton & Hove Albion Women.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aston Villa Women.png" height="25px"> Aston Villa Women</p> |
 | <p align="center">POS</p> | <p align="right">London City Lionesses <img src="/static/logos/London City Lionesses.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Arsenal Women.png" height="25px"> Arsenal Women</p> |
-| <p align="center">19:30</p> | <p align="right">Tottenham Hotspur Women <img src="/static/logos/Tottenham Hotspur Women.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manchester City Women.png" height="25px"> Manchester City Women</p> |
+| <p align="center">FT</p> | <p align="right">Tottenham Hotspur Women <img src="/static/logos/Tottenham Hotspur Women.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Manchester City Women.png" height="25px"> Manchester City Women</p> |
 </div>
 
 
@@ -261,7 +261,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">Meppen <img src="/static/logos/Meppen.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Oldenburg.png" height="25px"> Oldenburg</p> |
+| <p align="center">FT</p> | <p align="right">Meppen <img src="/static/logos/Meppen.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Oldenburg.png" height="25px"> Oldenburg</p> |
 </div>
 
 
@@ -306,7 +306,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cambuur <img src="/static/logos/Cambuur.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Vitesse.png" height="25px"> Vitesse</p> |
-| <p align="center">20:00</p> | <p align="right">Feyenoord <img src="/static/logos/Feyenoord.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AZ Alkmaar.png" height="25px"> AZ Alkmaar</p> |
+| <p align="center">68'</p> | <p align="right">Feyenoord <img src="/static/logos/Feyenoord.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AZ Alkmaar.png" height="25px"> AZ Alkmaar</p> |
 </div>
 
 
@@ -317,7 +317,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">16:00</p> | <p align="right">Santa Clara <img src="/static/logos/Santa Clara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Porto.png" height="25px"> FC Porto</p> |
-| <p align="center">20:45</p> | <p align="right">Uniao de Leiria <img src="/static/logos/Uniao de Leiria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sporting CP.png" height="25px"> Sporting CP</p> |
+| <p align="center">45'</p> | <p align="right">Uniao de Leiria <img src="/static/logos/Uniao de Leiria.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sporting CP.png" height="25px"> Sporting CP</p> |
 </div>
 
 
