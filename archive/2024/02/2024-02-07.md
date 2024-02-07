@@ -219,7 +219,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 6908'</p> | <p align="right">Olympiakos Nicosia <img src="/static/logos/Olympiakos Nicosia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ayia Napa.png" height="25px"> Ayia Napa</p> |
+| <p align="center">45' 6917'</p> | <p align="right">Olympiakos Nicosia <img src="/static/logos/Olympiakos Nicosia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ayia Napa.png" height="25px"> Ayia Napa</p> |
 </div>
 
 
@@ -350,8 +350,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Kasetsart <img src="/static/logos/Kasetsart.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Dragon Pathumwan Kanchanaburi.png" height="25px"> Dragon Pathumwan Kanchanaburi</p> |
-| <p align="center">11:00</p> | <p align="right">Krabi FC <img src="/static/logos/Krabi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chiangmai FC.png" height="25px"> Chiangmai FC</p> |
-| <p align="center">11:00</p> | <p align="right">Nong Bua Pitchaya FC <img src="/static/logos/Nong Bua Pitchaya FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ayutthaya United FC.png" height="25px"> Ayutthaya United FC</p> |
+| <p align="center">FT</p> | <p align="right">Krabi FC <img src="/static/logos/Krabi FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chiangmai FC.png" height="25px"> Chiangmai FC</p> |
+| <p align="center">FT</p> | <p align="right">Nong Bua Pitchaya FC <img src="/static/logos/Nong Bua Pitchaya FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ayutthaya United FC.png" height="25px"> Ayutthaya United FC</p> |
 | <p align="center">FT</p> | <p align="right">Lampang FC <img src="/static/logos/Lampang FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Phrae United.png" height="25px"> Phrae United</p> |
 | <p align="center">11:30</p> | <p align="right">Rayong FC <img src="/static/logos/Rayong FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nakhon Ratchasima FC.png" height="25px"> Nakhon Ratchasima FC</p> |
 | <p align="center">11:30</p> | <p align="right">Chanthaburi FC <img src="/static/logos/Chanthaburi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chiangmai United.png" height="25px"> Chiangmai United</p> |
@@ -368,7 +368,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">13:00</p> | <p align="right">Gafsa <img src="/static/logos/Gafsa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ben Guerdane.png" height="25px"> Ben Guerdane</p> |
-| <p align="center">13:00</p> | <p align="right">AS Slimane <img src="/static/logos/AS Slimane.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympique de Beja.png" height="25px"> Olympique de Beja</p> |
+| <p align="center">3'</p> | <p align="right">AS Slimane <img src="/static/logos/AS Slimane.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olympique de Beja.png" height="25px"> Olympique de Beja</p> |
 </div>
 
 
@@ -378,7 +378,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">Sivasspor <img src="/static/logos/Sivasspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Konyaspor.png" height="25px"> Konyaspor</p> |
+| <p align="center">73'</p> | <p align="right">Sivasspor <img src="/static/logos/Sivasspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Konyaspor.png" height="25px"> Konyaspor</p> |
 | <p align="center">14:30</p> | <p align="right">Istanbul Basaksehir <img src="/static/logos/Istanbul Basaksehir.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hatayspor.png" height="25px"> Hatayspor</p> |
 | <p align="center">17:45</p> | <p align="right">Gaziantep FK <img src="/static/logos/Gaziantep FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
 </div>
