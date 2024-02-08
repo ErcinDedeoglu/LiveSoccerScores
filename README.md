@@ -68,7 +68,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Malmoe FF <img src="/static/logos/Malmoe FF.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Bodoe/Glimt.png" height="25px"> Bodoe/Glimt</p> |
+| <p align="center">74'</p> | <p align="right">Malmoe FF <img src="/static/logos/Malmoe FF.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Bodoe/Glimt.png" height="25px"> Bodoe/Glimt</p> |
 | <p align="center">18:00</p> | <p align="right">Al Hilal <img src="/static/logos/Al Hilal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Al Nassr FC</p> |
 </div>
 
@@ -109,7 +109,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 2'</p> | <p align="right">FC Koebenhavn <img src="/static/logos/FC Koebenhavn.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Molde.png" height="25px"> Molde</p> |
+| <p align="center">71'</p> | <p align="right">FC Koebenhavn <img src="/static/logos/FC Koebenhavn.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Molde.png" height="25px"> Molde</p> |
 </div>
 
 
