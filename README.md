@@ -141,8 +141,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Raja Casablanca <img src="/static/logos/Raja Casablanca.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Youssoufia Berrechid.png" height="25px"> Youssoufia Berrechid</p> |
-| <p align="center">28'</p> | <p align="right">MCO Oujda <img src="/static/logos/MCO Oujda.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/RSB Berkane.png" height="25px"> RSB Berkane</p> |
-| <p align="center">30'</p> | <p align="right">Chabab Mohammedia <img src="/static/logos/Chabab Mohammedia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FAR Rabat.png" height="25px"> FAR Rabat</p> |
+| <p align="center">38'</p> | <p align="right">Chabab Mohammedia <img src="/static/logos/Chabab Mohammedia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FAR Rabat.png" height="25px"> FAR Rabat</p> |
+| <p align="center">36'</p> | <p align="right">MCO Oujda <img src="/static/logos/MCO Oujda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/RSB Berkane.png" height="25px"> RSB Berkane</p> |
 </div>
 
 
