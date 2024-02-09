@@ -109,7 +109,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Adana Demirspor <img src="/static/logos/Adana Demirspor.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Kasimpasa.png" height="25px"> Kasimpasa</p> |
+| <p align="center">90' 2'</p> | <p align="right">Adana Demirspor <img src="/static/logos/Adana Demirspor.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Kasimpasa.png" height="25px"> Kasimpasa</p> |
 </div>
 
 
@@ -202,8 +202,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">Omonia Nicosia <img src="/static/logos/Omonia Nicosia.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Anorthosis.png" height="25px"> Anorthosis</p> |
-| <p align="center">82'</p> | <p align="right">AEZ Zakakiou <img src="/static/logos/AEZ Zakakiou.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Othellos Athienou.png" height="25px"> Othellos Athienou</p> |
+| <p align="center">90' 2'</p> | <p align="right">Omonia Nicosia <img src="/static/logos/Omonia Nicosia.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Anorthosis.png" height="25px"> Anorthosis</p> |
+| <p align="center">90'</p> | <p align="right">AEZ Zakakiou <img src="/static/logos/AEZ Zakakiou.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Othellos Athienou.png" height="25px"> Othellos Athienou</p> |
 </div>
 
 
@@ -243,12 +243,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Epinal <img src="/static/logos/Epinal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cholet.png" height="25px"> Cholet</p> |
-| <p align="center">13'</p> | <p align="right">Red Star <img src="/static/logos/Red Star.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Martigues.png" height="25px"> Martigues</p> |
-| <p align="center">13'</p> | <p align="right">Marignane/Gignac FC <img src="/static/logos/Marignane/Gignac FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Villefranche Beaujolais.png" height="25px"> Villefranche Beaujolais</p> |
-| <p align="center">12'</p> | <p align="right">Nimes <img src="/static/logos/Nimes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avranches.png" height="25px"> Avranches</p> |
-| <p align="center">13'</p> | <p align="right">Versailles <img src="/static/logos/Versailles.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Le Mans.png" height="25px"> Le Mans</p> |
-| <p align="center">14'</p> | <p align="right">Dijon <img src="/static/logos/Dijon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chateauroux.png" height="25px"> Chateauroux</p> |
+| <p align="center">21'</p> | <p align="right">Epinal <img src="/static/logos/Epinal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cholet.png" height="25px"> Cholet</p> |
+| <p align="center">20'</p> | <p align="right">Red Star <img src="/static/logos/Red Star.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Martigues.png" height="25px"> Martigues</p> |
+| <p align="center">21'</p> | <p align="right">Marignane/Gignac FC <img src="/static/logos/Marignane/Gignac FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Villefranche Beaujolais.png" height="25px"> Villefranche Beaujolais</p> |
+| <p align="center">20'</p> | <p align="right">Nimes <img src="/static/logos/Nimes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avranches.png" height="25px"> Avranches</p> |
+| <p align="center">20'</p> | <p align="right">Versailles <img src="/static/logos/Versailles.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Le Mans.png" height="25px"> Le Mans</p> |
+| <p align="center">22'</p> | <p align="right">Dijon <img src="/static/logos/Dijon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chateauroux.png" height="25px"> Chateauroux</p> |
 </div>
 
 
@@ -258,8 +258,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Hamburger SV <img src="/static/logos/Hamburger SV.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Hannover 96.png" height="25px"> Hannover 96</p> |
-| <p align="center">55'</p> | <p align="right">Wehen Wiesbaden <img src="/static/logos/Wehen Wiesbaden.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nuernberg.png" height="25px"> Nuernberg</p> |
+| <p align="center">53'</p> | <p align="right">Hamburger SV <img src="/static/logos/Hamburger SV.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Hannover 96.png" height="25px"> Hannover 96</p> |
+| <p align="center">63'</p> | <p align="right">Wehen Wiesbaden <img src="/static/logos/Wehen Wiesbaden.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nuernberg.png" height="25px"> Nuernberg</p> |
 </div>
 
 
@@ -269,7 +269,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Viktoria Koeln 1904 <img src="/static/logos/Viktoria Koeln 1904.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Borussia Dortmund II.png" height="25px"> Borussia Dortmund II</p> |
+| <p align="center">HT</p> | <p align="right">Viktoria Koeln 1904 <img src="/static/logos/Viktoria Koeln 1904.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Borussia Dortmund II.png" height="25px"> Borussia Dortmund II</p> |
 </div>
 
 
@@ -440,7 +440,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Stal Mielec <img src="/static/logos/Stal Mielec.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Puszcza Niepolomice.png" height="25px"> Puszcza Niepolomice</p> |
+| <p align="center">90' 3'</p> | <p align="right">Stal Mielec <img src="/static/logos/Stal Mielec.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Puszcza Niepolomice.png" height="25px"> Puszcza Niepolomice</p> |
 | <p align="center">19:30</p> | <p align="right">Ruch Chorzow <img src="/static/logos/Ruch Chorzow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Legia Warszawa.png" height="25px"> Legia Warszawa</p> |
 </div>
 
@@ -505,7 +505,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">Corum FK <img src="/static/logos/Corum FK.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Umraniyespor.png" height="25px"> Umraniyespor</p> |
+| <p align="center">90' 4'</p> | <p align="right">Corum FK <img src="/static/logos/Corum FK.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Umraniyespor.png" height="25px"> Umraniyespor</p> |
 </div>
 
 
