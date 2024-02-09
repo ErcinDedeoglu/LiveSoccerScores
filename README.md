@@ -289,7 +289,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Real Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Klaksvik.png" height="25px"> Klaksvik</p> |
+| <p align="center">HT</p> | <p align="right">Real Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Klaksvik.png" height="25px"> Klaksvik</p> |
 </div>
 
 
@@ -312,11 +312,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
-| <p align="center">31'</p> | <p align="right">Hapoel Ironi Akko <img src="/static/logos/Hapoel Ironi Akko.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Ramat Gan.png" height="25px"> Hapoel Ramat Gan</p> |
-| <p align="center">44'</p> | <p align="right">SC Kfar Kasem <img src="/static/logos/SC Kfar Kasem.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"> Maccabi Kabilio Jaffa</p> |
-| <p align="center">45'</p> | <p align="right">Hapoel Umm al-Fahm <img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"> Hapoel Rishon LeZion</p> |
-| <p align="center">44'</p> | <p align="right">Ironi Tiberias <img src="/static/logos/Ironi Tiberias.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Afula.png" height="25px"> Hapoel Afula</p> |
+| <p align="center">45' 7'</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
+| <p align="center">39'</p> | <p align="right">Hapoel Ironi Akko <img src="/static/logos/Hapoel Ironi Akko.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Ramat Gan.png" height="25px"> Hapoel Ramat Gan</p> |
+| <p align="center">HT</p> | <p align="right">SC Kfar Kasem <img src="/static/logos/SC Kfar Kasem.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"> Maccabi Kabilio Jaffa</p> |
+| <p align="center">HT</p> | <p align="right">Hapoel Umm al-Fahm <img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"> Hapoel Rishon LeZion</p> |
+| <p align="center">HT</p> | <p align="right">Ironi Tiberias <img src="/static/logos/Ironi Tiberias.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Afula.png" height="25px"> Hapoel Afula</p> |
 </div>
 
 
@@ -495,7 +495,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Muang Thong United <img src="/static/logos/Muang Thong United.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bangkok United.png" height="25px"> Bangkok United</p> |
+| <p align="center">90' 3'</p> | <p align="right">Muang Thong United <img src="/static/logos/Muang Thong United.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bangkok United.png" height="25px"> Bangkok United</p> |
 </div>
 
 
