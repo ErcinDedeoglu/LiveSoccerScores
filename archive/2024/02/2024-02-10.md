@@ -194,7 +194,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Wellington Phoenix <img src="/static/logos/Wellington Phoenix.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United FC</p> |
+| <p align="center">54'</p> | <p align="right">Wellington Phoenix <img src="/static/logos/Wellington Phoenix.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United FC</p> |
 | <p align="center">06:30</p> | <p align="right">Melbourne Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
 | <p align="center">07:00</p> | <p align="right">Brisbane Roar FC <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City FC</p> |
 | <p align="center">08:45</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
