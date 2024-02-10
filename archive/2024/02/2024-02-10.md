@@ -197,7 +197,7 @@
 | <p align="center">FT</p> | <p align="right">Wellington Phoenix <img src="/static/logos/Wellington Phoenix.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United FC</p> |
 | <p align="center">FT</p> | <p align="right">Melbourne Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
 | <p align="center">FT</p> | <p align="right">Brisbane Roar FC <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City FC</p> |
-| <p align="center">HT</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
+| <p align="center">53'</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
 </div>
 
 
@@ -532,7 +532,7 @@
 | <p align="center">15:00</p> | <p align="right">Ashton United <img src="/static/logos/Ashton United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guiseley.png" height="25px"> Guiseley</p> |
 | <p align="center">15:00</p> | <p align="right">Worksop <img src="/static/logos/Worksop.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Radcliffe.png" height="25px"> Radcliffe</p> |
 | <p align="center">15:00</p> | <p align="right">Warrington Rylands <img src="/static/logos/Warrington Rylands.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Matlock Town.png" height="25px"> Matlock Town</p> |
-| <p align="center">15:00</p> | <p align="right">Whitby <img src="/static/logos/Whitby.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC United of Manchester.png" height="25px"> FC United of Manchester</p> |
+| <p align="center">POS</p> | <p align="right">Whitby <img src="/static/logos/Whitby.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/FC United of Manchester.png" height="25px"> FC United of Manchester</p> |
 | <p align="center">15:00</p> | <p align="right">Telford <img src="/static/logos/Telford.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kettering Town FC.png" height="25px"> Kettering Town FC</p> |
 | <p align="center">15:00</p> | <p align="right">Leamington <img src="/static/logos/Leamington.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Royston Town.png" height="25px"> Royston Town</p> |
 | <p align="center">15:00</p> | <p align="right">Halesowen <img src="/static/logos/Halesowen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Redditch United.png" height="25px"> Redditch United</p> |
