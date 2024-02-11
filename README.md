@@ -90,8 +90,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Leon <img src="/static/logos/Leon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
-| <p align="center">64'</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
+| <p align="center">86'</p> | <p align="right">Leon <img src="/static/logos/Leon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
+| <p align="center">80'</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
 | <p align="center">03:10</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tigres.png" height="25px"> Tigres</p> |
 | <p align="center">03:10</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pachuca.png" height="25px"> Pachuca</p> |
 | <p align="center">18:00</p> | <p align="right">Club Universidad Nacional <img src="/static/logos/Club Universidad Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
@@ -163,7 +163,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">Independiente Medellin <img src="/static/logos/Independiente Medellin.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Santa Fe.png" height="25px"> Santa Fe</p> |
+| <p align="center">70'</p> | <p align="right">Independiente Medellin <img src="/static/logos/Independiente Medellin.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Santa Fe.png" height="25px"> Santa Fe</p> |
 | <p align="center">21:00</p> | <p align="right">Fortaleza FC <img src="/static/logos/Fortaleza FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
 | <p align="center">23:10</p> | <p align="right">Atletico Nacional <img src="/static/logos/Atletico Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
 </div>
