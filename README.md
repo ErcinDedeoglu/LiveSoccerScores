@@ -123,8 +123,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Nancy.png" height="25px"> Nancy</p> |
-| <p align="center">40'</p> | <p align="right">Orleans <img src="/static/logos/Orleans.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rouen.png" height="25px"> Rouen</p> |
+| <p align="center">90' 1'</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Nancy.png" height="25px"> Nancy</p> |
+| <p align="center">HT</p> | <p align="right">Orleans <img src="/static/logos/Orleans.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rouen.png" height="25px"> Rouen</p> |
 </div>
 
 
@@ -177,7 +177,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">Hapoel Haifa <img src="/static/logos/Hapoel Haifa.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Jerusalem FC.png" height="25px"> Hapoel Jerusalem FC</p> |
+| <p align="center">61'</p> | <p align="right">Hapoel Haifa <img src="/static/logos/Hapoel Haifa.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Jerusalem FC.png" height="25px"> Hapoel Jerusalem FC</p> |
 </div>
 
 
@@ -228,7 +228,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Korona Kielce <img src="/static/logos/Korona Kielce.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/LKS Lodz.png" height="25px"> LKS Lodz</p> |
+| <p align="center">54'</p> | <p align="right">Korona Kielce <img src="/static/logos/Korona Kielce.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/LKS Lodz.png" height="25px"> LKS Lodz</p> |
 </div>
 
 
@@ -238,7 +238,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">46'</p> | <p align="right">Santa Clara <img src="/static/logos/Santa Clara.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Feirense.png" height="25px"> Feirense</p> |
+| <p align="center">56'</p> | <p align="right">Santa Clara <img src="/static/logos/Santa Clara.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Feirense.png" height="25px"> Feirense</p> |
 </div>
 
 
@@ -261,7 +261,7 @@
 | <p align="center">FT</p> | <p align="right">Mtibwa Sugar <img src="/static/logos/Mtibwa Sugar.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Ihefu FC.png" height="25px"> Ihefu FC</p> |
 | <p align="center">FT</p> | <p align="right">Geita Gold FC <img src="/static/logos/Geita Gold FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Simba SC.png" height="25px"> Simba SC</p> |
 | <p align="center">FT</p> | <p align="right">Kagera Sugar <img src="/static/logos/Kagera Sugar.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Singida Big Stars.png" height="25px"> Singida Big Stars</p> |
-| <p align="center">17:15</p> | <p align="right">Kinondoni MC <img src="/static/logos/Kinondoni MC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coastal Union.png" height="25px"> Coastal Union</p> |
+| <p align="center">FT</p> | <p align="right">Kinondoni MC <img src="/static/logos/Kinondoni MC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coastal Union.png" height="25px"> Coastal Union</p> |
 </div>
 
 
