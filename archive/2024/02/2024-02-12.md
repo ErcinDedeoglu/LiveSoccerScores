@@ -78,8 +78,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">14:00</p> | <p align="right">Trabzonspor <img src="/static/logos/Trabzonspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hatayspor.png" height="25px"> Hatayspor</p> |
-| <p align="center">17:00</p> | <p align="right">Kayserispor <img src="/static/logos/Kayserispor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Besiktas.png" height="25px"> Besiktas</p> |
 | <p align="center">17:00</p> | <p align="right">Samsunspor <img src="/static/logos/Samsunspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Antalyaspor.png" height="25px"> Antalyaspor</p> |
+| <p align="center">17:00</p> | <p align="right">Kayserispor <img src="/static/logos/Kayserispor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Besiktas.png" height="25px"> Besiktas</p> |
 </div>
 
 
@@ -154,7 +154,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Al Naft <img src="/static/logos/Al Naft.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Najaf.png" height="25px"> Al Najaf</p> |
+| <p align="center">FT</p> | <p align="right">Al Naft <img src="/static/logos/Al Naft.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al Najaf.png" height="25px"> Al Najaf</p> |
 | <p align="center">13:30</p> | <p align="right">Erbil <img src="/static/logos/Erbil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newroz.png" height="25px"> Newroz</p> |
 </div>
 
@@ -166,8 +166,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">17:00</p> | <p align="right">Sektzia Nes Tziona <img src="/static/logos/Sektzia Nes Tziona.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"> Hapoel Nir Ramat HaSharon</p> |
-| <p align="center">17:00</p> | <p align="right">Hapoel Kfar Saba <img src="/static/logos/Hapoel Kfar Saba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ihud Bnei Shfaram.png" height="25px"> Ihud Bnei Shfaram</p> |
 | <p align="center">17:00</p> | <p align="right">Hapoel Ironi Kiryat Shmona <img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"> Hapoel Nof HaGalil</p> |
+| <p align="center">17:00</p> | <p align="right">Hapoel Kfar Saba <img src="/static/logos/Hapoel Kfar Saba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ihud Bnei Shfaram.png" height="25px"> Ihud Bnei Shfaram</p> |
 </div>
 
 
@@ -258,7 +258,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Mtibwa Sugar <img src="/static/logos/Mtibwa Sugar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ihefu FC.png" height="25px"> Ihefu FC</p> |
+| <p align="center">FT</p> | <p align="right">Mtibwa Sugar <img src="/static/logos/Mtibwa Sugar.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Ihefu FC.png" height="25px"> Ihefu FC</p> |
 | <p align="center">13:00</p> | <p align="right">Geita Gold FC <img src="/static/logos/Geita Gold FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Simba SC.png" height="25px"> Simba SC</p> |
 | <p align="center">15:15</p> | <p align="right">Kagera Sugar <img src="/static/logos/Kagera Sugar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singida Big Stars.png" height="25px"> Singida Big Stars</p> |
 | <p align="center">17:15</p> | <p align="right">Kinondoni MC <img src="/static/logos/Kinondoni MC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coastal Union.png" height="25px"> Coastal Union</p> |
