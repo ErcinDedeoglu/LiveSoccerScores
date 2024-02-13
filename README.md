@@ -49,10 +49,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:45</p> | <p align="right">Leicester City <img src="/static/logos/Leicester City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sheffield Wednesday.png" height="25px"> Sheffield Wednesday</p> |
-| <p align="center">19:45</p> | <p align="right">Norwich City <img src="/static/logos/Norwich City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Watford.png" height="25px"> Watford</p> |
-| <p align="center">19:45</p> | <p align="right">Swansea City <img src="/static/logos/Swansea City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leeds United.png" height="25px"> Leeds United</p> |
 | <p align="center">19:45</p> | <p align="right">Rotherham United <img src="/static/logos/Rotherham United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hull City.png" height="25px"> Hull City</p> |
 | <p align="center">19:45</p> | <p align="right">Birmingham City <img src="/static/logos/Birmingham City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackburn Rovers.png" height="25px"> Blackburn Rovers</p> |
+| <p align="center">19:45</p> | <p align="right">Norwich City <img src="/static/logos/Norwich City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Watford.png" height="25px"> Watford</p> |
+| <p align="center">19:45</p> | <p align="right">Swansea City <img src="/static/logos/Swansea City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leeds United.png" height="25px"> Leeds United</p> |
 | <p align="center">20:00</p> | <p align="right">Bristol City <img src="/static/logos/Bristol City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Southampton.png" height="25px"> Southampton</p> |
 | <p align="center">20:00</p> | <p align="right">West Bromwich Albion <img src="/static/logos/West Bromwich Albion.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cardiff City.png" height="25px"> Cardiff City</p> |
 </div>
@@ -64,7 +64,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Deportivo Pasto <img src="/static/logos/Deportivo Pasto.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
+| <p align="center">FT</p> | <p align="right">Deportivo Pasto <img src="/static/logos/Deportivo Pasto.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
 | <p align="center">23:10</p> | <p align="right">Rionegro Aguilas <img src="/static/logos/Rionegro Aguilas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/La Equidad.png" height="25px"> La Equidad</p> |
 </div>
 
@@ -76,6 +76,16 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">10:00</p> | <p align="right">Shandong Taishan <img src="/static/logos/Shandong Taishan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki Frontale</p> |
+</div>
+
+
+## <img src="/static/logos/Argentina-Primera C.png" height="25px"> Argentina - Primera C
+
+<div align="center">
+
+&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
+| ------------ | ------------ | ------------ | ------------ |
+| <p align="center">20:00</p> | <p align="right">Centro Espanol <img src="/static/logos/Centro Espanol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puerto Nuevo.png" height="25px"> Puerto Nuevo</p> |
 </div>
 
 
@@ -145,8 +155,8 @@
 | <p align="center">19:45</p> | <p align="right">Leyton Orient <img src="/static/logos/Leyton Orient.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northampton Town.png" height="25px"> Northampton Town</p> |
 | <p align="center">19:45</p> | <p align="right">Peterborough United <img src="/static/logos/Peterborough United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Port Vale.png" height="25px"> Port Vale</p> |
 | <p align="center">19:45</p> | <p align="right">Oxford United <img src="/static/logos/Oxford United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wigan Athletic.png" height="25px"> Wigan Athletic</p> |
-| <p align="center">19:45</p> | <p align="right">Burton Albion <img src="/static/logos/Burton Albion.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Carlisle United.png" height="25px"> Carlisle United</p> |
 | <p align="center">19:45</p> | <p align="right">Bolton Wanderers <img src="/static/logos/Bolton Wanderers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wycombe Wanderers.png" height="25px"> Wycombe Wanderers</p> |
+| <p align="center">19:45</p> | <p align="right">Burton Albion <img src="/static/logos/Burton Albion.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Carlisle United.png" height="25px"> Carlisle United</p> |
 | <p align="center">19:45</p> | <p align="right">Cheltenham Town <img src="/static/logos/Cheltenham Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackpool.png" height="25px"> Blackpool</p> |
 | <p align="center">19:45</p> | <p align="right">Shrewsbury Town <img src="/static/logos/Shrewsbury Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Barnsley.png" height="25px"> Barnsley</p> |
 | <p align="center">19:45</p> | <p align="right">Portsmouth <img src="/static/logos/Portsmouth.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cambridge United.png" height="25px"> Cambridge United</p> |
@@ -166,15 +176,15 @@
 | <p align="center">19:45</p> | <p align="right">Tranmere Rovers <img src="/static/logos/Tranmere Rovers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Morecambe.png" height="25px"> Morecambe</p> |
 | <p align="center">19:45</p> | <p align="right">Barrow <img src="/static/logos/Barrow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Forest Green Rovers.png" height="25px"> Forest Green Rovers</p> |
 | <p align="center">19:45</p> | <p align="right">Sutton United <img src="/static/logos/Sutton United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wrexham.png" height="25px"> Wrexham</p> |
+| <p align="center">19:45</p> | <p align="right">Salford City <img src="/static/logos/Salford City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Doncaster Rovers.png" height="25px"> Doncaster Rovers</p> |
+| <p align="center">19:45</p> | <p align="right">Gillingham <img src="/static/logos/Gillingham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Swindon Town.png" height="25px"> Swindon Town</p> |
 | <p align="center">19:45</p> | <p align="right">Newport County <img src="/static/logos/Newport County.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Notts County.png" height="25px"> Notts County</p> |
-| <p align="center">19:45</p> | <p align="right">Accrington Stanley <img src="/static/logos/Accrington Stanley.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFC Wimbledon.png" height="25px"> AFC Wimbledon</p> |
-| <p align="center">19:45</p> | <p align="right">Bradford City <img src="/static/logos/Bradford City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Milton Keynes Dons.png" height="25px"> Milton Keynes Dons</p> |
 | <p align="center">19:45</p> | <p align="right">Mansfield Town <img src="/static/logos/Mansfield Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Harrogate Town.png" height="25px"> Harrogate Town</p> |
 | <p align="center">19:45</p> | <p align="right">Crawley Town <img src="/static/logos/Crawley Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Walsall.png" height="25px"> Walsall</p> |
 | <p align="center">19:45</p> | <p align="right">Colchester United <img src="/static/logos/Colchester United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grimsby Town.png" height="25px"> Grimsby Town</p> |
+| <p align="center">19:45</p> | <p align="right">Accrington Stanley <img src="/static/logos/Accrington Stanley.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFC Wimbledon.png" height="25px"> AFC Wimbledon</p> |
+| <p align="center">19:45</p> | <p align="right">Bradford City <img src="/static/logos/Bradford City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Milton Keynes Dons.png" height="25px"> Milton Keynes Dons</p> |
 | <p align="center">19:45</p> | <p align="right">Stockport County <img src="/static/logos/Stockport County.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crewe Alexandra.png" height="25px"> Crewe Alexandra</p> |
-| <p align="center">19:45</p> | <p align="right">Salford City <img src="/static/logos/Salford City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Doncaster Rovers.png" height="25px"> Doncaster Rovers</p> |
-| <p align="center">19:45</p> | <p align="right">Gillingham <img src="/static/logos/Gillingham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Swindon Town.png" height="25px"> Swindon Town</p> |
 </div>
 
 
@@ -185,11 +195,11 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:45</p> | <p align="right">Aldershot Town <img src="/static/logos/Aldershot Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AFC Fylde.png" height="25px"> AFC Fylde</p> |
-| <p align="center">POS</p> | <p align="right">Altrincham <img src="/static/logos/Altrincham.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Wealdstone.png" height="25px"> Wealdstone</p> |
+| <p align="center">19:45</p> | <p align="right">York City <img src="/static/logos/York City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorking Wanderers.png" height="25px"> Dorking Wanderers</p> |
 | <p align="center">19:45</p> | <p align="right">FC Halifax Town <img src="/static/logos/FC Halifax Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maidenhead United.png" height="25px"> Maidenhead United</p> |
 | <p align="center">19:45</p> | <p align="right">Oldham Athletic <img src="/static/logos/Oldham Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Boreham Wood.png" height="25px"> Boreham Wood</p> |
+| <p align="center">POS</p> | <p align="right">Altrincham <img src="/static/logos/Altrincham.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Wealdstone.png" height="25px"> Wealdstone</p> |
 | <p align="center">19:45</p> | <p align="right">Solihull Moors <img src="/static/logos/Solihull Moors.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kidderminster Harriers.png" height="25px"> Kidderminster Harriers</p> |
-| <p align="center">19:45</p> | <p align="right">York City <img src="/static/logos/York City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorking Wanderers.png" height="25px"> Dorking Wanderers</p> |
 </div>
 
 
@@ -200,10 +210,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:45</p> | <p align="right">Alfreton Town <img src="/static/logos/Alfreton Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/South Shields.png" height="25px"> South Shields</p> |
-| <p align="center">19:45</p> | <p align="right">Dartford <img src="/static/logos/Dartford.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chippenham Town.png" height="25px"> Chippenham Town</p> |
 | <p align="center">19:45</p> | <p align="right">Taunton Town <img src="/static/logos/Taunton Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Torquay United.png" height="25px"> Torquay United</p> |
 | <p align="center">POS</p> | <p align="right">Truro City <img src="/static/logos/Truro City.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Dover.png" height="25px"> Dover</p> |
 | <p align="center">POS</p> | <p align="right">Southport <img src="/static/logos/Southport.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Bishop's Stortford.png" height="25px"> Bishop's Stortford</p> |
+| <p align="center">19:45</p> | <p align="right">Dartford <img src="/static/logos/Dartford.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chippenham Town.png" height="25px"> Chippenham Town</p> |
 </div>
 
 
@@ -218,12 +228,12 @@
 | <p align="center">19:45</p> | <p align="right">Radcliffe <img src="/static/logos/Radcliffe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atherton Collieries.png" height="25px"> Atherton Collieries</p> |
 | <p align="center">19:45</p> | <p align="right">Whitby <img src="/static/logos/Whitby.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guiseley.png" height="25px"> Guiseley</p> |
 | <p align="center">19:45</p> | <p align="right">Needham Market <img src="/static/logos/Needham Market.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leiston.png" height="25px"> Leiston</p> |
+| <p align="center">19:45</p> | <p align="right">Horsham <img src="/static/logos/Horsham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Haringey Borough.png" height="25px"> Haringey Borough</p> |
+| <p align="center">19:45</p> | <p align="right">Potters Bar Town <img src="/static/logos/Potters Bar Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dulwich Hamlet.png" height="25px"> Dulwich Hamlet</p> |
 | <p align="center">19:45</p> | <p align="right">Bognor Regis Town <img src="/static/logos/Bognor Regis Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wingate & Finchley.png" height="25px"> Wingate & Finchley</p> |
 | <p align="center">19:45</p> | <p align="right">Cheshunt <img src="/static/logos/Cheshunt.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Margate.png" height="25px"> Margate</p> |
-| <p align="center">19:45</p> | <p align="right">Potters Bar Town <img src="/static/logos/Potters Bar Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dulwich Hamlet.png" height="25px"> Dulwich Hamlet</p> |
 | <p align="center">POS</p> | <p align="right">Hendon <img src="/static/logos/Hendon.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Poole Town FC.png" height="25px"> Poole Town FC</p> |
 | <p align="center">19:45</p> | <p align="right">Hayes & Yeading United <img src="/static/logos/Hayes & Yeading United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Didcot Town.png" height="25px"> Didcot Town</p> |
-| <p align="center">19:45</p> | <p align="right">Horsham <img src="/static/logos/Horsham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Haringey Borough.png" height="25px"> Haringey Borough</p> |
 </div>
 
 
@@ -304,13 +314,13 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">17:30</p> | <p align="right">Recanatese <img src="/static/logos/Recanatese.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rimini.png" height="25px"> Rimini</p> |
-| <p align="center">17:30</p> | <p align="right">AlbinoLeffe <img src="/static/logos/AlbinoLeffe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atalanta U23.png" height="25px"> Atalanta U23</p> |
 | <p align="center">17:30</p> | <p align="right">Lumezzane <img src="/static/logos/Lumezzane.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Trento.png" height="25px"> Trento</p> |
 | <p align="center">17:30</p> | <p align="right">Pro Patria <img src="/static/logos/Pro Patria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Calcio Padova.png" height="25px"> Calcio Padova</p> |
+| <p align="center">17:30</p> | <p align="right">AlbinoLeffe <img src="/static/logos/AlbinoLeffe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atalanta U23.png" height="25px"> Atalanta U23</p> |
 | <p align="center">19:30</p> | <p align="right">LR Vicenza <img src="/static/logos/LR Vicenza.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pro Vercelli.png" height="25px"> Pro Vercelli</p> |
 | <p align="center">19:45</p> | <p align="right">Cesena <img src="/static/logos/Cesena.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/S.S. Arezzo.png" height="25px"> S.S. Arezzo</p> |
-| <p align="center">19:45</p> | <p align="right">Alessandria <img src="/static/logos/Alessandria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mantova.png" height="25px"> Mantova</p> |
 | <p align="center">19:45</p> | <p align="right">Pescara <img src="/static/logos/Pescara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SPAL 2013.png" height="25px"> SPAL 2013</p> |
+| <p align="center">19:45</p> | <p align="right">Alessandria <img src="/static/logos/Alessandria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mantova.png" height="25px"> Mantova</p> |
 </div>
 
 
@@ -383,8 +393,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:45</p> | <p align="right">Alloa Athletic <img src="/static/logos/Alloa Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Annan Athletic.png" height="25px"> Annan Athletic</p> |
 | <p align="center">19:45</p> | <p align="right">Kelty Hearts <img src="/static/logos/Kelty Hearts.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Edinburgh City.png" height="25px"> Edinburgh City</p> |
+| <p align="center">19:45</p> | <p align="right">Alloa Athletic <img src="/static/logos/Alloa Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Annan Athletic.png" height="25px"> Annan Athletic</p> |
 </div>
 
 
@@ -416,9 +426,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Orlando Pirates <img src="/static/logos/Orlando Pirates.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Chippa United.png" height="25px"> Chippa United</p> |
 | <p align="center">POS</p> | <p align="right">SuperSport United <img src="/static/logos/SuperSport United.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Sekhukhune United.png" height="25px"> Sekhukhune United</p> |
+| <p align="center">POS</p> | <p align="right">Cape Town City FC <img src="/static/logos/Cape Town City FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Swallows FC.png" height="25px"> Swallows FC</p> |
 | <p align="center">POS</p> | <p align="right">Kaizer Chiefs <img src="/static/logos/Kaizer Chiefs.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/TS Galaxy.png" height="25px"> TS Galaxy</p> |
 | <p align="center">POS</p> | <p align="right">Stellenbosch FC <img src="/static/logos/Stellenbosch FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/AmaZulu FC.png" height="25px"> AmaZulu FC</p> |
-| <p align="center">POS</p> | <p align="right">Cape Town City FC <img src="/static/logos/Cape Town City FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Swallows FC.png" height="25px"> Swallows FC</p> |
 </div>
 
 
@@ -439,8 +449,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:25</p> | <p align="right">Al Ittihad Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Khorfakkan.png" height="25px"> Khorfakkan</p> |
 | <p align="center">13:25</p> | <p align="right">Al-Wahda <img src="/static/logos/Al-Wahda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sharjah Cultural Club.png" height="25px"> Sharjah Cultural Club</p> |
+| <p align="center">13:25</p> | <p align="right">Al Ittihad Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Khorfakkan.png" height="25px"> Khorfakkan</p> |
 | <p align="center">16:00</p> | <p align="right">Al-Wasl <img src="/static/logos/Al-Wasl.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Nasr SC.png" height="25px"> Al-Nasr SC</p> |
 </div>
 
