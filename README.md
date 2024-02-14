@@ -63,10 +63,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">19:45</p> | <p align="right">Plymouth Argyle <img src="/static/logos/Plymouth Argyle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coventry City.png" height="25px"> Coventry City</p> |
 | <p align="center">19:45</p> | <p align="right">Preston North End <img src="/static/logos/Preston North End.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Middlesbrough.png" height="25px"> Middlesbrough</p> |
 | <p align="center">19:45</p> | <p align="right">Huddersfield Town <img src="/static/logos/Huddersfield Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sunderland.png" height="25px"> Sunderland</p> |
 | <p align="center">19:45</p> | <p align="right">Stoke City <img src="/static/logos/Stoke City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Queens Park Rangers.png" height="25px"> Queens Park Rangers</p> |
-| <p align="center">19:45</p> | <p align="right">Plymouth Argyle <img src="/static/logos/Plymouth Argyle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coventry City.png" height="25px"> Coventry City</p> |
 | <p align="center">20:00</p> | <p align="right">Millwall <img src="/static/logos/Millwall.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ipswich Town.png" height="25px"> Ipswich Town</p> |
 </div>
 
@@ -88,7 +88,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Jeonbuk Hyundai Motors FC <img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
+| <p align="center">45' 7'</p> | <p align="right">Jeonbuk Hyundai Motors FC <img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
 | <p align="center">12:00</p> | <p align="right">Bangkok United <img src="/static/logos/Bangkok United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yokohama F.Marinos.png" height="25px"> Yokohama F.Marinos</p> |
 | <p align="center">14:00</p> | <p align="right">Nasaf Qarshi <img src="/static/logos/Nasaf Qarshi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Ain.png" height="25px"> Al-Ain</p> |
 | <p align="center">18:00</p> | <p align="right">Al-Fayha <img src="/static/logos/Al-Fayha.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Al Nassr FC</p> |
@@ -144,9 +144,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">17:00</p> | <p align="right">Anorthosis <img src="/static/logos/Anorthosis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Apollon Limassol.png" height="25px"> Apollon Limassol</p> |
 | <p align="center">17:00</p> | <p align="right">AEL Limassol <img src="/static/logos/AEL Limassol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AEK Larnaca.png" height="25px"> AEK Larnaca</p> |
 | <p align="center">17:00</p> | <p align="right">Ethnikos Achnas <img src="/static/logos/Ethnikos Achnas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Omonia Nicosia.png" height="25px"> Omonia Nicosia</p> |
-| <p align="center">17:00</p> | <p align="right">Anorthosis <img src="/static/logos/Anorthosis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Apollon Limassol.png" height="25px"> Apollon Limassol</p> |
 </div>
 
 
@@ -156,8 +156,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
 | <p align="center">14:00</p> | <p align="right">Al Mokawloon Al Arab <img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ENPPI.png" height="25px"> ENPPI</p> |
+| <p align="center">14:00</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
 | <p align="center">17:00</p> | <p align="right">ZED FC <img src="/static/logos/ZED FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids FC</p> |
 </div>
 
@@ -210,7 +210,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Namdhari FC <img src="/static/logos/Namdhari FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Neroca FC.png" height="25px"> Neroca FC</p> |
+| <p align="center">09:00</p> | <p align="right">Namdhari FC <img src="/static/logos/Namdhari FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Neroca FC.png" height="25px"> Neroca FC</p> |
 </div>
 
 
@@ -304,11 +304,11 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">20:00</p> | <p align="right">Lossiemouth <img src="/static/logos/Lossiemouth.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inverurie Loco Works.png" height="25px"> Inverurie Loco Works</p> |
-| <p align="center">20:00</p> | <p align="right">Brora Rangers <img src="/static/logos/Brora Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Buckie Thistle.png" height="25px"> Buckie Thistle</p> |
 | <p align="center">20:00</p> | <p align="right">Strathspey Thistle <img src="/static/logos/Strathspey Thistle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wick Academy.png" height="25px"> Wick Academy</p> |
-| <p align="center">20:00</p> | <p align="right">Banks O'Dee <img src="/static/logos/Banks O'Dee.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rothes.png" height="25px"> Rothes</p> |
-| <p align="center">20:00</p> | <p align="right">Nairn County <img src="/static/logos/Nairn County.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Huntly.png" height="25px"> Huntly</p> |
 | <p align="center">20:00</p> | <p align="right">Keith <img src="/static/logos/Keith.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turriff United.png" height="25px"> Turriff United</p> |
+| <p align="center">20:00</p> | <p align="right">Banks O'Dee <img src="/static/logos/Banks O'Dee.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rothes.png" height="25px"> Rothes</p> |
+| <p align="center">20:00</p> | <p align="right">Brora Rangers <img src="/static/logos/Brora Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Buckie Thistle.png" height="25px"> Buckie Thistle</p> |
+| <p align="center">20:00</p> | <p align="right">Nairn County <img src="/static/logos/Nairn County.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Huntly.png" height="25px"> Huntly</p> |
 </div>
 
 
