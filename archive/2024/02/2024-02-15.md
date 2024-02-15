@@ -50,7 +50,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Universidad Nacional.png" height="25px"> Club Universidad Nacional</p> |
+| <p align="center">73'</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Universidad Nacional.png" height="25px"> Club Universidad Nacional</p> |
 </div>
 
 
@@ -206,8 +206,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:30</p> | <p align="right">AZ Picerno <img src="/static/logos/AZ Picerno.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crotone.png" height="25px"> Crotone</p> |
 | <p align="center">17:30</p> | <p align="right">Casertana <img src="/static/logos/Casertana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monterosi.png" height="25px"> Monterosi</p> |
+| <p align="center">17:30</p> | <p align="right">AZ Picerno <img src="/static/logos/AZ Picerno.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crotone.png" height="25px"> Crotone</p> |
 | <p align="center">19:45</p> | <p align="right">Foggia <img src="/static/logos/Foggia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monopoli.png" height="25px"> Monopoli</p> |
 </div>
 
@@ -253,8 +253,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Tanzania Prisons <img src="/static/logos/Tanzania Prisons.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singida Big Stars.png" height="25px"> Singida Big Stars</p> |
 | <p align="center">13:00</p> | <p align="right">JKT Tanzania <img src="/static/logos/JKT Tanzania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Simba SC.png" height="25px"> Simba SC</p> |
+| <p align="center">13:00</p> | <p align="right">Tanzania Prisons <img src="/static/logos/Tanzania Prisons.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singida Big Stars.png" height="25px"> Singida Big Stars</p> |
 | <p align="center">17:15</p> | <p align="right">Coastal Union <img src="/static/logos/Coastal Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dodoma Jiji FC.png" height="25px"> Dodoma Jiji FC</p> |
 </div>
 
