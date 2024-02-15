@@ -20,8 +20,8 @@
 | <p align="center">17:45</p> | <p align="right">Feyenoord <img src="/static/logos/Feyenoord.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Roma.png" height="25px"> Roma</p> |
 | <p align="center">17:45</p> | <p align="right">Galatasaray <img src="/static/logos/Galatasaray.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sparta Prague.png" height="25px"> Sparta Prague</p> |
 | <p align="center">17:45</p> | <p align="right">Shakhtar Donetsk <img src="/static/logos/Shakhtar Donetsk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Marseille.png" height="25px"> Marseille</p> |
-| <p align="center">20:00</p> | <p align="right">AC Milan <img src="/static/logos/AC Milan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rennes.png" height="25px"> Rennes</p> |
 | <p align="center">20:00</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qarabag FK.png" height="25px"> Qarabag FK</p> |
+| <p align="center">20:00</p> | <p align="right">AC Milan <img src="/static/logos/AC Milan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rennes.png" height="25px"> Rennes</p> |
 | <p align="center">20:00</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Toulouse.png" height="25px"> Toulouse</p> |
 | <p align="center">20:00</p> | <p align="right">Lens <img src="/static/logos/Lens.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Freiburg.png" height="25px"> Freiburg</p> |
 </div>
@@ -183,9 +183,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">11:00</p> | <p align="right">Naft Al-Basra <img src="/static/logos/Naft Al-Basra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Duhok.png" height="25px"> Duhok</p> |
 | <p align="center">11:00</p> | <p align="right">Newroz <img src="/static/logos/Newroz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Talaba.png" height="25px"> Al Talaba</p> |
 | <p align="center">11:00</p> | <p align="right">Naft Maysan <img src="/static/logos/Naft Maysan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Quwa Al Jawiya.png" height="25px"> Al Quwa Al Jawiya</p> |
-| <p align="center">13:30</p> | <p align="right">Naft Al-Basra <img src="/static/logos/Naft Al-Basra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Duhok.png" height="25px"> Duhok</p> |
 | <p align="center">16:00</p> | <p align="right">Karbalaa <img src="/static/logos/Karbalaa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Zawraa.png" height="25px"> Al Zawraa</p> |
 </div>
 
@@ -253,8 +253,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Tanzania Prisons <img src="/static/logos/Tanzania Prisons.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singida Big Stars.png" height="25px"> Singida Big Stars</p> |
 | <p align="center">13:00</p> | <p align="right">JKT Tanzania <img src="/static/logos/JKT Tanzania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Simba SC.png" height="25px"> Simba SC</p> |
+| <p align="center">13:00</p> | <p align="right">Tanzania Prisons <img src="/static/logos/Tanzania Prisons.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singida Big Stars.png" height="25px"> Singida Big Stars</p> |
 | <p align="center">17:15</p> | <p align="right">Coastal Union <img src="/static/logos/Coastal Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dodoma Jiji FC.png" height="25px"> Dodoma Jiji FC</p> |
 </div>
 
