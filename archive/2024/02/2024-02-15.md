@@ -93,7 +93,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet Kofu</p> |
+| <p align="center">75'</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet Kofu</p> |
 | <p align="center">14:00</p> | <p align="right">Navbahor Namangan <img src="/static/logos/Navbahor Namangan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ittihad.png" height="25px"> Al Ittihad</p> |
 | <p align="center">16:00</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
 </div>
@@ -169,10 +169,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:30</p> | <p align="right">Shams Azar Qazvin <img src="/static/logos/Shams Azar Qazvin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Esteghlal Khuzestan.png" height="25px"> Esteghlal Khuzestan</p> |
+| <p align="center">15'</p> | <p align="right">Shams Azar Qazvin <img src="/static/logos/Shams Azar Qazvin.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Esteghlal Khuzestan.png" height="25px"> Esteghlal Khuzestan</p> |
 | <p align="center">11:30</p> | <p align="right">Zob Ahan <img src="/static/logos/Zob Ahan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malavan.png" height="25px"> Malavan</p> |
 | <p align="center">11:30</p> | <p align="right">Paykan <img src="/static/logos/Paykan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
-| <p align="center">11:30</p> | <p align="right">Mes Rafsanjan <img src="/static/logos/Mes Rafsanjan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar SC</p> |
+| <p align="center">2'</p> | <p align="right">Mes Rafsanjan <img src="/static/logos/Mes Rafsanjan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar SC</p> |
 | <p align="center">13:45</p> | <p align="right">Aluminium Arak <img src="/static/logos/Aluminium Arak.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persepolis.png" height="25px"> Persepolis</p> |
 </div>
 
@@ -183,9 +183,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">11:00</p> | <p align="right">Newroz <img src="/static/logos/Newroz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Talaba.png" height="25px"> Al Talaba</p> |
 | <p align="center">11:00</p> | <p align="right">Naft Al-Basra <img src="/static/logos/Naft Al-Basra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Duhok.png" height="25px"> Duhok</p> |
 | <p align="center">11:00</p> | <p align="right">Naft Maysan <img src="/static/logos/Naft Maysan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Quwa Al Jawiya.png" height="25px"> Al Quwa Al Jawiya</p> |
-| <p align="center">11:00</p> | <p align="right">Newroz <img src="/static/logos/Newroz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Talaba.png" height="25px"> Al Talaba</p> |
 | <p align="center">16:00</p> | <p align="right">Karbalaa <img src="/static/logos/Karbalaa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Zawraa.png" height="25px"> Al Zawraa</p> |
 </div>
 
@@ -253,8 +253,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">JKT Tanzania <img src="/static/logos/JKT Tanzania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Simba SC.png" height="25px"> Simba SC</p> |
 | <p align="center">13:00</p> | <p align="right">Tanzania Prisons <img src="/static/logos/Tanzania Prisons.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singida Big Stars.png" height="25px"> Singida Big Stars</p> |
+| <p align="center">13:00</p> | <p align="right">JKT Tanzania <img src="/static/logos/JKT Tanzania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Simba SC.png" height="25px"> Simba SC</p> |
 | <p align="center">17:15</p> | <p align="right">Coastal Union <img src="/static/logos/Coastal Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dodoma Jiji FC.png" height="25px"> Dodoma Jiji FC</p> |
 </div>
 
@@ -265,7 +265,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">Chiangrai United <img src="/static/logos/Chiangrai United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Trat FC.png" height="25px"> Trat FC</p> |
+| <p align="center">36'</p> | <p align="right">Chiangrai United <img src="/static/logos/Chiangrai United.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Trat FC.png" height="25px"> Trat FC</p> |
 | <p align="center">12:00</p> | <p align="right">BG Pathum United <img src="/static/logos/BG Pathum United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Uthai Thani FC.png" height="25px"> Uthai Thani FC</p> |
 </div>
 
