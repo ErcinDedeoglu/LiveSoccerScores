@@ -203,7 +203,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sydney FC <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide United</p> |
-| <p align="center">HT</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Melbourne Victory.png" height="25px"> Melbourne Victory</p> |
+| <p align="center">49'</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Melbourne Victory.png" height="25px"> Melbourne Victory</p> |
 | <p align="center">10:45</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Brisbane Roar FC</p> |
 </div>
 
@@ -1235,7 +1235,7 @@
 | <p align="center">14:00</p> | <p align="right">Cwmbran Celtic <img src="/static/logos/Cwmbran Celtic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Afan Lido.png" height="25px"> Afan Lido</p> |
 | <p align="center">14:00</p> | <p align="right">Pontardawe Town <img src="/static/logos/Pontardawe Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Goytre United.png" height="25px"> Goytre United</p> |
 | <p align="center">14:00</p> | <p align="right">Caersws <img src="/static/logos/Caersws.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Porthmadog.png" height="25px"> Porthmadog</p> |
-| <p align="center">14:00</p> | <p align="right">Abertillery Bluebirds <img src="/static/logos/Abertillery Bluebirds.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Caerau Ely.png" height="25px"> Caerau Ely</p> |
+| <p align="center">POS</p> | <p align="right">Abertillery Bluebirds <img src="/static/logos/Abertillery Bluebirds.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Caerau Ely.png" height="25px"> Caerau Ely</p> |
 | <p align="center">14:00</p> | <p align="right">Chirk AAA FC <img src="/static/logos/Chirk AAA FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Prestatyn Town FC.png" height="25px"> Prestatyn Town FC</p> |
 | <p align="center">14:00</p> | <p align="right">Baglan Dragons <img src="/static/logos/Baglan Dragons.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ammanford.png" height="25px"> Ammanford</p> |
 | <p align="center">14:30</p> | <p align="right">Cambrian & Clydach <img src="/static/logos/Cambrian & Clydach.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Abergavenny Town FC.png" height="25px"> Abergavenny Town FC</p> |
