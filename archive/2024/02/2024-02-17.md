@@ -202,7 +202,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Sydney FC <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide United</p> |
+| <p align="center">HT</p> | <p align="right">Sydney FC <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide United</p> |
 | <p align="center">08:45</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne Victory.png" height="25px"> Melbourne Victory</p> |
 | <p align="center">10:45</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Brisbane Roar FC</p> |
 </div>
@@ -274,7 +274,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">06:00</p> | <p align="right">Canberra United FC <img src="/static/logos/Canberra United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
-| <p align="center">85'</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Brisbane Roar FC</p> |
+| <p align="center">FT</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Brisbane Roar FC</p> |
 </div>
 
 
@@ -1032,7 +1032,7 @@
 | <p align="center">15:00</p> | <p align="right">Turriff United <img src="/static/logos/Turriff United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brora Rangers.png" height="25px"> Brora Rangers</p> |
 | <p align="center">15:00</p> | <p align="right">Rothes <img src="/static/logos/Rothes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Keith.png" height="25px"> Keith</p> |
 | <p align="center">15:00</p> | <p align="right">Broomhill FC <img src="/static/logos/Broomhill FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cowdenbeath.png" height="25px"> Cowdenbeath</p> |
-| <p align="center">15:00</p> | <p align="right">Forres Mechanics <img src="/static/logos/Forres Mechanics.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Formartine United.png" height="25px"> Formartine United</p> |
+| <p align="center">POS</p> | <p align="right">Forres Mechanics <img src="/static/logos/Forres Mechanics.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Formartine United.png" height="25px"> Formartine United</p> |
 | <p align="center">15:00</p> | <p align="right">Nairn County <img src="/static/logos/Nairn County.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deveronvale.png" height="25px"> Deveronvale</p> |
 | <p align="center">15:00</p> | <p align="right">Brechin City <img src="/static/logos/Brechin City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Buckie Thistle.png" height="25px"> Buckie Thistle</p> |
 </div>
