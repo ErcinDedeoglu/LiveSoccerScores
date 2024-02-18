@@ -164,7 +164,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10'</p> | <p align="right">Alanyaspor <img src="/static/logos/Alanyaspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Adana Demirspor.png" height="25px"> Adana Demirspor</p> |
+| <p align="center">26'</p> | <p align="right">Alanyaspor <img src="/static/logos/Alanyaspor.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Adana Demirspor.png" height="25px"> Adana Demirspor</p> |
 | <p align="center">13:00</p> | <p align="right">Pendikspor <img src="/static/logos/Pendikspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Trabzonspor.png" height="25px"> Trabzonspor</p> |
 | <p align="center">13:00</p> | <p align="right">Gaziantep FK <img src="/static/logos/Gaziantep FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Samsunspor.png" height="25px"> Samsunspor</p> |
 | <p align="center">16:00</p> | <p align="right">Ankaragucu <img src="/static/logos/Ankaragucu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Galatasaray.png" height="25px"> Galatasaray</p> |
@@ -803,7 +803,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Trat FC <img src="/static/logos/Trat FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Buriram United.png" height="25px"> Buriram United</p> |
+| <p align="center">29'</p> | <p align="right">Trat FC <img src="/static/logos/Trat FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Buriram United.png" height="25px"> Buriram United</p> |
 | <p align="center">11:00</p> | <p align="right">Muang Thong United <img src="/static/logos/Muang Thong United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/BG Pathum United.png" height="25px"> BG Pathum United</p> |
 | <p align="center">12:00</p> | <p align="right">Uthai Thani FC <img src="/static/logos/Uthai Thani FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nakhon Pathom.png" height="25px"> Nakhon Pathom</p> |
 </div>
@@ -839,8 +839,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Erzurumspor FK <img src="/static/logos/Erzurumspor FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Adanaspor.png" height="25px"> Adanaspor</p> |
-| <p align="center">13'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Altay.png" height="25px"> Altay</p> |
+| <p align="center">29'</p> | <p align="right">Erzurumspor FK <img src="/static/logos/Erzurumspor FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Adanaspor.png" height="25px"> Adanaspor</p> |
+| <p align="center">29'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Altay.png" height="25px"> Altay</p> |
 | <p align="center">13:00</p> | <p align="right">Sakaryaspor <img src="/static/logos/Sakaryaspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Corum FK.png" height="25px"> Corum FK</p> |
 | <p align="center">16:00</p> | <p align="right">Umraniyespor <img src="/static/logos/Umraniyespor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Eyupspor.png" height="25px"> Eyupspor</p> |
 </div>
@@ -893,7 +893,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Hong Linh Ha Tinh <img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"> Hoang Anh Gia Lai</p> |
+| <p align="center">HT</p> | <p align="right">Hong Linh Ha Tinh <img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"> Hoang Anh Gia Lai</p> |
 | <p align="center">11:00</p> | <p align="right">Song Lam Nghe An <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Binh Dinh.png" height="25px"> Binh Dinh</p> |
 | <p align="center">11:00</p> | <p align="right">Thanh Hoa FC <img src="/static/logos/Thanh Hoa FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ha Noi FC.png" height="25px"> Ha Noi FC</p> |
 | <p align="center">12:15</p> | <p align="right">Cong An Ha Noi <img src="/static/logos/Cong An Ha Noi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh City FC</p> |
