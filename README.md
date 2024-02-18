@@ -82,7 +82,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
 | <p align="center">FT</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tigres.png" height="25px"> Tigres</p> |
-| <p align="center">22:00</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leon.png" height="25px"> Leon</p> |
+| <p align="center">8'</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Leon.png" height="25px"> Leon</p> |
 </div>
 
 
@@ -118,7 +118,7 @@
 | <p align="center">FT</p> | <p align="right">Casa Pia AC <img src="/static/logos/Casa Pia AC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Arouca.png" height="25px"> Arouca</p> |
 | <p align="center">FT</p> | <p align="right">Estoril <img src="/static/logos/Estoril.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Gil Vicente.png" height="25px"> Gil Vicente</p> |
 | <p align="center">FT</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">6 - 1</p> | <p align="left"><img src="/static/logos/Vizela.png" height="25px"> Vizela</p> |
-| <p align="center">72'</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Farense.png" height="25px"> Farense</p> |
+| <p align="center">82'</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Farense.png" height="25px"> Farense</p> |
 </div>
 
 
@@ -142,7 +142,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Deportivo Pereira <img src="/static/logos/Deportivo Pereira.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Santa Fe.png" height="25px"> Santa Fe</p> |
 | <p align="center">FT</p> | <p align="right">La Equidad <img src="/static/logos/La Equidad.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Patriotas.png" height="25px"> Patriotas</p> |
-| <p align="center">HT</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/America de Cali.png" height="25px"> America de Cali</p> |
+| <p align="center">51'</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/America de Cali.png" height="25px"> America de Cali</p> |
 | <p align="center">23:10</p> | <p align="right">CD Jaguares <img src="/static/logos/CD Jaguares.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Once Caldas.png" height="25px"> Once Caldas</p> |
 </div>
 
@@ -201,8 +201,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20:00</p> | <p align="right">Lugano <img src="/static/logos/Lugano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Centro Espanol.png" height="25px"> Centro Espanol</p> |
-| <p align="center">20:00</p> | <p align="right">Puerto Nuevo <img src="/static/logos/Puerto Nuevo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Espanol.png" height="25px"> Deportivo Espanol</p> |
+| <p align="center">FT</p> | <p align="right">Lugano <img src="/static/logos/Lugano.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Centro Espanol.png" height="25px"> Centro Espanol</p> |
+| <p align="center">FT</p> | <p align="right">Puerto Nuevo <img src="/static/logos/Puerto Nuevo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Espanol.png" height="25px"> Deportivo Espanol</p> |
 </div>
 
 
@@ -215,8 +215,8 @@
 | <p align="center">FT</p> | <p align="right">Gimnasia y Tiro <img src="/static/logos/Gimnasia y Tiro.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Atletico Rafaela.png" height="25px"> Atletico Rafaela</p> |
 | <p align="center">FT</p> | <p align="right">Guillermo Brown <img src="/static/logos/Guillermo Brown.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Atletico Guemes.png" height="25px"> Atletico Guemes</p> |
 | <p align="center">FT</p> | <p align="right">Arsenal Sarandi <img src="/static/logos/Arsenal Sarandi.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Maipu.png" height="25px"> Deportivo Maipu</p> |
-| <p align="center">22:00</p> | <p align="right">San Martin San Juan <img src="/static/logos/San Martin San Juan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gimnasia Jujuy.png" height="25px"> Gimnasia Jujuy</p> |
-| <p align="center">22:00</p> | <p align="right">Club Atletico Mitre <img src="/static/logos/Club Atletico Mitre.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Madryn.png" height="25px"> Deportivo Madryn</p> |
+| <p align="center">10'</p> | <p align="right">San Martin San Juan <img src="/static/logos/San Martin San Juan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimnasia Jujuy.png" height="25px"> Gimnasia Jujuy</p> |
+| <p align="center">9'</p> | <p align="right">Club Atletico Mitre <img src="/static/logos/Club Atletico Mitre.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Madryn.png" height="25px"> Deportivo Madryn</p> |
 | <p align="center">23:10</p> | <p align="right">Colon <img src="/static/logos/Colon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Almirante Brown.png" height="25px"> Almirante Brown</p> |
 </div>
 
@@ -295,7 +295,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
+| <p align="center">52'</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
 </div>
 
 
@@ -367,7 +367,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">CD Aguila <img src="/static/logos/CD Aguila.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jocoro FC.png" height="25px"> Jocoro FC</p> |
+| <p align="center">40'</p> | <p align="right">CD Aguila <img src="/static/logos/CD Aguila.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jocoro FC.png" height="25px"> Jocoro FC</p> |
 </div>
 
 
