@@ -167,7 +167,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Iraklis <img src="/static/logos/Iraklis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kampaniakos Chalastras.png" height="25px"> Kampaniakos Chalastras</p> |
+| <p align="center">4'</p> | <p align="right">Iraklis <img src="/static/logos/Iraklis.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kampaniakos Chalastras.png" height="25px"> Kampaniakos Chalastras</p> |
 </div>
 
 
@@ -187,7 +187,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Al Hedood <img src="/static/logos/Al Hedood.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Najaf.png" height="25px"> Al Najaf</p> |
+| <p align="center">FT</p> | <p align="right">Al Hedood <img src="/static/logos/Al Hedood.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Al Najaf.png" height="25px"> Al Najaf</p> |
 | <p align="center">13:30</p> | <p align="right">Karbalaa <img src="/static/logos/Karbalaa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Erbil.png" height="25px"> Erbil</p> |
 | <p align="center">16:00</p> | <p align="right">Al Talaba <img src="/static/logos/Al Talaba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Shorta.png" height="25px"> Al Shorta</p> |
 </div>
@@ -328,7 +328,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Geita Gold FC <img src="/static/logos/Geita Gold FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ihefu FC.png" height="25px"> Ihefu FC</p> |
+| <p align="center">FT</p> | <p align="right">Geita Gold FC <img src="/static/logos/Geita Gold FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ihefu FC.png" height="25px"> Ihefu FC</p> |
 | <p align="center">13:00</p> | <p align="right">Tabora United <img src="/static/logos/Tabora United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Azam FC.png" height="25px"> Azam FC</p> |
 </div>
 
@@ -339,7 +339,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">57'</p> | <p align="right">Khonkaen United FC <img src="/static/logos/Khonkaen United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chiangrai United.png" height="25px"> Chiangrai United</p> |
+| <p align="center">75'</p> | <p align="right">Khonkaen United FC <img src="/static/logos/Khonkaen United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chiangrai United.png" height="25px"> Chiangrai United</p> |
 </div>
 
 
@@ -349,7 +349,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">Genclerbirligi <img src="/static/logos/Genclerbirligi.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bandirmaspor.png" height="25px"> Bandirmaspor</p> |
+| <p align="center">FT</p> | <p align="right">Genclerbirligi <img src="/static/logos/Genclerbirligi.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bandirmaspor.png" height="25px"> Bandirmaspor</p> |
 </div>
 
 
