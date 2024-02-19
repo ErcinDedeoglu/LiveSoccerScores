@@ -91,8 +91,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Istanbul Basaksehir <img src="/static/logos/Istanbul Basaksehir.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Kayserispor.png" height="25px"> Kayserispor</p> |
-| <p align="center">HT</p> | <p align="right">Besiktas <img src="/static/logos/Besiktas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Konyaspor.png" height="25px"> Konyaspor</p> |
+| <p align="center">63'</p> | <p align="right">Istanbul Basaksehir <img src="/static/logos/Istanbul Basaksehir.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Kayserispor.png" height="25px"> Kayserispor</p> |
+| <p align="center">68'</p> | <p align="right">Besiktas <img src="/static/logos/Besiktas.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Konyaspor.png" height="25px"> Konyaspor</p> |
 </div>
 
 
@@ -114,7 +114,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Pafos FC <img src="/static/logos/Pafos FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nea Salamis.png" height="25px"> Nea Salamis</p> |
+| <p align="center">61'</p> | <p align="right">Pafos FC <img src="/static/logos/Pafos FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Nea Salamis.png" height="25px"> Nea Salamis</p> |
 </div>
 
 
@@ -126,7 +126,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Tala'ea El Gaish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
 | <p align="center">FT</p> | <p align="right">Future FC <img src="/static/logos/Future FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"> Al Mokawloon Al Arab</p> |
-| <p align="center">HT</p> | <p align="right">Ismaily SC <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Zamalek SC.png" height="25px"> Zamalek SC</p> |
+| <p align="center">63'</p> | <p align="right">Ismaily SC <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Zamalek SC.png" height="25px"> Zamalek SC</p> |
 </div>
 
 
@@ -146,7 +146,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Rouen <img src="/static/logos/Rouen.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Red Star.png" height="25px"> Red Star</p> |
+| <p align="center">HT</p> | <p align="right">Rouen <img src="/static/logos/Rouen.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Red Star.png" height="25px"> Red Star</p> |
 </div>
 
 
@@ -177,7 +177,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">97'</p> | <p align="right">Al-Nahda <img src="/static/logos/Al-Nahda.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al-Riffa.png" height="25px"> Al-Riffa</p> |
+| <p align="center">106'</p> | <p align="right">Al-Nahda <img src="/static/logos/Al-Nahda.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al-Riffa.png" height="25px"> Al-Riffa</p> |
 </div>
 
 
@@ -189,7 +189,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al Hedood <img src="/static/logos/Al Hedood.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Al Najaf.png" height="25px"> Al Najaf</p> |
 | <p align="center">FT</p> | <p align="right">Karbalaa <img src="/static/logos/Karbalaa.png" height="25px"></p> | <p align="center">3 - 5</p> | <p align="left"><img src="/static/logos/Erbil.png" height="25px"> Erbil</p> |
-| <p align="center">16:00</p> | <p align="right">Al Talaba <img src="/static/logos/Al Talaba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Shorta.png" height="25px"> Al Shorta</p> |
+| <p align="center">FT</p> | <p align="right">Al Talaba <img src="/static/logos/Al Talaba.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al Shorta.png" height="25px"> Al Shorta</p> |
 </div>
 
 
@@ -199,9 +199,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Maccabi Kabilio Jaffa <img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
-| <p align="center">HT</p> | <p align="right">Hapoel Nir Ramat HaSharon <img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Akko.png" height="25px"> Hapoel Ironi Akko</p> |
-| <p align="center">HT</p> | <p align="right">Hapoel Rishon LeZion <img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Herzliya.png" height="25px"> Maccabi Herzliya</p> |
+| <p align="center">66'</p> | <p align="right">Maccabi Kabilio Jaffa <img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
+| <p align="center">66'</p> | <p align="right">Hapoel Nir Ramat HaSharon <img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Akko.png" height="25px"> Hapoel Ironi Akko</p> |
+| <p align="center">67'</p> | <p align="right">Hapoel Rishon LeZion <img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Maccabi Herzliya.png" height="25px"> Maccabi Herzliya</p> |
 </div>
 
 
@@ -211,7 +211,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Maccabi Netanya <img src="/static/logos/Maccabi Netanya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv.png" height="25px"> Maccabi Tel Aviv</p> |
+| <p align="center">22'</p> | <p align="right">Maccabi Netanya <img src="/static/logos/Maccabi Netanya.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv.png" height="25px"> Maccabi Tel Aviv</p> |
 </div>
 
 
@@ -255,8 +255,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Al-Hilal <img src="/static/logos/Al-Hilal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Anwar.png" height="25px"> Al-Anwar</p> |
-| <p align="center">16:00</p> | <p align="right">Al Malaab El Libby <img src="/static/logos/Al Malaab El Libby.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Abu Salim.png" height="25px"> Abu Salim</p> |
+| <p align="center">FT</p> | <p align="right">Al-Hilal <img src="/static/logos/Al-Hilal.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Al-Anwar.png" height="25px"> Al-Anwar</p> |
+| <p align="center">FT</p> | <p align="right">Al Malaab El Libby <img src="/static/logos/Al Malaab El Libby.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Abu Salim.png" height="25px"> Abu Salim</p> |
 </div>
 
 
@@ -288,7 +288,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Gornik Zabrze <img src="/static/logos/Gornik Zabrze.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Korona Kielce.png" height="25px"> Korona Kielce</p> |
+| <p align="center">21'</p> | <p align="right">Gornik Zabrze <img src="/static/logos/Gornik Zabrze.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Korona Kielce.png" height="25px"> Korona Kielce</p> |
 </div>
 
 
@@ -298,7 +298,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">GKS Katowice <img src="/static/logos/GKS Katowice.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Motor Lublin.png" height="25px"> Motor Lublin</p> |
+| <p align="center">65'</p> | <p align="right">GKS Katowice <img src="/static/logos/GKS Katowice.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Motor Lublin.png" height="25px"> Motor Lublin</p> |
 </div>
 
 
@@ -308,7 +308,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">2'</p> | <p align="right">Vilaverdense FC <img src="/static/logos/Vilaverdense FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AVS Futebol SAD.png" height="25px"> AVS Futebol SAD</p> |
+| <p align="center">25'</p> | <p align="right">Vilaverdense FC <img src="/static/logos/Vilaverdense FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/AVS Futebol SAD.png" height="25px"> AVS Futebol SAD</p> |
 </div>
 
 
