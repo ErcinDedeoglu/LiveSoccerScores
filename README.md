@@ -201,8 +201,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">17:00</p> | <p align="right">Maccabi Kabilio Jaffa <img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
-| <p align="center">17:00</p> | <p align="right">Hapoel Nir Ramat HaSharon <img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Akko.png" height="25px"> Hapoel Ironi Akko</p> |
 | <p align="center">17:00</p> | <p align="right">Hapoel Rishon LeZion <img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maccabi Herzliya.png" height="25px"> Maccabi Herzliya</p> |
+| <p align="center">17:00</p> | <p align="right">Hapoel Nir Ramat HaSharon <img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Akko.png" height="25px"> Hapoel Ironi Akko</p> |
 </div>
 
 
@@ -234,9 +234,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:30</p> | <p align="right">Gubbio <img src="/static/logos/Gubbio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Virtus Entella.png" height="25px"> Virtus Entella</p> |
 | <p align="center">19:45</p> | <p align="right">Sestri Levante <img src="/static/logos/Sestri Levante.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cesena.png" height="25px"> Cesena</p> |
-| <p align="center">19:45</p> | <p align="right">Avellino <img src="/static/logos/Avellino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Casertana.png" height="25px"> Casertana</p> |
-| <p align="center">19:45</p> | <p align="right">Turris <img src="/static/logos/Turris.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Potenza.png" height="25px"> Potenza</p> |
 | <p align="center">19:45</p> | <p align="right">Sorrento <img src="/static/logos/Sorrento.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Virtus Francavilla.png" height="25px"> Virtus Francavilla</p> |
+| <p align="center">19:45</p> | <p align="right">Turris <img src="/static/logos/Turris.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Potenza.png" height="25px"> Potenza</p> |
+| <p align="center">19:45</p> | <p align="right">Avellino <img src="/static/logos/Avellino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Casertana.png" height="25px"> Casertana</p> |
 </div>
 
 
@@ -268,7 +268,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
-| <p align="center">03:10</p> | <p align="right">Club Tijuana <img src="/static/logos/Club Tijuana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Queretaro.png" height="25px"> Queretaro</p> |
+| <p align="center">FT</p> | <p align="right">Club Tijuana <img src="/static/logos/Club Tijuana.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Queretaro.png" height="25px"> Queretaro</p> |
 </div>
 
 
@@ -278,8 +278,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">MVV Maastricht <img src="/static/logos/MVV Maastricht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jong PSV.png" height="25px"> Jong PSV</p> |
 | <p align="center">19:00</p> | <p align="right">NAC Breda <img src="/static/logos/NAC Breda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cambuur.png" height="25px"> Cambuur</p> |
+| <p align="center">19:00</p> | <p align="right">MVV Maastricht <img src="/static/logos/MVV Maastricht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jong PSV.png" height="25px"> Jong PSV</p> |
 </div>
 
 
