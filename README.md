@@ -263,7 +263,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">11:00</p> | <p align="right">Naft Maysan <img src="/static/logos/Naft Maysan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Duhok.png" height="25px"> Duhok</p> |
 | <p align="center">11:00</p> | <p align="right">Al Karkh <img src="/static/logos/Al Karkh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Naft Al Wasat.png" height="25px"> Naft Al Wasat</p> |
-| <p align="center">11:00</p> | <p align="right">Al Naft <img src="/static/logos/Al Naft.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Naft Al-Basra.png" height="25px"> Naft Al-Basra</p> |
+| <p align="center">POS</p> | <p align="right">Al Naft <img src="/static/logos/Al Naft.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Naft Al-Basra.png" height="25px"> Naft Al-Basra</p> |
 | <p align="center">17:30</p> | <p align="right">Al Zawraa <img src="/static/logos/Al Zawraa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Quwa Al Jawiya.png" height="25px"> Al Quwa Al Jawiya</p> |
 | <p align="center">18:30</p> | <p align="right">Al-Qasim <img src="/static/logos/Al-Qasim.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newroz.png" height="25px"> Newroz</p> |
 </div>
