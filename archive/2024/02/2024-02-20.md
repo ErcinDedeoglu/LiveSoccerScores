@@ -83,7 +83,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Kawasaki Frontale <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Shandong Taishan.png" height="25px"> Shandong Taishan</p> |
-| <p align="center">88'</p> | <p align="right">Pohang Steelers <img src="/static/logos/Pohang Steelers.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
+| <p align="center">FT</p> | <p align="right">Pohang Steelers <img src="/static/logos/Pohang Steelers.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
 </div>
 
 
@@ -245,7 +245,7 @@
 | <p align="center">19:45</p> | <p align="right">Stamford AFC <img src="/static/logos/Stamford AFC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Telford.png" height="25px"> Telford</p> |
 | <p align="center">19:45</p> | <p align="right">Leiston <img src="/static/logos/Leiston.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Halesowen.png" height="25px"> Halesowen</p> |
 | <p align="center">19:45</p> | <p align="right">Concord Rangers <img src="/static/logos/Concord Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Billericay.png" height="25px"> Billericay</p> |
-| <p align="center">19:45</p> | <p align="right">Hanwell Town <img src="/static/logos/Hanwell Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Plymouth Parkway.png" height="25px"> Plymouth Parkway</p> |
+| <p align="center">POS</p> | <p align="right">Hanwell Town <img src="/static/logos/Hanwell Town.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Plymouth Parkway.png" height="25px"> Plymouth Parkway</p> |
 | <p align="center">19:45</p> | <p align="right">Hungerford Town <img src="/static/logos/Hungerford Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gosport Borough.png" height="25px"> Gosport Borough</p> |
 | <p align="center">19:45</p> | <p align="right">Didcot Town <img src="/static/logos/Didcot Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Walton and Hersham.png" height="25px"> Walton and Hersham</p> |
 | <p align="center">19:45</p> | <p align="right">Tiverton <img src="/static/logos/Tiverton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorchester Town.png" height="25px"> Dorchester Town</p> |
