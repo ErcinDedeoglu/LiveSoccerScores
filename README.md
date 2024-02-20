@@ -131,7 +131,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Ceramica Cleopatra <img src="/static/logos/Ceramica Cleopatra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
+| <p align="center">13'</p> | <p align="right">Ceramica Cleopatra <img src="/static/logos/Ceramica Cleopatra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
 | <p align="center">17:00</p> | <p align="right">El Dakhleya <img src="/static/logos/El Dakhleya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pharco FC.png" height="25px"> Pharco FC</p> |
 | <p align="center">17:00</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"> Baladiyat ElMahalla SC</p> |
 </div>
@@ -193,7 +193,7 @@
 | <p align="center">19:45</p> | <p align="right">Hartlepool United <img src="/static/logos/Hartlepool United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Altrincham.png" height="25px"> Altrincham</p> |
 | <p align="center">POS</p> | <p align="right">Wealdstone <img src="/static/logos/Wealdstone.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Dorking Wanderers.png" height="25px"> Dorking Wanderers</p> |
 | <p align="center">19:45</p> | <p align="right">AFC Fylde <img src="/static/logos/AFC Fylde.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Solihull Moors.png" height="25px"> Solihull Moors</p> |
-| <p align="center">19:45</p> | <p align="right">FC Halifax Town <img src="/static/logos/FC Halifax Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chesterfield.png" height="25px"> Chesterfield</p> |
+| <p align="center">POS</p> | <p align="right">FC Halifax Town <img src="/static/logos/FC Halifax Town.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Chesterfield.png" height="25px"> Chesterfield</p> |
 | <p align="center">19:45</p> | <p align="right">Ebbsfleet United <img src="/static/logos/Ebbsfleet United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Woking.png" height="25px"> Woking</p> |
 | <p align="center">19:45</p> | <p align="right">Maidenhead United <img src="/static/logos/Maidenhead United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Southend United.png" height="25px"> Southend United</p> |
 | <p align="center">19:45</p> | <p align="right">Aldershot Town <img src="/static/logos/Aldershot Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Barnet.png" height="25px"> Barnet</p> |
