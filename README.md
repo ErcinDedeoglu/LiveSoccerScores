@@ -81,7 +81,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ventforet Kofu <img src="/static/logos/Ventforet Kofu.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ulsan HD FC.png" height="25px"> Ulsan HD FC</p> |
 | <p align="center">FT</p> | <p align="right">Yokohama F.Marinos <img src="/static/logos/Yokohama F.Marinos.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bangkok United.png" height="25px"> Bangkok United</p> |
-| <p align="center">35'</p> | <p align="right">Al-Ain <img src="/static/logos/Al-Ain.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nasaf Qarshi.png" height="25px"> Nasaf Qarshi</p> |
+| <p align="center">45' 5'</p> | <p align="right">Al-Ain <img src="/static/logos/Al-Ain.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nasaf Qarshi.png" height="25px"> Nasaf Qarshi</p> |
 | <p align="center">18:00</p> | <p align="right">Al Nassr FC <img src="/static/logos/Al Nassr FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Fayha.png" height="25px"> Al-Fayha</p> |
 </div>
 
@@ -103,7 +103,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">35'</p> | <p align="right">Skenderbeu <img src="/static/logos/Skenderbeu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Dinamo City.png" height="25px"> FC Dinamo City</p> |
+| <p align="center">HT</p> | <p align="right">Skenderbeu <img src="/static/logos/Skenderbeu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Dinamo City.png" height="25px"> FC Dinamo City</p> |
 </div>
 
 
@@ -150,7 +150,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Tafic <img src="/static/logos/Tafic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gaborone United.png" height="25px"> Gaborone United</p> |
+| <p align="center">FT</p> | <p align="right">Tafic <img src="/static/logos/Tafic.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Gaborone United.png" height="25px"> Gaborone United</p> |
 | <p align="center">14:30</p> | <p align="right">VTM FC <img src="/static/logos/VTM FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botswana Defence Force XI.png" height="25px"> Botswana Defence Force XI</p> |
 </div>
 
@@ -182,7 +182,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">Fovu Club <img src="/static/logos/Fovu Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stade Renard.png" height="25px"> Stade Renard</p> |
+| <p align="center">FT</p> | <p align="right">Fovu Club <img src="/static/logos/Fovu Club.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Stade Renard.png" height="25px"> Stade Renard</p> |
 | <p align="center">FT</p> | <p align="right">PWD Bamenda <img src="/static/logos/PWD Bamenda.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aigle Royal.png" height="25px"> Aigle Royal</p> |
 | <p align="center">15:00</p> | <p align="right">Canon Sportif <img src="/static/logos/Canon Sportif.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bamboutos.png" height="25px"> Bamboutos</p> |
 | <p align="center">17:00</p> | <p align="right">Colombe <img src="/static/logos/Colombe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dynamo de Douala.png" height="25px"> Dynamo de Douala</p> |
