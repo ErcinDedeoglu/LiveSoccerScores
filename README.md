@@ -81,7 +81,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ventforet Kofu <img src="/static/logos/Ventforet Kofu.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ulsan HD FC.png" height="25px"> Ulsan HD FC</p> |
 | <p align="center">FT</p> | <p align="right">Yokohama F.Marinos <img src="/static/logos/Yokohama F.Marinos.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bangkok United.png" height="25px"> Bangkok United</p> |
-| <p align="center">16:00</p> | <p align="right">Al-Ain <img src="/static/logos/Al-Ain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nasaf Qarshi.png" height="25px"> Nasaf Qarshi</p> |
+| <p align="center">35'</p> | <p align="right">Al-Ain <img src="/static/logos/Al-Ain.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nasaf Qarshi.png" height="25px"> Nasaf Qarshi</p> |
 | <p align="center">18:00</p> | <p align="right">Al Nassr FC <img src="/static/logos/Al Nassr FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Fayha.png" height="25px"> Al-Fayha</p> |
 </div>
 
@@ -103,7 +103,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Skenderbeu <img src="/static/logos/Skenderbeu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dinamo City.png" height="25px"> FC Dinamo City</p> |
+| <p align="center">35'</p> | <p align="right">Skenderbeu <img src="/static/logos/Skenderbeu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Dinamo City.png" height="25px"> FC Dinamo City</p> |
 </div>
 
 
@@ -182,8 +182,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">PWD Bamenda <img src="/static/logos/PWD Bamenda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aigle Royal.png" height="25px"> Aigle Royal</p> |
 | <p align="center">14:30</p> | <p align="right">Fovu Club <img src="/static/logos/Fovu Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stade Renard.png" height="25px"> Stade Renard</p> |
+| <p align="center">FT</p> | <p align="right">PWD Bamenda <img src="/static/logos/PWD Bamenda.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aigle Royal.png" height="25px"> Aigle Royal</p> |
 | <p align="center">15:00</p> | <p align="right">Canon Sportif <img src="/static/logos/Canon Sportif.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bamboutos.png" height="25px"> Bamboutos</p> |
 | <p align="center">17:00</p> | <p align="right">Colombe <img src="/static/logos/Colombe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dynamo de Douala.png" height="25px"> Dynamo de Douala</p> |
 </div>
@@ -275,7 +275,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">FC Goa <img src="/static/logos/FC Goa.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Northeast United FC.png" height="25px"> Northeast United FC</p> |
+| <p align="center">FT</p> | <p align="right">FC Goa <img src="/static/logos/FC Goa.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Northeast United FC.png" height="25px"> Northeast United FC</p> |
 </div>
 
 
@@ -288,7 +288,7 @@
 | <p align="center">FT</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Paykan.png" height="25px"> Paykan</p> |
 | <p align="center">FT</p> | <p align="right">Esteghlal Khuzestan <img src="/static/logos/Esteghlal Khuzestan.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Aluminium Arak.png" height="25px"> Aluminium Arak</p> |
 | <p align="center">FT</p> | <p align="right">Nassaji Mazandaran FC <img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Mes Rafsanjan</p> |
-| <p align="center">90'</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Tractor.png" height="25px"> Tractor</p> |
+| <p align="center">FT</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Tractor.png" height="25px"> Tractor</p> |
 </div>
 
 
@@ -318,7 +318,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Al-Wehdat <img src="/static/logos/Al-Wehdat.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ramtha SC.png" height="25px"> Ramtha SC</p> |
+| <p align="center">FT</p> | <p align="right">Al-Wehdat <img src="/static/logos/Al-Wehdat.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Ramtha SC.png" height="25px"> Ramtha SC</p> |
 | <p align="center">16:30</p> | <p align="right">Mgaear Al Sarhan <img src="/static/logos/Mgaear Al Sarhan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Faisaly.png" height="25px"> Al-Faisaly</p> |
 </div>
 
@@ -361,10 +361,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20:15</p> | <p align="right">FC Fiorentino <img src="/static/logos/FC Fiorentino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Giovanni.png" height="25px"> San Giovanni</p> |
 | <p align="center">20:15</p> | <p align="right">S.S. Murata <img src="/static/logos/S.S. Murata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tre Penne Galazzano.png" height="25px"> Tre Penne Galazzano</p> |
-| <p align="center">20:15</p> | <p align="right">San Marino Academy U22 <img src="/static/logos/San Marino Academy U22.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Juvenes/Dogana.png" height="25px"> Juvenes/Dogana</p> |
 | <p align="center">20:15</p> | <p align="right">Faetano <img src="/static/logos/Faetano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cailungo.png" height="25px"> Cailungo</p> |
+| <p align="center">20:15</p> | <p align="right">San Marino Academy U22 <img src="/static/logos/San Marino Academy U22.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Juvenes/Dogana.png" height="25px"> Juvenes/Dogana</p> |
+| <p align="center">20:15</p> | <p align="right">FC Fiorentino <img src="/static/logos/FC Fiorentino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Giovanni.png" height="25px"> San Giovanni</p> |
 </div>
 
 
@@ -375,9 +375,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">20:00</p> | <p align="right">Keith <img src="/static/logos/Keith.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Forres Mechanics.png" height="25px"> Forres Mechanics</p> |
-| <p align="center">20:00</p> | <p align="right">Brora Rangers <img src="/static/logos/Brora Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lossiemouth.png" height="25px"> Lossiemouth</p> |
 | <p align="center">20:00</p> | <p align="right">Buckie Thistle <img src="/static/logos/Buckie Thistle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fraserburgh.png" height="25px"> Fraserburgh</p> |
 | <p align="center">20:00</p> | <p align="right">Formartine United <img src="/static/logos/Formartine United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nairn County.png" height="25px"> Nairn County</p> |
+| <p align="center">20:00</p> | <p align="right">Brora Rangers <img src="/static/logos/Brora Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lossiemouth.png" height="25px"> Lossiemouth</p> |
 </div>
 
 
