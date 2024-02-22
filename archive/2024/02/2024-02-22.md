@@ -26,10 +26,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">17:45</p> | <p align="right">Rennes <img src="/static/logos/Rennes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AC Milan.png" height="25px"> AC Milan</p> |
 | <p align="center">17:45</p> | <p align="right">Toulouse <img src="/static/logos/Toulouse.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
 | <p align="center">17:45</p> | <p align="right">Freiburg <img src="/static/logos/Freiburg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lens.png" height="25px"> Lens</p> |
 | <p align="center">17:45</p> | <p align="right">Qarabag FK <img src="/static/logos/Qarabag FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Braga.png" height="25px"> Braga</p> |
-| <p align="center">17:45</p> | <p align="right">Rennes <img src="/static/logos/Rennes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AC Milan.png" height="25px"> AC Milan</p> |
 | <p align="center">20:00</p> | <p align="right">Roma <img src="/static/logos/Roma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Feyenoord.png" height="25px"> Feyenoord</p> |
 | <p align="center">20:00</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shakhtar Donetsk.png" height="25px"> Shakhtar Donetsk</p> |
 | <p align="center">20:00</p> | <p align="right">Sporting CP <img src="/static/logos/Sporting CP.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Young Boys.png" height="25px"> Young Boys</p> |
@@ -44,8 +44,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">17:45</p> | <p align="right">Dinamo Zagreb <img src="/static/logos/Dinamo Zagreb.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Betis.png" height="25px"> Real Betis</p> |
-| <p align="center">17:45</p> | <p align="right">Ludogorets Razgrad <img src="/static/logos/Ludogorets Razgrad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Servette.png" height="25px"> Servette</p> |
 | <p align="center">17:45</p> | <p align="right">Bodoe/Glimt <img src="/static/logos/Bodoe/Glimt.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ajax.png" height="25px"> Ajax</p> |
+| <p align="center">17:45</p> | <p align="right">Ludogorets Razgrad <img src="/static/logos/Ludogorets Razgrad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Servette.png" height="25px"> Servette</p> |
 | <p align="center">20:00</p> | <p align="right">Slovan Bratislava <img src="/static/logos/Slovan Bratislava.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sturm Graz.png" height="25px"> Sturm Graz</p> |
 | <p align="center">20:00</p> | <p align="right">Ferencvaros <img src="/static/logos/Ferencvaros.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympiacos.png" height="25px"> Olympiacos</p> |
 | <p align="center">20:00</p> | <p align="right">Legia Warszawa <img src="/static/logos/Legia Warszawa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Molde.png" height="25px"> Molde</p> |
@@ -135,8 +135,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:30</p> | <p align="right">APEJES FC <img src="/static/logos/APEJES FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avion FC.png" height="25px"> Avion FC</p> |
 | <p align="center">12:30</p> | <p align="right">Union Douala <img src="/static/logos/Union Douala.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Les Astres.png" height="25px"> Les Astres</p> |
+| <p align="center">12:30</p> | <p align="right">APEJES FC <img src="/static/logos/APEJES FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avion FC.png" height="25px"> Avion FC</p> |
 | <p align="center">14:30</p> | <p align="right">AS Fortuna <img src="/static/logos/AS Fortuna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gazelle.png" height="25px"> Gazelle</p> |
 | <p align="center">14:30</p> | <p align="right">UMS de Loum <img src="/static/logos/UMS de Loum.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Victoria United.png" height="25px"> Victoria United</p> |
 </div>
@@ -158,10 +158,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
-| <p align="center">HT</p> | <p align="right">Bhayangkara Presisi Indonesia FC <img src="/static/logos/Bhayangkara Presisi Indonesia FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
-| <p align="center">12:00</p> | <p align="right">Persija Jakarta <img src="/static/logos/Persija Jakarta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
+| <p align="center">63'</p> | <p align="right">Bhayangkara Presisi Indonesia FC <img src="/static/logos/Bhayangkara Presisi Indonesia FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
+| <p align="center">64'</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
 | <p align="center">12:00</p> | <p align="right">RANS Nusantara <img src="/static/logos/RANS Nusantara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arema.png" height="25px"> Arema</p> |
+| <p align="center">12:00</p> | <p align="right">Persija Jakarta <img src="/static/logos/Persija Jakarta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
 </div>
 
 
@@ -171,7 +171,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Macarthur FC <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
+| <p align="center">63'</p> | <p align="right">Macarthur FC <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
 </div>
 
 
