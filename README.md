@@ -48,8 +48,8 @@
 | <p align="center">17:45</p> | <p align="right">Ludogorets Razgrad <img src="/static/logos/Ludogorets Razgrad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Servette.png" height="25px"> Servette</p> |
 | <p align="center">20:00</p> | <p align="right">Slovan Bratislava <img src="/static/logos/Slovan Bratislava.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sturm Graz.png" height="25px"> Sturm Graz</p> |
 | <p align="center">20:00</p> | <p align="right">Ferencvaros <img src="/static/logos/Ferencvaros.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympiacos.png" height="25px"> Olympiacos</p> |
-| <p align="center">20:00</p> | <p align="right">Legia Warszawa <img src="/static/logos/Legia Warszawa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Molde.png" height="25px"> Molde</p> |
 | <p align="center">20:00</p> | <p align="right">Eintracht Frankfurt <img src="/static/logos/Eintracht Frankfurt.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
+| <p align="center">20:00</p> | <p align="right">Legia Warszawa <img src="/static/logos/Legia Warszawa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Molde.png" height="25px"> Molde</p> |
 </div>
 
 
@@ -70,8 +70,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Santos Laguna.png" height="25px"> Santos Laguna</p> |
-| <p align="center">FT</p> | <p align="right">Leon <img src="/static/logos/Leon.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
 | <p align="center">FT</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Mazatlan FC.png" height="25px"> Mazatlan FC</p> |
+| <p align="center">FT</p> | <p align="right">Leon <img src="/static/logos/Leon.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
 </div>
 
 
@@ -137,8 +137,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">12:30</p> | <p align="right">Union Douala <img src="/static/logos/Union Douala.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Les Astres.png" height="25px"> Les Astres</p> |
 | <p align="center">12:30</p> | <p align="right">APEJES FC <img src="/static/logos/APEJES FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avion FC.png" height="25px"> Avion FC</p> |
-| <p align="center">14:30</p> | <p align="right">AS Fortuna <img src="/static/logos/AS Fortuna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gazelle.png" height="25px"> Gazelle</p> |
 | <p align="center">14:30</p> | <p align="right">UMS de Loum <img src="/static/logos/UMS de Loum.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Victoria United.png" height="25px"> Victoria United</p> |
+| <p align="center">14:30</p> | <p align="right">AS Fortuna <img src="/static/logos/AS Fortuna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gazelle.png" height="25px"> Gazelle</p> |
 </div>
 
 
@@ -171,7 +171,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">102'</p> | <p align="right">Macarthur FC <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
+| <p align="center">FT</p> | <p align="right">Macarthur FC <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
 </div>
 
 
