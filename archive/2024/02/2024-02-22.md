@@ -158,8 +158,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20'</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
-| <p align="center">20'</p> | <p align="right">Bhayangkara Presisi Indonesia FC <img src="/static/logos/Bhayangkara Presisi Indonesia FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
+| <p align="center">44'</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
+| <p align="center">44'</p> | <p align="right">Bhayangkara Presisi Indonesia FC <img src="/static/logos/Bhayangkara Presisi Indonesia FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
 | <p align="center">12:00</p> | <p align="right">Persija Jakarta <img src="/static/logos/Persija Jakarta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
 | <p align="center">12:00</p> | <p align="right">RANS Nusantara <img src="/static/logos/RANS Nusantara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arema.png" height="25px"> Arema</p> |
 </div>
@@ -171,7 +171,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Macarthur FC <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
+| <p align="center">44'</p> | <p align="right">Macarthur FC <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
 </div>
 
 
