@@ -118,7 +118,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Once Caldas <img src="/static/logos/Once Caldas.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
-| <p align="center">65'</p> | <p align="right">Fortaleza FC <img src="/static/logos/Fortaleza FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Chico FC.png" height="25px"> Chico FC</p> |
+| <p align="center">88'</p> | <p align="right">Fortaleza FC <img src="/static/logos/Fortaleza FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Chico FC.png" height="25px"> Chico FC</p> |
 | <p align="center">23:10</p> | <p align="right">Rionegro Aguilas <img src="/static/logos/Rionegro Aguilas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
 </div>
 
@@ -129,7 +129,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">25'</p> | <p align="right">Universidad Catolica <img src="/static/logos/Universidad Catolica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Nublense.png" height="25px"> CD Nublense</p> |
+| <p align="center">45' 3'</p> | <p align="right">Universidad Catolica <img src="/static/logos/Universidad Catolica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Nublense.png" height="25px"> CD Nublense</p> |
 </div>
 
 
