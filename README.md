@@ -139,7 +139,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Samsunspor <img src="/static/logos/Samsunspor.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Rizespor.png" height="25px"> Rizespor</p> |
+| <p align="center">64'</p> | <p align="right">Samsunspor <img src="/static/logos/Samsunspor.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Rizespor.png" height="25px"> Rizespor</p> |
 </div>
 
 
@@ -242,7 +242,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Baladiyat ElMahalla SC <img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ceramica Cleopatra.png" height="25px"> Ceramica Cleopatra</p> |
+| <p align="center">57'</p> | <p align="right">Baladiyat ElMahalla SC <img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ceramica Cleopatra.png" height="25px"> Ceramica Cleopatra</p> |
 </div>
 
 
@@ -289,8 +289,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Wehen Wiesbaden <img src="/static/logos/Wehen Wiesbaden.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Paderborn.png" height="25px"> Paderborn</p> |
-| <p align="center">32'</p> | <p align="right">Holstein Kiel <img src="/static/logos/Holstein Kiel.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/St. Pauli.png" height="25px"> St. Pauli</p> |
+| <p align="center">HT</p> | <p align="right">Wehen Wiesbaden <img src="/static/logos/Wehen Wiesbaden.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paderborn.png" height="25px"> Paderborn</p> |
+| <p align="center">HT</p> | <p align="right">Holstein Kiel <img src="/static/logos/Holstein Kiel.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/St. Pauli.png" height="25px"> St. Pauli</p> |
 </div>
 
 
@@ -300,7 +300,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">1'</p> | <p align="right">Preussen Muenster <img src="/static/logos/Preussen Muenster.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MSV Duisburg.png" height="25px"> MSV Duisburg</p> |
+| <p align="center">24'</p> | <p align="right">Preussen Muenster <img src="/static/logos/Preussen Muenster.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MSV Duisburg.png" height="25px"> MSV Duisburg</p> |
 </div>
 
 
@@ -368,8 +368,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al Hedood <img src="/static/logos/Al Hedood.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Naft Maysan.png" height="25px"> Naft Maysan</p> |
 | <p align="center">FT</p> | <p align="right">Duhok <img src="/static/logos/Duhok.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Karbalaa.png" height="25px"> Karbalaa</p> |
-| <p align="center">16:00</p> | <p align="right">Naft Al Wasat <img src="/static/logos/Naft Al Wasat.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newroz.png" height="25px"> Newroz</p> |
-| <p align="center">16:00</p> | <p align="right">Al Quwa Al Jawiya <img src="/static/logos/Al Quwa Al Jawiya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Qasim.png" height="25px"> Al-Qasim</p> |
+| <p align="center">FT</p> | <p align="right">Naft Al Wasat <img src="/static/logos/Naft Al Wasat.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Newroz.png" height="25px"> Newroz</p> |
+| <p align="center">FT</p> | <p align="right">Al Quwa Al Jawiya <img src="/static/logos/Al Quwa Al Jawiya.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Al-Qasim.png" height="25px"> Al-Qasim</p> |
 </div>
 
 
@@ -482,7 +482,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Piast Gliwice <img src="/static/logos/Piast Gliwice.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cracovia.png" height="25px"> Cracovia</p> |
+| <p align="center">66'</p> | <p align="right">Piast Gliwice <img src="/static/logos/Piast Gliwice.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cracovia.png" height="25px"> Cracovia</p> |
 | <p align="center">19:30</p> | <p align="right">Pogon Szczecin <img src="/static/logos/Pogon Szczecin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/LKS Lodz.png" height="25px"> LKS Lodz</p> |
 </div>
 
@@ -493,7 +493,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Miedz Legnica <img src="/static/logos/Miedz Legnica.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Polonia Warszawa.png" height="25px"> Polonia Warszawa</p> |
+| <p align="center">66'</p> | <p align="right">Miedz Legnica <img src="/static/logos/Miedz Legnica.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Polonia Warszawa.png" height="25px"> Polonia Warszawa</p> |
 | <p align="center">19:30</p> | <p align="right">Wisla Krakow <img src="/static/logos/Wisla Krakow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/GKS Tychy.png" height="25px"> GKS Tychy</p> |
 </div>
 
@@ -506,7 +506,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al-Raed.png" height="25px"> Al-Raed</p> |
 | <p align="center">FT</p> | <p align="right">Al-Taawoun <img src="/static/logos/Al-Taawoun.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Al Akhdoud.png" height="25px"> Al Akhdoud</p> |
-| <p align="center">HT</p> | <p align="right">Al Fateh FC <img src="/static/logos/Al Fateh FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
+| <p align="center">68'</p> | <p align="right">Al Fateh FC <img src="/static/logos/Al Fateh FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
 </div>
 
 
@@ -536,8 +536,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Stellenbosch FC <img src="/static/logos/Stellenbosch FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pretoria Callies.png" height="25px"> Pretoria Callies</p> |
-| <p align="center">45' 17'</p> | <p align="right">Lamontville Golden Arrows <img src="/static/logos/Lamontville Golden Arrows.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/TS Galaxy.png" height="25px"> TS Galaxy</p> |
+| <p align="center">67'</p> | <p align="right">Stellenbosch FC <img src="/static/logos/Stellenbosch FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pretoria Callies.png" height="25px"> Pretoria Callies</p> |
+| <p align="center">46'</p> | <p align="right">Lamontville Golden Arrows <img src="/static/logos/Lamontville Golden Arrows.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/TS Galaxy.png" height="25px"> TS Galaxy</p> |
 </div>
 
 
@@ -589,7 +589,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Altay <img src="/static/logos/Altay.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Giresunspor.png" height="25px"> Giresunspor</p> |
+| <p align="center">64'</p> | <p align="right">Altay <img src="/static/logos/Altay.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Giresunspor.png" height="25px"> Giresunspor</p> |
 </div>
 
 
