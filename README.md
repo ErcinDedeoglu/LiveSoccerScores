@@ -326,8 +326,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Tafic <img src="/static/logos/Tafic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/VTM FC.png" height="25px"> VTM FC</p> |
 | <p align="center">14:30</p> | <p align="right">Holy Ghost SC <img src="/static/logos/Holy Ghost SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sua Flamingoes.png" height="25px"> Sua Flamingoes</p> |
+| <p align="center">14:30</p> | <p align="right">Tafic <img src="/static/logos/Tafic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/VTM FC.png" height="25px"> VTM FC</p> |
 </div>
 
 
