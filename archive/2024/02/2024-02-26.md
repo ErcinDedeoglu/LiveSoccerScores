@@ -121,8 +121,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">KF Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Laci.png" height="25px"> Laci</p> |
 | <p align="center">16:00</p> | <p align="right">FC Dinamo City <img src="/static/logos/FC Dinamo City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vllaznia.png" height="25px"> Vllaznia</p> |
+| <p align="center">16:00</p> | <p align="right">KF Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Laci.png" height="25px"> Laci</p> |
 </div>
 
 
@@ -259,8 +259,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:45</p> | <p align="right">Benevento <img src="/static/logos/Benevento.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sorrento.png" height="25px"> Sorrento</p> |
 | <p align="center">19:45</p> | <p align="right">Foggia <img src="/static/logos/Foggia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crotone.png" height="25px"> Crotone</p> |
+| <p align="center">19:45</p> | <p align="right">Benevento <img src="/static/logos/Benevento.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sorrento.png" height="25px"> Sorrento</p> |
 | <p align="center">19:45</p> | <p align="right">Virtus Francavilla <img src="/static/logos/Virtus Francavilla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monopoli.png" height="25px"> Monopoli</p> |
 </div>
 
@@ -283,9 +283,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Jong FC Utrecht <img src="/static/logos/Jong FC Utrecht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TOP Oss.png" height="25px"> TOP Oss</p> |
 | <p align="center">19:00</p> | <p align="right">Jong PSV <img src="/static/logos/Jong PSV.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
 | <p align="center">19:00</p> | <p align="right">Jong Ajax <img src="/static/logos/Jong Ajax.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Telstar.png" height="25px"> Telstar</p> |
+| <p align="center">19:00</p> | <p align="right">Jong FC Utrecht <img src="/static/logos/Jong FC Utrecht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TOP Oss.png" height="25px"> TOP Oss</p> |
 | <p align="center">19:00</p> | <p align="right">Jong AZ Alkmaar <img src="/static/logos/Jong AZ Alkmaar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NAC Breda.png" height="25px"> NAC Breda</p> |
 </div>
 
