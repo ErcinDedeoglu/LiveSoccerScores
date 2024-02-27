@@ -280,7 +280,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
 | <p align="center">FT</p> | <p align="right">Foolad Khouzestan <img src="/static/logos/Foolad Khouzestan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Malavan.png" height="25px"> Malavan</p> |
-| <p align="center">HT</p> | <p align="right">Esteghlal <img src="/static/logos/Esteghlal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sepahan.png" height="25px"> Sepahan</p> |
+| <p align="center">50'</p> | <p align="right">Esteghlal <img src="/static/logos/Esteghlal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sepahan.png" height="25px"> Sepahan</p> |
 </div>
 
 
@@ -412,8 +412,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Mtibwa Sugar <img src="/static/logos/Mtibwa Sugar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dodoma Jiji FC.png" height="25px"> Dodoma Jiji FC</p> |
-| <p align="center">13:00</p> | <p align="right">JKT Tanzania <img src="/static/logos/JKT Tanzania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kinondoni MC.png" height="25px"> Kinondoni MC</p> |
+| <p align="center">FT</p> | <p align="right">Mtibwa Sugar <img src="/static/logos/Mtibwa Sugar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dodoma Jiji FC.png" height="25px"> Dodoma Jiji FC</p> |
+| <p align="center">FT</p> | <p align="right">JKT Tanzania <img src="/static/logos/JKT Tanzania.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kinondoni MC.png" height="25px"> Kinondoni MC</p> |
 </div>
 
 
@@ -435,7 +435,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">13:00</p> | <p align="right">Express FC <img src="/static/logos/Express FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UPDF FC.png" height="25px"> UPDF FC</p> |
 | <p align="center">13:00</p> | <p align="right">Arua Hill SC <img src="/static/logos/Arua Hill SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mbarara City.png" height="25px"> Mbarara City</p> |
-| <p align="center">13:00</p> | <p align="right">Kitara FC <img src="/static/logos/Kitara FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wakiso Giants.png" height="25px"> Wakiso Giants</p> |
+| <p align="center">FT</p> | <p align="right">Kitara FC <img src="/static/logos/Kitara FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wakiso Giants.png" height="25px"> Wakiso Giants</p> |
 </div>
 
 
