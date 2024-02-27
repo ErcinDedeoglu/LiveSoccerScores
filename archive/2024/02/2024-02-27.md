@@ -246,7 +246,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Inter Kashi <img src="/static/logos/Inter Kashi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Neroca FC.png" height="25px"> Neroca FC</p> |
+| <p align="center">15'</p> | <p align="right">Inter Kashi <img src="/static/logos/Inter Kashi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Neroca FC.png" height="25px"> Neroca FC</p> |
 </div>
 
 
@@ -278,7 +278,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
+| <p align="center">15'</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
 | <p align="center">12:30</p> | <p align="right">Foolad Khouzestan <img src="/static/logos/Foolad Khouzestan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malavan.png" height="25px"> Malavan</p> |
 | <p align="center">13:45</p> | <p align="right">Esteghlal <img src="/static/logos/Esteghlal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sepahan.png" height="25px"> Sepahan</p> |
 </div>
@@ -445,8 +445,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">QNK Quang Nam <img src="/static/logos/QNK Quang Nam.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Viettel.png" height="25px"> Viettel</p> |
-| <p align="center">12'</p> | <p align="right">Khanh Hoa FC <img src="/static/logos/Khanh Hoa FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"> Hoang Anh Gia Lai</p> |
+| <p align="center">59'</p> | <p align="right">QNK Quang Nam <img src="/static/logos/QNK Quang Nam.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Viettel.png" height="25px"> Viettel</p> |
+| <p align="center">18'</p> | <p align="right">Khanh Hoa FC <img src="/static/logos/Khanh Hoa FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"> Hoang Anh Gia Lai</p> |
 | <p align="center">12:15</p> | <p align="right">Cong An Ha Noi <img src="/static/logos/Cong An Ha Noi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thanh Hoa FC.png" height="25px"> Thanh Hoa FC</p> |
 | <p align="center">12:15</p> | <p align="right">Hai Phong <img src="/static/logos/Hai Phong.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Song Lam Nghe An.png" height="25px"> Song Lam Nghe An</p> |
 </div>
