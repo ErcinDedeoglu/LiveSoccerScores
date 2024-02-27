@@ -111,8 +111,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Asyut Petroleum <img src="/static/logos/Asyut Petroleum.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Abo Qir Semad.png" height="25px"> Abo Qir Semad</p> |
-| <p align="center">13:00</p> | <p align="right">El Nasr Tadeen <img src="/static/logos/El Nasr Tadeen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Itesalat.png" height="25px"> Itesalat</p> |
+| <p align="center">FT</p> | <p align="right">Asyut Petroleum <img src="/static/logos/Asyut Petroleum.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Abo Qir Semad.png" height="25px"> Abo Qir Semad</p> |
+| <p align="center">FT</p> | <p align="right">El Nasr Tadeen <img src="/static/logos/El Nasr Tadeen.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Itesalat.png" height="25px"> Itesalat</p> |
 | <p align="center">FT</p> | <p align="right">Makadi <img src="/static/logos/Makadi.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Gomhoreyet Shbeen.png" height="25px"> Gomhoreyet Shbeen</p> |
 | <p align="center">FT</p> | <p align="right">Aswan FC <img src="/static/logos/Aswan FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Dekernes.png" height="25px"> Dekernes</p> |
 | <p align="center">FT</p> | <p align="right">Nogoom FC <img src="/static/logos/Nogoom FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Misr Lel Makkasa SC.png" height="25px"> Misr Lel Makkasa SC</p> |
@@ -290,7 +290,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Al Kahrabaa <img src="/static/logos/Al Kahrabaa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Karbalaa.png" height="25px"> Karbalaa</p> |
+| <p align="center">FT</p> | <p align="right">Al Kahrabaa <img src="/static/logos/Al Kahrabaa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Karbalaa.png" height="25px"> Karbalaa</p> |
 </div>
 
 
