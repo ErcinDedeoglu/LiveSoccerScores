@@ -284,7 +284,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Harbour View <img src="/static/logos/Harbour View.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Treasure Beach.png" height="25px"> Treasure Beach</p> |
+| <p align="center">20:30</p> | <p align="right">Harbour View <img src="/static/logos/Harbour View.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Treasure Beach.png" height="25px"> Treasure Beach</p> |
 </div>
 
 
