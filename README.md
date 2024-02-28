@@ -188,8 +188,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">30'</p> | <p align="right">Asteras Tripolis <img src="/static/logos/Asteras Tripolis.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kifisia FC.png" height="25px"> Kifisia FC</p> |
-| <p align="center">30'</p> | <p align="right">NFC Volos <img src="/static/logos/NFC Volos.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/OFI Crete.png" height="25px"> OFI Crete</p> |
+| <p align="center">45'</p> | <p align="right">Asteras Tripolis <img src="/static/logos/Asteras Tripolis.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Kifisia FC.png" height="25px"> Kifisia FC</p> |
+| <p align="center">45'</p> | <p align="right">NFC Volos <img src="/static/logos/NFC Volos.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/OFI Crete.png" height="25px"> OFI Crete</p> |
 | <p align="center">15:00</p> | <p align="right">Atromitos <img src="/static/logos/Atromitos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lamia.png" height="25px"> Lamia</p> |
 | <p align="center">15:00</p> | <p align="right">Panetolikos <img src="/static/logos/Panetolikos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympiacos.png" height="25px"> Olympiacos</p> |
 | <p align="center">17:00</p> | <p align="right">AEK Athens <img src="/static/logos/AEK Athens.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PAS Giannina.png" height="25px"> PAS Giannina</p> |
@@ -225,7 +225,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Persik <img src="/static/logos/Persik.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Barito Putera.png" height="25px"> Barito Putera</p> |
-| <p align="center">74'</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persebaya Surabaya.png" height="25px"> Persebaya Surabaya</p> |
+| <p align="center">89'</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persebaya Surabaya.png" height="25px"> Persebaya Surabaya</p> |
 </div>
 
 
@@ -248,7 +248,7 @@
 | <p align="center">FT</p> | <p align="right">Tractor <img src="/static/logos/Tractor.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Esteghlal Khuzestan.png" height="25px"> Esteghlal Khuzestan</p> |
 | <p align="center">POS</p> | <p align="right">Aluminium Arak <img src="/static/logos/Aluminium Arak.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar SC</p> |
 | <p align="center">FT</p> | <p align="right">Shams Azar Qazvin <img src="/static/logos/Shams Azar Qazvin.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Mes Rafsanjan</p> |
-| <p align="center">90' 7'</p> | <p align="right">Paykan <img src="/static/logos/Paykan.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Sanat Naft Abadan.png" height="25px"> Sanat Naft Abadan</p> |
+| <p align="center">FT</p> | <p align="right">Paykan <img src="/static/logos/Paykan.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Sanat Naft Abadan.png" height="25px"> Sanat Naft Abadan</p> |
 | <p align="center">13:45</p> | <p align="right">Zob Ahan <img src="/static/logos/Zob Ahan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persepolis.png" height="25px"> Persepolis</p> |
 </div>
 
@@ -436,7 +436,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Binh Duong <img src="/static/logos/Binh Duong.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"> Hong Linh Ha Tinh</p> |
 | <p align="center">FT</p> | <p align="right">Nam Dinh <img src="/static/logos/Nam Dinh.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Ha Noi FC.png" height="25px"> Ha Noi FC</p> |
-| <p align="center">55'</p> | <p align="right">Ho Chi Minh City FC <img src="/static/logos/Ho Chi Minh City FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Binh Dinh.png" height="25px"> Binh Dinh</p> |
+| <p align="center">70'</p> | <p align="right">Ho Chi Minh City FC <img src="/static/logos/Ho Chi Minh City FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Binh Dinh.png" height="25px"> Binh Dinh</p> |
 </div>
 
 
