@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Tigres <img src="/static/logos/Tigres.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Juarez.png" height="25px"> FC Juarez</p> |
-| <p align="center">03:00</p> | <p align="right">Tijuana <img src="/static/logos/Tijuana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
+| <p align="center">75'</p> | <p align="right">Tijuana <img src="/static/logos/Tijuana.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
 </div>
 
 
@@ -77,7 +77,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Club Sport Herediano <img src="/static/logos/Club Sport Herediano.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AD Municipal Liberia.png" height="25px"> AD Municipal Liberia</p> |
+| <p align="center">FT</p> | <p align="right">Club Sport Herediano <img src="/static/logos/Club Sport Herediano.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AD Municipal Liberia.png" height="25px"> AD Municipal Liberia</p> |
 </div>
 
 
@@ -263,8 +263,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Busoga United FC <img src="/static/logos/Busoga United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gadaffi FC.png" height="25px"> Gadaffi FC</p> |
 | <p align="center">13:00</p> | <p align="right">URA FC <img src="/static/logos/URA FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maroons FC.png" height="25px"> Maroons FC</p> |
+| <p align="center">13:00</p> | <p align="right">Busoga United FC <img src="/static/logos/Busoga United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gadaffi FC.png" height="25px"> Gadaffi FC</p> |
 | <p align="center">16:00</p> | <p align="right">Vipers SC <img src="/static/logos/Vipers SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Soltilo Bright Stars FC.png" height="25px"> Soltilo Bright Stars FC</p> |
 </div>
 
