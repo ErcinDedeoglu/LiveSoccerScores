@@ -215,7 +215,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Canberra United FC.png" height="25px"> Canberra United FC</p> |
+| <p align="center">82'</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Canberra United FC.png" height="25px"> Canberra United FC</p> |
 </div>
 
 
@@ -344,8 +344,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:30</p> | <p align="right">Naft Maysan <img src="/static/logos/Naft Maysan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Naft.png" height="25px"> Al Naft</p> |
 | <p align="center">11:30</p> | <p align="right">Al Karkh <img src="/static/logos/Al Karkh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Najaf.png" height="25px"> Al Najaf</p> |
+| <p align="center">11:30</p> | <p align="right">Naft Maysan <img src="/static/logos/Naft Maysan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Naft.png" height="25px"> Al Naft</p> |
 | <p align="center">14:00</p> | <p align="right">Al Quwa Al Jawiya <img src="/static/logos/Al Quwa Al Jawiya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Naft Al-Basra.png" height="25px"> Naft Al-Basra</p> |
 | <p align="center">16:30</p> | <p align="right">Al-Qasim <img src="/static/logos/Al-Qasim.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Karbalaa.png" height="25px"> Karbalaa</p> |
 | <p align="center">18:00</p> | <p align="right">Al Kahrabaa <img src="/static/logos/Al Kahrabaa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Naft Al Wasat.png" height="25px"> Naft Al Wasat</p> |
@@ -441,10 +441,10 @@
 | <p align="center">19:00</p> | <p align="right">ADO Den Haag <img src="/static/logos/ADO Den Haag.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jong Ajax.png" height="25px"> Jong Ajax</p> |
 | <p align="center">19:00</p> | <p align="right">Helmond Sport <img src="/static/logos/Helmond Sport.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/VVV-Venlo.png" height="25px"> VVV-Venlo</p> |
 | <p align="center">19:00</p> | <p align="right">Telstar <img src="/static/logos/Telstar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Roda JC Kerkrade.png" height="25px"> Roda JC Kerkrade</p> |
-| <p align="center">19:00</p> | <p align="right">MVV Maastricht <img src="/static/logos/MVV Maastricht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
-| <p align="center">19:00</p> | <p align="right">De Graafschap <img src="/static/logos/De Graafschap.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TOP Oss.png" height="25px"> TOP Oss</p> |
 | <p align="center">19:00</p> | <p align="right">FC Eindhoven <img src="/static/logos/FC Eindhoven.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jong AZ Alkmaar.png" height="25px"> Jong AZ Alkmaar</p> |
 | <p align="center">19:00</p> | <p align="right">FC Emmen <img src="/static/logos/FC Emmen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Willem II.png" height="25px"> Willem II</p> |
+| <p align="center">19:00</p> | <p align="right">De Graafschap <img src="/static/logos/De Graafschap.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TOP Oss.png" height="25px"> TOP Oss</p> |
+| <p align="center">19:00</p> | <p align="right">MVV Maastricht <img src="/static/logos/MVV Maastricht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
 </div>
 
 
@@ -561,7 +561,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
+| <p align="center">FT</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
 | <p align="center">07:30</p> | <p align="right">Jeonbuk Hyundai Motors FC <img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Daejeon Hana Citizen.png" height="25px"> Daejeon Hana Citizen</p> |
 </div>
 
