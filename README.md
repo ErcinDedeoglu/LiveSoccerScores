@@ -195,7 +195,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Egnatia <img src="/static/logos/Egnatia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Dinamo City.png" height="25px"> FC Dinamo City</p> |
 | <p align="center">FT</p> | <p align="right">Laci <img src="/static/logos/Laci.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Skenderbeu.png" height="25px"> Skenderbeu</p> |
-| <p align="center">37'</p> | <p align="right">Partizani <img src="/static/logos/Partizani.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kukesi.png" height="25px"> Kukesi</p> |
+| <p align="center">HT</p> | <p align="right">Partizani <img src="/static/logos/Partizani.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kukesi.png" height="25px"> Kukesi</p> |
 </div>
 
 
@@ -205,7 +205,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
+| <p align="center">90' 3'</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
 </div>
 
 
@@ -343,8 +343,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Al Ahly SC <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Young Africans.png" height="25px"> Young Africans</p> |
-| <p align="center">36'</p> | <p align="right">CR Belouizdad <img src="/static/logos/CR Belouizdad.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Medeama SC.png" height="25px"> Medeama SC</p> |
+| <p align="center">HT</p> | <p align="right">Al Ahly SC <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Young Africans.png" height="25px"> Young Africans</p> |
+| <p align="center">HT</p> | <p align="right">CR Belouizdad <img src="/static/logos/CR Belouizdad.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Medeama SC.png" height="25px"> Medeama SC</p> |
 </div>
 
 
@@ -506,8 +506,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Al-Duhail SC <img src="/static/logos/Al-Duhail SC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Al-Gharafa.png" height="25px"> Al-Gharafa</p> |
-| <p align="center">72'</p> | <p align="right">Al-Sadd <img src="/static/logos/Al-Sadd.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Qatar SC.png" height="25px"> Qatar SC</p> |
+| <p align="center">90' 6'</p> | <p align="right">Al-Duhail SC <img src="/static/logos/Al-Duhail SC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Al-Gharafa.png" height="25px"> Al-Gharafa</p> |
+| <p align="center">90'</p> | <p align="right">Al-Sadd <img src="/static/logos/Al-Sadd.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Qatar SC.png" height="25px"> Qatar SC</p> |
 | <p align="center">17:00</p> | <p align="right">Al-Arabi <img src="/static/logos/Al-Arabi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Rayyan.png" height="25px"> Al-Rayyan</p> |
 </div>
 
@@ -618,7 +618,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ajman <img src="/static/logos/Ajman.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Emirates Club.png" height="25px"> Emirates Club</p> |
-| <p align="center">22'</p> | <p align="right">Al-Wasl <img src="/static/logos/Al-Wasl.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sharjah Cultural Club.png" height="25px"> Sharjah Cultural Club</p> |
+| <p align="center">40'</p> | <p align="right">Al-Wasl <img src="/static/logos/Al-Wasl.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sharjah Cultural Club.png" height="25px"> Sharjah Cultural Club</p> |
 </div>
 
 
