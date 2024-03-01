@@ -150,7 +150,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">41'</p> | <p align="right">Macarthur FC <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City FC</p> |
+| <p align="center">52'</p> | <p align="right">Macarthur FC <img src="/static/logos/Macarthur FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City FC</p> |
 </div>
 
 
@@ -170,8 +170,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">6'</p> | <p align="right">Yokohama F.Marinos <img src="/static/logos/Yokohama F.Marinos.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa Fukuoka</p> |
-| <p align="center">6'</p> | <p align="right">Kawasaki Frontale <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jubilo Iwata.png" height="25px"> Jubilo Iwata</p> |
+| <p align="center">34'</p> | <p align="right">Yokohama F.Marinos <img src="/static/logos/Yokohama F.Marinos.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa Fukuoka</p> |
+| <p align="center">34'</p> | <p align="right">Kawasaki Frontale <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Jubilo Iwata.png" height="25px"> Jubilo Iwata</p> |
 </div>
 
 
@@ -291,8 +291,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:30</p> | <p align="right">Schalke 04 <img src="/static/logos/Schalke 04.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Pauli.png" height="25px"> St. Pauli</p> |
 | <p align="center">17:30</p> | <p align="right">Hertha Berlin <img src="/static/logos/Hertha Berlin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Holstein Kiel.png" height="25px"> Holstein Kiel</p> |
+| <p align="center">17:30</p> | <p align="right">Schalke 04 <img src="/static/logos/Schalke 04.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Pauli.png" height="25px"> St. Pauli</p> |
 </div>
 
 
@@ -451,10 +451,10 @@
 | <p align="center">19:00</p> | <p align="right">ADO Den Haag <img src="/static/logos/ADO Den Haag.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jong Ajax.png" height="25px"> Jong Ajax</p> |
 | <p align="center">19:00</p> | <p align="right">Helmond Sport <img src="/static/logos/Helmond Sport.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/VVV-Venlo.png" height="25px"> VVV-Venlo</p> |
 | <p align="center">19:00</p> | <p align="right">FC Eindhoven <img src="/static/logos/FC Eindhoven.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jong AZ Alkmaar.png" height="25px"> Jong AZ Alkmaar</p> |
-| <p align="center">19:00</p> | <p align="right">MVV Maastricht <img src="/static/logos/MVV Maastricht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
-| <p align="center">19:00</p> | <p align="right">Telstar <img src="/static/logos/Telstar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Roda JC Kerkrade.png" height="25px"> Roda JC Kerkrade</p> |
 | <p align="center">19:00</p> | <p align="right">FC Emmen <img src="/static/logos/FC Emmen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Willem II.png" height="25px"> Willem II</p> |
+| <p align="center">19:00</p> | <p align="right">Telstar <img src="/static/logos/Telstar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Roda JC Kerkrade.png" height="25px"> Roda JC Kerkrade</p> |
 | <p align="center">19:00</p> | <p align="right">De Graafschap <img src="/static/logos/De Graafschap.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TOP Oss.png" height="25px"> TOP Oss</p> |
+| <p align="center">19:00</p> | <p align="right">MVV Maastricht <img src="/static/logos/MVV Maastricht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
 </div>
 
 
@@ -506,8 +506,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Al-Duhail SC <img src="/static/logos/Al-Duhail SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Gharafa.png" height="25px"> Al-Gharafa</p> |
 | <p align="center">15:00</p> | <p align="right">Al-Sadd <img src="/static/logos/Al-Sadd.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qatar SC.png" height="25px"> Qatar SC</p> |
+| <p align="center">15:00</p> | <p align="right">Al-Duhail SC <img src="/static/logos/Al-Duhail SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Gharafa.png" height="25px"> Al-Gharafa</p> |
 | <p align="center">17:00</p> | <p align="right">Al-Arabi <img src="/static/logos/Al-Arabi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Rayyan.png" height="25px"> Al-Rayyan</p> |
 </div>
 
