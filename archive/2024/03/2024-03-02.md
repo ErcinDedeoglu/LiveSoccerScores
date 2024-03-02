@@ -219,7 +219,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Perth Glory.png" height="25px"> Perth Glory</p> |
 | <p align="center">FT</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
-| <p align="center">HT</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
+| <p align="center">52'</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
 </div>
 
 
@@ -554,8 +554,8 @@
 | <p align="center">15:00</p> | <p align="right">Stratford Town <img src="/static/logos/Stratford Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Berkhamsted.png" height="25px"> Berkhamsted</p> |
 | <p align="center">15:00</p> | <p align="right">Lancaster City <img src="/static/logos/Lancaster City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Basford United.png" height="25px"> Basford United</p> |
 | <p align="center">15:00</p> | <p align="right">Kingstonian <img src="/static/logos/Kingstonian.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dulwich Hamlet.png" height="25px"> Dulwich Hamlet</p> |
-| <p align="center">15:00</p> | <p align="right">Stourbridge <img src="/static/logos/Stourbridge.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leamington.png" height="25px"> Leamington</p> |
-| <p align="center">15:00</p> | <p align="right">Sholing <img src="/static/logos/Sholing.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorchester Town.png" height="25px"> Dorchester Town</p> |
+| <p align="center">POS</p> | <p align="right">Stourbridge <img src="/static/logos/Stourbridge.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Leamington.png" height="25px"> Leamington</p> |
+| <p align="center">POS</p> | <p align="right">Sholing <img src="/static/logos/Sholing.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Dorchester Town.png" height="25px"> Dorchester Town</p> |
 | <p align="center">15:00</p> | <p align="right">Walton and Hersham <img src="/static/logos/Walton and Hersham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hanwell Town.png" height="25px"> Hanwell Town</p> |
 | <p align="center">15:00</p> | <p align="right">Bracknell Town <img src="/static/logos/Bracknell Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Harrow Borough.png" height="25px"> Harrow Borough</p> |
 | <p align="center">15:00</p> | <p align="right">Margate <img src="/static/logos/Margate.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Horsham.png" height="25px"> Horsham</p> |
@@ -587,9 +587,9 @@
 | <p align="center">15:00</p> | <p align="right">Radcliffe <img src="/static/logos/Radcliffe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Morpeth Town FC.png" height="25px"> Morpeth Town FC</p> |
 | <p align="center">15:00</p> | <p align="right">Potters Bar Town <img src="/static/logos/Potters Bar Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Haringey Borough.png" height="25px"> Haringey Borough</p> |
 | <p align="center">15:00</p> | <p align="right">Plymouth Parkway <img src="/static/logos/Plymouth Parkway.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Salisbury.png" height="25px"> Salisbury</p> |
-| <p align="center">15:00</p> | <p align="right">Hayes & Yeading United <img src="/static/logos/Hayes & Yeading United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Basingstoke.png" height="25px"> Basingstoke</p> |
+| <p align="center">POS</p> | <p align="right">Hayes & Yeading United <img src="/static/logos/Hayes & Yeading United.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Basingstoke.png" height="25px"> Basingstoke</p> |
 | <p align="center">15:00</p> | <p align="right">Barwell FC <img src="/static/logos/Barwell FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Halesowen.png" height="25px"> Halesowen</p> |
-| <p align="center">15:00</p> | <p align="right">Kettering Town FC <img src="/static/logos/Kettering Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leiston.png" height="25px"> Leiston</p> |
+| <p align="center">POS</p> | <p align="right">Kettering Town FC <img src="/static/logos/Kettering Town FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Leiston.png" height="25px"> Leiston</p> |
 | <p align="center">15:00</p> | <p align="right">AFC Sudbury <img src="/static/logos/AFC Sudbury.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hitchin Town.png" height="25px"> Hitchin Town</p> |
 | <p align="center">15:00</p> | <p align="right">Lewes <img src="/static/logos/Lewes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canvey.png" height="25px"> Canvey</p> |
 | <p align="center">15:00</p> | <p align="right">Gainsborough <img src="/static/logos/Gainsborough.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Whitby.png" height="25px"> Whitby</p> |
@@ -712,7 +712,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
+| <p align="center">FT</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
 | <p align="center">12:00</p> | <p align="right">Persija Jakarta <img src="/static/logos/Persija Jakarta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dewa United FC.png" height="25px"> Dewa United FC</p> |
 </div>
 
