@@ -205,7 +205,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">Ankaragucu <img src="/static/logos/Ankaragucu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Istanbulspor.png" height="25px"> Istanbulspor</p> |
+| <p align="center">13'</p> | <p align="right">Ankaragucu <img src="/static/logos/Ankaragucu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Istanbulspor.png" height="25px"> Istanbulspor</p> |
 | <p align="center">13:00</p> | <p align="right">Rizespor <img src="/static/logos/Rizespor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kayserispor.png" height="25px"> Kayserispor</p> |
 | <p align="center">16:00</p> | <p align="right">Hatayspor <img src="/static/logos/Hatayspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
 </div>
@@ -219,7 +219,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Perth Glory.png" height="25px"> Perth Glory</p> |
 | <p align="center">FT</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
-| <p align="center">88'</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
+| <p align="center">FT</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
 </div>
 
 
@@ -589,7 +589,7 @@
 | <p align="center">POS</p> | <p align="right">Guiseley <img src="/static/logos/Guiseley.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Worksop.png" height="25px"> Worksop</p> |
 | <p align="center">15:00</p> | <p align="right">Billericay <img src="/static/logos/Billericay.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hashtag United.png" height="25px"> Hashtag United</p> |
 | <p align="center">15:00</p> | <p align="right">Needham Market <img src="/static/logos/Needham Market.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stamford AFC.png" height="25px"> Stamford AFC</p> |
-| <p align="center">15:00</p> | <p align="right">Alvechurch <img src="/static/logos/Alvechurch.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Telford.png" height="25px"> Telford</p> |
+| <p align="center">POS</p> | <p align="right">Alvechurch <img src="/static/logos/Alvechurch.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Telford.png" height="25px"> Telford</p> |
 | <p align="center">15:00</p> | <p align="right">AFC Sudbury <img src="/static/logos/AFC Sudbury.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hitchin Town.png" height="25px"> Hitchin Town</p> |
 | <p align="center">15:00</p> | <p align="right">Lewes <img src="/static/logos/Lewes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canvey.png" height="25px"> Canvey</p> |
 | <p align="center">15:00</p> | <p align="right">Gainsborough <img src="/static/logos/Gainsborough.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Whitby.png" height="25px"> Whitby</p> |
@@ -1274,8 +1274,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">6'</p> | <p align="right">Tuzlaspor <img src="/static/logos/Tuzlaspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Keciorengucu.png" height="25px"> Keciorengucu</p> |
-| <p align="center">6'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Eyupspor.png" height="25px"> Eyupspor</p> |
+| <p align="center">14'</p> | <p align="right">Tuzlaspor <img src="/static/logos/Tuzlaspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Keciorengucu.png" height="25px"> Keciorengucu</p> |
+| <p align="center">14'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Eyupspor.png" height="25px"> Eyupspor</p> |
 | <p align="center">13:00</p> | <p align="right">Erzurumspor FK <img src="/static/logos/Erzurumspor FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kocaelispor.png" height="25px"> Kocaelispor</p> |
 | <p align="center">16:00</p> | <p align="right">Sakaryaspor <img src="/static/logos/Sakaryaspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Manisa Futbol Kulubu.png" height="25px"> Manisa Futbol Kulubu</p> |
 </div>
