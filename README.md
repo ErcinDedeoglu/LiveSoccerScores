@@ -97,7 +97,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Queretaro FC <img src="/static/logos/Queretaro FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Santos Laguna.png" height="25px"> Santos Laguna</p> |
 | <p align="center">FT</p> | <p align="right">Atletico de San Luis <img src="/static/logos/Atletico de San Luis.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
-| <p align="center">03:00</p> | <p align="right">Mazatlan FC <img src="/static/logos/Mazatlan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
+| <p align="center">7'</p> | <p align="right">Mazatlan FC <img src="/static/logos/Mazatlan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
 | <p align="center">23:00</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tigres.png" height="25px"> Tigres</p> |
 </div>
 
@@ -180,7 +180,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Deportivo Cali <img src="/static/logos/Deportivo Cali.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Once Caldas.png" height="25px"> Once Caldas</p> |
+| <p align="center">90' 5'</p> | <p align="right">Deportivo Cali <img src="/static/logos/Deportivo Cali.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Once Caldas.png" height="25px"> Once Caldas</p> |
 | <p align="center">21:00</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/La Equidad.png" height="25px"> La Equidad</p> |
 | <p align="center">23:10</p> | <p align="right">Deportivo Pereira <img src="/static/logos/Deportivo Pereira.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/America de Cali.png" height="25px"> America de Cali</p> |
 </div>
