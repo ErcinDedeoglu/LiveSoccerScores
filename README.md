@@ -219,7 +219,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Perth Glory.png" height="25px"> Perth Glory</p> |
 | <p align="center">FT</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
-| <p align="center">45'</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
+| <p align="center">HT</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
 </div>
 
 
@@ -484,7 +484,7 @@
 | <p align="center">POS</p> | <p align="right">Crawley Town <img src="/static/logos/Crawley Town.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Barrow.png" height="25px"> Barrow</p> |
 | <p align="center">15:00</p> | <p align="right">Swindon Town <img src="/static/logos/Swindon Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Harrogate Town.png" height="25px"> Harrogate Town</p> |
 | <p align="center">15:00</p> | <p align="right">Grimsby Town <img src="/static/logos/Grimsby Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Forest Green Rovers.png" height="25px"> Forest Green Rovers</p> |
-| <p align="center">15:00</p> | <p align="right">Colchester United <img src="/static/logos/Colchester United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stockport County.png" height="25px"> Stockport County</p> |
+| <p align="center">POS</p> | <p align="right">Colchester United <img src="/static/logos/Colchester United.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Stockport County.png" height="25px"> Stockport County</p> |
 | <p align="center">15:00</p> | <p align="right">Bradford City <img src="/static/logos/Bradford City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Notts County.png" height="25px"> Notts County</p> |
 </div>
 
@@ -712,7 +712,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
+| <p align="center">82'</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
 | <p align="center">12:00</p> | <p align="right">Persija Jakarta <img src="/static/logos/Persija Jakarta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dewa United FC.png" height="25px"> Dewa United FC</p> |
 </div>
 
@@ -1186,7 +1186,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gwangju FC <img src="/static/logos/Gwangju FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Seoul.png" height="25px"> FC Seoul</p> |
-| <p align="center">90' 7'</p> | <p align="right">Gangwon FC <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
+| <p align="center">FT</p> | <p align="right">Gangwon FC <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
 | <p align="center">FT</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
 </div>
 
