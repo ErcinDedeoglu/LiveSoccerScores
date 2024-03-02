@@ -219,7 +219,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Perth Glory.png" height="25px"> Perth Glory</p> |
 | <p align="center">FT</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
-| <p align="center">73'</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
+| <p align="center">80'</p> | <p align="right">Western Sydney Wanderers FC <img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
 </div>
 
 
@@ -582,11 +582,11 @@
 | <p align="center">15:00</p> | <p align="right">Bradford PA <img src="/static/logos/Bradford PA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stafford Rangers.png" height="25px"> Stafford Rangers</p> |
 | <p align="center">15:00</p> | <p align="right">FC United of Manchester <img src="/static/logos/FC United of Manchester.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Workington.png" height="25px"> Workington</p> |
 | <p align="center">POS</p> | <p align="right">Kettering Town FC <img src="/static/logos/Kettering Town FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Leiston.png" height="25px"> Leiston</p> |
-| <p align="center">15:00</p> | <p align="right">Concord Rangers <img src="/static/logos/Concord Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bognor Regis Town.png" height="25px"> Bognor Regis Town</p> |
+| <p align="center">POS</p> | <p align="right">Concord Rangers <img src="/static/logos/Concord Rangers.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Bognor Regis Town.png" height="25px"> Bognor Regis Town</p> |
 | <p align="center">15:00</p> | <p align="right">Radcliffe <img src="/static/logos/Radcliffe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Morpeth Town FC.png" height="25px"> Morpeth Town FC</p> |
 | <p align="center">15:00</p> | <p align="right">Potters Bar Town <img src="/static/logos/Potters Bar Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Haringey Borough.png" height="25px"> Haringey Borough</p> |
 | <p align="center">15:00</p> | <p align="right">Hornchurch <img src="/static/logos/Hornchurch.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cray Wanderers.png" height="25px"> Cray Wanderers</p> |
-| <p align="center">15:00</p> | <p align="right">Guiseley <img src="/static/logos/Guiseley.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Worksop.png" height="25px"> Worksop</p> |
+| <p align="center">POS</p> | <p align="right">Guiseley <img src="/static/logos/Guiseley.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Worksop.png" height="25px"> Worksop</p> |
 | <p align="center">15:00</p> | <p align="right">Billericay <img src="/static/logos/Billericay.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hashtag United.png" height="25px"> Hashtag United</p> |
 | <p align="center">15:00</p> | <p align="right">Needham Market <img src="/static/logos/Needham Market.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stamford AFC.png" height="25px"> Stamford AFC</p> |
 | <p align="center">15:00</p> | <p align="right">Alvechurch <img src="/static/logos/Alvechurch.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Telford.png" height="25px"> Telford</p> |
