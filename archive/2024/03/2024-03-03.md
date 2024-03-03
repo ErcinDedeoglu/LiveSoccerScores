@@ -230,7 +230,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Urawa Red Diamonds <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tokyo Verdy.png" height="25px"> Tokyo Verdy</p> |
+| <p align="center">81'</p> | <p align="right">Urawa Red Diamonds <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tokyo Verdy.png" height="25px"> Tokyo Verdy</p> |
 </div>
 
 
@@ -529,7 +529,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Persebaya Surabaya <img src="/static/logos/Persebaya Surabaya.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
+| <p align="center">43'</p> | <p align="right">Persebaya Surabaya <img src="/static/logos/Persebaya Surabaya.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
 | <p align="center">12:00</p> | <p align="right">RANS Nusantara <img src="/static/logos/RANS Nusantara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persib Bandung.png" height="25px"> Persib Bandung</p> |
 | <p align="center">12:00</p> | <p align="right">PSIS <img src="/static/logos/PSIS.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persik.png" height="25px"> Persik</p> |
 </div>
