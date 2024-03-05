@@ -173,7 +173,7 @@
 | <p align="center">19:45</p> | <p align="right">Darlington <img src="/static/logos/Darlington.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scunthorpe United.png" height="25px"> Scunthorpe United</p> |
 | <p align="center">19:45</p> | <p align="right">Maidstone United <img src="/static/logos/Maidstone United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bath City.png" height="25px"> Bath City</p> |
 | <p align="center">19:45</p> | <p align="right">Peterborough Sports <img src="/static/logos/Peterborough Sports.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hereford.png" height="25px"> Hereford</p> |
-| <p align="center">19:45</p> | <p align="right">Taunton Town <img src="/static/logos/Taunton Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slough Town.png" height="25px"> Slough Town</p> |
+| <p align="center">POS</p> | <p align="right">Taunton Town <img src="/static/logos/Taunton Town.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Slough Town.png" height="25px"> Slough Town</p> |
 </div>
 
 
