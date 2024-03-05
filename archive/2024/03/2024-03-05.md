@@ -110,7 +110,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Tala'ea El Gaish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
+| <p align="center">4'</p> | <p align="right">Tala'ea El Gaish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
 | <p align="center">17:00</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha SC</p> |
 </div>
 
@@ -204,8 +204,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">24'</p> | <p align="right">Blackburn Rovers U18 <img src="/static/logos/Blackburn Rovers U18.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Everton U18.png" height="25px"> Everton U18</p> |
-| <p align="center">13:30</p> | <p align="right">Norwich City U18 <img src="/static/logos/Norwich City U18.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Ham United U18.png" height="25px"> West Ham United U18</p> |
+| <p align="center">51'</p> | <p align="right">Blackburn Rovers U18 <img src="/static/logos/Blackburn Rovers U18.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Everton U18.png" height="25px"> Everton U18</p> |
+| <p align="center">25'</p> | <p align="right">Norwich City U18 <img src="/static/logos/Norwich City U18.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/West Ham United U18.png" height="25px"> West Ham United U18</p> |
 </div>
 
 
@@ -215,7 +215,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:30</p> | <p align="right">Amanat Baghdad <img src="/static/logos/Amanat Baghdad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Minaa.png" height="25px"> Al Minaa</p> |
+| <p align="center">FT</p> | <p align="right">Amanat Baghdad <img src="/static/logos/Amanat Baghdad.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Minaa.png" height="25px"> Al Minaa</p> |
 | <p align="center">14:00</p> | <p align="right">Karbalaa <img src="/static/logos/Karbalaa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zakho.png" height="25px"> Zakho</p> |
 | <p align="center">14:00</p> | <p align="right">Duhok <img src="/static/logos/Duhok.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Kahrabaa.png" height="25px"> Al Kahrabaa</p> |
 | <p align="center">16:30</p> | <p align="right">Al Najaf <img src="/static/logos/Al Najaf.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newroz.png" height="25px"> Newroz</p> |
