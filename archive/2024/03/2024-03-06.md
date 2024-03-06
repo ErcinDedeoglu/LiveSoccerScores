@@ -95,7 +95,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">Celaya <img src="/static/logos/Celaya.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Venados FC.png" height="25px"> Venados FC</p> |
+| <p align="center">FT</p> | <p align="right">Celaya <img src="/static/logos/Celaya.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Venados FC.png" height="25px"> Venados FC</p> |
 </div>
 
 
