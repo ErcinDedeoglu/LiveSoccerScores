@@ -300,7 +300,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Qatar SC <img src="/static/logos/Qatar SC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Al-Arabi.png" height="25px"> Al-Arabi</p> |
+| <p align="center">69'</p> | <p align="right">Qatar SC <img src="/static/logos/Qatar SC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Al-Arabi.png" height="25px"> Al-Arabi</p> |
 | <p align="center">17:00</p> | <p align="right">Al-Gharafa <img src="/static/logos/Al-Gharafa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Sadd.png" height="25px"> Al-Sadd</p> |
 | <p align="center">17:00</p> | <p align="right">Al-Rayyan <img src="/static/logos/Al-Rayyan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Wakrah.png" height="25px"> Al-Wakrah</p> |
 </div>
@@ -351,8 +351,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10'</p> | <p align="right">US Monastir <img src="/static/logos/US Monastir.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Etoile du Sahel.png" height="25px"> Etoile du Sahel</p> |
-| <p align="center">18'</p> | <p align="right">CS Sfaxien <img src="/static/logos/CS Sfaxien.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Africain.png" height="25px"> Club Africain</p> |
+| <p align="center">21'</p> | <p align="right">US Monastir <img src="/static/logos/US Monastir.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Etoile du Sahel.png" height="25px"> Etoile du Sahel</p> |
+| <p align="center">29'</p> | <p align="right">CS Sfaxien <img src="/static/logos/CS Sfaxien.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Africain.png" height="25px"> Club Africain</p> |
 </div>
 
 
