@@ -16,9 +16,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">17:45</p> | <p align="right">Roma <img src="/static/logos/Roma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brighton & Hove Albion.png" height="25px"> Brighton & Hove Albion</p> |
 | <p align="center">17:45</p> | <p align="right">Sparta Prague <img src="/static/logos/Sparta Prague.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liverpool.png" height="25px"> Liverpool</p> |
 | <p align="center">17:45</p> | <p align="right">Qarabag FK <img src="/static/logos/Qarabag FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bayer Leverkusen.png" height="25px"> Bayer Leverkusen</p> |
-| <p align="center">17:45</p> | <p align="right">Roma <img src="/static/logos/Roma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brighton & Hove Albion.png" height="25px"> Brighton & Hove Albion</p> |
 | <p align="center">20:00</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers.png" height="25px"> Rangers</p> |
 | <p align="center">20:00</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Villarreal.png" height="25px"> Villarreal</p> |
 | <p align="center">20:00</p> | <p align="right">AC Milan <img src="/static/logos/AC Milan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slavia Prague.png" height="25px"> Slavia Prague</p> |
@@ -38,8 +38,8 @@
 | <p align="center">17:45</p> | <p align="right">Olympiacos <img src="/static/logos/Olympiacos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv.png" height="25px"> Maccabi Tel Aviv</p> |
 | <p align="center">20:00</p> | <p align="right">Dinamo Zagreb <img src="/static/logos/Dinamo Zagreb.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PAOK Thessaloniki FC.png" height="25px"> PAOK Thessaloniki FC</p> |
 | <p align="center">20:00</p> | <p align="right">Maccabi Haifa <img src="/static/logos/Maccabi Haifa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fiorentina.png" height="25px"> Fiorentina</p> |
-| <p align="center">20:00</p> | <p align="right">Servette <img src="/static/logos/Servette.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Viktoria Plzen.png" height="25px"> Viktoria Plzen</p> |
 | <p align="center">20:00</p> | <p align="right">Union St.Gilloise <img src="/static/logos/Union St.Gilloise.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
+| <p align="center">20:00</p> | <p align="right">Servette <img src="/static/logos/Servette.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Viktoria Plzen.png" height="25px"> Viktoria Plzen</p> |
 </div>
 
 
@@ -157,7 +157,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:00</p> | <p align="right">Dewa United FC <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
+| <p align="center">27'</p> | <p align="right">Dewa United FC <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
 | <p align="center">12:00</p> | <p align="right">Borneo Samarinda <img src="/static/logos/Borneo Samarinda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persebaya Surabaya.png" height="25px"> Persebaya Surabaya</p> |
 </div>
 
@@ -168,7 +168,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:00</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Odisha FC.png" height="25px"> Odisha FC</p> |
+| <p align="center">27'</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Odisha FC.png" height="25px"> Odisha FC</p> |
 </div>
 
 
@@ -202,16 +202,6 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">17:30</p> | <p align="right">Monterosi <img src="/static/logos/Monterosi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sorrento.png" height="25px"> Sorrento</p> |
 | <p align="center">19:30</p> | <p align="right">Potenza <img src="/static/logos/Potenza.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Benevento.png" height="25px"> Benevento</p> |
-</div>
-
-
-## <img src="/static/logos/Jamaica-Premier League.png" height="25px"> Jamaica - Premier League
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:00</p> | <p align="right">Arnett Gardens <img src="/static/logos/Arnett Gardens.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cavalier SC.png" height="25px"> Cavalier SC</p> |
 </div>
 
 
