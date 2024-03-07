@@ -147,7 +147,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Northeast United FC <img src="/static/logos/Northeast United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Punjab FC.png" height="25px"> Punjab FC</p> |
+| <p align="center">7'</p> | <p align="right">Northeast United FC <img src="/static/logos/Northeast United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Punjab FC.png" height="25px"> Punjab FC</p> |
 </div>
 
 
@@ -158,7 +158,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Dewa United FC <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
-| <p align="center">90' 10'</p> | <p align="right">Borneo Samarinda <img src="/static/logos/Borneo Samarinda.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Persebaya Surabaya.png" height="25px"> Persebaya Surabaya</p> |
+| <p align="center">FT</p> | <p align="right">Borneo Samarinda <img src="/static/logos/Borneo Samarinda.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Persebaya Surabaya.png" height="25px"> Persebaya Surabaya</p> |
 </div>
 
 
@@ -178,8 +178,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">7'</p> | <p align="right">Havadar SC <img src="/static/logos/Havadar SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Zob Ahan.png" height="25px"> Zob Ahan</p> |
-| <p align="center">14:00</p> | <p align="right">Malavan <img src="/static/logos/Malavan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gol Gohar.png" height="25px"> Gol Gohar</p> |
+| <p align="center">16'</p> | <p align="right">Havadar SC <img src="/static/logos/Havadar SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Zob Ahan.png" height="25px"> Zob Ahan</p> |
+| <p align="center">8'</p> | <p align="right">Malavan <img src="/static/logos/Malavan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gol Gohar.png" height="25px"> Gol Gohar</p> |
 | <p align="center">14:10</p> | <p align="right">Sanat Naft Abadan <img src="/static/logos/Sanat Naft Abadan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
 </div>
 
@@ -254,7 +254,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Al Shabab <img src="/static/logos/Al Shabab.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Fayha.png" height="25px"> Al-Fayha</p> |
+| <p align="center">8'</p> | <p align="right">Al Shabab <img src="/static/logos/Al Shabab.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al-Fayha.png" height="25px"> Al-Fayha</p> |
 | <p align="center">17:00</p> | <p align="right">Al Nassr FC <img src="/static/logos/Al Nassr FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Raed.png" height="25px"> Al-Raed</p> |
 </div>
 
