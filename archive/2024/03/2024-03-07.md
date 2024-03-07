@@ -180,7 +180,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">HT</p> | <p align="right">Havadar SC <img src="/static/logos/Havadar SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Zob Ahan.png" height="25px"> Zob Ahan</p> |
 | <p align="center">HT</p> | <p align="right">Malavan <img src="/static/logos/Malavan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gol Gohar.png" height="25px"> Gol Gohar</p> |
-| <p align="center">35'</p> | <p align="right">Sanat Naft Abadan <img src="/static/logos/Sanat Naft Abadan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
+| <p align="center">43'</p> | <p align="right">Sanat Naft Abadan <img src="/static/logos/Sanat Naft Abadan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
 </div>
 
 
