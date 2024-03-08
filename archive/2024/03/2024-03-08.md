@@ -119,7 +119,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Galatasaray <img src="/static/logos/Galatasaray.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rizespor.png" height="25px"> Rizespor</p> |
+| <p align="center">1'</p> | <p align="right">Galatasaray <img src="/static/logos/Galatasaray.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rizespor.png" height="25px"> Rizespor</p> |
 </div>
 
 
@@ -336,7 +336,7 @@
 | <p align="center">FT</p> | <p align="right">Shams Azar Qazvin <img src="/static/logos/Shams Azar Qazvin.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Aluminium Arak.png" height="25px"> Aluminium Arak</p> |
 | <p align="center">FT</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Paykan.png" height="25px"> Paykan</p> |
 | <p align="center">FT</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Foolad Khouzestan.png" height="25px"> Foolad Khouzestan</p> |
-| <p align="center">13'</p> | <p align="right">Esteghlal Khuzestan <img src="/static/logos/Esteghlal Khuzestan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Esteghlal.png" height="25px"> Esteghlal</p> |
+| <p align="center">44'</p> | <p align="right">Esteghlal Khuzestan <img src="/static/logos/Esteghlal Khuzestan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Esteghlal.png" height="25px"> Esteghlal</p> |
 </div>
 
 
@@ -477,7 +477,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:30</p> | <p align="right">Bendel Insurance <img src="/static/logos/Bendel Insurance.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gombe United.png" height="25px"> Gombe United</p> |
+| <p align="center">31'</p> | <p align="right">Bendel Insurance <img src="/static/logos/Bendel Insurance.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gombe United.png" height="25px"> Gombe United</p> |
 </div>
 
 
@@ -498,7 +498,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Znicz Pruszkow <img src="/static/logos/Znicz Pruszkow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Termalica Nieciecza.png" height="25px"> Termalica Nieciecza</p> |
+| <p align="center">2'</p> | <p align="right">Znicz Pruszkow <img src="/static/logos/Znicz Pruszkow.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Termalica Nieciecza.png" height="25px"> Termalica Nieciecza</p> |
 | <p align="center">19:30</p> | <p align="right">Arka Gdynia <img src="/static/logos/Arka Gdynia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
 </div>
 
@@ -509,7 +509,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Polonia Bytom <img src="/static/logos/Polonia Bytom.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/GKS Jastrzebie.png" height="25px"> GKS Jastrzebie</p> |
+| <p align="center">1'</p> | <p align="right">Polonia Bytom <img src="/static/logos/Polonia Bytom.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/GKS Jastrzebie.png" height="25px"> GKS Jastrzebie</p> |
 </div>
 
 
@@ -521,7 +521,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al Taee <img src="/static/logos/Al Taee.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Hazem.png" height="25px"> Al Hazem</p> |
 | <p align="center">FT</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
-| <p align="center">17:00</p> | <p align="right">Al Ittihad <img src="/static/logos/Al Ittihad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Akhdoud.png" height="25px"> Al Akhdoud</p> |
+| <p align="center">2'</p> | <p align="right">Al Ittihad <img src="/static/logos/Al Ittihad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Akhdoud.png" height="25px"> Al Akhdoud</p> |
 </div>
 
 
@@ -565,7 +565,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Namungo FC <img src="/static/logos/Namungo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Young Africans.png" height="25px"> Young Africans</p> |
+| <p align="center">FT</p> | <p align="right">Namungo FC <img src="/static/logos/Namungo FC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Young Africans.png" height="25px"> Young Africans</p> |
 </div>
 
 
@@ -595,7 +595,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Boluspor <img src="/static/logos/Boluspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Giresunspor.png" height="25px"> Giresunspor</p> |
+| <p align="center">2'</p> | <p align="right">Boluspor <img src="/static/logos/Boluspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Giresunspor.png" height="25px"> Giresunspor</p> |
 </div>
 
 
