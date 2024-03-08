@@ -109,7 +109,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Rionegro Aguilas <img src="/static/logos/Rionegro Aguilas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
+| <p align="center">45'</p> | <p align="right">Rionegro Aguilas <img src="/static/logos/Rionegro Aguilas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
 </div>
 
 
@@ -159,7 +159,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20'</p> | <p align="right">Excursionistas <img src="/static/logos/Excursionistas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dock Sud.png" height="25px"> Dock Sud</p> |
+| <p align="center">HT</p> | <p align="right">Excursionistas <img src="/static/logos/Excursionistas.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Dock Sud.png" height="25px"> Dock Sud</p> |
 </div>
 
 
@@ -436,7 +436,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:45</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
+| <p align="center">FT</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
 | <p align="center">23:00</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pumas UNAM.png" height="25px"> Pumas UNAM</p> |
 | <p align="center">23:00</p> | <p align="right">Club Leon <img src="/static/logos/Club Leon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
 </div>
