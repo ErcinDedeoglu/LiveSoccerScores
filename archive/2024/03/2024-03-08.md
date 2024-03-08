@@ -242,7 +242,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Baladiyat ElMahalla SC <img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
+| <p align="center">FT</p> | <p align="right">Baladiyat ElMahalla SC <img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
 </div>
 
 
@@ -310,7 +310,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Jamshedpur FC <img src="/static/logos/Jamshedpur FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mumbai City FC.png" height="25px"> Mumbai City FC</p> |
+| <p align="center">FT</p> | <p align="right">Jamshedpur FC <img src="/static/logos/Jamshedpur FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mumbai City FC.png" height="25px"> Mumbai City FC</p> |
 </div>
 
 
@@ -335,7 +335,7 @@
 | <p align="center">FT</p> | <p align="right">Mes Rafsanjan <img src="/static/logos/Mes Rafsanjan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tractor.png" height="25px"> Tractor</p> |
 | <p align="center">FT</p> | <p align="right">Shams Azar Qazvin <img src="/static/logos/Shams Azar Qazvin.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Aluminium Arak.png" height="25px"> Aluminium Arak</p> |
 | <p align="center">FT</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Paykan.png" height="25px"> Paykan</p> |
-| <p align="center">74'</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Foolad Khouzestan.png" height="25px"> Foolad Khouzestan</p> |
+| <p align="center">FT</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Foolad Khouzestan.png" height="25px"> Foolad Khouzestan</p> |
 | <p align="center">16:15</p> | <p align="right">Esteghlal Khuzestan <img src="/static/logos/Esteghlal Khuzestan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Esteghlal.png" height="25px"> Esteghlal</p> |
 </div>
 
@@ -348,8 +348,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">11:30</p> | <p align="right">Naft Maysan <img src="/static/logos/Naft Maysan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Karbalaa.png" height="25px"> Karbalaa</p> |
 | <p align="center">FT</p> | <p align="right">Al Karkh <img src="/static/logos/Al Karkh.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Al Shorta.png" height="25px"> Al Shorta</p> |
-| <p align="center">11:30</p> | <p align="right">Newroz <img src="/static/logos/Newroz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Hedood.png" height="25px"> Al Hedood</p> |
-| <p align="center">14:00</p> | <p align="right">Erbil <img src="/static/logos/Erbil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Duhok.png" height="25px"> Duhok</p> |
+| <p align="center">FT</p> | <p align="right">Newroz <img src="/static/logos/Newroz.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Al Hedood.png" height="25px"> Al Hedood</p> |
+| <p align="center">FT</p> | <p align="right">Erbil <img src="/static/logos/Erbil.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Duhok.png" height="25px"> Duhok</p> |
 | <p align="center">17:30</p> | <p align="right">Al Kahrabaa <img src="/static/logos/Al Kahrabaa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Naft Al-Basra.png" height="25px"> Naft Al-Basra</p> |
 </div>
 
@@ -394,7 +394,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Ramtha SC <img src="/static/logos/Ramtha SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Hussein SC.png" height="25px"> Al-Hussein SC</p> |
+| <p align="center">FT</p> | <p align="right">Ramtha SC <img src="/static/logos/Ramtha SC.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Al-Hussein SC.png" height="25px"> Al-Hussein SC</p> |
 | <p align="center">16:30</p> | <p align="right">Aqaba <img src="/static/logos/Aqaba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Jalil.png" height="25px"> Al-Jalil</p> |
 </div>
 
@@ -415,7 +415,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Al Nasr <img src="/static/logos/Al Nasr.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kuwait SC.png" height="25px"> Kuwait SC</p> |
+| <p align="center">FT</p> | <p align="right">Al Nasr <img src="/static/logos/Al Nasr.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Kuwait SC.png" height="25px"> Kuwait SC</p> |
 | <p align="center">16:40</p> | <p align="right">Kazma <img src="/static/logos/Kazma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Arabi.png" height="25px"> Al-Arabi</p> |
 </div>
 
@@ -519,8 +519,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">Al Taee <img src="/static/logos/Al Taee.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Hazem.png" height="25px"> Al Hazem</p> |
-| <p align="center">67'</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
+| <p align="center">FT</p> | <p align="right">Al Taee <img src="/static/logos/Al Taee.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Hazem.png" height="25px"> Al Hazem</p> |
+| <p align="center">FT</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
 | <p align="center">17:00</p> | <p align="right">Al Ittihad <img src="/static/logos/Al Ittihad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Akhdoud.png" height="25px"> Al Akhdoud</p> |
 </div>
 
