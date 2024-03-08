@@ -320,8 +320,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:00</p> | <p align="right">Persik <img src="/static/logos/Persik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/RANS Nusantara.png" height="25px"> RANS Nusantara</p> |
-| <p align="center">08:00</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
+| <p align="center">4'</p> | <p align="right">Persik <img src="/static/logos/Persik.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/RANS Nusantara.png" height="25px"> RANS Nusantara</p> |
+| <p align="center">4'</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
 | <p align="center">12:00</p> | <p align="right">Bali United FC <img src="/static/logos/Bali United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PSIS.png" height="25px"> PSIS</p> |
 </div>
 
