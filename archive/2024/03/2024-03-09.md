@@ -93,8 +93,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Puebla <img src="/static/logos/Puebla.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Atlas.png" height="25px"> Atlas</p> |
-| <p align="center">88'</p> | <p align="right">Necaxa <img src="/static/logos/Necaxa.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
-| <p align="center">80'</p> | <p align="right">FC Juarez <img src="/static/logos/FC Juarez.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Toluca.png" height="25px"> Toluca</p> |
+| <p align="center">90' 5'</p> | <p align="right">Necaxa <img src="/static/logos/Necaxa.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
+| <p align="center">88'</p> | <p align="right">FC Juarez <img src="/static/logos/FC Juarez.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Toluca.png" height="25px"> Toluca</p> |
 | <p align="center">23:05</p> | <p align="right">CD Guadalajara <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leon.png" height="25px"> Leon</p> |
 </div>
 
@@ -269,7 +269,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 5'</p> | <p align="right">Canberra United FC <img src="/static/logos/Canberra United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
+| <p align="center">HT</p> | <p align="right">Canberra United FC <img src="/static/logos/Canberra United FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
 | <p align="center">05:00</p> | <p align="right">Brisbane Roar FC <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
 | <p align="center">08:00</p> | <p align="right">Sydney FC <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United FC</p> |
 </div>
