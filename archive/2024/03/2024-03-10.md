@@ -82,12 +82,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">New York Red Bulls <img src="/static/logos/New York Red Bulls.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> FC Dallas</p> |
-| <p align="center">38'</p> | <p align="right">Orlando City <img src="/static/logos/Orlando City.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Minnesota United.png" height="25px"> Minnesota United</p> |
+| <p align="center">64'</p> | <p align="right">New York Red Bulls <img src="/static/logos/New York Red Bulls.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> FC Dallas</p> |
+| <p align="center">61'</p> | <p align="right">Orlando City <img src="/static/logos/Orlando City.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Minnesota United.png" height="25px"> Minnesota United</p> |
 | <p align="center">00:30</p> | <p align="right">Philadelphia Union <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Seattle Sounders FC.png" height="25px"> Seattle Sounders FC</p> |
-| <p align="center">38'</p> | <p align="right">Columbus Crew <img src="/static/logos/Columbus Crew.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago Fire FC</p> |
-| <p align="center">38'</p> | <p align="right">Atlanta United <img src="/static/logos/Atlanta United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/New England Revolution.png" height="25px"> New England Revolution</p> |
-| <p align="center">01:30</p> | <p align="right">Austin FC <img src="/static/logos/Austin FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
+| <p align="center">66'</p> | <p align="right">Columbus Crew <img src="/static/logos/Columbus Crew.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago Fire FC</p> |
+| <p align="center">64'</p> | <p align="right">Atlanta United <img src="/static/logos/Atlanta United.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/New England Revolution.png" height="25px"> New England Revolution</p> |
+| <p align="center">22'</p> | <p align="right">Austin FC <img src="/static/logos/Austin FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
 | <p align="center">02:30</p> | <p align="right">Real Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado Rapids</p> |
 | <p align="center">03:30</p> | <p align="right">Los Angeles FC <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting Kansas City</p> |
 | <p align="center">03:30</p> | <p align="right">San Jose Earthquakes <img src="/static/logos/San Jose Earthquakes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps.png" height="25px"> Vancouver Whitecaps</p> |
@@ -103,8 +103,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11'</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
-| <p align="center">10'</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Queretaro FC.png" height="25px"> Queretaro FC</p> |
+| <p align="center">HT</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
+| <p align="center">HT</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Queretaro FC.png" height="25px"> Queretaro FC</p> |
 | <p align="center">03:00</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tigres.png" height="25px"> Tigres</p> |
 | <p align="center">18:00</p> | <p align="right">Club Universidad Nacional <img src="/static/logos/Club Universidad Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tijuana.png" height="25px"> Tijuana</p> |
 </div>
@@ -141,8 +141,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Instituto.png" height="25px"> Instituto</p> |
-| <p align="center">45'</p> | <p align="right">Club Atletico Platense <img src="/static/logos/Club Atletico Platense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Lorenzo.png" height="25px"> San Lorenzo</p> |
+| <p align="center">73'</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Instituto.png" height="25px"> Instituto</p> |
+| <p align="center">70'</p> | <p align="right">Club Atletico Platense <img src="/static/logos/Club Atletico Platense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Lorenzo.png" height="25px"> San Lorenzo</p> |
 | <p align="center">20:00</p> | <p align="right">Godoy Cruz <img src="/static/logos/Godoy Cruz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newell's Old Boys.png" height="25px"> Newell's Old Boys</p> |
 | <p align="center">20:00</p> | <p align="right">Huracan <img src="/static/logos/Huracan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
 | <p align="center">22:15</p> | <p align="right">Talleres <img src="/static/logos/Talleres.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico Tucuman.png" height="25px"> Atletico Tucuman</p> |
@@ -167,7 +167,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:30</p> | <p align="right">Tolima <img src="/static/logos/Tolima.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Independiente Medellin.png" height="25px"> Independiente Medellin</p> |
+| <p align="center">32'</p> | <p align="right">Tolima <img src="/static/logos/Tolima.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Independiente Medellin.png" height="25px"> Independiente Medellin</p> |
 | <p align="center">19:00</p> | <p align="right">Once Caldas <img src="/static/logos/Once Caldas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
 | <p align="center">21:10</p> | <p align="right">Atletico Nacional <img src="/static/logos/Atletico Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bucaramanga.png" height="25px"> Bucaramanga</p> |
 | <p align="center">23:20</p> | <p align="right">CD Jaguares <img src="/static/logos/CD Jaguares.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
@@ -259,7 +259,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Quilmes <img src="/static/logos/Quilmes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arsenal Sarandi.png" height="25px"> Arsenal Sarandi</p> |
+| <p align="center">70'</p> | <p align="right">Quilmes <img src="/static/logos/Quilmes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arsenal Sarandi.png" height="25px"> Arsenal Sarandi</p> |
 | <p align="center">20:00</p> | <p align="right">Almirante Brown <img src="/static/logos/Almirante Brown.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atletico Mitre.png" height="25px"> Club Atletico Mitre</p> |
 | <p align="center">20:00</p> | <p align="right">Gimnasia Jujuy <img src="/static/logos/Gimnasia Jujuy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/All Boys.png" height="25px"> All Boys</p> |
 | <p align="center">20:00</p> | <p align="right">Atletico Guemes <img src="/static/logos/Atletico Guemes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tristan Suarez.png" height="25px"> Tristan Suarez</p> |
@@ -972,9 +972,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">North Carolina FC <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Charleston Battery.png" height="25px"> Charleston Battery</p> |
-| <p align="center">53'</p> | <p align="right">Miami FC <img src="/static/logos/Miami FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Colorado Springs Switchbacks FC</p> |
-| <p align="center">01:30</p> | <p align="right">San Antonio FC <img src="/static/logos/San Antonio FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Loudoun United FC.png" height="25px"> Loudoun United FC</p> |
+| <p align="center">FT</p> | <p align="right">North Carolina FC <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Charleston Battery.png" height="25px"> Charleston Battery</p> |
+| <p align="center">90' 6'</p> | <p align="right">Miami FC <img src="/static/logos/Miami FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Colorado Springs Switchbacks FC</p> |
+| <p align="center">25'</p> | <p align="right">San Antonio FC <img src="/static/logos/San Antonio FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Loudoun United FC.png" height="25px"> Loudoun United FC</p> |
 | <p align="center">03:00</p> | <p align="right">Sacramento Republic FC <img src="/static/logos/Sacramento Republic FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Orange County SC.png" height="25px"> Orange County SC</p> |
 | <p align="center">03:00</p> | <p align="right">Oakland Roots SC <img src="/static/logos/Oakland Roots SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Indy Eleven.png" height="25px"> Indy Eleven</p> |
 </div>
