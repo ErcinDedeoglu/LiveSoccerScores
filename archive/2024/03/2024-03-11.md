@@ -46,7 +46,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mazatlan FC.png" height="25px"> Mazatlan FC</p> |
+| <p align="center">90' 1'</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mazatlan FC.png" height="25px"> Mazatlan FC</p> |
 </div>
 
 
@@ -77,7 +77,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
+| <p align="center">66'</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
 </div>
 
 
@@ -118,7 +118,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">Cimarrones de Sonora <img src="/static/logos/Cimarrones de Sonora.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Cancun FC.png" height="25px"> Cancun FC</p> |
+| <p align="center">90' 1'</p> | <p align="right">Cimarrones de Sonora <img src="/static/logos/Cimarrones de Sonora.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Cancun FC.png" height="25px"> Cancun FC</p> |
 </div>
 
 
