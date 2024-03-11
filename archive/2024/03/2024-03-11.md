@@ -129,7 +129,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Kukesi <img src="/static/logos/Kukesi.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Laci.png" height="25px"> Laci</p> |
-| <p align="center">16:00</p> | <p align="right">Skenderbeu <img src="/static/logos/Skenderbeu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vllaznia.png" height="25px"> Vllaznia</p> |
+| <p align="center">15'</p> | <p align="right">Skenderbeu <img src="/static/logos/Skenderbeu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vllaznia.png" height="25px"> Vllaznia</p> |
 | <p align="center">POS</p> | <p align="right">FC Dinamo City <img src="/static/logos/FC Dinamo City.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Teuta Durres.png" height="25px"> Teuta Durres</p> |
 </div>
 
@@ -140,7 +140,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Doxa Katokopia <img src="/static/logos/Doxa Katokopia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AEZ Zakakiou.png" height="25px"> AEZ Zakakiou</p> |
+| <p align="center">54'</p> | <p align="right">Doxa Katokopia <img src="/static/logos/Doxa Katokopia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/AEZ Zakakiou.png" height="25px"> AEZ Zakakiou</p> |
 | <p align="center">17:00</p> | <p align="right">Apollon Limassol <img src="/static/logos/Apollon Limassol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ethnikos Achnas.png" height="25px"> Ethnikos Achnas</p> |
 | <p align="center">17:30</p> | <p align="right">Nea Salamis <img src="/static/logos/Nea Salamis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AEL Limassol.png" height="25px"> AEL Limassol</p> |
 </div>
@@ -182,7 +182,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Hearts of Oak <img src="/static/logos/Hearts of Oak.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bofoakwa Tano.png" height="25px"> Bofoakwa Tano</p> |
+| <p align="center">55'</p> | <p align="right">Hearts of Oak <img src="/static/logos/Hearts of Oak.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bofoakwa Tano.png" height="25px"> Bofoakwa Tano</p> |
 </div>
 
 
@@ -204,7 +204,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Punjab FC <img src="/static/logos/Punjab FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/FC Goa.png" height="25px"> FC Goa</p> |
+| <p align="center">FT</p> | <p align="right">Punjab FC <img src="/static/logos/Punjab FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/FC Goa.png" height="25px"> FC Goa</p> |
 </div>
 
 
@@ -236,7 +236,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Lazio U19 <img src="/static/logos/Lazio U19.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bologna U19.png" height="25px"> Bologna U19</p> |
+| <p align="center">FT</p> | <p align="right">Lazio U19 <img src="/static/logos/Lazio U19.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Bologna U19.png" height="25px"> Bologna U19</p> |
 </div>
 
 
