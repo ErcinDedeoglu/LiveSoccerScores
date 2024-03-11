@@ -128,7 +128,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Kukesi <img src="/static/logos/Kukesi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Laci.png" height="25px"> Laci</p> |
+| <p align="center">6'</p> | <p align="right">Kukesi <img src="/static/logos/Kukesi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Laci.png" height="25px"> Laci</p> |
 | <p align="center">16:00</p> | <p align="right">Skenderbeu <img src="/static/logos/Skenderbeu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vllaznia.png" height="25px"> Vllaznia</p> |
 | <p align="center">16:00</p> | <p align="right">FC Dinamo City <img src="/static/logos/FC Dinamo City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Teuta Durres.png" height="25px"> Teuta Durres</p> |
 </div>
@@ -192,9 +192,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">AEK Athens B <img src="/static/logos/AEK Athens B.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Makedonikos Neapolis.png" height="25px"> Makedonikos Neapolis</p> |
-| <p align="center">13:00</p> | <p align="right">Iraklis <img src="/static/logos/Iraklis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aiolikos Mitilini.png" height="25px"> Aiolikos Mitilini</p> |
-| <p align="center">13:00</p> | <p align="right">Kampaniakos Chalastras <img src="/static/logos/Kampaniakos Chalastras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Anagennisi Karditsas.png" height="25px"> Anagennisi Karditsas</p> |
+| <p align="center">7'</p> | <p align="right">AEK Athens B <img src="/static/logos/AEK Athens B.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Makedonikos Neapolis.png" height="25px"> Makedonikos Neapolis</p> |
+| <p align="center">5'</p> | <p align="right">Iraklis <img src="/static/logos/Iraklis.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aiolikos Mitilini.png" height="25px"> Aiolikos Mitilini</p> |
+| <p align="center">5'</p> | <p align="right">Kampaniakos Chalastras <img src="/static/logos/Kampaniakos Chalastras.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Anagennisi Karditsas.png" height="25px"> Anagennisi Karditsas</p> |
 </div>
 
 
