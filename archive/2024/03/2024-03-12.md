@@ -78,7 +78,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">08:00</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
+| <p align="center">6'</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
 </div>
 
 
@@ -250,16 +250,6 @@
 </div>
 
 
-## <img src="/static/logos/Iraq-Premier League.png" height="25px"> Iraq - Premier League
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Al Najaf <img src="/static/logos/Al Najaf.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Kahrabaa.png" height="25px"> Al Kahrabaa</p> |
-</div>
-
-
 ## <img src="/static/logos/Israel-Leumit League.png" height="25px"> Israel - Leumit League
 
 <div align="center">
@@ -378,7 +368,6 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Kagera Sugar <img src="/static/logos/Kagera Sugar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mtibwa Sugar.png" height="25px"> Mtibwa Sugar</p> |
 | <p align="center">17:15</p> | <p align="right">Simba SC <img src="/static/logos/Simba SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singida Big Stars.png" height="25px"> Singida Big Stars</p> |
 </div>
 
