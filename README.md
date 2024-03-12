@@ -78,7 +78,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">7 - 0</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
+| <p align="center">FT</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">7 - 0</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
 </div>
 
 
@@ -88,7 +88,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
+| <p align="center">20'</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
 | <p align="center">19:00</p> | <p align="right">Al Ittihad <img src="/static/logos/Al Ittihad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
 </div>
 
@@ -161,7 +161,7 @@
 | <p align="center">19:45</p> | <p align="right">Newport County <img src="/static/logos/Newport County.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Morecambe.png" height="25px"> Morecambe</p> |
 | <p align="center">19:45</p> | <p align="right">Grimsby Town <img src="/static/logos/Grimsby Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Milton Keynes Dons.png" height="25px"> Milton Keynes Dons</p> |
 | <p align="center">19:45</p> | <p align="right">Wrexham <img src="/static/logos/Wrexham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Harrogate Town.png" height="25px"> Harrogate Town</p> |
-| <p align="center">19:45</p> | <p align="right">Colchester United <img src="/static/logos/Colchester United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Doncaster Rovers.png" height="25px"> Doncaster Rovers</p> |
+| <p align="center">POS</p> | <p align="right">Colchester United <img src="/static/logos/Colchester United.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Doncaster Rovers.png" height="25px"> Doncaster Rovers</p> |
 | <p align="center">19:45</p> | <p align="right">Swindon Town <img src="/static/logos/Swindon Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Accrington Stanley.png" height="25px"> Accrington Stanley</p> |
 </div>
 
@@ -183,7 +183,7 @@
 | <p align="center">POS</p> | <p align="right">FC Halifax Town <img src="/static/logos/FC Halifax Town.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Oldham Athletic.png" height="25px"> Oldham Athletic</p> |
 | <p align="center">19:45</p> | <p align="right">Barnet <img src="/static/logos/Barnet.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Eastleigh.png" height="25px"> Eastleigh</p> |
 | <p align="center">19:45</p> | <p align="right">Southend United <img src="/static/logos/Southend United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorking Wanderers.png" height="25px"> Dorking Wanderers</p> |
-| <p align="center">19:45</p> | <p align="right">Maidenhead United <img src="/static/logos/Maidenhead United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hartlepool United.png" height="25px"> Hartlepool United</p> |
+| <p align="center">POS</p> | <p align="right">Maidenhead United <img src="/static/logos/Maidenhead United.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Hartlepool United.png" height="25px"> Hartlepool United</p> |
 </div>
 
 
