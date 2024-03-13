@@ -48,7 +48,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Central Cordoba de Santiago <img src="/static/logos/Central Cordoba de Santiago.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Belgrano.png" height="25px"> Belgrano</p> |
+| <p align="center">FT</p> | <p align="right">Central Cordoba de Santiago <img src="/static/logos/Central Cordoba de Santiago.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Belgrano.png" height="25px"> Belgrano</p> |
 </div>
 
 
@@ -68,8 +68,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Philadelphia Union.png" height="25px"> Philadelphia Union</p> |
-| <p align="center">02:30</p> | <p align="right">Tigres <img src="/static/logos/Tigres.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Orlando City.png" height="25px"> Orlando City</p> |
+| <p align="center">FT</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">6 - 0</p> | <p align="left"><img src="/static/logos/Philadelphia Union.png" height="25px"> Philadelphia Union</p> |
+| <p align="center">12'</p> | <p align="right">Tigres <img src="/static/logos/Tigres.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Orlando City.png" height="25px"> Orlando City</p> |
 | <p align="center">22:00</p> | <p align="right">S.V. Robinhood <img src="/static/logos/S.V. Robinhood.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Sport Herediano.png" height="25px"> Club Sport Herediano</p> |
 </div>
 
@@ -90,7 +90,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Tlaxcala FC <img src="/static/logos/Tlaxcala FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
+| <p align="center">75'</p> | <p align="right">Tlaxcala FC <img src="/static/logos/Tlaxcala FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
 </div>
 
 
@@ -220,8 +220,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:30</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arema.png" height="25px"> Arema</p> |
 | <p align="center">13:30</p> | <p align="right">Persebaya Surabaya <img src="/static/logos/Persebaya Surabaya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
+| <p align="center">13:30</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arema.png" height="25px"> Arema</p> |
 </div>
 
 
@@ -329,8 +329,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">20:15</p> | <p align="right">SP Libertas <img src="/static/logos/SP Libertas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tre Penne Galazzano.png" height="25px"> Tre Penne Galazzano</p> |
 | <p align="center">20:15</p> | <p align="right">Folgore <img src="/static/logos/Folgore.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Juvenes/Dogana.png" height="25px"> Juvenes/Dogana</p> |
-| <p align="center">20:15</p> | <p align="right">S.S. Murata <img src="/static/logos/S.S. Murata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Virtus Acquaviva.png" height="25px"> Virtus Acquaviva</p> |
 | <p align="center">20:15</p> | <p align="right">Cailungo <img src="/static/logos/Cailungo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tre Fiori.png" height="25px"> Tre Fiori</p> |
+| <p align="center">20:15</p> | <p align="right">S.S. Murata <img src="/static/logos/S.S. Murata.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Virtus Acquaviva.png" height="25px"> Virtus Acquaviva</p> |
 | <p align="center">20:15</p> | <p align="right">La Fiorita Montegiardino <img src="/static/logos/La Fiorita Montegiardino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Fiorentino.png" height="25px"> FC Fiorentino</p> |
 </div>
 
@@ -342,8 +342,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">20:00</p> | <p align="right">Buckie Thistle <img src="/static/logos/Buckie Thistle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Banks O'Dee.png" height="25px"> Banks O'Dee</p> |
-| <p align="center">20:00</p> | <p align="right">Forres Mechanics <img src="/static/logos/Forres Mechanics.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brechin City.png" height="25px"> Brechin City</p> |
 | <p align="center">20:00</p> | <p align="right">Strathspey Thistle <img src="/static/logos/Strathspey Thistle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wick Academy.png" height="25px"> Wick Academy</p> |
+| <p align="center">20:00</p> | <p align="right">Forres Mechanics <img src="/static/logos/Forres Mechanics.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brechin City.png" height="25px"> Brechin City</p> |
 | <p align="center">20:00</p> | <p align="right">Brora Rangers <img src="/static/logos/Brora Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nairn County.png" height="25px"> Nairn County</p> |
 </div>
 
@@ -377,9 +377,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">KCCA FC <img src="/static/logos/KCCA FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arua Hill SC.png" height="25px"> Arua Hill SC</p> |
-| <p align="center">13:00</p> | <p align="right">Mbarara City <img src="/static/logos/Mbarara City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gadaffi FC.png" height="25px"> Gadaffi FC</p> |
 | <p align="center">13:00</p> | <p align="right">Express FC <img src="/static/logos/Express FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wakiso Giants.png" height="25px"> Wakiso Giants</p> |
+| <p align="center">13:00</p> | <p align="right">Mbarara City <img src="/static/logos/Mbarara City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gadaffi FC.png" height="25px"> Gadaffi FC</p> |
+| <p align="center">13:00</p> | <p align="right">KCCA FC <img src="/static/logos/KCCA FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arua Hill SC.png" height="25px"> Arua Hill SC</p> |
 | <p align="center">16:00</p> | <p align="right">NEC FC <img src="/static/logos/NEC FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maroons FC.png" height="25px"> Maroons FC</p> |
 </div>
 
