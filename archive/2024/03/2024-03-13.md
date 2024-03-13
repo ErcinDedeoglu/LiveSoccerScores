@@ -177,7 +177,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Chelsea U18 <img src="/static/logos/Chelsea U18.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Brighton & Hove Albion U18.png" height="25px"> Brighton & Hove Albion U18</p> |
+| <p align="center">81'</p> | <p align="right">Chelsea U18 <img src="/static/logos/Chelsea U18.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Brighton & Hove Albion U18.png" height="25px"> Brighton & Hove Albion U18</p> |
 </div>
 
 
@@ -200,7 +200,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Delhi FC <img src="/static/logos/Delhi FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Inter Kashi.png" height="25px"> Inter Kashi</p> |
-| <p align="center">HT</p> | <p align="right">Shillong Lajong <img src="/static/logos/Shillong Lajong.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Real Kashmir FC.png" height="25px"> Real Kashmir FC</p> |
+| <p align="center">48'</p> | <p align="right">Shillong Lajong <img src="/static/logos/Shillong Lajong.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Real Kashmir FC.png" height="25px"> Real Kashmir FC</p> |
 </div>
 
 
@@ -210,7 +210,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Kerala Blasters FC <img src="/static/logos/Kerala Blasters FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mohun Bagan SG.png" height="25px"> Mohun Bagan SG</p> |
+| <p align="center">39'</p> | <p align="right">Kerala Blasters FC <img src="/static/logos/Kerala Blasters FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mohun Bagan SG.png" height="25px"> Mohun Bagan SG</p> |
 </div>
 
 
@@ -220,8 +220,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Persebaya Surabaya <img src="/static/logos/Persebaya Surabaya.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
-| <p align="center">HT</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Arema.png" height="25px"> Arema</p> |
+| <p align="center">54'</p> | <p align="right">Persebaya Surabaya <img src="/static/logos/Persebaya Surabaya.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
+| <p align="center">53'</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Arema.png" height="25px"> Arema</p> |
 </div>
 
 
@@ -248,7 +248,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:30</p> | <p align="right">Bra <img src="/static/logos/Bra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Derthona.png" height="25px"> Derthona</p> |
+| <p align="center">FT</p> | <p align="right">Bra <img src="/static/logos/Bra.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Derthona.png" height="25px"> Derthona</p> |
 </div>
 
 
@@ -300,7 +300,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Plateau United <img src="/static/logos/Plateau United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gombe United.png" height="25px"> Gombe United</p> |
+| <p align="center">74'</p> | <p align="right">Plateau United <img src="/static/logos/Plateau United.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Gombe United.png" height="25px"> Gombe United</p> |
 | <p align="center">15:00</p> | <p align="right">Kano Pillars <img src="/static/logos/Kano Pillars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Enugu Rangers.png" height="25px"> Enugu Rangers</p> |
 | <p align="center">15:00</p> | <p align="right">Doma United <img src="/static/logos/Doma United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
 | <p align="center">15:00</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
