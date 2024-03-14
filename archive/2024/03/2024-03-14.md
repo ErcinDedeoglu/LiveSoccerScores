@@ -38,7 +38,7 @@
 | <p align="center">FT</p> | <p align="right">PAOK Thessaloniki FC <img src="/static/logos/PAOK Thessaloniki FC.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Dinamo Zagreb.png" height="25px"> Dinamo Zagreb</p> |
 | <p align="center">FT</p> | <p align="right">Fenerbahce <img src="/static/logos/Fenerbahce.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
 | <p align="center">FT</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Ajax.png" height="25px"> Ajax</p> |
-| <p align="center">120' 1'</p> | <p align="right">Maccabi Tel Aviv <img src="/static/logos/Maccabi Tel Aviv.png" height="25px"></p> | <p align="center">1 - 6</p> | <p align="left"><img src="/static/logos/Olympiacos.png" height="25px"> Olympiacos</p> |
+| <p align="center">FT</p> | <p align="right">Maccabi Tel Aviv <img src="/static/logos/Maccabi Tel Aviv.png" height="25px"></p> | <p align="center">1 - 6</p> | <p align="left"><img src="/static/logos/Olympiacos.png" height="25px"> Olympiacos</p> |
 | <p align="center">FT</p> | <p align="right">Lille <img src="/static/logos/Lille.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sturm Graz.png" height="25px"> Sturm Graz</p> |
 | <p align="center">FT</p> | <p align="right">Club Brugge <img src="/static/logos/Club Brugge.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Molde.png" height="25px"> Molde</p> |
 </div>
@@ -101,7 +101,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">MC Alger <img src="/static/logos/MC Alger.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/ASO Chlef.png" height="25px"> ASO Chlef</p> |
+| <p align="center">90'</p> | <p align="right">MC Alger <img src="/static/logos/MC Alger.png" height="25px"></p> | <p align="center">5 - 3</p> | <p align="left"><img src="/static/logos/ASO Chlef.png" height="25px"> ASO Chlef</p> |
 </div>
 
 
@@ -112,7 +112,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Talleres <img src="/static/logos/Talleres.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Agropecuario.png" height="25px"> Agropecuario</p> |
-| <p align="center">22:45</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Douglas Haig.png" height="25px"> Douglas Haig</p> |
+| <p align="center">14'</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Douglas Haig.png" height="25px"> Douglas Haig</p> |
 </div>
 
 
