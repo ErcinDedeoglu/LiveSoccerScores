@@ -258,8 +258,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:15</p> | <p align="right">Coastal Union <img src="/static/logos/Coastal Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ihefu FC.png" height="25px"> Ihefu FC</p> |
 | <p align="center">17:15</p> | <p align="right">Young Africans <img src="/static/logos/Young Africans.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Geita Gold FC.png" height="25px"> Geita Gold FC</p> |
+| <p align="center">17:15</p> | <p align="right">Coastal Union <img src="/static/logos/Coastal Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ihefu FC.png" height="25px"> Ihefu FC</p> |
 </div>
 
 
