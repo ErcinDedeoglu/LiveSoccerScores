@@ -203,7 +203,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Bamboutos <img src="/static/logos/Bamboutos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fauve Azur.png" height="25px"> Fauve Azur</p> |
+| <p align="center">POS</p> | <p align="right">Bamboutos <img src="/static/logos/Bamboutos.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Fauve Azur.png" height="25px"> Fauve Azur</p> |
 </div>
 
 
