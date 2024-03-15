@@ -264,7 +264,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
+| <p align="center">32'</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
 | <p align="center">18:30</p> | <p align="right">Marignane/Gignac FC <img src="/static/logos/Marignane/Gignac FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dijon.png" height="25px"> Dijon</p> |
 | <p align="center">18:30</p> | <p align="right">Cholet <img src="/static/logos/Cholet.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Versailles.png" height="25px"> Versailles</p> |
 | <p align="center">18:30</p> | <p align="right">Chateauroux <img src="/static/logos/Chateauroux.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/GOAL FC.png" height="25px"> GOAL FC</p> |
@@ -332,10 +332,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Hapoel Rishon LeZion <img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
-| <p align="center">66'</p> | <p align="right">Hapoel Ramat Gan <img src="/static/logos/Hapoel Ramat Gan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
-| <p align="center">68'</p> | <p align="right">Hapoel Kfar Saba <img src="/static/logos/Hapoel Kfar Saba.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"> Hapoel Umm al-Fahm</p> |
-| <p align="center">62'</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"> Hapoel Nir Ramat HaSharon</p> |
+| <p align="center">75'</p> | <p align="right">Hapoel Rishon LeZion <img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
+| <p align="center">74'</p> | <p align="right">Hapoel Ramat Gan <img src="/static/logos/Hapoel Ramat Gan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
+| <p align="center">77'</p> | <p align="right">Hapoel Kfar Saba <img src="/static/logos/Hapoel Kfar Saba.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"> Hapoel Umm al-Fahm</p> |
+| <p align="center">71'</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"> Hapoel Nir Ramat HaSharon</p> |
 </div>
 
 
