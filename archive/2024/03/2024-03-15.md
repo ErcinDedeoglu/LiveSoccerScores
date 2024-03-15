@@ -96,7 +96,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Alianza FC <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Pasto.png" height="25px"> Deportivo Pasto</p> |
+| <p align="center">34'</p> | <p align="right">Alianza FC <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pasto.png" height="25px"> Deportivo Pasto</p> |
 </div>
 
 
@@ -106,7 +106,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:30</p> | <p align="right">Deportes Iquique <img src="/static/logos/Deportes Iquique.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cobresal.png" height="25px"> Cobresal</p> |
+| <p align="center">5'</p> | <p align="right">Deportes Iquique <img src="/static/logos/Deportes Iquique.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cobresal.png" height="25px"> Cobresal</p> |
 </div>
 
 
@@ -149,10 +149,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ben Aknoun <img src="/static/logos/Ben Aknoun.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/NC Magra.png" height="25px"> NC Magra</p> |
-| <p align="center">83'</p> | <p align="right">CS Constantine <img src="/static/logos/CS Constantine.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/US Souf.png" height="25px"> US Souf</p> |
-| <p align="center">84'</p> | <p align="right">MC Oran <img src="/static/logos/MC Oran.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Paradou AC.png" height="25px"> Paradou AC</p> |
-| <p align="center">87'</p> | <p align="right">CR Belouizdad <img src="/static/logos/CR Belouizdad.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
-| <p align="center">89'</p> | <p align="right">JS Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/ES Setif.png" height="25px"> ES Setif</p> |
+| <p align="center">FT</p> | <p align="right">CS Constantine <img src="/static/logos/CS Constantine.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/US Souf.png" height="25px"> US Souf</p> |
+| <p align="center">FT</p> | <p align="right">MC Oran <img src="/static/logos/MC Oran.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Paradou AC.png" height="25px"> Paradou AC</p> |
+| <p align="center">FT</p> | <p align="right">CR Belouizdad <img src="/static/logos/CR Belouizdad.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
+| <p align="center">FT</p> | <p align="right">JS Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/ES Setif.png" height="25px"> ES Setif</p> |
 </div>
 
 
@@ -163,7 +163,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Lanus <img src="/static/logos/Lanus.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/El Porvenir.png" height="25px"> El Porvenir</p> |
-| <p align="center">POS</p> | <p align="right">Argentinos Juniors <img src="/static/logos/Argentinos Juniors.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Gimnasia y Tiro.png" height="25px"> Gimnasia y Tiro</p> |
+| <p align="center">34'</p> | <p align="right">Argentinos Juniors <img src="/static/logos/Argentinos Juniors.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gimnasia y Tiro.png" height="25px"> Gimnasia y Tiro</p> |
 </div>
 
 
@@ -173,7 +173,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">San Martin Burzaco <img src="/static/logos/San Martin Burzaco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Villa Dalmine.png" height="25px"> Villa Dalmine</p> |
+| <p align="center">23'</p> | <p align="right">San Martin Burzaco <img src="/static/logos/San Martin Burzaco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Villa Dalmine.png" height="25px"> Villa Dalmine</p> |
 </div>
 
 
@@ -266,9 +266,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
 | <p align="center">FT</p> | <p align="right">Marignane/Gignac FC <img src="/static/logos/Marignane/Gignac FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Dijon.png" height="25px"> Dijon</p> |
+| <p align="center">FT</p> | <p align="right">Cholet <img src="/static/logos/Cholet.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Versailles.png" height="25px"> Versailles</p> |
 | <p align="center">FT</p> | <p align="right">Nancy <img src="/static/logos/Nancy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Orleans.png" height="25px"> Orleans</p> |
 | <p align="center">FT</p> | <p align="right">Le Mans <img src="/static/logos/Le Mans.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Martigues.png" height="25px"> Martigues</p> |
-| <p align="center">FT</p> | <p align="right">Cholet <img src="/static/logos/Cholet.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Versailles.png" height="25px"> Versailles</p> |
 | <p align="center">FT</p> | <p align="right">Avranches <img src="/static/logos/Avranches.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sochaux.png" height="25px"> Sochaux</p> |
 | <p align="center">FT</p> | <p align="right">Chateauroux <img src="/static/logos/Chateauroux.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/GOAL FC.png" height="25px"> GOAL FC</p> |
 </div>
@@ -321,8 +321,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Persib Bandung.png" height="25px"> Persib Bandung</p> |
 | <p align="center">FT</p> | <p align="right">Barito Putera <img src="/static/logos/Barito Putera.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/PSM Makassar.png" height="25px"> PSM Makassar</p> |
+| <p align="center">FT</p> | <p align="right">Persikabo 1973 <img src="/static/logos/Persikabo 1973.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Persib Bandung.png" height="25px"> Persib Bandung</p> |
 </div>
 
 
@@ -366,7 +366,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:00</p> | <p align="right">Al-Hilal <img src="/static/logos/Al-Hilal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ahli.png" height="25px"> Al Ahli</p> |
+| <p align="center">FT</p> | <p align="right">Al-Hilal <img src="/static/logos/Al-Hilal.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Ahli.png" height="25px"> Al Ahli</p> |
 | <p align="center">21:30</p> | <p align="right">Abu Salim <img src="/static/logos/Abu Salim.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Asswehly SC.png" height="25px"> Asswehly SC</p> |
 | <p align="center">21:30</p> | <p align="right">Al-Ittihad <img src="/static/logos/Al-Ittihad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Ittihad Misrati.png" height="25px"> Al-Ittihad Misrati</p> |
 </div>
@@ -388,7 +388,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Union Touarga Sport <img src="/static/logos/Union Touarga Sport.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MAS Fes.png" height="25px"> MAS Fes</p> |
+| <p align="center">74'</p> | <p align="right">Union Touarga Sport <img src="/static/logos/Union Touarga Sport.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MAS Fes.png" height="25px"> MAS Fes</p> |
 </div>
 
 
@@ -578,7 +578,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Boston River <img src="/static/logos/Boston River.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Liverpool FC.png" height="25px"> Liverpool FC</p> |
+| <p align="center">HT</p> | <p align="right">Boston River <img src="/static/logos/Boston River.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Liverpool FC.png" height="25px"> Liverpool FC</p> |
 </div>
 
 
