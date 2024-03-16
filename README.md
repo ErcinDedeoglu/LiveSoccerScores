@@ -243,7 +243,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Wellington Phoenix <img src="/static/logos/Wellington Phoenix.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
 | <p align="center">FT</p> | <p align="right">Brisbane Roar FC <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
-| <p align="center">HT</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
+| <p align="center">50'</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
 </div>
 
 
@@ -1276,7 +1276,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">14:00</p> | <p align="right">Caersws <img src="/static/logos/Caersws.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Prestatyn Town FC.png" height="25px"> Prestatyn Town FC</p> |
 | <p align="center">14:00</p> | <p align="right">Baglan Dragons <img src="/static/logos/Baglan Dragons.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Abergavenny Town FC.png" height="25px"> Abergavenny Town FC</p> |
-| <p align="center">14:00</p> | <p align="right">Buckley Town <img src="/static/logos/Buckley Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gresford Athletic.png" height="25px"> Gresford Athletic</p> |
+| <p align="center">POS</p> | <p align="right">Buckley Town <img src="/static/logos/Buckley Town.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Gresford Athletic.png" height="25px"> Gresford Athletic</p> |
 | <p align="center">14:00</p> | <p align="right">Llantwit Major <img src="/static/logos/Llantwit Major.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cwmbran Celtic.png" height="25px"> Cwmbran Celtic</p> |
 | <p align="center">14:00</p> | <p align="right">Chirk AAA FC <img src="/static/logos/Chirk AAA FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Llandudno FC.png" height="25px"> Llandudno FC</p> |
 | <p align="center">14:00</p> | <p align="right">Holywell Town <img src="/static/logos/Holywell Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denbigh Town.png" height="25px"> Denbigh Town</p> |
