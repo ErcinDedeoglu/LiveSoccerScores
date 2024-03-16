@@ -243,7 +243,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Wellington Phoenix <img src="/static/logos/Wellington Phoenix.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
 | <p align="center">FT</p> | <p align="right">Brisbane Roar FC <img src="/static/logos/Brisbane Roar FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
-| <p align="center">32'</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
+| <p align="center">40'</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Western Sydney Wanderers FC.png" height="25px"> Western Sydney Wanderers FC</p> |
 </div>
 
 
@@ -1076,7 +1076,7 @@
 | <p align="center">15:00</p> | <p align="right">Clachnacuddin <img src="/static/logos/Clachnacuddin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brechin City.png" height="25px"> Brechin City</p> |
 | <p align="center">15:00</p> | <p align="right">Linlithgow Rose <img src="/static/logos/Linlithgow Rose.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hearts B.png" height="25px"> Hearts B</p> |
 | <p align="center">15:00</p> | <p align="right">Buckie Thistle <img src="/static/logos/Buckie Thistle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inverurie Loco Works.png" height="25px"> Inverurie Loco Works</p> |
-| <p align="center">15:00</p> | <p align="right">Civil Service Strollers <img src="/static/logos/Civil Service Strollers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gretna FC 2008.png" height="25px"> Gretna FC 2008</p> |
+| <p align="center">POS</p> | <p align="right">Civil Service Strollers <img src="/static/logos/Civil Service Strollers.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Gretna FC 2008.png" height="25px"> Gretna FC 2008</p> |
 | <p align="center">15:00</p> | <p align="right">Caledonian Braves <img src="/static/logos/Caledonian Braves.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/East Stirlingshire.png" height="25px"> East Stirlingshire</p> |
 | <p align="center">15:00</p> | <p align="right">Albion Rovers <img src="/static/logos/Albion Rovers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Celtic B.png" height="25px"> Celtic B</p> |
 | <p align="center">15:00</p> | <p align="right">Tranent Juniors <img src="/static/logos/Tranent Juniors.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cumbernauld Colts.png" height="25px"> Cumbernauld Colts</p> |
@@ -1133,8 +1133,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Daejeon Hana Citizen <img src="/static/logos/Daejeon Hana Citizen.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Gangwon FC.png" height="25px"> Gangwon FC</p> |
-| <p align="center">85'</p> | <p align="right">FC Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
-| <p align="center">90'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
+| <p align="center">90' 3'</p> | <p align="right">FC Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
+| <p align="center">90' 8'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
 </div>
 
 
