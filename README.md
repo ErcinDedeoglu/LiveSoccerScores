@@ -46,7 +46,7 @@
 | <p align="center">FT</p> | <p align="right">Villarreal <img src="/static/logos/Villarreal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Valencia.png" height="25px"> Valencia</p> |
 | <p align="center">FT</p> | <p align="right">Las Palmas <img src="/static/logos/Las Palmas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Almeria.png" height="25px"> Almeria</p> |
 | <p align="center">FT</p> | <p align="right">Rayo Vallecano <img src="/static/logos/Rayo Vallecano.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Real Betis.png" height="25px"> Real Betis</p> |
-| <p align="center">80'</p> | <p align="right">Atletico Madrid <img src="/static/logos/Atletico Madrid.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Barcelona.png" height="25px"> Barcelona</p> |
+| <p align="center">FT</p> | <p align="right">Atletico Madrid <img src="/static/logos/Atletico Madrid.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Barcelona.png" height="25px"> Barcelona</p> |
 </div>
 
 
@@ -72,7 +72,7 @@
 | <p align="center">FT</p> | <p align="right">Reims <img src="/static/logos/Reims.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Metz.png" height="25px"> Metz</p> |
 | <p align="center">FT</p> | <p align="right">Clermont Foot <img src="/static/logos/Clermont Foot.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Le Havre.png" height="25px"> Le Havre</p> |
 | <p align="center">FT</p> | <p align="right">Rennes <img src="/static/logos/Rennes.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Marseille.png" height="25px"> Marseille</p> |
-| <p align="center">90' 5'</p> | <p align="right">Montpellier <img src="/static/logos/Montpellier.png" height="25px"></p> | <p align="center">2 - 6</p> | <p align="left"><img src="/static/logos/Paris Saint-Germain.png" height="25px"> Paris Saint-Germain</p> |
+| <p align="center">FT</p> | <p align="right">Montpellier <img src="/static/logos/Montpellier.png" height="25px"></p> | <p align="center">2 - 6</p> | <p align="left"><img src="/static/logos/Paris Saint-Germain.png" height="25px"> Paris Saint-Germain</p> |
 </div>
 
 
@@ -151,7 +151,7 @@
 | <p align="center">FT</p> | <p align="right">Chaves <img src="/static/logos/Chaves.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Vitoria de Guimaraes.png" height="25px"> Vitoria de Guimaraes</p> |
 | <p align="center">FT</p> | <p align="right">Moreirense <img src="/static/logos/Moreirense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Arouca.png" height="25px"> Arouca</p> |
 | <p align="center">FT</p> | <p align="right">Casa Pia AC <img src="/static/logos/Casa Pia AC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
-| <p align="center">49'</p> | <p align="right">Sporting CP <img src="/static/logos/Sporting CP.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Boavista.png" height="25px"> Boavista</p> |
+| <p align="center">65'</p> | <p align="right">Sporting CP <img src="/static/logos/Sporting CP.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Boavista.png" height="25px"> Boavista</p> |
 </div>
 
 
@@ -197,7 +197,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Independiente Medellin <img src="/static/logos/Independiente Medellin.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Once Caldas.png" height="25px"> Once Caldas</p> |
 | <p align="center">FT</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
-| <p align="center">30'</p> | <p align="right">Deportivo Cali <img src="/static/logos/Deportivo Cali.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Patriotas.png" height="25px"> Patriotas</p> |
+| <p align="center">45' 1'</p> | <p align="right">Deportivo Cali <img src="/static/logos/Deportivo Cali.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Patriotas.png" height="25px"> Patriotas</p> |
 | <p align="center">23:20</p> | <p align="right">Fortaleza FC <img src="/static/logos/Fortaleza FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/America de Cali.png" height="25px"> America de Cali</p> |
 </div>
 
@@ -210,7 +210,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Huachipato <img src="/static/logos/Huachipato.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Deportes Copiapo.png" height="25px"> Deportes Copiapo</p> |
 | <p align="center">FT</p> | <p align="right">Coquimbo Unido <img src="/static/logos/Coquimbo Unido.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Colo Colo.png" height="25px"> Colo Colo</p> |
-| <p align="center">43'</p> | <p align="right">Palestino <img src="/static/logos/Palestino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union La Calera.png" height="25px"> Union La Calera</p> |
+| <p align="center">HT</p> | <p align="right">Palestino <img src="/static/logos/Palestino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union La Calera.png" height="25px"> Union La Calera</p> |
 | <p align="center">23:30</p> | <p align="right">Universidad Catolica <img src="/static/logos/Universidad Catolica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Audax Italiano.png" height="25px"> Audax Italiano</p> |
 </div>
 
@@ -293,7 +293,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Deportivo Moron <img src="/static/logos/Deportivo Moron.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Madryn.png" height="25px"> Deportivo Madryn</p> |
-| <p align="center">68'</p> | <p align="right">Club Atletico Mitre <img src="/static/logos/Club Atletico Mitre.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Colon.png" height="25px"> Colon</p> |
+| <p align="center">84'</p> | <p align="right">Club Atletico Mitre <img src="/static/logos/Club Atletico Mitre.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Colon.png" height="25px"> Colon</p> |
 </div>
 
 
@@ -429,7 +429,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">80'</p> | <p align="right">Le Havre <img src="/static/logos/Le Havre.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Montpellier.png" height="25px"> Montpellier</p> |
+| <p align="center">90' 6'</p> | <p align="right">Le Havre <img src="/static/logos/Le Havre.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Montpellier.png" height="25px"> Montpellier</p> |
 </div>
 
 
@@ -940,7 +940,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Stade Tunisien <img src="/static/logos/Stade Tunisien.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Etoile du Sahel.png" height="25px"> Etoile du Sahel</p> |
-| <p align="center">46'</p> | <p align="right">CS Sfaxien <img src="/static/logos/CS Sfaxien.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/US Monastir.png" height="25px"> US Monastir</p> |
+| <p align="center">62'</p> | <p align="right">CS Sfaxien <img src="/static/logos/CS Sfaxien.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/US Monastir.png" height="25px"> US Monastir</p> |
 </div>
 
 
