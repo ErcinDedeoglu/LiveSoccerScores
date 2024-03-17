@@ -221,7 +221,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Rizespor <img src="/static/logos/Rizespor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gaziantep FK.png" height="25px"> Gaziantep FK</p> |
+| <p align="center">25'</p> | <p align="right">Rizespor <img src="/static/logos/Rizespor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gaziantep FK.png" height="25px"> Gaziantep FK</p> |
 | <p align="center">13:00</p> | <p align="right">Hatayspor <img src="/static/logos/Hatayspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Samsunspor.png" height="25px"> Samsunspor</p> |
 | <p align="center">13:00</p> | <p align="right">Kasimpasa <img src="/static/logos/Kasimpasa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Galatasaray.png" height="25px"> Galatasaray</p> |
 | <p align="center">17:30</p> | <p align="right">Trabzonspor <img src="/static/logos/Trabzonspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
@@ -950,8 +950,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Boluspor.png" height="25px"> Boluspor</p> |
-| <p align="center">17'</p> | <p align="right">Erzurumspor FK <img src="/static/logos/Erzurumspor FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tuzlaspor.png" height="25px"> Tuzlaspor</p> |
+| <p align="center">24'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Boluspor.png" height="25px"> Boluspor</p> |
+| <p align="center">25'</p> | <p align="right">Erzurumspor FK <img src="/static/logos/Erzurumspor FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tuzlaspor.png" height="25px"> Tuzlaspor</p> |
 | <p align="center">13:00</p> | <p align="right">Umraniyespor <img src="/static/logos/Umraniyespor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Adanaspor.png" height="25px"> Adanaspor</p> |
 | <p align="center">13:00</p> | <p align="right">Giresunspor <img src="/static/logos/Giresunspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sanliurfaspor.png" height="25px"> Sanliurfaspor</p> |
 | <p align="center">17:30</p> | <p align="right">Sakaryaspor <img src="/static/logos/Sakaryaspor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Altay.png" height="25px"> Altay</p> |
