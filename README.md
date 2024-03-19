@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">Union <img src="/static/logos/Union.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Cordoba de Santiago.png" height="25px"> Central Cordoba de Santiago</p> |
+| <p align="center">22'</p> | <p align="right">Union <img src="/static/logos/Union.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Central Cordoba de Santiago.png" height="25px"> Central Cordoba de Santiago</p> |
 </div>
 
 
