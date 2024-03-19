@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Union <img src="/static/logos/Union.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Central Cordoba de Santiago.png" height="25px"> Central Cordoba de Santiago</p> |
+| <p align="center">FT</p> | <p align="right">Union <img src="/static/logos/Union.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Central Cordoba de Santiago.png" height="25px"> Central Cordoba de Santiago</p> |
 </div>
 
 
@@ -47,7 +47,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">Agropecuario <img src="/static/logos/Agropecuario.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ferro Carril Oeste.png" height="25px"> Ferro Carril Oeste</p> |
+| <p align="center">84'</p> | <p align="right">Agropecuario <img src="/static/logos/Agropecuario.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ferro Carril Oeste.png" height="25px"> Ferro Carril Oeste</p> |
 | <p align="center">19:00</p> | <p align="right">Gimnasia y Tiro <img src="/static/logos/Gimnasia y Tiro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Almirante Brown.png" height="25px"> Almirante Brown</p> |
 </div>
 
@@ -156,7 +156,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">Arnett Gardens <img src="/static/logos/Arnett Gardens.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Humble Lions.png" height="25px"> Humble Lions</p> |
+| <p align="center">FT</p> | <p align="right">Arnett Gardens <img src="/static/logos/Arnett Gardens.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Humble Lions.png" height="25px"> Humble Lions</p> |
 </div>
 
 
