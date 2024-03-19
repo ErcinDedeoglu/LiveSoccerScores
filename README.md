@@ -223,7 +223,7 @@
 | <p align="center">POS</p> | <p align="right">Caerau Ely <img src="/static/logos/Caerau Ely.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Pontardawe Town.png" height="25px"> Pontardawe Town</p> |
 | <p align="center">POS</p> | <p align="right">Denbigh Town <img src="/static/logos/Denbigh Town.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Gresford Athletic.png" height="25px"> Gresford Athletic</p> |
 | <p align="center">POS</p> | <p align="right">Guilsfield FC <img src="/static/logos/Guilsfield FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Caersws.png" height="25px"> Caersws</p> |
-| <p align="center">POS</p> | <p align="right">Briton Ferry <img src="/static/logos/Briton Ferry.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Afan Lido.png" height="25px"> Afan Lido</p> |
+| <p align="center">19:30</p> | <p align="right">Briton Ferry <img src="/static/logos/Briton Ferry.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Afan Lido.png" height="25px"> Afan Lido</p> |
 </div>
 
 
