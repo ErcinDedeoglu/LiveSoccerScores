@@ -68,8 +68,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">KSK Heist <img src="/static/logos/KSK Heist.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Tienen.png" height="25px"> Tienen</p> |
 | <p align="center">FT</p> | <p align="right">Dessel <img src="/static/logos/Dessel.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hoogstraten.png" height="25px"> Hoogstraten</p> |
+| <p align="center">FT</p> | <p align="right">KSK Heist <img src="/static/logos/KSK Heist.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Tienen.png" height="25px"> Tienen</p> |
 </div>
 
 
@@ -142,10 +142,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">20:30</p> | <p align="right">Molynes United <img src="/static/logos/Molynes United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tivoli Gardens.png" height="25px"> Tivoli Gardens</p> |
-| <p align="center">20:30</p> | <p align="right">Dunbeholden <img src="/static/logos/Dunbeholden.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Montego Bay United FC.png" height="25px"> Montego Bay United FC</p> |
+| <p align="center">FT</p> | <p align="right">Lime Hall Academy <img src="/static/logos/Lime Hall Academy.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Harbour View.png" height="25px"> Harbour View</p> |
 | <p align="center">20:30</p> | <p align="right">Vere United <img src="/static/logos/Vere United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mount Pleasant.png" height="25px"> Mount Pleasant</p> |
-| <p align="center">20:30</p> | <p align="right">Lime Hall Academy <img src="/static/logos/Lime Hall Academy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Harbour View.png" height="25px"> Harbour View</p> |
 | <p align="center">20:30</p> | <p align="right">Treasure Beach <img src="/static/logos/Treasure Beach.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Waterhouse FC.png" height="25px"> Waterhouse FC</p> |
+| <p align="center">20:30</p> | <p align="right">Dunbeholden <img src="/static/logos/Dunbeholden.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Montego Bay United FC.png" height="25px"> Montego Bay United FC</p> |
 </div>
 
 
@@ -208,7 +208,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">RSB Berkane <img src="/static/logos/RSB Berkane.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MAS Fes.png" height="25px"> MAS Fes</p> |
+| <p align="center">29'</p> | <p align="right">RSB Berkane <img src="/static/logos/RSB Berkane.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/MAS Fes.png" height="25px"> MAS Fes</p> |
 </div>
 
 
@@ -229,9 +229,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">20:00</p> | <p align="right">Huntly <img src="/static/logos/Huntly.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Keith.png" height="25px"> Keith</p> |
+| <p align="center">20:00</p> | <p align="right">Buckie Thistle <img src="/static/logos/Buckie Thistle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Formartine United.png" height="25px"> Formartine United</p> |
 | <p align="center">20:00</p> | <p align="right">Forres Mechanics <img src="/static/logos/Forres Mechanics.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fraserburgh.png" height="25px"> Fraserburgh</p> |
 | <p align="center">20:00</p> | <p align="right">Brora Rangers <img src="/static/logos/Brora Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Clachnacuddin.png" height="25px"> Clachnacuddin</p> |
-| <p align="center">20:00</p> | <p align="right">Buckie Thistle <img src="/static/logos/Buckie Thistle.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Formartine United.png" height="25px"> Formartine United</p> |
 </div>
 
 
