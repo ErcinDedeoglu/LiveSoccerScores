@@ -198,7 +198,7 @@
 | <p align="center">FT</p> | <p align="right">Cerezo Osaka Sakai <img src="/static/logos/Cerezo Osaka Sakai.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima Regina.png" height="25px"> Sanfrecce Hiroshima Regina</p> |
 | <p align="center">FT</p> | <p align="right">Urawa Ladies <img src="/static/logos/Urawa Ladies.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Mynavi Sendai Ladies.png" height="25px"> Mynavi Sendai Ladies</p> |
 | <p align="center">FT</p> | <p align="right">AS Elfen Saitama <img src="/static/logos/AS Elfen Saitama.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/INAC Kobe Leonessa.png" height="25px"> INAC Kobe Leonessa</p> |
-| <p align="center">09:00</p> | <p align="right">JEF Ladies <img src="/static/logos/JEF Ladies.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Albirex Niigata Ladies.png" height="25px"> Albirex Niigata Ladies</p> |
+| <p align="center">FT</p> | <p align="right">JEF Ladies <img src="/static/logos/JEF Ladies.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Albirex Niigata Ladies.png" height="25px"> Albirex Niigata Ladies</p> |
 </div>
 
 
