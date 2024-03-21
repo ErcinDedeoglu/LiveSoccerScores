@@ -53,9 +53,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Chinese Taipei <img src="/static/logos/Chinese Taipei.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Kyrgyzstan.png" height="25px"> Kyrgyzstan</p> |
-| <p align="center">82'</p> | <p align="right">Pakistan <img src="/static/logos/Pakistan.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
-| <p align="center">72'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Lebanon.png" height="25px"> Lebanon</p> |
-| <p align="center">22'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/North Korea.png" height="25px"> North Korea</p> |
+| <p align="center">88'</p> | <p align="right">Pakistan <img src="/static/logos/Pakistan.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
+| <p align="center">78'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Lebanon.png" height="25px"> Lebanon</p> |
+| <p align="center">28'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/North Korea.png" height="25px"> North Korea</p> |
 | <p align="center">11:00</p> | <p align="right">South Korea <img src="/static/logos/South Korea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thailand.png" height="25px"> Thailand</p> |
 | <p align="center">11:30</p> | <p align="right">Myanmar <img src="/static/logos/Myanmar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
 | <p align="center">12:00</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
