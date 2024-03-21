@@ -85,8 +85,8 @@
 | <p align="center">FT</p> | <p align="right">Russia <img src="/static/logos/Russia.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Serbia.png" height="25px"> Serbia</p> |
 | <p align="center">FT</p> | <p align="right">Malta <img src="/static/logos/Malta.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Slovenia.png" height="25px"> Slovenia</p> |
 | <p align="center">FT</p> | <p align="right">Portugal <img src="/static/logos/Portugal.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Sweden.png" height="25px"> Sweden</p> |
-| <p align="center">45' 20'</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
-| <p align="center">45' 21'</p> | <p align="right">South Africa <img src="/static/logos/South Africa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
+| <p align="center">45' 33'</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
+| <p align="center">45' 33'</p> | <p align="right">South Africa <img src="/static/logos/South Africa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
 </div>
 
 
@@ -150,8 +150,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 26'</p> | <p align="right">Plymouth Parkway <img src="/static/logos/Plymouth Parkway.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Winchester City.png" height="25px"> Winchester City</p> |
-| <p align="center">90' 24'</p> | <p align="right">Concord Rangers <img src="/static/logos/Concord Rangers.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Enfield Town.png" height="25px"> Enfield Town</p> |
+| <p align="center">90' 39'</p> | <p align="right">Plymouth Parkway <img src="/static/logos/Plymouth Parkway.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Winchester City.png" height="25px"> Winchester City</p> |
+| <p align="center">90' 37'</p> | <p align="right">Concord Rangers <img src="/static/logos/Concord Rangers.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Enfield Town.png" height="25px"> Enfield Town</p> |
 </div>
 
 
