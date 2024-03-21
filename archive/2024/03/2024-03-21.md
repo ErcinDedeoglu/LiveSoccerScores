@@ -17,11 +17,11 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">17:00</p> | <p align="right">Georgia <img src="/static/logos/Georgia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Luxembourg.png" height="25px"> Luxembourg</p> |
-| <p align="center">19:45</p> | <p align="right">Wales <img src="/static/logos/Wales.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Finland.png" height="25px"> Finland</p> |
-| <p align="center">19:45</p> | <p align="right">Israel <img src="/static/logos/Israel.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iceland.png" height="25px"> Iceland</p> |
-| <p align="center">19:45</p> | <p align="right">Bosnia and Herzegovina <img src="/static/logos/Bosnia and Herzegovina.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ukraine.png" height="25px"> Ukraine</p> |
 | <p align="center">19:45</p> | <p align="right">Greece <img src="/static/logos/Greece.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kazakhstan.png" height="25px"> Kazakhstan</p> |
+| <p align="center">19:45</p> | <p align="right">Israel <img src="/static/logos/Israel.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iceland.png" height="25px"> Iceland</p> |
+| <p align="center">19:45</p> | <p align="right">Wales <img src="/static/logos/Wales.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Finland.png" height="25px"> Finland</p> |
 | <p align="center">19:45</p> | <p align="right">Poland <img src="/static/logos/Poland.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Estonia.png" height="25px"> Estonia</p> |
+| <p align="center">19:45</p> | <p align="right">Bosnia and Herzegovina <img src="/static/logos/Bosnia and Herzegovina.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ukraine.png" height="25px"> Ukraine</p> |
 </div>
 
 
@@ -62,8 +62,8 @@
 | <p align="center">16:00</p> | <p align="right">Iran <img src="/static/logos/Iran.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turkmenistan.png" height="25px"> Turkmenistan</p> |
 | <p align="center">18:00</p> | <p align="right">Oman <img src="/static/logos/Oman.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malaysia.png" height="25px"> Malaysia</p> |
 | <p align="center">18:00</p> | <p align="right">UAE <img src="/static/logos/UAE.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yemen.png" height="25px"> Yemen</p> |
-| <p align="center">18:30</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kuwait.png" height="25px"> Kuwait</p> |
 | <p align="center">18:30</p> | <p align="right">Palestine <img src="/static/logos/Palestine.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bangladesh.png" height="25px"> Bangladesh</p> |
+| <p align="center">18:30</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kuwait.png" height="25px"> Kuwait</p> |
 | <p align="center">19:00</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tajikistan.png" height="25px"> Tajikistan</p> |
 | <p align="center">19:00</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/India.png" height="25px"> India</p> |
 | <p align="center">19:00</p> | <p align="right">Nepal <img src="/static/logos/Nepal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bahrain.png" height="25px"> Bahrain</p> |
@@ -77,7 +77,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">02:00</p> | <p align="right">Solomon Islands <img src="/static/logos/Solomon Islands.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fiji.png" height="25px"> Fiji</p> |
+| <p align="center">FT</p> | <p align="right">Solomon Islands <img src="/static/logos/Solomon Islands.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Fiji.png" height="25px"> Fiji</p> |
 | <p align="center">17:00</p> | <p align="right">Russia <img src="/static/logos/Russia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Serbia.png" height="25px"> Serbia</p> |
 | <p align="center">17:00</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Latvia.png" height="25px"> Latvia</p> |
 | <p align="center">18:00</p> | <p align="right">Belarus <img src="/static/logos/Belarus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Montenegro.png" height="25px"> Montenegro</p> |
