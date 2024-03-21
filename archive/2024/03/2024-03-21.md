@@ -55,10 +55,10 @@
 | <p align="center">FT</p> | <p align="right">Chinese Taipei <img src="/static/logos/Chinese Taipei.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Kyrgyzstan.png" height="25px"> Kyrgyzstan</p> |
 | <p align="center">FT</p> | <p align="right">Pakistan <img src="/static/logos/Pakistan.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Jordan.png" height="25px"> Jordan</p> |
 | <p align="center">FT</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Lebanon.png" height="25px"> Lebanon</p> |
-| <p align="center">68'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/North Korea.png" height="25px"> North Korea</p> |
-| <p align="center">45' 3'</p> | <p align="right">South Korea <img src="/static/logos/South Korea.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Thailand.png" height="25px"> Thailand</p> |
-| <p align="center">18'</p> | <p align="right">Myanmar <img src="/static/logos/Myanmar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
-| <p align="center">12:00</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
+| <p align="center">87'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/North Korea.png" height="25px"> North Korea</p> |
+| <p align="center">48'</p> | <p align="right">South Korea <img src="/static/logos/South Korea.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Thailand.png" height="25px"> Thailand</p> |
+| <p align="center">36'</p> | <p align="right">Myanmar <img src="/static/logos/Myanmar.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
+| <p align="center">7'</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan.png" height="25px"> Uzbekistan</p> |
 | <p align="center">12:30</p> | <p align="right">Singapore <img src="/static/logos/Singapore.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/China.png" height="25px"> China</p> |
 | <p align="center">13:30</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
 | <p align="center">16:00</p> | <p align="right">Iran <img src="/static/logos/Iran.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turkmenistan.png" height="25px"> Turkmenistan</p> |
@@ -97,8 +97,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Union Berlin <img src="/static/logos/Union Berlin.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Magdeburg.png" height="25px"> Magdeburg</p> |
-| <p align="center">12:00</p> | <p align="right">FC Utrecht <img src="/static/logos/FC Utrecht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Helmond Sport.png" height="25px"> Helmond Sport</p> |
+| <p align="center">48'</p> | <p align="right">Union Berlin <img src="/static/logos/Union Berlin.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Magdeburg.png" height="25px"> Magdeburg</p> |
+| <p align="center">8'</p> | <p align="right">FC Utrecht <img src="/static/logos/FC Utrecht.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Helmond Sport.png" height="25px"> Helmond Sport</p> |
 </div>
 
 
