@@ -62,14 +62,14 @@
 | <p align="center">FT</p> | <p align="right">Singapore <img src="/static/logos/Singapore.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/China.png" height="25px"> China</p> |
 | <p align="center">FT</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Vietnam.png" height="25px"> Vietnam</p> |
 | <p align="center">FT</p> | <p align="right">Iran <img src="/static/logos/Iran.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Turkmenistan.png" height="25px"> Turkmenistan</p> |
-| <p align="center">54'</p> | <p align="right">Oman <img src="/static/logos/Oman.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Malaysia.png" height="25px"> Malaysia</p> |
-| <p align="center">50'</p> | <p align="right">UAE <img src="/static/logos/UAE.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Yemen.png" height="25px"> Yemen</p> |
-| <p align="center">42'</p> | <p align="right">Palestine <img src="/static/logos/Palestine.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bangladesh.png" height="25px"> Bangladesh</p> |
-| <p align="center">43'</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kuwait.png" height="25px"> Kuwait</p> |
-| <p align="center">12'</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tajikistan.png" height="25px"> Tajikistan</p> |
-| <p align="center">13'</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/India.png" height="25px"> India</p> |
-| <p align="center">9'</p> | <p align="right">Nepal <img src="/static/logos/Nepal.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bahrain.png" height="25px"> Bahrain</p> |
-| <p align="center">11'</p> | <p align="right">Iraq <img src="/static/logos/Iraq.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Philippines.png" height="25px"> Philippines</p> |
+| <p align="center">62'</p> | <p align="right">Oman <img src="/static/logos/Oman.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Malaysia.png" height="25px"> Malaysia</p> |
+| <p align="center">58'</p> | <p align="right">UAE <img src="/static/logos/UAE.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Yemen.png" height="25px"> Yemen</p> |
+| <p align="center">45' 4'</p> | <p align="right">Palestine <img src="/static/logos/Palestine.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bangladesh.png" height="25px"> Bangladesh</p> |
+| <p align="center">45' 5'</p> | <p align="right">Qatar <img src="/static/logos/Qatar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kuwait.png" height="25px"> Kuwait</p> |
+| <p align="center">20'</p> | <p align="right">Saudi Arabia <img src="/static/logos/Saudi Arabia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tajikistan.png" height="25px"> Tajikistan</p> |
+| <p align="center">21'</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/India.png" height="25px"> India</p> |
+| <p align="center">17'</p> | <p align="right">Nepal <img src="/static/logos/Nepal.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bahrain.png" height="25px"> Bahrain</p> |
+| <p align="center">18'</p> | <p align="right">Iraq <img src="/static/logos/Iraq.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Philippines.png" height="25px"> Philippines</p> |
 </div>
 
 
