@@ -105,7 +105,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cimarrones de Sonora.png" height="25px"> Cimarrones de Sonora</p> |
-| <p align="center">82'</p> | <p align="right">Dorados <img src="/static/logos/Dorados.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Leones Negros.png" height="25px"> Leones Negros</p> |
+| <p align="center">90'</p> | <p align="right">Dorados <img src="/static/logos/Dorados.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Leones Negros.png" height="25px"> Leones Negros</p> |
 </div>
 
 
