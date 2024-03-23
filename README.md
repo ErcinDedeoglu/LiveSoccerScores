@@ -58,7 +58,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">La Equidad <img src="/static/logos/La Equidad.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Independiente Medellin.png" height="25px"> Independiente Medellin</p> |
 | <p align="center">FT</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Cali.png" height="25px"> Deportivo Cali</p> |
-| <p align="center">62'</p> | <p align="right">Tolima <img src="/static/logos/Tolima.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
+| <p align="center">76'</p> | <p align="right">Tolima <img src="/static/logos/Tolima.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
 | <p align="center">23:20</p> | <p align="right">CD Jaguares <img src="/static/logos/CD Jaguares.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fortaleza FC.png" height="25px"> Fortaleza FC</p> |
 </div>
 
@@ -69,7 +69,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Everton CD <img src="/static/logos/Everton CD.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
+| <p align="center">86'</p> | <p align="right">Everton CD <img src="/static/logos/Everton CD.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
 </div>
 
 
@@ -97,7 +97,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Tepatitlan FC <img src="/static/logos/Tepatitlan FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
+| <p align="center">85'</p> | <p align="right">Tepatitlan FC <img src="/static/logos/Tepatitlan FC.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
 | <p align="center">23:00</p> | <p align="right">Mineros de Zacatecas <img src="/static/logos/Mineros de Zacatecas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorados.png" height="25px"> Dorados</p> |
 </div>
 
@@ -143,7 +143,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">San Telmo <img src="/static/logos/San Telmo.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Almagro.png" height="25px"> Almagro</p> |
 | <p align="center">FT</p> | <p align="right">Deportivo Maipu <img src="/static/logos/Deportivo Maipu.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tristan Suarez.png" height="25px"> Tristan Suarez</p> |
-| <p align="center">87'</p> | <p align="right">Quilmes <img src="/static/logos/Quilmes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guillermo Brown.png" height="25px"> Guillermo Brown</p> |
+| <p align="center">FT</p> | <p align="right">Quilmes <img src="/static/logos/Quilmes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guillermo Brown.png" height="25px"> Guillermo Brown</p> |
 </div>
 
 
