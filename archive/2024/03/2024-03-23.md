@@ -34,7 +34,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Angel City FC.png" height="25px"> Angel City FC</p> |
 | <p align="center">FT</p> | <p align="right">Utah Royals <img src="/static/logos/Utah Royals.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/North Carolina Courage.png" height="25px"> North Carolina Courage</p> |
-| <p align="center">51'</p> | <p align="right">Chicago Red Stars <img src="/static/logos/Chicago Red Stars.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Seattle Reign FC.png" height="25px"> Seattle Reign FC</p> |
+| <p align="center">59'</p> | <p align="right">Chicago Red Stars <img src="/static/logos/Chicago Red Stars.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Seattle Reign FC.png" height="25px"> Seattle Reign FC</p> |
 | <p align="center">23:30</p> | <p align="right">Washington Spirit <img src="/static/logos/Washington Spirit.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bay FC.png" height="25px"> Bay FC</p> |
 </div>
 
@@ -45,7 +45,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Canada <img src="/static/logos/Canada.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Trinidad and Tobago.png" height="25px"> Trinidad and Tobago</p> |
+| <p align="center">66'</p> | <p align="right">Canada <img src="/static/logos/Canada.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Trinidad and Tobago.png" height="25px"> Trinidad and Tobago</p> |
 | <p align="center">23:15</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Honduras.png" height="25px"> Honduras</p> |
 </div>
 
@@ -58,7 +58,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">La Equidad <img src="/static/logos/La Equidad.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Independiente Medellin.png" height="25px"> Independiente Medellin</p> |
 | <p align="center">FT</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Cali.png" height="25px"> Deportivo Cali</p> |
-| <p align="center">7'</p> | <p align="right">Tolima <img src="/static/logos/Tolima.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
+| <p align="center">15'</p> | <p align="right">Tolima <img src="/static/logos/Tolima.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
 | <p align="center">23:20</p> | <p align="right">CD Jaguares <img src="/static/logos/CD Jaguares.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fortaleza FC.png" height="25px"> Fortaleza FC</p> |
 </div>
 
@@ -69,7 +69,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Everton CD <img src="/static/logos/Everton CD.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
+| <p align="center">24'</p> | <p align="right">Everton CD <img src="/static/logos/Everton CD.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
 </div>
 
 
@@ -85,8 +85,8 @@
 | <p align="center">FT</p> | <p align="right">Ireland <img src="/static/logos/Ireland.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Belgium.png" height="25px"> Belgium</p> |
 | <p align="center">FT</p> | <p align="right">England <img src="/static/logos/England.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Brazil.png" height="25px"> Brazil</p> |
 | <p align="center">FT</p> | <p align="right">Denmark <img src="/static/logos/Denmark.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Switzerland.png" height="25px"> Switzerland</p> |
-| <p align="center">60'</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Germany.png" height="25px"> Germany</p> |
-| <p align="center">54'</p> | <p align="right">Tunisia <img src="/static/logos/Tunisia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Croatia.png" height="25px"> Croatia</p> |
+| <p align="center">68'</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Germany.png" height="25px"> Germany</p> |
+| <p align="center">61'</p> | <p align="right">Tunisia <img src="/static/logos/Tunisia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Croatia.png" height="25px"> Croatia</p> |
 | <p align="center">22:00</p> | <p align="right">Dominican Republic <img src="/static/logos/Dominican Republic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aruba.png" height="25px"> Aruba</p> |
 </div>
 
@@ -97,7 +97,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Tepatitlan FC <img src="/static/logos/Tepatitlan FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
+| <p align="center">22'</p> | <p align="right">Tepatitlan FC <img src="/static/logos/Tepatitlan FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
 | <p align="center">23:00</p> | <p align="right">Mineros de Zacatecas <img src="/static/logos/Mineros de Zacatecas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorados.png" height="25px"> Dorados</p> |
 </div>
 
@@ -142,8 +142,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">San Telmo <img src="/static/logos/San Telmo.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Almagro.png" height="25px"> Almagro</p> |
-| <p align="center">57'</p> | <p align="right">Deportivo Maipu <img src="/static/logos/Deportivo Maipu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tristan Suarez.png" height="25px"> Tristan Suarez</p> |
-| <p align="center">30'</p> | <p align="right">Quilmes <img src="/static/logos/Quilmes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guillermo Brown.png" height="25px"> Guillermo Brown</p> |
+| <p align="center">65'</p> | <p align="right">Deportivo Maipu <img src="/static/logos/Deportivo Maipu.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tristan Suarez.png" height="25px"> Tristan Suarez</p> |
+| <p align="center">38'</p> | <p align="right">Quilmes <img src="/static/logos/Quilmes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guillermo Brown.png" height="25px"> Guillermo Brown</p> |
 </div>
 
 
@@ -529,7 +529,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Alcorcon <img src="/static/logos/Alcorcon.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Real Oviedo.png" height="25px"> Real Oviedo</p> |
 | <p align="center">FT</p> | <p align="right">Villarreal B <img src="/static/logos/Villarreal B.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Leganes.png" height="25px"> Leganes</p> |
-| <p align="center">59'</p> | <p align="right">Espanyol <img src="/static/logos/Espanyol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tenerife.png" height="25px"> Tenerife</p> |
+| <p align="center">67'</p> | <p align="right">Espanyol <img src="/static/logos/Espanyol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tenerife.png" height="25px"> Tenerife</p> |
 </div>
 
 
