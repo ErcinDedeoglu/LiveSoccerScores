@@ -64,7 +64,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">America de Cali <img src="/static/logos/America de Cali.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Chico FC.png" height="25px"> Chico FC</p> |
-| <p align="center">26'</p> | <p align="right">Bucaramanga <img src="/static/logos/Bucaramanga.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
+| <p align="center">HT</p> | <p align="right">Bucaramanga <img src="/static/logos/Bucaramanga.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
 | <p align="center">23:10</p> | <p align="right">Atletico Nacional <img src="/static/logos/Atletico Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Pasto.png" height="25px"> Deportivo Pasto</p> |
 </div>
 
@@ -76,8 +76,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ethiopia <img src="/static/logos/Ethiopia.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Lesotho.png" height="25px"> Lesotho</p> |
-| <p align="center">82'</p> | <p align="right">San Marino <img src="/static/logos/San Marino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/St. Kitts and Nevis.png" height="25px"> St. Kitts and Nevis</p> |
-| <p align="center">60'</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ecuador.png" height="25px"> Ecuador</p> |
+| <p align="center">FT</p> | <p align="right">San Marino <img src="/static/logos/San Marino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/St. Kitts and Nevis.png" height="25px"> St. Kitts and Nevis</p> |
+| <p align="center">90' 2'</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ecuador.png" height="25px"> Ecuador</p> |
 | <p align="center">22:00</p> | <p align="right">Guatemala <img src="/static/logos/Guatemala.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
 </div>
 
@@ -100,9 +100,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">NC Magra <img src="/static/logos/NC Magra.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/CS Constantine.png" height="25px"> CS Constantine</p> |
-| <p align="center">28'</p> | <p align="right">ES Setif <img src="/static/logos/ES Setif.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ASO Chlef.png" height="25px"> ASO Chlef</p> |
-| <p align="center">23'</p> | <p align="right">JS Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> CR Belouizdad</p> |
-| <p align="center">24'</p> | <p align="right">USM Alger <img src="/static/logos/USM Alger.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/US Biskra.png" height="25px"> US Biskra</p> |
+| <p align="center">HT</p> | <p align="right">ES Setif <img src="/static/logos/ES Setif.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ASO Chlef.png" height="25px"> ASO Chlef</p> |
+| <p align="center">HT</p> | <p align="right">JS Kabylie <img src="/static/logos/JS Kabylie.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> CR Belouizdad</p> |
+| <p align="center">HT</p> | <p align="right">USM Alger <img src="/static/logos/USM Alger.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/US Biskra.png" height="25px"> US Biskra</p> |
 </div>
 
 
@@ -170,7 +170,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Montpellier <img src="/static/logos/Montpellier.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Paris Saint Germain.png" height="25px"> Paris Saint Germain</p> |
+| <p align="center">FT</p> | <p align="right">Montpellier <img src="/static/logos/Montpellier.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Paris Saint Germain.png" height="25px"> Paris Saint Germain</p> |
 </div>
 
 
@@ -330,7 +330,7 @@
 | <p align="center">FT</p> | <p align="right">Real Valladolid <img src="/static/logos/Real Valladolid.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Eibar.png" height="25px"> Eibar</p> |
 | <p align="center">FT</p> | <p align="right">CD Mirandes <img src="/static/logos/CD Mirandes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Zaragoza.png" height="25px"> Real Zaragoza</p> |
 | <p align="center">FT</p> | <p align="right">Levante <img src="/static/logos/Levante.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Elche.png" height="25px"> Elche</p> |
-| <p align="center">65'</p> | <p align="right">Racing Santander <img src="/static/logos/Racing Santander.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Eldense.png" height="25px"> Eldense</p> |
+| <p align="center">FT</p> | <p align="right">Racing Santander <img src="/static/logos/Racing Santander.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Eldense.png" height="25px"> Eldense</p> |
 </div>
 
 
