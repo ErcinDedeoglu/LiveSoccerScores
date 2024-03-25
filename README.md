@@ -27,7 +27,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Rionegro Aguilas <img src="/static/logos/Rionegro Aguilas.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Santa Fe.png" height="25px"> Santa Fe</p> |
-| <p align="center">90'</p> | <p align="right">Once Caldas <img src="/static/logos/Once Caldas.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza FC</p> |
+| <p align="center">FT</p> | <p align="right">Once Caldas <img src="/static/logos/Once Caldas.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza FC</p> |
 </div>
 
 
@@ -55,8 +55,8 @@
 | <p align="center">FT</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Serbia.png" height="25px"> Serbia</p> |
 | <p align="center">FT</p> | <p align="right">Sweden <img src="/static/logos/Sweden.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Albania.png" height="25px"> Albania</p> |
 | <p align="center">FT</p> | <p align="right">Cape Verde <img src="/static/logos/Cape Verde.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Equatorial Guinea.png" height="25px"> Equatorial Guinea</p> |
-| <p align="center">88'</p> | <p align="right">Comoros <img src="/static/logos/Comoros.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Angola.png" height="25px"> Angola</p> |
-| <p align="center">90' 5'</p> | <p align="right">Bolivia <img src="/static/logos/Bolivia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
+| <p align="center">FT</p> | <p align="right">Comoros <img src="/static/logos/Comoros.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Angola.png" height="25px"> Angola</p> |
+| <p align="center">FT</p> | <p align="right">Bolivia <img src="/static/logos/Bolivia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
 </div>
 
 
@@ -99,7 +99,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Godoy Cruz <img src="/static/logos/Godoy Cruz.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Martin San Juan.png" height="25px"> San Martin San Juan</p> |
-| <p align="center">7'</p> | <p align="right">Club Atletico Platense <img src="/static/logos/Club Atletico Platense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olimpo.png" height="25px"> Olimpo</p> |
+| <p align="center">16'</p> | <p align="right">Club Atletico Platense <img src="/static/logos/Club Atletico Platense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Olimpo.png" height="25px"> Olimpo</p> |
 </div>
 
 
@@ -121,7 +121,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Almirante Brown <img src="/static/logos/Almirante Brown.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimnasia Mendoza.png" height="25px"> Gimnasia Mendoza</p> |
-| <p align="center">45' 3'</p> | <p align="right">Ferro Carril Oeste <img src="/static/logos/Ferro Carril Oeste.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/All Boys.png" height="25px"> All Boys</p> |
+| <p align="center">HT</p> | <p align="right">Ferro Carril Oeste <img src="/static/logos/Ferro Carril Oeste.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/All Boys.png" height="25px"> All Boys</p> |
 </div>
 
 
