@@ -52,9 +52,9 @@
 | <p align="center">FT</p> | <p align="right">Sri Lanka <img src="/static/logos/Sri Lanka.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bhutan.png" height="25px"> Bhutan</p> |
 | <p align="center">FT</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bulgaria.png" height="25px"> Bulgaria</p> |
 | <p align="center">17:00</p> | <p align="right">Russia <img src="/static/logos/Russia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paraguay.png" height="25px"> Paraguay</p> |
-| <p align="center">72'</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Serbia.png" height="25px"> Serbia</p> |
-| <p align="center">28'</p> | <p align="right">Sweden <img src="/static/logos/Sweden.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Albania.png" height="25px"> Albania</p> |
-| <p align="center">19:00</p> | <p align="right">Cape Verde <img src="/static/logos/Cape Verde.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Equatorial Guinea.png" height="25px"> Equatorial Guinea</p> |
+| <p align="center">FT</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Serbia.png" height="25px"> Serbia</p> |
+| <p align="center">65'</p> | <p align="right">Sweden <img src="/static/logos/Sweden.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Albania.png" height="25px"> Albania</p> |
+| <p align="center">25'</p> | <p align="right">Cape Verde <img src="/static/logos/Cape Verde.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Equatorial Guinea.png" height="25px"> Equatorial Guinea</p> |
 | <p align="center">21:00</p> | <p align="right">Bolivia <img src="/static/logos/Bolivia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
 | <p align="center">21:30</p> | <p align="right">Comoros <img src="/static/logos/Comoros.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Angola.png" height="25px"> Angola</p> |
 </div>
@@ -87,8 +87,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">JS Saoura <img src="/static/logos/JS Saoura.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
 | <p align="center">FT</p> | <p align="right">Paradou AC <img src="/static/logos/Paradou AC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ben Aknoun.png" height="25px"> Ben Aknoun</p> |
+| <p align="center">FT</p> | <p align="right">JS Saoura <img src="/static/logos/JS Saoura.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/MC Alger.png" height="25px"> MC Alger</p> |
 </div>
 
 
@@ -109,8 +109,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:30</p> | <p align="right">Acassuso <img src="/static/logos/Acassuso.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Martin Burzaco.png" height="25px"> San Martin Burzaco</p> |
-| <p align="center">18:30</p> | <p align="right">Villa Dalmine <img src="/static/logos/Villa Dalmine.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Armenio.png" height="25px"> Deportivo Armenio</p> |
+| <p align="center">45' 4'</p> | <p align="right">Acassuso <img src="/static/logos/Acassuso.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Martin Burzaco.png" height="25px"> San Martin Burzaco</p> |
+| <p align="center">HT</p> | <p align="right">Villa Dalmine <img src="/static/logos/Villa Dalmine.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Armenio.png" height="25px"> Deportivo Armenio</p> |
 </div>
 
 
@@ -120,7 +120,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Almirante Brown <img src="/static/logos/Almirante Brown.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gimnasia Mendoza.png" height="25px"> Gimnasia Mendoza</p> |
+| <p align="center">9'</p> | <p align="right">Almirante Brown <img src="/static/logos/Almirante Brown.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimnasia Mendoza.png" height="25px"> Gimnasia Mendoza</p> |
 | <p align="center">22:00</p> | <p align="right">Ferro Carril Oeste <img src="/static/logos/Ferro Carril Oeste.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/All Boys.png" height="25px"> All Boys</p> |
 </div>
 
@@ -151,8 +151,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Heart of Lions <img src="/static/logos/Heart of Lions.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Bibiani Gold Stars.png" height="25px"> Bibiani Gold Stars</p> |
 | <p align="center">FT</p> | <p align="right">Real Tamale <img src="/static/logos/Real Tamale.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Accra Lions.png" height="25px"> Accra Lions</p> |
+| <p align="center">FT</p> | <p align="right">Heart of Lions <img src="/static/logos/Heart of Lions.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Bibiani Gold Stars.png" height="25px"> Bibiani Gold Stars</p> |
 </div>
 
 
@@ -162,9 +162,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">71'</p> | <p align="right">Hapoel Ironi Acre <img src="/static/logos/Hapoel Ironi Acre.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"> Maccabi Kabilio Jaffa</p> |
-| <p align="center">71'</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Kfar Saba.png" height="25px"> Hapoel Kfar Saba</p> |
-| <p align="center">72'</p> | <p align="right">Sektzia Nes Tziona <img src="/static/logos/Sektzia Nes Tziona.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Ihud Bnei Shfaram.png" height="25px"> Ihud Bnei Shfaram</p> |
+| <p align="center">FT</p> | <p align="right">Hapoel Ironi Acre <img src="/static/logos/Hapoel Ironi Acre.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"> Maccabi Kabilio Jaffa</p> |
+| <p align="center">FT</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Kfar Saba.png" height="25px"> Hapoel Kfar Saba</p> |
+| <p align="center">FT</p> | <p align="right">Sektzia Nes Tziona <img src="/static/logos/Sektzia Nes Tziona.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Ihud Bnei Shfaram.png" height="25px"> Ihud Bnei Shfaram</p> |
 </div>
 
 
