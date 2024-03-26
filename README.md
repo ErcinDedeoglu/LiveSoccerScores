@@ -35,10 +35,10 @@
 | <p align="center">FT</p> | <p align="right">China <img src="/static/logos/China.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Singapore.png" height="25px"> Singapore</p> |
 | <p align="center">FT</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Indonesia.png" height="25px"> Indonesia</p> |
 | <p align="center">FT</p> | <p align="right">Thailand <img src="/static/logos/Thailand.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/South Korea.png" height="25px"> South Korea</p> |
-| <p align="center">HT</p> | <p align="right">India <img src="/static/logos/India.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Afghanistan.png" height="25px"> Afghanistan</p> |
-| <p align="center">32'</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Oman.png" height="25px"> Oman</p> |
-| <p align="center">34'</p> | <p align="right">Kyrgyzstan <img src="/static/logos/Kyrgyzstan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chinese Taipei.png" height="25px"> Chinese Taipei</p> |
-| <p align="center">5'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hong Kong.png" height="25px"> Hong Kong</p> |
+| <p align="center">53'</p> | <p align="right">India <img src="/static/logos/India.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Afghanistan.png" height="25px"> Afghanistan</p> |
+| <p align="center">41'</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Oman.png" height="25px"> Oman</p> |
+| <p align="center">43'</p> | <p align="right">Kyrgyzstan <img src="/static/logos/Kyrgyzstan.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Chinese Taipei.png" height="25px"> Chinese Taipei</p> |
+| <p align="center">13'</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hong Kong.png" height="25px"> Hong Kong</p> |
 | <p align="center">15:00</p> | <p align="right">Turkmenistan <img src="/static/logos/Turkmenistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iran.png" height="25px"> Iran</p> |
 | <p align="center">15:00</p> | <p align="right">Tajikistan <img src="/static/logos/Tajikistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Saudi Arabia.png" height="25px"> Saudi Arabia</p> |
 | <p align="center">19:00</p> | <p align="right">Bahrain <img src="/static/logos/Bahrain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nepal.png" height="25px"> Nepal</p> |
@@ -55,7 +55,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">34'</p> | <p align="right">Cayman Islands <img src="/static/logos/Cayman Islands.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Moldova.png" height="25px"> Moldova</p> |
+| <p align="center">42'</p> | <p align="right">Cayman Islands <img src="/static/logos/Cayman Islands.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Moldova.png" height="25px"> Moldova</p> |
 | <p align="center">17:00</p> | <p align="right">Finland <img src="/static/logos/Finland.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Estonia.png" height="25px"> Estonia</p> |
 | <p align="center">17:00</p> | <p align="right">Latvia <img src="/static/logos/Latvia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liechtenstein.png" height="25px"> Liechtenstein</p> |
 | <p align="center">18:00</p> | <p align="right">Malta <img src="/static/logos/Malta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belarus.png" height="25px"> Belarus</p> |
