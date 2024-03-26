@@ -30,7 +30,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">08:00</p> | <p align="right">North Korea <img src="/static/logos/North Korea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
 | <p align="center">FT</p> | <p align="right">Lebanon <img src="/static/logos/Lebanon.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Australia.png" height="25px"> Australia</p> |
-| <p align="center">90' 8'</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
+| <p align="center">90' 24'</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
 | <p align="center">11:00</p> | <p align="right">Philippines <img src="/static/logos/Philippines.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
 | <p align="center">12:00</p> | <p align="right">China <img src="/static/logos/China.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singapore.png" height="25px"> Singapore</p> |
 | <p align="center">12:00</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Indonesia.png" height="25px"> Indonesia</p> |
