@@ -31,10 +31,10 @@
 | <p align="center">08:00</p> | <p align="right">North Korea <img src="/static/logos/North Korea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
 | <p align="center">FT</p> | <p align="right">Lebanon <img src="/static/logos/Lebanon.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Australia.png" height="25px"> Australia</p> |
 | <p align="center">FT</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
-| <p align="center">90' 29'</p> | <p align="right">Philippines <img src="/static/logos/Philippines.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
-| <p align="center">45' 33'</p> | <p align="right">China <img src="/static/logos/China.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Singapore.png" height="25px"> Singapore</p> |
-| <p align="center">45' 33'</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Indonesia.png" height="25px"> Indonesia</p> |
-| <p align="center">45' 3'</p> | <p align="right">Thailand <img src="/static/logos/Thailand.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Korea.png" height="25px"> South Korea</p> |
+| <p align="center">90' 37'</p> | <p align="right">Philippines <img src="/static/logos/Philippines.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
+| <p align="center">45' 40'</p> | <p align="right">China <img src="/static/logos/China.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Singapore.png" height="25px"> Singapore</p> |
+| <p align="center">45' 40'</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Indonesia.png" height="25px"> Indonesia</p> |
+| <p align="center">45' 11'</p> | <p align="right">Thailand <img src="/static/logos/Thailand.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/South Korea.png" height="25px"> South Korea</p> |
 | <p align="center">13:30</p> | <p align="right">India <img src="/static/logos/India.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Afghanistan.png" height="25px"> Afghanistan</p> |
 | <p align="center">14:00</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oman.png" height="25px"> Oman</p> |
 | <p align="center">14:00</p> | <p align="right">Kyrgyzstan <img src="/static/logos/Kyrgyzstan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chinese Taipei.png" height="25px"> Chinese Taipei</p> |
@@ -85,7 +85,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 31'</p> | <p align="right">FC Copenhagen <img src="/static/logos/FC Copenhagen.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/B 93.png" height="25px"> B 93</p> |
+| <p align="center">90' 38'</p> | <p align="right">FC Copenhagen <img src="/static/logos/FC Copenhagen.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/B 93.png" height="25px"> B 93</p> |
 </div>
 
 
