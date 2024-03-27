@@ -90,7 +90,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">2'</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SL Benfica.png" height="25px"> SL Benfica</p> |
+| <p align="center">18'</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SL Benfica.png" height="25px"> SL Benfica</p> |
 | <p align="center">20:00</p> | <p align="right">Chelsea FC Women <img src="/static/logos/Chelsea FC Women.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ajax.png" height="25px"> Ajax</p> |
 </div>
 
