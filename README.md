@@ -82,7 +82,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Walton and Hersham <img src="/static/logos/Walton and Hersham.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Harrow Borough.png" height="25px"> Harrow Borough</p> |
+| <p align="center">45' 5'</p> | <p align="right">Walton and Hersham <img src="/static/logos/Walton and Hersham.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Harrow Borough.png" height="25px"> Harrow Borough</p> |
 </div>
 
 
@@ -114,7 +114,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Barcelona <img src="/static/logos/Barcelona.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Brann.png" height="25px"> Brann</p> |
-| <p align="center">28'</p> | <p align="right">Paris Saint Germain <img src="/static/logos/Paris Saint Germain.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/BK Haecken FF.png" height="25px"> BK Haecken FF</p> |
+| <p align="center">HT</p> | <p align="right">Paris Saint Germain <img src="/static/logos/Paris Saint Germain.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/BK Haecken FF.png" height="25px"> BK Haecken FF</p> |
 </div>
 
 
@@ -124,10 +124,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Carrarese <img src="/static/logos/Carrarese.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Perugia.png" height="25px"> Perugia</p> |
-| <p align="center">43'</p> | <p align="right">Fermana <img src="/static/logos/Fermana.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Rimini.png" height="25px"> Rimini</p> |
-| <p align="center">43'</p> | <p align="right">Catania <img src="/static/logos/Catania.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Giugliano.png" height="25px"> Giugliano</p> |
-| <p align="center">43'</p> | <p align="right">Calcio Padova <img src="/static/logos/Calcio Padova.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pergolettese.png" height="25px"> Pergolettese</p> |
+| <p align="center">63'</p> | <p align="right">Carrarese <img src="/static/logos/Carrarese.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Perugia.png" height="25px"> Perugia</p> |
+| <p align="center">50'</p> | <p align="right">Fermana <img src="/static/logos/Fermana.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Rimini.png" height="25px"> Rimini</p> |
+| <p align="center">52'</p> | <p align="right">Catania <img src="/static/logos/Catania.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Giugliano.png" height="25px"> Giugliano</p> |
+| <p align="center">49'</p> | <p align="right">Calcio Padova <img src="/static/logos/Calcio Padova.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Pergolettese.png" height="25px"> Pergolettese</p> |
 </div>
 
 
