@@ -102,8 +102,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Persik <img src="/static/logos/Persik.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
 | <p align="center">FT</p> | <p align="right">Persib Bandung <img src="/static/logos/Persib Bandung.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bhayangkara Presisi Indonesia FC.png" height="25px"> Bhayangkara Presisi Indonesia FC</p> |
+| <p align="center">FT</p> | <p align="right">Persik <img src="/static/logos/Persik.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
 </div>
 
 
@@ -113,7 +113,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:45</p> | <p align="right">Barcelona <img src="/static/logos/Barcelona.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brann.png" height="25px"> Brann</p> |
+| <p align="center">11'</p> | <p align="right">Barcelona <img src="/static/logos/Barcelona.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brann.png" height="25px"> Brann</p> |
 | <p align="center">20:00</p> | <p align="right">Paris Saint Germain <img src="/static/logos/Paris Saint Germain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/BK Haecken FF.png" height="25px"> BK Haecken FF</p> |
 </div>
 
@@ -137,7 +137,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Wisla Pulawy <img src="/static/logos/Wisla Pulawy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Olimpia Elblag.png" height="25px"> Olimpia Elblag</p> |
+| <p align="center">FT</p> | <p align="right">Wisla Pulawy <img src="/static/logos/Wisla Pulawy.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Olimpia Elblag.png" height="25px"> Olimpia Elblag</p> |
 | <p align="center">18:00</p> | <p align="right">GKS Jastrzebie <img src="/static/logos/GKS Jastrzebie.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kotwica Kolobrzeg.png" height="25px"> Kotwica Kolobrzeg</p> |
 | <p align="center">18:30</p> | <p align="right">Stal Stalowa Wola <img src="/static/logos/Stal Stalowa Wola.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sandecja Nowy Sacz.png" height="25px"> Sandecja Nowy Sacz</p> |
 </div>
