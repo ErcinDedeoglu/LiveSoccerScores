@@ -59,7 +59,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11'</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United FC</p> |
+| <p align="center">23'</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United FC</p> |
 </div>
 
 
@@ -125,8 +125,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:30</p> | <p align="right">Carrarese <img src="/static/logos/Carrarese.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Perugia.png" height="25px"> Perugia</p> |
-| <p align="center">19:45</p> | <p align="right">Fermana <img src="/static/logos/Fermana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rimini.png" height="25px"> Rimini</p> |
 | <p align="center">19:45</p> | <p align="right">Catania <img src="/static/logos/Catania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Giugliano.png" height="25px"> Giugliano</p> |
+| <p align="center">19:45</p> | <p align="right">Fermana <img src="/static/logos/Fermana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rimini.png" height="25px"> Rimini</p> |
 | <p align="center">19:45</p> | <p align="right">Calcio Padova <img src="/static/logos/Calcio Padova.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pergolettese.png" height="25px"> Pergolettese</p> |
 </div>
 
