@@ -102,8 +102,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">Persik <img src="/static/logos/Persik.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
-| <p align="center">82'</p> | <p align="right">Persib Bandung <img src="/static/logos/Persib Bandung.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bhayangkara Presisi Indonesia FC.png" height="25px"> Bhayangkara Presisi Indonesia FC</p> |
+| <p align="center">90' 3'</p> | <p align="right">Persib Bandung <img src="/static/logos/Persib Bandung.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bhayangkara Presisi Indonesia FC.png" height="25px"> Bhayangkara Presisi Indonesia FC</p> |
+| <p align="center">90' 5'</p> | <p align="right">Persik <img src="/static/logos/Persik.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
 </div>
 
 
@@ -126,8 +126,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">19:30</p> | <p align="right">Carrarese <img src="/static/logos/Carrarese.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Perugia.png" height="25px"> Perugia</p> |
 | <p align="center">19:45</p> | <p align="right">Fermana <img src="/static/logos/Fermana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rimini.png" height="25px"> Rimini</p> |
-| <p align="center">19:45</p> | <p align="right">Calcio Padova <img src="/static/logos/Calcio Padova.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pergolettese.png" height="25px"> Pergolettese</p> |
 | <p align="center">19:45</p> | <p align="right">Catania <img src="/static/logos/Catania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Giugliano.png" height="25px"> Giugliano</p> |
+| <p align="center">19:45</p> | <p align="right">Calcio Padova <img src="/static/logos/Calcio Padova.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pergolettese.png" height="25px"> Pergolettese</p> |
 </div>
 
 
@@ -149,8 +149,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Emirates Club <img src="/static/logos/Emirates Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bani Yas.png" height="25px"> Bani Yas</p> |
 | <p align="center">18:00</p> | <p align="right">Al-Nasr SC <img src="/static/logos/Al-Nasr SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hatta.png" height="25px"> Hatta</p> |
+| <p align="center">18:00</p> | <p align="right">Emirates Club <img src="/static/logos/Emirates Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bani Yas.png" height="25px"> Bani Yas</p> |
 </div>
 
 
