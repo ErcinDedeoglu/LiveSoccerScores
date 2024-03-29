@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">26'</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chicago Red Stars.png" height="25px"> Chicago Red Stars</p> |
+| <p align="center">42'</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chicago Red Stars.png" height="25px"> Chicago Red Stars</p> |
 </div>
 
 
@@ -61,7 +61,7 @@
 | <p align="center">FT</p> | <p align="right">Instituto <img src="/static/logos/Instituto.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
 | <p align="center">FT</p> | <p align="right">Tigre <img src="/static/logos/Tigre.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Belgrano.png" height="25px"> Belgrano</p> |
 | <p align="center">FT</p> | <p align="right">Defensa y Justicia <img src="/static/logos/Defensa y Justicia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Estudiantes.png" height="25px"> Estudiantes</p> |
-| <p align="center">3'</p> | <p align="right">Huracan <img src="/static/logos/Huracan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/River Plate.png" height="25px"> River Plate</p> |
+| <p align="center">19'</p> | <p align="right">Huracan <img src="/static/logos/Huracan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/River Plate.png" height="25px"> River Plate</p> |
 </div>
 
 
@@ -92,7 +92,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Alianza FC <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tolima.png" height="25px"> Tolima</p> |
+| <p align="center">86'</p> | <p align="right">Alianza FC <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Tolima.png" height="25px"> Tolima</p> |
 </div>
 
 
@@ -102,7 +102,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">4'</p> | <p align="right">Cobresal <img src="/static/logos/Cobresal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
+| <p align="center">20'</p> | <p align="right">Cobresal <img src="/static/logos/Cobresal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
 </div>
 
 
@@ -164,7 +164,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">62'</p> | <p align="right">Agropecuario <img src="/static/logos/Agropecuario.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Quilmes.png" height="25px"> Quilmes</p> |
+| <p align="center">78'</p> | <p align="right">Agropecuario <img src="/static/logos/Agropecuario.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Quilmes.png" height="25px"> Quilmes</p> |
 </div>
 
 
@@ -433,7 +433,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Club Tijuana.png" height="25px"> Club Tijuana</p> |
-| <p align="center">21:45</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
+| <p align="center">FT</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">1 - 5</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
 | <p align="center">23:00</p> | <p align="right">Queretaro <img src="/static/logos/Queretaro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
 </div>
 
@@ -548,7 +548,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">North Carolina FC <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hartford Athletic.png" height="25px"> Hartford Athletic</p> |
+| <p align="center">42'</p> | <p align="right">North Carolina FC <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hartford Athletic.png" height="25px"> Hartford Athletic</p> |
 </div>
 
 
