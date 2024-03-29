@@ -72,7 +72,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bristol City <img src="/static/logos/Bristol City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Leicester.png" height="25px"> Leicester</p> |
-| <p align="center">66'</p> | <p align="right">Millwall <img src="/static/logos/Millwall.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/West Bromwich.png" height="25px"> West Bromwich</p> |
+| <p align="center">74'</p> | <p align="right">Millwall <img src="/static/logos/Millwall.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/West Bromwich.png" height="25px"> West Bromwich</p> |
 | <p align="center">15:00</p> | <p align="right">Huddersfield <img src="/static/logos/Huddersfield.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coventry.png" height="25px"> Coventry</p> |
 | <p align="center">15:00</p> | <p align="right">Southampton <img src="/static/logos/Southampton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Middlesbrough.png" height="25px"> Middlesbrough</p> |
 | <p align="center">15:00</p> | <p align="right">Sheffield Wednesday <img src="/static/logos/Sheffield Wednesday.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Swansea.png" height="25px"> Swansea</p> |
@@ -152,7 +152,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">24'</p> | <p align="right">Egnatia <img src="/static/logos/Egnatia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kukesi.png" height="25px"> Kukesi</p> |
+| <p align="center">32'</p> | <p align="right">Egnatia <img src="/static/logos/Egnatia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kukesi.png" height="25px"> Kukesi</p> |
 | <p align="center">18:00</p> | <p align="right">Vllaznia <img src="/static/logos/Vllaznia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/KF Erzeni.png" height="25px"> KF Erzeni</p> |
 | <p align="center">18:00</p> | <p align="right">KF Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Teuta Durres.png" height="25px"> Teuta Durres</p> |
 </div>
@@ -289,7 +289,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">62'</p> | <p align="right">Gloucester City <img src="/static/logos/Gloucester City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brackley Town.png" height="25px"> Brackley Town</p> |
+| <p align="center">70'</p> | <p align="right">Gloucester City <img src="/static/logos/Gloucester City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brackley Town.png" height="25px"> Brackley Town</p> |
 | <p align="center">15:00</p> | <p align="right">South Shields <img src="/static/logos/South Shields.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spennymoor Town FC.png" height="25px"> Spennymoor Town FC</p> |
 | <p align="center">15:00</p> | <p align="right">Scunthorpe <img src="/static/logos/Scunthorpe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/King's Lynn Town.png" height="25px"> King's Lynn Town</p> |
 | <p align="center">15:00</p> | <p align="right">Farsley Celtic AFC <img src="/static/logos/Farsley Celtic AFC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Southport.png" height="25px"> Southport</p> |
@@ -386,7 +386,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
+| <p align="center">46'</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
 | <p align="center">HT</p> | <p align="right">Barito Putera <img src="/static/logos/Barito Putera.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PSIS.png" height="25px"> PSIS</p> |
 | <p align="center">HT</p> | <p align="right">Madura United <img src="/static/logos/Madura United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
 </div>
@@ -408,11 +408,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Hapoel Nof HaGalil <img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
-| <p align="center">66'</p> | <p align="right">Hapoel Ramat Gan <img src="/static/logos/Hapoel Ramat Gan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ironi Tiberias.png" height="25px"> Ironi Tiberias</p> |
-| <p align="center">62'</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"> Hapoel Rishon LeZion</p> |
-| <p align="center">67'</p> | <p align="right">Hapoel Ironi Kiryat Shmona <img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"> Hapoel Umm al-Fahm</p> |
-| <p align="center">69'</p> | <p align="right">Hapoel Kfar Saba <img src="/static/logos/Hapoel Kfar Saba.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sektzia Nes Tziona.png" height="25px"> Sektzia Nes Tziona</p> |
+| <p align="center">76'</p> | <p align="right">Hapoel Nof HaGalil <img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
+| <p align="center">74'</p> | <p align="right">Hapoel Ramat Gan <img src="/static/logos/Hapoel Ramat Gan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ironi Tiberias.png" height="25px"> Ironi Tiberias</p> |
+| <p align="center">69'</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"> Hapoel Rishon LeZion</p> |
+| <p align="center">75'</p> | <p align="right">Hapoel Ironi Kiryat Shmona <img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"> Hapoel Umm al-Fahm</p> |
+| <p align="center">76'</p> | <p align="right">Hapoel Kfar Saba <img src="/static/logos/Hapoel Kfar Saba.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sektzia Nes Tziona.png" height="25px"> Sektzia Nes Tziona</p> |
 </div>
 
 
@@ -559,9 +559,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Colwyn Bay <img src="/static/logos/Colwyn Bay.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Aberystwyth.png" height="25px"> Aberystwyth</p> |
-| <p align="center">90' 6'</p> | <p align="right">Connah's Quay Nomads <img src="/static/logos/Connah's Quay Nomads.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Newtown.png" height="25px"> Newtown</p> |
-| <p align="center">90' 3'</p> | <p align="right">Barry Town <img src="/static/logos/Barry Town.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Penybont.png" height="25px"> Penybont</p> |
-| <p align="center">90' 1'</p> | <p align="right">Pontypridd United <img src="/static/logos/Pontypridd United.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Haverfordwest.png" height="25px"> Haverfordwest</p> |
+| <p align="center">FT</p> | <p align="right">Connah's Quay Nomads <img src="/static/logos/Connah's Quay Nomads.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Newtown.png" height="25px"> Newtown</p> |
+| <p align="center">FT</p> | <p align="right">Barry Town <img src="/static/logos/Barry Town.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Penybont.png" height="25px"> Penybont</p> |
+| <p align="center">FT</p> | <p align="right">Pontypridd United <img src="/static/logos/Pontypridd United.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Haverfordwest.png" height="25px"> Haverfordwest</p> |
 </div>
 
 
