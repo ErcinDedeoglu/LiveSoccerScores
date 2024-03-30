@@ -115,8 +115,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">33'</p> | <p align="right">Puebla <img src="/static/logos/Puebla.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tigres.png" height="25px"> Tigres</p> |
-| <p align="center">02:00</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
+| <p align="center">HT</p> | <p align="right">Puebla <img src="/static/logos/Puebla.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tigres.png" height="25px"> Tigres</p> |
+| <p align="center">2'</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
 | <p align="center">03:00</p> | <p align="right">Mazatlan FC <img src="/static/logos/Mazatlan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tijuana.png" height="25px"> Tijuana</p> |
 </div>
 
@@ -179,7 +179,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 18'</p> | <p align="right">Junior FC <img src="/static/logos/Junior FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/La Equidad.png" height="25px"> La Equidad</p> |
+| <p align="center">72'</p> | <p align="right">Junior FC <img src="/static/logos/Junior FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/La Equidad.png" height="25px"> La Equidad</p> |
 | <p align="center">19:00</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico Nacional.png" height="25px"> Atletico Nacional</p> |
 | <p align="center">21:10</p> | <p align="right">Deportivo Pasto <img src="/static/logos/Deportivo Pasto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Once Caldas.png" height="25px"> Once Caldas</p> |
 | <p align="center">23:20</p> | <p align="right">Chico FC <img src="/static/logos/Chico FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Jaguares.png" height="25px"> CD Jaguares</p> |
@@ -244,7 +244,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Celaya <img src="/static/logos/Celaya.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tlaxcala FC.png" height="25px"> Tlaxcala FC</p> |
+| <p align="center">FT</p> | <p align="right">Celaya <img src="/static/logos/Celaya.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tlaxcala FC.png" height="25px"> Tlaxcala FC</p> |
 </div>
 
 
