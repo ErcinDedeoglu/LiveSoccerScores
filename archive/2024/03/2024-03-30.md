@@ -205,7 +205,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Newcastle Jets.png" height="25px"> Newcastle Jets</p> |
-| <p align="center">90' 1'</p> | <p align="right">Sydney FC <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
+| <p align="center">FT</p> | <p align="right">Sydney FC <img src="/static/logos/Sydney FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
 </div>
 
 
@@ -428,7 +428,7 @@
 | <p align="center">15:00</p> | <p align="right">Whitehawk <img src="/static/logos/Whitehawk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canvey.png" height="25px"> Canvey</p> |
 | <p align="center">15:00</p> | <p align="right">Atherton Collieries <img src="/static/logos/Atherton Collieries.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Basford United.png" height="25px"> Basford United</p> |
 | <p align="center">15:00</p> | <p align="right">Sholing <img src="/static/logos/Sholing.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Plymouth Parkway.png" height="25px"> Plymouth Parkway</p> |
-| <p align="center">15:00</p> | <p align="right">Potters Bar Town <img src="/static/logos/Potters Bar Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Margate.png" height="25px"> Margate</p> |
+| <p align="center">POS</p> | <p align="right">Potters Bar Town <img src="/static/logos/Potters Bar Town.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Margate.png" height="25px"> Margate</p> |
 | <p align="center">15:00</p> | <p align="right">Stourbridge <img src="/static/logos/Stourbridge.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stratford Town.png" height="25px"> Stratford Town</p> |
 | <p align="center">15:00</p> | <p align="right">Morpeth Town FC <img src="/static/logos/Morpeth Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Warrington Rylands.png" height="25px"> Warrington Rylands</p> |
 | <p align="center">15:00</p> | <p align="right">Stafford Rangers <img src="/static/logos/Stafford Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Workington.png" height="25px"> Workington</p> |
@@ -687,7 +687,7 @@
 | <p align="center">FT</p> | <p align="right">Mito Hollyhock <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kagoshima United.png" height="25px"> Kagoshima United</p> |
 | <p align="center">FT</p> | <p align="right">Roasso Kumamoto <img src="/static/logos/Roasso Kumamoto.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/JEF United Chiba.png" height="25px"> JEF United Chiba</p> |
 | <p align="center">FT</p> | <p align="right">Ehime FC <img src="/static/logos/Ehime FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Fujieda MYFC.png" height="25px"> Fujieda MYFC</p> |
-| <p align="center">75'</p> | <p align="right">Tochigi SC <img src="/static/logos/Tochigi SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/V-Varen Nagasaki.png" height="25px"> V-Varen Nagasaki</p> |
+| <p align="center">83'</p> | <p align="right">Tochigi SC <img src="/static/logos/Tochigi SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/V-Varen Nagasaki.png" height="25px"> V-Varen Nagasaki</p> |
 </div>
 
 
@@ -994,7 +994,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Hoang Anh Gia Lai <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Khanh Hoa FC.png" height="25px"> Khanh Hoa FC</p> |
+| <p align="center">44'</p> | <p align="right">Hoang Anh Gia Lai <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Khanh Hoa FC.png" height="25px"> Khanh Hoa FC</p> |
 | <p align="center">11:00</p> | <p align="right">Song Lam Nghe An <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hai Phong.png" height="25px"> Hai Phong</p> |
 | <p align="center">12:15</p> | <p align="right">Viettel <img src="/static/logos/Viettel.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/QNK Quang Nam.png" height="25px"> QNK Quang Nam</p> |
 </div>
