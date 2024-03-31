@@ -71,8 +71,8 @@
 | <p align="center">FT</p> | <p align="right">Houston Dynamo FC <img src="/static/logos/Houston Dynamo FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> San Jose Earthquakes</p> |
 | <p align="center">FT</p> | <p align="right">Austin FC <img src="/static/logos/Austin FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> FC Dallas</p> |
 | <p align="center">FT</p> | <p align="right">Real Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
-| <p align="center">80'</p> | <p align="right">Vancouver Whitecaps <img src="/static/logos/Vancouver Whitecaps.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Portland Timbers.png" height="25px"> Portland Timbers</p> |
-| <p align="center">81'</p> | <p align="right">LA Galaxy <img src="/static/logos/LA Galaxy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Seattle Sounders FC.png" height="25px"> Seattle Sounders FC</p> |
+| <p align="center">FT</p> | <p align="right">Vancouver Whitecaps <img src="/static/logos/Vancouver Whitecaps.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Portland Timbers.png" height="25px"> Portland Timbers</p> |
+| <p align="center">FT</p> | <p align="right">LA Galaxy <img src="/static/logos/LA Galaxy.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Seattle Sounders FC.png" height="25px"> Seattle Sounders FC</p> |
 | <p align="center">19:45</p> | <p align="right">Atlanta United <img src="/static/logos/Atlanta United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago Fire FC</p> |
 </div>
 
@@ -96,7 +96,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> CD Guadalajara</p> |
 | <p align="center">FT</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Toluca.png" height="25px"> Toluca</p> |
-| <p align="center">54'</p> | <p align="right">Club Universidad Nacional <img src="/static/logos/Club Universidad Nacional.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
+| <p align="center">87'</p> | <p align="right">Club Universidad Nacional <img src="/static/logos/Club Universidad Nacional.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
 | <p align="center">23:00</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Queretaro FC.png" height="25px"> Queretaro FC</p> |
 </div>
 
@@ -177,7 +177,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Wellington Phoenix <img src="/static/logos/Wellington Phoenix.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brisbane Roar FC.png" height="25px"> Brisbane Roar FC</p> |
-| <p align="center">19'</p> | <p align="right">Melbourne Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Perth Glory.png" height="25px"> Perth Glory</p> |
+| <p align="center">HT</p> | <p align="right">Melbourne Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Perth Glory.png" height="25px"> Perth Glory</p> |
 </div>
 
 
