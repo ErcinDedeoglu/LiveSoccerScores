@@ -20,7 +20,7 @@
 | <p align="center">FT</p> | <p align="right">Sassuolo <img src="/static/logos/Sassuolo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Udinese.png" height="25px"> Udinese</p> |
 | <p align="center">FT</p> | <p align="right">Cagliari <img src="/static/logos/Cagliari.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Verona.png" height="25px"> Verona</p> |
 | <p align="center">FT</p> | <p align="right">Lecce <img src="/static/logos/Lecce.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Roma.png" height="25px"> Roma</p> |
-| <p align="center">5'</p> | <p align="right">Inter <img src="/static/logos/Inter.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Empoli.png" height="25px"> Empoli</p> |
+| <p align="center">12'</p> | <p align="right">Inter <img src="/static/logos/Inter.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Empoli.png" height="25px"> Empoli</p> |
 </div>
 
 
@@ -124,8 +124,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Flandria <img src="/static/logos/Flandria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Canuelas.png" height="25px"> Canuelas</p> |
-| <p align="center">19'</p> | <p align="right">Dock Sud <img src="/static/logos/Dock Sud.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Laferrere.png" height="25px"> Laferrere</p> |
+| <p align="center">26'</p> | <p align="right">Flandria <img src="/static/logos/Flandria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Canuelas.png" height="25px"> Canuelas</p> |
+| <p align="center">26'</p> | <p align="right">Dock Sud <img src="/static/logos/Dock Sud.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Laferrere.png" height="25px"> Laferrere</p> |
 </div>
 
 
@@ -135,7 +135,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">Club Atletico Mitre <img src="/static/logos/Club Atletico Mitre.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aldosivi.png" height="25px"> Aldosivi</p> |
+| <p align="center">12'</p> | <p align="right">Club Atletico Mitre <img src="/static/logos/Club Atletico Mitre.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aldosivi.png" height="25px"> Aldosivi</p> |
 </div>
 
 
@@ -311,7 +311,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">AC Ajaccio <img src="/static/logos/AC Ajaccio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Auxerre.png" height="25px"> Auxerre</p> |
+| <p align="center">15'</p> | <p align="right">AC Ajaccio <img src="/static/logos/AC Ajaccio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Auxerre.png" height="25px"> Auxerre</p> |
 </div>
 
 
@@ -383,7 +383,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 5'</p> | <p align="right">Hapoel Jerusalem FC <img src="/static/logos/Hapoel Jerusalem FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Tel Aviv.png" height="25px"> Hapoel Tel Aviv</p> |
+| <p align="center">FT</p> | <p align="right">Hapoel Jerusalem FC <img src="/static/logos/Hapoel Jerusalem FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Tel Aviv.png" height="25px"> Hapoel Tel Aviv</p> |
 </div>
 
 
@@ -402,7 +402,7 @@
 | <p align="center">FT</p> | <p align="right">Pisa <img src="/static/logos/Pisa.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Palermo.png" height="25px"> Palermo</p> |
 | <p align="center">FT</p> | <p align="right">Spezia <img src="/static/logos/Spezia.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ascoli Calcio 1898 FC.png" height="25px"> Ascoli Calcio 1898 FC</p> |
 | <p align="center">FT</p> | <p align="right">Cremonese <img src="/static/logos/Cremonese.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FeralpiSalo.png" height="25px"> FeralpiSalo</p> |
-| <p align="center">17'</p> | <p align="right">Sampdoria <img src="/static/logos/Sampdoria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ternana.png" height="25px"> Ternana</p> |
+| <p align="center">24'</p> | <p align="right">Sampdoria <img src="/static/logos/Sampdoria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ternana.png" height="25px"> Ternana</p> |
 </div>
 
 
@@ -458,8 +458,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 3'</p> | <p align="right">Benfica B <img src="/static/logos/Benfica B.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Academico Viseu.png" height="25px"> Academico Viseu</p> |
-| <p align="center">90' 5'</p> | <p align="right">Mafra <img src="/static/logos/Mafra.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Torreense.png" height="25px"> Torreense</p> |
+| <p align="center">FT</p> | <p align="right">Benfica B <img src="/static/logos/Benfica B.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Academico Viseu.png" height="25px"> Academico Viseu</p> |
+| <p align="center">FT</p> | <p align="right">Mafra <img src="/static/logos/Mafra.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Torreense.png" height="25px"> Torreense</p> |
 </div>
 
 
