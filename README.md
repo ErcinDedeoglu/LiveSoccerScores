@@ -42,8 +42,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Cobresal <img src="/static/logos/Cobresal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Barcelona SC.png" height="25px"> Barcelona SC</p> |
-| <p align="center">15'</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Flamengo.png" height="25px"> Flamengo</p> |
+| <p align="center">26'</p> | <p align="right">Cobresal <img src="/static/logos/Cobresal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Barcelona SC.png" height="25px"> Barcelona SC</p> |
+| <p align="center">26'</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Flamengo.png" height="25px"> Flamengo</p> |
 </div>
 
 
@@ -93,8 +93,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
-| <p align="center">16'</p> | <p align="right">Belgrano <img src="/static/logos/Belgrano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
+| <p align="center">26'</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
+| <p align="center">26'</p> | <p align="right">Belgrano <img src="/static/logos/Belgrano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
 </div>
 
 
