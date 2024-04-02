@@ -230,8 +230,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Rivers United FC <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Katsina United.png" height="25px"> Katsina United</p> |
 | <p align="center">15:00</p> | <p align="right">Gombe United <img src="/static/logos/Gombe United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
+| <p align="center">POS</p> | <p align="right">Rivers United FC <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Katsina United.png" height="25px"> Katsina United</p> |
 </div>
 
 
@@ -305,10 +305,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:30</p> | <p align="right">Kaizer Chiefs <img src="/static/logos/Kaizer Chiefs.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stellenbosch FC.png" height="25px"> Stellenbosch FC</p> |
-| <p align="center">17:30</p> | <p align="right">Mamelodi Sundowns FC <img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Richards Bay.png" height="25px"> Richards Bay</p> |
-| <p align="center">17:30</p> | <p align="right">AmaZulu FC <img src="/static/logos/AmaZulu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Polokwane City.png" height="25px"> Polokwane City</p> |
 | <p align="center">17:30</p> | <p align="right">Sekhukhune United <img src="/static/logos/Sekhukhune United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cape Town City FC.png" height="25px"> Cape Town City FC</p> |
+| <p align="center">17:30</p> | <p align="right">Mamelodi Sundowns FC <img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Richards Bay.png" height="25px"> Richards Bay</p> |
+| <p align="center">17:30</p> | <p align="right">Kaizer Chiefs <img src="/static/logos/Kaizer Chiefs.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stellenbosch FC.png" height="25px"> Stellenbosch FC</p> |
+| <p align="center">17:30</p> | <p align="right">AmaZulu FC <img src="/static/logos/AmaZulu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Polokwane City.png" height="25px"> Polokwane City</p> |
 </div>
 
 
