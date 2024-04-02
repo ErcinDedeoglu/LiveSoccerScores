@@ -230,8 +230,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">14:00</p> | <p align="right">Gombe United <img src="/static/logos/Gombe United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
 | <p align="center">POS</p> | <p align="right">Rivers United FC <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Katsina United.png" height="25px"> Katsina United</p> |
-| <p align="center">15:00</p> | <p align="right">Gombe United <img src="/static/logos/Gombe United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
 </div>
 
 
