@@ -275,7 +275,7 @@
 </div>
 
 
-## <img src="/static/logos/Iran-Persian Gulf Pro League.png" height="25px"> Iran - Persian Gulf Pro League
+## <img src="/static/logos/Iran-1. Division.png" height="25px"> Iran - 1. Division
 
 <div align="center">
 
