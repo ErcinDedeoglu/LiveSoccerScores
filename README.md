@@ -50,8 +50,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Colo Colo <img src="/static/logos/Colo Colo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Cerro Porteno.png" height="25px"> Cerro Porteno</p> |
-| <p align="center">88'</p> | <p align="right">Alianza Lima <img src="/static/logos/Alianza Lima.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Fluminense.png" height="25px"> Fluminense</p> |
-| <p align="center">90'</p> | <p align="right">San Lorenzo <img src="/static/logos/San Lorenzo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Palmeiras.png" height="25px"> Palmeiras</p> |
+| <p align="center">FT</p> | <p align="right">Alianza Lima <img src="/static/logos/Alianza Lima.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Fluminense.png" height="25px"> Fluminense</p> |
+| <p align="center">FT</p> | <p align="right">San Lorenzo <img src="/static/logos/San Lorenzo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Palmeiras.png" height="25px"> Palmeiras</p> |
 | <p align="center">22:00</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
 | <p align="center">22:00</p> | <p align="right">Caracas <img src="/static/logos/Caracas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
 </div>
@@ -64,7 +64,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Inter Miami CF <img src="/static/logos/Inter Miami CF.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
-| <p align="center">11'</p> | <p align="right">Club Sport Herediano <img src="/static/logos/Club Sport Herediano.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Pachuca.png" height="25px"> Pachuca</p> |
+| <p align="center">45' 2'</p> | <p align="right">Club Sport Herediano <img src="/static/logos/Club Sport Herediano.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Pachuca.png" height="25px"> Pachuca</p> |
 </div>
 
 
@@ -76,7 +76,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sportivo Trinidense <img src="/static/logos/Sportivo Trinidense.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 | <p align="center">FT</p> | <p align="right">Red Bull Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Coquimbo Unido.png" height="25px"> Coquimbo Unido</p> |
-| <p align="center">16'</p> | <p align="right">Alianza FC <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union La Calera.png" height="25px"> Union La Calera</p> |
+| <p align="center">HT</p> | <p align="right">Alianza FC <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Union La Calera.png" height="25px"> Union La Calera</p> |
 </div>
 
 
@@ -97,7 +97,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">Mineros de Zacatecas <img src="/static/logos/Mineros de Zacatecas.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Celaya.png" height="25px"> Celaya</p> |
+| <p align="center">87'</p> | <p align="right">Mineros de Zacatecas <img src="/static/logos/Mineros de Zacatecas.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Celaya.png" height="25px"> Celaya</p> |
 | <p align="center">03:05</p> | <p align="right">Venados FC <img src="/static/logos/Venados FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cancun FC.png" height="25px"> Cancun FC</p> |
 </div>
 
@@ -118,7 +118,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Huracan <img src="/static/logos/Huracan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Villa Mitre.png" height="25px"> Villa Mitre</p> |
+| <p align="center">FT</p> | <p align="right">Huracan <img src="/static/logos/Huracan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Villa Mitre.png" height="25px"> Villa Mitre</p> |
 </div>
 
 
@@ -148,7 +148,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Deportivo Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Municipal Perez Zeledon.png" height="25px"> Municipal Perez Zeledon</p> |
+| <p align="center">HT</p> | <p align="right">Deportivo Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Municipal Perez Zeledon.png" height="25px"> Municipal Perez Zeledon</p> |
 </div>
 
 
