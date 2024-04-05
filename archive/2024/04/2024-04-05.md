@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 8'</p> | <p align="right">Lille <img src="/static/logos/Lille.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Marseille.png" height="25px"> Marseille</p> |
+| <p align="center">FT</p> | <p align="right">Lille <img src="/static/logos/Lille.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Marseille.png" height="25px"> Marseille</p> |
 </div>
 
 
@@ -46,7 +46,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Farense <img src="/static/logos/Farense.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Boavista.png" height="25px"> Boavista</p> |
+| <p align="center">85'</p> | <p align="right">Farense <img src="/static/logos/Farense.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Boavista.png" height="25px"> Boavista</p> |
 </div>
 
 
@@ -78,7 +78,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Rotherham <img src="/static/logos/Rotherham.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Plymouth.png" height="25px"> Plymouth</p> |
+| <p align="center">FT</p> | <p align="right">Rotherham <img src="/static/logos/Rotherham.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Plymouth.png" height="25px"> Plymouth</p> |
 </div>
 
 
@@ -98,7 +98,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:00</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
+| <p align="center">3'</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
 | <p align="center">23:10</p> | <p align="right">Atletico Nacional <img src="/static/logos/Atletico Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fortaleza FC.png" height="25px"> Fortaleza FC</p> |
 </div>
 
@@ -142,7 +142,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">MC El Bayadh <img src="/static/logos/MC El Bayadh.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/NC Magra.png" height="25px"> NC Magra</p> |
 | <p align="center">21:00</p> | <p align="right">ASO Chlef <img src="/static/logos/ASO Chlef.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JS Saoura.png" height="25px"> JS Saoura</p> |
-| <p align="center">21:00</p> | <p align="right">US Biskra <img src="/static/logos/US Biskra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JS Kabylie.png" height="25px"> JS Kabylie</p> |
+| <p align="center">2'</p> | <p align="right">US Biskra <img src="/static/logos/US Biskra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JS Kabylie.png" height="25px"> JS Kabylie</p> |
 | <p align="center">21:00</p> | <p align="right">MC Alger <img src="/static/logos/MC Alger.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/US Souf.png" height="25px"> US Souf</p> |
 </div>
 
@@ -314,8 +314,8 @@
 | <p align="center">FT</p> | <p align="right">Austria <img src="/static/logos/Austria.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Germany.png" height="25px"> Germany</p> |
 | <p align="center">FT</p> | <p align="right">Belgium <img src="/static/logos/Belgium.png" height="25px"></p> | <p align="center">0 - 7</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
 | <p align="center">FT</p> | <p align="right">England <img src="/static/logos/England.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sweden.png" height="25px"> Sweden</p> |
-| <p align="center">84'</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ireland.png" height="25px"> Ireland</p> |
-| <p align="center">47'</p> | <p align="right">Portugal <img src="/static/logos/Portugal.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bosnia and Herzegovina.png" height="25px"> Bosnia and Herzegovina</p> |
+| <p align="center">90' 3'</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ireland.png" height="25px"> Ireland</p> |
+| <p align="center">56'</p> | <p align="right">Portugal <img src="/static/logos/Portugal.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bosnia and Herzegovina.png" height="25px"> Bosnia and Herzegovina</p> |
 </div>
 
 
@@ -415,10 +415,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Al Khaleej <img src="/static/logos/Al Khaleej.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
-| <p align="center">90' 5'</p> | <p align="right">Al Ittihad <img src="/static/logos/Al Ittihad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al-Taawoun.png" height="25px"> Al-Taawoun</p> |
-| <p align="center">90' 7'</p> | <p align="right">Damac FC <img src="/static/logos/Damac FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Al Nassr FC</p> |
-| <p align="center">88'</p> | <p align="right">Al-Wehda <img src="/static/logos/Al-Wehda.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Ahli.png" height="25px"> Al Ahli</p> |
+| <p align="center">FT</p> | <p align="right">Al Khaleej <img src="/static/logos/Al Khaleej.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
+| <p align="center">FT</p> | <p align="right">Al Ittihad <img src="/static/logos/Al Ittihad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al-Taawoun.png" height="25px"> Al-Taawoun</p> |
+| <p align="center">FT</p> | <p align="right">Damac FC <img src="/static/logos/Damac FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Al Nassr FC</p> |
+| <p align="center">90' 6'</p> | <p align="right">Al-Wehda <img src="/static/logos/Al-Wehda.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Ahli.png" height="25px"> Al Ahli</p> |
 </div>
 
 
