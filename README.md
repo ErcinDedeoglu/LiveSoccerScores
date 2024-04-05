@@ -88,7 +88,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Always Ready <img src="/static/logos/Always Ready.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Independiente Medellin.png" height="25px"> Independiente Medellin</p> |
+| <p align="center">90' 4'</p> | <p align="right">Always Ready <img src="/static/logos/Always Ready.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Independiente Medellin.png" height="25px"> Independiente Medellin</p> |
 </div>
 
 
@@ -130,7 +130,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Atletico Morelia <img src="/static/logos/Atletico Morelia.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Leones Negros.png" height="25px"> Leones Negros</p> |
-| <p align="center">14'</p> | <p align="right">Tepatitlan FC <img src="/static/logos/Tepatitlan FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tlaxcala FC.png" height="25px"> Tlaxcala FC</p> |
+| <p align="center">44'</p> | <p align="right">Tepatitlan FC <img src="/static/logos/Tepatitlan FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tlaxcala FC.png" height="25px"> Tlaxcala FC</p> |
 </div>
 
 
