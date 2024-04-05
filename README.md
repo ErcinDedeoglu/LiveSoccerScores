@@ -293,7 +293,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Armenia <img src="/static/logos/Armenia.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Romania.png" height="25px"> Romania</p> |
 | <p align="center">FT</p> | <p align="right">Kazakhstan <img src="/static/logos/Kazakhstan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bulgaria.png" height="25px"> Bulgaria</p> |
-| <p align="center">27'</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Israel.png" height="25px"> Israel</p> |
+| <p align="center">43'</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Israel.png" height="25px"> Israel</p> |
 | <p align="center">14:00</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belarus.png" height="25px"> Belarus</p> |
 | <p align="center">14:30</p> | <p align="right">Montenegro <img src="/static/logos/Montenegro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
 | <p align="center">14:30</p> | <p align="right">Slovenia <img src="/static/logos/Slovenia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Moldova.png" height="25px"> Moldova</p> |
@@ -325,10 +325,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">28'</p> | <p align="right">Hapoel Umm al-Fahm <img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ironi Tiberias.png" height="25px"> Ironi Tiberias</p> |
-| <p align="center">26'</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Ramat Gan.png" height="25px"> Hapoel Ramat Gan</p> |
-| <p align="center">27'</p> | <p align="right">Bnei Yehuda Tel Aviv <img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"> Maccabi Kabilio Jaffa</p> |
-| <p align="center">27'</p> | <p align="right">Hapoel Ironi Acre <img src="/static/logos/Hapoel Ironi Acre.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Kfar Saba.png" height="25px"> Hapoel Kfar Saba</p> |
+| <p align="center">44'</p> | <p align="right">Hapoel Umm al-Fahm <img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ironi Tiberias.png" height="25px"> Ironi Tiberias</p> |
+| <p align="center">42'</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Ramat Gan.png" height="25px"> Hapoel Ramat Gan</p> |
+| <p align="center">43'</p> | <p align="right">Bnei Yehuda Tel Aviv <img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"> Maccabi Kabilio Jaffa</p> |
+| <p align="center">43'</p> | <p align="right">Hapoel Ironi Acre <img src="/static/logos/Hapoel Ironi Acre.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Kfar Saba.png" height="25px"> Hapoel Kfar Saba</p> |
 </div>
 
 
@@ -450,7 +450,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Nam Dinh <img src="/static/logos/Nam Dinh.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Binh Dinh.png" height="25px"> Binh Dinh</p> |
-| <p align="center">51'</p> | <p align="right">Hai Phong <img src="/static/logos/Hai Phong.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Thanh Hoa FC.png" height="25px"> Thanh Hoa FC</p> |
+| <p align="center">66'</p> | <p align="right">Hai Phong <img src="/static/logos/Hai Phong.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Thanh Hoa FC.png" height="25px"> Thanh Hoa FC</p> |
 </div>
 
 
