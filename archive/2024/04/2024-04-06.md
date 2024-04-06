@@ -217,7 +217,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
+| <p align="center">64'</p> | <p align="right">Western United FC <img src="/static/logos/Western United FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
 | <p align="center">06:30</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wellington Phoenix.png" height="25px"> Wellington Phoenix</p> |
 | <p align="center">08:45</p> | <p align="right">Melbourne Victory <img src="/static/logos/Melbourne Victory.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City FC</p> |
 </div>
@@ -240,7 +240,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Hokkaido Consadole Sapporo <img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gamba Osaka.png" height="25px"> Gamba Osaka</p> |
+| <p align="center">HT</p> | <p align="right">Hokkaido Consadole Sapporo <img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gamba Osaka.png" height="25px"> Gamba Osaka</p> |
 </div>
 
 
@@ -892,7 +892,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
+| <p align="center">HT</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
 | <p align="center">07:30</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
 | <p align="center">07:30</p> | <p align="right">Gimcheon Sangmu <img src="/static/logos/Gimcheon Sangmu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
 </div>
