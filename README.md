@@ -137,7 +137,7 @@
 | <p align="center">FT</p> | <p align="right">Talleres <img src="/static/logos/Talleres.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Independiente Rivadavia.png" height="25px"> Independiente Rivadavia</p> |
 | <p align="center">FT</p> | <p align="right">Union <img src="/static/logos/Union.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Belgrano.png" height="25px"> Belgrano</p> |
 | <p align="center">FT</p> | <p align="right">Barracas Central <img src="/static/logos/Barracas Central.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Instituto.png" height="25px"> Instituto</p> |
-| <p align="center">45' 3'</p> | <p align="right">Racing Club <img src="/static/logos/Racing Club.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Lanus.png" height="25px"> Lanus</p> |
+| <p align="center">65'</p> | <p align="right">Racing Club <img src="/static/logos/Racing Club.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Lanus.png" height="25px"> Lanus</p> |
 </div>
 
 
@@ -148,7 +148,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">America de Cali <img src="/static/logos/America de Cali.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
-| <p align="center">58'</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza FC</p> |
+| <p align="center">90' 8'</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza FC</p> |
 | <p align="center">23:10</p> | <p align="right">CD Jaguares <img src="/static/logos/CD Jaguares.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Independiente Medellin.png" height="25px"> Independiente Medellin</p> |
 </div>
 
@@ -160,7 +160,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/O'Higgins.png" height="25px"> O'Higgins</p> |
-| <p align="center">45' 2'</p> | <p align="right">Coquimbo Unido <img src="/static/logos/Coquimbo Unido.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Cobreloa.png" height="25px"> Cobreloa</p> |
+| <p align="center">61'</p> | <p align="right">Coquimbo Unido <img src="/static/logos/Coquimbo Unido.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Cobreloa.png" height="25px"> Cobreloa</p> |
 </div>
 
 
@@ -309,7 +309,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Santos FC.png" height="25px"> Santos FC</p> |
+| <p align="center">90'</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Santos FC.png" height="25px"> Santos FC</p> |
 </div>
 
 
@@ -506,8 +506,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Dreams FC <img src="/static/logos/Dreams FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Stade Malien.png" height="25px"> Stade Malien</p> |
 | <p align="center">FT</p> | <p align="right">Zamalek SC <img src="/static/logos/Zamalek SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Future FC.png" height="25px"> Future FC</p> |
-| <p align="center">54'</p> | <p align="right">USM Alger <img src="/static/logos/USM Alger.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Rivers United FC.png" height="25px"> Rivers United FC</p> |
-| <p align="center">18'</p> | <p align="right">RSB Berkane <img src="/static/logos/RSB Berkane.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Abu Salim.png" height="25px"> Abu Salim</p> |
+| <p align="center">90' 4'</p> | <p align="right">USM Alger <img src="/static/logos/USM Alger.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Rivers United FC.png" height="25px"> Rivers United FC</p> |
+| <p align="center">HT</p> | <p align="right">RSB Berkane <img src="/static/logos/RSB Berkane.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Abu Salim.png" height="25px"> Abu Salim</p> |
 </div>
 
 
@@ -817,7 +817,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Fenix <img src="/static/logos/Fenix.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Liverpool FC.png" height="25px"> Liverpool FC</p> |
-| <p align="center">59'</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
+| <p align="center">FT</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
 </div>
 
 
