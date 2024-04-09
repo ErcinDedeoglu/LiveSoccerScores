@@ -191,7 +191,7 @@
 | <p align="center">18:45</p> | <p align="right">Needham Market <img src="/static/logos/Needham Market.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stamford AFC.png" height="25px"> Stamford AFC</p> |
 | <p align="center">18:45</p> | <p align="right">Wingate & Finchley <img src="/static/logos/Wingate & Finchley.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hastings.png" height="25px"> Hastings</p> |
 | <p align="center">18:45</p> | <p align="right">Matlock Town <img src="/static/logos/Matlock Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ashton United.png" height="25px"> Ashton United</p> |
-| <p align="center">18:45</p> | <p align="right">Bamber Bridge <img src="/static/logos/Bamber Bridge.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Macclesfield.png" height="25px"> Macclesfield</p> |
+| <p align="center">POS</p> | <p align="right">Bamber Bridge <img src="/static/logos/Bamber Bridge.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Macclesfield.png" height="25px"> Macclesfield</p> |
 | <p align="center">18:45</p> | <p align="right">Hayes & Yeading United <img src="/static/logos/Hayes & Yeading United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Basingstoke.png" height="25px"> Basingstoke</p> |
 | <p align="center">18:45</p> | <p align="right">Tiverton <img src="/static/logos/Tiverton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gosport Borough.png" height="25px"> Gosport Borough</p> |
 | <p align="center">18:45</p> | <p align="right">Kettering Town FC <img src="/static/logos/Kettering Town FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leiston.png" height="25px"> Leiston</p> |
@@ -217,7 +217,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Jamshedpur FC <img src="/static/logos/Jamshedpur FC.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/FC Goa.png" height="25px"> FC Goa</p> |
-| <p align="center">14:00</p> | <p align="right">Chennaiyin FC <img src="/static/logos/Chennaiyin FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northeast United FC.png" height="25px"> Northeast United FC</p> |
+| <p align="center">10'</p> | <p align="right">Chennaiyin FC <img src="/static/logos/Chennaiyin FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Northeast United FC.png" height="25px"> Northeast United FC</p> |
 </div>
 
 
