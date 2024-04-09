@@ -258,7 +258,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">SC Dnipro-1 <img src="/static/logos/SC Dnipro-1.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Zorya.png" height="25px"> Zorya</p> |
+| <p align="center">42'</p> | <p align="right">SC Dnipro-1 <img src="/static/logos/SC Dnipro-1.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Zorya.png" height="25px"> Zorya</p> |
 </div>
 
 
