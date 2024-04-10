@@ -228,7 +228,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:00</p> | <p align="right">Grulla Morioka <img src="/static/logos/Grulla Morioka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nara Club.png" height="25px"> Nara Club</p> |
+| <p align="center">FT</p> | <p align="right">Grulla Morioka <img src="/static/logos/Grulla Morioka.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Nara Club.png" height="25px"> Nara Club</p> |
 | <p align="center">10:00</p> | <p align="right">FC Osaka <img src="/static/logos/FC Osaka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vanraure Hachinohe.png" height="25px"> Vanraure Hachinohe</p> |
 | <p align="center">10:00</p> | <p align="right">Giravanz Kitakyushu <img src="/static/logos/Giravanz Kitakyushu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Ryukyu.png" height="25px"> FC Ryukyu</p> |
 | <p align="center">10:00</p> | <p align="right">Tegevajaro Miyazaki <img src="/static/logos/Tegevajaro Miyazaki.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Imabari FC.png" height="25px"> Imabari FC</p> |
