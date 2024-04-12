@@ -138,7 +138,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Wellington Phoenix <img src="/static/logos/Wellington Phoenix.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Melbourne Victory.png" height="25px"> Melbourne Victory</p> |
-| <p align="center">20'</p> | <p align="right">Adelaide United <img src="/static/logos/Adelaide United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
+| <p align="center">HT</p> | <p align="right">Adelaide United <img src="/static/logos/Adelaide United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
 </div>
 
 
@@ -158,7 +158,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">1'</p> | <p align="right">Kashiwa Reysol <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa Red Diamonds</p> |
+| <p align="center">39'</p> | <p align="right">Kashiwa Reysol <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa Red Diamonds</p> |
 </div>
 
 
@@ -213,8 +213,8 @@
 | <p align="center">17:30</p> | <p align="right">Cholet <img src="/static/logos/Cholet.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sochaux.png" height="25px"> Sochaux</p> |
 | <p align="center">17:30</p> | <p align="right">Dijon <img src="/static/logos/Dijon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Orleans.png" height="25px"> Orleans</p> |
 | <p align="center">17:30</p> | <p align="right">Nimes <img src="/static/logos/Nimes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Versailles.png" height="25px"> Versailles</p> |
-| <p align="center">17:30</p> | <p align="right">Chateauroux <img src="/static/logos/Chateauroux.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Le Mans.png" height="25px"> Le Mans</p> |
 | <p align="center">17:30</p> | <p align="right">Villefranche Beaujolais <img src="/static/logos/Villefranche Beaujolais.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rouen.png" height="25px"> Rouen</p> |
+| <p align="center">17:30</p> | <p align="right">Chateauroux <img src="/static/logos/Chateauroux.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Le Mans.png" height="25px"> Le Mans</p> |
 | <p align="center">17:30</p> | <p align="right">Avranches <img src="/static/logos/Avranches.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Epinal.png" height="25px"> Epinal</p> |
 </div>
 
@@ -268,10 +268,10 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">14:00</p> | <p align="right">Mes Rafsanjan <img src="/static/logos/Mes Rafsanjan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paykan.png" height="25px"> Paykan</p> |
 | <p align="center">14:20</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"> Nassaji Mazandaran FC</p> |
+| <p align="center">14:30</p> | <p align="right">Shams Azar Qazvin <img src="/static/logos/Shams Azar Qazvin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Foolad Khouzestan.png" height="25px"> Foolad Khouzestan</p> |
 | <p align="center">14:30</p> | <p align="right">Aluminium Arak <img src="/static/logos/Aluminium Arak.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Esteghlal.png" height="25px"> Esteghlal</p> |
 | <p align="center">14:30</p> | <p align="right">Havadar SC <img src="/static/logos/Havadar SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gol Gohar.png" height="25px"> Gol Gohar</p> |
 | <p align="center">14:30</p> | <p align="right">Esteghlal Khuzestan <img src="/static/logos/Esteghlal Khuzestan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sanat Naft Abadan.png" height="25px"> Sanat Naft Abadan</p> |
-| <p align="center">14:30</p> | <p align="right">Shams Azar Qazvin <img src="/static/logos/Shams Azar Qazvin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Foolad Khouzestan.png" height="25px"> Foolad Khouzestan</p> |
 | <p align="center">14:50</p> | <p align="right">Tractor <img src="/static/logos/Tractor.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zob Ahan.png" height="25px"> Zob Ahan</p> |
 | <p align="center">16:30</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malavan.png" height="25px"> Malavan</p> |
 </div>
@@ -285,12 +285,12 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">13:00</p> | <p align="right">Ironi Tiberias <img src="/static/logos/Ironi Tiberias.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Maccabi Herzliya.png" height="25px"> Maccabi Herzliya</p> |
 | <p align="center">13:00</p> | <p align="right">Hapoel Ironi Kiryat Shmona <img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sektzia Nes Tziona.png" height="25px"> Sektzia Nes Tziona</p> |
-| <p align="center">13:00</p> | <p align="right">Ihud Bnei Shfaram <img src="/static/logos/Ihud Bnei Shfaram.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
-| <p align="center">13:00</p> | <p align="right">Maccabi Kabilio Jaffa <img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"> Hapoel Rishon LeZion</p> |
-| <p align="center">13:00</p> | <p align="right">SC Kfar Kasem <img src="/static/logos/SC Kfar Kasem.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Acre.png" height="25px"> Hapoel Ironi Acre</p> |
 | <p align="center">13:00</p> | <p align="right">Hapoel Ramat Gan <img src="/static/logos/Hapoel Ramat Gan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"> Hapoel Umm al-Fahm</p> |
+| <p align="center">13:00</p> | <p align="right">SC Kfar Kasem <img src="/static/logos/SC Kfar Kasem.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Acre.png" height="25px"> Hapoel Ironi Acre</p> |
+| <p align="center">13:00</p> | <p align="right">Ihud Bnei Shfaram <img src="/static/logos/Ihud Bnei Shfaram.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
 | <p align="center">13:00</p> | <p align="right">Hapoel Nof HaGalil <img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Afula.png" height="25px"> Hapoel Afula</p> |
 | <p align="center">13:00</p> | <p align="right">Hapoel Kfar Saba <img src="/static/logos/Hapoel Kfar Saba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"> Hapoel Nir Ramat HaSharon</p> |
+| <p align="center">13:00</p> | <p align="right">Maccabi Kabilio Jaffa <img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"> Hapoel Rishon LeZion</p> |
 </div>
 
 
@@ -311,12 +311,12 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">18:00</p> | <p align="right">FC Emmen <img src="/static/logos/FC Emmen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/MVV Maastricht.png" height="25px"> MVV Maastricht</p> |
-| <p align="center">18:00</p> | <p align="right">FC Eindhoven <img src="/static/logos/FC Eindhoven.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jong PSV.png" height="25px"> Jong PSV</p> |
-| <p align="center">18:00</p> | <p align="right">ADO Den Haag <img src="/static/logos/ADO Den Haag.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Helmond Sport.png" height="25px"> Helmond Sport</p> |
-| <p align="center">18:00</p> | <p align="right">De Graafschap <img src="/static/logos/De Graafschap.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Telstar.png" height="25px"> Telstar</p> |
 | <p align="center">18:00</p> | <p align="right">Willem II <img src="/static/logos/Willem II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jong AZ Alkmaar.png" height="25px"> Jong AZ Alkmaar</p> |
 | <p align="center">18:00</p> | <p align="right">NAC Breda <img src="/static/logos/NAC Breda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
+| <p align="center">18:00</p> | <p align="right">FC Eindhoven <img src="/static/logos/FC Eindhoven.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jong PSV.png" height="25px"> Jong PSV</p> |
+| <p align="center">18:00</p> | <p align="right">ADO Den Haag <img src="/static/logos/ADO Den Haag.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Helmond Sport.png" height="25px"> Helmond Sport</p> |
 | <p align="center">18:00</p> | <p align="right">TOP Oss <img src="/static/logos/TOP Oss.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Roda.png" height="25px"> Roda</p> |
+| <p align="center">18:00</p> | <p align="right">De Graafschap <img src="/static/logos/De Graafschap.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Telstar.png" height="25px"> Telstar</p> |
 </div>
 
 
