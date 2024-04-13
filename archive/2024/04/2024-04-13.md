@@ -269,7 +269,7 @@
 | <p align="center">FT</p> | <p align="right">Cerezo Osaka <img src="/static/logos/Cerezo Osaka.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki Frontale</p> |
 | <p align="center">FT</p> | <p align="right">Kashima Antlers <img src="/static/logos/Kashima Antlers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto Sanga FC</p> |
 | <p align="center">FT</p> | <p align="right">Machida Zelvia <img src="/static/logos/Machida Zelvia.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Vissel Kobe.png" height="25px"> Vissel Kobe</p> |
-| <p align="center">58'</p> | <p align="right">Tokyo Verdy <img src="/static/logos/Tokyo Verdy.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Tokyo.png" height="25px"> FC Tokyo</p> |
+| <p align="center">66'</p> | <p align="right">Tokyo Verdy <img src="/static/logos/Tokyo Verdy.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FC Tokyo.png" height="25px"> FC Tokyo</p> |
 </div>
 
 
@@ -707,8 +707,8 @@
 | <p align="center">FT</p> | <p align="right">JEF United Chiba <img src="/static/logos/JEF United Chiba.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Oita Trinita.png" height="25px"> Oita Trinita</p> |
 | <p align="center">FT</p> | <p align="right">Mito Hollyhock <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi SC</p> |
 | <p align="center">FT</p> | <p align="right">Vegalta Sendai <img src="/static/logos/Vegalta Sendai.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Montedio Yamagata.png" height="25px"> Montedio Yamagata</p> |
-| <p align="center">56'</p> | <p align="right">Ehime FC <img src="/static/logos/Ehime FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kagoshima United.png" height="25px"> Kagoshima United</p> |
-| <p align="center">58'</p> | <p align="right">Iwaki FC <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu S-Pulse</p> |
+| <p align="center">64'</p> | <p align="right">Ehime FC <img src="/static/logos/Ehime FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Kagoshima United.png" height="25px"> Kagoshima United</p> |
+| <p align="center">66'</p> | <p align="right">Iwaki FC <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu S-Pulse</p> |
 </div>
 
 
