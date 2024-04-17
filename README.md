@@ -106,7 +106,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Deportivo Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/AD Municipal Liberia.png" height="25px"> AD Municipal Liberia</p> |
+| <p align="center">FT</p> | <p align="right">Deportivo Saprissa <img src="/static/logos/Deportivo Saprissa.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/AD Municipal Liberia.png" height="25px"> AD Municipal Liberia</p> |
 </div>
 
 
