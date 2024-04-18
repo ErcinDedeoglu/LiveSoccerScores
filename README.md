@@ -16,10 +16,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Atalanta <img src="/static/logos/Atalanta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liverpool.png" height="25px"> Liverpool</p> |
-| <p align="center">19:00</p> | <p align="right">Roma <img src="/static/logos/Roma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AC Milan.png" height="25px"> AC Milan</p> |
 | <p align="center">19:00</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
 | <p align="center">19:00</p> | <p align="right">West Ham <img src="/static/logos/West Ham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bayer Leverkusen.png" height="25px"> Bayer Leverkusen</p> |
+| <p align="center">19:00</p> | <p align="right">Atalanta <img src="/static/logos/Atalanta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liverpool.png" height="25px"> Liverpool</p> |
+| <p align="center">19:00</p> | <p align="right">Roma <img src="/static/logos/Roma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AC Milan.png" height="25px"> AC Milan</p> |
 </div>
 
 
@@ -31,8 +31,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">16:45</p> | <p align="right">Fiorentina <img src="/static/logos/Fiorentina.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Viktoria Plzen.png" height="25px"> Viktoria Plzen</p> |
 | <p align="center">16:45</p> | <p align="right">Lille <img src="/static/logos/Lille.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aston Villa.png" height="25px"> Aston Villa</p> |
-| <p align="center">19:00</p> | <p align="right">PAOK Thessaloniki FC <img src="/static/logos/PAOK Thessaloniki FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Bruges.png" height="25px"> Club Bruges</p> |
 | <p align="center">19:00</p> | <p align="right">Fenerbahce <img src="/static/logos/Fenerbahce.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympiacos.png" height="25px"> Olympiacos</p> |
+| <p align="center">19:00</p> | <p align="right">PAOK Thessaloniki FC <img src="/static/logos/PAOK Thessaloniki FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Bruges.png" height="25px"> Club Bruges</p> |
 </div>
 
 
@@ -106,8 +106,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Taunton Town <img src="/static/logos/Taunton Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Weston Super Mare.png" height="25px"> Weston Super Mare</p> |
 | <p align="center">18:45</p> | <p align="right">Truro City <img src="/static/logos/Truro City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Weymouth.png" height="25px"> Weymouth</p> |
+| <p align="center">18:45</p> | <p align="right">Taunton Town <img src="/static/logos/Taunton Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Weston Super Mare.png" height="25px"> Weston Super Mare</p> |
 </div>
 
 
@@ -117,8 +117,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Potters Bar Town <img src="/static/logos/Potters Bar Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canvey.png" height="25px"> Canvey</p> |
 | <p align="center">18:45</p> | <p align="right">Tiverton <img src="/static/logos/Tiverton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Winchester City.png" height="25px"> Winchester City</p> |
+| <p align="center">18:45</p> | <p align="right">Potters Bar Town <img src="/static/logos/Potters Bar Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canvey.png" height="25px"> Canvey</p> |
 | <p align="center">18:45</p> | <p align="right">Hanwell Town <img src="/static/logos/Hanwell Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Plymouth Parkway.png" height="25px"> Plymouth Parkway</p> |
 </div>
 
@@ -152,8 +152,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">15:00</p> | <p align="right">Al-Taawoun <img src="/static/logos/Al-Taawoun.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Khaleej.png" height="25px"> Al Khaleej</p> |
-| <p align="center">18:00</p> | <p align="right">Al Fateh FC <img src="/static/logos/Al Fateh FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Raed.png" height="25px"> Al-Raed</p> |
 | <p align="center">18:00</p> | <p align="right">Al Shabab <img src="/static/logos/Al Shabab.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Abha.png" height="25px"> Abha</p> |
+| <p align="center">18:00</p> | <p align="right">Al Fateh FC <img src="/static/logos/Al Fateh FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Raed.png" height="25px"> Al-Raed</p> |
 </div>
 
 
