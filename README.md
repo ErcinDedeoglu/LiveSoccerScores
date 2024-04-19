@@ -142,8 +142,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">RFC Seraing <img src="/static/logos/RFC Seraing.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deinze.png" height="25px"> Deinze</p> |
 | <p align="center">18:00</p> | <p align="right">Beerschot <img src="/static/logos/Beerschot.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Patro Eisden.png" height="25px"> Patro Eisden</p> |
+| <p align="center">18:00</p> | <p align="right">RFC Seraing <img src="/static/logos/RFC Seraing.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deinze.png" height="25px"> Deinze</p> |
 </div>
 
 
@@ -228,13 +228,13 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">17:30</p> | <p align="right">GOAL FC <img src="/static/logos/GOAL FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Marignane/Gignac FC.png" height="25px"> Marignane/Gignac FC</p> |
-| <p align="center">17:30</p> | <p align="right">Orleans <img src="/static/logos/Orleans.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
 | <p align="center">17:30</p> | <p align="right">Martigues <img src="/static/logos/Martigues.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cholet.png" height="25px"> Cholet</p> |
 | <p align="center">17:30</p> | <p align="right">Avranches <img src="/static/logos/Avranches.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chateauroux.png" height="25px"> Chateauroux</p> |
 | <p align="center">17:30</p> | <p align="right">Epinal <img src="/static/logos/Epinal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Versailles.png" height="25px"> Versailles</p> |
 | <p align="center">17:30</p> | <p align="right">Rouen <img src="/static/logos/Rouen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nancy.png" height="25px"> Nancy</p> |
 | <p align="center">17:30</p> | <p align="right">Red Star <img src="/static/logos/Red Star.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dijon.png" height="25px"> Dijon</p> |
 | <p align="center">17:30</p> | <p align="right">Le Mans <img src="/static/logos/Le Mans.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Villefranche Beaujolais.png" height="25px"> Villefranche Beaujolais</p> |
+| <p align="center">17:30</p> | <p align="right">Orleans <img src="/static/logos/Orleans.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
 </div>
 
 
@@ -371,8 +371,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Stal Rzeszow <img src="/static/logos/Stal Rzeszow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TS Podbeskidzie Bielsko-Biala.png" height="25px"> TS Podbeskidzie Bielsko-Biala</p> |
 | <p align="center">16:00</p> | <p align="right">Polonia Warszawa <img src="/static/logos/Polonia Warszawa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zaglebie Sosnowiec.png" height="25px"> Zaglebie Sosnowiec</p> |
+| <p align="center">16:00</p> | <p align="right">Stal Rzeszow <img src="/static/logos/Stal Rzeszow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TS Podbeskidzie Bielsko-Biala.png" height="25px"> TS Podbeskidzie Bielsko-Biala</p> |
 | <p align="center">18:30</p> | <p align="right">Znicz Pruszkow <img src="/static/logos/Znicz Pruszkow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
 </div>
 
