@@ -222,7 +222,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide United</p> |
-| <p align="center">69'</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United FC</p> |
+| <p align="center">90' 2'</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Western United FC.png" height="25px"> Western United FC</p> |
 </div>
 
 
@@ -495,7 +495,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">28'</p> | <p align="right">Madura United <img src="/static/logos/Madura United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/PSM Makassar.png" height="25px"> PSM Makassar</p> |
+| <p align="center">HT</p> | <p align="right">Madura United <img src="/static/logos/Madura United.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/PSM Makassar.png" height="25px"> PSM Makassar</p> |
 | <p align="center">12:00</p> | <p align="right">Barito Putera <img src="/static/logos/Barito Putera.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persija Jakarta.png" height="25px"> Persija Jakarta</p> |
 | <p align="center">12:00</p> | <p align="right">Borneo Samarinda <img src="/static/logos/Borneo Samarinda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arema.png" height="25px"> Arema</p> |
 </div>
@@ -743,7 +743,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gangwon FC <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Incheon United.png" height="25px"> Incheon United</p> |
-| <p align="center">HT</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Daejeon Hana Citizen.png" height="25px"> Daejeon Hana Citizen</p> |
+| <p align="center">64'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Daejeon Hana Citizen.png" height="25px"> Daejeon Hana Citizen</p> |
 </div>
 
 
