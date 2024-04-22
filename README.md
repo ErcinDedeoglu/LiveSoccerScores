@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">6'</p> | <p align="right">Roma <img src="/static/logos/Roma.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bologna.png" height="25px"> Bologna</p> |
+| <p align="center">23'</p> | <p align="right">Roma <img src="/static/logos/Roma.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Bologna.png" height="25px"> Bologna</p> |
 | <p align="center">18:45</p> | <p align="right">AC Milan <img src="/static/logos/AC Milan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inter.png" height="25px"> Inter</p> |
 </div>
 
@@ -163,7 +163,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Berekum Chelsea <img src="/static/logos/Berekum Chelsea.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Medeama SC.png" height="25px"> Medeama SC</p> |
+| <p align="center">90' 6'</p> | <p align="right">Berekum Chelsea <img src="/static/logos/Berekum Chelsea.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Medeama SC.png" height="25px"> Medeama SC</p> |
 </div>
 
 
@@ -257,7 +257,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Olimpia Elblag <img src="/static/logos/Olimpia Elblag.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Stomil Olsztyn.png" height="25px"> Stomil Olsztyn</p> |
+| <p align="center">38'</p> | <p align="right">Olimpia Elblag <img src="/static/logos/Olimpia Elblag.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Stomil Olsztyn.png" height="25px"> Stomil Olsztyn</p> |
 </div>
 
 
@@ -317,7 +317,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Shakhtar Donetsk <img src="/static/logos/Shakhtar Donetsk.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Zorya.png" height="25px"> Zorya</p> |
+| <p align="center">90' 5'</p> | <p align="right">Shakhtar Donetsk <img src="/static/logos/Shakhtar Donetsk.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Zorya.png" height="25px"> Zorya</p> |
 </div>
 
 
