@@ -130,7 +130,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">ZED FC <img src="/static/logos/ZED FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
+| <p align="center">HT</p> | <p align="right">ZED FC <img src="/static/logos/ZED FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
 | <p align="center">17:00</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ismaily SC.png" height="25px"> Ismaily SC</p> |
 | <p align="center">17:00</p> | <p align="right">El Dakhleya <img src="/static/logos/El Dakhleya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Future FC.png" height="25px"> Future FC</p> |
 </div>
@@ -173,7 +173,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Iraklis <img src="/static/logos/Iraklis.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aiolikos Mitilini.png" height="25px"> Aiolikos Mitilini</p> |
+| <p align="center">FT</p> | <p align="right">Iraklis <img src="/static/logos/Iraklis.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Aiolikos Mitilini.png" height="25px"> Aiolikos Mitilini</p> |
 </div>
 
 
@@ -297,7 +297,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Tanzania Prisons <img src="/static/logos/Tanzania Prisons.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kagera Sugar.png" height="25px"> Kagera Sugar</p> |
+| <p align="center">FT</p> | <p align="right">Tanzania Prisons <img src="/static/logos/Tanzania Prisons.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kagera Sugar.png" height="25px"> Kagera Sugar</p> |
 </div>
 
 
