@@ -121,7 +121,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Ethnikos Achnas <img src="/static/logos/Ethnikos Achnas.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Apollon Limassol.png" height="25px"> Apollon Limassol</p> |
+| <p align="center">HT</p> | <p align="right">Ethnikos Achnas <img src="/static/logos/Ethnikos Achnas.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Apollon Limassol.png" height="25px"> Apollon Limassol</p> |
 | <p align="center">16:00</p> | <p align="right">AEZ Zakakiou <img src="/static/logos/AEZ Zakakiou.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Doxa Katokopia.png" height="25px"> Doxa Katokopia</p> |
 </div>
 
@@ -132,7 +132,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Smouha SC <img src="/static/logos/Smouha SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"> Baladiyat ElMahalla SC</p> |
+| <p align="center">20'</p> | <p align="right">Smouha SC <img src="/static/logos/Smouha SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"> Baladiyat ElMahalla SC</p> |
 | <p align="center">17:00</p> | <p align="right">Pharco FC <img src="/static/logos/Pharco FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Masry SC.png" height="25px"> Al Masry SC</p> |
 | <p align="center">POS</p> | <p align="right">Al Ahly SC <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Ceramica Cleopatra.png" height="25px"> Ceramica Cleopatra</p> |
 </div>
@@ -238,7 +238,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Odisha FC <img src="/static/logos/Odisha FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mohun Bagan SG.png" height="25px"> Mohun Bagan SG</p> |
+| <p align="center">45' 7'</p> | <p align="right">Odisha FC <img src="/static/logos/Odisha FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mohun Bagan SG.png" height="25px"> Mohun Bagan SG</p> |
 </div>
 
 
