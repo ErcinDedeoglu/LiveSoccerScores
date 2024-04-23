@@ -177,7 +177,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Braintree Town <img src="/static/logos/Braintree Town.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bath City.png" height="25px"> Bath City</p> |
-| <p align="center">120' 6'</p> | <p align="right">Alfreton <img src="/static/logos/Alfreton.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Boston United.png" height="25px"> Boston United</p> |
+| <p align="center">FT</p> | <p align="right">Alfreton <img src="/static/logos/Alfreton.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Boston United.png" height="25px"> Boston United</p> |
 </div>
 
 
