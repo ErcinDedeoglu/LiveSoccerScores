@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">28'</p> | <p align="right">Brighton <img src="/static/logos/Brighton.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Manchester City.png" height="25px"> Manchester City</p> |
+| <p align="center">FT</p> | <p align="right">Brighton <img src="/static/logos/Brighton.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Manchester City.png" height="25px"> Manchester City</p> |
 </div>
 
 
@@ -37,7 +37,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">SC Heerenveen <img src="/static/logos/SC Heerenveen.png" height="25px"></p> | <p align="center">0 - 8</p> | <p align="left"><img src="/static/logos/PSV Eindhoven.png" height="25px"> PSV Eindhoven</p> |
-| <p align="center">29'</p> | <p align="right">Go Ahead Eagles <img src="/static/logos/Go Ahead Eagles.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Feyenoord.png" height="25px"> Feyenoord</p> |
+| <p align="center">FT</p> | <p align="right">Go Ahead Eagles <img src="/static/logos/Go Ahead Eagles.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Feyenoord.png" height="25px"> Feyenoord</p> |
 </div>
 
 
@@ -81,7 +81,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Royal Antwerp <img src="/static/logos/Royal Antwerp.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
+| <p align="center">FT</p> | <p align="right">Royal Antwerp <img src="/static/logos/Royal Antwerp.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
 </div>
 
 
@@ -112,8 +112,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Dewa United FC <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
 | <p align="center">FT</p> | <p align="right">Barito Putera <img src="/static/logos/Barito Putera.png" height="25px"></p> | <p align="center">1 - 5</p> | <p align="left"><img src="/static/logos/Bhayangkara Presisi Indonesia FC.png" height="25px"> Bhayangkara Presisi Indonesia FC</p> |
+| <p align="center">FT</p> | <p align="right">Dewa United FC <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
 | <p align="center">FT</p> | <p align="right">Persib Bandung <img src="/static/logos/Persib Bandung.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
 | <p align="center">FT</p> | <p align="right">Arema <img src="/static/logos/Arema.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/PSM Makassar.png" height="25px"> PSM Makassar</p> |
 </div>
@@ -145,9 +145,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Motor Lublin <img src="/static/logos/Motor Lublin.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Chrobry Glogow.png" height="25px"> Chrobry Glogow</p> |
 | <p align="center">FT</p> | <p align="right">Termalica Nieciecza <img src="/static/logos/Termalica Nieciecza.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Odra Opole.png" height="25px"> Odra Opole</p> |
-| <p align="center">HT</p> | <p align="right">GKS Katowice <img src="/static/logos/GKS Katowice.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gornik Leczna.png" height="25px"> Gornik Leczna</p> |
+| <p align="center">FT</p> | <p align="right">Motor Lublin <img src="/static/logos/Motor Lublin.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Chrobry Glogow.png" height="25px"> Chrobry Glogow</p> |
+| <p align="center">FT</p> | <p align="right">GKS Katowice <img src="/static/logos/GKS Katowice.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gornik Leczna.png" height="25px"> Gornik Leczna</p> |
 </div>
 
 
@@ -168,7 +168,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al-Fayha <img src="/static/logos/Al-Fayha.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Taee.png" height="25px"> Al Taee</p> |
-| <p align="center">59'</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Ahli.png" height="25px"> Al Ahli</p> |
+| <p align="center">FT</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al Ahli.png" height="25px"> Al Ahli</p> |
 </div>
 
 
