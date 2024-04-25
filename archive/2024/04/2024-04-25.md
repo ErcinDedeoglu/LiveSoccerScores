@@ -47,9 +47,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">FT</p> | <p align="right">Bolivar <img src="/static/logos/Bolivar.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Flamengo.png" height="25px"> Flamengo</p> |
 | <p align="center">FT</p> | <p align="right">Libertad <img src="/static/logos/Libertad.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/River Plate.png" height="25px"> River Plate</p> |
 | <p align="center">FT</p> | <p align="right">Independiente del Valle <img src="/static/logos/Independiente del Valle.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Palmeiras.png" height="25px"> Palmeiras</p> |
-| <p align="center">FT</p> | <p align="right">Bolivar <img src="/static/logos/Bolivar.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Flamengo.png" height="25px"> Flamengo</p> |
 | <p align="center">22:00</p> | <p align="right">Cobresal <img src="/static/logos/Cobresal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Talleres.png" height="25px"> Talleres</p> |
 | <p align="center">22:00</p> | <p align="right">Cerro Porteno <img src="/static/logos/Cerro Porteno.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fluminense.png" height="25px"> Fluminense</p> |
 </div>
@@ -91,8 +91,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 11'</p> | <p align="right">Celaya <img src="/static/logos/Celaya.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
-| <p align="center">03:05</p> | <p align="right">Atletico La Paz <img src="/static/logos/Atletico La Paz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venados FC.png" height="25px"> Venados FC</p> |
+| <p align="center">FT</p> | <p align="right">Celaya <img src="/static/logos/Celaya.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
+| <p align="center">24'</p> | <p align="right">Atletico La Paz <img src="/static/logos/Atletico La Paz.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Venados FC.png" height="25px"> Venados FC</p> |
 </div>
 
 
