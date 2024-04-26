@@ -269,8 +269,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Persis Solo <img src="/static/logos/Persis Solo.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Persita.png" height="25px"> Persita</p> |
-| <p align="center">78'</p> | <p align="right">PSIS <img src="/static/logos/PSIS.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
+| <p align="center">86'</p> | <p align="right">Persis Solo <img src="/static/logos/Persis Solo.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Persita.png" height="25px"> Persita</p> |
+| <p align="center">86'</p> | <p align="right">PSIS <img src="/static/logos/PSIS.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Persikabo 1973.png" height="25px"> Persikabo 1973</p> |
 | <p align="center">12:00</p> | <p align="right">RANS Nusantara <img src="/static/logos/RANS Nusantara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Persija Jakarta.png" height="25px"> Persija Jakarta</p> |
 </div>
 
