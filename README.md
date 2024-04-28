@@ -87,7 +87,7 @@
 | <p align="center">FT</p> | <p align="right">Nashville SC <img src="/static/logos/Nashville SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> San Jose Earthquakes</p> |
 | <p align="center">FT</p> | <p align="right">FC Dallas <img src="/static/logos/FC Dallas.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston Dynamo FC</p> |
 | <p align="center">FT</p> | <p align="right">Chicago Fire FC <img src="/static/logos/Chicago Fire FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atlanta United.png" height="25px"> Atlanta United</p> |
-| <p align="center">28'</p> | <p align="right">Los Angeles FC <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Portland Timbers.png" height="25px"> Portland Timbers</p> |
+| <p align="center">45' 2'</p> | <p align="right">Los Angeles FC <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Portland Timbers.png" height="25px"> Portland Timbers</p> |
 </div>
 
 
@@ -97,7 +97,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">San Diego Wave FC <img src="/static/logos/San Diego Wave FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bay FC.png" height="25px"> Bay FC</p> |
+| <p align="center">63'</p> | <p align="right">San Diego Wave FC <img src="/static/logos/San Diego Wave FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bay FC.png" height="25px"> Bay FC</p> |
 | <p align="center">21:00</p> | <p align="right">NJ/NY Gotham FC <img src="/static/logos/NJ/NY Gotham FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Racing Louisville.png" height="25px"> Racing Louisville</p> |
 </div>
 
@@ -110,8 +110,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
 | <p align="center">FT</p> | <p align="right">Tigres <img src="/static/logos/Tigres.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Tijuana.png" height="25px"> Tijuana</p> |
-| <p align="center">90' 5'</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mazatlan FC.png" height="25px"> Mazatlan FC</p> |
-| <p align="center">03:10</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> CD Guadalajara</p> |
+| <p align="center">FT</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mazatlan FC.png" height="25px"> Mazatlan FC</p> |
+| <p align="center">15'</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> CD Guadalajara</p> |
 </div>
 
 
@@ -325,7 +325,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Newcastle Jets.png" height="25px"> Newcastle Jets</p> |
+| <p align="center">27'</p> | <p align="right">Melbourne City FC <img src="/static/logos/Melbourne City FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Newcastle Jets.png" height="25px"> Newcastle Jets</p> |
 </div>
 
 
@@ -883,8 +883,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Oakland Roots SC <img src="/static/logos/Oakland Roots SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Colorado Springs Switchbacks FC</p> |
-| <p align="center">HT</p> | <p align="right">Sacramento Republic FC <img src="/static/logos/Sacramento Republic FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Loudoun United FC.png" height="25px"> Loudoun United FC</p> |
+| <p align="center">65'</p> | <p align="right">Oakland Roots SC <img src="/static/logos/Oakland Roots SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Colorado Springs Switchbacks FC</p> |
+| <p align="center">53'</p> | <p align="right">Sacramento Republic FC <img src="/static/logos/Sacramento Republic FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Loudoun United FC.png" height="25px"> Loudoun United FC</p> |
 </div>
 
 
