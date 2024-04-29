@@ -324,7 +324,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Bangkok United <img src="/static/logos/Bangkok United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Prachuap FC.png" height="25px"> Prachuap FC</p> |
+| <p align="center">28'</p> | <p align="right">Bangkok United <img src="/static/logos/Bangkok United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Prachuap FC.png" height="25px"> Prachuap FC</p> |
 </div>
 
 
