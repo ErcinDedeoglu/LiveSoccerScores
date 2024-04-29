@@ -127,7 +127,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Othellos Athienou <img src="/static/logos/Othellos Athienou.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AEZ Zakakiou.png" height="25px"> AEZ Zakakiou</p> |
+| <p align="center">20'</p> | <p align="right">Othellos Athienou <img src="/static/logos/Othellos Athienou.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AEZ Zakakiou.png" height="25px"> AEZ Zakakiou</p> |
 | <p align="center">16:30</p> | <p align="right">Apollon Limassol <img src="/static/logos/Apollon Limassol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Karmiotissa Pano Polemidion.png" height="25px"> Karmiotissa Pano Polemidion</p> |
 | <p align="center">16:30</p> | <p align="right">Doxa Katokopia <img src="/static/logos/Doxa Katokopia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AEL Limassol.png" height="25px"> AEL Limassol</p> |
 </div>
@@ -189,7 +189,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Aiolikos Mitilini <img src="/static/logos/Aiolikos Mitilini.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/PAOK Thessaloniki FC B.png" height="25px"> PAOK Thessaloniki FC B</p> |
+| <p align="center">63'</p> | <p align="right">Aiolikos Mitilini <img src="/static/logos/Aiolikos Mitilini.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/PAOK Thessaloniki FC B.png" height="25px"> PAOK Thessaloniki FC B</p> |
 </div>
 
 
@@ -209,7 +209,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Mumbai City FC <img src="/static/logos/Mumbai City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Goa.png" height="25px"> FC Goa</p> |
+| <p align="center">21'</p> | <p align="right">Mumbai City FC <img src="/static/logos/Mumbai City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Goa.png" height="25px"> FC Goa</p> |
 </div>
 
 
@@ -252,8 +252,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Jong FC Utrecht <img src="/static/logos/Jong FC Utrecht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ADO Den Haag.png" height="25px"> ADO Den Haag</p> |
 | <p align="center">18:00</p> | <p align="right">FC Emmen <img src="/static/logos/FC Emmen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Helmond Sport.png" height="25px"> Helmond Sport</p> |
+| <p align="center">18:00</p> | <p align="right">Jong FC Utrecht <img src="/static/logos/Jong FC Utrecht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ADO Den Haag.png" height="25px"> ADO Den Haag</p> |
 </div>
 
 
