@@ -124,7 +124,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Hapoel Nof HaGalil <img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Maccabi Petach Tikva.png" height="25px"> Maccabi Petach Tikva</p> |
+| <p align="center">90' 4'</p> | <p align="right">Hapoel Nof HaGalil <img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Maccabi Petach Tikva.png" height="25px"> Maccabi Petach Tikva</p> |
 </div>
 
 
@@ -177,8 +177,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Cape Town Spurs <img src="/static/logos/Cape Town Spurs.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Polokwane City.png" height="25px"> Polokwane City</p> |
-| <p align="center">7'</p> | <p align="right">Richards Bay <img src="/static/logos/Richards Bay.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AmaZulu FC.png" height="25px"> AmaZulu FC</p> |
+| <p align="center">23'</p> | <p align="right">Cape Town Spurs <img src="/static/logos/Cape Town Spurs.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Polokwane City.png" height="25px"> Polokwane City</p> |
+| <p align="center">22'</p> | <p align="right">Richards Bay <img src="/static/logos/Richards Bay.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/AmaZulu FC.png" height="25px"> AmaZulu FC</p> |
 </div>
 
 
