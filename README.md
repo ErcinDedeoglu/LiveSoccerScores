@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Estudiantes <img src="/static/logos/Estudiantes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Boca Juniors.png" height="25px"> Boca Juniors</p> |
+| <p align="center">27'</p> | <p align="right">Estudiantes <img src="/static/logos/Estudiantes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Boca Juniors.png" height="25px"> Boca Juniors</p> |
 </div>
 
 
@@ -66,8 +66,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">48'</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
-| <p align="center">9'</p> | <p align="right">Operario Ferroviario <img src="/static/logos/Operario Ferroviario.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gremio.png" height="25px"> Gremio</p> |
+| <p align="center">65'</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
+| <p align="center">27'</p> | <p align="right">Operario Ferroviario <img src="/static/logos/Operario Ferroviario.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gremio.png" height="25px"> Gremio</p> |
 </div>
 
 
@@ -77,8 +77,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Marine <img src="/static/logos/Marine.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Warrington Rylands.png" height="25px"> Warrington Rylands</p> |
 | <p align="center">FT</p> | <p align="right">Macclesfield <img src="/static/logos/Macclesfield.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Worksop.png" height="25px"> Worksop</p> |
+| <p align="center">FT</p> | <p align="right">Marine <img src="/static/logos/Marine.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Warrington Rylands.png" height="25px"> Warrington Rylands</p> |
 </div>
 
 
@@ -98,12 +98,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United FC</p> |
 | <p align="center">FT</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/RANS Nusantara.png" height="25px"> RANS Nusantara</p> |
 | <p align="center">FT</p> | <p align="right">Bhayangkara Presisi Indonesia FC <img src="/static/logos/Bhayangkara Presisi Indonesia FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Persis Solo.png" height="25px"> Persis Solo</p> |
 | <p align="center">FT</p> | <p align="right">PSS Sleman <img src="/static/logos/PSS Sleman.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Persib Bandung.png" height="25px"> Persib Bandung</p> |
 | <p align="center">FT</p> | <p align="right">Persija Jakarta <img src="/static/logos/Persija Jakarta.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/PSIS.png" height="25px"> PSIS</p> |
 | <p align="center">FT</p> | <p align="right">Madura United <img src="/static/logos/Madura United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arema.png" height="25px"> Arema</p> |
+| <p align="center">FT</p> | <p align="right">Persita <img src="/static/logos/Persita.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United FC</p> |
 | <p align="center">FT</p> | <p align="right">Dewa United FC <img src="/static/logos/Dewa United FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
 </div>
 
