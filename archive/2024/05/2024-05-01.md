@@ -105,8 +105,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">18:45</p> | <p align="right">Enfield Town <img src="/static/logos/Enfield Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wingate & Finchley.png" height="25px"> Wingate & Finchley</p> |
 | <p align="center">18:45</p> | <p align="right">Chatham Town <img src="/static/logos/Chatham Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Horsham.png" height="25px"> Horsham</p> |
-| <p align="center">18:45</p> | <p align="right">Leamington <img src="/static/logos/Leamington.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Redditch United.png" height="25px"> Redditch United</p> |
-| <p align="center">18:45</p> | <p align="right">Telford <img src="/static/logos/Telford.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mickleover Sports.png" height="25px"> Mickleover Sports</p> |
+| <p align="center">2'</p> | <p align="right">Leamington <img src="/static/logos/Leamington.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Redditch United.png" height="25px"> Redditch United</p> |
+| <p align="center">2'</p> | <p align="right">Telford <img src="/static/logos/Telford.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mickleover Sports.png" height="25px"> Mickleover Sports</p> |
 | <p align="center">18:45</p> | <p align="right">Salisbury <img src="/static/logos/Salisbury.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gosport Borough.png" height="25px"> Gosport Borough</p> |
 | <p align="center">18:45</p> | <p align="right">AFC Totton <img src="/static/logos/AFC Totton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bracknell Town.png" height="25px"> Bracknell Town</p> |
 </div>
@@ -130,7 +130,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Liverpool FC Women <img src="/static/logos/Liverpool FC Women.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Chelsea FC Women.png" height="25px"> Chelsea FC Women</p> |
+| <p align="center">45' 2'</p> | <p align="right">Liverpool FC Women <img src="/static/logos/Liverpool FC Women.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Chelsea FC Women.png" height="25px"> Chelsea FC Women</p> |
 </div>
 
 
@@ -198,8 +198,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Glentoran <img src="/static/logos/Glentoran.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coleraine.png" height="25px"> Coleraine</p> |
-| <p align="center">18:45</p> | <p align="right">Crusaders <img src="/static/logos/Crusaders.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Carrick Rangers.png" height="25px"> Carrick Rangers</p> |
+| <p align="center">1'</p> | <p align="right">Glentoran <img src="/static/logos/Glentoran.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coleraine.png" height="25px"> Coleraine</p> |
+| <p align="center">2'</p> | <p align="right">Crusaders <img src="/static/logos/Crusaders.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Carrick Rangers.png" height="25px"> Carrick Rangers</p> |
 </div>
 
 
@@ -209,7 +209,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Al Nassr FC <img src="/static/logos/Al Nassr FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Al Khaleej.png" height="25px"> Al Khaleej</p> |
+| <p align="center">45' 2'</p> | <p align="right">Al Nassr FC <img src="/static/logos/Al Nassr FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Al Khaleej.png" height="25px"> Al Khaleej</p> |
 </div>
 
 
@@ -222,7 +222,7 @@
 | <p align="center">FT</p> | <p align="right">Chippa United <img src="/static/logos/Chippa United.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Swallows FC.png" height="25px"> Swallows FC</p> |
 | <p align="center">FT</p> | <p align="right">Cape Town City FC <img src="/static/logos/Cape Town City FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Orlando Pirates.png" height="25px"> Orlando Pirates</p> |
 | <p align="center">FT</p> | <p align="right">Stellenbosch FC <img src="/static/logos/Stellenbosch FC.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Lamontville Golden Arrows.png" height="25px"> Lamontville Golden Arrows</p> |
-| <p align="center">52'</p> | <p align="right">Royal AM <img src="/static/logos/Royal AM.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SuperSport United.png" height="25px"> SuperSport United</p> |
+| <p align="center">60'</p> | <p align="right">Royal AM <img src="/static/logos/Royal AM.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SuperSport United.png" height="25px"> SuperSport United</p> |
 </div>
 
 
@@ -265,7 +265,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 7'</p> | <p align="right">Esperance <img src="/static/logos/Esperance.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CS Sfaxien.png" height="25px"> CS Sfaxien</p> |
+| <p align="center">FT</p> | <p align="right">Esperance <img src="/static/logos/Esperance.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CS Sfaxien.png" height="25px"> CS Sfaxien</p> |
 </div>
 
 
