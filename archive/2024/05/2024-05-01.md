@@ -46,7 +46,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide United</p> |
+| <p align="center">65'</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Adelaide United.png" height="25px"> Adelaide United</p> |
 </div>
 
 
@@ -179,11 +179,11 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">10:30</p> | <p align="right">Cremonese <img src="/static/logos/Cremonese.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pisa.png" height="25px"> Pisa</p> |
+| <p align="center">13:00</p> | <p align="right">Como <img src="/static/logos/Como.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cittadella.png" height="25px"> Cittadella</p> |
+| <p align="center">13:00</p> | <p align="right">Catanzaro <img src="/static/logos/Catanzaro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venezia.png" height="25px"> Venezia</p> |
 | <p align="center">13:00</p> | <p align="right">Spezia <img src="/static/logos/Spezia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Palermo.png" height="25px"> Palermo</p> |
 | <p align="center">13:00</p> | <p align="right">Sudtirol <img src="/static/logos/Sudtirol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ternana.png" height="25px"> Ternana</p> |
 | <p align="center">13:00</p> | <p align="right">Ascoli Calcio 1898 FC <img src="/static/logos/Ascoli Calcio 1898 FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cosenza.png" height="25px"> Cosenza</p> |
-| <p align="center">13:00</p> | <p align="right">Como <img src="/static/logos/Como.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cittadella.png" height="25px"> Cittadella</p> |
-| <p align="center">13:00</p> | <p align="right">Catanzaro <img src="/static/logos/Catanzaro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Venezia.png" height="25px"> Venezia</p> |
 | <p align="center">16:00</p> | <p align="right">Bari <img src="/static/logos/Bari.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma Calcio 1913</p> |
 | <p align="center">16:00</p> | <p align="right">Lecco <img src="/static/logos/Lecco.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sampdoria.png" height="25px"> Sampdoria</p> |
 | <p align="center">16:00</p> | <p align="right">Reggiana <img src="/static/logos/Reggiana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Modena.png" height="25px"> Modena</p> |
@@ -231,10 +231,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Jeju United <img src="/static/logos/Jeju United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
-| <p align="center">10:00</p> | <p align="right">Gangwon FC <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
-| <p align="center">10:00</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ulsan HD FC.png" height="25px"> Ulsan HD FC</p> |
-| <p align="center">10:00</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
+| <p align="center">22'</p> | <p align="right">Jeju United <img src="/static/logos/Jeju United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
+| <p align="center">22'</p> | <p align="right">Gangwon FC <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
+| <p align="center">22'</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
+| <p align="center">22'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ulsan HD FC.png" height="25px"> Ulsan HD FC</p> |
 </div>
 
 
