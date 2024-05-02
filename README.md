@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">26'</p> | <p align="right">Chelsea <img src="/static/logos/Chelsea.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tottenham.png" height="25px"> Tottenham</p> |
+| <p align="center">44'</p> | <p align="right">Chelsea <img src="/static/logos/Chelsea.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tottenham.png" height="25px"> Tottenham</p> |
 </div>
 
 
@@ -26,8 +26,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Roma <img src="/static/logos/Roma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bayer Leverkusen.png" height="25px"> Bayer Leverkusen</p> |
-| <p align="center">19:00</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atalanta.png" height="25px"> Atalanta</p> |
+| <p align="center">12'</p> | <p align="right">Roma <img src="/static/logos/Roma.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bayer Leverkusen.png" height="25px"> Bayer Leverkusen</p> |
+| <p align="center">15'</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Atalanta.png" height="25px"> Atalanta</p> |
 </div>
 
 
@@ -37,8 +37,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Fiorentina <img src="/static/logos/Fiorentina.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Bruges.png" height="25px"> Club Bruges</p> |
-| <p align="center">19:00</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olympiacos.png" height="25px"> Olympiacos</p> |
+| <p align="center">15'</p> | <p align="right">Fiorentina <img src="/static/logos/Fiorentina.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Bruges.png" height="25px"> Club Bruges</p> |
+| <p align="center">14'</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olympiacos.png" height="25px"> Olympiacos</p> |
 </div>
 
 
@@ -114,8 +114,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al Hazem <img src="/static/logos/Al Hazem.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Akhdoud.png" height="25px"> Al Akhdoud</p> |
-| <p align="center">HT</p> | <p align="right">Al Ahli <img src="/static/logos/Al Ahli.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
-| <p align="center">HT</p> | <p align="right">Al Fateh FC <img src="/static/logos/Al Fateh FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Riyadh.png" height="25px"> Al Riyadh</p> |
+| <p align="center">54'</p> | <p align="right">Al Ahli <img src="/static/logos/Al Ahli.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
+| <p align="center">55'</p> | <p align="right">Al Fateh FC <img src="/static/logos/Al Fateh FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Riyadh.png" height="25px"> Al Riyadh</p> |
 </div>
 
 
@@ -125,7 +125,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">FK Crvena Zvezda <img src="/static/logos/FK Crvena Zvezda.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/TSC Backa Topola.png" height="25px"> TSC Backa Topola</p> |
+| <p align="center">FT</p> | <p align="right">FK Crvena Zvezda <img src="/static/logos/FK Crvena Zvezda.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/TSC Backa Topola.png" height="25px"> TSC Backa Topola</p> |
 </div>
 
 
@@ -135,7 +135,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">Kaizer Chiefs <img src="/static/logos/Kaizer Chiefs.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"> Mamelodi Sundowns FC</p> |
+| <p align="center">84'</p> | <p align="right">Kaizer Chiefs <img src="/static/logos/Kaizer Chiefs.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"> Mamelodi Sundowns FC</p> |
 </div>
 
 
