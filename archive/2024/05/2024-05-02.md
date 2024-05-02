@@ -82,8 +82,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Future FC <img src="/static/logos/Future FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
-| <p align="center">16:00</p> | <p align="right">Zamalek SC <img src="/static/logos/Zamalek SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/National Bank.png" height="25px"> National Bank</p> |
+| <p align="center">HT</p> | <p align="right">Future FC <img src="/static/logos/Future FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
+| <p align="center">HT</p> | <p align="right">Zamalek SC <img src="/static/logos/Zamalek SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/National Bank.png" height="25px"> National Bank</p> |
 </div>
 
 
@@ -93,7 +93,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"> Hapoel Nir Ramat HaSharon</p> |
+| <p align="center">HT</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"> Hapoel Nir Ramat HaSharon</p> |
 </div>
 
 
@@ -103,7 +103,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Pogon Szczecin <img src="/static/logos/Pogon Szczecin.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
+| <p align="center">FT</p> | <p align="right">Pogon Szczecin <img src="/static/logos/Pogon Szczecin.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
 </div>
 
 
@@ -113,7 +113,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Al Hazem <img src="/static/logos/Al Hazem.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Akhdoud.png" height="25px"> Al Akhdoud</p> |
+| <p align="center">90' 3'</p> | <p align="right">Al Hazem <img src="/static/logos/Al Hazem.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Akhdoud.png" height="25px"> Al Akhdoud</p> |
 | <p align="center">18:00</p> | <p align="right">Al Fateh FC <img src="/static/logos/Al Fateh FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Riyadh.png" height="25px"> Al Riyadh</p> |
 | <p align="center">18:00</p> | <p align="right">Al Ahli <img src="/static/logos/Al Ahli.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
 </div>
