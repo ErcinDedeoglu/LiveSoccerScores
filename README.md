@@ -68,7 +68,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Necaxa <img src="/static/logos/Necaxa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Queretaro FC.png" height="25px"> Queretaro FC</p> |
-| <p align="center">4'</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Universidad Nacional.png" height="25px"> Club Universidad Nacional</p> |
+| <p align="center">12'</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Universidad Nacional.png" height="25px"> Club Universidad Nacional</p> |
 </div>
 
 
@@ -150,7 +150,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Atletico La Paz <img src="/static/logos/Atletico La Paz.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Leones Negros.png" height="25px"> Leones Negros</p> |
+| <p align="center">FT</p> | <p align="right">Atletico La Paz <img src="/static/logos/Atletico La Paz.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Leones Negros.png" height="25px"> Leones Negros</p> |
 </div>
 
 
