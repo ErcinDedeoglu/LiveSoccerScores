@@ -68,9 +68,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">Chicago Fire FC <img src="/static/logos/Chicago Fire FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/New England Revolution.png" height="25px"> New England Revolution</p> |
-| <p align="center">00:30</p> | <p align="right">Houston Dynamo FC <img src="/static/logos/Houston Dynamo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
-| <p align="center">00:30</p> | <p align="right">Nashville SC <img src="/static/logos/Nashville SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Montreal.png" height="25px"> CF Montreal</p> |
+| <p align="center">POS</p> | <p align="right">Chicago Fire FC <img src="/static/logos/Chicago Fire FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/New England Revolution.png" height="25px"> New England Revolution</p> |
+| <p align="center">11'</p> | <p align="right">Houston Dynamo FC <img src="/static/logos/Houston Dynamo FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
+| <p align="center">11'</p> | <p align="right">Nashville SC <img src="/static/logos/Nashville SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CF Montreal.png" height="25px"> CF Montreal</p> |
 | <p align="center">01:30</p> | <p align="right">Real Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting Kansas City</p> |
 | <p align="center">02:30</p> | <p align="right">Vancouver Whitecaps <img src="/static/logos/Vancouver Whitecaps.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Austin FC.png" height="25px"> Austin FC</p> |
 | <p align="center">20:00</p> | <p align="right">New York City FC <img src="/static/logos/New York City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado Rapids</p> |
@@ -145,7 +145,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Cruzeiro <img src="/static/logos/Cruzeiro.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
-| <p align="center">29'</p> | <p align="right">Corinthians <img src="/static/logos/Corinthians.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
+| <p align="center">45' 6'</p> | <p align="right">Corinthians <img src="/static/logos/Corinthians.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 | <p align="center">19:00</p> | <p align="right">Vitoria <img src="/static/logos/Vitoria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sao Paulo.png" height="25px"> Sao Paulo</p> |
 | <p align="center">POS</p> | <p align="right">Gremio <img src="/static/logos/Gremio.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
 | <p align="center">19:00</p> | <p align="right">Athletico Paranaense <img src="/static/logos/Athletico Paranaense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vasco da Gama.png" height="25px"> Vasco da Gama</p> |
@@ -160,7 +160,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Junior FC <img src="/static/logos/Junior FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
+| <p align="center">35'</p> | <p align="right">Junior FC <img src="/static/logos/Junior FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
 | <p align="center">22:15</p> | <p align="right">Santa Fe <img src="/static/logos/Santa Fe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tolima.png" height="25px"> Tolima</p> |
 </div>
 
@@ -171,7 +171,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">Union Espanola <img src="/static/logos/Union Espanola.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Universidad Catolica.png" height="25px"> Universidad Catolica</p> |
+| <p align="center">45' 6'</p> | <p align="right">Union Espanola <img src="/static/logos/Union Espanola.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Universidad Catolica.png" height="25px"> Universidad Catolica</p> |
 | <p align="center">16:30</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Nublense.png" height="25px"> CD Nublense</p> |
 | <p align="center">19:00</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportes Iquique.png" height="25px"> Deportes Iquique</p> |
 | <p align="center">21:30</p> | <p align="right">Cobreloa <img src="/static/logos/Cobreloa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Everton CD.png" height="25px"> Everton CD</p> |
@@ -264,7 +264,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">30'</p> | <p align="right">Ituano FC <img src="/static/logos/Ituano FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Novorizontino.png" height="25px"> Novorizontino</p> |
+| <p align="center">45' 7'</p> | <p align="right">Ituano FC <img src="/static/logos/Ituano FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Novorizontino.png" height="25px"> Novorizontino</p> |
 | <p align="center">19:00</p> | <p align="right">Brusque <img src="/static/logos/Brusque.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Goias.png" height="25px"> Goias</p> |
 </div>
 
@@ -698,7 +698,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">San Antonio FC <img src="/static/logos/San Antonio FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Oakland Roots SC</p> |
+| <p align="center">15'</p> | <p align="right">San Antonio FC <img src="/static/logos/San Antonio FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Oakland Roots SC</p> |
 | <p align="center">02:30</p> | <p align="right">Las Vegas Lights FC <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/New Mexico United.png" height="25px"> New Mexico United</p> |
 </div>
 
