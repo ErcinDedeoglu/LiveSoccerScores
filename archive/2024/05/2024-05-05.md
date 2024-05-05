@@ -74,7 +74,7 @@
 | <p align="center">FT</p> | <p align="right">Real Salt Lake <img src="/static/logos/Real Salt Lake.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting Kansas City</p> |
 | <p align="center">FT</p> | <p align="right">Vancouver Whitecaps <img src="/static/logos/Vancouver Whitecaps.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Austin FC.png" height="25px"> Austin FC</p> |
 | <p align="center">FT</p> | <p align="right">New York City FC <img src="/static/logos/New York City FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado Rapids</p> |
-| <p align="center">42'</p> | <p align="right">Seattle Sounders FC <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/LA Galaxy.png" height="25px"> LA Galaxy</p> |
+| <p align="center">HT</p> | <p align="right">Seattle Sounders FC <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/LA Galaxy.png" height="25px"> LA Galaxy</p> |
 </div>
 
 
@@ -86,7 +86,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Portland Thorns <img src="/static/logos/Portland Thorns.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Washington Spirit.png" height="25px"> Washington Spirit</p> |
 | <p align="center">FT</p> | <p align="right">Houston Dash <img src="/static/logos/Houston Dash.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kansas City Current.png" height="25px"> Kansas City Current</p> |
-| <p align="center">70'</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Racing Louisville.png" height="25px"> Racing Louisville</p> |
+| <p align="center">85'</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Racing Louisville.png" height="25px"> Racing Louisville</p> |
 </div>
 
 
@@ -161,7 +161,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Junior FC <img src="/static/logos/Junior FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
-| <p align="center">62'</p> | <p align="right">Santa Fe <img src="/static/logos/Santa Fe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tolima.png" height="25px"> Tolima</p> |
+| <p align="center">77'</p> | <p align="right">Santa Fe <img src="/static/logos/Santa Fe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tolima.png" height="25px"> Tolima</p> |
 </div>
 
 
@@ -277,7 +277,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Botafogo PB <img src="/static/logos/Botafogo PB.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Remo.png" height="25px"> Remo</p> |
 | <p align="center">POS</p> | <p align="right">Sampaio Correa <img src="/static/logos/Sampaio Correa.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Caxias.png" height="25px"> Caxias</p> |
-| <p align="center">74'</p> | <p align="right">Athletic Club <img src="/static/logos/Athletic Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ABC.png" height="25px"> ABC</p> |
+| <p align="center">89'</p> | <p align="right">Athletic Club <img src="/static/logos/Athletic Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ABC.png" height="25px"> ABC</p> |
 </div>
 
 
