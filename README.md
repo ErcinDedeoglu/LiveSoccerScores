@@ -57,7 +57,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
+| <p align="center">49'</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
 </div>
 
 
@@ -210,10 +210,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Chatham Town <img src="/static/logos/Chatham Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Enfield Town.png" height="25px"> Enfield Town</p> |
 | <p align="center">14:00</p> | <p align="right">Macclesfield <img src="/static/logos/Macclesfield.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Marine.png" height="25px"> Marine</p> |
 | <p align="center">14:00</p> | <p align="right">Telford <img src="/static/logos/Telford.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leamington.png" height="25px"> Leamington</p> |
 | <p align="center">14:00</p> | <p align="right">AFC Totton <img src="/static/logos/AFC Totton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Salisbury.png" height="25px"> Salisbury</p> |
+| <p align="center">14:00</p> | <p align="right">Chatham Town <img src="/static/logos/Chatham Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Enfield Town.png" height="25px"> Enfield Town</p> |
 </div>
 
 
