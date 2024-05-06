@@ -157,7 +157,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Ceara <img src="/static/logos/Ceara.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
+| <p align="center">36'</p> | <p align="right">Ceara <img src="/static/logos/Ceara.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
 | <p align="center">23:00</p> | <p align="right">Ponte Preta <img src="/static/logos/Ponte Preta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Amazonas FC.png" height="25px"> Amazonas FC</p> |
 </div>
 
