@@ -200,7 +200,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Worthing <img src="/static/logos/Worthing.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Braintree Town.png" height="25px"> Braintree Town</p> |
+| <p align="center">90' 3'</p> | <p align="right">Worthing <img src="/static/logos/Worthing.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Braintree Town.png" height="25px"> Braintree Town</p> |
 </div>
 
 
@@ -210,10 +210,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">AFC Totton <img src="/static/logos/AFC Totton.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Salisbury.png" height="25px"> Salisbury</p> |
-| <p align="center">64'</p> | <p align="right">Chatham Town <img src="/static/logos/Chatham Town.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Enfield Town.png" height="25px"> Enfield Town</p> |
-| <p align="center">63'</p> | <p align="right">Macclesfield <img src="/static/logos/Macclesfield.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Marine.png" height="25px"> Marine</p> |
-| <p align="center">56'</p> | <p align="right">Telford <img src="/static/logos/Telford.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Leamington.png" height="25px"> Leamington</p> |
+| <p align="center">89'</p> | <p align="right">AFC Totton <img src="/static/logos/AFC Totton.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Salisbury.png" height="25px"> Salisbury</p> |
+| <p align="center">90' 6'</p> | <p align="right">Chatham Town <img src="/static/logos/Chatham Town.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Enfield Town.png" height="25px"> Enfield Town</p> |
+| <p align="center">90' 5'</p> | <p align="right">Macclesfield <img src="/static/logos/Macclesfield.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Marine.png" height="25px"> Marine</p> |
+| <p align="center">89'</p> | <p align="right">Telford <img src="/static/logos/Telford.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Leamington.png" height="25px"> Leamington</p> |
 </div>
 
 
@@ -233,9 +233,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Paykan <img src="/static/logos/Paykan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aluminium Arak.png" height="25px"> Aluminium Arak</p> |
-| <p align="center">41'</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Esteghlal Khuzestan.png" height="25px"> Esteghlal Khuzestan</p> |
-| <p align="center">33'</p> | <p align="right">Nassaji Mazandaran FC <img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Persepolis.png" height="25px"> Persepolis</p> |
+| <p align="center">FT</p> | <p align="right">Paykan <img src="/static/logos/Paykan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aluminium Arak.png" height="25px"> Aluminium Arak</p> |
+| <p align="center">46'</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Esteghlal Khuzestan.png" height="25px"> Esteghlal Khuzestan</p> |
+| <p align="center">HT</p> | <p align="right">Nassaji Mazandaran FC <img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Persepolis.png" height="25px"> Persepolis</p> |
 | <p align="center">16:00</p> | <p align="right">Sanat Naft Abadan <img src="/static/logos/Sanat Naft Abadan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Mes Rafsanjan</p> |
 | <p align="center">16:00</p> | <p align="right">Foolad Khouzestan <img src="/static/logos/Foolad Khouzestan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tractor.png" height="25px"> Tractor</p> |
 | <p align="center">16:00</p> | <p align="right">Malavan <img src="/static/logos/Malavan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar SC</p> |
@@ -309,7 +309,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16'</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rivers United FC.png" height="25px"> Rivers United FC</p> |
+| <p align="center">HT</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Rivers United FC.png" height="25px"> Rivers United FC</p> |
 </div>
 
 
@@ -319,7 +319,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">61'</p> | <p align="right">Crusaders <img src="/static/logos/Crusaders.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Coleraine.png" height="25px"> Coleraine</p> |
+| <p align="center">90' 4'</p> | <p align="right">Crusaders <img src="/static/logos/Crusaders.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Coleraine.png" height="25px"> Coleraine</p> |
 </div>
 
 
@@ -403,8 +403,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">Al Ittihad Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Emirates Club.png" height="25px"> Emirates Club</p> |
-| <p align="center">51'</p> | <p align="right">Khorfakkan <img src="/static/logos/Khorfakkan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al-Ain.png" height="25px"> Al-Ain</p> |
+| <p align="center">84'</p> | <p align="right">Al Ittihad Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Emirates Club.png" height="25px"> Emirates Club</p> |
+| <p align="center">84'</p> | <p align="right">Khorfakkan <img src="/static/logos/Khorfakkan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al-Ain.png" height="25px"> Al-Ain</p> |
 | <p align="center">16:45</p> | <p align="right">Al Bataeh <img src="/static/logos/Al Bataeh.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Wasl.png" height="25px"> Al-Wasl</p> |
 </div>
 
