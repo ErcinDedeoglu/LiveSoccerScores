@@ -26,8 +26,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Caracas <img src="/static/logos/Caracas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
-| <p align="center">46'</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
+| <p align="center">63'</p> | <p align="right">Caracas <img src="/static/logos/Caracas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
+| <p align="center">62'</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
 </div>
 
 
@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Pittsburgh Riverhounds SC <img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> FC Tulsa</p> |
+| <p align="center">17'</p> | <p align="right">Pittsburgh Riverhounds SC <img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> FC Tulsa</p> |
 </div>
 
 
@@ -47,8 +47,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Racing <img src="/static/logos/Racing.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
-| <p align="center">48'</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
+| <p align="center">59'</p> | <p align="right">Racing <img src="/static/logos/Racing.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
+| <p align="center">65'</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
 </div>
 
 
