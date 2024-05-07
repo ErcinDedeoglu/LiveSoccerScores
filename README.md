@@ -122,7 +122,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">10:00</p> | <p align="right">Southampton U18 <img src="/static/logos/Southampton U18.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chelsea U18.png" height="25px"> Chelsea U18</p> |
 | <p align="center">11:00</p> | <p align="right">Crystal Palace U18 <img src="/static/logos/Crystal Palace U18.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Ham United U18.png" height="25px"> West Ham United U18</p> |
-| <p align="center">11:30</p> | <p align="right">Sunderland U18 <img src="/static/logos/Sunderland U18.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackburn Rovers U18.png" height="25px"> Blackburn Rovers U18</p> |
+| <p align="center">16:30</p> | <p align="right">Sunderland U18 <img src="/static/logos/Sunderland U18.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackburn Rovers U18.png" height="25px"> Blackburn Rovers U18</p> |
 | <p align="center">17:00</p> | <p align="right">Middlesbrough U18 <img src="/static/logos/Middlesbrough U18.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newcastle United U18.png" height="25px"> Newcastle United U18</p> |
 </div>
 
