@@ -121,7 +121,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Southampton U18 <img src="/static/logos/Southampton U18.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Chelsea U18.png" height="25px"> Chelsea U18</p> |
-| <p align="center">HT</p> | <p align="right">Crystal Palace U18 <img src="/static/logos/Crystal Palace U18.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/West Ham United U18.png" height="25px"> West Ham United U18</p> |
+| <p align="center">FT</p> | <p align="right">Crystal Palace U18 <img src="/static/logos/Crystal Palace U18.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/West Ham United U18.png" height="25px"> West Ham United U18</p> |
 | <p align="center">16:30</p> | <p align="right">Sunderland U18 <img src="/static/logos/Sunderland U18.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackburn Rovers U18.png" height="25px"> Blackburn Rovers U18</p> |
 | <p align="center">17:00</p> | <p align="right">Middlesbrough U18 <img src="/static/logos/Middlesbrough U18.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newcastle United U18.png" height="25px"> Newcastle United U18</p> |
 </div>
@@ -161,9 +161,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">18:30</p> | <p align="right">Taranto <img src="/static/logos/Taranto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Latina.png" height="25px"> Latina</p> |
+| <p align="center">18:30</p> | <p align="right">Gubbio <img src="/static/logos/Gubbio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rimini.png" height="25px"> Rimini</p> |
 | <p align="center">18:30</p> | <p align="right">Atalanta U23 <img src="/static/logos/Atalanta U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Trento.png" height="25px"> Trento</p> |
 | <p align="center">18:30</p> | <p align="right">Giana Erminio <img src="/static/logos/Giana Erminio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pro Vercelli.png" height="25px"> Pro Vercelli</p> |
-| <p align="center">18:30</p> | <p align="right">Gubbio <img src="/static/logos/Gubbio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rimini.png" height="25px"> Rimini</p> |
 | <p align="center">19:00</p> | <p align="right">AZ Picerno <img src="/static/logos/AZ Picerno.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crotone.png" height="25px"> Crotone</p> |
 </div>
 
@@ -184,10 +184,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:30</p> | <p align="right">Kaizer Chiefs <img src="/static/logos/Kaizer Chiefs.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TS Galaxy.png" height="25px"> TS Galaxy</p> |
+| <p align="center">17:30</p> | <p align="right">Cape Town City FC <img src="/static/logos/Cape Town City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Swallows FC.png" height="25px"> Swallows FC</p> |
 | <p align="center">17:30</p> | <p align="right">Royal AM <img src="/static/logos/Royal AM.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cape Town Spurs.png" height="25px"> Cape Town Spurs</p> |
 | <p align="center">17:30</p> | <p align="right">SuperSport United <img src="/static/logos/SuperSport United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sekhukhune United.png" height="25px"> Sekhukhune United</p> |
-| <p align="center">17:30</p> | <p align="right">Cape Town City FC <img src="/static/logos/Cape Town City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Swallows FC.png" height="25px"> Swallows FC</p> |
+| <p align="center">17:30</p> | <p align="right">Kaizer Chiefs <img src="/static/logos/Kaizer Chiefs.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TS Galaxy.png" height="25px"> TS Galaxy</p> |
 </div>
 
 
