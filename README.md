@@ -200,10 +200,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">QNK Quang Nam <img src="/static/logos/QNK Quang Nam.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cong An Ha Noi.png" height="25px"> Cong An Ha Noi</p> |
-| <p align="center">24'</p> | <p align="right">Binh Dinh <img src="/static/logos/Binh Dinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"> Hong Linh Ha Tinh</p> |
-| <p align="center">23'</p> | <p align="right">Khanh Hoa FC <img src="/static/logos/Khanh Hoa FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hai Phong.png" height="25px"> Hai Phong</p> |
-| <p align="center">18'</p> | <p align="right">Nam Dinh <img src="/static/logos/Nam Dinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Binh Duong.png" height="25px"> Binh Duong</p> |
+| <p align="center">71'</p> | <p align="right">QNK Quang Nam <img src="/static/logos/QNK Quang Nam.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cong An Ha Noi.png" height="25px"> Cong An Ha Noi</p> |
+| <p align="center">31'</p> | <p align="right">Binh Dinh <img src="/static/logos/Binh Dinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"> Hong Linh Ha Tinh</p> |
+| <p align="center">30'</p> | <p align="right">Khanh Hoa FC <img src="/static/logos/Khanh Hoa FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hai Phong.png" height="25px"> Hai Phong</p> |
+| <p align="center">25'</p> | <p align="right">Nam Dinh <img src="/static/logos/Nam Dinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Binh Duong.png" height="25px"> Binh Duong</p> |
 | <p align="center">12:15</p> | <p align="right">Ho Chi Minh City FC <img src="/static/logos/Ho Chi Minh City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thanh Hoa FC.png" height="25px"> Thanh Hoa FC</p> |
 </div>
 
