@@ -76,10 +76,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">14:00</p> | <p align="right">Kukesi <img src="/static/logos/Kukesi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Partizani.png" height="25px"> Partizani</p> |
+| <p align="center">14:00</p> | <p align="right">KF Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vllaznia.png" height="25px"> Vllaznia</p> |
 | <p align="center">14:00</p> | <p align="right">Skenderbeu <img src="/static/logos/Skenderbeu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Laci.png" height="25px"> Laci</p> |
 | <p align="center">14:00</p> | <p align="right">FC Dinamo City <img src="/static/logos/FC Dinamo City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Egnatia.png" height="25px"> Egnatia</p> |
 | <p align="center">14:00</p> | <p align="right">KF Erzeni <img src="/static/logos/KF Erzeni.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Teuta Durres.png" height="25px"> Teuta Durres</p> |
-| <p align="center">14:00</p> | <p align="right">KF Tirana <img src="/static/logos/KF Tirana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vllaznia.png" height="25px"> Vllaznia</p> |
 </div>
 
 
@@ -167,9 +167,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">17:30</p> | <p align="right">Orlando Pirates <img src="/static/logos/Orlando Pirates.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chippa United.png" height="25px"> Chippa United</p> |
-| <p align="center">17:30</p> | <p align="right">Polokwane City <img src="/static/logos/Polokwane City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Richards Bay.png" height="25px"> Richards Bay</p> |
 | <p align="center">17:30</p> | <p align="right">Stellenbosch FC <img src="/static/logos/Stellenbosch FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AmaZulu FC.png" height="25px"> AmaZulu FC</p> |
 | <p align="center">17:30</p> | <p align="right">Lamontville Golden Arrows <img src="/static/logos/Lamontville Golden Arrows.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"> Mamelodi Sundowns FC</p> |
+| <p align="center">17:30</p> | <p align="right">Polokwane City <img src="/static/logos/Polokwane City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Richards Bay.png" height="25px"> Richards Bay</p> |
 </div>
 
 
@@ -200,10 +200,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">QNK Quang Nam <img src="/static/logos/QNK Quang Nam.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cong An Ha Noi.png" height="25px"> Cong An Ha Noi</p> |
-| <p align="center">15'</p> | <p align="right">Binh Dinh <img src="/static/logos/Binh Dinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"> Hong Linh Ha Tinh</p> |
-| <p align="center">14'</p> | <p align="right">Khanh Hoa FC <img src="/static/logos/Khanh Hoa FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hai Phong.png" height="25px"> Hai Phong</p> |
-| <p align="center">9'</p> | <p align="right">Nam Dinh <img src="/static/logos/Nam Dinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Binh Duong.png" height="25px"> Binh Duong</p> |
+| <p align="center">64'</p> | <p align="right">QNK Quang Nam <img src="/static/logos/QNK Quang Nam.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cong An Ha Noi.png" height="25px"> Cong An Ha Noi</p> |
+| <p align="center">24'</p> | <p align="right">Binh Dinh <img src="/static/logos/Binh Dinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"> Hong Linh Ha Tinh</p> |
+| <p align="center">23'</p> | <p align="right">Khanh Hoa FC <img src="/static/logos/Khanh Hoa FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hai Phong.png" height="25px"> Hai Phong</p> |
+| <p align="center">18'</p> | <p align="right">Nam Dinh <img src="/static/logos/Nam Dinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Binh Duong.png" height="25px"> Binh Duong</p> |
 | <p align="center">12:15</p> | <p align="right">Ho Chi Minh City FC <img src="/static/logos/Ho Chi Minh City FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thanh Hoa FC.png" height="25px"> Thanh Hoa FC</p> |
 </div>
 
