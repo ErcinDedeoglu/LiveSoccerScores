@@ -106,7 +106,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Union St.Gilloise <img src="/static/logos/Union St.Gilloise.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Royal Antwerp.png" height="25px"> Royal Antwerp</p> |
+| <p align="center">FT</p> | <p align="right">Union St.Gilloise <img src="/static/logos/Union St.Gilloise.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Royal Antwerp.png" height="25px"> Royal Antwerp</p> |
 </div>
 
 
@@ -126,7 +126,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Ismaily SC <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
+| <p align="center">FT</p> | <p align="right">Ismaily SC <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
 | <p align="center">POS</p> | <p align="right">Zamalek SC <img src="/static/logos/Zamalek SC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/ENPPI.png" height="25px"> ENPPI</p> |
 | <p align="center">16:00</p> | <p align="right">Smouha SC <img src="/static/logos/Smouha SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ZED FC.png" height="25px"> ZED FC</p> |
 </div>
@@ -149,7 +149,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">Kwara United <img src="/static/logos/Kwara United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rivers United FC.png" height="25px"> Rivers United FC</p> |
+| <p align="center">40'</p> | <p align="right">Kwara United <img src="/static/logos/Kwara United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rivers United FC.png" height="25px"> Rivers United FC</p> |
 </div>
 
 
@@ -159,8 +159,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">1'</p> | <p align="right">Al-Fayha <img src="/static/logos/Al-Fayha.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Fateh FC.png" height="25px"> Al Fateh FC</p> |
-| <p align="center">1'</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al-Taawoun.png" height="25px"> Al-Taawoun</p> |
+| <p align="center">38'</p> | <p align="right">Al-Fayha <img src="/static/logos/Al-Fayha.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Fateh FC.png" height="25px"> Al Fateh FC</p> |
+| <p align="center">38'</p> | <p align="right">Al Riyadh <img src="/static/logos/Al Riyadh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al-Taawoun.png" height="25px"> Al-Taawoun</p> |
 | <p align="center">18:00</p> | <p align="right">Al Akhdoud <img src="/static/logos/Al Akhdoud.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Al Nassr FC</p> |
 </div>
 
