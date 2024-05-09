@@ -184,7 +184,6 @@
 | <p align="center">11:00</p> | <p align="right">Mtibwa Sugar <img src="/static/logos/Mtibwa Sugar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tabora United.png" height="25px"> Tabora United</p> |
 | <p align="center">13:00</p> | <p align="right">Ihefu FC <img src="/static/logos/Ihefu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JKT Tanzania.png" height="25px"> JKT Tanzania</p> |
 | <p align="center">15:15</p> | <p align="right">Azam FC <img src="/static/logos/Azam FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Simba SC.png" height="25px"> Simba SC</p> |
-| <p align="center">17:30</p> | <p align="right">Namungo FC <img src="/static/logos/Namungo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Geita Gold FC.png" height="25px"> Geita Gold FC</p> |
 </div>
 
 
