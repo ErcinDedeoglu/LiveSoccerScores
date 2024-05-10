@@ -140,7 +140,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">FK Neftchi <img src="/static/logos/FK Neftchi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Kapaz.png" height="25px"> FC Kapaz</p> |
+| <p align="center">44'</p> | <p align="right">FK Neftchi <img src="/static/logos/FK Neftchi.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Kapaz.png" height="25px"> FC Kapaz</p> |
 </div>
 
 
@@ -160,7 +160,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Doxa Katokopia <img src="/static/logos/Doxa Katokopia.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Ethnikos Achnas.png" height="25px"> Ethnikos Achnas</p> |
+| <p align="center">83'</p> | <p align="right">Doxa Katokopia <img src="/static/logos/Doxa Katokopia.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Ethnikos Achnas.png" height="25px"> Ethnikos Achnas</p> |
 | <p align="center">16:00</p> | <p align="right">AEL Limassol <img src="/static/logos/AEL Limassol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Karmiotissa Pano Polemidion.png" height="25px"> Karmiotissa Pano Polemidion</p> |
 </div>
 
@@ -374,7 +374,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Abha <img src="/static/logos/Abha.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
+| <p align="center">44'</p> | <p align="right">Abha <img src="/static/logos/Abha.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Damac FC.png" height="25px"> Damac FC</p> |
 | <p align="center">18:00</p> | <p align="right">Al Khaleej <img src="/static/logos/Al Khaleej.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Wehda.png" height="25px"> Al-Wehda</p> |
 | <p align="center">18:00</p> | <p align="right">Al Ittihad <img src="/static/logos/Al Ittihad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Ettifaq.png" height="25px"> Al-Ettifaq</p> |
 </div>
@@ -449,7 +449,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Gafsa <img src="/static/logos/Gafsa.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AS Slimane.png" height="25px"> AS Slimane</p> |
+| <p align="center">85'</p> | <p align="right">Gafsa <img src="/static/logos/Gafsa.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/AS Slimane.png" height="25px"> AS Slimane</p> |
 | <p align="center">16:30</p> | <p align="right">CS Sfaxien <img src="/static/logos/CS Sfaxien.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stade Tunisien.png" height="25px"> Stade Tunisien</p> |
 | <p align="center">16:30</p> | <p align="right">US Monastir <img src="/static/logos/US Monastir.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Africain.png" height="25px"> Club Africain</p> |
 </div>
@@ -462,7 +462,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Keciorengucu <img src="/static/logos/Keciorengucu.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Altay.png" height="25px"> Altay</p> |
-| <p align="center">77'</p> | <p align="right">Giresunspor <img src="/static/logos/Giresunspor.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Umraniyespor.png" height="25px"> Umraniyespor</p> |
+| <p align="center">85'</p> | <p align="right">Giresunspor <img src="/static/logos/Giresunspor.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Umraniyespor.png" height="25px"> Umraniyespor</p> |
 </div>
 
 
@@ -472,8 +472,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Al-Jazira <img src="/static/logos/Al-Jazira.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Khorfakkan.png" height="25px"> Khorfakkan</p> |
-| <p align="center">62'</p> | <p align="right">Ajman <img src="/static/logos/Ajman.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Bataeh.png" height="25px"> Al Bataeh</p> |
+| <p align="center">67'</p> | <p align="right">Al-Jazira <img src="/static/logos/Al-Jazira.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Khorfakkan.png" height="25px"> Khorfakkan</p> |
+| <p align="center">70'</p> | <p align="right">Ajman <img src="/static/logos/Ajman.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Al Bataeh.png" height="25px"> Al Bataeh</p> |
 | <p align="center">17:00</p> | <p align="right">Bani Yas <img src="/static/logos/Bani Yas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sharjah Cultural Club.png" height="25px"> Sharjah Cultural Club</p> |
 </div>
 
