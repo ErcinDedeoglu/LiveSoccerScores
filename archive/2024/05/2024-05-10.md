@@ -130,7 +130,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:05</p> | <p align="right">Excursionistas <img src="/static/logos/Excursionistas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canuelas.png" height="25px"> Canuelas</p> |
+| <p align="center">16'</p> | <p align="right">Excursionistas <img src="/static/logos/Excursionistas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Canuelas.png" height="25px"> Canuelas</p> |
 </div>
 
 
@@ -150,7 +150,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 5'</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Ceara.png" height="25px"> Ceara</p> |
+| <p align="center">67'</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Ceara.png" height="25px"> Ceara</p> |
 </div>
 
 
@@ -205,9 +205,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Paris FC <img src="/static/logos/Paris FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Guingamp.png" height="25px"> Guingamp</p> |
 | <p align="center">FT</p> | <p align="right">Laval <img src="/static/logos/Laval.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Troyes.png" height="25px"> Troyes</p> |
+| <p align="center">FT</p> | <p align="right">Amiens <img src="/static/logos/Amiens.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Auxerre.png" height="25px"> Auxerre</p> |
 | <p align="center">FT</p> | <p align="right">Valenciennes <img src="/static/logos/Valenciennes.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Quevilly.png" height="25px"> Quevilly</p> |
 | <p align="center">FT</p> | <p align="right">Dunkerque <img src="/static/logos/Dunkerque.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Caen.png" height="25px"> Caen</p> |
-| <p align="center">FT</p> | <p align="right">Amiens <img src="/static/logos/Amiens.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Auxerre.png" height="25px"> Auxerre</p> |
 </div>
 
 
@@ -221,9 +221,9 @@
 | <p align="center">FT</p> | <p align="right">Nimes <img src="/static/logos/Nimes.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Sochaux.png" height="25px"> Sochaux</p> |
 | <p align="center">FT</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Le Mans.png" height="25px"> Le Mans</p> |
 | <p align="center">FT</p> | <p align="right">Epinal <img src="/static/logos/Epinal.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Villefranche Beaujolais.png" height="25px"> Villefranche Beaujolais</p> |
-| <p align="center">FT</p> | <p align="right">Versailles <img src="/static/logos/Versailles.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/GOAL FC.png" height="25px"> GOAL FC</p> |
-| <p align="center">FT</p> | <p align="right">Marignane/Gignac FC <img src="/static/logos/Marignane/Gignac FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Rouen.png" height="25px"> Rouen</p> |
 | <p align="center">FT</p> | <p align="right">Orleans <img src="/static/logos/Orleans.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Red Star.png" height="25px"> Red Star</p> |
+| <p align="center">FT</p> | <p align="right">Marignane/Gignac FC <img src="/static/logos/Marignane/Gignac FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Rouen.png" height="25px"> Rouen</p> |
+| <p align="center">FT</p> | <p align="right">Versailles <img src="/static/logos/Versailles.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/GOAL FC.png" height="25px"> GOAL FC</p> |
 | <p align="center">FT</p> | <p align="right">Nancy <img src="/static/logos/Nancy.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Chateauroux.png" height="25px"> Chateauroux</p> |
 | <p align="center">FT</p> | <p align="right">Dijon <img src="/static/logos/Dijon.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Martigues.png" height="25px"> Martigues</p> |
 </div>
@@ -276,7 +276,6 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
 | <p align="center">FT</p> | <p align="right">Hapoel Ramat Gan <img src="/static/logos/Hapoel Ramat Gan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/SC Kfar Kasem.png" height="25px"> SC Kfar Kasem</p> |
 | <p align="center">FT</p> | <p align="right">Hapoel Nir Ramat HaSharon <img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"> Hapoel Umm al-Fahm</p> |
 | <p align="center">FT</p> | <p align="right">Ironi Tiberias <img src="/static/logos/Ironi Tiberias.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"> Hapoel Nof HaGalil</p> |
@@ -284,6 +283,7 @@
 | <p align="center">FT</p> | <p align="right">Maccabi Kabilio Jaffa <img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
 | <p align="center">FT</p> | <p align="right">Hapoel Rishon LeZion <img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sektzia Nes Tziona.png" height="25px"> Sektzia Nes Tziona</p> |
 | <p align="center">FT</p> | <p align="right">Ihud Bnei Shfaram <img src="/static/logos/Ihud Bnei Shfaram.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Acre.png" height="25px"> Hapoel Ironi Acre</p> |
+| <p align="center">FT</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
 </div>
 
 
@@ -328,11 +328,11 @@
 | <p align="center">FT</p> | <p align="right">TOP Oss <img src="/static/logos/TOP Oss.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/NAC Breda.png" height="25px"> NAC Breda</p> |
 | <p align="center">FT</p> | <p align="right">ADO Den Haag <img src="/static/logos/ADO Den Haag.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Jong PSV.png" height="25px"> Jong PSV</p> |
 | <p align="center">FT</p> | <p align="right">FC Groningen <img src="/static/logos/FC Groningen.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Roda.png" height="25px"> Roda</p> |
-| <p align="center">FT</p> | <p align="right">MVV Maastricht <img src="/static/logos/MVV Maastricht.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/VVV-Venlo.png" height="25px"> VVV-Venlo</p> |
 | <p align="center">FT</p> | <p align="right">Jong Ajax <img src="/static/logos/Jong Ajax.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Jong AZ Alkmaar.png" height="25px"> Jong AZ Alkmaar</p> |
+| <p align="center">FT</p> | <p align="right">FC Emmen <img src="/static/logos/FC Emmen.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/De Graafschap.png" height="25px"> De Graafschap</p> |
+| <p align="center">FT</p> | <p align="right">MVV Maastricht <img src="/static/logos/MVV Maastricht.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/VVV-Venlo.png" height="25px"> VVV-Venlo</p> |
 | <p align="center">FT</p> | <p align="right">Jong FC Utrecht <img src="/static/logos/Jong FC Utrecht.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
 | <p align="center">FT</p> | <p align="right">Cambuur <img src="/static/logos/Cambuur.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Helmond Sport.png" height="25px"> Helmond Sport</p> |
-| <p align="center">FT</p> | <p align="right">FC Emmen <img src="/static/logos/FC Emmen.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/De Graafschap.png" height="25px"> De Graafschap</p> |
 </div>
 
 
@@ -484,7 +484,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenix.png" height="25px"> Fenix</p> |
+| <p align="center">26'</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Fenix.png" height="25px"> Fenix</p> |
 </div>
 
 
