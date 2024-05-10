@@ -150,7 +150,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ceara.png" height="25px"> Ceara</p> |
+| <p align="center">5'</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ceara.png" height="25px"> Ceara</p> |
 </div>
 
 
@@ -183,7 +183,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">105' 4'</p> | <p align="right">Doncaster <img src="/static/logos/Doncaster.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Crewe.png" height="25px"> Crewe</p> |
+| <p align="center">FT</p> | <p align="right">Doncaster <img src="/static/logos/Doncaster.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Crewe.png" height="25px"> Crewe</p> |
 </div>
 
 
