@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">Deportivo Alaves <img src="/static/logos/Deportivo Alaves.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Girona.png" height="25px"> Girona</p> |
+| <p align="center">90' 6'</p> | <p align="right">Deportivo Alaves <img src="/static/logos/Deportivo Alaves.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Girona.png" height="25px"> Girona</p> |
 </div>
 
 
@@ -46,8 +46,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">Brest <img src="/static/logos/Brest.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Reims.png" height="25px"> Reims</p> |
-| <p align="center">81'</p> | <p align="right">Nice <img src="/static/logos/Nice.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Le Havre.png" height="25px"> Le Havre</p> |
+| <p align="center">FT</p> | <p align="right">Brest <img src="/static/logos/Brest.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Reims.png" height="25px"> Reims</p> |
+| <p align="center">FT</p> | <p align="right">Nice <img src="/static/logos/Nice.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Le Havre.png" height="25px"> Le Havre</p> |
 </div>
 
 
@@ -68,7 +68,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">Chaves <img src="/static/logos/Chaves.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Famalicao.png" height="25px"> Famalicao</p> |
+| <p align="center">78'</p> | <p align="right">Chaves <img src="/static/logos/Chaves.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Famalicao.png" height="25px"> Famalicao</p> |
 </div>
 
 
@@ -183,7 +183,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">Doncaster <img src="/static/logos/Doncaster.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Crewe.png" height="25px"> Crewe</p> |
+| <p align="center">90' 6'</p> | <p align="right">Doncaster <img src="/static/logos/Doncaster.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Crewe.png" height="25px"> Crewe</p> |
 </div>
 
 
@@ -207,7 +207,7 @@
 | <p align="center">FT</p> | <p align="right">Amiens <img src="/static/logos/Amiens.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Auxerre.png" height="25px"> Auxerre</p> |
 | <p align="center">FT</p> | <p align="right">Valenciennes <img src="/static/logos/Valenciennes.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Quevilly.png" height="25px"> Quevilly</p> |
 | <p align="center">FT</p> | <p align="right">Dunkerque <img src="/static/logos/Dunkerque.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Caen.png" height="25px"> Caen</p> |
-| <p align="center">90' 8'</p> | <p align="right">Laval <img src="/static/logos/Laval.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Troyes.png" height="25px"> Troyes</p> |
+| <p align="center">FT</p> | <p align="right">Laval <img src="/static/logos/Laval.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Troyes.png" height="25px"> Troyes</p> |
 </div>
 
 
@@ -217,15 +217,15 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">82'</p> | <p align="right">Cholet <img src="/static/logos/Cholet.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Avranches.png" height="25px"> Avranches</p> |
-| <p align="center">83'</p> | <p align="right">Nimes <img src="/static/logos/Nimes.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Sochaux.png" height="25px"> Sochaux</p> |
-| <p align="center">84'</p> | <p align="right">Marignane/Gignac FC <img src="/static/logos/Marignane/Gignac FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Rouen.png" height="25px"> Rouen</p> |
-| <p align="center">84'</p> | <p align="right">Orleans <img src="/static/logos/Orleans.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Red Star.png" height="25px"> Red Star</p> |
-| <p align="center">81'</p> | <p align="right">Nancy <img src="/static/logos/Nancy.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Chateauroux.png" height="25px"> Chateauroux</p> |
-| <p align="center">84'</p> | <p align="right">Dijon <img src="/static/logos/Dijon.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Martigues.png" height="25px"> Martigues</p> |
-| <p align="center">85'</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Le Mans.png" height="25px"> Le Mans</p> |
-| <p align="center">82'</p> | <p align="right">Epinal <img src="/static/logos/Epinal.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Villefranche Beaujolais.png" height="25px"> Villefranche Beaujolais</p> |
-| <p align="center">82'</p> | <p align="right">Versailles <img src="/static/logos/Versailles.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/GOAL FC.png" height="25px"> GOAL FC</p> |
+| <p align="center">FT</p> | <p align="right">Cholet <img src="/static/logos/Cholet.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Avranches.png" height="25px"> Avranches</p> |
+| <p align="center">FT</p> | <p align="right">Nimes <img src="/static/logos/Nimes.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Sochaux.png" height="25px"> Sochaux</p> |
+| <p align="center">FT</p> | <p align="right">Marignane/Gignac FC <img src="/static/logos/Marignane/Gignac FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Rouen.png" height="25px"> Rouen</p> |
+| <p align="center">FT</p> | <p align="right">Orleans <img src="/static/logos/Orleans.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Red Star.png" height="25px"> Red Star</p> |
+| <p align="center">FT</p> | <p align="right">Nancy <img src="/static/logos/Nancy.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Chateauroux.png" height="25px"> Chateauroux</p> |
+| <p align="center">FT</p> | <p align="right">Dijon <img src="/static/logos/Dijon.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Martigues.png" height="25px"> Martigues</p> |
+| <p align="center">FT</p> | <p align="right">Niort <img src="/static/logos/Niort.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Le Mans.png" height="25px"> Le Mans</p> |
+| <p align="center">FT</p> | <p align="right">Epinal <img src="/static/logos/Epinal.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Villefranche Beaujolais.png" height="25px"> Villefranche Beaujolais</p> |
+| <p align="center">FT</p> | <p align="right">Versailles <img src="/static/logos/Versailles.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/GOAL FC.png" height="25px"> GOAL FC</p> |
 </div>
 
 
