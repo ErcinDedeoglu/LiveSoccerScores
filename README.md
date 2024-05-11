@@ -71,12 +71,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">CF Montreal <img src="/static/logos/CF Montreal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Inter Miami CF.png" height="25px"> Inter Miami CF</p> |
-| <p align="center">3'</p> | <p align="right">New York Red Bulls <img src="/static/logos/New York Red Bulls.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/New England Revolution.png" height="25px"> New England Revolution</p> |
-| <p align="center">3'</p> | <p align="right">Toronto FC <img src="/static/logos/Toronto FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/New York City FC.png" height="25px"> New York City FC</p> |
-| <p align="center">3'</p> | <p align="right">Atlanta United <img src="/static/logos/Atlanta United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/DC United.png" height="25px"> DC United</p> |
-| <p align="center">3'</p> | <p align="right">Charlotte FC <img src="/static/logos/Charlotte FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nashville SC.png" height="25px"> Nashville SC</p> |
-| <p align="center">3'</p> | <p align="right">Philadelphia Union <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Orlando City.png" height="25px"> Orlando City</p> |
+| <p align="center">11'</p> | <p align="right">CF Montreal <img src="/static/logos/CF Montreal.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Inter Miami CF.png" height="25px"> Inter Miami CF</p> |
+| <p align="center">11'</p> | <p align="right">New York Red Bulls <img src="/static/logos/New York Red Bulls.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/New England Revolution.png" height="25px"> New England Revolution</p> |
+| <p align="center">11'</p> | <p align="right">Toronto FC <img src="/static/logos/Toronto FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/New York City FC.png" height="25px"> New York City FC</p> |
+| <p align="center">11'</p> | <p align="right">Atlanta United <img src="/static/logos/Atlanta United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/DC United.png" height="25px"> DC United</p> |
+| <p align="center">11'</p> | <p align="right">Charlotte FC <img src="/static/logos/Charlotte FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nashville SC.png" height="25px"> Nashville SC</p> |
+| <p align="center">11'</p> | <p align="right">Philadelphia Union <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Orlando City.png" height="25px"> Orlando City</p> |
 | <p align="center">23:45</p> | <p align="right">Columbus Crew <img src="/static/logos/Columbus Crew.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Cincinnati.png" height="25px"> FC Cincinnati</p> |
 </div>
 
@@ -88,7 +88,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Racing Louisville <img src="/static/logos/Racing Louisville.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Washington Spirit.png" height="25px"> Washington Spirit</p> |
-| <p align="center">13'</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bay FC.png" height="25px"> Bay FC</p> |
+| <p align="center">21'</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bay FC.png" height="25px"> Bay FC</p> |
 </div>
 
 
@@ -135,7 +135,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Bucaramanga <img src="/static/logos/Bucaramanga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
+| <p align="center">75'</p> | <p align="right">Bucaramanga <img src="/static/logos/Bucaramanga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
 </div>
 
 
@@ -235,7 +235,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Deportivo Moron <img src="/static/logos/Deportivo Moron.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimnasia y Tiro.png" height="25px"> Gimnasia y Tiro</p> |
 | <p align="center">FT</p> | <p align="right">Agropecuario <img src="/static/logos/Agropecuario.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/San Martin San Juan.png" height="25px"> San Martin San Juan</p> |
-| <p align="center">78'</p> | <p align="right">Brown de Adrogue <img src="/static/logos/Brown de Adrogue.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aldosivi.png" height="25px"> Aldosivi</p> |
+| <p align="center">86'</p> | <p align="right">Brown de Adrogue <img src="/static/logos/Brown de Adrogue.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aldosivi.png" height="25px"> Aldosivi</p> |
 </div>
 
 
@@ -767,7 +767,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Hartford Athletic <img src="/static/logos/Hartford Athletic.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Colorado Springs Switchbacks FC</p> |
+| <p align="center">45'</p> | <p align="right">Hartford Athletic <img src="/static/logos/Hartford Athletic.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Colorado Springs Switchbacks FC</p> |
 </div>
 
 
