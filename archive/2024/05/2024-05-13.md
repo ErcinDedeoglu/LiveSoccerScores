@@ -237,7 +237,7 @@
 | <p align="center">FT</p> | <p align="right">Song Lam Nghe An <img src="/static/logos/Song Lam Nghe An.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh City FC</p> |
 | <p align="center">FT</p> | <p align="right">Hoang Anh Gia Lai <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Nam Dinh.png" height="25px"> Nam Dinh</p> |
 | <p align="center">FT</p> | <p align="right">Hong Linh Ha Tinh <img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Ha Noi FC.png" height="25px"> Ha Noi FC</p> |
-| <p align="center">68'</p> | <p align="right">Viettel <img src="/static/logos/Viettel.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Binh Dinh.png" height="25px"> Binh Dinh</p> |
+| <p align="center">90' 4'</p> | <p align="right">Viettel <img src="/static/logos/Viettel.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Binh Dinh.png" height="25px"> Binh Dinh</p> |
 </div>
 
 
