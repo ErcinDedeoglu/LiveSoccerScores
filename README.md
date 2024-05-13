@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liverpool.png" height="25px"> Liverpool</p> |
+| <p align="center">12'</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Liverpool.png" height="25px"> Liverpool</p> |
 </div>
 
 
@@ -26,8 +26,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">Lecce <img src="/static/logos/Lecce.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Udinese.png" height="25px"> Udinese</p> |
-| <p align="center">18:45</p> | <p align="right">Fiorentina <img src="/static/logos/Fiorentina.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monza.png" height="25px"> Monza</p> |
+| <p align="center">FT</p> | <p align="right">Lecce <img src="/static/logos/Lecce.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Udinese.png" height="25px"> Udinese</p> |
+| <p align="center">26'</p> | <p align="right">Fiorentina <img src="/static/logos/Fiorentina.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Monza.png" height="25px"> Monza</p> |
 </div>
 
 
@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Barcelona <img src="/static/logos/Barcelona.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Sociedad.png" height="25px"> Real Sociedad</p> |
+| <p align="center">9'</p> | <p align="right">Barcelona <img src="/static/logos/Barcelona.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Sociedad.png" height="25px"> Real Sociedad</p> |
 </div>
 
 
@@ -99,7 +99,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:30</p> | <p align="right">Club Bruges <img src="/static/logos/Club Bruges.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
+| <p align="center">42'</p> | <p align="right">Club Bruges <img src="/static/logos/Club Bruges.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
 </div>
 
 
@@ -119,7 +119,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11'</p> | <p align="right">Vasas Budapest <img src="/static/logos/Vasas Budapest.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Haladas.png" height="25px"> Haladas</p> |
+| <p align="center">56'</p> | <p align="right">Vasas Budapest <img src="/static/logos/Vasas Budapest.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Haladas.png" height="25px"> Haladas</p> |
 </div>
 
 
@@ -161,7 +161,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Radomiak Radom <img src="/static/logos/Radomiak Radom.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ruch Chorzow.png" height="25px"> Ruch Chorzow</p> |
+| <p align="center">FT</p> | <p align="right">Radomiak Radom <img src="/static/logos/Radomiak Radom.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Ruch Chorzow.png" height="25px"> Ruch Chorzow</p> |
 </div>
 
 
@@ -191,7 +191,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">53'</p> | <p align="right">BK Haecken FF <img src="/static/logos/BK Haecken FF.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Rosengaard.png" height="25px"> FC Rosengaard</p> |
+| <p align="center">FT</p> | <p align="right">BK Haecken FF <img src="/static/logos/BK Haecken FF.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Rosengaard.png" height="25px"> FC Rosengaard</p> |
 </div>
 
 
@@ -224,7 +224,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al-Nasr SC <img src="/static/logos/Al-Nasr SC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Khorfakkan.png" height="25px"> Khorfakkan</p> |
-| <p align="center">49'</p> | <p align="right">Al-Wasl <img src="/static/logos/Al-Wasl.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al-Wahda.png" height="25px"> Al-Wahda</p> |
+| <p align="center">FT</p> | <p align="right">Al-Wasl <img src="/static/logos/Al-Wasl.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Al-Wahda.png" height="25px"> Al-Wahda</p> |
 </div>
 
 
