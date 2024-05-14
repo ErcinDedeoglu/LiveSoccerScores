@@ -48,9 +48,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Talleres <img src="/static/logos/Talleres.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cobresal.png" height="25px"> Cobresal</p> |
-| <p align="center">HT</p> | <p align="right">LDU de Quito <img src="/static/logos/LDU de Quito.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
-| <p align="center">HT</p> | <p align="right">Club Atletico Penarol <img src="/static/logos/Club Atletico Penarol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
+| <p align="center">64'</p> | <p align="right">Talleres <img src="/static/logos/Talleres.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cobresal.png" height="25px"> Cobresal</p> |
+| <p align="center">62'</p> | <p align="right">LDU de Quito <img src="/static/logos/LDU de Quito.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
+| <p align="center">60'</p> | <p align="right">Club Atletico Penarol <img src="/static/logos/Club Atletico Penarol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
 </div>
 
 
@@ -70,7 +70,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Racing <img src="/static/logos/Racing.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
+| <p align="center">63'</p> | <p align="right">Racing <img src="/static/logos/Racing.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
 </div>
 
 
@@ -100,7 +100,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Avai FC <img src="/static/logos/Avai FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
+| <p align="center">57'</p> | <p align="right">Avai FC <img src="/static/logos/Avai FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
 </div>
 
 
@@ -250,7 +250,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">North Carolina FC <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Loudoun United FC.png" height="25px"> Loudoun United FC</p> |
+| <p align="center">POS</p> | <p align="right">North Carolina FC <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Loudoun United FC.png" height="25px"> Loudoun United FC</p> |
 </div>
 
 
