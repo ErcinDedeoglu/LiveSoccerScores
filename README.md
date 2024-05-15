@@ -186,7 +186,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">El Dakhleya <img src="/static/logos/El Dakhleya.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
+| <p align="center">HT</p> | <p align="right">El Dakhleya <img src="/static/logos/El Dakhleya.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
 | <p align="center">16:00</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ceramica Cleopatra.png" height="25px"> Ceramica Cleopatra</p> |
 | <p align="center">16:00</p> | <p align="right">Pharco FC <img src="/static/logos/Pharco FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"> Baladiyat ElMahalla SC</p> |
 </div>
@@ -230,9 +230,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">AE Larissa <img src="/static/logos/AE Larissa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Makedonikos Neapolis.png" height="25px"> Makedonikos Neapolis</p> |
-| <p align="center">36'</p> | <p align="right">Anagennisi Karditsas <img src="/static/logos/Anagennisi Karditsas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Aiolikos Mitilini.png" height="25px"> Aiolikos Mitilini</p> |
-| <p align="center">35'</p> | <p align="right">Kampaniakos Chalastras <img src="/static/logos/Kampaniakos Chalastras.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kozani FC.png" height="25px"> Kozani FC</p> |
+| <p align="center">46'</p> | <p align="right">AE Larissa <img src="/static/logos/AE Larissa.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Makedonikos Neapolis.png" height="25px"> Makedonikos Neapolis</p> |
+| <p align="center">HT</p> | <p align="right">Anagennisi Karditsas <img src="/static/logos/Anagennisi Karditsas.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Aiolikos Mitilini.png" height="25px"> Aiolikos Mitilini</p> |
+| <p align="center">HT</p> | <p align="right">Kampaniakos Chalastras <img src="/static/logos/Kampaniakos Chalastras.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kozani FC.png" height="25px"> Kozani FC</p> |
 </div>
 
 
@@ -252,7 +252,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Madura United <img src="/static/logos/Madura United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
+| <p align="center">FT</p> | <p align="right">Madura United <img src="/static/logos/Madura United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
 </div>
 
 
