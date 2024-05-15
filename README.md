@@ -79,8 +79,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">57'</p> | <p align="right">River Plate <img src="/static/logos/River Plate.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
-| <p align="center">02:00</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
+| <p align="center">FT</p> | <p align="right">River Plate <img src="/static/logos/River Plate.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
+| <p align="center">HT</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
 | <p align="center">22:00</p> | <p align="right">Deportivo Tachira <img src="/static/logos/Deportivo Tachira.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
 | <p align="center">22:00</p> | <p align="right">The Strongest <img src="/static/logos/The Strongest.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Huachipato.png" height="25px"> Huachipato</p> |
 </div>
@@ -102,8 +102,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Defensa y Justicia <img src="/static/logos/Defensa y Justicia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Independiente Medellin.png" height="25px"> Independiente Medellin</p> |
-| <p align="center">59'</p> | <p align="right">Corinthians <img src="/static/logos/Corinthians.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
+| <p align="center">FT</p> | <p align="right">Defensa y Justicia <img src="/static/logos/Defensa y Justicia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Independiente Medellin.png" height="25px"> Independiente Medellin</p> |
+| <p align="center">FT</p> | <p align="right">Corinthians <img src="/static/logos/Corinthians.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
 | <p align="center">22:00</p> | <p align="right">Athletico Paranaense <img src="/static/logos/Athletico Paranaense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Danubio.png" height="25px"> Danubio</p> |
 </div>
 
@@ -153,10 +153,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">57'</p> | <p align="right">Coritiba <img src="/static/logos/Coritiba.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
+| <p align="center">FT</p> | <p align="right">Coritiba <img src="/static/logos/Coritiba.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
+| <p align="center">22:00</p> | <p align="right">America MG <img src="/static/logos/America MG.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mirassol.png" height="25px"> Mirassol</p> |
 | <p align="center">22:00</p> | <p align="right">Ituano FC <img src="/static/logos/Ituano FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sport Recife.png" height="25px"> Sport Recife</p> |
 | <p align="center">22:00</p> | <p align="right">Brusque <img src="/static/logos/Brusque.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Operario Ferroviario.png" height="25px"> Operario Ferroviario</p> |
-| <p align="center">22:00</p> | <p align="right">America MG <img src="/static/logos/America MG.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mirassol.png" height="25px"> Mirassol</p> |
 </div>
 
 
@@ -187,8 +187,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">13:00</p> | <p align="right">El Dakhleya <img src="/static/logos/El Dakhleya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
-| <p align="center">16:00</p> | <p align="right">Pharco FC <img src="/static/logos/Pharco FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"> Baladiyat ElMahalla SC</p> |
 | <p align="center">16:00</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ceramica Cleopatra.png" height="25px"> Ceramica Cleopatra</p> |
+| <p align="center">16:00</p> | <p align="right">Pharco FC <img src="/static/logos/Pharco FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"> Baladiyat ElMahalla SC</p> |
 </div>
 
 
@@ -219,8 +219,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">15:00</p> | <p align="right">Lamia <img src="/static/logos/Lamia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aris Thessaloniki FC.png" height="25px"> Aris Thessaloniki FC</p> |
-| <p align="center">17:00</p> | <p align="right">Olympiacos <img src="/static/logos/Olympiacos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AEK Athens.png" height="25px"> AEK Athens</p> |
 | <p align="center">17:00</p> | <p align="right">PAOK Thessaloniki FC <img src="/static/logos/PAOK Thessaloniki FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Panathinaikos.png" height="25px"> Panathinaikos</p> |
+| <p align="center">17:00</p> | <p align="right">Olympiacos <img src="/static/logos/Olympiacos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/AEK Athens.png" height="25px"> AEK Athens</p> |
 </div>
 
 
