@@ -58,9 +58,9 @@
 | <p align="center">FT</p> | <p align="right">Alianza Lima <img src="/static/logos/Alianza Lima.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Colo Colo.png" height="25px"> Colo Colo</p> |
 | <p align="center">FT</p> | <p align="right">Flamengo <img src="/static/logos/Flamengo.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Bolivar.png" height="25px"> Bolivar</p> |
 | <p align="center">FT</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Independiente del Valle.png" height="25px"> Independiente del Valle</p> |
-| <p align="center">HT</p> | <p align="right">Universitario de Deportes <img src="/static/logos/Universitario de Deportes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
-| <p align="center">HT</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Caracas.png" height="25px"> Caracas</p> |
-| <p align="center">HT</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cerro Porteno.png" height="25px"> Cerro Porteno</p> |
+| <p align="center">53'</p> | <p align="right">Universitario de Deportes <img src="/static/logos/Universitario de Deportes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
+| <p align="center">54'</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Caracas.png" height="25px"> Caracas</p> |
+| <p align="center">52'</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cerro Porteno.png" height="25px"> Cerro Porteno</p> |
 </div>
 
 
@@ -82,7 +82,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Boca Juniors <img src="/static/logos/Boca Juniors.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 | <p align="center">FT</p> | <p align="right">Universidad Cesar Vallejo <img src="/static/logos/Universidad Cesar Vallejo.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Always Ready.png" height="25px"> Always Ready</p> |
-| <p align="center">HT</p> | <p align="right">Racing Club <img src="/static/logos/Racing Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coquimbo Unido.png" height="25px"> Coquimbo Unido</p> |
+| <p align="center">54'</p> | <p align="right">Racing Club <img src="/static/logos/Racing Club.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coquimbo Unido.png" height="25px"> Coquimbo Unido</p> |
 </div>
 
 
