@@ -34,8 +34,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Las Palmas <img src="/static/logos/Las Palmas.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Real Betis.png" height="25px"> Real Betis</p> |
-| <p align="center">69'</p> | <p align="right">Almeria <img src="/static/logos/Almeria.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Barcelona.png" height="25px"> Barcelona</p> |
-| <p align="center">HT</p> | <p align="right">Real Sociedad <img src="/static/logos/Real Sociedad.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Valencia.png" height="25px"> Valencia</p> |
+| <p align="center">FT</p> | <p align="right">Almeria <img src="/static/logos/Almeria.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Barcelona.png" height="25px"> Barcelona</p> |
+| <p align="center">89'</p> | <p align="right">Real Sociedad <img src="/static/logos/Real Sociedad.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Valencia.png" height="25px"> Valencia</p> |
 </div>
 
 
@@ -102,7 +102,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 2'</p> | <p align="right">Deportivo Riestra <img src="/static/logos/Deportivo Riestra.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Newell's Old Boys.png" height="25px"> Newell's Old Boys</p> |
+| <p align="center">80'</p> | <p align="right">Deportivo Riestra <img src="/static/logos/Deportivo Riestra.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Newell's Old Boys.png" height="25px"> Newell's Old Boys</p> |
 </div>
 
 
@@ -197,7 +197,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Penafiel <img src="/static/logos/Penafiel.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Torreense.png" height="25px"> Torreense</p> |
+| <p align="center">FT</p> | <p align="right">Penafiel <img src="/static/logos/Penafiel.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Torreense.png" height="25px"> Torreense</p> |
 </div>
 
 
