@@ -144,8 +144,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">National Bank <img src="/static/logos/National Bank.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Al Masry SC.png" height="25px"> Al Masry SC</p> |
-| <p align="center">HT</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Future FC.png" height="25px"> Future FC</p> |
+| <p align="center">67'</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Future FC.png" height="25px"> Future FC</p> |
+| <p align="center">62'</p> | <p align="right">National Bank <img src="/static/logos/National Bank.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al Masry SC.png" height="25px"> Al Masry SC</p> |
 </div>
 
 
@@ -155,7 +155,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Schalke 04 II <img src="/static/logos/Schalke 04 II.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/RW Ahlen.png" height="25px"> RW Ahlen</p> |
+| <p align="center">22'</p> | <p align="right">Schalke 04 II <img src="/static/logos/Schalke 04 II.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/RW Ahlen.png" height="25px"> RW Ahlen</p> |
 </div>
 
 
@@ -175,9 +175,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar SC</p> |
-| <p align="center">64'</p> | <p align="right">Tractor <img src="/static/logos/Tractor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Mes Rafsanjan</p> |
-| <p align="center">HT</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Malavan.png" height="25px"> Malavan</p> |
+| <p align="center">90' 1'</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar SC</p> |
+| <p align="center">90' 5'</p> | <p align="right">Tractor <img src="/static/logos/Tractor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Mes Rafsanjan</p> |
+| <p align="center">61'</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Malavan.png" height="25px"> Malavan</p> |
 </div>
 
 
@@ -207,7 +207,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">Al Taee <img src="/static/logos/Al Taee.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al Fateh FC.png" height="25px"> Al Fateh FC</p> |
+| <p align="center">FT</p> | <p align="right">Al Taee <img src="/static/logos/Al Taee.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Al Fateh FC.png" height="25px"> Al Fateh FC</p> |
 | <p align="center">18:00</p> | <p align="right">Al Khaleej <img src="/static/logos/Al Khaleej.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ittihad.png" height="25px"> Al Ittihad</p> |
 </div>
 
@@ -229,7 +229,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Boluspor.png" height="25px"> Boluspor</p> |
-| <p align="center">17:00</p> | <p align="right">Corum FK <img src="/static/logos/Corum FK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kocaelispor.png" height="25px"> Kocaelispor</p> |
+| <p align="center">26'</p> | <p align="right">Corum FK <img src="/static/logos/Corum FK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kocaelispor.png" height="25px"> Kocaelispor</p> |
 </div>
 
 
