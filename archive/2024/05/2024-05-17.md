@@ -37,7 +37,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Famalicao <img src="/static/logos/Famalicao.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Casa Pia AC.png" height="25px"> Casa Pia AC</p> |
-| <p align="center">HT</p> | <p align="right">Rio Ave <img src="/static/logos/Rio Ave.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
+| <p align="center">46'</p> | <p align="right">Rio Ave <img src="/static/logos/Rio Ave.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
 </div>
 
 
@@ -58,7 +58,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Southampton <img src="/static/logos/Southampton.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/West Bromwich.png" height="25px"> West Bromwich</p> |
+| <p align="center">90' 8'</p> | <p align="right">Southampton <img src="/static/logos/Southampton.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/West Bromwich.png" height="25px"> West Bromwich</p> |
 </div>
 
 
@@ -127,7 +127,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Paris FC <img src="/static/logos/Paris FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Reims.png" height="25px"> Reims</p> |
-| <p align="center">85'</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Paris Saint Germain.png" height="25px"> Paris Saint Germain</p> |
+| <p align="center">90' 3'</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Paris Saint Germain.png" height="25px"> Paris Saint Germain</p> |
 </div>
 
 
