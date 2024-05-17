@@ -37,7 +37,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Famalicao <img src="/static/logos/Famalicao.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Casa Pia AC.png" height="25px"> Casa Pia AC</p> |
-| <p align="center">82'</p> | <p align="right">Rio Ave <img src="/static/logos/Rio Ave.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
+| <p align="center">FT</p> | <p align="right">Rio Ave <img src="/static/logos/Rio Ave.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
 </div>
 
 
