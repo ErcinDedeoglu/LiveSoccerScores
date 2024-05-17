@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">58'</p> | <p align="right">Fiorentina <img src="/static/logos/Fiorentina.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/SSC Napoli.png" height="25px"> SSC Napoli</p> |
+| <p align="center">90' 3'</p> | <p align="right">Fiorentina <img src="/static/logos/Fiorentina.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/SSC Napoli.png" height="25px"> SSC Napoli</p> |
 </div>
 
 
@@ -37,7 +37,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Famalicao <img src="/static/logos/Famalicao.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Casa Pia AC.png" height="25px"> Casa Pia AC</p> |
-| <p align="center">18'</p> | <p align="right">Rio Ave <img src="/static/logos/Rio Ave.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
+| <p align="center">HT</p> | <p align="right">Rio Ave <img src="/static/logos/Rio Ave.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
 </div>
 
 
@@ -58,7 +58,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">48'</p> | <p align="right">Southampton <img src="/static/logos/Southampton.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/West Bromwich.png" height="25px"> West Bromwich</p> |
+| <p align="center">83'</p> | <p align="right">Southampton <img src="/static/logos/Southampton.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/West Bromwich.png" height="25px"> West Bromwich</p> |
 </div>
 
 
@@ -89,7 +89,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">61'</p> | <p align="right">St.Truiden <img src="/static/logos/St.Truiden.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/OH Leuven.png" height="25px"> OH Leuven</p> |
+| <p align="center">FT</p> | <p align="right">St.Truiden <img src="/static/logos/St.Truiden.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/OH Leuven.png" height="25px"> OH Leuven</p> |
 </div>
 
 
@@ -127,7 +127,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Paris FC <img src="/static/logos/Paris FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Reims.png" height="25px"> Reims</p> |
-| <p align="center">HT</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Paris Saint Germain.png" height="25px"> Paris Saint Germain</p> |
+| <p align="center">78'</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Paris Saint Germain.png" height="25px"> Paris Saint Germain</p> |
 </div>
 
 
@@ -137,11 +137,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">61'</p> | <p align="right">Rodez <img src="/static/logos/Rodez.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/AC Ajaccio.png" height="25px"> AC Ajaccio</p> |
-| <p align="center">64'</p> | <p align="right">Angers <img src="/static/logos/Angers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dunkerque.png" height="25px"> Dunkerque</p> |
-| <p align="center">61'</p> | <p align="right">Bordeaux <img src="/static/logos/Bordeaux.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Pau.png" height="25px"> Pau</p> |
-| <p align="center">62'</p> | <p align="right">Guingamp <img src="/static/logos/Guingamp.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Laval.png" height="25px"> Laval</p> |
-| <p align="center">61'</p> | <p align="right">Caen <img src="/static/logos/Caen.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Valenciennes.png" height="25px"> Valenciennes</p> |
+| <p align="center">FT</p> | <p align="right">Rodez <img src="/static/logos/Rodez.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/AC Ajaccio.png" height="25px"> AC Ajaccio</p> |
+| <p align="center">FT</p> | <p align="right">Angers <img src="/static/logos/Angers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dunkerque.png" height="25px"> Dunkerque</p> |
+| <p align="center">90' 6'</p> | <p align="right">Bordeaux <img src="/static/logos/Bordeaux.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Pau.png" height="25px"> Pau</p> |
+| <p align="center">FT</p> | <p align="right">Guingamp <img src="/static/logos/Guingamp.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Laval.png" height="25px"> Laval</p> |
+| <p align="center">FT</p> | <p align="right">Caen <img src="/static/logos/Caen.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Valenciennes.png" height="25px"> Valenciennes</p> |
 </div>
 
 
@@ -161,7 +161,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Mezokovesd SE <img src="/static/logos/Mezokovesd SE.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/MTK Budapest.png" height="25px"> MTK Budapest</p> |
+| <p align="center">FT</p> | <p align="right">Mezokovesd SE <img src="/static/logos/Mezokovesd SE.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/MTK Budapest.png" height="25px"> MTK Budapest</p> |
 </div>
 
 
@@ -188,7 +188,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Palermo <img src="/static/logos/Palermo.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sampdoria.png" height="25px"> Sampdoria</p> |
+| <p align="center">FT</p> | <p align="right">Palermo <img src="/static/logos/Palermo.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sampdoria.png" height="25px"> Sampdoria</p> |
 </div>
 
 
@@ -208,7 +208,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Roda <img src="/static/logos/Roda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NAC Breda.png" height="25px"> NAC Breda</p> |
+| <p align="center">FT</p> | <p align="right">Roda <img src="/static/logos/Roda.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/NAC Breda.png" height="25px"> NAC Breda</p> |
 </div>
 
 
@@ -219,7 +219,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Stal Mielec <img src="/static/logos/Stal Mielec.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pogon Szczecin.png" height="25px"> Pogon Szczecin</p> |
-| <p align="center">18:30</p> | <p align="right">Gornik Zabrze <img src="/static/logos/Gornik Zabrze.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puszcza Niepolomice.png" height="25px"> Puszcza Niepolomice</p> |
+| <p align="center">FT</p> | <p align="right">Gornik Zabrze <img src="/static/logos/Gornik Zabrze.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Puszcza Niepolomice.png" height="25px"> Puszcza Niepolomice</p> |
 </div>
 
 
@@ -230,7 +230,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Znicz Pruszkow <img src="/static/logos/Znicz Pruszkow.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Wisla Plock.png" height="25px"> Wisla Plock</p> |
-| <p align="center">73'</p> | <p align="right">Resovia <img src="/static/logos/Resovia.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Motor Lublin.png" height="25px"> Motor Lublin</p> |
+| <p align="center">FT</p> | <p align="right">Resovia <img src="/static/logos/Resovia.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Motor Lublin.png" height="25px"> Motor Lublin</p> |
 </div>
 
 
@@ -240,7 +240,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">GKS Jastrzebie <img src="/static/logos/GKS Jastrzebie.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wisla Pulawy.png" height="25px"> Wisla Pulawy</p> |
+| <p align="center">FT</p> | <p align="right">GKS Jastrzebie <img src="/static/logos/GKS Jastrzebie.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wisla Pulawy.png" height="25px"> Wisla Pulawy</p> |
 </div>
 
 
@@ -261,8 +261,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Damac FC <img src="/static/logos/Damac FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al-Fayha.png" height="25px"> Al-Fayha</p> |
-| <p align="center">90' 14'</p> | <p align="right">Al Nassr FC <img src="/static/logos/Al Nassr FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
-| <p align="center">90' 10'</p> | <p align="right">Al-Ettifaq <img src="/static/logos/Al-Ettifaq.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Akhdoud.png" height="25px"> Al Akhdoud</p> |
+| <p align="center">FT</p> | <p align="right">Al Nassr FC <img src="/static/logos/Al Nassr FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Hilal.png" height="25px"> Al Hilal</p> |
+| <p align="center">FT</p> | <p align="right">Al-Ettifaq <img src="/static/logos/Al-Ettifaq.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Akhdoud.png" height="25px"> Al Akhdoud</p> |
 </div>
 
 
@@ -282,7 +282,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">CD Mirandes <img src="/static/logos/CD Mirandes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Elche.png" height="25px"> Elche</p> |
+| <p align="center">FT</p> | <p align="right">CD Mirandes <img src="/static/logos/CD Mirandes.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Elche.png" height="25px"> Elche</p> |
 </div>
 
 
@@ -293,7 +293,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">FC Thun <img src="/static/logos/FC Thun.png" height="25px"></p> | <p align="center">6 - 3</p> | <p align="left"><img src="/static/logos/FC Vaduz.png" height="25px"> FC Vaduz</p> |
-| <p align="center">90' 3'</p> | <p align="right">FC Aarau <img src="/static/logos/FC Aarau.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/FC Wil 1900.png" height="25px"> FC Wil 1900</p> |
+| <p align="center">FT</p> | <p align="right">FC Aarau <img src="/static/logos/FC Aarau.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/FC Wil 1900.png" height="25px"> FC Wil 1900</p> |
 </div>
 
 
