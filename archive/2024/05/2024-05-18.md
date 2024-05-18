@@ -72,8 +72,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">North Carolina Courage <img src="/static/logos/North Carolina Courage.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Utah Royals.png" height="25px"> Utah Royals</p> |
-| <p align="center">POS</p> | <p align="right">Houston Dash <img src="/static/logos/Houston Dash.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Portland Thorns.png" height="25px"> Portland Thorns</p> |
-| <p align="center">02:30</p> | <p align="right">Bay FC <img src="/static/logos/Bay FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave FC</p> |
+| <p align="center">10'</p> | <p align="right">Houston Dash <img src="/static/logos/Houston Dash.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Portland Thorns.png" height="25px"> Portland Thorns</p> |
+| <p align="center">9'</p> | <p align="right">Bay FC <img src="/static/logos/Bay FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave FC</p> |
 | <p align="center">23:30</p> | <p align="right">Washington Spirit <img src="/static/logos/Washington Spirit.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Angel City FC.png" height="25px"> Angel City FC</p> |
 </div>
 
@@ -252,7 +252,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coritiba.png" height="25px"> Coritiba</p> |
+| <p align="center">FT</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coritiba.png" height="25px"> Coritiba</p> |
 | <p align="center">20:30</p> | <p align="right">Amazonas FC <img src="/static/logos/Amazonas FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paysandu.png" height="25px"> Paysandu</p> |
 | <p align="center">21:30</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo SP.png" height="25px"> Botafogo SP</p> |
 </div>
