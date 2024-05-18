@@ -161,7 +161,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">95'</p> | <p align="right">Wellington Phoenix <img src="/static/logos/Wellington Phoenix.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Melbourne Victory.png" height="25px"> Melbourne Victory</p> |
+| <p align="center">108'</p> | <p align="right">Wellington Phoenix <img src="/static/logos/Wellington Phoenix.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Melbourne Victory.png" height="25px"> Melbourne Victory</p> |
 | <p align="center">09:45</p> | <p align="right">Central Coast Mariners <img src="/static/logos/Central Coast Mariners.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sydney FC.png" height="25px"> Sydney FC</p> |
 </div>
 
@@ -183,7 +183,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Avispa Fukuoka <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Cerezo Osaka.png" height="25px"> Cerezo Osaka</p> |
+| <p align="center">89'</p> | <p align="right">Avispa Fukuoka <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Cerezo Osaka.png" height="25px"> Cerezo Osaka</p> |
 | <p align="center">10:00</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya Grampus</p> |
 </div>
 
@@ -619,7 +619,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Daejeon Hana Citizen <img src="/static/logos/Daejeon Hana Citizen.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Incheon United.png" height="25px"> Incheon United</p> |
+| <p align="center">67'</p> | <p align="right">Daejeon Hana Citizen <img src="/static/logos/Daejeon Hana Citizen.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Incheon United.png" height="25px"> Incheon United</p> |
 | <p align="center">10:00</p> | <p align="right">Gimcheon Sangmu <img src="/static/logos/Gimcheon Sangmu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
 </div>
 
