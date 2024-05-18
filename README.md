@@ -32,7 +32,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Deportivo Alaves <img src="/static/logos/Deportivo Alaves.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Getafe.png" height="25px"> Getafe</p> |
+| <p align="center">FT</p> | <p align="right">Deportivo Alaves <img src="/static/logos/Deportivo Alaves.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Getafe.png" height="25px"> Getafe</p> |
 </div>
 
 
@@ -43,7 +43,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Lecce <img src="/static/logos/Lecce.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Atalanta.png" height="25px"> Atalanta</p> |
-| <p align="center">81'</p> | <p align="right">Torino <img src="/static/logos/Torino.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/AC Milan.png" height="25px"> AC Milan</p> |
+| <p align="center">FT</p> | <p align="right">Torino <img src="/static/logos/Torino.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/AC Milan.png" height="25px"> AC Milan</p> |
 </div>
 
 
@@ -102,7 +102,7 @@
 | <p align="center">FT</p> | <p align="right">Estrela da Amadora <img src="/static/logos/Estrela da Amadora.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gil Vicente.png" height="25px"> Gil Vicente</p> |
 | <p align="center">FT</p> | <p align="right">Moreirense <img src="/static/logos/Moreirense.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Estoril.png" height="25px"> Estoril</p> |
 | <p align="center">FT</p> | <p align="right">Sporting CP <img src="/static/logos/Sporting CP.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Chaves.png" height="25px"> Chaves</p> |
-| <p align="center">HT</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Porto.png" height="25px"> FC Porto</p> |
+| <p align="center">68'</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Porto.png" height="25px"> FC Porto</p> |
 </div>
 
 
@@ -134,7 +134,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Everton CD <img src="/static/logos/Everton CD.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportes Copiapo.png" height="25px"> Deportes Copiapo</p> |
-| <p align="center">65'</p> | <p align="right">Cobreloa <img src="/static/logos/Cobreloa.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Deportes Iquique.png" height="25px"> Deportes Iquique</p> |
+| <p align="center">FT</p> | <p align="right">Cobreloa <img src="/static/logos/Cobreloa.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Deportes Iquique.png" height="25px"> Deportes Iquique</p> |
 | <p align="center">21:30</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Universidad Catolica.png" height="25px"> Universidad Catolica</p> |
 </div>
 
@@ -173,7 +173,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Westerlo <img src="/static/logos/Westerlo.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/KV Mechelen.png" height="25px"> KV Mechelen</p> |
-| <p align="center">84'</p> | <p align="right">Standard Liege <img src="/static/logos/Standard Liege.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Gent.png" height="25px"> Gent</p> |
+| <p align="center">FT</p> | <p align="right">Standard Liege <img src="/static/logos/Standard Liege.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Gent.png" height="25px"> Gent</p> |
 </div>
 
 
@@ -194,8 +194,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Independiente Rivadavia <img src="/static/logos/Independiente Rivadavia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Godoy Cruz.png" height="25px"> Godoy Cruz</p> |
-| <p align="center">21:00</p> | <p align="right">River Plate <img src="/static/logos/River Plate.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belgrano.png" height="25px"> Belgrano</p> |
+| <p align="center">FT</p> | <p align="right">Independiente Rivadavia <img src="/static/logos/Independiente Rivadavia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Godoy Cruz.png" height="25px"> Godoy Cruz</p> |
+| <p align="center">6'</p> | <p align="right">River Plate <img src="/static/logos/River Plate.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Belgrano.png" height="25px"> Belgrano</p> |
 | <p align="center">23:00</p> | <p align="right">Defensa y Justicia <img src="/static/logos/Defensa y Justicia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gimnasia LP.png" height="25px"> Gimnasia LP</p> |
 | <p align="center">23:30</p> | <p align="right">Instituto <img src="/static/logos/Instituto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Union.png" height="25px"> Union</p> |
 </div>
@@ -207,10 +207,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Deportivo Armenio <img src="/static/logos/Deportivo Armenio.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colegiales.png" height="25px"> Colegiales</p> |
-| <p align="center">90' 4'</p> | <p align="right">Villa Dalmine <img src="/static/logos/Villa Dalmine.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sportivo Italiano.png" height="25px"> Sportivo Italiano</p> |
-| <p align="center">88'</p> | <p align="right">Los Andes <img src="/static/logos/Los Andes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Excursionistas.png" height="25px"> Excursionistas</p> |
-| <p align="center">40'</p> | <p align="right">Comunicaciones <img src="/static/logos/Comunicaciones.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dock Sud.png" height="25px"> Dock Sud</p> |
+| <p align="center">FT</p> | <p align="right">Deportivo Armenio <img src="/static/logos/Deportivo Armenio.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colegiales.png" height="25px"> Colegiales</p> |
+| <p align="center">FT</p> | <p align="right">Villa Dalmine <img src="/static/logos/Villa Dalmine.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sportivo Italiano.png" height="25px"> Sportivo Italiano</p> |
+| <p align="center">FT</p> | <p align="right">Los Andes <img src="/static/logos/Los Andes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Excursionistas.png" height="25px"> Excursionistas</p> |
+| <p align="center">60'</p> | <p align="right">Comunicaciones <img src="/static/logos/Comunicaciones.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dock Sud.png" height="25px"> Dock Sud</p> |
 </div>
 
 
@@ -253,7 +253,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coritiba.png" height="25px"> Coritiba</p> |
-| <p align="center">20:30</p> | <p align="right">Amazonas FC <img src="/static/logos/Amazonas FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paysandu.png" height="25px"> Paysandu</p> |
+| <p align="center">38'</p> | <p align="right">Amazonas FC <img src="/static/logos/Amazonas FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Paysandu.png" height="25px"> Paysandu</p> |
 | <p align="center">21:30</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo SP.png" height="25px"> Botafogo SP</p> |
 </div>
 
@@ -264,8 +264,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">CS Alagoano <img src="/static/logos/CS Alagoano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sampaio Correa.png" height="25px"> Sampaio Correa</p> |
-| <p align="center">24'</p> | <p align="right">Volta Redonda <img src="/static/logos/Volta Redonda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nautico.png" height="25px"> Nautico</p> |
+| <p align="center">HT</p> | <p align="right">CS Alagoano <img src="/static/logos/CS Alagoano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sampaio Correa.png" height="25px"> Sampaio Correa</p> |
+| <p align="center">HT</p> | <p align="right">Volta Redonda <img src="/static/logos/Volta Redonda.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nautico.png" height="25px"> Nautico</p> |
 | <p align="center">22:30</p> | <p align="right">Ferroviaria <img src="/static/logos/Ferroviaria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Confianca.png" height="25px"> Confianca</p> |
 </div>
 
@@ -422,7 +422,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Esperance <img src="/static/logos/Esperance.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
+| <p align="center">FT</p> | <p align="right">Esperance <img src="/static/logos/Esperance.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
 </div>
 
 
@@ -457,7 +457,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 8'</p> | <p align="right">Catanzaro <img src="/static/logos/Catanzaro.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Brescia.png" height="25px"> Brescia</p> |
+| <p align="center">120' 2'</p> | <p align="right">Catanzaro <img src="/static/logos/Catanzaro.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Brescia.png" height="25px"> Brescia</p> |
 </div>
 
 
@@ -467,9 +467,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 5'</p> | <p align="right">Catania <img src="/static/logos/Catania.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Atalanta U23.png" height="25px"> Atalanta U23</p> |
+| <p align="center">FT</p> | <p align="right">Catania <img src="/static/logos/Catania.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Atalanta U23.png" height="25px"> Atalanta U23</p> |
 | <p align="center">FT</p> | <p align="right">Carrarese <img src="/static/logos/Carrarese.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Perugia.png" height="25px"> Perugia</p> |
-| <p align="center">55'</p> | <p align="right">LR Vicenza <img src="/static/logos/LR Vicenza.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Taranto.png" height="25px"> Taranto</p> |
+| <p align="center">90' 4'</p> | <p align="right">LR Vicenza <img src="/static/logos/LR Vicenza.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Taranto.png" height="25px"> Taranto</p> |
 </div>
 
 
@@ -632,8 +632,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Leganes <img src="/static/logos/Leganes.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Sporting Gijon.png" height="25px"> Sporting Gijon</p> |
 | <p align="center">FT</p> | <p align="right">SD Huesca <img src="/static/logos/SD Huesca.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Racing Santander.png" height="25px"> Racing Santander</p> |
-| <p align="center">70'</p> | <p align="right">Eldense <img src="/static/logos/Eldense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Levante.png" height="25px"> Levante</p> |
-| <p align="center">70'</p> | <p align="right">Tenerife <img src="/static/logos/Tenerife.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/SD Amorebieta.png" height="25px"> SD Amorebieta</p> |
+| <p align="center">FT</p> | <p align="right">Eldense <img src="/static/logos/Eldense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Levante.png" height="25px"> Levante</p> |
+| <p align="center">FT</p> | <p align="right">Tenerife <img src="/static/logos/Tenerife.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/SD Amorebieta.png" height="25px"> SD Amorebieta</p> |
 </div>
 
 
@@ -676,7 +676,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:00</p> | <p align="right">Defensor Sporting <img src="/static/logos/Defensor Sporting.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
+| <p align="center">5'</p> | <p align="right">Defensor Sporting <img src="/static/logos/Defensor Sporting.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
 </div>
 
 
