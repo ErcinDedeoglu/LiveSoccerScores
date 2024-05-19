@@ -215,11 +215,11 @@
 | <p align="center">FT</p> | <p align="right">Kyoto Sanga FC <img src="/static/logos/Kyoto Sanga FC.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"> Sanfrecce Hiroshima</p> |
 | <p align="center">FT</p> | <p align="right">Jubilo Iwata <img src="/static/logos/Jubilo Iwata.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa Red Diamonds</p> |
 | <p align="center">FT</p> | <p align="right">Machida Zelvia <img src="/static/logos/Machida Zelvia.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Tokyo Verdy.png" height="25px"> Tokyo Verdy</p> |
-| <p align="center">54'</p> | <p align="right">Kashima Antlers <img src="/static/logos/Kashima Antlers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vissel Kobe.png" height="25px"> Vissel Kobe</p> |
-| <p align="center">47'</p> | <p align="right">FC Tokyo <img src="/static/logos/FC Tokyo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Yokohama F.Marinos.png" height="25px"> Yokohama F.Marinos</p> |
-| <p align="center">52'</p> | <p align="right">Gamba Osaka <img src="/static/logos/Gamba Osaka.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki Frontale</p> |
-| <p align="center">11'</p> | <p align="right">Shonan Bellmare <img src="/static/logos/Shonan Bellmare.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex Niigata</p> |
-| <p align="center">10'</p> | <p align="right">Kashiwa Reysol <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"> Hokkaido Consadole Sapporo</p> |
+| <p align="center">62'</p> | <p align="right">Kashima Antlers <img src="/static/logos/Kashima Antlers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vissel Kobe.png" height="25px"> Vissel Kobe</p> |
+| <p align="center">54'</p> | <p align="right">FC Tokyo <img src="/static/logos/FC Tokyo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Yokohama F.Marinos.png" height="25px"> Yokohama F.Marinos</p> |
+| <p align="center">59'</p> | <p align="right">Gamba Osaka <img src="/static/logos/Gamba Osaka.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki Frontale</p> |
+| <p align="center">18'</p> | <p align="right">Shonan Bellmare <img src="/static/logos/Shonan Bellmare.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex Niigata</p> |
+| <p align="center">18'</p> | <p align="right">Kashiwa Reysol <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"> Hokkaido Consadole Sapporo</p> |
 </div>
 
 
