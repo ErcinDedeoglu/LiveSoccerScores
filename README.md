@@ -201,7 +201,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:30</p> | <p align="right">Cercle Bruges <img src="/static/logos/Cercle Bruges.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
+| <p align="center">2'</p> | <p align="right">Cercle Bruges <img src="/static/logos/Cercle Bruges.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
 | <p align="center">16:30</p> | <p align="right">Anderlecht <img src="/static/logos/Anderlecht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Bruges.png" height="25px"> Club Bruges</p> |
 </div>
 
@@ -373,8 +373,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">BFC Dynamo <img src="/static/logos/BFC Dynamo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Berliner AK 07.png" height="25px"> Berliner AK 07</p> |
-| <p align="center">25'</p> | <p align="right">Lokomotive Leipzig <img src="/static/logos/Lokomotive Leipzig.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FSV Zwickau.png" height="25px"> FSV Zwickau</p> |
+| <p align="center">32'</p> | <p align="right">BFC Dynamo <img src="/static/logos/BFC Dynamo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Berliner AK 07.png" height="25px"> Berliner AK 07</p> |
+| <p align="center">34'</p> | <p align="right">Lokomotive Leipzig <img src="/static/logos/Lokomotive Leipzig.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FSV Zwickau.png" height="25px"> FSV Zwickau</p> |
 </div>
 
 
@@ -589,8 +589,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">63'</p> | <p align="right">AVS Futebol SAD <img src="/static/logos/AVS Futebol SAD.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tondela.png" height="25px"> Tondela</p> |
-| <p align="center">64'</p> | <p align="right">Academico Viseu <img src="/static/logos/Academico Viseu.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Maritimo.png" height="25px"> Maritimo</p> |
+| <p align="center">72'</p> | <p align="right">AVS Futebol SAD <img src="/static/logos/AVS Futebol SAD.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Tondela.png" height="25px"> Tondela</p> |
+| <p align="center">72'</p> | <p align="right">Academico Viseu <img src="/static/logos/Academico Viseu.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Maritimo.png" height="25px"> Maritimo</p> |
 | <p align="center">15:30</p> | <p align="right">Santa Clara <img src="/static/logos/Santa Clara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Uniao de Leiria.png" height="25px"> Uniao de Leiria</p> |
 | <p align="center">15:30</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mafra.png" height="25px"> Mafra</p> |
 </div>
@@ -605,7 +605,7 @@
 | <p align="center">FT</p> | <p align="right">Gangwon FC <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ulsan HD FC.png" height="25px"> Ulsan HD FC</p> |
 | <p align="center">FT</p> | <p align="right">FC Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Daegu FC.png" height="25px"> Daegu FC</p> |
 | <p align="center">FT</p> | <p align="right">Gwangju FC <img src="/static/logos/Gwangju FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
-| <p align="center">66'</p> | <p align="right">Suwon FC <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
+| <p align="center">75'</p> | <p align="right">Suwon FC <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
 </div>
 
 
@@ -640,8 +640,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Khonkaen United FC <img src="/static/logos/Khonkaen United FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Sukhothai FC.png" height="25px"> Sukhothai FC</p> |
-| <p align="center">22'</p> | <p align="right">Nakhon Pathom <img src="/static/logos/Nakhon Pathom.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BG Pathum United.png" height="25px"> BG Pathum United</p> |
+| <p align="center">47'</p> | <p align="right">Khonkaen United FC <img src="/static/logos/Khonkaen United FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Sukhothai FC.png" height="25px"> Sukhothai FC</p> |
+| <p align="center">30'</p> | <p align="right">Nakhon Pathom <img src="/static/logos/Nakhon Pathom.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/BG Pathum United.png" height="25px"> BG Pathum United</p> |
 | <p align="center">12:00</p> | <p align="right">Ratchaburi FC <img src="/static/logos/Ratchaburi FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Port FC.png" height="25px"> Port FC</p> |
 </div>
 
