@@ -191,7 +191,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">FC Wil 1900 <img src="/static/logos/FC Wil 1900.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Thun.png" height="25px"> FC Thun</p> |
+| <p align="center">HT</p> | <p align="right">FC Wil 1900 <img src="/static/logos/FC Wil 1900.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Thun.png" height="25px"> FC Thun</p> |
 </div>
 
 
@@ -212,7 +212,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11:00</p> | <p align="right">Mtibwa Sugar <img src="/static/logos/Mtibwa Sugar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Namungo FC.png" height="25px"> Namungo FC</p> |
+| <p align="center">FT</p> | <p align="right">Mtibwa Sugar <img src="/static/logos/Mtibwa Sugar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Namungo FC.png" height="25px"> Namungo FC</p> |
 | <p align="center">13:00</p> | <p align="right">Tanzania Prisons <img src="/static/logos/Tanzania Prisons.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mashujaa.png" height="25px"> Mashujaa</p> |
 </div>
 
