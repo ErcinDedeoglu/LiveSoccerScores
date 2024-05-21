@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">MC Oran <img src="/static/logos/MC Oran.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
+| <p align="center">55'</p> | <p align="right">MC Oran <img src="/static/logos/MC Oran.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/USM Alger.png" height="25px"> USM Alger</p> |
 </div>
 
 
@@ -47,7 +47,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Club Atletico Mitre <img src="/static/logos/Club Atletico Mitre.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Brown de Adrogue.png" height="25px"> Brown de Adrogue</p> |
-| <p align="center">19:05</p> | <p align="right">Nueva Chicago <img src="/static/logos/Nueva Chicago.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ferro Carril Oeste.png" height="25px"> Ferro Carril Oeste</p> |
+| <p align="center">10'</p> | <p align="right">Nueva Chicago <img src="/static/logos/Nueva Chicago.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ferro Carril Oeste.png" height="25px"> Ferro Carril Oeste</p> |
 </div>
 
 
@@ -57,7 +57,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 8'</p> | <p align="right">Wolfsberger AC <img src="/static/logos/Wolfsberger AC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Austria Wien.png" height="25px"> Austria Wien</p> |
+| <p align="center">FT</p> | <p align="right">Wolfsberger AC <img src="/static/logos/Wolfsberger AC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Austria Wien.png" height="25px"> Austria Wien</p> |
 </div>
 
 
@@ -116,9 +116,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">Maccabi Bnei Raina <img src="/static/logos/Maccabi Bnei Raina.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bnei Sakhnin.png" height="25px"> Bnei Sakhnin</p> |
-| <p align="center">65'</p> | <p align="right">Hapoel Haifa <img src="/static/logos/Hapoel Haifa.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv.png" height="25px"> Maccabi Tel Aviv</p> |
-| <p align="center">65'</p> | <p align="right">Hapoel Beer Sheva <img src="/static/logos/Hapoel Beer Sheva.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Maccabi Haifa.png" height="25px"> Maccabi Haifa</p> |
+| <p align="center">90' 1'</p> | <p align="right">Maccabi Bnei Raina <img src="/static/logos/Maccabi Bnei Raina.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Bnei Sakhnin.png" height="25px"> Bnei Sakhnin</p> |
+| <p align="center">90' 2'</p> | <p align="right">Hapoel Haifa <img src="/static/logos/Hapoel Haifa.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv.png" height="25px"> Maccabi Tel Aviv</p> |
+| <p align="center">90' 1'</p> | <p align="right">Hapoel Beer Sheva <img src="/static/logos/Hapoel Beer Sheva.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Maccabi Haifa.png" height="25px"> Maccabi Haifa</p> |
 </div>
 
 
@@ -128,7 +128,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Catanzaro <img src="/static/logos/Catanzaro.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cremonese.png" height="25px"> Cremonese</p> |
+| <p align="center">HT</p> | <p align="right">Catanzaro <img src="/static/logos/Catanzaro.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cremonese.png" height="25px"> Cremonese</p> |
 </div>
 
 
@@ -138,7 +138,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">Catania <img src="/static/logos/Catania.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avellino.png" height="25px"> Avellino</p> |
+| <p align="center">HT</p> | <p align="right">Catania <img src="/static/logos/Catania.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avellino.png" height="25px"> Avellino</p> |
 | <p align="center">POS</p> | <p align="right">LR Vicenza <img src="/static/logos/LR Vicenza.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Calcio Padova.png" height="25px"> Calcio Padova</p> |
 </div>
 
@@ -160,7 +160,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">NAC Breda <img src="/static/logos/NAC Breda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Emmen.png" height="25px"> FC Emmen</p> |
+| <p align="center">60'</p> | <p align="right">NAC Breda <img src="/static/logos/NAC Breda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Emmen.png" height="25px"> FC Emmen</p> |
 </div>
 
 
@@ -170,7 +170,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">TS Galaxy <img src="/static/logos/TS Galaxy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"> Mamelodi Sundowns FC</p> |
+| <p align="center">90' 1'</p> | <p align="right">TS Galaxy <img src="/static/logos/TS Galaxy.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"> Mamelodi Sundowns FC</p> |
 </div>
 
 
@@ -180,7 +180,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23'</p> | <p align="right">FC Luzern <img src="/static/logos/FC Luzern.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Stade Lausanne-Ouchy.png" height="25px"> FC Stade Lausanne-Ouchy</p> |
+| <p align="center">HT</p> | <p align="right">FC Luzern <img src="/static/logos/FC Luzern.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/FC Stade Lausanne-Ouchy.png" height="25px"> FC Stade Lausanne-Ouchy</p> |
 </div>
 
 
@@ -203,7 +203,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Al-Nasr SC <img src="/static/logos/Al-Nasr SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ajman.png" height="25px"> Ajman</p> |
-| <p align="center">90' 2'</p> | <p align="right">Al Ittihad Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Al-Wasl.png" height="25px"> Al-Wasl</p> |
+| <p align="center">FT</p> | <p align="right">Al Ittihad Kalba <img src="/static/logos/Al Ittihad Kalba.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Al-Wasl.png" height="25px"> Al-Wasl</p> |
 </div>
 
 
