@@ -126,9 +126,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Kozani FC <img src="/static/logos/Kozani FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Aiolikos Mitilini.png" height="25px"> Aiolikos Mitilini</p> |
-| <p align="center">60'</p> | <p align="right">Iraklis <img src="/static/logos/Iraklis.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kampaniakos Chalastras.png" height="25px"> Kampaniakos Chalastras</p> |
-| <p align="center">53'</p> | <p align="right">Anagennisi Karditsas <img src="/static/logos/Anagennisi Karditsas.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/PAOK Thessaloniki FC B.png" height="25px"> PAOK Thessaloniki FC B</p> |
+| <p align="center">85'</p> | <p align="right">Kozani FC <img src="/static/logos/Kozani FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Aiolikos Mitilini.png" height="25px"> Aiolikos Mitilini</p> |
+| <p align="center">85'</p> | <p align="right">Iraklis <img src="/static/logos/Iraklis.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kampaniakos Chalastras.png" height="25px"> Kampaniakos Chalastras</p> |
+| <p align="center">77'</p> | <p align="right">Anagennisi Karditsas <img src="/static/logos/Anagennisi Karditsas.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/PAOK Thessaloniki FC B.png" height="25px"> PAOK Thessaloniki FC B</p> |
 </div>
 
 
@@ -198,8 +198,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:30</p> | <p align="right">AS Slimane <img src="/static/logos/AS Slimane.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avenir de La Marsa.png" height="25px"> Avenir de La Marsa</p> |
-| <p align="center">14:30</p> | <p align="right">US Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ben Guerdane.png" height="25px"> Ben Guerdane</p> |
+| <p align="center">13'</p> | <p align="right">AS Slimane <img src="/static/logos/AS Slimane.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avenir de La Marsa.png" height="25px"> Avenir de La Marsa</p> |
+| <p align="center">9'</p> | <p align="right">US Tataouine <img src="/static/logos/US Tataouine.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ben Guerdane.png" height="25px"> Ben Guerdane</p> |
 </div>
 
 
