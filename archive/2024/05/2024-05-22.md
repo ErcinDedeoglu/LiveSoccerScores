@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Sporting Kansas City <img src="/static/logos/Sporting Kansas City.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> FC Tulsa</p> |
+| <p align="center">45'</p> | <p align="right">Sporting Kansas City <img src="/static/logos/Sporting Kansas City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> FC Tulsa</p> |
 | <p align="center">02:00</p> | <p align="right">Sacramento Republic FC <img src="/static/logos/Sacramento Republic FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> San Jose Earthquakes</p> |
 | <p align="center">02:30</p> | <p align="right">Los Angeles FC <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Loudoun United FC.png" height="25px"> Loudoun United FC</p> |
 | <p align="center">23:30</p> | <p align="right">Tampa Bay Rowdies <img src="/static/logos/Tampa Bay Rowdies.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> FC Dallas</p> |
@@ -79,7 +79,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18'</p> | <p align="right">Vasco da Gama <img src="/static/logos/Vasco da Gama.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
+| <p align="center">45' 3'</p> | <p align="right">Vasco da Gama <img src="/static/logos/Vasco da Gama.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 | <p align="center">22:00</p> | <p align="right">Atletico GO <img src="/static/logos/Atletico GO.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brusque.png" height="25px"> Brusque</p> |
 | <p align="center">22:00</p> | <p align="right">Vitoria <img src="/static/logos/Vitoria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
 | <p align="center">22:00</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sampaio Correa.png" height="25px"> Sampaio Correa</p> |
@@ -148,16 +148,16 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">10:00</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Tokyo.png" height="25px"> FC Tokyo</p> |
+| <p align="center">10:00</p> | <p align="right">V-Varen Nagasaki <img src="/static/logos/V-Varen Nagasaki.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa Red Diamonds</p> |
+| <p align="center">10:00</p> | <p align="right">Nagano Parceiro <img src="/static/logos/Nagano Parceiro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"> Hokkaido Consadole Sapporo</p> |
+| <p align="center">10:00</p> | <p align="right">Kashiwa Reysol <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa Fukuoka</p> |
+| <p align="center">10:00</p> | <p align="right">Machida Zelvia <img src="/static/logos/Machida Zelvia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kashima Antlers.png" height="25px"> Kashima Antlers</p> |
+| <p align="center">10:00</p> | <p align="right">Kataller Toyama <img src="/static/logos/Kataller Toyama.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vissel Kobe.png" height="25px"> Vissel Kobe</p> |
+| <p align="center">10:00</p> | <p align="right">Yokohama FC <img src="/static/logos/Yokohama FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya Grampus</p> |
 | <p align="center">10:00</p> | <p align="right">FC Ryukyu <img src="/static/logos/FC Ryukyu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cerezo Osaka.png" height="25px"> Cerezo Osaka</p> |
 | <p align="center">10:00</p> | <p align="right">Tokyo Verdy <img src="/static/logos/Tokyo Verdy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"> Sanfrecce Hiroshima</p> |
 | <p align="center">10:00</p> | <p align="right">Blaublitz Akita <img src="/static/logos/Blaublitz Akita.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Albirex Niigata.png" height="25px"> Albirex Niigata</p> |
-| <p align="center">10:00</p> | <p align="right">Machida Zelvia <img src="/static/logos/Machida Zelvia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kashima Antlers.png" height="25px"> Kashima Antlers</p> |
-| <p align="center">10:00</p> | <p align="right">Nagano Parceiro <img src="/static/logos/Nagano Parceiro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"> Hokkaido Consadole Sapporo</p> |
-| <p align="center">10:00</p> | <p align="right">Kashiwa Reysol <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa Fukuoka</p> |
-| <p align="center">10:00</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Tokyo.png" height="25px"> FC Tokyo</p> |
-| <p align="center">10:00</p> | <p align="right">V-Varen Nagasaki <img src="/static/logos/V-Varen Nagasaki.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa Red Diamonds</p> |
-| <p align="center">10:00</p> | <p align="right">Kataller Toyama <img src="/static/logos/Kataller Toyama.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vissel Kobe.png" height="25px"> Vissel Kobe</p> |
-| <p align="center">10:00</p> | <p align="right">Yokohama FC <img src="/static/logos/Yokohama FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya Grampus</p> |
 </div>
 
 
@@ -177,7 +177,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Libertad <img src="/static/logos/Libertad.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
+| <p align="center">60'</p> | <p align="right">Libertad <img src="/static/logos/Libertad.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
 </div>
 
 
@@ -187,8 +187,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Tabora United <img src="/static/logos/Tabora United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ihefu FC.png" height="25px"> Ihefu FC</p> |
 | <p align="center">13:00</p> | <p align="right">Dodoma Jiji FC <img src="/static/logos/Dodoma Jiji FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Young Africans.png" height="25px"> Young Africans</p> |
+| <p align="center">13:00</p> | <p align="right">Tabora United <img src="/static/logos/Tabora United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ihefu FC.png" height="25px"> Ihefu FC</p> |
 </div>
 
 
