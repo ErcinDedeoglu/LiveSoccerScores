@@ -92,7 +92,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">43'</p> | <p align="right">Makedonikos Neapolis <img src="/static/logos/Makedonikos Neapolis.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Niki Volou.png" height="25px"> Niki Volou</p> |
+| <p align="center">HT</p> | <p align="right">Makedonikos Neapolis <img src="/static/logos/Makedonikos Neapolis.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Niki Volou.png" height="25px"> Niki Volou</p> |
 </div>
 
 
@@ -130,8 +130,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Etoile Metlaoui <img src="/static/logos/Etoile Metlaoui.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olympique de Beja.png" height="25px"> Olympique de Beja</p> |
-| <p align="center">11'</p> | <p align="right">CA Bizertin <img src="/static/logos/CA Bizertin.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gafsa.png" height="25px"> Gafsa</p> |
+| <p align="center">21'</p> | <p align="right">Etoile Metlaoui <img src="/static/logos/Etoile Metlaoui.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Olympique de Beja.png" height="25px"> Olympique de Beja</p> |
+| <p align="center">19'</p> | <p align="right">CA Bizertin <img src="/static/logos/CA Bizertin.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gafsa.png" height="25px"> Gafsa</p> |
 </div>
 
 
