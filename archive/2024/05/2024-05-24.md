@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Angel City FC <img src="/static/logos/Angel City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave FC</p> |
+| <p align="center">44'</p> | <p align="right">Angel City FC <img src="/static/logos/Angel City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave FC</p> |
 | <p align="center">23:00</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Portland Thorns.png" height="25px"> Portland Thorns</p> |
 | <p align="center">23:30</p> | <p align="right">Washington Spirit <img src="/static/logos/Washington Spirit.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Seattle Reign FC.png" height="25px"> Seattle Reign FC</p> |
 </div>
@@ -48,7 +48,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">39'</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
+| <p align="center">45' 2'</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
 </div>
 
 
@@ -58,7 +58,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">51'</p> | <p align="right">Santa Fe <img src="/static/logos/Santa Fe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Once Caldas.png" height="25px"> Once Caldas</p> |
+| <p align="center">59'</p> | <p align="right">Santa Fe <img src="/static/logos/Santa Fe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Once Caldas.png" height="25px"> Once Caldas</p> |
 </div>
 
 
