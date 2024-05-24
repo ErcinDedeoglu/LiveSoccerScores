@@ -37,7 +37,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Angel City FC <img src="/static/logos/Angel City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave FC</p> |
-| <p align="center">20'</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Portland Thorns.png" height="25px"> Portland Thorns</p> |
+| <p align="center">28'</p> | <p align="right">Orlando Pride <img src="/static/logos/Orlando Pride.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Portland Thorns.png" height="25px"> Portland Thorns</p> |
 | <p align="center">23:30</p> | <p align="right">Washington Spirit <img src="/static/logos/Washington Spirit.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Seattle Reign FC.png" height="25px"> Seattle Reign FC</p> |
 </div>
 
@@ -69,7 +69,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Palestino <img src="/static/logos/Palestino.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Union Espanola.png" height="25px"> Union Espanola</p> |
-| <p align="center">27'</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Coquimbo Unido.png" height="25px"> Coquimbo Unido</p> |
+| <p align="center">36'</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Coquimbo Unido.png" height="25px"> Coquimbo Unido</p> |
 </div>
 
 
