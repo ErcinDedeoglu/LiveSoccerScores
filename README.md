@@ -158,14 +158,14 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Acre.png" height="25px"> Hapoel Ironi Acre</p> |
-| <p align="center">62'</p> | <p align="right">Hapoel Umm al-Fahm <img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
-| <p align="center">67'</p> | <p align="right">Maccabi Kabilio Jaffa <img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"> Hapoel Nof HaGalil</p> |
-| <p align="center">63'</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ironi Tiberias.png" height="25px"> Ironi Tiberias</p> |
-| <p align="center">60'</p> | <p align="right">Hapoel Kfar Saba <img src="/static/logos/Hapoel Kfar Saba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SC Kfar Kasem.png" height="25px"> SC Kfar Kasem</p> |
-| <p align="center">60'</p> | <p align="right">Hapoel Ramat Gan <img src="/static/logos/Hapoel Ramat Gan.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Sektzia Nes Tziona.png" height="25px"> Sektzia Nes Tziona</p> |
-| <p align="center">64'</p> | <p align="right">Hapoel Nir Ramat HaSharon <img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
-| <p align="center">60'</p> | <p align="right">Ihud Bnei Shfaram <img src="/static/logos/Ihud Bnei Shfaram.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"> Hapoel Rishon LeZion</p> |
+| <p align="center">75'</p> | <p align="right">Hapoel Afula <img src="/static/logos/Hapoel Afula.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Acre.png" height="25px"> Hapoel Ironi Acre</p> |
+| <p align="center">77'</p> | <p align="right">Hapoel Umm al-Fahm <img src="/static/logos/Hapoel Umm al-Fahm.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Bnei Yehuda Tel Aviv.png" height="25px"> Bnei Yehuda Tel Aviv</p> |
+| <p align="center">82'</p> | <p align="right">Maccabi Kabilio Jaffa <img src="/static/logos/Maccabi Kabilio Jaffa.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Hapoel Nof HaGalil.png" height="25px"> Hapoel Nof HaGalil</p> |
+| <p align="center">78'</p> | <p align="right">Maccabi Herzliya <img src="/static/logos/Maccabi Herzliya.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Ironi Tiberias.png" height="25px"> Ironi Tiberias</p> |
+| <p align="center">75'</p> | <p align="right">Hapoel Kfar Saba <img src="/static/logos/Hapoel Kfar Saba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SC Kfar Kasem.png" height="25px"> SC Kfar Kasem</p> |
+| <p align="center">75'</p> | <p align="right">Hapoel Ramat Gan <img src="/static/logos/Hapoel Ramat Gan.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Sektzia Nes Tziona.png" height="25px"> Sektzia Nes Tziona</p> |
+| <p align="center">79'</p> | <p align="right">Hapoel Nir Ramat HaSharon <img src="/static/logos/Hapoel Nir Ramat HaSharon.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"> Hapoel Ironi Kiryat Shmona</p> |
+| <p align="center">75'</p> | <p align="right">Ihud Bnei Shfaram <img src="/static/logos/Ihud Bnei Shfaram.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Hapoel Rishon LeZion.png" height="25px"> Hapoel Rishon LeZion</p> |
 </div>
 
 
@@ -186,7 +186,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Kelantan United.png" height="25px"> Kelantan United</p> |
-| <p align="center">54'</p> | <p align="right">Kedah Darul Aman <img src="/static/logos/Kedah Darul Aman.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Perak.png" height="25px"> Perak</p> |
+| <p align="center">69'</p> | <p align="right">Kedah Darul Aman <img src="/static/logos/Kedah Darul Aman.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Perak.png" height="25px"> Perak</p> |
 </div>
 
 
@@ -217,7 +217,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corum FK.png" height="25px"> Corum FK</p> |
+| <p align="center">74'</p> | <p align="right">Bodrumspor <img src="/static/logos/Bodrumspor.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Corum FK.png" height="25px"> Corum FK</p> |
 </div>
 
 
@@ -227,8 +227,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">7'</p> | <p align="right">Hatta <img src="/static/logos/Hatta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al-Jazira.png" height="25px"> Al-Jazira</p> |
-| <p align="center">7'</p> | <p align="right">Ajman <img src="/static/logos/Ajman.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sharjah Cultural Club.png" height="25px"> Sharjah Cultural Club</p> |
+| <p align="center">22'</p> | <p align="right">Hatta <img src="/static/logos/Hatta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al-Jazira.png" height="25px"> Al-Jazira</p> |
+| <p align="center">23'</p> | <p align="right">Ajman <img src="/static/logos/Ajman.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sharjah Cultural Club.png" height="25px"> Sharjah Cultural Club</p> |
 | <p align="center">17:00</p> | <p align="right">Emirates Club <img src="/static/logos/Emirates Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Nasr SC.png" height="25px"> Al-Nasr SC</p> |
 | <p align="center">17:00</p> | <p align="right">Al-Wahda <img src="/static/logos/Al-Wahda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Khorfakkan.png" height="25px"> Khorfakkan</p> |
 </div>
