@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Girona <img src="/static/logos/Girona.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Granada.png" height="25px"> Granada</p> |
+| <p align="center">67'</p> | <p align="right">Girona <img src="/static/logos/Girona.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Granada.png" height="25px"> Granada</p> |
 </div>
 
 
@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">56'</p> | <p align="right">Genoa <img src="/static/logos/Genoa.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bologna.png" height="25px"> Bologna</p> |
+| <p align="center">85'</p> | <p align="right">Genoa <img src="/static/logos/Genoa.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bologna.png" height="25px"> Bologna</p> |
 </div>
 
 
@@ -68,7 +68,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">27'</p> | <p align="right">Palestino <img src="/static/logos/Palestino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union Espanola.png" height="25px"> Union Espanola</p> |
+| <p align="center">HT</p> | <p align="right">Palestino <img src="/static/logos/Palestino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union Espanola.png" height="25px"> Union Espanola</p> |
 | <p align="center">23:00</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coquimbo Unido.png" height="25px"> Coquimbo Unido</p> |
 </div>
 
@@ -131,7 +131,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Jahn Regensburg <img src="/static/logos/Jahn Regensburg.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Wehen Wiesbaden.png" height="25px"> Wehen Wiesbaden</p> |
+| <p align="center">FT</p> | <p align="right">Jahn Regensburg <img src="/static/logos/Jahn Regensburg.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Wehen Wiesbaden.png" height="25px"> Wehen Wiesbaden</p> |
 </div>
 
 
@@ -141,14 +141,14 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">FT</p> | <p align="right">Paykan <img src="/static/logos/Paykan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tractor.png" height="25px"> Tractor</p> |
+| <p align="center">FT</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar SC</p> |
 | <p align="center">FT</p> | <p align="right">Malavan <img src="/static/logos/Malavan.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Mes Rafsanjan</p> |
 | <p align="center">FT</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Esteghlal Khuzestan.png" height="25px"> Esteghlal Khuzestan</p> |
 | <p align="center">FT</p> | <p align="right">Gol Gohar <img src="/static/logos/Gol Gohar.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Aluminium Arak.png" height="25px"> Aluminium Arak</p> |
 | <p align="center">FT</p> | <p align="right">Sanat Naft Abadan <img src="/static/logos/Sanat Naft Abadan.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Shams Azar Qazvin.png" height="25px"> Shams Azar Qazvin</p> |
 | <p align="center">FT</p> | <p align="right">Foolad Khouzestan <img src="/static/logos/Foolad Khouzestan.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Zob Ahan.png" height="25px"> Zob Ahan</p> |
 | <p align="center">FT</p> | <p align="right">Nassaji Mazandaran FC <img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Esteghlal.png" height="25px"> Esteghlal</p> |
-| <p align="center">FT</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Havadar SC.png" height="25px"> Havadar SC</p> |
-| <p align="center">FT</p> | <p align="right">Paykan <img src="/static/logos/Paykan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tractor.png" height="25px"> Tractor</p> |
 </div>
 
 
@@ -175,7 +175,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">70'</p> | <p align="right">Venezia <img src="/static/logos/Venezia.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Palermo.png" height="25px"> Palermo</p> |
+| <p align="center">FT</p> | <p align="right">Venezia <img src="/static/logos/Venezia.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Palermo.png" height="25px"> Palermo</p> |
 </div>
 
 
