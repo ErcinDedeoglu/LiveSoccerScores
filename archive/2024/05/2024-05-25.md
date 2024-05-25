@@ -57,7 +57,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Houston Dash <img src="/static/logos/Houston Dash.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/North Carolina Courage.png" height="25px"> North Carolina Courage</p> |
+| <p align="center">90' 4'</p> | <p align="right">Houston Dash <img src="/static/logos/Houston Dash.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/North Carolina Courage.png" height="25px"> North Carolina Courage</p> |
 | <p align="center">02:00</p> | <p align="right">Bay FC <img src="/static/logos/Bay FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NJ/NY Gotham FC.png" height="25px"> NJ/NY Gotham FC</p> |
 | <p align="center">23:30</p> | <p align="right">Chicago Red Stars <img src="/static/logos/Chicago Red Stars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Racing Louisville.png" height="25px"> Racing Louisville</p> |
 </div>
@@ -231,7 +231,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">America MG <img src="/static/logos/America MG.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Santos FC.png" height="25px"> Santos FC</p> |
+| <p align="center">70'</p> | <p align="right">America MG <img src="/static/logos/America MG.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Santos FC.png" height="25px"> Santos FC</p> |
 </div>
 
 
@@ -561,7 +561,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">FC Tulsa <img src="/static/logos/FC Tulsa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Oakland Roots SC</p> |
+| <p align="center">66'</p> | <p align="right">FC Tulsa <img src="/static/logos/FC Tulsa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Oakland Roots SC.png" height="25px"> Oakland Roots SC</p> |
 | <p align="center">23:00</p> | <p align="right">Miami FC <img src="/static/logos/Miami FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/North Carolina FC.png" height="25px"> North Carolina FC</p> |
 | <p align="center">23:30</p> | <p align="right">Tampa Bay Rowdies <img src="/static/logos/Tampa Bay Rowdies.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Las Vegas Lights FC.png" height="25px"> Las Vegas Lights FC</p> |
 </div>
