@@ -481,7 +481,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Jeonbuk Hyundai Motors FC <img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu.png" height="25px"> Gimcheon Sangmu</p> |
-| <p align="center">88'</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Daejeon Hana Citizen.png" height="25px"> Daejeon Hana Citizen</p> |
+| <p align="center">90' 6'</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Daejeon Hana Citizen.png" height="25px"> Daejeon Hana Citizen</p> |
 | <p align="center">10:00</p> | <p align="right">Pohang Steelers <img src="/static/logos/Pohang Steelers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Seoul.png" height="25px"> FC Seoul</p> |
 | <p align="center">10:00</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
 </div>
