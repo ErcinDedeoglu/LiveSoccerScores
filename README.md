@@ -176,8 +176,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Jubilo Iwata <img src="/static/logos/Jubilo Iwata.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Shonan Bellmare.png" height="25px"> Shonan Bellmare</p> |
 | <p align="center">FT</p> | <p align="right">Hokkaido Consadole Sapporo <img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Kashima Antlers.png" height="25px"> Kashima Antlers</p> |
-| <p align="center">17'</p> | <p align="right">Kawasaki Frontale <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kashiwa Reysol.png" height="25px"> Kashiwa Reysol</p> |
-| <p align="center">17'</p> | <p align="right">Albirex Niigata <img src="/static/logos/Albirex Niigata.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa Fukuoka</p> |
+| <p align="center">25'</p> | <p align="right">Kawasaki Frontale <img src="/static/logos/Kawasaki Frontale.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kashiwa Reysol.png" height="25px"> Kashiwa Reysol</p> |
+| <p align="center">25'</p> | <p align="right">Albirex Niigata <img src="/static/logos/Albirex Niigata.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa Fukuoka</p> |
 </div>
 
 
@@ -371,7 +371,7 @@
 | <p align="center">FT</p> | <p align="right">Ehime FC <img src="/static/logos/Ehime FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi SC</p> |
 | <p align="center">FT</p> | <p align="right">Fujieda MYFC <img src="/static/logos/Fujieda MYFC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kagoshima United.png" height="25px"> Kagoshima United</p> |
 | <p align="center">FT</p> | <p align="right">V-Varen Nagasaki <img src="/static/logos/V-Varen Nagasaki.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/JEF United Chiba.png" height="25px"> JEF United Chiba</p> |
-| <p align="center">17'</p> | <p align="right">Ventforet Kofu <img src="/static/logos/Ventforet Kofu.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Yokohama FC.png" height="25px"> Yokohama FC</p> |
+| <p align="center">25'</p> | <p align="right">Ventforet Kofu <img src="/static/logos/Ventforet Kofu.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Yokohama FC.png" height="25px"> Yokohama FC</p> |
 </div>
 
 
