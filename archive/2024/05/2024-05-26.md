@@ -91,8 +91,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Junior FC <img src="/static/logos/Junior FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bucaramanga.png" height="25px"> Bucaramanga</p> |
-| <p align="center">23:00</p> | <p align="right">Santa Fe <img src="/static/logos/Santa Fe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/La Equidad.png" height="25px"> La Equidad</p> |
-| <p align="center">23:00</p> | <p align="right">Once Caldas <img src="/static/logos/Once Caldas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tolima.png" height="25px"> Tolima</p> |
+| <p align="center">26'</p> | <p align="right">Santa Fe <img src="/static/logos/Santa Fe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/La Equidad.png" height="25px"> La Equidad</p> |
+| <p align="center">26'</p> | <p align="right">Once Caldas <img src="/static/logos/Once Caldas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tolima.png" height="25px"> Tolima</p> |
 </div>
 
 
@@ -104,7 +104,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">O'Higgins <img src="/static/logos/O'Higgins.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Cobresal.png" height="25px"> Cobresal</p> |
 | <p align="center">FT</p> | <p align="right">Deportes Copiapo <img src="/static/logos/Deportes Copiapo.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Audax Italiano.png" height="25px"> Audax Italiano</p> |
-| <p align="center">55'</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Nublense.png" height="25px"> CD Nublense</p> |
+| <p align="center">90' 2'</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Nublense.png" height="25px"> CD Nublense</p> |
 </div>
 
 
@@ -207,8 +207,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
-| <p align="center">83'</p> | <p align="right">Sport Recife <img src="/static/logos/Sport Recife.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
+| <p align="center">FT</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
+| <p align="center">FT</p> | <p align="right">Sport Recife <img src="/static/logos/Sport Recife.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 </div>
 
 
@@ -262,8 +262,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">National Bank <img src="/static/logos/National Bank.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Ismaily SC.png" height="25px"> Ismaily SC</p> |
-| <p align="center">FT</p> | <p align="right">Future FC <img src="/static/logos/Future FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Masry SC.png" height="25px"> Al Masry SC</p> |
 | <p align="center">FT</p> | <p align="right">Tala'ea El Gaish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"> Baladiyat ElMahalla SC</p> |
+| <p align="center">FT</p> | <p align="right">Future FC <img src="/static/logos/Future FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Masry SC.png" height="25px"> Al Masry SC</p> |
 </div>
 
 
@@ -369,7 +369,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Olimpia <img src="/static/logos/Olimpia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sportivo Trinidense.png" height="25px"> Sportivo Trinidense</p> |
+| <p align="center">FT</p> | <p align="right">Olimpia <img src="/static/logos/Olimpia.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sportivo Trinidense.png" height="25px"> Sportivo Trinidense</p> |
 </div>
 
 
