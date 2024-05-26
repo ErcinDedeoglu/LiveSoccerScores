@@ -18,11 +18,11 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">St. Louis City <img src="/static/logos/St. Louis City.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Seattle Sounders FC.png" height="25px"> Seattle Sounders FC</p> |
 | <p align="center">FT</p> | <p align="right">FC Dallas <img src="/static/logos/FC Dallas.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Real Salt Lake.png" height="25px"> Real Salt Lake</p> |
-| <p align="center">78'</p> | <p align="right">Colorado Rapids <img src="/static/logos/Colorado Rapids.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Minnesota United.png" height="25px"> Minnesota United</p> |
-| <p align="center">44'</p> | <p align="right">LA Galaxy <img src="/static/logos/LA Galaxy.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston Dynamo FC</p> |
-| <p align="center">44'</p> | <p align="right">Vancouver Whitecaps <img src="/static/logos/Vancouver Whitecaps.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Inter Miami CF.png" height="25px"> Inter Miami CF</p> |
-| <p align="center">44'</p> | <p align="right">Portland Timbers <img src="/static/logos/Portland Timbers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting Kansas City</p> |
-| <p align="center">43'</p> | <p align="right">San Jose Earthquakes <img src="/static/logos/San Jose Earthquakes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Austin FC.png" height="25px"> Austin FC</p> |
+| <p align="center">90' 4'</p> | <p align="right">Colorado Rapids <img src="/static/logos/Colorado Rapids.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Minnesota United.png" height="25px"> Minnesota United</p> |
+| <p align="center">HT</p> | <p align="right">LA Galaxy <img src="/static/logos/LA Galaxy.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston Dynamo FC</p> |
+| <p align="center">HT</p> | <p align="right">Vancouver Whitecaps <img src="/static/logos/Vancouver Whitecaps.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Inter Miami CF.png" height="25px"> Inter Miami CF</p> |
+| <p align="center">HT</p> | <p align="right">Portland Timbers <img src="/static/logos/Portland Timbers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sporting Kansas City.png" height="25px"> Sporting Kansas City</p> |
+| <p align="center">HT</p> | <p align="right">San Jose Earthquakes <img src="/static/logos/San Jose Earthquakes.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Austin FC.png" height="25px"> Austin FC</p> |
 </div>
 
 
@@ -60,7 +60,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">44'</p> | <p align="right">Utah Royals <img src="/static/logos/Utah Royals.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kansas City Current.png" height="25px"> Kansas City Current</p> |
+| <p align="center">HT</p> | <p align="right">Utah Royals <img src="/static/logos/Utah Royals.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kansas City Current.png" height="25px"> Kansas City Current</p> |
 </div>
 
 
@@ -506,7 +506,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Memphis 901 FC <img src="/static/logos/Memphis 901 FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh Riverhounds SC</p> |
 | <p align="center">FT</p> | <p align="right">New Mexico United <img src="/static/logos/New Mexico United.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/San Antonio FC.png" height="25px"> San Antonio FC</p> |
-| <p align="center">62'</p> | <p align="right">Orange County SC <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Loudoun United FC.png" height="25px"> Loudoun United FC</p> |
+| <p align="center">77'</p> | <p align="right">Orange County SC <img src="/static/logos/Orange County SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Loudoun United FC.png" height="25px"> Loudoun United FC</p> |
 </div>
 
 
