@@ -104,7 +104,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">O'Higgins <img src="/static/logos/O'Higgins.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Cobresal.png" height="25px"> Cobresal</p> |
 | <p align="center">FT</p> | <p align="right">Deportes Copiapo <img src="/static/logos/Deportes Copiapo.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Audax Italiano.png" height="25px"> Audax Italiano</p> |
-| <p align="center">45' 2'</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Nublense.png" height="25px"> CD Nublense</p> |
+| <p align="center">HT</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Nublense.png" height="25px"> CD Nublense</p> |
 </div>
 
 
@@ -207,8 +207,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
-| <p align="center">51'</p> | <p align="right">Sport Recife <img src="/static/logos/Sport Recife.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
+| <p align="center">63'</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
+| <p align="center">60'</p> | <p align="right">Sport Recife <img src="/static/logos/Sport Recife.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 </div>
 
 
@@ -352,6 +352,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Plateau United <img src="/static/logos/Plateau United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Niger Tornadoes.png" height="25px"> Niger Tornadoes</p> |
 | <p align="center">FT</p> | <p align="right">Rivers United FC <img src="/static/logos/Rivers United FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Sporting Lagos.png" height="25px"> Sporting Lagos</p> |
+| <p align="center">FT</p> | <p align="right">Abia Warriors <img src="/static/logos/Abia Warriors.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
 | <p align="center">FT</p> | <p align="right">Kano Pillars <img src="/static/logos/Kano Pillars.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Doma United.png" height="25px"> Doma United</p> |
 | <p align="center">FT</p> | <p align="right">Lobi Stars <img src="/static/logos/Lobi Stars.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Akwa United.png" height="25px"> Akwa United</p> |
 | <p align="center">FT</p> | <p align="right">Enugu Rangers <img src="/static/logos/Enugu Rangers.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Bayelsa United.png" height="25px"> Bayelsa United</p> |
@@ -359,7 +360,6 @@
 | <p align="center">FT</p> | <p align="right">Heartland Owerri <img src="/static/logos/Heartland Owerri.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Gombe United.png" height="25px"> Gombe United</p> |
 | <p align="center">FT</p> | <p align="right">Sunshine Stars <img src="/static/logos/Sunshine Stars.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Insurance</p> |
 | <p align="center">FT</p> | <p align="right">Katsina United <img src="/static/logos/Katsina United.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
-| <p align="center">FT</p> | <p align="right">Abia Warriors <img src="/static/logos/Abia Warriors.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
 </div>
 
 
@@ -369,7 +369,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Olimpia <img src="/static/logos/Olimpia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sportivo Trinidense.png" height="25px"> Sportivo Trinidense</p> |
+| <p align="center">69'</p> | <p align="right">Olimpia <img src="/static/logos/Olimpia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sportivo Trinidense.png" height="25px"> Sportivo Trinidense</p> |
 </div>
 
 
@@ -379,13 +379,13 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Wisla Krakow <img src="/static/logos/Wisla Krakow.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Termalica Nieciecza.png" height="25px"> Termalica Nieciecza</p> |
 | <p align="center">FT</p> | <p align="right">Motor Lublin <img src="/static/logos/Motor Lublin.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/TS Podbeskidzie Bielsko-Biala.png" height="25px"> TS Podbeskidzie Bielsko-Biala</p> |
+| <p align="center">FT</p> | <p align="right">Miedz Legnica <img src="/static/logos/Miedz Legnica.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Lechia Gdansk.png" height="25px"> Lechia Gdansk</p> |
+| <p align="center">FT</p> | <p align="right">Wisla Krakow <img src="/static/logos/Wisla Krakow.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Termalica Nieciecza.png" height="25px"> Termalica Nieciecza</p> |
 | <p align="center">FT</p> | <p align="right">GKS Tychy <img src="/static/logos/GKS Tychy.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gornik Leczna.png" height="25px"> Gornik Leczna</p> |
 | <p align="center">FT</p> | <p align="right">Arka Gdynia <img src="/static/logos/Arka Gdynia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/GKS Katowice.png" height="25px"> GKS Katowice</p> |
 | <p align="center">FT</p> | <p align="right">Chrobry Glogow <img src="/static/logos/Chrobry Glogow.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Zaglebie Sosnowiec.png" height="25px"> Zaglebie Sosnowiec</p> |
 | <p align="center">FT</p> | <p align="right">Wisla Plock <img src="/static/logos/Wisla Plock.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Resovia.png" height="25px"> Resovia</p> |
-| <p align="center">FT</p> | <p align="right">Miedz Legnica <img src="/static/logos/Miedz Legnica.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Lechia Gdansk.png" height="25px"> Lechia Gdansk</p> |
 | <p align="center">FT</p> | <p align="right">Odra Opole <img src="/static/logos/Odra Opole.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Znicz Pruszkow.png" height="25px"> Znicz Pruszkow</p> |
 | <p align="center">FT</p> | <p align="right">Stal Rzeszow <img src="/static/logos/Stal Rzeszow.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Polonia Warszawa.png" height="25px"> Polonia Warszawa</p> |
 </div>
@@ -431,6 +431,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Burgos CF <img src="/static/logos/Burgos CF.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tenerife.png" height="25px"> Tenerife</p> |
+| <p align="center">FT</p> | <p align="right">Real Valladolid <img src="/static/logos/Real Valladolid.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Villarreal B.png" height="25px"> Villarreal B</p> |
 | <p align="center">FT</p> | <p align="right">SD Amorebieta <img src="/static/logos/SD Amorebieta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Espanyol.png" height="25px"> Espanyol</p> |
 | <p align="center">FT</p> | <p align="right">Ferrol <img src="/static/logos/Ferrol.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Leganes.png" height="25px"> Leganes</p> |
 | <p align="center">FT</p> | <p align="right">Racing Santander <img src="/static/logos/Racing Santander.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Real Zaragoza.png" height="25px"> Real Zaragoza</p> |
@@ -438,7 +439,6 @@
 | <p align="center">FT</p> | <p align="right">Sporting Gijon <img src="/static/logos/Sporting Gijon.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Eibar.png" height="25px"> Eibar</p> |
 | <p align="center">FT</p> | <p align="right">Albacete <img src="/static/logos/Albacete.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/CD Mirandes.png" height="25px"> CD Mirandes</p> |
 | <p align="center">FT</p> | <p align="right">Levante <img src="/static/logos/Levante.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Alcorcon.png" height="25px"> Alcorcon</p> |
-| <p align="center">FT</p> | <p align="right">Real Valladolid <img src="/static/logos/Real Valladolid.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Villarreal B.png" height="25px"> Villarreal B</p> |
 | <p align="center">FT</p> | <p align="right">Cartagena <img src="/static/logos/Cartagena.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/SD Huesca.png" height="25px"> SD Huesca</p> |
 </div>
 
@@ -494,7 +494,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cerro <img src="/static/logos/Cerro.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/River Plate.png" height="25px"> River Plate</p> |
 | <p align="center">FT</p> | <p align="right">Cerro Largo <img src="/static/logos/Cerro Largo.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Defensor Sporting.png" height="25px"> Defensor Sporting</p> |
-| <p align="center">90' 1'</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Fenix.png" height="25px"> Fenix</p> |
+| <p align="center">FT</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Fenix.png" height="25px"> Fenix</p> |
 </div>
 
 
