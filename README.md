@@ -407,7 +407,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gangwon FC.png" height="25px"> Gangwon FC</p> |
+| <p align="center">87'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Gangwon FC.png" height="25px"> Gangwon FC</p> |
 | <p align="center">10:00</p> | <p align="right">Jeju United <img src="/static/logos/Jeju United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
 </div>
 
