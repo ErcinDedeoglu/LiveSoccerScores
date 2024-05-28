@@ -50,8 +50,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Botafogo SP <img src="/static/logos/Botafogo SP.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Novorizontino.png" height="25px"> Novorizontino</p> |
-| <p align="center">51'</p> | <p align="right">Avai FC <img src="/static/logos/Avai FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Goias.png" height="25px"> Goias</p> |
+| <p align="center">FT</p> | <p align="right">Botafogo SP <img src="/static/logos/Botafogo SP.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Novorizontino.png" height="25px"> Novorizontino</p> |
+| <p align="center">73'</p> | <p align="right">Avai FC <img src="/static/logos/Avai FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Goias.png" height="25px"> Goias</p> |
 | <p align="center">22:00</p> | <p align="right">Amazonas FC <img src="/static/logos/Amazonas FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mirassol.png" height="25px"> Mirassol</p> |
 </div>
 
