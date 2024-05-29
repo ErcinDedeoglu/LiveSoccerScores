@@ -27,10 +27,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">23:30</p> | <p align="right">CF Montreal <img src="/static/logos/CF Montreal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/DC United.png" height="25px"> DC United</p> |
+| <p align="center">23:30</p> | <p align="right">FC Cincinnati <img src="/static/logos/FC Cincinnati.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nashville SC.png" height="25px"> Nashville SC</p> |
 | <p align="center">23:30</p> | <p align="right">Philadelphia Union <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Toronto FC.png" height="25px"> Toronto FC</p> |
 | <p align="center">23:30</p> | <p align="right">Inter Miami CF <img src="/static/logos/Inter Miami CF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlanta United.png" height="25px"> Atlanta United</p> |
 | <p align="center">23:30</p> | <p align="right">New York Red Bulls <img src="/static/logos/New York Red Bulls.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Charlotte FC.png" height="25px"> Charlotte FC</p> |
-| <p align="center">23:30</p> | <p align="right">FC Cincinnati <img src="/static/logos/FC Cincinnati.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nashville SC.png" height="25px"> Nashville SC</p> |
 </div>
 
 
@@ -121,8 +121,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Ajman <img src="/static/logos/Ajman.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bani Yas.png" height="25px"> Bani Yas</p> |
-| <p align="center">49'</p> | <p align="right">Emirates Club <img src="/static/logos/Emirates Club.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Al Bataeh.png" height="25px"> Al Bataeh</p> |
+| <p align="center">55'</p> | <p align="right">Ajman <img src="/static/logos/Ajman.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bani Yas.png" height="25px"> Bani Yas</p> |
+| <p align="center">57'</p> | <p align="right">Emirates Club <img src="/static/logos/Emirates Club.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Bataeh.png" height="25px"> Al Bataeh</p> |
 | <p align="center">17:00</p> | <p align="right">Hatta <img src="/static/logos/Hatta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shabab Al-Ahli Dubai FC.png" height="25px"> Shabab Al-Ahli Dubai FC</p> |
 | <p align="center">17:00</p> | <p align="right">Al-Ain <img src="/static/logos/Al-Ain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Wasl.png" height="25px"> Al-Wasl</p> |
 </div>
