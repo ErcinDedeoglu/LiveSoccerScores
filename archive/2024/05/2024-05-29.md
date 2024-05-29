@@ -40,8 +40,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Flamengo <img src="/static/logos/Flamengo.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
 | <p align="center">FT</p> | <p align="right">Bolivar <img src="/static/logos/Bolivar.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
+| <p align="center">FT</p> | <p align="right">Flamengo <img src="/static/logos/Flamengo.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Millonarios.png" height="25px"> Millonarios</p> |
 | <p align="center">22:00</p> | <p align="right">Estudiantes <img src="/static/logos/Estudiantes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Huachipato.png" height="25px"> Huachipato</p> |
 | <p align="center">22:00</p> | <p align="right">Gremio <img src="/static/logos/Gremio.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/The Strongest.png" height="25px"> The Strongest</p> |
 </div>
@@ -53,10 +53,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Coquimbo Unido <img src="/static/logos/Coquimbo Unido.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> Red Bull Bragantino</p> |
 | <p align="center">FT</p> | <p align="right">Delfin <img src="/static/logos/Delfin.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Real Tomayapo.png" height="25px"> Real Tomayapo</p> |
 | <p align="center">FT</p> | <p align="right">Racing Club <img src="/static/logos/Racing Club.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Luqueno.png" height="25px"> Luqueno</p> |
 | <p align="center">FT</p> | <p align="right">Internacional <img src="/static/logos/Internacional.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Belgrano.png" height="25px"> Belgrano</p> |
+| <p align="center">FT</p> | <p align="right">Coquimbo Unido <img src="/static/logos/Coquimbo Unido.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> Red Bull Bragantino</p> |
 | <p align="center">22:00</p> | <p align="right">Metropolitanos FC <img src="/static/logos/Metropolitanos FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Garcilaso.png" height="25px"> Deportivo Garcilaso</p> |
 | <p align="center">22:00</p> | <p align="right">Lanus <img src="/static/logos/Lanus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cuiaba.png" height="25px"> Cuiaba</p> |
 </div>
@@ -98,7 +98,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:45</p> | <p align="right">Stal Stalowa Wola <img src="/static/logos/Stal Stalowa Wola.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chojniczanka Chojnice.png" height="25px"> Chojniczanka Chojnice</p> |
+| <p align="center">40'</p> | <p align="right">Stal Stalowa Wola <img src="/static/logos/Stal Stalowa Wola.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chojniczanka Chojnice.png" height="25px"> Chojniczanka Chojnice</p> |
 </div>
 
 
@@ -121,10 +121,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Ajman <img src="/static/logos/Ajman.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bani Yas.png" height="25px"> Bani Yas</p> |
-| <p align="center">90' 1'</p> | <p align="right">Emirates Club <img src="/static/logos/Emirates Club.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Al Bataeh.png" height="25px"> Al Bataeh</p> |
-| <p align="center">17:00</p> | <p align="right">Hatta <img src="/static/logos/Hatta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shabab Al-Ahli Dubai FC.png" height="25px"> Shabab Al-Ahli Dubai FC</p> |
-| <p align="center">17:00</p> | <p align="right">Al-Ain <img src="/static/logos/Al-Ain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Wasl.png" height="25px"> Al-Wasl</p> |
+| <p align="center">FT</p> | <p align="right">Emirates Club <img src="/static/logos/Emirates Club.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Al Bataeh.png" height="25px"> Al Bataeh</p> |
+| <p align="center">FT</p> | <p align="right">Ajman <img src="/static/logos/Ajman.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bani Yas.png" height="25px"> Bani Yas</p> |
+| <p align="center">25'</p> | <p align="right">Al-Ain <img src="/static/logos/Al-Ain.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Al-Wasl.png" height="25px"> Al-Wasl</p> |
+| <p align="center">26'</p> | <p align="right">Hatta <img src="/static/logos/Hatta.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Shabab Al-Ahli Dubai FC.png" height="25px"> Shabab Al-Ahli Dubai FC</p> |
 </div>
 
 
