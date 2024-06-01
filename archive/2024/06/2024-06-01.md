@@ -26,8 +26,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:30</p> | <p align="right">New York Red Bulls <img src="/static/logos/New York Red Bulls.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Orlando City.png" height="25px"> Orlando City</p> |
 | <p align="center">23:30</p> | <p align="right">DC United <img src="/static/logos/DC United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Toronto FC.png" height="25px"> Toronto FC</p> |
+| <p align="center">23:30</p> | <p align="right">New York Red Bulls <img src="/static/logos/New York Red Bulls.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Orlando City.png" height="25px"> Orlando City</p> |
 | <p align="center">23:30</p> | <p align="right">Philadelphia Union <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF Montreal.png" height="25px"> CF Montreal</p> |
 | <p align="center">23:30</p> | <p align="right">Inter Miami CF <img src="/static/logos/Inter Miami CF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
 </div>
@@ -52,7 +52,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Cobreloa <img src="/static/logos/Cobreloa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/O'Higgins.png" height="25px"> O'Higgins</p> |
+| <p align="center">HT</p> | <p align="right">Cobreloa <img src="/static/logos/Cobreloa.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/O'Higgins.png" height="25px"> O'Higgins</p> |
 | <p align="center">21:30</p> | <p align="right">Union Espanola <img src="/static/logos/Union Espanola.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportes Iquique.png" height="25px"> Deportes Iquique</p> |
 </div>
 
@@ -101,7 +101,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">37'</p> | <p align="right">Colon <img src="/static/logos/Colon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atletico Rafaela.png" height="25px"> Atletico Rafaela</p> |
+| <p align="center">50'</p> | <p align="right">Colon <img src="/static/logos/Colon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atletico Rafaela.png" height="25px"> Atletico Rafaela</p> |
 | <p align="center">18:30</p> | <p align="right">Chacarita Juniors <img src="/static/logos/Chacarita Juniors.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico Guemes.png" height="25px"> Atletico Guemes</p> |
 </div>
 
@@ -112,7 +112,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21'</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sport Recife.png" height="25px"> Sport Recife</p> |
+| <p align="center">HT</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sport Recife.png" height="25px"> Sport Recife</p> |
 | <p align="center">20:00</p> | <p align="right">Brusque <img src="/static/logos/Brusque.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Novorizontino.png" height="25px"> Novorizontino</p> |
 </div>
 
@@ -196,8 +196,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">05:00</p> | <p align="right">Omiya Ardija <img src="/static/logos/Omiya Ardija.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nagano Parceiro.png" height="25px"> Nagano Parceiro</p> |
 | <p align="center">05:00</p> | <p align="right">Matsumoto Yamaga <img src="/static/logos/Matsumoto Yamaga.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Imabari FC.png" height="25px"> Imabari FC</p> |
+| <p align="center">05:00</p> | <p align="right">Omiya Ardija <img src="/static/logos/Omiya Ardija.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nagano Parceiro.png" height="25px"> Nagano Parceiro</p> |
 </div>
 
 
@@ -222,8 +222,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Doma United <img src="/static/logos/Doma United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lobi Stars.png" height="25px"> Lobi Stars</p> |
 | <p align="center">15:00</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kano Pillars.png" height="25px"> Kano Pillars</p> |
+| <p align="center">15:00</p> | <p align="right">Doma United <img src="/static/logos/Doma United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lobi Stars.png" height="25px"> Lobi Stars</p> |
 | <p align="center">16:30</p> | <p align="right">Bendel Insurance <img src="/static/logos/Bendel Insurance.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Katsina United.png" height="25px"> Katsina United</p> |
 </div>
 
