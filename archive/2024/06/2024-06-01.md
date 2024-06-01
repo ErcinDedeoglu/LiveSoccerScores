@@ -52,7 +52,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Cobreloa <img src="/static/logos/Cobreloa.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/O'Higgins.png" height="25px"> O'Higgins</p> |
+| <p align="center">FT</p> | <p align="right">Cobreloa <img src="/static/logos/Cobreloa.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/O'Higgins.png" height="25px"> O'Higgins</p> |
 | <p align="center">21:30</p> | <p align="right">Union Espanola <img src="/static/logos/Union Espanola.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportes Iquique.png" height="25px"> Deportes Iquique</p> |
 </div>
 
@@ -63,8 +63,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bolivia.png" height="25px"> Bolivia</p> |
-| <p align="center">25'</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
+| <p align="center">51'</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bolivia.png" height="25px"> Bolivia</p> |
+| <p align="center">40'</p> | <p align="right">Costa Rica <img src="/static/logos/Costa Rica.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
 </div>
 
 
@@ -112,7 +112,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 7'</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Sport Recife.png" height="25px"> Sport Recife</p> |
+| <p align="center">FT</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Sport Recife.png" height="25px"> Sport Recife</p> |
 | <p align="center">20:00</p> | <p align="right">Brusque <img src="/static/logos/Brusque.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Novorizontino.png" height="25px"> Novorizontino</p> |
 </div>
 
