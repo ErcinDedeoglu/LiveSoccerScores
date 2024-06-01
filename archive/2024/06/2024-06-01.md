@@ -185,8 +185,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Oita Trinita <img src="/static/logos/Oita Trinita.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Tokushima Vortis.png" height="25px"> Tokushima Vortis</p> |
 | <p align="center">FT</p> | <p align="right">Fujieda MYFC <img src="/static/logos/Fujieda MYFC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet Kofu</p> |
-| <p align="center">3'</p> | <p align="right">Yokohama FC <img src="/static/logos/Yokohama FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ehime FC.png" height="25px"> Ehime FC</p> |
-| <p align="center">3'</p> | <p align="right">JEF United Chiba <img src="/static/logos/JEF United Chiba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fagiano Okayama FC.png" height="25px"> Fagiano Okayama FC</p> |
+| <p align="center">14'</p> | <p align="right">Yokohama FC <img src="/static/logos/Yokohama FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ehime FC.png" height="25px"> Ehime FC</p> |
+| <p align="center">14'</p> | <p align="right">JEF United Chiba <img src="/static/logos/JEF United Chiba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fagiano Okayama FC.png" height="25px"> Fagiano Okayama FC</p> |
 </div>
 
 
@@ -224,7 +224,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">15:00</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kano Pillars.png" height="25px"> Kano Pillars</p> |
 | <p align="center">15:00</p> | <p align="right">Doma United <img src="/static/logos/Doma United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lobi Stars.png" height="25px"> Lobi Stars</p> |
-| <p align="center">16:30</p> | <p align="right">Bendel Insurance <img src="/static/logos/Bendel Insurance.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Katsina United.png" height="25px"> Katsina United</p> |
+| <p align="center">16:45</p> | <p align="right">Bendel Insurance <img src="/static/logos/Bendel Insurance.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Katsina United.png" height="25px"> Katsina United</p> |
 </div>
 
 
@@ -244,7 +244,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
+| <p align="center">89'</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
 | <p align="center">10:00</p> | <p align="right">Gimcheon Sangmu <img src="/static/logos/Gimcheon Sangmu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
 | <p align="center">10:00</p> | <p align="right">Suwon FC <img src="/static/logos/Suwon FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Incheon United.png" height="25px"> Incheon United</p> |
 </div>
