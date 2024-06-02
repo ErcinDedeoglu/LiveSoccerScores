@@ -102,7 +102,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">41'</p> | <p align="right">Genk <img src="/static/logos/Genk.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gent.png" height="25px"> Gent</p> |
+| <p align="center">HT</p> | <p align="right">Genk <img src="/static/logos/Genk.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gent.png" height="25px"> Gent</p> |
 </div>
 
 
@@ -356,7 +356,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">Djurgaarden <img src="/static/logos/Djurgaarden.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hammarby.png" height="25px"> Hammarby</p> |
+| <p align="center">26'</p> | <p align="right">Djurgaarden <img src="/static/logos/Djurgaarden.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hammarby.png" height="25px"> Hammarby</p> |
 </div>
 
 
