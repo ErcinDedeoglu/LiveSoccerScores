@@ -227,10 +227,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Iwaki FC <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Vegalta Sendai.png" height="25px"> Vegalta Sendai</p> |
-| <p align="center">90' 4'</p> | <p align="right">Mito Hollyhock <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/V-Varen Nagasaki.png" height="25px"> V-Varen Nagasaki</p> |
-| <p align="center">90' 4'</p> | <p align="right">Thespakusatsu Gunma <img src="/static/logos/Thespakusatsu Gunma.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Montedio Yamagata.png" height="25px"> Montedio Yamagata</p> |
-| <p align="center">90' 5'</p> | <p align="right">Renofa Yamaguchi <img src="/static/logos/Renofa Yamaguchi.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu S-Pulse</p> |
-| <p align="center">90' 4'</p> | <p align="right">Kagoshima United <img src="/static/logos/Kagoshima United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blaublitz Akita.png" height="25px"> Blaublitz Akita</p> |
+| <p align="center">90' 13'</p> | <p align="right">Mito Hollyhock <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/V-Varen Nagasaki.png" height="25px"> V-Varen Nagasaki</p> |
+| <p align="center">FT</p> | <p align="right">Thespakusatsu Gunma <img src="/static/logos/Thespakusatsu Gunma.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Montedio Yamagata.png" height="25px"> Montedio Yamagata</p> |
+| <p align="center">FT</p> | <p align="right">Renofa Yamaguchi <img src="/static/logos/Renofa Yamaguchi.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu S-Pulse</p> |
+| <p align="center">FT</p> | <p align="right">Kagoshima United <img src="/static/logos/Kagoshima United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blaublitz Akita.png" height="25px"> Blaublitz Akita</p> |
 | <p align="center">08:00</p> | <p align="right">Tochigi SC <img src="/static/logos/Tochigi SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Roasso Kumamoto.png" height="25px"> Roasso Kumamoto</p> |
 </div>
 
@@ -241,12 +241,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">05:00</p> | <p align="right">Vanraure Hachinohe <img src="/static/logos/Vanraure Hachinohe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zweigen Kanazawa.png" height="25px"> Zweigen Kanazawa</p> |
-| <p align="center">05:00</p> | <p align="right">Azul Claro Numazu <img src="/static/logos/Azul Claro Numazu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kataller Toyama.png" height="25px"> Kataller Toyama</p> |
-| <p align="center">05:00</p> | <p align="right">Fukushima United <img src="/static/logos/Fukushima United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kamatamare Sanuki.png" height="25px"> Kamatamare Sanuki</p> |
-| <p align="center">05:00</p> | <p align="right">SC Sagamihara <img src="/static/logos/SC Sagamihara.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grulla Morioka.png" height="25px"> Grulla Morioka</p> |
-| <p align="center">05:00</p> | <p align="right">Giravanz Kitakyushu <img src="/static/logos/Giravanz Kitakyushu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gainare Tottori.png" height="25px"> Gainare Tottori</p> |
-| <p align="center">05:00</p> | <p align="right">YSCC <img src="/static/logos/YSCC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tegevajaro Miyazaki.png" height="25px"> Tegevajaro Miyazaki</p> |
+| <p align="center">FT</p> | <p align="right">Vanraure Hachinohe <img src="/static/logos/Vanraure Hachinohe.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Zweigen Kanazawa.png" height="25px"> Zweigen Kanazawa</p> |
+| <p align="center">FT</p> | <p align="right">Azul Claro Numazu <img src="/static/logos/Azul Claro Numazu.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kataller Toyama.png" height="25px"> Kataller Toyama</p> |
+| <p align="center">FT</p> | <p align="right">Fukushima United <img src="/static/logos/Fukushima United.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kamatamare Sanuki.png" height="25px"> Kamatamare Sanuki</p> |
+| <p align="center">FT</p> | <p align="right">SC Sagamihara <img src="/static/logos/SC Sagamihara.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Grulla Morioka.png" height="25px"> Grulla Morioka</p> |
+| <p align="center">FT</p> | <p align="right">Giravanz Kitakyushu <img src="/static/logos/Giravanz Kitakyushu.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Gainare Tottori.png" height="25px"> Gainare Tottori</p> |
+| <p align="center">FT</p> | <p align="right">YSCC <img src="/static/logos/YSCC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Tegevajaro Miyazaki.png" height="25px"> Tegevajaro Miyazaki</p> |
 | <p align="center">07:00</p> | <p align="right">FC Osaka <img src="/static/logos/FC Osaka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nara Club.png" height="25px"> Nara Club</p> |
 | <p align="center">10:00</p> | <p align="right">FC Gifu <img src="/static/logos/FC Gifu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Ryukyu.png" height="25px"> FC Ryukyu</p> |
 </div>
