@@ -47,10 +47,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">FT</p> | <p align="right">Namibia <img src="/static/logos/Namibia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
 | <p align="center">FT</p> | <p align="right">Togo <img src="/static/logos/Togo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/South Sudan.png" height="25px"> South Sudan</p> |
 | <p align="center">FT</p> | <p align="right">Central African Republic <img src="/static/logos/Central African Republic.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chad.png" height="25px"> Chad</p> |
 | <p align="center">FT</p> | <p align="right">Sierra Leone <img src="/static/logos/Sierra Leone.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Djibouti.png" height="25px"> Djibouti</p> |
-| <p align="center">FT</p> | <p align="right">Namibia <img src="/static/logos/Namibia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
 | <p align="center">FT</p> | <p align="right">Tunisia <img src="/static/logos/Tunisia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Equatorial Guinea.png" height="25px"> Equatorial Guinea</p> |
 </div>
 
@@ -140,7 +140,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Luqueno <img src="/static/logos/Luqueno.png" height="25px"></p> | <p align="center">2 - 6</p> | <p align="left"><img src="/static/logos/Sportivo Trinidense.png" height="25px"> Sportivo Trinidense</p> |
+| <p align="center">FT</p> | <p align="right">Luqueno <img src="/static/logos/Luqueno.png" height="25px"></p> | <p align="center">2 - 6</p> | <p align="left"><img src="/static/logos/Sportivo Trinidense.png" height="25px"> Sportivo Trinidense</p> |
 | <p align="center">22:00</p> | <p align="right">Olimpia <img src="/static/logos/Olimpia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
 | <p align="center">22:00</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cerro Porteno.png" height="25px"> Cerro Porteno</p> |
 </div>
