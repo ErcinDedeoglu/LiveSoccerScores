@@ -57,9 +57,9 @@
 | <p align="center">14:30</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turkmenistan.png" height="25px"> Turkmenistan</p> |
 | <p align="center">15:00</p> | <p align="right">Kyrgyzstan <img src="/static/logos/Kyrgyzstan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malaysia.png" height="25px"> Malaysia</p> |
 | <p align="center">15:30</p> | <p align="right">Pakistan <img src="/static/logos/Pakistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Saudi Arabia.png" height="25px"> Saudi Arabia</p> |
+| <p align="center">16:00</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qatar.png" height="25px"> Qatar</p> |
 | <p align="center">16:00</p> | <p align="right">Nepal <img src="/static/logos/Nepal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UAE.png" height="25px"> UAE</p> |
 | <p align="center">16:00</p> | <p align="right">Palestine <img src="/static/logos/Palestine.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lebanon.png" height="25px"> Lebanon</p> |
-| <p align="center">16:00</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qatar.png" height="25px"> Qatar</p> |
 | <p align="center">17:30</p> | <p align="right">Jordan <img src="/static/logos/Jordan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tajikistan.png" height="25px"> Tajikistan</p> |
 | <p align="center">17:30</p> | <p align="right">Bahrain <img src="/static/logos/Bahrain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yemen.png" height="25px"> Yemen</p> |
 </div>
@@ -71,7 +71,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
+| <p align="center">56'</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
 | <p align="center">16:00</p> | <p align="right">Gibraltar <img src="/static/logos/Gibraltar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wales.png" height="25px"> Wales</p> |
 | <p align="center">18:45</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
 </div>
@@ -83,7 +83,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">88'</p> | <p align="right">Arsenal Sarandi <img src="/static/logos/Arsenal Sarandi.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Velez Sarsfield.png" height="25px"> Velez Sarsfield</p> |
+| <p align="center">FT</p> | <p align="right">Arsenal Sarandi <img src="/static/logos/Arsenal Sarandi.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Velez Sarsfield.png" height="25px"> Velez Sarsfield</p> |
 </div>
 
 
@@ -93,7 +93,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
+| <p align="center">88'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
 </div>
 
 
