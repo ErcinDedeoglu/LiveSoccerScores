@@ -31,11 +31,11 @@
 | <p align="center">FT</p> | <p align="right">Mauritania <img src="/static/logos/Mauritania.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sudan.png" height="25px"> Sudan</p> |
 | <p align="center">FT</p> | <p align="right">Libya <img src="/static/logos/Libya.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Mauritius.png" height="25px"> Mauritius</p> |
 | <p align="center">FT</p> | <p align="right">Guinea-Bissau <img src="/static/logos/Guinea-Bissau.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ethiopia.png" height="25px"> Ethiopia</p> |
-| <p align="center">HT</p> | <p align="right">Benin <img src="/static/logos/Benin.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Rwanda.png" height="25px"> Rwanda</p> |
-| <p align="center">HT</p> | <p align="right">Mali <img src="/static/logos/Mali.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ghana.png" height="25px"> Ghana</p> |
-| <p align="center">HT</p> | <p align="right">Senegal <img src="/static/logos/Senegal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/DR Congo.png" height="25px"> DR Congo</p> |
-| <p align="center">HT</p> | <p align="right">Egypt <img src="/static/logos/Egypt.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Burkina Faso.png" height="25px"> Burkina Faso</p> |
-| <p align="center">HT</p> | <p align="right">Algeria <img src="/static/logos/Algeria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guinea.png" height="25px"> Guinea</p> |
+| <p align="center">85'</p> | <p align="right">Egypt <img src="/static/logos/Egypt.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Burkina Faso.png" height="25px"> Burkina Faso</p> |
+| <p align="center">87'</p> | <p align="right">Senegal <img src="/static/logos/Senegal.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/DR Congo.png" height="25px"> DR Congo</p> |
+| <p align="center">84'</p> | <p align="right">Benin <img src="/static/logos/Benin.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Rwanda.png" height="25px"> Rwanda</p> |
+| <p align="center">88'</p> | <p align="right">Algeria <img src="/static/logos/Algeria.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Guinea.png" height="25px"> Guinea</p> |
+| <p align="center">84'</p> | <p align="right">Mali <img src="/static/logos/Mali.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ghana.png" height="25px"> Ghana</p> |
 </div>
 
 
@@ -48,10 +48,10 @@
 | <p align="center">FT</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Iraq.png" height="25px"> Iraq</p> |
 | <p align="center">FT</p> | <p align="right">Bangladesh <img src="/static/logos/Bangladesh.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Australia.png" height="25px"> Australia</p> |
 | <p align="center">FT</p> | <p align="right">Chinese Taipei <img src="/static/logos/Chinese Taipei.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Oman.png" height="25px"> Oman</p> |
+| <p align="center">FT</p> | <p align="right">China <img src="/static/logos/China.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Thailand.png" height="25px"> Thailand</p> |
 | <p align="center">FT</p> | <p align="right">Vietnam <img src="/static/logos/Vietnam.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Philippines.png" height="25px"> Philippines</p> |
 | <p align="center">FT</p> | <p align="right">Hong Kong <img src="/static/logos/Hong Kong.png" height="25px"></p> | <p align="center">2 - 4</p> | <p align="left"><img src="/static/logos/Iran.png" height="25px"> Iran</p> |
 | <p align="center">FT</p> | <p align="right">Singapore <img src="/static/logos/Singapore.png" height="25px"></p> | <p align="center">0 - 7</p> | <p align="left"><img src="/static/logos/South Korea.png" height="25px"> South Korea</p> |
-| <p align="center">FT</p> | <p align="right">China <img src="/static/logos/China.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Thailand.png" height="25px"> Thailand</p> |
 | <p align="center">FT</p> | <p align="right">Myanmar <img src="/static/logos/Myanmar.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
 | <p align="center">FT</p> | <p align="right">North Korea <img src="/static/logos/North Korea.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
 | <p align="center">FT</p> | <p align="right">India <img src="/static/logos/India.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kuwait.png" height="25px"> Kuwait</p> |
@@ -74,7 +74,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
 | <p align="center">FT</p> | <p align="right">Gibraltar <img src="/static/logos/Gibraltar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wales.png" height="25px"> Wales</p> |
-| <p align="center">58'</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
+| <p align="center">FT</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
 </div>
 
 
