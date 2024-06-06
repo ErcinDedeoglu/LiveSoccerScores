@@ -57,9 +57,9 @@
 | <p align="center">14:30</p> | <p align="right">Uzbekistan <img src="/static/logos/Uzbekistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turkmenistan.png" height="25px"> Turkmenistan</p> |
 | <p align="center">15:00</p> | <p align="right">Kyrgyzstan <img src="/static/logos/Kyrgyzstan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malaysia.png" height="25px"> Malaysia</p> |
 | <p align="center">15:30</p> | <p align="right">Pakistan <img src="/static/logos/Pakistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Saudi Arabia.png" height="25px"> Saudi Arabia</p> |
+| <p align="center">16:00</p> | <p align="right">Nepal <img src="/static/logos/Nepal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UAE.png" height="25px"> UAE</p> |
 | <p align="center">16:00</p> | <p align="right">Palestine <img src="/static/logos/Palestine.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lebanon.png" height="25px"> Lebanon</p> |
 | <p align="center">16:00</p> | <p align="right">Afghanistan <img src="/static/logos/Afghanistan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qatar.png" height="25px"> Qatar</p> |
-| <p align="center">16:00</p> | <p align="right">Nepal <img src="/static/logos/Nepal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UAE.png" height="25px"> UAE</p> |
 | <p align="center">17:30</p> | <p align="right">Jordan <img src="/static/logos/Jordan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tajikistan.png" height="25px"> Tajikistan</p> |
 | <p align="center">17:30</p> | <p align="right">Bahrain <img src="/static/logos/Bahrain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Yemen.png" height="25px"> Yemen</p> |
 </div>
