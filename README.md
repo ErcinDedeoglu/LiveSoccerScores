@@ -154,8 +154,8 @@
 | <p align="center">HT</p> | <p align="right">Shimizu S-Pulse <img src="/static/logos/Shimizu S-Pulse.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fujieda MYFC.png" height="25px"> Fujieda MYFC</p> |
 | <p align="center">HT</p> | <p align="right">Ventforet Kofu <img src="/static/logos/Ventforet Kofu.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Vegalta Sendai.png" height="25px"> Vegalta Sendai</p> |
 | <p align="center">HT</p> | <p align="right">Tokushima Vortis <img src="/static/logos/Tokushima Vortis.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Yokohama FC.png" height="25px"> Yokohama FC</p> |
-| <p align="center">10:00</p> | <p align="right">Tochigi SC <img src="/static/logos/Tochigi SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thespakusatsu Gunma.png" height="25px"> Thespakusatsu Gunma</p> |
-| <p align="center">10:00</p> | <p align="right">Renofa Yamaguchi <img src="/static/logos/Renofa Yamaguchi.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/JEF United Chiba.png" height="25px"> JEF United Chiba</p> |
+| <p align="center">1'</p> | <p align="right">Tochigi SC <img src="/static/logos/Tochigi SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Thespakusatsu Gunma.png" height="25px"> Thespakusatsu Gunma</p> |
+| <p align="center">1'</p> | <p align="right">Renofa Yamaguchi <img src="/static/logos/Renofa Yamaguchi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/JEF United Chiba.png" height="25px"> JEF United Chiba</p> |
 </div>
 
 
