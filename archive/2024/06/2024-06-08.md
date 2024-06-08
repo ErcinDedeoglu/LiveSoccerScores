@@ -117,8 +117,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Santos FC.png" height="25px"> Santos FC</p> |
 | <p align="center">POS</p> | <p align="right">CRB <img src="/static/logos/CRB.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Botafogo SP.png" height="25px"> Botafogo SP</p> |
-| <p align="center">68'</p> | <p align="right">Guarani <img src="/static/logos/Guarani.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Operario Ferroviario.png" height="25px"> Operario Ferroviario</p> |
-| <p align="center">67'</p> | <p align="right">Amazonas FC <img src="/static/logos/Amazonas FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Brusque.png" height="25px"> Brusque</p> |
+| <p align="center">76'</p> | <p align="right">Guarani <img src="/static/logos/Guarani.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Operario Ferroviario.png" height="25px"> Operario Ferroviario</p> |
+| <p align="center">75'</p> | <p align="right">Amazonas FC <img src="/static/logos/Amazonas FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Brusque.png" height="25px"> Brusque</p> |
 </div>
 
 
@@ -202,7 +202,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Racing <img src="/static/logos/Racing.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Fenix.png" height="25px"> Fenix</p> |
-| <p align="center">HT</p> | <p align="right">Montevideo Wanderers <img src="/static/logos/Montevideo Wanderers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
+| <p align="center">46'</p> | <p align="right">Montevideo Wanderers <img src="/static/logos/Montevideo Wanderers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
 | <p align="center">23:00</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Defensor Sporting.png" height="25px"> Defensor Sporting</p> |
 </div>
 
