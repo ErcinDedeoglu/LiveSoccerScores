@@ -69,7 +69,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Sao Tome and Principe <img src="/static/logos/Sao Tome and Principe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
+| <p align="center">7'</p> | <p align="right">Sao Tome and Principe <img src="/static/logos/Sao Tome and Principe.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Liberia.png" height="25px"> Liberia</p> |
 | <p align="center">16:00</p> | <p align="right">Namibia <img src="/static/logos/Namibia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tunisia.png" height="25px"> Tunisia</p> |
 | <p align="center">16:00</p> | <p align="right">DR Congo <img src="/static/logos/DR Congo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Togo.png" height="25px"> Togo</p> |
 | <p align="center">16:00</p> | <p align="right">Djibouti <img src="/static/logos/Djibouti.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ethiopia.png" height="25px"> Ethiopia</p> |
