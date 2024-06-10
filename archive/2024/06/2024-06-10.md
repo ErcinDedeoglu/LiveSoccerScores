@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Equatorial Guinea <img src="/static/logos/Equatorial Guinea.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Malawi.png" height="25px"> Malawi</p> |
 | <p align="center">FT</p> | <p align="right">Somalia <img src="/static/logos/Somalia.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Botswana.png" height="25px"> Botswana</p> |
+| <p align="center">FT</p> | <p align="right">Equatorial Guinea <img src="/static/logos/Equatorial Guinea.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Malawi.png" height="25px"> Malawi</p> |
 | <p align="center">FT</p> | <p align="right">Benin <img src="/static/logos/Benin.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
 | <p align="center">FT</p> | <p align="right">Uganda <img src="/static/logos/Uganda.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Algeria.png" height="25px"> Algeria</p> |
 | <p align="center">FT</p> | <p align="right">Guinea-Bissau <img src="/static/logos/Guinea-Bissau.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Egypt.png" height="25px"> Egypt</p> |
