@@ -50,9 +50,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
-| <p align="center">HT</p> | <p align="right">South Korea <img src="/static/logos/South Korea.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/China.png" height="25px"> China</p> |
-| <p align="center">12:10</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
+| <p align="center">FT</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Syria.png" height="25px"> Syria</p> |
+| <p align="center">55'</p> | <p align="right">South Korea <img src="/static/logos/South Korea.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/China.png" height="25px"> China</p> |
+| <p align="center">3'</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Palestine.png" height="25px"> Palestine</p> |
 | <p align="center">12:30</p> | <p align="right">Thailand <img src="/static/logos/Thailand.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Singapore.png" height="25px"> Singapore</p> |
 | <p align="center">12:30</p> | <p align="right">Indonesia <img src="/static/logos/Indonesia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Philippines.png" height="25px"> Philippines</p> |
 | <p align="center">13:00</p> | <p align="right">Malaysia <img src="/static/logos/Malaysia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chinese Taipei.png" height="25px"> Chinese Taipei</p> |
