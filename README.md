@@ -40,7 +40,7 @@
 | <p align="center">FT</p> | <p align="right">Seychelles <img src="/static/logos/Seychelles.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Burundi.png" height="25px"> Burundi</p> |
 | <p align="center">FT</p> | <p align="right">Congo <img src="/static/logos/Congo.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Morocco.png" height="25px"> Morocco</p> |
 | <p align="center">FT</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cameroon.png" height="25px"> Cameroon</p> |
-| <p align="center">65'</p> | <p align="right">Gabon <img src="/static/logos/Gabon.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Gambia.png" height="25px"> Gambia</p> |
+| <p align="center">FT</p> | <p align="right">Gabon <img src="/static/logos/Gabon.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Gambia.png" height="25px"> Gambia</p> |
 </div>
 
 
