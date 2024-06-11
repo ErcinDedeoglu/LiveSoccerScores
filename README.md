@@ -38,9 +38,9 @@
 | <p align="center">FT</p> | <p align="right">Chad <img src="/static/logos/Chad.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Comoros.png" height="25px"> Comoros</p> |
 | <p align="center">FT</p> | <p align="right">Cape Verde <img src="/static/logos/Cape Verde.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Libya.png" height="25px"> Libya</p> |
 | <p align="center">HT</p> | <p align="right">Gabon <img src="/static/logos/Gabon.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gambia.png" height="25px"> Gambia</p> |
-| <p align="center">49'</p> | <p align="right">Seychelles <img src="/static/logos/Seychelles.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Burundi.png" height="25px"> Burundi</p> |
-| <p align="center">HT</p> | <p align="right">Congo <img src="/static/logos/Congo.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Morocco.png" height="25px"> Morocco</p> |
-| <p align="center">47'</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cameroon.png" height="25px"> Cameroon</p> |
+| <p align="center">77'</p> | <p align="right">Seychelles <img src="/static/logos/Seychelles.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Burundi.png" height="25px"> Burundi</p> |
+| <p align="center">72'</p> | <p align="right">Congo <img src="/static/logos/Congo.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Morocco.png" height="25px"> Morocco</p> |
+| <p align="center">75'</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cameroon.png" height="25px"> Cameroon</p> |
 </div>
 
 
@@ -84,8 +84,8 @@
 | <p align="center">FT</p> | <p align="right">Moldova <img src="/static/logos/Moldova.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Ukraine.png" height="25px"> Ukraine</p> |
 | <p align="center">FT</p> | <p align="right">Belarus <img src="/static/logos/Belarus.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Israel.png" height="25px"> Israel</p> |
 | <p align="center">FT</p> | <p align="right">San Marino <img src="/static/logos/San Marino.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Cyprus.png" height="25px"> Cyprus</p> |
-| <p align="center">64'</p> | <p align="right">Northern Ireland <img src="/static/logos/Northern Ireland.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
-| <p align="center">59'</p> | <p align="right">Portugal <img src="/static/logos/Portugal.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ireland.png" height="25px"> Ireland</p> |
+| <p align="center">90' 2'</p> | <p align="right">Northern Ireland <img src="/static/logos/Northern Ireland.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
+| <p align="center">87'</p> | <p align="right">Portugal <img src="/static/logos/Portugal.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Ireland.png" height="25px"> Ireland</p> |
 </div>
 
 
