@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">Gimnasia Jujuy <img src="/static/logos/Gimnasia Jujuy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chacarita Juniors.png" height="25px"> Chacarita Juniors</p> |
+| <p align="center">49'</p> | <p align="right">Gimnasia Jujuy <img src="/static/logos/Gimnasia Jujuy.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chacarita Juniors.png" height="25px"> Chacarita Juniors</p> |
 </div>
 
 
@@ -113,7 +113,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Eibar <img src="/static/logos/Eibar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Oviedo.png" height="25px"> Real Oviedo</p> |
+| <p align="center">23'</p> | <p align="right">Eibar <img src="/static/logos/Eibar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Oviedo.png" height="25px"> Real Oviedo</p> |
 </div>
 
 
