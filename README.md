@@ -47,7 +47,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">40'</p> | <p align="right">Sampaio Correa <img src="/static/logos/Sampaio Correa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Caxias.png" height="25px"> Caxias</p> |
+| <p align="center">HT</p> | <p align="right">Sampaio Correa <img src="/static/logos/Sampaio Correa.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Caxias.png" height="25px"> Caxias</p> |
 </div>
 
 
