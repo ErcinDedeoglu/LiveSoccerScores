@@ -102,7 +102,7 @@
 | <p align="center">FT</p> | <p align="right">Kwara United <img src="/static/logos/Kwara United.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kano Pillars.png" height="25px"> Kano Pillars</p> |
 | <p align="center">FT</p> | <p align="right">Remo Stars <img src="/static/logos/Remo Stars.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Heartland Owerri.png" height="25px"> Heartland Owerri</p> |
 | <p align="center">FT</p> | <p align="right">Sporting Lagos <img src="/static/logos/Sporting Lagos.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Plateau United.png" height="25px"> Plateau United</p> |
-| <p align="center">HT</p> | <p align="right">Bendel Insurance <img src="/static/logos/Bendel Insurance.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Rivers United FC.png" height="25px"> Rivers United FC</p> |
+| <p align="center">54'</p> | <p align="right">Bendel Insurance <img src="/static/logos/Bendel Insurance.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Rivers United FC.png" height="25px"> Rivers United FC</p> |
 | <p align="center">HT</p> | <p align="right">Shooting Stars <img src="/static/logos/Shooting Stars.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Enugu Rangers.png" height="25px"> Enugu Rangers</p> |
 </div>
 
