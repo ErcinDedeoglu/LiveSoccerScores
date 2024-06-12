@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 4'</p> | <p align="right">Red Bull Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
+| <p align="center">77'</p> | <p align="right">Red Bull Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
 </div>
 
 
@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">53'</p> | <p align="right">Chile <img src="/static/logos/Chile.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Paraguay.png" height="25px"> Paraguay</p> |
+| <p align="center">FT</p> | <p align="right">Chile <img src="/static/logos/Chile.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Paraguay.png" height="25px"> Paraguay</p> |
 | <p align="center">23:00</p> | <p align="right">USA <img src="/static/logos/USA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brazil.png" height="25px"> Brazil</p> |
 </div>
 
