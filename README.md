@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 1'</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Scotland.png" height="25px"> Scotland</p> |
+| <p align="center">HT</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Scotland.png" height="25px"> Scotland</p> |
 </div>
 
 
