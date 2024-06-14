@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scotland.png" height="25px"> Scotland</p> |
+| <p align="center">31'</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Scotland.png" height="25px"> Scotland</p> |
 </div>
 
 
@@ -54,7 +54,7 @@
 | <p align="center">FT</p> | <p align="right">MC El Bayadh <img src="/static/logos/MC El Bayadh.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ben Aknoun.png" height="25px"> Ben Aknoun</p> |
 | <p align="center">FT</p> | <p align="right">JS Saoura <img src="/static/logos/JS Saoura.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CR Belouizdad.png" height="25px"> CR Belouizdad</p> |
 | <p align="center">FT</p> | <p align="right">CS Constantine <img src="/static/logos/CS Constantine.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/ES Setif.png" height="25px"> ES Setif</p> |
-| <p align="center">61'</p> | <p align="right">MC Alger <img src="/static/logos/MC Alger.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
+| <p align="center">FT</p> | <p align="right">MC Alger <img src="/static/logos/MC Alger.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/MC Oran.png" height="25px"> MC Oran</p> |
 </div>
 
 
@@ -85,13 +85,13 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">FAR Rabat <img src="/static/logos/FAR Rabat.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FUS Rabat.png" height="25px"> FUS Rabat</p> |
-| <p align="center">73'</p> | <p align="right">MAS Fes <img src="/static/logos/MAS Fes.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Olympic Club de Safi.png" height="25px"> Olympic Club de Safi</p> |
-| <p align="center">76'</p> | <p align="right">Ittihad Tanger <img src="/static/logos/Ittihad Tanger.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chabab Mohammedia.png" height="25px"> Chabab Mohammedia</p> |
-| <p align="center">76'</p> | <p align="right">Union Touarga Sport <img src="/static/logos/Union Touarga Sport.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Hassania Agadir.png" height="25px"> Hassania Agadir</p> |
-| <p align="center">70'</p> | <p align="right">MCO Oujda <img src="/static/logos/MCO Oujda.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Raja Casablanca.png" height="25px"> Raja Casablanca</p> |
-| <p align="center">75'</p> | <p align="right">Youssoufia Berrechid <img src="/static/logos/Youssoufia Berrechid.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Salmi.png" height="25px"> Salmi</p> |
-| <p align="center">72'</p> | <p align="right">Wydad Casablanca <img src="/static/logos/Wydad Casablanca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/MAT Tetouan.png" height="25px"> MAT Tetouan</p> |
+| <p align="center">FT</p> | <p align="right">FAR Rabat <img src="/static/logos/FAR Rabat.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/FUS Rabat.png" height="25px"> FUS Rabat</p> |
+| <p align="center">FT</p> | <p align="right">MAS Fes <img src="/static/logos/MAS Fes.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Olympic Club de Safi.png" height="25px"> Olympic Club de Safi</p> |
+| <p align="center">FT</p> | <p align="right">Ittihad Tanger <img src="/static/logos/Ittihad Tanger.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chabab Mohammedia.png" height="25px"> Chabab Mohammedia</p> |
+| <p align="center">FT</p> | <p align="right">Union Touarga Sport <img src="/static/logos/Union Touarga Sport.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Hassania Agadir.png" height="25px"> Hassania Agadir</p> |
+| <p align="center">FT</p> | <p align="right">MCO Oujda <img src="/static/logos/MCO Oujda.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Raja Casablanca.png" height="25px"> Raja Casablanca</p> |
+| <p align="center">FT</p> | <p align="right">Youssoufia Berrechid <img src="/static/logos/Youssoufia Berrechid.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Salmi.png" height="25px"> Salmi</p> |
+| <p align="center">FT</p> | <p align="right">Wydad Casablanca <img src="/static/logos/Wydad Casablanca.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/MAT Tetouan.png" height="25px"> MAT Tetouan</p> |
 </div>
 
 
@@ -101,7 +101,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Huelva <img src="/static/logos/Huelva.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Real Madrid Femenino.png" height="25px"> Real Madrid Femenino</p> |
+| <p align="center">FT</p> | <p align="right">Huelva <img src="/static/logos/Huelva.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Real Madrid Femenino.png" height="25px"> Real Madrid Femenino</p> |
 </div>
 
 
