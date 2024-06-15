@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Hungary <img src="/static/logos/Hungary.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Switzerland.png" height="25px"> Switzerland</p> |
-| <p align="center">74'</p> | <p align="right">Spain <img src="/static/logos/Spain.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Croatia.png" height="25px"> Croatia</p> |
+| <p align="center">81'</p> | <p align="right">Spain <img src="/static/logos/Spain.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Croatia.png" height="25px"> Croatia</p> |
 | <p align="center">19:00</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Albania.png" height="25px"> Albania</p> |
 </div>
 
@@ -46,7 +46,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Kansas City Current <img src="/static/logos/Kansas City Current.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Chicago Red Stars.png" height="25px"> Chicago Red Stars</p> |
-| <p align="center">64'</p> | <p align="right">Racing Louisville <img src="/static/logos/Racing Louisville.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/NJ/NY Gotham FC.png" height="25px"> NJ/NY Gotham FC</p> |
+| <p align="center">72'</p> | <p align="right">Racing Louisville <img src="/static/logos/Racing Louisville.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/NJ/NY Gotham FC.png" height="25px"> NJ/NY Gotham FC</p> |
 | <p align="center">23:30</p> | <p align="right">Washington Spirit <img src="/static/logos/Washington Spirit.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Diego Wave FC.png" height="25px"> San Diego Wave FC</p> |
 | <p align="center">23:30</p> | <p align="right">North Carolina Courage <img src="/static/logos/North Carolina Courage.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Orlando Pride.png" height="25px"> Orlando Pride</p> |
 </div>
@@ -130,8 +130,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">50'</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Gol Gohar.png" height="25px"> Gol Gohar</p> |
-| <p align="center">HT</p> | <p align="right">Aluminium Arak <img src="/static/logos/Aluminium Arak.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Mes Rafsanjan</p> |
+| <p align="center">58'</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Gol Gohar.png" height="25px"> Gol Gohar</p> |
+| <p align="center">52'</p> | <p align="right">Aluminium Arak <img src="/static/logos/Aluminium Arak.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Mes Rafsanjan.png" height="25px"> Mes Rafsanjan</p> |
 </div>
 
 
@@ -203,7 +203,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Etoile du Sahel <img src="/static/logos/Etoile du Sahel.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CS Sfaxien.png" height="25px"> CS Sfaxien</p> |
+| <p align="center">FT</p> | <p align="right">Etoile du Sahel <img src="/static/logos/Etoile du Sahel.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/CS Sfaxien.png" height="25px"> CS Sfaxien</p> |
 | <p align="center">18:00</p> | <p align="right">Esperance <img src="/static/logos/Esperance.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/US Monastir.png" height="25px"> US Monastir</p> |
 </div>
 
