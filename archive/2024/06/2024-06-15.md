@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Hungary <img src="/static/logos/Hungary.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Switzerland.png" height="25px"> Switzerland</p> |
 | <p align="center">FT</p> | <p align="right">Spain <img src="/static/logos/Spain.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Croatia.png" height="25px"> Croatia</p> |
-| <p align="center">49'</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Albania.png" height="25px"> Albania</p> |
+| <p align="center">90' 3'</p> | <p align="right">Italy <img src="/static/logos/Italy.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Albania.png" height="25px"> Albania</p> |
 </div>
 
 
@@ -28,14 +28,14 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:30</p> | <p align="right">Philadelphia Union <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inter Miami CF.png" height="25px"> Inter Miami CF</p> |
-| <p align="center">23:30</p> | <p align="right">New England Revolution <img src="/static/logos/New England Revolution.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps.png" height="25px"> Vancouver Whitecaps</p> |
 | <p align="center">23:30</p> | <p align="right">New York Red Bulls <img src="/static/logos/New York Red Bulls.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nashville SC.png" height="25px"> Nashville SC</p> |
 | <p align="center">23:30</p> | <p align="right">Orlando City <img src="/static/logos/Orlando City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Los Angeles FC.png" height="25px"> Los Angeles FC</p> |
 | <p align="center">23:30</p> | <p align="right">CF Montreal <img src="/static/logos/CF Montreal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Salt Lake.png" height="25px"> Real Salt Lake</p> |
 | <p align="center">23:30</p> | <p align="right">Atlanta United <img src="/static/logos/Atlanta United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Houston Dynamo FC.png" height="25px"> Houston Dynamo FC</p> |
 | <p align="center">23:30</p> | <p align="right">Charlotte FC <img src="/static/logos/Charlotte FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/DC United.png" height="25px"> DC United</p> |
 | <p align="center">23:30</p> | <p align="right">Toronto FC <img src="/static/logos/Toronto FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago Fire FC</p> |
+| <p align="center">23:30</p> | <p align="right">Philadelphia Union <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inter Miami CF.png" height="25px"> Inter Miami CF</p> |
+| <p align="center">23:30</p> | <p align="right">New England Revolution <img src="/static/logos/New England Revolution.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps.png" height="25px"> Vancouver Whitecaps</p> |
 </div>
 
 
@@ -81,8 +81,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Yokohama F.Marinos <img src="/static/logos/Yokohama F.Marinos.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Machida Zelvia.png" height="25px"> Machida Zelvia</p> |
 | <p align="center">FT</p> | <p align="right">Sanfrecce Hiroshima <img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Tokyo Verdy.png" height="25px"> Tokyo Verdy</p> |
-| <p align="center">FT</p> | <p align="right">Cerezo Osaka <img src="/static/logos/Cerezo Osaka.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa Red Diamonds</p> |
 | <p align="center">FT</p> | <p align="right">Kyoto Sanga FC <img src="/static/logos/Kyoto Sanga FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"> Hokkaido Consadole Sapporo</p> |
+| <p align="center">FT</p> | <p align="right">Cerezo Osaka <img src="/static/logos/Cerezo Osaka.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa Red Diamonds</p> |
 </div>
 
 
@@ -93,8 +93,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Comunicaciones <img src="/static/logos/Comunicaciones.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Acassuso.png" height="25px"> Acassuso</p> |
-| <p align="center">FT</p> | <p align="right">Deportivo Armenio <img src="/static/logos/Deportivo Armenio.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Excursionistas.png" height="25px"> Excursionistas</p> |
 | <p align="center">FT</p> | <p align="right">Villa Dalmine <img src="/static/logos/Villa Dalmine.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Flandria.png" height="25px"> Flandria</p> |
+| <p align="center">FT</p> | <p align="right">Deportivo Armenio <img src="/static/logos/Deportivo Armenio.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Excursionistas.png" height="25px"> Excursionistas</p> |
 | <p align="center">FT</p> | <p align="right">Villa San Carlos <img src="/static/logos/Villa San Carlos.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Dock Sud.png" height="25px"> Dock Sud</p> |
 </div>
 
@@ -106,8 +106,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Avai FC <img src="/static/logos/Avai FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
-| <p align="center">80'</p> | <p align="right">America MG <img src="/static/logos/America MG.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
-| <p align="center">7'</p> | <p align="right">Ponte Preta <img src="/static/logos/Ponte Preta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Novorizontino.png" height="25px"> Novorizontino</p> |
+| <p align="center">FT</p> | <p align="right">America MG <img src="/static/logos/America MG.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
+| <p align="center">45' 6'</p> | <p align="right">Ponte Preta <img src="/static/logos/Ponte Preta.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Novorizontino.png" height="25px"> Novorizontino</p> |
 | <p align="center">21:00</p> | <p align="right">Ituano FC <img src="/static/logos/Ituano FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paysandu.png" height="25px"> Paysandu</p> |
 </div>
 
@@ -118,8 +118,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Aparecidense <img src="/static/logos/Aparecidense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tombense FC.png" height="25px"> Tombense FC</p> |
-| <p align="center">8'</p> | <p align="right">CS Alagoano <img src="/static/logos/CS Alagoano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo PB.png" height="25px"> Botafogo PB</p> |
+| <p align="center">HT</p> | <p align="right">Aparecidense <img src="/static/logos/Aparecidense.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Tombense FC.png" height="25px"> Tombense FC</p> |
+| <p align="center">HT</p> | <p align="right">CS Alagoano <img src="/static/logos/CS Alagoano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo PB.png" height="25px"> Botafogo PB</p> |
 | <p align="center">22:30</p> | <p align="right">Athletic Club <img src="/static/logos/Athletic Club.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ferroviario.png" height="25px"> Ferroviario</p> |
 </div>
 
@@ -215,7 +215,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">River Plate <img src="/static/logos/River Plate.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Maldonado.png" height="25px"> Deportivo Maldonado</p> |
-| <p align="center">20:30</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Liverpool FC.png" height="25px"> Liverpool FC</p> |
+| <p align="center">22'</p> | <p align="right">Nacional <img src="/static/logos/Nacional.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Liverpool FC.png" height="25px"> Liverpool FC</p> |
 </div>
 
 
@@ -225,7 +225,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">78'</p> | <p align="right">Cerrito <img src="/static/logos/Cerrito.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Albion.png" height="25px"> Albion</p> |
+| <p align="center">FT</p> | <p align="right">Cerrito <img src="/static/logos/Cerrito.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Albion.png" height="25px"> Albion</p> |
 </div>
 
 
@@ -235,8 +235,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Hartford Athletic <img src="/static/logos/Hartford Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh Riverhounds SC</p> |
 | <p align="center">23:00</p> | <p align="right">Indy Eleven <img src="/static/logos/Indy Eleven.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Antonio FC.png" height="25px"> San Antonio FC</p> |
+| <p align="center">23:00</p> | <p align="right">Hartford Athletic <img src="/static/logos/Hartford Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pittsburgh Riverhounds SC.png" height="25px"> Pittsburgh Riverhounds SC</p> |
 </div>
 
 
