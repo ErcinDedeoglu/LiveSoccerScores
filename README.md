@@ -91,7 +91,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki Frontale</p> |
+| <p align="center">51'</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kawasaki Frontale.png" height="25px"> Kawasaki Frontale</p> |
 | <p align="center">06:30</p> | <p align="right">Avispa Fukuoka <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan Tosu</p> |
 | <p align="center">09:00</p> | <p align="right">Nagoya Grampus <img src="/static/logos/Nagoya Grampus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shonan Bellmare.png" height="25px"> Shonan Bellmare</p> |
 | <p align="center">09:00</p> | <p align="right">Gamba Osaka <img src="/static/logos/Gamba Osaka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kashiwa Reysol.png" height="25px"> Kashiwa Reysol</p> |
@@ -150,13 +150,13 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">15:00</p> | <p align="right">Samartex <img src="/static/logos/Samartex.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Accra Lions.png" height="25px"> Accra Lions</p> |
+| <p align="center">15:00</p> | <p align="right">Medeama SC <img src="/static/logos/Medeama SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Karela United.png" height="25px"> Karela United</p> |
+| <p align="center">15:00</p> | <p align="right">Kotoko <img src="/static/logos/Kotoko.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bofoakwa Tano.png" height="25px"> Bofoakwa Tano</p> |
 | <p align="center">15:00</p> | <p align="right">Legon Cities FC <img src="/static/logos/Legon Cities FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bibiani Gold Stars.png" height="25px"> Bibiani Gold Stars</p> |
 | <p align="center">15:00</p> | <p align="right">Bechem United <img src="/static/logos/Bechem United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hearts of Oak.png" height="25px"> Hearts of Oak</p> |
 | <p align="center">15:00</p> | <p align="right">Great Olympics <img src="/static/logos/Great Olympics.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Tamale.png" height="25px"> Real Tamale</p> |
 | <p align="center">15:00</p> | <p align="right">Berekum Chelsea <img src="/static/logos/Berekum Chelsea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Heart of Lions.png" height="25px"> Heart of Lions</p> |
 | <p align="center">15:00</p> | <p align="right">Nsoatreman <img src="/static/logos/Nsoatreman.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nations FC.png" height="25px"> Nations FC</p> |
-| <p align="center">15:00</p> | <p align="right">Medeama SC <img src="/static/logos/Medeama SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Karela United.png" height="25px"> Karela United</p> |
-| <p align="center">15:00</p> | <p align="right">Kotoko <img src="/static/logos/Kotoko.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bofoakwa Tano.png" height="25px"> Bofoakwa Tano</p> |
 </div>
 
 
@@ -201,10 +201,10 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">13:00</p> | <p align="right">Bayelsa United <img src="/static/logos/Bayelsa United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
-| <p align="center">15:00</p> | <p align="right">Sporting Lagos <img src="/static/logos/Sporting Lagos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
-| <p align="center">15:00</p> | <p align="right">Enugu Rangers <img src="/static/logos/Enugu Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Insurance</p> |
 | <p align="center">15:00</p> | <p align="right">Sunshine Stars <img src="/static/logos/Sunshine Stars.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
 | <p align="center">15:00</p> | <p align="right">Abia Warriors <img src="/static/logos/Abia Warriors.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Akwa United.png" height="25px"> Akwa United</p> |
+| <p align="center">15:00</p> | <p align="right">Sporting Lagos <img src="/static/logos/Sporting Lagos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
+| <p align="center">15:00</p> | <p align="right">Enugu Rangers <img src="/static/logos/Enugu Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Insurance</p> |
 </div>
 
 
@@ -214,8 +214,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:00</p> | <p align="right">Jeonbuk Hyundai Motors FC <img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Incheon United.png" height="25px"> Incheon United</p> |
 | <p align="center">09:00</p> | <p align="right">Ulsan HD FC <img src="/static/logos/Ulsan HD FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Seoul.png" height="25px"> FC Seoul</p> |
+| <p align="center">09:00</p> | <p align="right">Jeonbuk Hyundai Motors FC <img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Incheon United.png" height="25px"> Incheon United</p> |
 | <p align="center">10:00</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
 </div>
 
