@@ -139,7 +139,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 3'</p> | <p align="right">Al Mokawloon Al Arab <img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
+| <p align="center">HT</p> | <p align="right">Al Mokawloon Al Arab <img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
 </div>
 
 
@@ -149,14 +149,14 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Kotoko <img src="/static/logos/Kotoko.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Bofoakwa Tano.png" height="25px"> Bofoakwa Tano</p> |
-| <p align="center">87'</p> | <p align="right">Nsoatreman <img src="/static/logos/Nsoatreman.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nations FC.png" height="25px"> Nations FC</p> |
-| <p align="center">87'</p> | <p align="right">Bechem United <img src="/static/logos/Bechem United.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Hearts of Oak.png" height="25px"> Hearts of Oak</p> |
-| <p align="center">76'</p> | <p align="right">Samartex <img src="/static/logos/Samartex.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Accra Lions.png" height="25px"> Accra Lions</p> |
-| <p align="center">82'</p> | <p align="right">Legon Cities FC <img src="/static/logos/Legon Cities FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bibiani Gold Stars.png" height="25px"> Bibiani Gold Stars</p> |
+| <p align="center">50'</p> | <p align="right">Kotoko <img src="/static/logos/Kotoko.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Bofoakwa Tano.png" height="25px"> Bofoakwa Tano</p> |
+| <p align="center">90' 5'</p> | <p align="right">Nsoatreman <img src="/static/logos/Nsoatreman.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nations FC.png" height="25px"> Nations FC</p> |
+| <p align="center">FT</p> | <p align="right">Bechem United <img src="/static/logos/Bechem United.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Hearts of Oak.png" height="25px"> Hearts of Oak</p> |
+| <p align="center">84'</p> | <p align="right">Samartex <img src="/static/logos/Samartex.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Accra Lions.png" height="25px"> Accra Lions</p> |
+| <p align="center">90'</p> | <p align="right">Legon Cities FC <img src="/static/logos/Legon Cities FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bibiani Gold Stars.png" height="25px"> Bibiani Gold Stars</p> |
 | <p align="center">FT</p> | <p align="right">Great Olympics <img src="/static/logos/Great Olympics.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Real Tamale.png" height="25px"> Real Tamale</p> |
-| <p align="center">87'</p> | <p align="right">Berekum Chelsea <img src="/static/logos/Berekum Chelsea.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Heart of Lions.png" height="25px"> Heart of Lions</p> |
-| <p align="center">89'</p> | <p align="right">Medeama SC <img src="/static/logos/Medeama SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Karela United.png" height="25px"> Karela United</p> |
+| <p align="center">90' 4'</p> | <p align="right">Berekum Chelsea <img src="/static/logos/Berekum Chelsea.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Heart of Lions.png" height="25px"> Heart of Lions</p> |
+| <p align="center">90' 6'</p> | <p align="right">Medeama SC <img src="/static/logos/Medeama SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Karela United.png" height="25px"> Karela United</p> |
 </div>
 
 
@@ -200,11 +200,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Abia Warriors <img src="/static/logos/Abia Warriors.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Akwa United.png" height="25px"> Akwa United</p> |
-| <p align="center">77'</p> | <p align="right">Bayelsa United <img src="/static/logos/Bayelsa United.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
-| <p align="center">87'</p> | <p align="right">Sunshine Stars <img src="/static/logos/Sunshine Stars.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
-| <p align="center">89'</p> | <p align="right">Sporting Lagos <img src="/static/logos/Sporting Lagos.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
-| <p align="center">77'</p> | <p align="right">Enugu Rangers <img src="/static/logos/Enugu Rangers.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Insurance</p> |
+| <p align="center">FT</p> | <p align="right">Abia Warriors <img src="/static/logos/Abia Warriors.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Akwa United.png" height="25px"> Akwa United</p> |
+| <p align="center">85'</p> | <p align="right">Bayelsa United <img src="/static/logos/Bayelsa United.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Shooting Stars.png" height="25px"> Shooting Stars</p> |
+| <p align="center">90' 5'</p> | <p align="right">Sunshine Stars <img src="/static/logos/Sunshine Stars.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Remo Stars.png" height="25px"> Remo Stars</p> |
+| <p align="center">FT</p> | <p align="right">Sporting Lagos <img src="/static/logos/Sporting Lagos.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Enyimba.png" height="25px"> Enyimba</p> |
+| <p align="center">85'</p> | <p align="right">Enugu Rangers <img src="/static/logos/Enugu Rangers.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bendel Insurance.png" height="25px"> Bendel Insurance</p> |
 </div>
 
 
@@ -227,7 +227,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Valencia Femenino <img src="/static/logos/Valencia Femenino.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Barcelona.png" height="25px"> Barcelona</p> |
-| <p align="center">87'</p> | <p align="right">Athletic Bilbao <img src="/static/logos/Athletic Bilbao.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Sevilla.png" height="25px"> Sevilla</p> |
+| <p align="center">90' 5'</p> | <p align="right">Athletic Bilbao <img src="/static/logos/Athletic Bilbao.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Sevilla.png" height="25px"> Sevilla</p> |
 </div>
 
 
@@ -237,7 +237,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Real Oviedo <img src="/static/logos/Real Oviedo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Espanyol.png" height="25px"> Espanyol</p> |
+| <p align="center">23'</p> | <p align="right">Real Oviedo <img src="/static/logos/Real Oviedo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Espanyol.png" height="25px"> Espanyol</p> |
 </div>
 
 
@@ -247,7 +247,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Fenix <img src="/static/logos/Fenix.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Montevideo Wanderers.png" height="25px"> Montevideo Wanderers</p> |
+| <p align="center">67'</p> | <p align="right">Fenix <img src="/static/logos/Fenix.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Montevideo Wanderers.png" height="25px"> Montevideo Wanderers</p> |
 | <p align="center">21:00</p> | <p align="right">Club Atletico Penarol <img src="/static/logos/Club Atletico Penarol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Racing.png" height="25px"> Racing</p> |
 </div>
 
