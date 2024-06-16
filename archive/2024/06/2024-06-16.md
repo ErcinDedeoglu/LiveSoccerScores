@@ -166,8 +166,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Iwaki FC <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet Kofu</p> |
-| <p align="center">43'</p> | <p align="right">Mito Hollyhock <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blaublitz Akita.png" height="25px"> Blaublitz Akita</p> |
+| <p align="center">90' 3'</p> | <p align="right">Iwaki FC <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet Kofu</p> |
+| <p align="center">HT</p> | <p align="right">Mito Hollyhock <img src="/static/logos/Mito Hollyhock.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blaublitz Akita.png" height="25px"> Blaublitz Akita</p> |
 | <p align="center">09:00</p> | <p align="right">Oita Trinita <img src="/static/logos/Oita Trinita.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi SC</p> |
 | <p align="center">09:00</p> | <p align="right">Vegalta Sendai <img src="/static/logos/Vegalta Sendai.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/V-Varen Nagasaki.png" height="25px"> V-Varen Nagasaki</p> |
 | <p align="center">09:00</p> | <p align="right">Ehime FC <img src="/static/logos/Ehime FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shimizu S-Pulse.png" height="25px"> Shimizu S-Pulse</p> |
