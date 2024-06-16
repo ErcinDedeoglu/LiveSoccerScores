@@ -57,10 +57,10 @@
 | <p align="center">FT</p> | <p align="right">Athletico Paranaense <img src="/static/logos/Athletico Paranaense.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Flamengo.png" height="25px"> Flamengo</p> |
 | <p align="center">FT</p> | <p align="right">Corinthians <img src="/static/logos/Corinthians.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Sao Paulo.png" height="25px"> Sao Paulo</p> |
 | <p align="center">FT</p> | <p align="right">Vitoria <img src="/static/logos/Vitoria.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
-| <p align="center">73'</p> | <p align="right">Criciuma <img src="/static/logos/Criciuma.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Bahia.png" height="25px"> Bahia</p> |
-| <p align="center">74'</p> | <p align="right">Gremio <img src="/static/logos/Gremio.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
-| <p align="center">68'</p> | <p align="right">Cuiaba <img src="/static/logos/Cuiaba.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
-| <p align="center">73'</p> | <p align="right">Vasco da Gama <img src="/static/logos/Vasco da Gama.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cruzeiro.png" height="25px"> Cruzeiro</p> |
+| <p align="center">83'</p> | <p align="right">Criciuma <img src="/static/logos/Criciuma.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Bahia.png" height="25px"> Bahia</p> |
+| <p align="center">84'</p> | <p align="right">Gremio <img src="/static/logos/Gremio.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
+| <p align="center">79'</p> | <p align="right">Cuiaba <img src="/static/logos/Cuiaba.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
+| <p align="center">84'</p> | <p align="right">Vasco da Gama <img src="/static/logos/Vasco da Gama.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cruzeiro.png" height="25px"> Cruzeiro</p> |
 </div>
 
 
@@ -117,8 +117,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Brusque <img src="/static/logos/Brusque.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ceara.png" height="25px"> Ceara</p> |
-| <p align="center">72'</p> | <p align="right">Sport Recife <img src="/static/logos/Sport Recife.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mirassol.png" height="25px"> Mirassol</p> |
-| <p align="center">72'</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Coritiba.png" height="25px"> Coritiba</p> |
+| <p align="center">82'</p> | <p align="right">Sport Recife <img src="/static/logos/Sport Recife.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mirassol.png" height="25px"> Mirassol</p> |
+| <p align="center">82'</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Coritiba.png" height="25px"> Coritiba</p> |
 </div>
 
 
@@ -129,7 +129,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Remo <img src="/static/logos/Remo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ypiranga RS.png" height="25px"> Ypiranga RS</p> |
-| <p align="center">POS</p> | <p align="right">Caxias <img src="/static/logos/Caxias.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Ferroviaria.png" height="25px"> Ferroviaria</p> |
+| <p align="center">2'</p> | <p align="right">Caxias <img src="/static/logos/Caxias.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ferroviaria.png" height="25px"> Ferroviaria</p> |
 </div>
 
 
