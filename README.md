@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Romania <img src="/static/logos/Romania.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Ukraine.png" height="25px"> Ukraine</p> |
 | <p align="center">FT</p> | <p align="right">Belgium <img src="/static/logos/Belgium.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Slovakia.png" height="25px"> Slovakia</p> |
-| <p align="center">90' 7'</p> | <p align="right">Austria <img src="/static/logos/Austria.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/France.png" height="25px"> France</p> |
+| <p align="center">FT</p> | <p align="right">Austria <img src="/static/logos/Austria.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/France.png" height="25px"> France</p> |
 </div>
 
 
