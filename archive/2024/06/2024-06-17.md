@@ -22,16 +22,6 @@
 </div>
 
 
-## <img src="/static/logos/USA-NWSL.png" height="25px"> USA - NWSL
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Bay FC <img src="/static/logos/Bay FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Utah Royals.png" height="25px"> Utah Royals</p> |
-</div>
-
-
 ## <img src="/static/logos/Brazil-Serie A.png" height="25px"> Brazil - Serie A
 
 <div align="center">
