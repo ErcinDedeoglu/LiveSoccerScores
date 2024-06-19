@@ -134,7 +134,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 5'</p> | <p align="right">Las Vegas Lights FC <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Colorado Springs Switchbacks FC</p> |
+| <p align="center">HT</p> | <p align="right">Las Vegas Lights FC <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Colorado Springs Switchbacks FC.png" height="25px"> Colorado Springs Switchbacks FC</p> |
 </div>
 
 
