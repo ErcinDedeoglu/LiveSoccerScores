@@ -69,7 +69,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Negeri Sembilan <img src="/static/logos/Negeri Sembilan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kuala Lumpur City.png" height="25px"> Kuala Lumpur City</p> |
+| <p align="center">1'</p> | <p align="right">Negeri Sembilan <img src="/static/logos/Negeri Sembilan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kuala Lumpur City.png" height="25px"> Kuala Lumpur City</p> |
 </div>
 
 
