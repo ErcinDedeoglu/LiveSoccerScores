@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Georgia <img src="/static/logos/Georgia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Czechia.png" height="25px"> Czechia</p> |
-| <p align="center">81'</p> | <p align="right">Turkiye <img src="/static/logos/Turkiye.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Portugal.png" height="25px"> Portugal</p> |
+| <p align="center">FT</p> | <p align="right">Turkiye <img src="/static/logos/Turkiye.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Portugal.png" height="25px"> Portugal</p> |
 | <p align="center">19:00</p> | <p align="right">Belgium <img src="/static/logos/Belgium.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Romania.png" height="25px"> Romania</p> |
 </div>
 
@@ -106,9 +106,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Comunicaciones <img src="/static/logos/Comunicaciones.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Excursionistas.png" height="25px"> Excursionistas</p> |
-| <p align="center">18:00</p> | <p align="right">Villa San Carlos <img src="/static/logos/Villa San Carlos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Colegiales.png" height="25px"> Colegiales</p> |
-| <p align="center">18:00</p> | <p align="right">Flandria <img src="/static/logos/Flandria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dock Sud.png" height="25px"> Dock Sud</p> |
+| <p align="center">FT</p> | <p align="right">Comunicaciones <img src="/static/logos/Comunicaciones.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Excursionistas.png" height="25px"> Excursionistas</p> |
+| <p align="center">11'</p> | <p align="right">Villa San Carlos <img src="/static/logos/Villa San Carlos.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colegiales.png" height="25px"> Colegiales</p> |
+| <p align="center">11'</p> | <p align="right">Flandria <img src="/static/logos/Flandria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dock Sud.png" height="25px"> Dock Sud</p> |
 </div>
 
 
@@ -118,9 +118,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Almagro <img src="/static/logos/Almagro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nueva Chicago.png" height="25px"> Nueva Chicago</p> |
-| <p align="center">18:00</p> | <p align="right">Tristan Suarez <img src="/static/logos/Tristan Suarez.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/All Boys.png" height="25px"> All Boys</p> |
-| <p align="center">18:00</p> | <p align="right">Brown de Adrogue <img src="/static/logos/Brown de Adrogue.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Moron.png" height="25px"> Deportivo Moron</p> |
+| <p align="center">3'</p> | <p align="right">Almagro <img src="/static/logos/Almagro.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nueva Chicago.png" height="25px"> Nueva Chicago</p> |
+| <p align="center">11'</p> | <p align="right">Tristan Suarez <img src="/static/logos/Tristan Suarez.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/All Boys.png" height="25px"> All Boys</p> |
+| <p align="center">11'</p> | <p align="right">Brown de Adrogue <img src="/static/logos/Brown de Adrogue.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Moron.png" height="25px"> Deportivo Moron</p> |
 </div>
 
 
@@ -141,7 +141,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">50'</p> | <p align="right">Deportes Copiapo <img src="/static/logos/Deportes Copiapo.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Cobresal.png" height="25px"> Cobresal</p> |
+| <p align="center">85'</p> | <p align="right">Deportes Copiapo <img src="/static/logos/Deportes Copiapo.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Cobresal.png" height="25px"> Cobresal</p> |
 </div>
 
 
@@ -151,8 +151,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
-| <p align="center">73'</p> | <p align="right">Tala'ea El Gaish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha SC</p> |
+| <p align="center">FT</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
+| <p align="center">FT</p> | <p align="right">Tala'ea El Gaish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha SC</p> |
 </div>
 
 
@@ -231,7 +231,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cerro <img src="/static/logos/Cerro.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Danubio.png" height="25px"> Danubio</p> |
 | <p align="center">FT</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Fenix.png" height="25px"> Fenix</p> |
-| <p align="center">18:00</p> | <p align="right">Racing <img src="/static/logos/Racing.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Defensor Sporting.png" height="25px"> Defensor Sporting</p> |
+| <p align="center">13'</p> | <p align="right">Racing <img src="/static/logos/Racing.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Defensor Sporting.png" height="25px"> Defensor Sporting</p> |
 </div>
 
 
