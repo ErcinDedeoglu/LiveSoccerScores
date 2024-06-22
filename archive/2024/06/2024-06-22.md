@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">Georgia <img src="/static/logos/Georgia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Czechia.png" height="25px"> Czechia</p> |
+| <p align="center">87'</p> | <p align="right">Georgia <img src="/static/logos/Georgia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Czechia.png" height="25px"> Czechia</p> |
 | <p align="center">16:00</p> | <p align="right">Turkiye <img src="/static/logos/Turkiye.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Portugal.png" height="25px"> Portugal</p> |
 | <p align="center">19:00</p> | <p align="right">Belgium <img src="/static/logos/Belgium.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Romania.png" height="25px"> Romania</p> |
 </div>
@@ -78,7 +78,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">FC Zuerich <img src="/static/logos/FC Zuerich.png" height="25px"></p> | <p align="center">5 - 4</p> | <p align="left"><img src="/static/logos/FC Wil 1900.png" height="25px"> FC Wil 1900</p> |
-| <p align="center">65'</p> | <p align="right">Brechin <img src="/static/logos/Brechin.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Dundee United.png" height="25px"> Dundee United</p> |
+| <p align="center">88'</p> | <p align="right">Brechin <img src="/static/logos/Brechin.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Dundee United.png" height="25px"> Dundee United</p> |
 </div>
 
 
@@ -196,7 +196,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Johor Darul Ta'zim <img src="/static/logos/Johor Darul Ta'zim.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Sri Pahang.png" height="25px"> Sri Pahang</p> |
 | <p align="center">FT</p> | <p align="right">Kuching City <img src="/static/logos/Kuching City.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Terengganu.png" height="25px"> Terengganu</p> |
-| <p align="center">64'</p> | <p align="right">Penang <img src="/static/logos/Penang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kedah Darul Aman.png" height="25px"> Kedah Darul Aman</p> |
+| <p align="center">87'</p> | <p align="right">Penang <img src="/static/logos/Penang.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kedah Darul Aman.png" height="25px"> Kedah Darul Aman</p> |
 </div>
 
 
@@ -229,7 +229,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">Cerro <img src="/static/logos/Cerro.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Danubio.png" height="25px"> Danubio</p> |
+| <p align="center">90' 1'</p> | <p align="right">Cerro <img src="/static/logos/Cerro.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Danubio.png" height="25px"> Danubio</p> |
 | <p align="center">15:30</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenix.png" height="25px"> Fenix</p> |
 | <p align="center">18:00</p> | <p align="right">Racing <img src="/static/logos/Racing.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Defensor Sporting.png" height="25px"> Defensor Sporting</p> |
 </div>
