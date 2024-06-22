@@ -29,7 +29,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Peru <img src="/static/logos/Peru.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chile.png" height="25px"> Chile</p> |
-| <p align="center">44'</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
+| <p align="center">HT</p> | <p align="right">Ecuador <img src="/static/logos/Ecuador.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
 </div>
 
 
@@ -67,7 +67,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Criciuma <img src="/static/logos/Criciuma.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
 | <p align="center">FT</p> | <p align="right">Gremio <img src="/static/logos/Gremio.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
-| <p align="center">57'</p> | <p align="right">Cuiaba <img src="/static/logos/Cuiaba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atletico GO.png" height="25px"> Atletico GO</p> |
+| <p align="center">64'</p> | <p align="right">Cuiaba <img src="/static/logos/Cuiaba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atletico GO.png" height="25px"> Atletico GO</p> |
 </div>
 
 
