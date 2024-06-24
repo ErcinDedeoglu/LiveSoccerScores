@@ -27,7 +27,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">Uruguay <img src="/static/logos/Uruguay.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
+| <p align="center">81'</p> | <p align="right">Uruguay <img src="/static/logos/Uruguay.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
 | <p align="center">22:00</p> | <p align="right">Colombia <img src="/static/logos/Colombia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paraguay.png" height="25px"> Paraguay</p> |
 </div>
 
