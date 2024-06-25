@@ -18,8 +18,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Austria.png" height="25px"> Austria</p> |
 | <p align="center">FT</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Poland.png" height="25px"> Poland</p> |
-| <p align="center">23'</p> | <p align="right">England <img src="/static/logos/England.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Slovenia.png" height="25px"> Slovenia</p> |
-| <p align="center">23'</p> | <p align="right">Denmark <img src="/static/logos/Denmark.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Serbia.png" height="25px"> Serbia</p> |
+| <p align="center">HT</p> | <p align="right">England <img src="/static/logos/England.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Slovenia.png" height="25px"> Slovenia</p> |
+| <p align="center">HT</p> | <p align="right">Denmark <img src="/static/logos/Denmark.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Serbia.png" height="25px"> Serbia</p> |
 </div>
 
 
