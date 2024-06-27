@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Venezuela <img src="/static/logos/Venezuela.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mexico.png" height="25px"> Mexico</p> |
-| <p align="center">81'</p> | <p align="right">Panama <img src="/static/logos/Panama.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/USA.png" height="25px"> USA</p> |
+| <p align="center">88'</p> | <p align="right">Panama <img src="/static/logos/Panama.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/USA.png" height="25px"> USA</p> |
 </div>
 
 
@@ -30,8 +30,8 @@
 | <p align="center">FT</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Vasco da Gama.png" height="25px"> Vasco da Gama</p> |
 | <p align="center">FT</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Palmeiras.png" height="25px"> Palmeiras</p> |
 | <p align="center">FT</p> | <p align="right">Internacional <img src="/static/logos/Internacional.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
-| <p align="center">83'</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vitoria.png" height="25px"> Vitoria</p> |
-| <p align="center">40'</p> | <p align="right">Sao Paulo <img src="/static/logos/Sao Paulo.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
+| <p align="center">90'</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Vitoria.png" height="25px"> Vitoria</p> |
+| <p align="center">45' 3'</p> | <p align="right">Sao Paulo <img src="/static/logos/Sao Paulo.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
 </div>
 
 
@@ -52,7 +52,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ferroviario <img src="/static/logos/Ferroviario.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ferroviaria.png" height="25px"> Ferroviaria</p> |
-| <p align="center">43'</p> | <p align="right">Confianca <img src="/static/logos/Confianca.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CS Alagoano.png" height="25px"> CS Alagoano</p> |
+| <p align="center">HT</p> | <p align="right">Confianca <img src="/static/logos/Confianca.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CS Alagoano.png" height="25px"> CS Alagoano</p> |
 </div>
 
 
