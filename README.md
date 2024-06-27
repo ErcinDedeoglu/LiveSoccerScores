@@ -41,7 +41,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">67'</p> | <p align="right">FC Copenhagen <img src="/static/logos/FC Copenhagen.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Silkeborg.png" height="25px"> Silkeborg</p> |
+| <p align="center">84'</p> | <p align="right">FC Copenhagen <img src="/static/logos/FC Copenhagen.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Silkeborg.png" height="25px"> Silkeborg</p> |
 </div>
 
 
