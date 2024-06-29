@@ -75,8 +75,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Huntly <img src="/static/logos/Huntly.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/St. Johnstone.png" height="25px"> St. Johnstone</p> |
-| <p align="center">64'</p> | <p align="right">Arbroath <img src="/static/logos/Arbroath.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Dundee FC.png" height="25px"> Dundee FC</p> |
-| <p align="center">22'</p> | <p align="right">Salzburg <img src="/static/logos/Salzburg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Unterhaching.png" height="25px"> Unterhaching</p> |
+| <p align="center">FT</p> | <p align="right">Arbroath <img src="/static/logos/Arbroath.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Dundee FC.png" height="25px"> Dundee FC</p> |
+| <p align="center">HT</p> | <p align="right">Salzburg <img src="/static/logos/Salzburg.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Unterhaching.png" height="25px"> Unterhaching</p> |
 </div>
 
 
@@ -147,7 +147,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Baladiyat ElMahalla SC <img src="/static/logos/Baladiyat ElMahalla SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ENPPI.png" height="25px"> ENPPI</p> |
-| <p align="center">HT</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
+| <p align="center">63'</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
 | <p align="center">16:00</p> | <p align="right">Zamalek SC <img src="/static/logos/Zamalek SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ceramica Cleopatra.png" height="25px"> Ceramica Cleopatra</p> |
 </div>
 
