@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Switzerland <img src="/static/logos/Switzerland.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Italy.png" height="25px"> Italy</p> |
-| <p align="center">35'</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
+| <p align="center">19:00</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
 </div>
 
 
@@ -98,10 +98,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Deportivo Merlo <img src="/static/logos/Deportivo Merlo.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Armenio.png" height="25px"> Deportivo Armenio</p> |
-| <p align="center">71'</p> | <p align="right">San Martin Burzaco <img src="/static/logos/San Martin Burzaco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sportivo Italiano.png" height="25px"> Sportivo Italiano</p> |
-| <p align="center">75'</p> | <p align="right">Canuelas <img src="/static/logos/Canuelas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CA Fenix.png" height="25px"> CA Fenix</p> |
-| <p align="center">HT</p> | <p align="right">Ciudad de Bolivar <img src="/static/logos/Ciudad de Bolivar.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Huracan Las Heras.png" height="25px"> Huracan Las Heras</p> |
+| <p align="center">90' 6'</p> | <p align="right">Deportivo Merlo <img src="/static/logos/Deportivo Merlo.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Deportivo Armenio.png" height="25px"> Deportivo Armenio</p> |
+| <p align="center">90' 3'</p> | <p align="right">San Martin Burzaco <img src="/static/logos/San Martin Burzaco.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sportivo Italiano.png" height="25px"> Sportivo Italiano</p> |
+| <p align="center">FT</p> | <p align="right">Canuelas <img src="/static/logos/Canuelas.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CA Fenix.png" height="25px"> CA Fenix</p> |
+| <p align="center">67'</p> | <p align="right">Ciudad de Bolivar <img src="/static/logos/Ciudad de Bolivar.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Huracan Las Heras.png" height="25px"> Huracan Las Heras</p> |
 | <p align="center">20:05</p> | <p align="right">Colegiales <img src="/static/logos/Colegiales.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Flandria.png" height="25px"> Flandria</p> |
 </div>
 
@@ -136,7 +136,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Deportes Iquique <img src="/static/logos/Deportes Iquique.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Antofagasta.png" height="25px"> Antofagasta</p> |
-| <p align="center">36'</p> | <p align="right">Cobresal <img src="/static/logos/Cobresal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportes Copiapo.png" height="25px"> Deportes Copiapo</p> |
+| <p align="center">HT</p> | <p align="right">Cobresal <img src="/static/logos/Cobresal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportes Copiapo.png" height="25px"> Deportes Copiapo</p> |
 </div>
 
 
