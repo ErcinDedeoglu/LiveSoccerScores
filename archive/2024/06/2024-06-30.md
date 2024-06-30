@@ -108,9 +108,9 @@
 | <p align="center">FT</p> | <p align="right">Cerezo Osaka <img src="/static/logos/Cerezo Osaka.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Nagoya Grampus.png" height="25px"> Nagoya Grampus</p> |
 | <p align="center">FT</p> | <p align="right">FC Tokyo <img src="/static/logos/FC Tokyo.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Avispa Fukuoka.png" height="25px"> Avispa Fukuoka</p> |
 | <p align="center">FT</p> | <p align="right">Urawa Red Diamonds <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Jubilo Iwata.png" height="25px"> Jubilo Iwata</p> |
-| <p align="center">75'</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Kashiwa Reysol.png" height="25px"> Kashiwa Reysol</p> |
-| <p align="center">78'</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Kashima Antlers.png" height="25px"> Kashima Antlers</p> |
-| <p align="center">80'</p> | <p align="right">Shonan Bellmare <img src="/static/logos/Shonan Bellmare.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto Sanga FC</p> |
+| <p align="center">82'</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Kashiwa Reysol.png" height="25px"> Kashiwa Reysol</p> |
+| <p align="center">86'</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Kashima Antlers.png" height="25px"> Kashima Antlers</p> |
+| <p align="center">87'</p> | <p align="right">Shonan Bellmare <img src="/static/logos/Shonan Bellmare.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto Sanga FC</p> |
 </div>
 
 
@@ -177,7 +177,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Blaublitz Akita <img src="/static/logos/Blaublitz Akita.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Montedio Yamagata.png" height="25px"> Montedio Yamagata</p> |
 | <p align="center">FT</p> | <p align="right">Shimizu S-Pulse <img src="/static/logos/Shimizu S-Pulse.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Fagiano Okayama FC.png" height="25px"> Fagiano Okayama FC</p> |
-| <p align="center">79'</p> | <p align="right">JEF United Chiba <img src="/static/logos/JEF United Chiba.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Kagoshima United.png" height="25px"> Kagoshima United</p> |
+| <p align="center">87'</p> | <p align="right">JEF United Chiba <img src="/static/logos/JEF United Chiba.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Kagoshima United.png" height="25px"> Kagoshima United</p> |
 </div>
 
 
@@ -199,8 +199,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Pohang Steelers <img src="/static/logos/Pohang Steelers.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ulsan HD FC.png" height="25px"> Ulsan HD FC</p> |
-| <p align="center">77'</p> | <p align="right">Gwangju FC <img src="/static/logos/Gwangju FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
-| <p align="center">82'</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gangwon FC.png" height="25px"> Gangwon FC</p> |
+| <p align="center">85'</p> | <p align="right">Gwangju FC <img src="/static/logos/Gwangju FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
+| <p align="center">90'</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gangwon FC.png" height="25px"> Gangwon FC</p> |
 </div>
 
 
@@ -223,13 +223,13 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">Khanh Hoa FC <img src="/static/logos/Khanh Hoa FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh City FC</p> |
-| <p align="center">77'</p> | <p align="right">Hong Linh Ha Tinh <img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Thanh Hoa FC.png" height="25px"> Thanh Hoa FC</p> |
-| <p align="center">83'</p> | <p align="right">QNK Quang Nam <img src="/static/logos/QNK Quang Nam.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Nam Dinh.png" height="25px"> Nam Dinh</p> |
-| <p align="center">80'</p> | <p align="right">Binh Dinh <img src="/static/logos/Binh Dinh.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Cong An Ha Noi.png" height="25px"> Cong An Ha Noi</p> |
-| <p align="center">81'</p> | <p align="right">Ha Noi FC <img src="/static/logos/Ha Noi FC.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Binh Duong.png" height="25px"> Binh Duong</p> |
-| <p align="center">78'</p> | <p align="right">Viettel <img src="/static/logos/Viettel.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Song Lam Nghe An.png" height="25px"> Song Lam Nghe An</p> |
-| <p align="center">79'</p> | <p align="right">Hoang Anh Gia Lai <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Hai Phong.png" height="25px"> Hai Phong</p> |
+| <p align="center">90' 1'</p> | <p align="right">Khanh Hoa FC <img src="/static/logos/Khanh Hoa FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Ho Chi Minh City FC.png" height="25px"> Ho Chi Minh City FC</p> |
+| <p align="center">85'</p> | <p align="right">Hong Linh Ha Tinh <img src="/static/logos/Hong Linh Ha Tinh.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Thanh Hoa FC.png" height="25px"> Thanh Hoa FC</p> |
+| <p align="center">90' 1'</p> | <p align="right">QNK Quang Nam <img src="/static/logos/QNK Quang Nam.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Nam Dinh.png" height="25px"> Nam Dinh</p> |
+| <p align="center">88'</p> | <p align="right">Binh Dinh <img src="/static/logos/Binh Dinh.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Cong An Ha Noi.png" height="25px"> Cong An Ha Noi</p> |
+| <p align="center">88'</p> | <p align="right">Ha Noi FC <img src="/static/logos/Ha Noi FC.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Binh Duong.png" height="25px"> Binh Duong</p> |
+| <p align="center">85'</p> | <p align="right">Viettel <img src="/static/logos/Viettel.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Song Lam Nghe An.png" height="25px"> Song Lam Nghe An</p> |
+| <p align="center">87'</p> | <p align="right">Hoang Anh Gia Lai <img src="/static/logos/Hoang Anh Gia Lai.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Hai Phong.png" height="25px"> Hai Phong</p> |
 </div>
 
 
