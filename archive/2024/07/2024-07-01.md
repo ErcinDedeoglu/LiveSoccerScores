@@ -38,7 +38,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
+| <p align="center">10'</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
 </div>
 
 
@@ -48,7 +48,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Nautico <img src="/static/logos/Nautico.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Confianca.png" height="25px"> Confianca</p> |
+| <p align="center">12'</p> | <p align="right">Nautico <img src="/static/logos/Nautico.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Confianca.png" height="25px"> Confianca</p> |
 </div>
 
 
