@@ -27,8 +27,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
 | <p align="center">FT</p> | <p align="right">Mexico <img src="/static/logos/Mexico.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ecuador.png" height="25px"> Ecuador</p> |
+| <p align="center">FT</p> | <p align="right">Jamaica <img src="/static/logos/Jamaica.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Venezuela.png" height="25px"> Venezuela</p> |
 </div>
 
 
@@ -38,7 +38,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10'</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
+| <p align="center">HT</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
 </div>
 
 
@@ -48,7 +48,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">Nautico <img src="/static/logos/Nautico.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Confianca.png" height="25px"> Confianca</p> |
+| <p align="center">HT</p> | <p align="right">Nautico <img src="/static/logos/Nautico.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Confianca.png" height="25px"> Confianca</p> |
 </div>
 
 
