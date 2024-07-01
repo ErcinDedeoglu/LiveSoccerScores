@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belgium.png" height="25px"> Belgium</p> |
+| <p align="center">HT</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Belgium.png" height="25px"> Belgium</p> |
 | <p align="center">19:00</p> | <p align="right">Portugal <img src="/static/logos/Portugal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slovenia.png" height="25px"> Slovenia</p> |
 </div>
 
@@ -58,8 +58,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
-| <p align="center">17:00</p> | <p align="right">Tala'ea El Gaish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
+| <p align="center">HT</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
+| <p align="center">HT</p> | <p align="right">Tala'ea El Gaish <img src="/static/logos/Tala'ea El Gaish.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
 </div>
 
 
