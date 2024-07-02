@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Romania <img src="/static/logos/Romania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Netherlands.png" height="25px"> Netherlands</p> |
+| <p align="center">45' 4'</p> | <p align="right">Romania <img src="/static/logos/Romania.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Netherlands.png" height="25px"> Netherlands</p> |
 | <p align="center">19:00</p> | <p align="right">Austria <img src="/static/logos/Austria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Turkiye.png" height="25px"> Turkiye</p> |
 </div>
 
@@ -27,8 +27,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">USA <img src="/static/logos/USA.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
 | <p align="center">FT</p> | <p align="right">Bolivia <img src="/static/logos/Bolivia.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Panama.png" height="25px"> Panama</p> |
+| <p align="center">FT</p> | <p align="right">USA <img src="/static/logos/USA.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Uruguay.png" height="25px"> Uruguay</p> |
 </div>
 
 
@@ -38,7 +38,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">BSC Young Boys <img src="/static/logos/BSC Young Boys.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Neuchatel Xamax FCS.png" height="25px"> Neuchatel Xamax FCS</p> |
+| <p align="center">FT</p> | <p align="right">BSC Young Boys <img src="/static/logos/BSC Young Boys.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Neuchatel Xamax FCS.png" height="25px"> Neuchatel Xamax FCS</p> |
 | <p align="center">15:00</p> | <p align="right">LASK <img src="/static/logos/LASK.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CFR Cluj.png" height="25px"> CFR Cluj</p> |
 </div>
 
@@ -61,7 +61,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"> Al Mokawloon Al Arab</p> |
+| <p align="center">42'</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"> Al Mokawloon Al Arab</p> |
 | <p align="center">17:00</p> | <p align="right">Smouha SC <img src="/static/logos/Smouha SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids FC</p> |
 </div>
 
