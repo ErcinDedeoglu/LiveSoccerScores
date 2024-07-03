@@ -56,8 +56,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">13:00</p> | <p align="right">MSV Duisburg <img src="/static/logos/MSV Duisburg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hibernian.png" height="25px"> Hibernian</p> |
 | <p align="center">15:00</p> | <p align="right">Go Ahead Eagles <img src="/static/logos/Go Ahead Eagles.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Telstar.png" height="25px"> Telstar</p> |
-| <p align="center">15:00</p> | <p align="right">MSV Duisburg <img src="/static/logos/MSV Duisburg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hibernian.png" height="25px"> Hibernian</p> |
 | <p align="center">17:00</p> | <p align="right">Banik Ostrava <img src="/static/logos/Banik Ostrava.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dundee FC.png" height="25px"> Dundee FC</p> |
 </div>
 
