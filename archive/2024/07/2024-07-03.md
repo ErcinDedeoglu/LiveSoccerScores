@@ -44,7 +44,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Red Bull Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
 | <p align="center">POS</p> | <p align="right">Cuiaba <img src="/static/logos/Cuiaba.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Juventude.png" height="25px"> Juventude</p> |
-| <p align="center">22:00</p> | <p align="right">Cuiaba <img src="/static/logos/Cuiaba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
+| <p align="center">9'</p> | <p align="right">Cuiaba <img src="/static/logos/Cuiaba.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
 | <p align="center">23:00</p> | <p align="right">Criciuma <img src="/static/logos/Criciuma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cruzeiro.png" height="25px"> Cruzeiro</p> |
 | <p align="center">23:00</p> | <p align="right">Vasco da Gama <img src="/static/logos/Vasco da Gama.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 </div>
