@@ -61,7 +61,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">FC Stade Lausanne-Ouchy <img src="/static/logos/FC Stade Lausanne-Ouchy.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Braga.png" height="25px"> Braga</p> |
 | <p align="center">FT</p> | <p align="right">Ajax <img src="/static/logos/Ajax.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/PEC Zwolle.png" height="25px"> PEC Zwolle</p> |
-| <p align="center">HT</p> | <p align="right">FC Basel 1893 <img src="/static/logos/FC Basel 1893.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Eintracht Braunschweig.png" height="25px"> Eintracht Braunschweig</p> |
+| <p align="center">FT</p> | <p align="right">FC Basel 1893 <img src="/static/logos/FC Basel 1893.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Eintracht Braunschweig.png" height="25px"> Eintracht Braunschweig</p> |
 | <p align="center">18:45</p> | <p align="right">Ayr <img src="/static/logos/Ayr.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Celtic.png" height="25px"> Celtic</p> |
 </div>
 
@@ -102,7 +102,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:00</p> | <p align="right">Comoros <img src="/static/logos/Comoros.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Angola.png" height="25px"> Angola</p> |
+| <p align="center">FT</p> | <p align="right">Comoros <img src="/static/logos/Comoros.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Angola.png" height="25px"> Angola</p> |
 | <p align="center">16:00</p> | <p align="right">Mozambique <img src="/static/logos/Mozambique.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Namibia.png" height="25px"> Namibia</p> |
 </div>
 
