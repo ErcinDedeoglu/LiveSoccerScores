@@ -69,8 +69,8 @@
 | <p align="center">19:00</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fluminense.png" height="25px"> Fluminense</p> |
 | <p align="center">21:00</p> | <p align="right">Internacional <img src="/static/logos/Internacional.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vasco da Gama.png" height="25px"> Vasco da Gama</p> |
 | <p align="center">21:30</p> | <p align="right">Vitoria <img src="/static/logos/Vitoria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
-| <p align="center">21:30</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bahia.png" height="25px"> Bahia</p> |
 | <p align="center">21:30</p> | <p align="right">Atletico GO <img src="/static/logos/Atletico GO.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Athletico Paranaense.png" height="25px"> Athletico Paranaense</p> |
+| <p align="center">21:30</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bahia.png" height="25px"> Bahia</p> |
 | <p align="center">23:30</p> | <p align="right">Botafogo RJ <img src="/static/logos/Botafogo RJ.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
 </div>
 
@@ -91,7 +91,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Avispa Fukuoka <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto Sanga FC</p> |
+| <p align="center">18'</p> | <p align="right">Avispa Fukuoka <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto Sanga FC</p> |
 </div>
 
 
@@ -101,8 +101,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Olimpo <img src="/static/logos/Olimpo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sol de Mayo.png" height="25px"> Sol de Mayo</p> |
 | <p align="center">18:00</p> | <p align="right">Circulo Deportivo <img src="/static/logos/Circulo Deportivo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Santamarina.png" height="25px"> Santamarina</p> |
+| <p align="center">18:00</p> | <p align="right">Olimpo <img src="/static/logos/Olimpo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sol de Mayo.png" height="25px"> Sol de Mayo</p> |
 </div>
 
 
@@ -194,7 +194,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Ehime FC <img src="/static/logos/Ehime FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thespakusatsu Gunma.png" height="25px"> Thespakusatsu Gunma</p> |
+| <p align="center">19'</p> | <p align="right">Ehime FC <img src="/static/logos/Ehime FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Thespakusatsu Gunma.png" height="25px"> Thespakusatsu Gunma</p> |
 </div>
 
 
@@ -219,8 +219,8 @@
 | <p align="center">FT</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Toluca.png" height="25px"> Toluca</p> |
 | <p align="center">18:00</p> | <p align="right">Puebla <img src="/static/logos/Puebla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
 | <p align="center">18:00</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
-| <p align="center">23:00</p> | <p align="right">Queretaro <img src="/static/logos/Queretaro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Tijuana.png" height="25px"> Club Tijuana</p> |
 | <p align="center">23:00</p> | <p align="right">Atletico de San Luis <img src="/static/logos/Atletico de San Luis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mazatlan FC.png" height="25px"> Mazatlan FC</p> |
+| <p align="center">23:00</p> | <p align="right">Queretaro <img src="/static/logos/Queretaro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Tijuana.png" height="25px"> Club Tijuana</p> |
 </div>
 
 
@@ -240,8 +240,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Gangwon FC <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
-| <p align="center">10:00</p> | <p align="right">Daejeon Hana Citizen <img src="/static/logos/Daejeon Hana Citizen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
+| <p align="center">22'</p> | <p align="right">Gangwon FC <img src="/static/logos/Gangwon FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
+| <p align="center">22'</p> | <p align="right">Daejeon Hana Citizen <img src="/static/logos/Daejeon Hana Citizen.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Jeonbuk Hyundai Motors FC.png" height="25px"> Jeonbuk Hyundai Motors FC</p> |
 </div>
 
 
