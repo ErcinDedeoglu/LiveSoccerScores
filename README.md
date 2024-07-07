@@ -42,7 +42,7 @@
 | <p align="center">FT</p> | <p align="right">Angel City FC <img src="/static/logos/Angel City FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/NJ/NY Gotham FC.png" height="25px"> NJ/NY Gotham FC</p> |
 | <p align="center">FT</p> | <p align="right">Bay FC <img src="/static/logos/Bay FC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Washington Spirit.png" height="25px"> Washington Spirit</p> |
 | <p align="center">FT</p> | <p align="right">North Carolina Courage <img src="/static/logos/North Carolina Courage.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Racing Louisville.png" height="25px"> Racing Louisville</p> |
-| <p align="center">45' 7'</p> | <p align="right">Seattle Reign FC <img src="/static/logos/Seattle Reign FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Utah Royals.png" height="25px"> Utah Royals</p> |
+| <p align="center">HT</p> | <p align="right">Seattle Reign FC <img src="/static/logos/Seattle Reign FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Utah Royals.png" height="25px"> Utah Royals</p> |
 </div>
 
 
@@ -68,10 +68,10 @@
 | <p align="center">FT</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Fluminense.png" height="25px"> Fluminense</p> |
 | <p align="center">FT</p> | <p align="right">Cruzeiro <img src="/static/logos/Cruzeiro.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
 | <p align="center">FT</p> | <p align="right">Juventude <img src="/static/logos/Juventude.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Gremio.png" height="25px"> Gremio</p> |
-| <p align="center">90' 5'</p> | <p align="right">Internacional <img src="/static/logos/Internacional.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Vasco da Gama.png" height="25px"> Vasco da Gama</p> |
-| <p align="center">64'</p> | <p align="right">Vitoria <img src="/static/logos/Vitoria.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
-| <p align="center">68'</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bahia.png" height="25px"> Bahia</p> |
-| <p align="center">71'</p> | <p align="right">Atletico GO <img src="/static/logos/Atletico GO.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Athletico Paranaense.png" height="25px"> Athletico Paranaense</p> |
+| <p align="center">FT</p> | <p align="right">Internacional <img src="/static/logos/Internacional.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Vasco da Gama.png" height="25px"> Vasco da Gama</p> |
+| <p align="center">75'</p> | <p align="right">Vitoria <img src="/static/logos/Vitoria.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
+| <p align="center">79'</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Bahia.png" height="25px"> Bahia</p> |
+| <p align="center">82'</p> | <p align="right">Atletico GO <img src="/static/logos/Atletico GO.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Athletico Paranaense.png" height="25px"> Athletico Paranaense</p> |
 | <p align="center">23:30</p> | <p align="right">Botafogo RJ <img src="/static/logos/Botafogo RJ.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
 </div>
 
@@ -129,7 +129,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Coritiba <img src="/static/logos/Coritiba.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Paysandu.png" height="25px"> Paysandu</p> |
 | <p align="center">FT</p> | <p align="right">Ituano FC <img src="/static/logos/Ituano FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Botafogo SP.png" height="25px"> Botafogo SP</p> |
-| <p align="center">67'</p> | <p align="right">Guarani <img src="/static/logos/Guarani.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sport Recife.png" height="25px"> Sport Recife</p> |
+| <p align="center">78'</p> | <p align="right">Guarani <img src="/static/logos/Guarani.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sport Recife.png" height="25px"> Sport Recife</p> |
 </div>
 
 
@@ -139,8 +139,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Confianca <img src="/static/logos/Confianca.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ypiranga RS.png" height="25px"> Ypiranga RS</p> |
-| <p align="center">HT</p> | <p align="right">Tombense FC <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nautico.png" height="25px"> Nautico</p> |
+| <p align="center">51'</p> | <p align="right">Confianca <img src="/static/logos/Confianca.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ypiranga RS.png" height="25px"> Ypiranga RS</p> |
+| <p align="center">51'</p> | <p align="right">Tombense FC <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nautico.png" height="25px"> Nautico</p> |
 </div>
 
 
