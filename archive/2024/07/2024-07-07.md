@@ -91,7 +91,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 5'</p> | <p align="right">Avispa Fukuoka <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto Sanga FC</p> |
+| <p align="center">FT</p> | <p align="right">Avispa Fukuoka <img src="/static/logos/Avispa Fukuoka.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto Sanga FC</p> |
 </div>
 
 
@@ -183,7 +183,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Comoros <img src="/static/logos/Comoros.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mozambique.png" height="25px"> Mozambique</p> |
+| <p align="center">FT</p> | <p align="right">Comoros <img src="/static/logos/Comoros.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Mozambique.png" height="25px"> Mozambique</p> |
 | <p align="center">13:00</p> | <p align="right">Angola <img src="/static/logos/Angola.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Namibia.png" height="25px"> Namibia</p> |
 </div>
 
