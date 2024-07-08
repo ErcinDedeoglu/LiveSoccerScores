@@ -16,11 +16,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">San Jose Earthquakes <img src="/static/logos/San Jose Earthquakes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago Fire FC</p> |
 | <p align="center">FT</p> | <p align="right">Sporting Kansas City <img src="/static/logos/Sporting Kansas City.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/FC Dallas.png" height="25px"> FC Dallas</p> |
+| <p align="center">FT</p> | <p align="right">San Jose Earthquakes <img src="/static/logos/San Jose Earthquakes.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago Fire FC</p> |
 | <p align="center">FT</p> | <p align="right">Colorado Rapids <img src="/static/logos/Colorado Rapids.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
-| <p align="center">FT</p> | <p align="right">LA Galaxy <img src="/static/logos/LA Galaxy.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Minnesota United.png" height="25px"> Minnesota United</p> |
 | <p align="center">FT</p> | <p align="right">Portland Timbers <img src="/static/logos/Portland Timbers.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Nashville SC.png" height="25px"> Nashville SC</p> |
+| <p align="center">FT</p> | <p align="right">LA Galaxy <img src="/static/logos/LA Galaxy.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Minnesota United.png" height="25px"> Minnesota United</p> |
 </div>
 
 
