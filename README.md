@@ -46,8 +46,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Sao Bernardo <img src="/static/logos/Sao Bernardo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo PB.png" height="25px"> Botafogo PB</p> |
 | <p align="center">23:00</p> | <p align="right">Caxias <img src="/static/logos/Caxias.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo.png" height="25px"> Remo</p> |
+| <p align="center">23:00</p> | <p align="right">Sao Bernardo <img src="/static/logos/Sao Bernardo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo PB.png" height="25px"> Botafogo PB</p> |
 </div>
 
 
@@ -57,8 +57,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Pharco FC <img src="/static/logos/Pharco FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
-| <p align="center">26'</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids FC</p> |
+| <p align="center">FT</p> | <p align="right">Pharco FC <img src="/static/logos/Pharco FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
+| <p align="center">36'</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids FC</p> |
 | <p align="center">16:00</p> | <p align="right">Al Ahly SC <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
 </div>
 
