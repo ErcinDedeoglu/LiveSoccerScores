@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">WSG Tirol <img src="/static/logos/WSG Tirol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Copenhagen.png" height="25px"> FC Copenhagen</p> |
+| <p align="center">19'</p> | <p align="right">WSG Tirol <img src="/static/logos/WSG Tirol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Copenhagen.png" height="25px"> FC Copenhagen</p> |
 </div>
 
 
@@ -59,7 +59,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Pharco FC <img src="/static/logos/Pharco FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
 | <p align="center">FT</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Pyramids FC.png" height="25px"> Pyramids FC</p> |
-| <p align="center">40'</p> | <p align="right">Al Ahly SC <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
+| <p align="center">45' 3'</p> | <p align="right">Al Ahly SC <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
 </div>
 
 
