@@ -45,7 +45,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Ponte Preta <img src="/static/logos/Ponte Preta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mirassol.png" height="25px"> Mirassol</p> |
+| <p align="center">7'</p> | <p align="right">Ponte Preta <img src="/static/logos/Ponte Preta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mirassol.png" height="25px"> Mirassol</p> |
 </div>
 
 
@@ -119,7 +119,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Racing.png" height="25px"> Racing</p> |
+| <p align="center">8'</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Racing.png" height="25px"> Racing</p> |
 </div>
 
 
