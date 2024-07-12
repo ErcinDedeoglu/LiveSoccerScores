@@ -27,13 +27,13 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">10:00</p> | <p align="right">Fortuna Sittard <img src="/static/logos/Fortuna Sittard.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Elversberg.png" height="25px"> Elversberg</p> |
+| <p align="center">09:00</p> | <p align="right">Magdeburg <img src="/static/logos/Magdeburg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Zuerich.png" height="25px"> FC Zuerich</p> |
 | <p align="center">10:00</p> | <p align="right">Twente <img src="/static/logos/Twente.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Nordsjaelland.png" height="25px"> FC Nordsjaelland</p> |
+| <p align="center">10:00</p> | <p align="right">Fortuna Sittard <img src="/static/logos/Fortuna Sittard.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Elversberg.png" height="25px"> Elversberg</p> |
 | <p align="center">10:00</p> | <p align="right">Lens <img src="/static/logos/Lens.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Crvena Zvezda.png" height="25px"> FK Crvena Zvezda</p> |
-| <p align="center">13:00</p> | <p align="right">Magdeburg <img src="/static/logos/Magdeburg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Zuerich.png" height="25px"> FC Zuerich</p> |
 | <p align="center">14:00</p> | <p align="right">FC Copenhagen <img src="/static/logos/FC Copenhagen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Viktoria Plzen.png" height="25px"> Viktoria Plzen</p> |
-| <p align="center">16:00</p> | <p align="right">Caen <img src="/static/logos/Caen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nantes.png" height="25px"> Nantes</p> |
 | <p align="center">16:00</p> | <p align="right">Brest <img src="/static/logos/Brest.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Avranches.png" height="25px"> Avranches</p> |
+| <p align="center">16:00</p> | <p align="right">Caen <img src="/static/logos/Caen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nantes.png" height="25px"> Nantes</p> |
 | <p align="center">17:00</p> | <p align="right">SC Heerenveen <img src="/static/logos/SC Heerenveen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Almere City FC.png" height="25px"> Almere City FC</p> |
 | <p align="center">19:00</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Farense.png" height="25px"> Farense</p> |
 </div>
@@ -71,11 +71,11 @@
 | <p align="center">16:00</p> | <p align="right">Azerbaijan <img src="/static/logos/Azerbaijan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hungary.png" height="25px"> Hungary</p> |
 | <p align="center">16:00</p> | <p align="right">Georgia <img src="/static/logos/Georgia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Belarus.png" height="25px"> Belarus</p> |
 | <p align="center">16:00</p> | <p align="right">Kosovo <img src="/static/logos/Kosovo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ukraine.png" height="25px"> Ukraine</p> |
+| <p align="center">17:00</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lithuania.png" height="25px"> Lithuania</p> |
+| <p align="center">17:00</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scotland.png" height="25px"> Scotland</p> |
 | <p align="center">17:00</p> | <p align="right">Moldova <img src="/static/logos/Moldova.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Slovenia.png" height="25px"> Slovenia</p> |
 | <p align="center">17:00</p> | <p align="right">Bosnia and Herzegovina <img src="/static/logos/Bosnia and Herzegovina.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Portugal.png" height="25px"> Portugal</p> |
 | <p align="center">17:00</p> | <p align="right">Greece <img src="/static/logos/Greece.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Andorra.png" height="25px"> Andorra</p> |
-| <p align="center">17:00</p> | <p align="right">Slovakia <img src="/static/logos/Slovakia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scotland.png" height="25px"> Scotland</p> |
-| <p align="center">17:00</p> | <p align="right">Cyprus <img src="/static/logos/Cyprus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Lithuania.png" height="25px"> Lithuania</p> |
 | <p align="center">17:00</p> | <p align="right">North Macedonia <img src="/static/logos/North Macedonia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Latvia.png" height="25px"> Latvia</p> |
 | <p align="center">17:30</p> | <p align="right">Malta <img src="/static/logos/Malta.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Northern Ireland.png" height="25px"> Northern Ireland</p> |
 | <p align="center">17:30</p> | <p align="right">Turkiye <img src="/static/logos/Turkiye.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Switzerland.png" height="25px"> Switzerland</p> |
@@ -91,9 +91,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
+| <p align="center">16:00</p> | <p align="right">Czechia <img src="/static/logos/Czechia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
 | <p align="center">16:00</p> | <p align="right">Finland <img src="/static/logos/Finland.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Norway.png" height="25px"> Norway</p> |
 | <p align="center">16:00</p> | <p align="right">Austria <img src="/static/logos/Austria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Poland.png" height="25px"> Poland</p> |
-| <p align="center">16:00</p> | <p align="right">Czechia <img src="/static/logos/Czechia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
 | <p align="center">16:15</p> | <p align="right">Iceland <img src="/static/logos/Iceland.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Germany.png" height="25px"> Germany</p> |
 | <p align="center">18:00</p> | <p align="right">Belgium <img src="/static/logos/Belgium.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Denmark.png" height="25px"> Denmark</p> |
 | <p align="center">18:45</p> | <p align="right">Netherlands <img src="/static/logos/Netherlands.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Italy.png" height="25px"> Italy</p> |
