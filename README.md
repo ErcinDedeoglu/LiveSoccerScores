@@ -108,8 +108,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">53'</p> | <p align="right">Kuching City <img src="/static/logos/Kuching City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/PDRM.png" height="25px"> PDRM</p> |
-| <p align="center">28'</p> | <p align="right">Kedah Darul Aman <img src="/static/logos/Kedah Darul Aman.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kelantan United.png" height="25px"> Kelantan United</p> |
+| <p align="center">68'</p> | <p align="right">Kuching City <img src="/static/logos/Kuching City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/PDRM.png" height="25px"> PDRM</p> |
+| <p align="center">43'</p> | <p align="right">Kedah Darul Aman <img src="/static/logos/Kedah Darul Aman.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kelantan United.png" height="25px"> Kelantan United</p> |
 </div>
 
 
