@@ -65,14 +65,14 @@
 | <p align="center">FT</p> | <p align="right">Feyenoord <img src="/static/logos/Feyenoord.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Genk.png" height="25px"> Genk</p> |
 | <p align="center">FT</p> | <p align="right">PSV Eindhoven <img src="/static/logos/PSV Eindhoven.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Club Bruges.png" height="25px"> Club Bruges</p> |
 | <p align="center">FT</p> | <p align="right">South Shields <img src="/static/logos/South Shields.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Sunderland.png" height="25px"> Sunderland</p> |
-| <p align="center">76'</p> | <p align="right">AZ Alkmaar <img src="/static/logos/AZ Alkmaar.png" height="25px"></p> | <p align="center">6 - 0</p> | <p align="left"><img src="/static/logos/Excelsior.png" height="25px"> Excelsior</p> |
-| <p align="center">75'</p> | <p align="right">Gillingham <img src="/static/logos/Gillingham.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Millwall.png" height="25px"> Millwall</p> |
-| <p align="center">73'</p> | <p align="right">Sparta Rotterdam <img src="/static/logos/Sparta Rotterdam.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/ADO Den Haag.png" height="25px"> ADO Den Haag</p> |
+| <p align="center">FT</p> | <p align="right">AZ Alkmaar <img src="/static/logos/AZ Alkmaar.png" height="25px"></p> | <p align="center">8 - 0</p> | <p align="left"><img src="/static/logos/Excelsior.png" height="25px"> Excelsior</p> |
+| <p align="center">FT</p> | <p align="right">Gillingham <img src="/static/logos/Gillingham.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Millwall.png" height="25px"> Millwall</p> |
+| <p align="center">FT</p> | <p align="right">Sparta Rotterdam <img src="/static/logos/Sparta Rotterdam.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/ADO Den Haag.png" height="25px"> ADO Den Haag</p> |
 | <p align="center">12:30</p> | <p align="right">FC Dordrecht <img src="/static/logos/FC Dordrecht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Willem II.png" height="25px"> Willem II</p> |
-| <p align="center">35'</p> | <p align="right">FC Basel 1893 <img src="/static/logos/FC Basel 1893.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ulm.png" height="25px"> Ulm</p> |
+| <p align="center">HT</p> | <p align="right">FC Basel 1893 <img src="/static/logos/FC Basel 1893.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ulm.png" height="25px"> Ulm</p> |
 | <p align="center">13:00</p> | <p align="right">West Bromwich <img src="/static/logos/West Bromwich.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bolton.png" height="25px"> Bolton</p> |
-| <p align="center">38'</p> | <p align="right">FC Luzern <img src="/static/logos/FC Luzern.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/VfB Stuttgart.png" height="25px"> VfB Stuttgart</p> |
-| <p align="center">32'</p> | <p align="right">BSC Young Boys <img src="/static/logos/BSC Young Boys.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Aarau.png" height="25px"> FC Aarau</p> |
+| <p align="center">HT</p> | <p align="right">FC Luzern <img src="/static/logos/FC Luzern.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/VfB Stuttgart.png" height="25px"> VfB Stuttgart</p> |
+| <p align="center">HT</p> | <p align="right">BSC Young Boys <img src="/static/logos/BSC Young Boys.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Aarau.png" height="25px"> FC Aarau</p> |
 | <p align="center">14:00</p> | <p align="right">Northampton <img src="/static/logos/Northampton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Norwich.png" height="25px"> Norwich</p> |
 | <p align="center">14:00</p> | <p align="right">Salzburg <img src="/static/logos/Salzburg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sparta Prague.png" height="25px"> Sparta Prague</p> |
 | <p align="center">14:00</p> | <p align="right">Vitoria de Guimaraes <img src="/static/logos/Vitoria de Guimaraes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Middlesbrough.png" height="25px"> Middlesbrough</p> |
@@ -239,8 +239,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sri Pahang <img src="/static/logos/Sri Pahang.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Negeri Sembilan.png" height="25px"> Negeri Sembilan</p> |
-| <p align="center">61'</p> | <p align="right">Sabah <img src="/static/logos/Sabah.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Johor Darul Ta'zim.png" height="25px"> Johor Darul Ta'zim</p> |
-| <p align="center">37'</p> | <p align="right">Perak <img src="/static/logos/Perak.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Penang.png" height="25px"> Penang</p> |
+| <p align="center">84'</p> | <p align="right">Sabah <img src="/static/logos/Sabah.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Johor Darul Ta'zim.png" height="25px"> Johor Darul Ta'zim</p> |
+| <p align="center">HT</p> | <p align="right">Perak <img src="/static/logos/Perak.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Penang.png" height="25px"> Penang</p> |
 </div>
 
 
@@ -264,7 +264,7 @@
 | <p align="center">14:00</p> | <p align="right">Annan Athletic <img src="/static/logos/Annan Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inverness.png" height="25px"> Inverness</p> |
 | <p align="center">14:00</p> | <p align="right">Bonnyrigg Rose Athletic <img src="/static/logos/Bonnyrigg Rose Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dundee FC.png" height="25px"> Dundee FC</p> |
 | <p align="center">14:00</p> | <p align="right">Spartans <img src="/static/logos/Spartans.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dunfermline.png" height="25px"> Dunfermline</p> |
-| <p align="center">14:00</p> | <p align="right">Motherwell <img src="/static/logos/Motherwell.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Edinburgh City.png" height="25px"> Edinburgh City</p> |
+| <p align="center">1'</p> | <p align="right">Motherwell <img src="/static/logos/Motherwell.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Edinburgh City.png" height="25px"> Edinburgh City</p> |
 | <p align="center">14:00</p> | <p align="right">Elgin <img src="/static/logos/Elgin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hibernian.png" height="25px"> Hibernian</p> |
 | <p align="center">14:00</p> | <p align="right">Dumbarton <img src="/static/logos/Dumbarton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/East Kilbride.png" height="25px"> East Kilbride</p> |
 | <p align="center">14:00</p> | <p align="right">Brechin <img src="/static/logos/Brechin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St. Johnstone.png" height="25px"> St. Johnstone</p> |
