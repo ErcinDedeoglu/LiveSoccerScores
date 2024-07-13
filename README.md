@@ -56,9 +56,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">52'</p> | <p align="right">Monaco <img src="/static/logos/Monaco.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cercle Bruges.png" height="25px"> Cercle Bruges</p> |
+| <p align="center">67'</p> | <p align="right">Monaco <img src="/static/logos/Monaco.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cercle Bruges.png" height="25px"> Cercle Bruges</p> |
 | <p align="center">09:30</p> | <p align="right">FC Porto <img src="/static/logos/FC Porto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
-| <p align="center">10'</p> | <p align="right">Sturm Graz <img src="/static/logos/Sturm Graz.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> FC Midtjylland</p> |
+| <p align="center">25'</p> | <p align="right">Sturm Graz <img src="/static/logos/Sturm Graz.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> FC Midtjylland</p> |
 | <p align="center">10:00</p> | <p align="right">Tottenham <img src="/static/logos/Tottenham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cambridge U.png" height="25px"> Cambridge U</p> |
 | <p align="center">11:00</p> | <p align="right">Wehen Wiesbaden <img src="/static/logos/Wehen Wiesbaden.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NEC Nijmegen.png" height="25px"> NEC Nijmegen</p> |
 | <p align="center">11:00</p> | <p align="right">PSV Eindhoven <img src="/static/logos/PSV Eindhoven.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Bruges.png" height="25px"> Club Bruges</p> |
@@ -237,7 +237,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">Sri Pahang <img src="/static/logos/Sri Pahang.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Negeri Sembilan.png" height="25px"> Negeri Sembilan</p> |
+| <p align="center">30'</p> | <p align="right">Sri Pahang <img src="/static/logos/Sri Pahang.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Negeri Sembilan.png" height="25px"> Negeri Sembilan</p> |
 | <p align="center">12:15</p> | <p align="right">Sabah <img src="/static/logos/Sabah.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Johor Darul Ta'zim.png" height="25px"> Johor Darul Ta'zim</p> |
 | <p align="center">13:00</p> | <p align="right">Perak <img src="/static/logos/Perak.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Penang.png" height="25px"> Penang</p> |
 </div>
