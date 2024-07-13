@@ -45,8 +45,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 3'</p> | <p align="right">Cruzeiro <img src="/static/logos/Cruzeiro.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> Red Bull Bragantino</p> |
-| <p align="center">45' 1'</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cuiaba.png" height="25px"> Cuiaba</p> |
+| <p align="center">46'</p> | <p align="right">Cruzeiro <img src="/static/logos/Cruzeiro.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> Red Bull Bragantino</p> |
+| <p align="center">45' 19'</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Cuiaba.png" height="25px"> Cuiaba</p> |
 </div>
 
 
@@ -91,7 +91,7 @@
 | <p align="center">FT</p> | <p align="right">St Malo <img src="/static/logos/St Malo.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Rennes.png" height="25px"> Rennes</p> |
 | <p align="center">FT</p> | <p align="right">Fenerbahce <img src="/static/logos/Fenerbahce.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Strasbourg.png" height="25px"> Strasbourg</p> |
 | <p align="center">FT</p> | <p align="right">FC Lugano <img src="/static/logos/FC Lugano.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma Calcio 1913</p> |
-| <p align="center">88'</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Celta Vigo.png" height="25px"> Celta Vigo</p> |
+| <p align="center">FT</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Celta Vigo.png" height="25px"> Celta Vigo</p> |
 </div>
 
 
@@ -112,8 +112,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">Dock Sud <img src="/static/logos/Dock Sud.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/San Martin Burzaco.png" height="25px"> San Martin Burzaco</p> |
-| <p align="center">87'</p> | <p align="right">Deportivo Armenio <img src="/static/logos/Deportivo Armenio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Los Andes.png" height="25px"> Los Andes</p> |
+| <p align="center">FT</p> | <p align="right">Dock Sud <img src="/static/logos/Dock Sud.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/San Martin Burzaco.png" height="25px"> San Martin Burzaco</p> |
+| <p align="center">FT</p> | <p align="right">Deportivo Armenio <img src="/static/logos/Deportivo Armenio.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Los Andes.png" height="25px"> Los Andes</p> |
 </div>
 
 
@@ -124,8 +124,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Chacarita Juniors <img src="/static/logos/Chacarita Juniors.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Quilmes.png" height="25px"> Quilmes</p> |
-| <p align="center">85'</p> | <p align="right">Brown de Adrogue <img src="/static/logos/Brown de Adrogue.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Almagro.png" height="25px"> Almagro</p> |
-| <p align="center">84'</p> | <p align="right">Gimnasia Mendoza <img src="/static/logos/Gimnasia Mendoza.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Atletico Rafaela.png" height="25px"> Atletico Rafaela</p> |
+| <p align="center">FT</p> | <p align="right">Brown de Adrogue <img src="/static/logos/Brown de Adrogue.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Almagro.png" height="25px"> Almagro</p> |
+| <p align="center">FT</p> | <p align="right">Gimnasia Mendoza <img src="/static/logos/Gimnasia Mendoza.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Atletico Rafaela.png" height="25px"> Atletico Rafaela</p> |
 </div>
 
 
@@ -158,8 +158,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Botafogo SP <img src="/static/logos/Botafogo SP.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Amazonas FC.png" height="25px"> Amazonas FC</p> |
 | <p align="center">FT</p> | <p align="right">Paysandu <img src="/static/logos/Paysandu.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ceara.png" height="25px"> Ceara</p> |
-| <p align="center">58'</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
-| <p align="center">20:00</p> | <p align="right">Sport Recife <img src="/static/logos/Sport Recife.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/America MG.png" height="25px"> America MG</p> |
+| <p align="center">75'</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
+| <p align="center">3'</p> | <p align="right">Sport Recife <img src="/static/logos/Sport Recife.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/America MG.png" height="25px"> America MG</p> |
 | <p align="center">21:00</p> | <p align="right">CRB <img src="/static/logos/CRB.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coritiba.png" height="25px"> Coritiba</p> |
 </div>
 
@@ -170,7 +170,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20:00</p> | <p align="right">Botafogo PB <img src="/static/logos/Botafogo PB.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Confianca.png" height="25px"> Confianca</p> |
+| <p align="center">4'</p> | <p align="right">Botafogo PB <img src="/static/logos/Botafogo PB.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Confianca.png" height="25px"> Confianca</p> |
 </div>
 
 
@@ -191,7 +191,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">83'</p> | <p align="right">National Bank <img src="/static/logos/National Bank.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha SC</p> |
+| <p align="center">90' 10'</p> | <p align="right">National Bank <img src="/static/logos/National Bank.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha SC</p> |
 </div>
 
 
@@ -201,7 +201,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11'</p> | <p align="right">USA <img src="/static/logos/USA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mexico.png" height="25px"> Mexico</p> |
+| <p align="center">28'</p> | <p align="right">USA <img src="/static/logos/USA.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Mexico.png" height="25px"> Mexico</p> |
 </div>
 
 
@@ -297,7 +297,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Danubio <img src="/static/logos/Danubio.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
+| <p align="center">FT</p> | <p align="right">Danubio <img src="/static/logos/Danubio.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
 </div>
 
 
