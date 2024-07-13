@@ -145,8 +145,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">81'</p> | <p align="right">Juventude <img src="/static/logos/Juventude.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
-| <p align="center">45' 19'</p> | <p align="right">Athletico Paranaense <img src="/static/logos/Athletico Paranaense.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ypiranga RS.png" height="25px"> Ypiranga RS</p> |
+| <p align="center">90' 2'</p> | <p align="right">Juventude <img src="/static/logos/Juventude.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
+| <p align="center">54'</p> | <p align="right">Athletico Paranaense <img src="/static/logos/Athletico Paranaense.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ypiranga RS.png" height="25px"> Ypiranga RS</p> |
 </div>
 
 
@@ -160,7 +160,7 @@
 | <p align="center">FT</p> | <p align="right">Paysandu <img src="/static/logos/Paysandu.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ceara.png" height="25px"> Ceara</p> |
 | <p align="center">FT</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
 | <p align="center">FT</p> | <p align="right">Sport Recife <img src="/static/logos/Sport Recife.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/America MG.png" height="25px"> America MG</p> |
-| <p align="center">HT</p> | <p align="right">CRB <img src="/static/logos/CRB.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Coritiba.png" height="25px"> Coritiba</p> |
+| <p align="center">54'</p> | <p align="right">CRB <img src="/static/logos/CRB.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Coritiba.png" height="25px"> Coritiba</p> |
 </div>
 
 
@@ -170,7 +170,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 4'</p> | <p align="right">Botafogo PB <img src="/static/logos/Botafogo PB.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Confianca.png" height="25px"> Confianca</p> |
+| <p align="center">FT</p> | <p align="right">Botafogo PB <img src="/static/logos/Botafogo PB.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Confianca.png" height="25px"> Confianca</p> |
 </div>
 
 
@@ -250,7 +250,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Universidad Cesar Vallejo <img src="/static/logos/Universidad Cesar Vallejo.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Alianza Lima.png" height="25px"> Alianza Lima</p> |
+| <p align="center">84'</p> | <p align="right">Universidad Cesar Vallejo <img src="/static/logos/Universidad Cesar Vallejo.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Alianza Lima.png" height="25px"> Alianza Lima</p> |
 </div>
 
 
