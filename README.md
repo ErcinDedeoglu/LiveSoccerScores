@@ -144,7 +144,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cobresal <img src="/static/logos/Cobresal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Coquimbo Unido.png" height="25px"> Coquimbo Unido</p> |
-| <p align="center">89'</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Everton CD.png" height="25px"> Everton CD</p> |
+| <p align="center">90'</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Everton CD.png" height="25px"> Everton CD</p> |
 </div>
 
 
