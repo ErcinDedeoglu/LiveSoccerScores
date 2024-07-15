@@ -38,7 +38,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Santos FC <img src="/static/logos/Santos FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ituano FC.png" height="25px"> Ituano FC</p> |
+| <p align="center">45' 5'</p> | <p align="right">Santos FC <img src="/static/logos/Santos FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ituano FC.png" height="25px"> Ituano FC</p> |
 </div>
 
 
@@ -48,8 +48,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Ferroviaria <img src="/static/logos/Ferroviaria.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Remo.png" height="25px"> Remo</p> |
-| <p align="center">42'</p> | <p align="right">ABC <img src="/static/logos/ABC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tombense FC.png" height="25px"> Tombense FC</p> |
+| <p align="center">45' 8'</p> | <p align="right">Ferroviaria <img src="/static/logos/Ferroviaria.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Remo.png" height="25px"> Remo</p> |
+| <p align="center">45' 5'</p> | <p align="right">ABC <img src="/static/logos/ABC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Tombense FC.png" height="25px"> Tombense FC</p> |
 </div>
 
 
