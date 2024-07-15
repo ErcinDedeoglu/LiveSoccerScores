@@ -48,8 +48,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Ferroviaria <img src="/static/logos/Ferroviaria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo.png" height="25px"> Remo</p> |
 | <p align="center">23:00</p> | <p align="right">ABC <img src="/static/logos/ABC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tombense FC.png" height="25px"> Tombense FC</p> |
+| <p align="center">23:00</p> | <p align="right">Ferroviaria <img src="/static/logos/Ferroviaria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Remo.png" height="25px"> Remo</p> |
 </div>
 
 
@@ -69,7 +69,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">6'</p> | <p align="right">Maccabi Tel Aviv <img src="/static/logos/Maccabi Tel Aviv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Petach Tikva.png" height="25px"> Maccabi Petach Tikva</p> |
+| <p align="center">27'</p> | <p align="right">Maccabi Tel Aviv <img src="/static/logos/Maccabi Tel Aviv.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Petach Tikva.png" height="25px"> Maccabi Petach Tikva</p> |
 </div>
 
 
