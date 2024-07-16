@@ -49,9 +49,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">FC Porto <img src="/static/logos/FC Porto.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Al-Arabi.png" height="25px"> Al-Arabi</p> |
-| <p align="center">90' 1'</p> | <p align="right">Gosport Borough <img src="/static/logos/Gosport Borough.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Portsmouth.png" height="25px"> Portsmouth</p> |
-| <p align="center">60'</p> | <p align="right">Cardiff <img src="/static/logos/Cardiff.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Penybont.png" height="25px"> Penybont</p> |
-| <p align="center">66'</p> | <p align="right">Southport <img src="/static/logos/Southport.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Preston.png" height="25px"> Preston</p> |
+| <p align="center">FT</p> | <p align="right">Gosport Borough <img src="/static/logos/Gosport Borough.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Portsmouth.png" height="25px"> Portsmouth</p> |
+| <p align="center">67'</p> | <p align="right">Cardiff <img src="/static/logos/Cardiff.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Penybont.png" height="25px"> Penybont</p> |
+| <p align="center">74'</p> | <p align="right">Southport <img src="/static/logos/Southport.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Preston.png" height="25px"> Preston</p> |
 </div>
 
 
@@ -61,7 +61,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90'</p> | <p align="right">CA Fenix <img src="/static/logos/CA Fenix.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Villa Dalmine.png" height="25px"> Villa Dalmine</p> |
+| <p align="center">FT</p> | <p align="right">CA Fenix <img src="/static/logos/CA Fenix.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Villa Dalmine.png" height="25px"> Villa Dalmine</p> |
 </div>
 
 
@@ -71,7 +71,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">Modern Sport FC <img src="/static/logos/Modern Sport FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
+| <p align="center">90' 3'</p> | <p align="right">Modern Sport FC <img src="/static/logos/Modern Sport FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
 </div>
 
 
@@ -134,21 +134,21 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">47'</p> | <p align="right">Arbroath <img src="/static/logos/Arbroath.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Dundee FC.png" height="25px"> Dundee FC</p> |
-| <p align="center">46'</p> | <p align="right">Ayr <img src="/static/logos/Ayr.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Falkirk.png" height="25px"> Falkirk</p> |
-| <p align="center">49'</p> | <p align="right">Airdrieonians <img src="/static/logos/Airdrieonians.png" height="25px"></p> | <p align="center">6 - 0</p> | <p align="left"><img src="/static/logos/East Kilbride.png" height="25px"> East Kilbride</p> |
-| <p align="center">46'</p> | <p align="right">Montrose <img src="/static/logos/Montrose.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Motherwell.png" height="25px"> Motherwell</p> |
-| <p align="center">48'</p> | <p align="right">Cove Rangers <img src="/static/logos/Cove Rangers.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Spartans.png" height="25px"> Spartans</p> |
-| <p align="center">45' 17'</p> | <p align="right">Raith Rovers <img src="/static/logos/Raith Rovers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Stranraer.png" height="25px"> Stranraer</p> |
-| <p align="center">46'</p> | <p align="right">Elgin <img src="/static/logos/Elgin.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kelty Hearts.png" height="25px"> Kelty Hearts</p> |
-| <p align="center">47'</p> | <p align="right">Greenock Morton <img src="/static/logos/Greenock Morton.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brechin.png" height="25px"> Brechin</p> |
-| <p align="center">46'</p> | <p align="right">Queen of South <img src="/static/logos/Queen of South.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Dumbarton.png" height="25px"> Dumbarton</p> |
-| <p align="center">HT</p> | <p align="right">Annan Athletic <img src="/static/logos/Annan Athletic.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bonnyrigg Rose Athletic.png" height="25px"> Bonnyrigg Rose Athletic</p> |
-| <p align="center">46'</p> | <p align="right">Alloa Athletic <img src="/static/logos/Alloa Athletic.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/East Fife.png" height="25px"> East Fife</p> |
-| <p align="center">HT</p> | <p align="right">Hamilton Academical <img src="/static/logos/Hamilton Academical.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Stirling Albion.png" height="25px"> Stirling Albion</p> |
-| <p align="center">HT</p> | <p align="right">Dunfermline <img src="/static/logos/Dunfermline.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Forfar.png" height="25px"> Forfar</p> |
-| <p align="center">45' 17'</p> | <p align="right">Hibernian <img src="/static/logos/Hibernian.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Queen's Park.png" height="25px"> Queen's Park</p> |
-| <p align="center">45' 16'</p> | <p align="right">Dundee United <img src="/static/logos/Dundee United.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Stenhousemuir.png" height="25px"> Stenhousemuir</p> |
+| <p align="center">54'</p> | <p align="right">Arbroath <img src="/static/logos/Arbroath.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Dundee FC.png" height="25px"> Dundee FC</p> |
+| <p align="center">54'</p> | <p align="right">Ayr <img src="/static/logos/Ayr.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Falkirk.png" height="25px"> Falkirk</p> |
+| <p align="center">56'</p> | <p align="right">Airdrieonians <img src="/static/logos/Airdrieonians.png" height="25px"></p> | <p align="center">8 - 0</p> | <p align="left"><img src="/static/logos/East Kilbride.png" height="25px"> East Kilbride</p> |
+| <p align="center">54'</p> | <p align="right">Montrose <img src="/static/logos/Montrose.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Motherwell.png" height="25px"> Motherwell</p> |
+| <p align="center">55'</p> | <p align="right">Cove Rangers <img src="/static/logos/Cove Rangers.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Spartans.png" height="25px"> Spartans</p> |
+| <p align="center">53'</p> | <p align="right">Raith Rovers <img src="/static/logos/Raith Rovers.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Stranraer.png" height="25px"> Stranraer</p> |
+| <p align="center">54'</p> | <p align="right">Elgin <img src="/static/logos/Elgin.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kelty Hearts.png" height="25px"> Kelty Hearts</p> |
+| <p align="center">54'</p> | <p align="right">Greenock Morton <img src="/static/logos/Greenock Morton.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Brechin.png" height="25px"> Brechin</p> |
+| <p align="center">54'</p> | <p align="right">Queen of South <img src="/static/logos/Queen of South.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Dumbarton.png" height="25px"> Dumbarton</p> |
+| <p align="center">53'</p> | <p align="right">Annan Athletic <img src="/static/logos/Annan Athletic.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Bonnyrigg Rose Athletic.png" height="25px"> Bonnyrigg Rose Athletic</p> |
+| <p align="center">54'</p> | <p align="right">Alloa Athletic <img src="/static/logos/Alloa Athletic.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/East Fife.png" height="25px"> East Fife</p> |
+| <p align="center">50'</p> | <p align="right">Hamilton Academical <img src="/static/logos/Hamilton Academical.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Stirling Albion.png" height="25px"> Stirling Albion</p> |
+| <p align="center">53'</p> | <p align="right">Dunfermline <img src="/static/logos/Dunfermline.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Forfar.png" height="25px"> Forfar</p> |
+| <p align="center">51'</p> | <p align="right">Hibernian <img src="/static/logos/Hibernian.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Queen's Park.png" height="25px"> Queen's Park</p> |
+| <p align="center">51'</p> | <p align="right">Dundee United <img src="/static/logos/Dundee United.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Stenhousemuir.png" height="25px"> Stenhousemuir</p> |
 </div>
 
 
