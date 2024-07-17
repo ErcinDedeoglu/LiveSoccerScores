@@ -50,7 +50,7 @@
 | <p align="center">POS</p> | <p align="right">Vasco da Gama <img src="/static/logos/Vasco da Gama.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Cuiaba.png" height="25px"> Cuiaba</p> |
 | <p align="center">POS</p> | <p align="right">Internacional <img src="/static/logos/Internacional.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 | <p align="center">POS</p> | <p align="right">Athletico Paranaense <img src="/static/logos/Athletico Paranaense.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
-| <p align="center">32'</p> | <p align="right">Atletico GO <img src="/static/logos/Atletico GO.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vasco da Gama.png" height="25px"> Vasco da Gama</p> |
+| <p align="center">45' 3'</p> | <p align="right">Atletico GO <img src="/static/logos/Atletico GO.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Vasco da Gama.png" height="25px"> Vasco da Gama</p> |
 | <p align="center">23:00</p> | <p align="right">Sao Paulo <img src="/static/logos/Sao Paulo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gremio.png" height="25px"> Gremio</p> |
 </div>
 
@@ -62,7 +62,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
-| <p align="center">31'</p> | <p align="right">Libertad <img src="/static/logos/Libertad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Universidad Catolica.png" height="25px"> Universidad Catolica</p> |
+| <p align="center">45' 2'</p> | <p align="right">Libertad <img src="/static/logos/Libertad.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Universidad Catolica.png" height="25px"> Universidad Catolica</p> |
 </div>
 
 
@@ -105,7 +105,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Estudiantes <img src="/static/logos/Estudiantes.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Central Cordoba de Santiago.png" height="25px"> Central Cordoba de Santiago</p> |
+| <p align="center">88'</p> | <p align="right">Estudiantes <img src="/static/logos/Estudiantes.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Central Cordoba de Santiago.png" height="25px"> Central Cordoba de Santiago</p> |
 </div>
 
 
@@ -125,7 +125,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">30'</p> | <p align="right">Caxias <img src="/static/logos/Caxias.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Aparecidense.png" height="25px"> Aparecidense</p> |
+| <p align="center">45' 2'</p> | <p align="right">Caxias <img src="/static/logos/Caxias.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Aparecidense.png" height="25px"> Aparecidense</p> |
 | <p align="center">23:00</p> | <p align="right">Ypiranga RS <img src="/static/logos/Ypiranga RS.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ferroviario.png" height="25px"> Ferroviario</p> |
 </div>
 
@@ -158,7 +158,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45'</p> | <p align="right">Portuguesa FC <img src="/static/logos/Portuguesa FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Rayo Zuliano.png" height="25px"> Rayo Zuliano</p> |
+| <p align="center">HT</p> | <p align="right">Portuguesa FC <img src="/static/logos/Portuguesa FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Rayo Zuliano.png" height="25px"> Rayo Zuliano</p> |
 </div>
 
 
