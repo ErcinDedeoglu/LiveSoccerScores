@@ -45,7 +45,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18'</p> | <p align="right">Corinthians <img src="/static/logos/Corinthians.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
+| <p align="center">38'</p> | <p align="right">Corinthians <img src="/static/logos/Corinthians.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Criciuma.png" height="25px"> Criciuma</p> |
 | <p align="center">POS</p> | <p align="right">Athletico Paranaense <img src="/static/logos/Athletico Paranaense.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
 | <p align="center">POS</p> | <p align="right">Internacional <img src="/static/logos/Internacional.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 | <p align="center">POS</p> | <p align="right">Criciuma <img src="/static/logos/Criciuma.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> Red Bull Bragantino</p> |
@@ -61,7 +61,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">00:30</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
+| <p align="center">9'</p> | <p align="right">Rosario Central <img src="/static/logos/Rosario Central.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Internacional.png" height="25px"> Internacional</p> |
 | <p align="center">22:00</p> | <p align="right">Libertad <img src="/static/logos/Libertad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Universidad Catolica.png" height="25px"> Universidad Catolica</p> |
 </div>
 
