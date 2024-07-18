@@ -83,7 +83,7 @@
 | <p align="center">FT</p> | <p align="right">Union Berlin <img src="/static/logos/Union Berlin.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Dynamo Kyiv.png" height="25px"> Dynamo Kyiv</p> |
 | <p align="center">FT</p> | <p align="right">Ajax <img src="/static/logos/Ajax.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Al-Wasl.png" height="25px"> Al-Wasl</p> |
 | <p align="center">FT</p> | <p align="right">Fenerbahce <img src="/static/logos/Fenerbahce.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Hull.png" height="25px"> Hull</p> |
-| <p align="center">85'</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Rayo Vallecano.png" height="25px"> Rayo Vallecano</p> |
+| <p align="center">90' 5'</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Rayo Vallecano.png" height="25px"> Rayo Vallecano</p> |
 </div>
 
 
