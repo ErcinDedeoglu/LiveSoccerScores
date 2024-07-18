@@ -124,7 +124,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">8'</p> | <p align="right">Llapi <img src="/static/logos/Llapi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
+| <p align="center">16'</p> | <p align="right">Llapi <img src="/static/logos/Llapi.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
 | <p align="center">15:00</p> | <p align="right">Tobol Kostanay <img src="/static/logos/Tobol Kostanay.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ruzomberok.png" height="25px"> Ruzomberok</p> |
 | <p align="center">16:00</p> | <p align="right">Zira <img src="/static/logos/Zira.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Sheriff.png" height="25px"> FC Sheriff</p> |
 | <p align="center">16:00</p> | <p align="right">Pafos FC <img src="/static/logos/Pafos FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Elfsborg.png" height="25px"> Elfsborg</p> |
