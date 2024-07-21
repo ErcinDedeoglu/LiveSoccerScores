@@ -87,7 +87,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Anderlecht <img src="/static/logos/Anderlecht.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Amiens.png" height="25px"> Amiens</p> |
+| <p align="center">83'</p> | <p align="right">Anderlecht <img src="/static/logos/Anderlecht.png" height="25px"></p> | <p align="center">5 - 1</p> | <p align="left"><img src="/static/logos/Amiens.png" height="25px"> Amiens</p> |
 | <p align="center">09:00</p> | <p align="right">Anderlecht <img src="/static/logos/Anderlecht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Metz.png" height="25px"> Metz</p> |
 | <p align="center">12:00</p> | <p align="right">Crewe <img src="/static/logos/Crewe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mallorca.png" height="25px"> Mallorca</p> |
 | <p align="center">13:00</p> | <p align="right">BG Pathum United <img src="/static/logos/BG Pathum United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Borussia Dortmund.png" height="25px"> Borussia Dortmund</p> |
@@ -105,7 +105,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"> Sanfrecce Hiroshima</p> |
+| <p align="center">36'</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"> Sanfrecce Hiroshima</p> |
 </div>
 
 
@@ -255,7 +255,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20'</p> | <p align="right">Wisla Plock <img src="/static/logos/Wisla Plock.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kotwica Kolobrzeg.png" height="25px"> Kotwica Kolobrzeg</p> |
+| <p align="center">37'</p> | <p align="right">Wisla Plock <img src="/static/logos/Wisla Plock.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kotwica Kolobrzeg.png" height="25px"> Kotwica Kolobrzeg</p> |
 | <p align="center">POS</p> | <p align="right">LKS Lodz <img src="/static/logos/LKS Lodz.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
 | <p align="center">12:30</p> | <p align="right">GKS Tychy <img src="/static/logos/GKS Tychy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Miedz Legnica.png" height="25px"> Miedz Legnica</p> |
 </div>
@@ -277,10 +277,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Daejeon Hana Citizen <img src="/static/logos/Daejeon Hana Citizen.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
-| <p align="center">22'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
-| <p align="center">21'</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
-| <p align="center">22'</p> | <p align="right">FC Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu.png" height="25px"> Gimcheon Sangmu</p> |
+| <p align="center">39'</p> | <p align="right">Daejeon Hana Citizen <img src="/static/logos/Daejeon Hana Citizen.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
+| <p align="center">39'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
+| <p align="center">38'</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
+| <p align="center">39'</p> | <p align="right">FC Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu.png" height="25px"> Gimcheon Sangmu</p> |
 </div>
 
 
