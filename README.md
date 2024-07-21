@@ -47,7 +47,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Cruzeiro.png" height="25px"> Cruzeiro</p> |
-| <p align="center">90' 1'</p> | <p align="right">Gremio <img src="/static/logos/Gremio.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Vitoria.png" height="25px"> Vitoria</p> |
+| <p align="center">FT</p> | <p align="right">Gremio <img src="/static/logos/Gremio.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Vitoria.png" height="25px"> Vitoria</p> |
 | <p align="center">19:00</p> | <p align="right">Atletico MG <img src="/static/logos/Atletico MG.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vasco da Gama.png" height="25px"> Vasco da Gama</p> |
 | <p align="center">19:00</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
 | <p align="center">21:30</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico GO.png" height="25px"> Atletico GO</p> |
@@ -93,7 +93,7 @@
 | <p align="center">FT</p> | <p align="right">BG Pathum United <img src="/static/logos/BG Pathum United.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Borussia Dortmund.png" height="25px"> Borussia Dortmund</p> |
 | <p align="center">13:30</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Villarreal.png" height="25px"> Villarreal</p> |
 | <p align="center">FT</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Almeria.png" height="25px"> Almeria</p> |
-| <p align="center">90' 2'</p> | <p align="right">Hamburger SV <img src="/static/logos/Hamburger SV.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Cardiff.png" height="25px"> Cardiff</p> |
+| <p align="center">FT</p> | <p align="right">Hamburger SV <img src="/static/logos/Hamburger SV.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Cardiff.png" height="25px"> Cardiff</p> |
 | <p align="center">16:00</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
 | <p align="center">17:00</p> | <p align="right">Eldense <img src="/static/logos/Eldense.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sunderland.png" height="25px"> Sunderland</p> |
 </div>
@@ -129,7 +129,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">84'</p> | <p align="right">Santamarina <img src="/static/logos/Santamarina.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Germinal.png" height="25px"> Germinal</p> |
+| <p align="center">90' 3'</p> | <p align="right">Santamarina <img src="/static/logos/Santamarina.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Germinal.png" height="25px"> Germinal</p> |
 | <p align="center">18:00</p> | <p align="right">Sol de Mayo <img src="/static/logos/Sol de Mayo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Circulo Deportivo.png" height="25px"> Circulo Deportivo</p> |
 | <p align="center">18:05</p> | <p align="right">Los Andes <img src="/static/logos/Los Andes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Comunicaciones.png" height="25px"> Comunicaciones</p> |
 | <p align="center">18:30</p> | <p align="right">San Martin Mendoza <img src="/static/logos/San Martin Mendoza.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Huracan Las Heras.png" height="25px"> Huracan Las Heras</p> |
@@ -143,7 +143,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Ferro Carril Oeste <img src="/static/logos/Ferro Carril Oeste.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Martin San Juan.png" height="25px"> San Martin San Juan</p> |
-| <p align="center">43'</p> | <p align="right">San Telmo <img src="/static/logos/San Telmo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Moron.png" height="25px"> Deportivo Moron</p> |
+| <p align="center">45' 6'</p> | <p align="right">San Telmo <img src="/static/logos/San Telmo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Moron.png" height="25px"> Deportivo Moron</p> |
 | <p align="center">18:30</p> | <p align="right">Deportivo Maipu <img src="/static/logos/Deportivo Maipu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guillermo Brown.png" height="25px"> Guillermo Brown</p> |
 | <p align="center">18:30</p> | <p align="right">Deportivo Madryn <img src="/static/logos/Deportivo Madryn.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gimnasia Mendoza.png" height="25px"> Gimnasia Mendoza</p> |
 | <p align="center">19:00</p> | <p align="right">Gimnasia Jujuy <img src="/static/logos/Gimnasia Jujuy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Agropecuario.png" height="25px"> Agropecuario</p> |
@@ -199,7 +199,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 9'</p> | <p align="right">Slovacko <img src="/static/logos/Slovacko.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Slavia Prague.png" height="25px"> Slavia Prague</p> |
+| <p align="center">45' 17'</p> | <p align="right">Slovacko <img src="/static/logos/Slovacko.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Slavia Prague.png" height="25px"> Slavia Prague</p> |
 </div>
 
 
@@ -209,7 +209,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"> Al Mokawloon Al Arab</p> |
+| <p align="center">68'</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Mokawloon Al Arab.png" height="25px"> Al Mokawloon Al Arab</p> |
 | <p align="center">18:00</p> | <p align="right">El Dakhleya <img src="/static/logos/El Dakhleya.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zamalek SC.png" height="25px"> Zamalek SC</p> |
 | <p align="center">18:00</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ZED FC.png" height="25px"> ZED FC</p> |
 </div>
@@ -244,7 +244,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cracovia <img src="/static/logos/Cracovia.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Piast Gliwice.png" height="25px"> Piast Gliwice</p> |
-| <p align="center">23'</p> | <p align="right">Lech Poznan <img src="/static/logos/Lech Poznan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gornik Zabrze.png" height="25px"> Gornik Zabrze</p> |
+| <p align="center">31'</p> | <p align="right">Lech Poznan <img src="/static/logos/Lech Poznan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gornik Zabrze.png" height="25px"> Gornik Zabrze</p> |
 | <p align="center">18:15</p> | <p align="right">Motor Lublin <img src="/static/logos/Motor Lublin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rakow Czestochowa.png" height="25px"> Rakow Czestochowa</p> |
 </div>
 
@@ -267,7 +267,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">TS Podbeskidzie Bielsko-Biala <img src="/static/logos/TS Podbeskidzie Bielsko-Biala.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Olimpia Elblag.png" height="25px"> Olimpia Elblag</p> |
+| <p align="center">3'</p> | <p align="right">TS Podbeskidzie Bielsko-Biala <img src="/static/logos/TS Podbeskidzie Bielsko-Biala.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olimpia Elblag.png" height="25px"> Olimpia Elblag</p> |
 </div>
 
 
@@ -291,7 +291,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">BSC Young Boys <img src="/static/logos/BSC Young Boys.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/FC Sion.png" height="25px"> FC Sion</p> |
-| <p align="center">67'</p> | <p align="right">FC Luzern <img src="/static/logos/FC Luzern.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Servette FC.png" height="25px"> Servette FC</p> |
+| <p align="center">75'</p> | <p align="right">FC Luzern <img src="/static/logos/FC Luzern.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Servette FC.png" height="25px"> Servette FC</p> |
 </div>
 
 
