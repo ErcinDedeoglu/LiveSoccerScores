@@ -75,7 +75,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Deportes Iquique <img src="/static/logos/Deportes Iquique.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Audax Italiano.png" height="25px"> Audax Italiano</p> |
-| <p align="center">53'</p> | <p align="right">Palestino <img src="/static/logos/Palestino.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Everton CD.png" height="25px"> Everton CD</p> |
+| <p align="center">61'</p> | <p align="right">Palestino <img src="/static/logos/Palestino.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Everton CD.png" height="25px"> Everton CD</p> |
 | <p align="center">19:00</p> | <p align="right">Cobresal <img src="/static/logos/Cobresal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Universidad de Chile.png" height="25px"> Universidad de Chile</p> |
 | <p align="center">21:30</p> | <p align="right">Colo Colo <img src="/static/logos/Colo Colo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Union Espanola.png" height="25px"> Union Espanola</p> |
 </div>
@@ -94,8 +94,8 @@
 | <p align="center">13:30</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Villarreal.png" height="25px"> Villarreal</p> |
 | <p align="center">FT</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Almeria.png" height="25px"> Almeria</p> |
 | <p align="center">FT</p> | <p align="right">Hamburger SV <img src="/static/logos/Hamburger SV.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Cardiff.png" height="25px"> Cardiff</p> |
-| <p align="center">84'</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
-| <p align="center">44'</p> | <p align="right">Eldense <img src="/static/logos/Eldense.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sunderland.png" height="25px"> Sunderland</p> |
+| <p align="center">90' 2'</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
+| <p align="center">HT</p> | <p align="right">Eldense <img src="/static/logos/Eldense.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Sunderland.png" height="25px"> Sunderland</p> |
 </div>
 
 
@@ -267,7 +267,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">TS Podbeskidzie Bielsko-Biala <img src="/static/logos/TS Podbeskidzie Bielsko-Biala.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olimpia Elblag.png" height="25px"> Olimpia Elblag</p> |
+| <p align="center">90' 3'</p> | <p align="right">TS Podbeskidzie Bielsko-Biala <img src="/static/logos/TS Podbeskidzie Bielsko-Biala.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Olimpia Elblag.png" height="25px"> Olimpia Elblag</p> |
 </div>
 
 
