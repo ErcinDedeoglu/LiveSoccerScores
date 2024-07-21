@@ -105,7 +105,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 6'</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"> Sanfrecce Hiroshima</p> |
+| <p align="center">HT</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"> Sanfrecce Hiroshima</p> |
 </div>
 
 
@@ -221,9 +221,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">09:00</p> | <p align="right">FC Ryukyu <img src="/static/logos/FC Ryukyu.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nara Club.png" height="25px"> Nara Club</p> |
-| <p align="center">09:00</p> | <p align="right">Kamatamare Sanuki <img src="/static/logos/Kamatamare Sanuki.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SC Sagamihara.png" height="25px"> SC Sagamihara</p> |
-| <p align="center">09:00</p> | <p align="right">Grulla Morioka <img src="/static/logos/Grulla Morioka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kataller Toyama.png" height="25px"> Kataller Toyama</p> |
+| <p align="center">FT</p> | <p align="right">FC Ryukyu <img src="/static/logos/FC Ryukyu.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Nara Club.png" height="25px"> Nara Club</p> |
+| <p align="center">FT</p> | <p align="right">Kamatamare Sanuki <img src="/static/logos/Kamatamare Sanuki.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/SC Sagamihara.png" height="25px"> SC Sagamihara</p> |
+| <p align="center">FT</p> | <p align="right">Grulla Morioka <img src="/static/logos/Grulla Morioka.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kataller Toyama.png" height="25px"> Kataller Toyama</p> |
 </div>
 
 
@@ -255,7 +255,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 7'</p> | <p align="right">Wisla Plock <img src="/static/logos/Wisla Plock.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kotwica Kolobrzeg.png" height="25px"> Kotwica Kolobrzeg</p> |
+| <p align="center">45' 15'</p> | <p align="right">Wisla Plock <img src="/static/logos/Wisla Plock.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Kotwica Kolobrzeg.png" height="25px"> Kotwica Kolobrzeg</p> |
 | <p align="center">POS</p> | <p align="right">LKS Lodz <img src="/static/logos/LKS Lodz.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
 | <p align="center">12:30</p> | <p align="right">GKS Tychy <img src="/static/logos/GKS Tychy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Miedz Legnica.png" height="25px"> Miedz Legnica</p> |
 </div>
@@ -278,9 +278,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">HT</p> | <p align="right">Daejeon Hana Citizen <img src="/static/logos/Daejeon Hana Citizen.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
-| <p align="center">45' 9'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
-| <p align="center">45' 8'</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
-| <p align="center">45' 9'</p> | <p align="right">FC Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu.png" height="25px"> Gimcheon Sangmu</p> |
+| <p align="center">45' 18'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gwangju FC.png" height="25px"> Gwangju FC</p> |
+| <p align="center">45' 17'</p> | <p align="right">Incheon United <img src="/static/logos/Incheon United.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Suwon FC.png" height="25px"> Suwon FC</p> |
+| <p align="center">45' 18'</p> | <p align="right">FC Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu.png" height="25px"> Gimcheon Sangmu</p> |
 </div>
 
 
