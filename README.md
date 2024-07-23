@@ -53,7 +53,7 @@
 | <p align="center">FT</p> | <p align="right">Doncaster <img src="/static/logos/Doncaster.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Hull.png" height="25px"> Hull</p> |
 | <p align="center">FT</p> | <p align="right">Shrewsbury <img src="/static/logos/Shrewsbury.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Leicester.png" height="25px"> Leicester</p> |
 | <p align="center">FT</p> | <p align="right">Aldershot <img src="/static/logos/Aldershot.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Bristol City.png" height="25px"> Bristol City</p> |
-| <p align="center">57'</p> | <p align="right">Sporting CP <img src="/static/logos/Sporting CP.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sevilla.png" height="25px"> Sevilla</p> |
+| <p align="center">64'</p> | <p align="right">Sporting CP <img src="/static/logos/Sporting CP.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sevilla.png" height="25px"> Sevilla</p> |
 | <p align="center">23:30</p> | <p align="right">Manchester City <img src="/static/logos/Manchester City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Celtic.png" height="25px"> Celtic</p> |
 </div>
 
@@ -104,7 +104,7 @@
 | <p align="center">FT</p> | <p align="right">Ferencvaros <img src="/static/logos/Ferencvaros.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/TNS.png" height="25px"> TNS</p> |
 | <p align="center">FT</p> | <p align="right">Dynamo Kyiv <img src="/static/logos/Dynamo Kyiv.png" height="25px"></p> | <p align="center">6 - 2</p> | <p align="left"><img src="/static/logos/Partizan Belgrade.png" height="25px"> Partizan Belgrade</p> |
 | <p align="center">FT</p> | <p align="right">FC Lugano <img src="/static/logos/FC Lugano.png" height="25px"></p> | <p align="center">3 - 4</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
-| <p align="center">90' 2'</p> | <p align="right">Shamrock Rovers <img src="/static/logos/Shamrock Rovers.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sparta Prague.png" height="25px"> Sparta Prague</p> |
+| <p align="center">FT</p> | <p align="right">Shamrock Rovers <img src="/static/logos/Shamrock Rovers.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Sparta Prague.png" height="25px"> Sparta Prague</p> |
 </div>
 
 
@@ -134,13 +134,13 @@
 | <p align="center">FT</p> | <p align="right">Montrose <img src="/static/logos/Montrose.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Edinburgh City.png" height="25px"> Edinburgh City</p> |
 | <p align="center">FT</p> | <p align="right">East Fife <img src="/static/logos/East Fife.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Brechin.png" height="25px"> Brechin</p> |
 | <p align="center">FT</p> | <p align="right">Dundee FC <img src="/static/logos/Dundee FC.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Annan Athletic.png" height="25px"> Annan Athletic</p> |
-| <p align="center">90'</p> | <p align="right">Inverness <img src="/static/logos/Inverness.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arbroath.png" height="25px"> Arbroath</p> |
+| <p align="center">FT</p> | <p align="right">Inverness <img src="/static/logos/Inverness.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Arbroath.png" height="25px"> Arbroath</p> |
 | <p align="center">FT</p> | <p align="right">Kelty Hearts <img src="/static/logos/Kelty Hearts.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Peterhead.png" height="25px"> Peterhead</p> |
 | <p align="center">FT</p> | <p align="right">Partick Thistle <img src="/static/logos/Partick Thistle.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Clyde.png" height="25px"> Clyde</p> |
 | <p align="center">FT</p> | <p align="right">Cove Rangers <img src="/static/logos/Cove Rangers.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Livingston.png" height="25px"> Livingston</p> |
 | <p align="center">FT</p> | <p align="right">Aberdeen <img src="/static/logos/Aberdeen.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Airdrieonians.png" height="25px"> Airdrieonians</p> |
 | <p align="center">FT</p> | <p align="right">Hamilton Academical <img src="/static/logos/Hamilton Academical.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Ross County.png" height="25px"> Ross County</p> |
-| <p align="center">90'</p> | <p align="right">Buckie Thistle <img src="/static/logos/Buckie Thistle.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Dundee United.png" height="25px"> Dundee United</p> |
+| <p align="center">FT</p> | <p align="right">Buckie Thistle <img src="/static/logos/Buckie Thistle.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Dundee United.png" height="25px"> Dundee United</p> |
 </div>
 
 
