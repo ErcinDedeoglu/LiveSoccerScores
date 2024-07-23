@@ -43,11 +43,11 @@
 | <p align="center">FT</p> | <p align="right">West Bromwich <img src="/static/logos/West Bromwich.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Blackpool.png" height="25px"> Blackpool</p> |
 | <p align="center">13:00</p> | <p align="right">Willem II <img src="/static/logos/Willem II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Roda.png" height="25px"> Roda</p> |
 | <p align="center">FT</p> | <p align="right">Mamelodi Sundowns FC <img src="/static/logos/Mamelodi Sundowns FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cardiff.png" height="25px"> Cardiff</p> |
-| <p align="center">39'</p> | <p align="right">Sturm Graz <img src="/static/logos/Sturm Graz.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Porto.png" height="25px"> FC Porto</p> |
-| <p align="center">16'</p> | <p align="right">Las Palmas <img src="/static/logos/Las Palmas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al-Sadd.png" height="25px"> Al-Sadd</p> |
-| <p align="center">18:00</p> | <p align="right">Nottingham Forest <img src="/static/logos/Nottingham Forest.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Millwall.png" height="25px"> Millwall</p> |
+| <p align="center">47'</p> | <p align="right">Sturm Graz <img src="/static/logos/Sturm Graz.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/FC Porto.png" height="25px"> FC Porto</p> |
+| <p align="center">41'</p> | <p align="right">Las Palmas <img src="/static/logos/Las Palmas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al-Sadd.png" height="25px"> Al-Sadd</p> |
+| <p align="center">7'</p> | <p align="right">Nottingham Forest <img src="/static/logos/Nottingham Forest.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Millwall.png" height="25px"> Millwall</p> |
 | <p align="center">18:00</p> | <p align="right">Harrogate Town <img src="/static/logos/Harrogate Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sheffield United.png" height="25px"> Sheffield United</p> |
-| <p align="center">18:00</p> | <p align="right">Stevenage <img src="/static/logos/Stevenage.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coventry.png" height="25px"> Coventry</p> |
+| <p align="center">8'</p> | <p align="right">Stevenage <img src="/static/logos/Stevenage.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Coventry.png" height="25px"> Coventry</p> |
 | <p align="center">18:30</p> | <p align="right">Crewe <img src="/static/logos/Crewe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stoke.png" height="25px"> Stoke</p> |
 | <p align="center">18:30</p> | <p align="right">Boreham Wood <img src="/static/logos/Boreham Wood.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brentford.png" height="25px"> Brentford</p> |
 | <p align="center">18:45</p> | <p align="right">Doncaster <img src="/static/logos/Doncaster.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hull.png" height="25px"> Hull</p> |
@@ -64,7 +64,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Deportivo Riestra <img src="/static/logos/Deportivo Riestra.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
+| <p align="center">10'</p> | <p align="right">Deportivo Riestra <img src="/static/logos/Deportivo Riestra.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
 | <p align="center">21:45</p> | <p align="right">Newell's Old Boys <img src="/static/logos/Newell's Old Boys.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Independiente Rivadavia.png" height="25px"> Independiente Rivadavia</p> |
 | <p align="center">21:45</p> | <p align="right">Gimnasia LP <img src="/static/logos/Gimnasia LP.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/San Lorenzo.png" height="25px"> San Lorenzo</p> |
 </div>
@@ -98,11 +98,11 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bodoe/Glimt <img src="/static/logos/Bodoe/Glimt.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/RFS.png" height="25px"> RFS</p> |
-| <p align="center">45'</p> | <p align="right">Malmoe FF <img src="/static/logos/Malmoe FF.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Klaksvik.png" height="25px"> Klaksvik</p> |
-| <p align="center">15'</p> | <p align="right">FC FCSB <img src="/static/logos/FC FCSB.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv.png" height="25px"> Maccabi Tel Aviv</p> |
-| <p align="center">18:00</p> | <p align="right">Ferencvaros <img src="/static/logos/Ferencvaros.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/TNS.png" height="25px"> TNS</p> |
-| <p align="center">18:00</p> | <p align="right">Dynamo Kyiv <img src="/static/logos/Dynamo Kyiv.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Partizan Belgrade.png" height="25px"> Partizan Belgrade</p> |
-| <p align="center">18:00</p> | <p align="right">UE Santa Coloma <img src="/static/logos/UE Santa Coloma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> FC Midtjylland</p> |
+| <p align="center">54'</p> | <p align="right">Malmoe FF <img src="/static/logos/Malmoe FF.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Klaksvik.png" height="25px"> Klaksvik</p> |
+| <p align="center">40'</p> | <p align="right">FC FCSB <img src="/static/logos/FC FCSB.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Tel Aviv.png" height="25px"> Maccabi Tel Aviv</p> |
+| <p align="center">9'</p> | <p align="right">Ferencvaros <img src="/static/logos/Ferencvaros.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/TNS.png" height="25px"> TNS</p> |
+| <p align="center">10'</p> | <p align="right">Dynamo Kyiv <img src="/static/logos/Dynamo Kyiv.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Partizan Belgrade.png" height="25px"> Partizan Belgrade</p> |
+| <p align="center">9'</p> | <p align="right">UE Santa Coloma <img src="/static/logos/UE Santa Coloma.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Midtjylland.png" height="25px"> FC Midtjylland</p> |
 | <p align="center">18:30</p> | <p align="right">FC Lugano <img src="/static/logos/FC Lugano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
 | <p align="center">19:00</p> | <p align="right">Shamrock Rovers <img src="/static/logos/Shamrock Rovers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sparta Prague.png" height="25px"> Sparta Prague</p> |
 </div>
