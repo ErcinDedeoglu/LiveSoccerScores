@@ -46,7 +46,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">64'</p> | <p align="right">Internacional <img src="/static/logos/Internacional.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Rosario Central.png" height="25px"> Rosario Central</p> |
+| <p align="center">87'</p> | <p align="right">Internacional <img src="/static/logos/Internacional.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Rosario Central.png" height="25px"> Rosario Central</p> |
 | <p align="center">22:00</p> | <p align="right">Universidad Catolica <img src="/static/logos/Universidad Catolica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
 </div>
 
@@ -57,7 +57,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Tolima <img src="/static/logos/Tolima.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pasto.png" height="25px"> Deportivo Pasto</p> |
+| <p align="center">HT</p> | <p align="right">Tolima <img src="/static/logos/Tolima.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Pasto.png" height="25px"> Deportivo Pasto</p> |
 </div>
 
 
@@ -124,8 +124,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 7'</p> | <p align="right">Ituano FC <img src="/static/logos/Ituano FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/America MG.png" height="25px"> America MG</p> |
-| <p align="center">68'</p> | <p align="right">Ponte Preta <img src="/static/logos/Ponte Preta.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Vila Nova.png" height="25px"> Vila Nova</p> |
+| <p align="center">FT</p> | <p align="right">Ituano FC <img src="/static/logos/Ituano FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/America MG.png" height="25px"> America MG</p> |
+| <p align="center">90' 1'</p> | <p align="right">Ponte Preta <img src="/static/logos/Ponte Preta.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Vila Nova.png" height="25px"> Vila Nova</p> |
 </div>
 
 
