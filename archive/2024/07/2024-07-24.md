@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">35'</p> | <p align="right">Uzbekistan U23 <img src="/static/logos/Uzbekistan U23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Spain U23.png" height="25px"> Spain U23</p> |
-| <p align="center">35'</p> | <p align="right">Argentina U23 <img src="/static/logos/Argentina U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Morocco U23.png" height="25px"> Morocco U23</p> |
+| <p align="center">45' 14'</p> | <p align="right">Uzbekistan U23 <img src="/static/logos/Uzbekistan U23.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Spain U23.png" height="25px"> Spain U23</p> |
+| <p align="center">45' 14'</p> | <p align="right">Argentina U23 <img src="/static/logos/Argentina U23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Morocco U23.png" height="25px"> Morocco U23</p> |
 | <p align="center">15:00</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dominican Republic U23.png" height="25px"> Dominican Republic U23</p> |
 | <p align="center">15:00</p> | <p align="right">Guinea U23 <img src="/static/logos/Guinea U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/New Zealand U23.png" height="25px"> New Zealand U23</p> |
 | <p align="center">17:00</p> | <p align="right">Japan U23 <img src="/static/logos/Japan U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paraguay U23.png" height="25px"> Paraguay U23</p> |
