@@ -20,8 +20,8 @@
 | <p align="center">15:00</p> | <p align="right">Spain <img src="/static/logos/Spain.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Japan.png" height="25px"> Japan</p> |
 | <p align="center">17:00</p> | <p align="right">Nigeria <img src="/static/logos/Nigeria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brazil.png" height="25px"> Brazil</p> |
 | <p align="center">17:00</p> | <p align="right">Germany <img src="/static/logos/Germany.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Australia.png" height="25px"> Australia</p> |
-| <p align="center">19:00</p> | <p align="right">USA <img src="/static/logos/USA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zambia.png" height="25px"> Zambia</p> |
 | <p align="center">19:00</p> | <p align="right">France <img src="/static/logos/France.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Colombia.png" height="25px"> Colombia</p> |
+| <p align="center">19:00</p> | <p align="right">USA <img src="/static/logos/USA.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zambia.png" height="25px"> Zambia</p> |
 </div>
 
 
@@ -110,8 +110,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">16:00</p> | <p align="right">Wisla Krakow <img src="/static/logos/Wisla Krakow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rapid Wien.png" height="25px"> Rapid Wien</p> |
 | <p align="center">16:30</p> | <p align="right">Ruzomberok <img src="/static/logos/Ruzomberok.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Trabzonspor.png" height="25px"> Trabzonspor</p> |
-| <p align="center">17:00</p> | <p align="right">Molde <img src="/static/logos/Molde.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Silkeborg.png" height="25px"> Silkeborg</p> |
 | <p align="center">17:00</p> | <p align="right">FC Sheriff <img src="/static/logos/FC Sheriff.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Elfsborg.png" height="25px"> Elfsborg</p> |
+| <p align="center">17:00</p> | <p align="right">Molde <img src="/static/logos/Molde.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Silkeborg.png" height="25px"> Silkeborg</p> |
 | <p align="center">18:00</p> | <p align="right">Panathinaikos <img src="/static/logos/Panathinaikos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botev Plovdiv.png" height="25px"> Botev Plovdiv</p> |
 | <p align="center">18:30</p> | <p align="right">Ajax <img src="/static/logos/Ajax.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vojvodina.png" height="25px"> Vojvodina</p> |
 | <p align="center">18:30</p> | <p align="right">Kilmarnock <img src="/static/logos/Kilmarnock.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cercle Bruges.png" height="25px"> Cercle Bruges</p> |
@@ -125,7 +125,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 4'</p> | <p align="right">Sabah <img src="/static/logos/Sabah.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Negeri Sembilan.png" height="25px"> Negeri Sembilan</p> |
+| <p align="center">49'</p> | <p align="right">Sabah <img src="/static/logos/Sabah.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Negeri Sembilan.png" height="25px"> Negeri Sembilan</p> |
 </div>
 
 
