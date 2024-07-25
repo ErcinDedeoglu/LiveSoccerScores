@@ -56,7 +56,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Millonarios <img src="/static/logos/Millonarios.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Atletico Nacional.png" height="25px"> Atletico Nacional</p> |
-| <p align="center">6'</p> | <p align="right">America de Cali <img src="/static/logos/America de Cali.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
+| <p align="center">17'</p> | <p align="right">America de Cali <img src="/static/logos/America de Cali.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
 </div>
 
 
@@ -72,7 +72,7 @@
 | <p align="center">FT</p> | <p align="right">Borussia Moenchengladbach <img src="/static/logos/Borussia Moenchengladbach.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Fortuna Sittard.png" height="25px"> Fortuna Sittard</p> |
 | <p align="center">FT</p> | <p align="right">Genoa <img src="/static/logos/Genoa.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Mantova.png" height="25px"> Mantova</p> |
 | <p align="center">FT</p> | <p align="right">Como <img src="/static/logos/Como.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Cagliari.png" height="25px"> Cagliari</p> |
-| <p align="center">15:30</p> | <p align="right">Venezia <img src="/static/logos/Venezia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vis Pesaro.png" height="25px"> Vis Pesaro</p> |
+| <p align="center">FT</p> | <p align="right">Venezia <img src="/static/logos/Venezia.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Vis Pesaro.png" height="25px"> Vis Pesaro</p> |
 | <p align="center">FT</p> | <p align="right">Hertha Berlin <img src="/static/logos/Hertha Berlin.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cardiff.png" height="25px"> Cardiff</p> |
 | <p align="center">FT</p> | <p align="right">Las Palmas <img src="/static/logos/Las Palmas.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Granada.png" height="25px"> Granada</p> |
 | <p align="center">FT</p> | <p align="right">Osasuna <img src="/static/logos/Osasuna.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Mirandes.png" height="25px"> CD Mirandes</p> |
@@ -115,7 +115,7 @@
 | <p align="center">FT</p> | <p align="right">Panathinaikos <img src="/static/logos/Panathinaikos.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Botev Plovdiv.png" height="25px"> Botev Plovdiv</p> |
 | <p align="center">FT</p> | <p align="right">Kilmarnock <img src="/static/logos/Kilmarnock.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cercle Bruges.png" height="25px"> Cercle Bruges</p> |
 | <p align="center">FT</p> | <p align="right">Ajax <img src="/static/logos/Ajax.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Vojvodina.png" height="25px"> Vojvodina</p> |
-| <p align="center">78'</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Petach Tikva.png" height="25px"> Maccabi Petach Tikva</p> |
+| <p align="center">90'</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Maccabi Petach Tikva.png" height="25px"> Maccabi Petach Tikva</p> |
 </div>
 
 
