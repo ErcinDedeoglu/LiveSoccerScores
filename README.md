@@ -66,7 +66,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">54'</p> | <p align="right">Chelsea <img src="/static/logos/Chelsea.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Wrexham.png" height="25px"> Wrexham</p> |
+| <p align="center">62'</p> | <p align="right">Chelsea <img src="/static/logos/Chelsea.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Wrexham.png" height="25px"> Wrexham</p> |
 | <p align="center">HT</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bournemouth.png" height="25px"> Bournemouth</p> |
 | <p align="center">10:00</p> | <p align="right">Gamba Osaka <img src="/static/logos/Gamba Osaka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Sociedad.png" height="25px"> Real Sociedad</p> |
 | <p align="center">11:00</p> | <p align="right">Borussia Moenchengladbach <img src="/static/logos/Borussia Moenchengladbach.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fortuna Sittard.png" height="25px"> Fortuna Sittard</p> |
