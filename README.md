@@ -56,8 +56,8 @@
 | <p align="center">FT</p> | <p align="right">Morecambe <img src="/static/logos/Morecambe.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Blackburn.png" height="25px"> Blackburn</p> |
 | <p align="center">FT</p> | <p align="right">Bolton <img src="/static/logos/Bolton.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Fiorentina.png" height="25px"> Fiorentina</p> |
 | <p align="center">FT</p> | <p align="right">Cheltenham <img src="/static/logos/Cheltenham.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Bristol City.png" height="25px"> Bristol City</p> |
-| <p align="center">88'</p> | <p align="right">Dundee United <img src="/static/logos/Dundee United.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Luton.png" height="25px"> Luton</p> |
-| <p align="center">29'</p> | <p align="right">Sevilla <img src="/static/logos/Sevilla.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ittihad.png" height="25px"> Al Ittihad</p> |
+| <p align="center">FT</p> | <p align="right">Dundee United <img src="/static/logos/Dundee United.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Luton.png" height="25px"> Luton</p> |
+| <p align="center">36'</p> | <p align="right">Sevilla <img src="/static/logos/Sevilla.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ittihad.png" height="25px"> Al Ittihad</p> |
 | <p align="center">23:30</p> | <p align="right">Liverpool <img src="/static/logos/Liverpool.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Betis.png" height="25px"> Real Betis</p> |
 </div>
 
@@ -68,7 +68,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Club Bruges <img src="/static/logos/Club Bruges.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/KV Mechelen.png" height="25px"> KV Mechelen</p> |
+| <p align="center">FT</p> | <p align="right">Club Bruges <img src="/static/logos/Club Bruges.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/KV Mechelen.png" height="25px"> KV Mechelen</p> |
 </div>
 
 
