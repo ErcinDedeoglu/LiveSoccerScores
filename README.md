@@ -20,8 +20,8 @@
 | <p align="center">FT</p> | <p align="right">Dominican Republic U23 <img src="/static/logos/Dominican Republic U23.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Spain U23.png" height="25px"> Spain U23</p> |
 | <p align="center">FT</p> | <p align="right">Uzbekistan U23 <img src="/static/logos/Uzbekistan U23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Egypt U23.png" height="25px"> Egypt U23</p> |
 | <p align="center">FT</p> | <p align="right">Ukraine U23 <img src="/static/logos/Ukraine U23.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Morocco U23.png" height="25px"> Morocco U23</p> |
-| <p align="center">42'</p> | <p align="right">Israel U23 <img src="/static/logos/Israel U23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Paraguay U23.png" height="25px"> Paraguay U23</p> |
-| <p align="center">41'</p> | <p align="right">New Zealand U23 <img src="/static/logos/New Zealand U23.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/USA U23.png" height="25px"> USA U23</p> |
+| <p align="center">45' 4'</p> | <p align="right">Israel U23 <img src="/static/logos/Israel U23.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Paraguay U23.png" height="25px"> Paraguay U23</p> |
+| <p align="center">45' 4'</p> | <p align="right">New Zealand U23 <img src="/static/logos/New Zealand U23.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/USA U23.png" height="25px"> USA U23</p> |
 | <p align="center">19:00</p> | <p align="right">France U23 <img src="/static/logos/France U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guinea U23.png" height="25px"> Guinea U23</p> |
 | <p align="center">19:00</p> | <p align="right">Japan U23 <img src="/static/logos/Japan U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mali U23.png" height="25px"> Mali U23</p> |
 </div>
@@ -56,7 +56,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">48'</p> | <p align="right">Deportes Copiapo <img src="/static/logos/Deportes Copiapo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coquimbo Unido.png" height="25px"> Coquimbo Unido</p> |
+| <p align="center">56'</p> | <p align="right">Deportes Copiapo <img src="/static/logos/Deportes Copiapo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Coquimbo Unido.png" height="25px"> Coquimbo Unido</p> |
 | <p align="center">19:00</p> | <p align="right">Union Espanola <img src="/static/logos/Union Espanola.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cobresal.png" height="25px"> Cobresal</p> |
 | <p align="center">21:30</p> | <p align="right">Colo Colo <img src="/static/logos/Colo Colo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/O'Higgins.png" height="25px"> O'Higgins</p> |
 </div>
@@ -103,11 +103,11 @@
 | <p align="center">FT</p> | <p align="right">Union Berlin <img src="/static/logos/Union Berlin.png" height="25px"></p> | <p align="center">4 - 4</p> | <p align="left"><img src="/static/logos/Rangers.png" height="25px"> Rangers</p> |
 | <p align="center">FT</p> | <p align="right">Rennes <img src="/static/logos/Rennes.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Angers.png" height="25px"> Angers</p> |
 | <p align="center">FT</p> | <p align="right">Nantes <img src="/static/logos/Nantes.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Dunkerque.png" height="25px"> Dunkerque</p> |
-| <p align="center">85'</p> | <p align="right">Atletico Madrid <img src="/static/logos/Atletico Madrid.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Numancia.png" height="25px"> Numancia</p> |
-| <p align="center">80'</p> | <p align="right">PSV Eindhoven <img src="/static/logos/PSV Eindhoven.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Valencia.png" height="25px"> Valencia</p> |
-| <p align="center">79'</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Pau.png" height="25px"> Pau</p> |
-| <p align="center">40'</p> | <p align="right">Besiktas <img src="/static/logos/Besiktas.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Genclerbirligi.png" height="25px"> Genclerbirligi</p> |
-| <p align="center">10'</p> | <p align="right">Inter <img src="/static/logos/Inter.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Las Palmas.png" height="25px"> Las Palmas</p> |
+| <p align="center">90' 3'</p> | <p align="right">Atletico Madrid <img src="/static/logos/Atletico Madrid.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Numancia.png" height="25px"> Numancia</p> |
+| <p align="center">88'</p> | <p align="right">PSV Eindhoven <img src="/static/logos/PSV Eindhoven.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Valencia.png" height="25px"> Valencia</p> |
+| <p align="center">87'</p> | <p align="right">Marseille <img src="/static/logos/Marseille.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Pau.png" height="25px"> Pau</p> |
+| <p align="center">45' 3'</p> | <p align="right">Besiktas <img src="/static/logos/Besiktas.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Genclerbirligi.png" height="25px"> Genclerbirligi</p> |
+| <p align="center">18'</p> | <p align="right">Inter <img src="/static/logos/Inter.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Las Palmas.png" height="25px"> Las Palmas</p> |
 | <p align="center">18:00</p> | <p align="right">Real Valladolid <img src="/static/logos/Real Valladolid.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Burgos CF.png" height="25px"> Burgos CF</p> |
 | <p align="center">18:00</p> | <p align="right">Getafe <img src="/static/logos/Getafe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Albacete.png" height="25px"> Albacete</p> |
 | <p align="center">18:15</p> | <p align="right">Galatasaray <img src="/static/logos/Galatasaray.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma Calcio 1913</p> |
@@ -126,7 +126,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">71'</p> | <p align="right">Beerschot <img src="/static/logos/Beerschot.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/OH Leuven.png" height="25px"> OH Leuven</p> |
+| <p align="center">79'</p> | <p align="right">Beerschot <img src="/static/logos/Beerschot.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/OH Leuven.png" height="25px"> OH Leuven</p> |
 | <p align="center">18:45</p> | <p align="right">Anderlecht <img src="/static/logos/Anderlecht.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/St.Truiden.png" height="25px"> St.Truiden</p> |
 </div>
 
@@ -302,7 +302,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Chrobry Glogow <img src="/static/logos/Chrobry Glogow.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Termalica Nieciecza.png" height="25px"> Termalica Nieciecza</p> |
 | <p align="center">FT</p> | <p align="right">Gornik Leczna <img src="/static/logos/Gornik Leczna.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Stal Rzeszow.png" height="25px"> Stal Rzeszow</p> |
-| <p align="center">7'</p> | <p align="right">Warta Poznan <img src="/static/logos/Warta Poznan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wisla Plock.png" height="25px"> Wisla Plock</p> |
+| <p align="center">15'</p> | <p align="right">Warta Poznan <img src="/static/logos/Warta Poznan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wisla Plock.png" height="25px"> Wisla Plock</p> |
 </div>
 
 
@@ -358,7 +358,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Grasshopper Club <img src="/static/logos/Grasshopper Club.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/FC Luzern.png" height="25px"> FC Luzern</p> |
+| <p align="center">90' 4'</p> | <p align="right">Grasshopper Club <img src="/static/logos/Grasshopper Club.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/FC Luzern.png" height="25px"> FC Luzern</p> |
 | <p align="center">18:30</p> | <p align="right">FC Basel 1893 <img src="/static/logos/FC Basel 1893.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FC Lugano.png" height="25px"> FC Lugano</p> |
 </div>
 
