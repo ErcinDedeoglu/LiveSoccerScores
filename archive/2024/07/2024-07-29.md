@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 9'</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Huachipato.png" height="25px"> Huachipato</p> |
+| <p align="center">FT</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Huachipato.png" height="25px"> Huachipato</p> |
 </div>
 
 
@@ -50,8 +50,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">18:00</p> | <p align="right">Barracas Central <img src="/static/logos/Barracas Central.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico Tucuman.png" height="25px"> Atletico Tucuman</p> |
 | <p align="center">19:30</p> | <p align="right">Defensa y Justicia <img src="/static/logos/Defensa y Justicia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atletico Platense.png" height="25px"> Club Atletico Platense</p> |
-| <p align="center">21:45</p> | <p align="right">Central Cordoba de Santiago <img src="/static/logos/Central Cordoba de Santiago.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Velez Sarsfield.png" height="25px"> Velez Sarsfield</p> |
 | <p align="center">21:45</p> | <p align="right">Tigre <img src="/static/logos/Tigre.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Riestra.png" height="25px"> Deportivo Riestra</p> |
+| <p align="center">21:45</p> | <p align="right">Central Cordoba de Santiago <img src="/static/logos/Central Cordoba de Santiago.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Velez Sarsfield.png" height="25px"> Velez Sarsfield</p> |
 </div>
 
 
@@ -82,9 +82,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">85'</p> | <p align="right">New York City FC <img src="/static/logos/New York City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Queretaro FC.png" height="25px"> Queretaro FC</p> |
-| <p align="center">HT</p> | <p align="right">Sporting Kansas City <img src="/static/logos/Sporting Kansas City.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago Fire FC</p> |
-| <p align="center">02:30</p> | <p align="right">Leon <img src="/static/logos/Leon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Portland Timbers.png" height="25px"> Portland Timbers</p> |
+| <p align="center">FT</p> | <p align="right">New York City FC <img src="/static/logos/New York City FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Queretaro FC.png" height="25px"> Queretaro FC</p> |
+| <p align="center">86'</p> | <p align="right">Sporting Kansas City <img src="/static/logos/Sporting Kansas City.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Chicago Fire FC.png" height="25px"> Chicago Fire FC</p> |
+| <p align="center">12'</p> | <p align="right">Leon <img src="/static/logos/Leon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Portland Timbers.png" height="25px"> Portland Timbers</p> |
 </div>
 
 
