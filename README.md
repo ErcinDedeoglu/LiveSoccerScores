@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 6'</p> | <p align="right">Deportivo Pasto <img src="/static/logos/Deportivo Pasto.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
+| <p align="center">HT</p> | <p align="right">Deportivo Pasto <img src="/static/logos/Deportivo Pasto.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pereira.png" height="25px"> Deportivo Pereira</p> |
 </div>
 
 
@@ -135,7 +135,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">87'</p> | <p align="right">Rentistas <img src="/static/logos/Rentistas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Montevideo City Torque.png" height="25px"> Montevideo City Torque</p> |
+| <p align="center">90' 5'</p> | <p align="right">Rentistas <img src="/static/logos/Rentistas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Montevideo City Torque.png" height="25px"> Montevideo City Torque</p> |
 </div>
 
 
