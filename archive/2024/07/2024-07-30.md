@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18'</p> | <p align="right">Dominican Republic U23 <img src="/static/logos/Dominican Republic U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan U23.png" height="25px"> Uzbekistan U23</p> |
-| <p align="center">18'</p> | <p align="right">Spain U23 <img src="/static/logos/Spain U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Egypt U23.png" height="25px"> Egypt U23</p> |
+| <p align="center">28'</p> | <p align="right">Dominican Republic U23 <img src="/static/logos/Dominican Republic U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Uzbekistan U23.png" height="25px"> Uzbekistan U23</p> |
+| <p align="center">27'</p> | <p align="right">Spain U23 <img src="/static/logos/Spain U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Egypt U23.png" height="25px"> Egypt U23</p> |
 | <p align="center">15:00</p> | <p align="right">Morocco U23 <img src="/static/logos/Morocco U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Iraq U23.png" height="25px"> Iraq U23</p> |
 | <p align="center">15:00</p> | <p align="right">Ukraine U23 <img src="/static/logos/Ukraine U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Argentina U23.png" height="25px"> Argentina U23</p> |
 | <p align="center">17:00</p> | <p align="right">USA U23 <img src="/static/logos/USA U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guinea U23.png" height="25px"> Guinea U23</p> |
@@ -145,8 +145,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Perak <img src="/static/logos/Perak.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Kuching City.png" height="25px"> Kuching City</p> |
-| <p align="center">16'</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Negeri Sembilan.png" height="25px"> Negeri Sembilan</p> |
+| <p align="center">9'</p> | <p align="right">Perak <img src="/static/logos/Perak.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kuching City.png" height="25px"> Kuching City</p> |
+| <p align="center">26'</p> | <p align="right">Terengganu <img src="/static/logos/Terengganu.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Negeri Sembilan.png" height="25px"> Negeri Sembilan</p> |
 </div>
 
 
