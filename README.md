@@ -33,7 +33,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Fortaleza FC <img src="/static/logos/Fortaleza FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Cali.png" height="25px"> Deportivo Cali</p> |
+| <p align="center">75'</p> | <p align="right">Fortaleza FC <img src="/static/logos/Fortaleza FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Cali.png" height="25px"> Deportivo Cali</p> |
 | <p align="center">23:00</p> | <p align="right">Rionegro Aguilas <img src="/static/logos/Rionegro Aguilas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Patriotas.png" height="25px"> Patriotas</p> |
 </div>
 
