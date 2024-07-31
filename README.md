@@ -167,9 +167,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 6'</p> | <p align="right">Sri Pahang <img src="/static/logos/Sri Pahang.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Selangor.png" height="25px"> Selangor</p> |
-| <p align="center">45' 6'</p> | <p align="right">Kuala Lumpur City <img src="/static/logos/Kuala Lumpur City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sabah.png" height="25px"> Sabah</p> |
-| <p align="center">5'</p> | <p align="right">PDRM <img src="/static/logos/PDRM.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Johor Darul Ta'zim.png" height="25px"> Johor Darul Ta'zim</p> |
+| <p align="center">45' 18'</p> | <p align="right">Sri Pahang <img src="/static/logos/Sri Pahang.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Selangor.png" height="25px"> Selangor</p> |
+| <p align="center">HT</p> | <p align="right">Kuala Lumpur City <img src="/static/logos/Kuala Lumpur City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Sabah.png" height="25px"> Sabah</p> |
+| <p align="center">17'</p> | <p align="right">PDRM <img src="/static/logos/PDRM.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Johor Darul Ta'zim.png" height="25px"> Johor Darul Ta'zim</p> |
 </div>
 
 
