@@ -16,12 +16,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
 | <p align="center">15:00</p> | <p align="right">Brazil <img src="/static/logos/Brazil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
+| <p align="center">15:00</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
 | <p align="center">17:00</p> | <p align="right">Zambia <img src="/static/logos/Zambia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Germany.png" height="25px"> Germany</p> |
 | <p align="center">17:00</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/USA.png" height="25px"> USA</p> |
-| <p align="center">19:00</p> | <p align="right">Colombia <img src="/static/logos/Colombia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
 | <p align="center">19:00</p> | <p align="right">New Zealand <img src="/static/logos/New Zealand.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/France.png" height="25px"> France</p> |
+| <p align="center">19:00</p> | <p align="right">Colombia <img src="/static/logos/Colombia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Canada.png" height="25px"> Canada</p> |
 </div>
 
 
@@ -45,7 +45,7 @@
 | <p align="center">09:00</p> | <p align="right">Girona <img src="/static/logos/Girona.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Toulouse.png" height="25px"> Toulouse</p> |
 | <p align="center">10:00</p> | <p align="right">Willem II <img src="/static/logos/Willem II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Helmond Sport.png" height="25px"> Helmond Sport</p> |
 | <p align="center">10:00</p> | <p align="right">Machida Zelvia <img src="/static/logos/Machida Zelvia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Reims.png" height="25px"> Reims</p> |
-| <p align="center">10:30</p> | <p align="right">Urawa Red Diamonds <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newcastle.png" height="25px"> Newcastle</p> |
+| <p align="center">12'</p> | <p align="right">Urawa Red Diamonds <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Newcastle.png" height="25px"> Newcastle</p> |
 | <p align="center">14:00</p> | <p align="right">FC Heidenheim <img src="/static/logos/FC Heidenheim.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma Calcio 1913</p> |
 | <p align="center">14:00</p> | <p align="right">Reading <img src="/static/logos/Reading.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hull.png" height="25px"> Hull</p> |
 | <p align="center">15:00</p> | <p align="right">Bologna <img src="/static/logos/Bologna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Asteras Tripolis.png" height="25px"> Asteras Tripolis</p> |
@@ -60,10 +60,10 @@
 | <p align="center">18:00</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Torino.png" height="25px"> Torino</p> |
 | <p align="center">18:00</p> | <p align="right">SSC Napoli <img src="/static/logos/SSC Napoli.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brest.png" height="25px"> Brest</p> |
 | <p align="center">18:00</p> | <p align="right">Real Valladolid <img src="/static/logos/Real Valladolid.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pau.png" height="25px"> Pau</p> |
-| <p align="center">18:30</p> | <p align="right">Oxford <img src="/static/logos/Oxford.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Southampton.png" height="25px"> Southampton</p> |
 | <p align="center">18:30</p> | <p align="right">Harrogate Town <img src="/static/logos/Harrogate Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Middlesbrough.png" height="25px"> Middlesbrough</p> |
-| <p align="center">18:30</p> | <p align="right">Sevilla <img src="/static/logos/Sevilla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Granada.png" height="25px"> Granada</p> |
 | <p align="center">18:30</p> | <p align="right">Cardiff <img src="/static/logos/Cardiff.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Reading.png" height="25px"> Reading</p> |
+| <p align="center">18:30</p> | <p align="right">Oxford <img src="/static/logos/Oxford.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Southampton.png" height="25px"> Southampton</p> |
+| <p align="center">18:30</p> | <p align="right">Sevilla <img src="/static/logos/Sevilla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Granada.png" height="25px"> Granada</p> |
 | <p align="center">23:30</p> | <p align="right">Chelsea <img src="/static/logos/Chelsea.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
 | <p align="center">23:30</p> | <p align="right">Liverpool <img src="/static/logos/Liverpool.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arsenal.png" height="25px"> Arsenal</p> |
 </div>
