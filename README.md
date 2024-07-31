@@ -156,7 +156,7 @@
 | <p align="center">FT</p> | <p align="right">Pachuca <img src="/static/logos/Pachuca.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/New York Red Bulls.png" height="25px"> New York Red Bulls</p> |
 | <p align="center">FT</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Austin FC.png" height="25px"> Austin FC</p> |
 | <p align="center">FT</p> | <p align="right">Minnesota United <img src="/static/logos/Minnesota United.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
-| <p align="center">86'</p> | <p align="right">Los Angeles FC <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps.png" height="25px"> Vancouver Whitecaps</p> |
+| <p align="center">90' 3'</p> | <p align="right">Los Angeles FC <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Vancouver Whitecaps.png" height="25px"> Vancouver Whitecaps</p> |
 </div>
 
 
