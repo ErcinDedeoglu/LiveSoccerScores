@@ -16,8 +16,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
-| <p align="center">15:00</p> | <p align="right">Brazil <img src="/static/logos/Brazil.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
+| <p align="center">8'</p> | <p align="right">Japan <img src="/static/logos/Japan.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nigeria.png" height="25px"> Nigeria</p> |
+| <p align="center">8'</p> | <p align="right">Brazil <img src="/static/logos/Brazil.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
 | <p align="center">17:00</p> | <p align="right">Australia <img src="/static/logos/Australia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/USA.png" height="25px"> USA</p> |
 | <p align="center">17:00</p> | <p align="right">Zambia <img src="/static/logos/Zambia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Germany.png" height="25px"> Germany</p> |
 | <p align="center">19:00</p> | <p align="right">New Zealand <img src="/static/logos/New Zealand.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/France.png" height="25px"> France</p> |
@@ -46,11 +46,11 @@
 | <p align="center">10:00</p> | <p align="right">Willem II <img src="/static/logos/Willem II.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Helmond Sport.png" height="25px"> Helmond Sport</p> |
 | <p align="center">FT</p> | <p align="right">Machida Zelvia <img src="/static/logos/Machida Zelvia.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Reims.png" height="25px"> Reims</p> |
 | <p align="center">FT</p> | <p align="right">Urawa Red Diamonds <img src="/static/logos/Urawa Red Diamonds.png" height="25px"></p> | <p align="center">1 - 4</p> | <p align="left"><img src="/static/logos/Newcastle.png" height="25px"> Newcastle</p> |
-| <p align="center">41'</p> | <p align="right">FC Heidenheim <img src="/static/logos/FC Heidenheim.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma Calcio 1913</p> |
+| <p align="center">51'</p> | <p align="right">FC Heidenheim <img src="/static/logos/FC Heidenheim.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Parma Calcio 1913.png" height="25px"> Parma Calcio 1913</p> |
 | <p align="center">14:00</p> | <p align="right">Reading <img src="/static/logos/Reading.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hull.png" height="25px"> Hull</p> |
-| <p align="center">15:00</p> | <p align="right">Bologna <img src="/static/logos/Bologna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Asteras Tripolis.png" height="25px"> Asteras Tripolis</p> |
-| <p align="center">15:00</p> | <p align="right">Auxerre <img src="/static/logos/Auxerre.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Troyes.png" height="25px"> Troyes</p> |
-| <p align="center">15:00</p> | <p align="right">Rennes <img src="/static/logos/Rennes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guingamp.png" height="25px"> Guingamp</p> |
+| <p align="center">5'</p> | <p align="right">Bologna <img src="/static/logos/Bologna.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Asteras Tripolis.png" height="25px"> Asteras Tripolis</p> |
+| <p align="center">6'</p> | <p align="right">Rennes <img src="/static/logos/Rennes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guingamp.png" height="25px"> Guingamp</p> |
+| <p align="center">4'</p> | <p align="right">Auxerre <img src="/static/logos/Auxerre.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Troyes.png" height="25px"> Troyes</p> |
 | <p align="center">17:00</p> | <p align="right">AZ Alkmaar <img src="/static/logos/AZ Alkmaar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Le Havre.png" height="25px"> Le Havre</p> |
 | <p align="center">17:00</p> | <p align="right">Getafe <img src="/static/logos/Getafe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Real Zaragoza.png" height="25px"> Real Zaragoza</p> |
 | <p align="center">17:00</p> | <p align="right">Real Sociedad <img src="/static/logos/Real Sociedad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Osasuna.png" height="25px"> Osasuna</p> |
@@ -130,7 +130,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">9'</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ENPPI.png" height="25px"> ENPPI</p> |
+| <p align="center">35'</p> | <p align="right">Al Ittihad Alexandria <img src="/static/logos/Al Ittihad Alexandria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ENPPI.png" height="25px"> ENPPI</p> |
 | <p align="center">18:00</p> | <p align="right">ZED FC <img src="/static/logos/ZED FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Modern Sport FC.png" height="25px"> Modern Sport FC</p> |
 </div>
 
@@ -169,7 +169,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Kuala Lumpur City <img src="/static/logos/Kuala Lumpur City.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Sabah.png" height="25px"> Sabah</p> |
 | <p align="center">FT</p> | <p align="right">Sri Pahang <img src="/static/logos/Sri Pahang.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Selangor.png" height="25px"> Selangor</p> |
-| <p align="center">81'</p> | <p align="right">PDRM <img src="/static/logos/PDRM.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Johor Darul Ta'zim.png" height="25px"> Johor Darul Ta'zim</p> |
+| <p align="center">FT</p> | <p align="right">PDRM <img src="/static/logos/PDRM.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Johor Darul Ta'zim.png" height="25px"> Johor Darul Ta'zim</p> |
 </div>
 
 
