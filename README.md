@@ -74,7 +74,7 @@
 | <p align="center">FT</p> | <p align="right">Caernarfon <img src="/static/logos/Caernarfon.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Legia Warszawa.png" height="25px"> Legia Warszawa</p> |
 | <p align="center">FT</p> | <p align="right">La Fiorita Montegiardino <img src="/static/logos/La Fiorita Montegiardino.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Istanbul Basaksehir.png" height="25px"> Istanbul Basaksehir</p> |
 | <p align="center">FT</p> | <p align="right">Puskas FC Academy <img src="/static/logos/Puskas FC Academy.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/SC Dnipro-1.png" height="25px"> SC Dnipro-1</p> |
-| <p align="center">64'</p> | <p align="right">Vitoria de Guimaraes <img src="/static/logos/Vitoria de Guimaraes.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Floriana.png" height="25px"> Floriana</p> |
+| <p align="center">71'</p> | <p align="right">Vitoria de Guimaraes <img src="/static/logos/Vitoria de Guimaraes.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Floriana.png" height="25px"> Floriana</p> |
 </div>
 
 
