@@ -45,7 +45,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Atletico GO <img src="/static/logos/Atletico GO.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Vasco da Gama.png" height="25px"> Vasco da Gama</p> |
 | <p align="center">FT</p> | <p align="right">Corinthians <img src="/static/logos/Corinthians.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gremio.png" height="25px"> Gremio</p> |
-| <p align="center">14'</p> | <p align="right">Juventude <img src="/static/logos/Juventude.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Fluminense.png" height="25px"> Fluminense</p> |
+| <p align="center">25'</p> | <p align="right">Juventude <img src="/static/logos/Juventude.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Fluminense.png" height="25px"> Fluminense</p> |
 </div>
 
 
