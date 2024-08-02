@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Morocco U23 <img src="/static/logos/Morocco U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/USA U23.png" height="25px"> USA U23</p> |
+| <p align="center">27'</p> | <p align="right">Morocco U23 <img src="/static/logos/Morocco U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/USA U23.png" height="25px"> USA U23</p> |
 | <p align="center">15:00</p> | <p align="right">Japan U23 <img src="/static/logos/Japan U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain U23.png" height="25px"> Spain U23</p> |
 | <p align="center">17:00</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Paraguay U23.png" height="25px"> Paraguay U23</p> |
 | <p align="center">19:00</p> | <p align="right">France U23 <img src="/static/logos/France U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Argentina U23.png" height="25px"> Argentina U23</p> |
@@ -36,10 +36,10 @@
 | <p align="center">17:30</p> | <p align="right">Hercules <img src="/static/logos/Hercules.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Alaves.png" height="25px"> Deportivo Alaves</p> |
 | <p align="center">17:30</p> | <p align="right">Pisa <img src="/static/logos/Pisa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inter.png" height="25px"> Inter</p> |
 | <p align="center">18:30</p> | <p align="right">Stockport County <img src="/static/logos/Stockport County.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackburn.png" height="25px"> Blackburn</p> |
-| <p align="center">18:45</p> | <p align="right">Cambridge U <img src="/static/logos/Cambridge U.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Bromwich.png" height="25px"> West Bromwich</p> |
 | <p align="center">18:45</p> | <p align="right">Huddersfield <img src="/static/logos/Huddersfield.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sheffield United.png" height="25px"> Sheffield United</p> |
-| <p align="center">19:00</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fulham.png" height="25px"> Fulham</p> |
+| <p align="center">18:45</p> | <p align="right">Cambridge U <img src="/static/logos/Cambridge U.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Bromwich.png" height="25px"> West Bromwich</p> |
 | <p align="center">19:00</p> | <p align="right">Nottingham Forest <img src="/static/logos/Nottingham Forest.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Villarreal.png" height="25px"> Villarreal</p> |
+| <p align="center">19:00</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fulham.png" height="25px"> Fulham</p> |
 </div>
 
 
