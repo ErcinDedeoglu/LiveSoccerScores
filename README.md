@@ -33,11 +33,11 @@
 | <p align="center">16:00</p> | <p align="right">FC Groningen <img src="/static/logos/FC Groningen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Heracles.png" height="25px"> Heracles</p> |
 | <p align="center">16:30</p> | <p align="right">Fortuna Sittard <img src="/static/logos/Fortuna Sittard.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/De Graafschap.png" height="25px"> De Graafschap</p> |
 | <p align="center">17:00</p> | <p align="right">NEC Nijmegen <img src="/static/logos/NEC Nijmegen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Le Havre.png" height="25px"> Le Havre</p> |
-| <p align="center">17:30</p> | <p align="right">Pisa <img src="/static/logos/Pisa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inter.png" height="25px"> Inter</p> |
 | <p align="center">17:30</p> | <p align="right">Hercules <img src="/static/logos/Hercules.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Alaves.png" height="25px"> Deportivo Alaves</p> |
+| <p align="center">17:30</p> | <p align="right">Pisa <img src="/static/logos/Pisa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Inter.png" height="25px"> Inter</p> |
 | <p align="center">18:30</p> | <p align="right">Stockport County <img src="/static/logos/Stockport County.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackburn.png" height="25px"> Blackburn</p> |
-| <p align="center">18:45</p> | <p align="right">Huddersfield <img src="/static/logos/Huddersfield.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sheffield United.png" height="25px"> Sheffield United</p> |
 | <p align="center">18:45</p> | <p align="right">Cambridge U <img src="/static/logos/Cambridge U.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Bromwich.png" height="25px"> West Bromwich</p> |
+| <p align="center">18:45</p> | <p align="right">Huddersfield <img src="/static/logos/Huddersfield.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sheffield United.png" height="25px"> Sheffield United</p> |
 | <p align="center">19:00</p> | <p align="right">Benfica <img src="/static/logos/Benfica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fulham.png" height="25px"> Fulham</p> |
 | <p align="center">19:00</p> | <p align="right">Nottingham Forest <img src="/static/logos/Nottingham Forest.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Villarreal.png" height="25px"> Villarreal</p> |
 </div>
@@ -223,8 +223,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20:00</p> | <p align="right">Portuguesa FC <img src="/static/logos/Portuguesa FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Caracas.png" height="25px"> Caracas</p> |
 | <p align="center">20:00</p> | <p align="right">Rayo Zuliano <img src="/static/logos/Rayo Zuliano.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Tachira.png" height="25px"> Deportivo Tachira</p> |
+| <p align="center">20:00</p> | <p align="right">Portuguesa FC <img src="/static/logos/Portuguesa FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Caracas.png" height="25px"> Caracas</p> |
 </div>
 
 
