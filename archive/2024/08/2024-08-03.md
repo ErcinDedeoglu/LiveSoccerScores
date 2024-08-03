@@ -89,7 +89,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">09:00</p> | <p align="right">Burgos CF <img src="/static/logos/Burgos CF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mallorca.png" height="25px"> Mallorca</p> |
-| <p align="center">10:00</p> | <p align="right">Yokohama F.Marinos <img src="/static/logos/Yokohama F.Marinos.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newcastle.png" height="25px"> Newcastle</p> |
+| <p align="center">2'</p> | <p align="right">Yokohama F.Marinos <img src="/static/logos/Yokohama F.Marinos.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Newcastle.png" height="25px"> Newcastle</p> |
 | <p align="center">10:00</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Reims.png" height="25px"> Reims</p> |
 | <p align="center">11:00</p> | <p align="right">Sparta Rotterdam <img src="/static/logos/Sparta Rotterdam.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/NAC Breda.png" height="25px"> NAC Breda</p> |
 | <p align="center">11:00</p> | <p align="right">Bayern Munich <img src="/static/logos/Bayern Munich.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tottenham.png" height="25px"> Tottenham</p> |
@@ -215,7 +215,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">25'</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City FC</p> |
+| <p align="center">33'</p> | <p align="right">Perth Glory <img src="/static/logos/Perth Glory.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Melbourne City FC.png" height="25px"> Melbourne City FC</p> |
 </div>
 
 
@@ -315,7 +315,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 5'</p> | <p align="right">Yokohama FC <img src="/static/logos/Yokohama FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/JEF United Chiba.png" height="25px"> JEF United Chiba</p> |
+| <p align="center">HT</p> | <p align="right">Yokohama FC <img src="/static/logos/Yokohama FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/JEF United Chiba.png" height="25px"> JEF United Chiba</p> |
 | <p align="center">10:00</p> | <p align="right">Roasso Kumamoto <img src="/static/logos/Roasso Kumamoto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tochigi SC.png" height="25px"> Tochigi SC</p> |
 | <p align="center">10:00</p> | <p align="right">Thespakusatsu Gunma <img src="/static/logos/Thespakusatsu Gunma.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ventforet Kofu.png" height="25px"> Ventforet Kofu</p> |
 | <p align="center">10:00</p> | <p align="right">Kagoshima United <img src="/static/logos/Kagoshima United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fujieda MYFC.png" height="25px"> Fujieda MYFC</p> |
@@ -436,11 +436,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">14:00</p> | <p align="right">Elgin <img src="/static/logos/Elgin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/East Fife.png" height="25px"> East Fife</p> |
-| <p align="center">14:00</p> | <p align="right">Edinburgh City <img src="/static/logos/Edinburgh City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stirling Albion.png" height="25px"> Stirling Albion</p> |
-| <p align="center">14:00</p> | <p align="right">Stranraer <img src="/static/logos/Stranraer.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spartans.png" height="25px"> Spartans</p> |
-| <p align="center">14:00</p> | <p align="right">Bonnyrigg Rose Athletic <img src="/static/logos/Bonnyrigg Rose Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Peterhead.png" height="25px"> Peterhead</p> |
-| <p align="center">14:00</p> | <p align="right">Forfar <img src="/static/logos/Forfar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Clyde.png" height="25px"> Clyde</p> |
+| <p align="center">15:00</p> | <p align="right">Elgin <img src="/static/logos/Elgin.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/East Fife.png" height="25px"> East Fife</p> |
+| <p align="center">15:00</p> | <p align="right">Edinburgh City <img src="/static/logos/Edinburgh City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stirling Albion.png" height="25px"> Stirling Albion</p> |
+| <p align="center">15:00</p> | <p align="right">Stranraer <img src="/static/logos/Stranraer.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spartans.png" height="25px"> Spartans</p> |
+| <p align="center">15:00</p> | <p align="right">Bonnyrigg Rose Athletic <img src="/static/logos/Bonnyrigg Rose Athletic.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Peterhead.png" height="25px"> Peterhead</p> |
+| <p align="center">15:00</p> | <p align="right">Forfar <img src="/static/logos/Forfar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Clyde.png" height="25px"> Clyde</p> |
 </div>
 
 
