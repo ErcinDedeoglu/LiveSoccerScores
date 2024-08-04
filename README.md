@@ -266,7 +266,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Iwaki FC <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Blaublitz Akita.png" height="25px"> Blaublitz Akita</p> |
+| <p align="center">87'</p> | <p align="right">Iwaki FC <img src="/static/logos/Iwaki FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Blaublitz Akita.png" height="25px"> Blaublitz Akita</p> |
 </div>
 
 
@@ -329,7 +329,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">38'</p> | <p align="right">Stal Rzeszow <img src="/static/logos/Stal Rzeszow.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Miedz Legnica.png" height="25px"> Miedz Legnica</p> |
+| <p align="center">45' 1'</p> | <p align="right">Stal Rzeszow <img src="/static/logos/Stal Rzeszow.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Miedz Legnica.png" height="25px"> Miedz Legnica</p> |
 | <p align="center">12:30</p> | <p align="right">Znicz Pruszkow <img src="/static/logos/Znicz Pruszkow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
 | <p align="center">15:00</p> | <p align="right">Termalica Nieciecza <img src="/static/logos/Termalica Nieciecza.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Odra Opole.png" height="25px"> Odra Opole</p> |
 </div>
