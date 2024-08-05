@@ -125,8 +125,8 @@
 | <p align="center">FT</p> | <p align="right">Orlando City <img src="/static/logos/Orlando City.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
 | <p align="center">FT</p> | <p align="right">Philadelphia Union <img src="/static/logos/Philadelphia Union.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
 | <p align="center">FT</p> | <p align="right">St. Louis City <img src="/static/logos/St. Louis City.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC Juarez.png" height="25px"> FC Juarez</p> |
-| <p align="center">48'</p> | <p align="right">Seattle Sounders FC <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
-| <p align="center">46'</p> | <p align="right">CD Guadalajara <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/LA Galaxy.png" height="25px"> LA Galaxy</p> |
+| <p align="center">65'</p> | <p align="right">Seattle Sounders FC <img src="/static/logos/Seattle Sounders FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
+| <p align="center">63'</p> | <p align="right">CD Guadalajara <img src="/static/logos/CD Guadalajara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/LA Galaxy.png" height="25px"> LA Galaxy</p> |
 </div>
 
 
