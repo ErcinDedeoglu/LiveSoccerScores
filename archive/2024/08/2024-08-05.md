@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Morocco U23 <img src="/static/logos/Morocco U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Spain U23.png" height="25px"> Spain U23</p> |
+| <p align="center">6'</p> | <p align="right">Morocco U23 <img src="/static/logos/Morocco U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Spain U23.png" height="25px"> Spain U23</p> |
 | <p align="center">19:00</p> | <p align="right">France U23 <img src="/static/logos/France U23.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Egypt U23.png" height="25px"> Egypt U23</p> |
 </div>
 
