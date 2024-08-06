@@ -17,7 +17,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">USA <img src="/static/logos/USA.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Germany.png" height="25px"> Germany</p> |
-| <p align="center">HT</p> | <p align="right">Brazil <img src="/static/logos/Brazil.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
+| <p align="center">72'</p> | <p align="right">Brazil <img src="/static/logos/Brazil.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Spain.png" height="25px"> Spain</p> |
 </div>
 
 
@@ -97,8 +97,8 @@
 | <p align="center">FT</p> | <p align="right">FC Midtjylland <img src="/static/logos/FC Midtjylland.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ferencvaros.png" height="25px"> Ferencvaros</p> |
 | <p align="center">FT</p> | <p align="right">Dynamo Kyiv <img src="/static/logos/Dynamo Kyiv.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Rangers.png" height="25px"> Rangers</p> |
 | <p align="center">FT</p> | <p align="right">Sparta Prague <img src="/static/logos/Sparta Prague.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC FCSB.png" height="25px"> FC FCSB</p> |
-| <p align="center">74'</p> | <p align="right">Lille <img src="/static/logos/Lille.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
-| <p align="center">61'</p> | <p align="right">Salzburg <img src="/static/logos/Salzburg.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Twente.png" height="25px"> Twente</p> |
+| <p align="center">FT</p> | <p align="right">Lille <img src="/static/logos/Lille.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
+| <p align="center">89'</p> | <p align="right">Salzburg <img src="/static/logos/Salzburg.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Twente.png" height="25px"> Twente</p> |
 </div>
 
 
@@ -123,8 +123,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Necaxa <img src="/static/logos/Necaxa.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
-| <p align="center">23:00</p> | <p align="right">Puebla <img src="/static/logos/Puebla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Guadalajara Chivas.png" height="25px"> CD Guadalajara Chivas</p> |
 | <p align="center">23:00</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Tijuana.png" height="25px"> Club Tijuana</p> |
+| <p align="center">23:00</p> | <p align="right">Puebla <img src="/static/logos/Puebla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CD Guadalajara Chivas.png" height="25px"> CD Guadalajara Chivas</p> |
 </div>
 
 
@@ -155,7 +155,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Rayo Zuliano <img src="/static/logos/Rayo Zuliano.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Tachira.png" height="25px"> Deportivo Tachira</p> |
+| <p align="center">69'</p> | <p align="right">Rayo Zuliano <img src="/static/logos/Rayo Zuliano.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Deportivo Tachira.png" height="25px"> Deportivo Tachira</p> |
 </div>
 
 
