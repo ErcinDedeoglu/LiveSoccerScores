@@ -96,9 +96,9 @@
 | <p align="center">FT</p> | <p align="right">Malmoe FF <img src="/static/logos/Malmoe FF.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/PAOK Thessaloniki FC.png" height="25px"> PAOK Thessaloniki FC</p> |
 | <p align="center">FT</p> | <p align="right">FC Midtjylland <img src="/static/logos/FC Midtjylland.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ferencvaros.png" height="25px"> Ferencvaros</p> |
 | <p align="center">FT</p> | <p align="right">Dynamo Kyiv <img src="/static/logos/Dynamo Kyiv.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Rangers.png" height="25px"> Rangers</p> |
-| <p align="center">90' 7'</p> | <p align="right">Sparta Prague <img src="/static/logos/Sparta Prague.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC FCSB.png" height="25px"> FC FCSB</p> |
-| <p align="center">65'</p> | <p align="right">Lille <img src="/static/logos/Lille.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
-| <p align="center">52'</p> | <p align="right">Salzburg <img src="/static/logos/Salzburg.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Twente.png" height="25px"> Twente</p> |
+| <p align="center">FT</p> | <p align="right">Sparta Prague <img src="/static/logos/Sparta Prague.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FC FCSB.png" height="25px"> FC FCSB</p> |
+| <p align="center">74'</p> | <p align="right">Lille <img src="/static/logos/Lille.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Fenerbahce.png" height="25px"> Fenerbahce</p> |
+| <p align="center">61'</p> | <p align="right">Salzburg <img src="/static/logos/Salzburg.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Twente.png" height="25px"> Twente</p> |
 </div>
 
 
