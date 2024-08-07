@@ -79,9 +79,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13'</p> | <p align="right">Spirit FC <img src="/static/logos/Spirit FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Glenorchy Knights.png" height="25px"> Glenorchy Knights</p> |
-| <p align="center">11'</p> | <p align="right">Heidelberg United <img src="/static/logos/Heidelberg United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
-| <p align="center">13'</p> | <p align="right">Olympic FC <img src="/static/logos/Olympic FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/APIA Leichhardt FC.png" height="25px"> APIA Leichhardt FC</p> |
+| <p align="center">21'</p> | <p align="right">Spirit FC <img src="/static/logos/Spirit FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Glenorchy Knights.png" height="25px"> Glenorchy Knights</p> |
+| <p align="center">19'</p> | <p align="right">Heidelberg United <img src="/static/logos/Heidelberg United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Central Coast Mariners.png" height="25px"> Central Coast Mariners</p> |
+| <p align="center">20'</p> | <p align="right">Olympic FC <img src="/static/logos/Olympic FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/APIA Leichhardt FC.png" height="25px"> APIA Leichhardt FC</p> |
 </div>
 
 
