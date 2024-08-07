@@ -34,13 +34,13 @@
 | <p align="center">FT</p> | <p align="right">FSV Frankfurt <img src="/static/logos/FSV Frankfurt.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Eintracht Frankfurt.png" height="25px"> Eintracht Frankfurt</p> |
 | <p align="center">FT</p> | <p align="right">Deportivo Alaves <img src="/static/logos/Deportivo Alaves.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/SD Huesca.png" height="25px"> SD Huesca</p> |
 | <p align="center">FT</p> | <p align="right">Sturm Graz <img src="/static/logos/Sturm Graz.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Paris Saint-Germain.png" height="25px"> Paris Saint-Germain</p> |
-| <p align="center">79'</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Bayer Leverkusen.png" height="25px"> Bayer Leverkusen</p> |
-| <p align="center">32'</p> | <p align="right">Getafe <img src="/static/logos/Getafe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Saint-Etienne.png" height="25px"> Saint-Etienne</p> |
-| <p align="center">4'</p> | <p align="right">Southampton <img src="/static/logos/Southampton.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Lazio.png" height="25px"> Lazio</p> |
-| <p align="center">3'</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Athletic Club.png" height="25px"> Athletic Club</p> |
-| <p align="center">4'</p> | <p align="right">Inter <img src="/static/logos/Inter.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ittihad.png" height="25px"> Al Ittihad</p> |
+| <p align="center">88'</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Bayer Leverkusen.png" height="25px"> Bayer Leverkusen</p> |
+| <p align="center">40'</p> | <p align="right">Getafe <img src="/static/logos/Getafe.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Saint-Etienne.png" height="25px"> Saint-Etienne</p> |
+| <p align="center">12'</p> | <p align="right">Southampton <img src="/static/logos/Southampton.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Lazio.png" height="25px"> Lazio</p> |
+| <p align="center">12'</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Athletic Club.png" height="25px"> Athletic Club</p> |
+| <p align="center">12'</p> | <p align="right">Inter <img src="/static/logos/Inter.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Al Ittihad.png" height="25px"> Al Ittihad</p> |
 | <p align="center">18:30</p> | <p align="right">Real Betis <img src="/static/logos/Real Betis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Raja Casablanca.png" height="25px"> Raja Casablanca</p> |
-| <p align="center">3'</p> | <p align="right">Cadiz <img src="/static/logos/Cadiz.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Betis.png" height="25px"> Real Betis</p> |
+| <p align="center">11'</p> | <p align="right">Cadiz <img src="/static/logos/Cadiz.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Betis.png" height="25px"> Real Betis</p> |
 </div>
 
 
@@ -167,7 +167,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">36'</p> | <p align="right">Vestri <img src="/static/logos/Vestri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IA Akranes.png" height="25px"> IA Akranes</p> |
+| <p align="center">44'</p> | <p align="right">Vestri <img src="/static/logos/Vestri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IA Akranes.png" height="25px"> IA Akranes</p> |
 </div>
 
 
@@ -177,8 +177,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Slavia Prague <img src="/static/logos/Slavia Prague.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
-| <p align="center">5'</p> | <p align="right">Slovan Bratislava <img src="/static/logos/Slovan Bratislava.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/APOEL Nicosia.png" height="25px"> APOEL Nicosia</p> |
+| <p align="center">84'</p> | <p align="right">Slavia Prague <img src="/static/logos/Slavia Prague.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Union St.Gilloise.png" height="25px"> Union St.Gilloise</p> |
+| <p align="center">13'</p> | <p align="right">Slovan Bratislava <img src="/static/logos/Slovan Bratislava.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/APOEL Nicosia.png" height="25px"> APOEL Nicosia</p> |
 | <p align="center">18:45</p> | <p align="right">Jagiellonia Bialystok <img src="/static/logos/Jagiellonia Bialystok.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bodoe/Glimt.png" height="25px"> Bodoe/Glimt</p> |
 </div>
 
@@ -201,10 +201,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">FC Copenhagen <img src="/static/logos/FC Copenhagen.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Banik Ostrava.png" height="25px"> Banik Ostrava</p> |
-| <p align="center">78'</p> | <p align="right">Haecken <img src="/static/logos/Haecken.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Paide Linnameeskond.png" height="25px"> Paide Linnameeskond</p> |
-| <p align="center">77'</p> | <p align="right">Paksi SE <img src="/static/logos/Paksi SE.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mornar.png" height="25px"> Mornar</p> |
-| <p align="center">2'</p> | <p align="right">FC St. Gallen <img src="/static/logos/FC St. Gallen.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Slask Wroclaw.png" height="25px"> Slask Wroclaw</p> |
+| <p align="center">84'</p> | <p align="right">FC Copenhagen <img src="/static/logos/FC Copenhagen.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Banik Ostrava.png" height="25px"> Banik Ostrava</p> |
+| <p align="center">87'</p> | <p align="right">Haecken <img src="/static/logos/Haecken.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Paide Linnameeskond.png" height="25px"> Paide Linnameeskond</p> |
+| <p align="center">85'</p> | <p align="right">Paksi SE <img src="/static/logos/Paksi SE.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mornar.png" height="25px"> Mornar</p> |
+| <p align="center">11'</p> | <p align="right">FC St. Gallen <img src="/static/logos/FC St. Gallen.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Slask Wroclaw.png" height="25px"> Slask Wroclaw</p> |
 </div>
 
 
