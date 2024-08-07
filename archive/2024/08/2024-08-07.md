@@ -30,10 +30,10 @@
 | <p align="center">FT</p> | <p align="right">Versailles <img src="/static/logos/Versailles.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Lens.png" height="25px"> Lens</p> |
 | <p align="center">FT</p> | <p align="right">Nantes <img src="/static/logos/Nantes.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Lorient.png" height="25px"> Lorient</p> |
 | <p align="center">16:00</p> | <p align="right">Montpellier <img src="/static/logos/Montpellier.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cannes.png" height="25px"> Cannes</p> |
-| <p align="center">90'</p> | <p align="right">FSV Frankfurt <img src="/static/logos/FSV Frankfurt.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Eintracht Frankfurt.png" height="25px"> Eintracht Frankfurt</p> |
-| <p align="center">90'</p> | <p align="right">Montpellier <img src="/static/logos/Montpellier.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Martigues.png" height="25px"> Martigues</p> |
-| <p align="center">65'</p> | <p align="right">Sturm Graz <img src="/static/logos/Sturm Graz.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Paris Saint-Germain.png" height="25px"> Paris Saint-Germain</p> |
-| <p align="center">67'</p> | <p align="right">Deportivo Alaves <img src="/static/logos/Deportivo Alaves.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SD Huesca.png" height="25px"> SD Huesca</p> |
+| <p align="center">FT</p> | <p align="right">FSV Frankfurt <img src="/static/logos/FSV Frankfurt.png" height="25px"></p> | <p align="center">2 - 5</p> | <p align="left"><img src="/static/logos/Eintracht Frankfurt.png" height="25px"> Eintracht Frankfurt</p> |
+| <p align="center">FT</p> | <p align="right">Montpellier <img src="/static/logos/Montpellier.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Martigues.png" height="25px"> Martigues</p> |
+| <p align="center">73'</p> | <p align="right">Sturm Graz <img src="/static/logos/Sturm Graz.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Paris Saint-Germain.png" height="25px"> Paris Saint-Germain</p> |
+| <p align="center">76'</p> | <p align="right">Deportivo Alaves <img src="/static/logos/Deportivo Alaves.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/SD Huesca.png" height="25px"> SD Huesca</p> |
 | <p align="center">HT</p> | <p align="right">Arsenal <img src="/static/logos/Arsenal.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Bayer Leverkusen.png" height="25px"> Bayer Leverkusen</p> |
 | <p align="center">18:00</p> | <p align="right">Getafe <img src="/static/logos/Getafe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Saint-Etienne.png" height="25px"> Saint-Etienne</p> |
 | <p align="center">18:30</p> | <p align="right">Aston Villa <img src="/static/logos/Aston Villa.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Athletic Club.png" height="25px"> Athletic Club</p> |
@@ -167,7 +167,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Vestri <img src="/static/logos/Vestri.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IA Akranes.png" height="25px"> IA Akranes</p> |
+| <p align="center">1'</p> | <p align="right">Vestri <img src="/static/logos/Vestri.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/IA Akranes.png" height="25px"> IA Akranes</p> |
 </div>
 
 
@@ -238,8 +238,8 @@
 | <p align="center">FT</p> | <p align="right">KKS 1925 Kalisz <img src="/static/logos/KKS 1925 Kalisz.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Olimpia Grudziadz.png" height="25px"> Olimpia Grudziadz</p> |
 | <p align="center">FT</p> | <p align="right">Stal Stalowa Wola <img src="/static/logos/Stal Stalowa Wola.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/Olimpia Elblag.png" height="25px"> Olimpia Elblag</p> |
 | <p align="center">FT</p> | <p align="right">Radunia Stezyca <img src="/static/logos/Radunia Stezyca.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/LKS Lodz II.png" height="25px"> LKS Lodz II</p> |
-| <p align="center">16:00</p> | <p align="right">Zaglebie Sosnowiec <img src="/static/logos/Zaglebie Sosnowiec.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sandecja Nowy Sacz.png" height="25px"> Sandecja Nowy Sacz</p> |
-| <p align="center">16:00</p> | <p align="right">Kotwica Kolobrzeg <img src="/static/logos/Kotwica Kolobrzeg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SKRA Czestochowa.png" height="25px"> SKRA Czestochowa</p> |
+| <p align="center">FT</p> | <p align="right">Zaglebie Sosnowiec <img src="/static/logos/Zaglebie Sosnowiec.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sandecja Nowy Sacz.png" height="25px"> Sandecja Nowy Sacz</p> |
+| <p align="center">FT</p> | <p align="right">Kotwica Kolobrzeg <img src="/static/logos/Kotwica Kolobrzeg.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/SKRA Czestochowa.png" height="25px"> SKRA Czestochowa</p> |
 | <p align="center">17:30</p> | <p align="right">Chojniczanka Chojnice <img src="/static/logos/Chojniczanka Chojnice.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wisla Pulawy.png" height="25px"> Wisla Pulawy</p> |
 </div>
 
