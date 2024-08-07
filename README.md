@@ -92,7 +92,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Universitario de Vinto <img src="/static/logos/Universitario de Vinto.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/GV San Jose.png" height="25px"> GV San Jose</p> |
-| <p align="center">22:00</p> | <p align="right">Oriente Petrolero <img src="/static/logos/Oriente Petrolero.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Royal Pari.png" height="25px"> Royal Pari</p> |
+| <p align="center">9'</p> | <p align="right">Oriente Petrolero <img src="/static/logos/Oriente Petrolero.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Royal Pari.png" height="25px"> Royal Pari</p> |
 </div>
 
 
@@ -103,9 +103,9 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Vasco da Gama <img src="/static/logos/Vasco da Gama.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Atletico GO.png" height="25px"> Atletico GO</p> |
-| <p align="center">22:00</p> | <p align="right">Atletico MG <img src="/static/logos/Atletico MG.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
-| <p align="center">22:00</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
-| <p align="center">22:00</p> | <p align="right">Red Bull Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Athletico Paranaense.png" height="25px"> Athletico Paranaense</p> |
+| <p align="center">10'</p> | <p align="right">Atletico MG <img src="/static/logos/Atletico MG.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
+| <p align="center">7'</p> | <p align="right">Bahia <img src="/static/logos/Bahia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
+| <p align="center">10'</p> | <p align="right">Red Bull Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Athletico Paranaense.png" height="25px"> Athletico Paranaense</p> |
 | <p align="center">23:00</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Flamengo.png" height="25px"> Flamengo</p> |
 </div>
 
@@ -126,7 +126,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Ypiranga RS <img src="/static/logos/Ypiranga RS.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Caxias.png" height="25px"> Caxias</p> |
+| <p align="center">8'</p> | <p align="right">Ypiranga RS <img src="/static/logos/Ypiranga RS.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Caxias.png" height="25px"> Caxias</p> |
 </div>
 
 
@@ -137,7 +137,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Internacional FC de Palmira <img src="/static/logos/Internacional FC de Palmira.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Llaneros FC.png" height="25px"> Llaneros FC</p> |
-| <p align="center">HT</p> | <p align="right">Cucuta <img src="/static/logos/Cucuta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Cartagena.png" height="25px"> Real Cartagena</p> |
+| <p align="center">48'</p> | <p align="right">Cucuta <img src="/static/logos/Cucuta.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Cartagena.png" height="25px"> Real Cartagena</p> |
 </div>
 
 
@@ -191,7 +191,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">FC Motagua <img src="/static/logos/FC Motagua.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/San Francisco FC.png" height="25px"> San Francisco FC</p> |
 | <p align="center">FT</p> | <p align="right">Antigua Guatemala <img src="/static/logos/Antigua Guatemala.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/CD Aguila.png" height="25px"> CD Aguila</p> |
-| <p align="center">22:00</p> | <p align="right">Diriangen FC <img src="/static/logos/Diriangen FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Sport Herediano.png" height="25px"> Club Sport Herediano</p> |
+| <p align="center">4'</p> | <p align="right">Diriangen FC <img src="/static/logos/Diriangen FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Sport Herediano.png" height="25px"> Club Sport Herediano</p> |
 </div>
 
 
@@ -225,7 +225,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Sol de America <img src="/static/logos/Sol de America.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Olimpia.png" height="25px"> Olimpia</p> |
-| <p align="center">31'</p> | <p align="right">Sportivo Ameliano <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
+| <p align="center">40'</p> | <p align="right">Sportivo Ameliano <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
 </div>
 
 
@@ -283,7 +283,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Zamora FC <img src="/static/logos/Zamora FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Metropolitanos FC.png" height="25px"> Metropolitanos FC</p> |
-| <p align="center">HT</p> | <p align="right">Estudiantes Merida <img src="/static/logos/Estudiantes Merida.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Academia Puerto Cabello.png" height="25px"> Academia Puerto Cabello</p> |
+| <p align="center">50'</p> | <p align="right">Estudiantes Merida <img src="/static/logos/Estudiantes Merida.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Academia Puerto Cabello.png" height="25px"> Academia Puerto Cabello</p> |
 | <p align="center">23:45</p> | <p align="right">Portuguesa FC <img src="/static/logos/Portuguesa FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Caracas.png" height="25px"> Caracas</p> |
 </div>
 
