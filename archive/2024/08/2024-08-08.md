@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">77'</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt U23.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/Morocco U23.png" height="25px"> Morocco U23</p> |
+| <p align="center">FT</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt U23.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Morocco U23.png" height="25px"> Morocco U23</p> |
 </div>
 
 
@@ -91,8 +91,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">76'</p> | <p align="right">Al Tersana <img src="/static/logos/Al Tersana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
-| <p align="center">74'</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Abo Qir Semad.png" height="25px"> Abo Qir Semad</p> |
+| <p align="center">90' 1'</p> | <p align="right">Al Tersana <img src="/static/logos/Al Tersana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
+| <p align="center">89'</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Abo Qir Semad.png" height="25px"> Abo Qir Semad</p> |
 </div>
 
 
@@ -134,15 +134,15 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Auda <img src="/static/logos/Auda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Drita.png" height="25px"> Drita</p> |
-| <p align="center">83'</p> | <p align="right">Ararat Armenia <img src="/static/logos/Ararat Armenia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puskas FC Academy.png" height="25px"> Puskas FC Academy</p> |
-| <p align="center">77'</p> | <p align="right">Ordabasy Shymkent <img src="/static/logos/Ordabasy Shymkent.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Pyunik.png" height="25px"> Pyunik</p> |
-| <p align="center">38'</p> | <p align="right">Mlada Boleslav <img src="/static/logos/Mlada Boleslav.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Beer Sheva.png" height="25px"> Hapoel Beer Sheva</p> |
-| <p align="center">38'</p> | <p align="right">Ilves <img src="/static/logos/Ilves.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Djurgaarden.png" height="25px"> Djurgaarden</p> |
-| <p align="center">38'</p> | <p align="right">HJK <img src="/static/logos/HJK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Decic Tuzi.png" height="25px"> Decic Tuzi</p> |
-| <p align="center">38'</p> | <p align="right">Iberia 1999 <img src="/static/logos/Iberia 1999.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Istanbul Basaksehir.png" height="25px"> Istanbul Basaksehir</p> |
-| <p align="center">7'</p> | <p align="right">Silkeborg <img src="/static/logos/Silkeborg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gent.png" height="25px"> Gent</p> |
-| <p align="center">8'</p> | <p align="right">Ruzomberok <img src="/static/logos/Ruzomberok.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hajduk Split.png" height="25px"> Hajduk Split</p> |
+| <p align="center">90' 4'</p> | <p align="right">Auda <img src="/static/logos/Auda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Drita.png" height="25px"> Drita</p> |
+| <p align="center">FT</p> | <p align="right">Ararat Armenia <img src="/static/logos/Ararat Armenia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Puskas FC Academy.png" height="25px"> Puskas FC Academy</p> |
+| <p align="center">90' 2'</p> | <p align="right">Ordabasy Shymkent <img src="/static/logos/Ordabasy Shymkent.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Pyunik.png" height="25px"> Pyunik</p> |
+| <p align="center">HT</p> | <p align="right">Mlada Boleslav <img src="/static/logos/Mlada Boleslav.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Hapoel Beer Sheva.png" height="25px"> Hapoel Beer Sheva</p> |
+| <p align="center">HT</p> | <p align="right">Ilves <img src="/static/logos/Ilves.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Djurgaarden.png" height="25px"> Djurgaarden</p> |
+| <p align="center">HT</p> | <p align="right">HJK <img src="/static/logos/HJK.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Decic Tuzi.png" height="25px"> Decic Tuzi</p> |
+| <p align="center">HT</p> | <p align="right">Iberia 1999 <img src="/static/logos/Iberia 1999.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Istanbul Basaksehir.png" height="25px"> Istanbul Basaksehir</p> |
+| <p align="center">22'</p> | <p align="right">Silkeborg <img src="/static/logos/Silkeborg.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Gent.png" height="25px"> Gent</p> |
+| <p align="center">23'</p> | <p align="right">Ruzomberok <img src="/static/logos/Ruzomberok.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hajduk Split.png" height="25px"> Hajduk Split</p> |
 | <p align="center">17:00</p> | <p align="right">FC Zuerich <img src="/static/logos/FC Zuerich.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Vitoria de Guimaraes.png" height="25px"> Vitoria de Guimaraes</p> |
 | <p align="center">17:00</p> | <p align="right">Omonia Nicosia <img src="/static/logos/Omonia Nicosia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fehervar FC.png" height="25px"> Fehervar FC</p> |
 | <p align="center">17:00</p> | <p align="right">Brondby IF <img src="/static/logos/Brondby IF.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Legia Warszawa.png" height="25px"> Legia Warszawa</p> |
