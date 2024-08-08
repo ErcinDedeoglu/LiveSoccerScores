@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">1'</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Morocco U23.png" height="25px"> Morocco U23</p> |
+| <p align="center">11'</p> | <p align="right">Egypt U23 <img src="/static/logos/Egypt U23.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Morocco U23.png" height="25px"> Morocco U23</p> |
 </div>
 
 
@@ -91,8 +91,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Abo Qir Semad.png" height="25px"> Abo Qir Semad</p> |
-| <p align="center">15:00</p> | <p align="right">Al Tersana <img src="/static/logos/Al Tersana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
+| <p align="center">9'</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Abo Qir Semad.png" height="25px"> Abo Qir Semad</p> |
+| <p align="center">9'</p> | <p align="right">Al Tersana <img src="/static/logos/Al Tersana.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Gouna FC.png" height="25px"> El Gouna FC</p> |
 </div>
 
 
@@ -134,9 +134,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">1'</p> | <p align="right">Auda <img src="/static/logos/Auda.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Drita.png" height="25px"> Drita</p> |
-| <p align="center">1'</p> | <p align="right">Ararat Armenia <img src="/static/logos/Ararat Armenia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puskas FC Academy.png" height="25px"> Puskas FC Academy</p> |
-| <p align="center">15:00</p> | <p align="right">Ordabasy Shymkent <img src="/static/logos/Ordabasy Shymkent.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pyunik.png" height="25px"> Pyunik</p> |
+| <p align="center">11'</p> | <p align="right">Auda <img src="/static/logos/Auda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Drita.png" height="25px"> Drita</p> |
+| <p align="center">11'</p> | <p align="right">Ararat Armenia <img src="/static/logos/Ararat Armenia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Puskas FC Academy.png" height="25px"> Puskas FC Academy</p> |
+| <p align="center">11'</p> | <p align="right">Ordabasy Shymkent <img src="/static/logos/Ordabasy Shymkent.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pyunik.png" height="25px"> Pyunik</p> |
 | <p align="center">16:00</p> | <p align="right">Ilves <img src="/static/logos/Ilves.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Djurgaarden.png" height="25px"> Djurgaarden</p> |
 | <p align="center">16:00</p> | <p align="right">Iberia 1999 <img src="/static/logos/Iberia 1999.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Istanbul Basaksehir.png" height="25px"> Istanbul Basaksehir</p> |
 | <p align="center">16:00</p> | <p align="right">Mlada Boleslav <img src="/static/logos/Mlada Boleslav.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Hapoel Beer Sheva.png" height="25px"> Hapoel Beer Sheva</p> |
