@@ -201,7 +201,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">2 de Mayo <img src="/static/logos/2 de Mayo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
-| <p align="center">23'</p> | <p align="right">Luqueno <img src="/static/logos/Luqueno.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tacuary.png" height="25px"> Tacuary</p> |
+| <p align="center">30'</p> | <p align="right">Luqueno <img src="/static/logos/Luqueno.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Tacuary.png" height="25px"> Tacuary</p> |
 </div>
 
 
