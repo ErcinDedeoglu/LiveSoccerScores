@@ -102,8 +102,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Keflavik <img src="/static/logos/Keflavik.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Grindavik.png" height="25px"> Grindavik</p> |
-| <p align="center">81'</p> | <p align="right">Afturelding <img src="/static/logos/Afturelding.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Leiknir Reykjavik.png" height="25px"> Leiknir Reykjavik</p> |
+| <p align="center">FT</p> | <p align="right">Keflavik <img src="/static/logos/Keflavik.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Grindavik.png" height="25px"> Grindavik</p> |
+| <p align="center">90' 2'</p> | <p align="right">Afturelding <img src="/static/logos/Afturelding.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Leiknir Reykjavik.png" height="25px"> Leiknir Reykjavik</p> |
 </div>
 
 
@@ -178,7 +178,7 @@
 | <p align="center">FT</p> | <p align="right">Rijeka <img src="/static/logos/Rijeka.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Elfsborg.png" height="25px"> Elfsborg</p> |
 | <p align="center">FT</p> | <p align="right">NK Celje <img src="/static/logos/NK Celje.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Shamrock Rovers.png" height="25px"> Shamrock Rovers</p> |
 | <p align="center">FT</p> | <p align="right">Dinamo Minsk <img src="/static/logos/Dinamo Minsk.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Lincoln Red Imps FC.png" height="25px"> Lincoln Red Imps FC</p> |
-| <p align="center">69'</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Servette FC.png" height="25px"> Servette FC</p> |
+| <p align="center">80'</p> | <p align="right">Braga <img src="/static/logos/Braga.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Servette FC.png" height="25px"> Servette FC</p> |
 </div>
 
 
@@ -221,7 +221,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:00</p> | <p align="right">Deportivo La Guaira <img src="/static/logos/Deportivo La Guaira.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Angostura FC.png" height="25px"> Angostura FC</p> |
+| <p align="center">11'</p> | <p align="right">Deportivo La Guaira <img src="/static/logos/Deportivo La Guaira.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Angostura FC.png" height="25px"> Angostura FC</p> |
 | <p align="center">23:45</p> | <p align="right">Carabobo FC <img src="/static/logos/Carabobo FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monagas SC.png" height="25px"> Monagas SC</p> |
 </div>
 
