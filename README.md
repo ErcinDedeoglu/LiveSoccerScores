@@ -58,7 +58,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Real Tomayapo <img src="/static/logos/Real Tomayapo.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Independiente Petrolero.png" height="25px"> Independiente Petrolero</p> |
 | <p align="center">FT</p> | <p align="right">Real Santa Cruz <img src="/static/logos/Real Santa Cruz.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/The Strongest.png" height="25px"> The Strongest</p> |
-| <p align="center">63'</p> | <p align="right">Aurora <img src="/static/logos/Aurora.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blooming.png" height="25px"> Blooming</p> |
+| <p align="center">71'</p> | <p align="right">Aurora <img src="/static/logos/Aurora.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Blooming.png" height="25px"> Blooming</p> |
 </div>
 
 
@@ -70,7 +70,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Fluminense <img src="/static/logos/Fluminense.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Juventude.png" height="25px"> Juventude</p> |
 | <p align="center">FT</p> | <p align="right">Gremio <img src="/static/logos/Gremio.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Corinthians.png" height="25px"> Corinthians</p> |
-| <p align="center">22'</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sao Paulo.png" height="25px"> Sao Paulo</p> |
+| <p align="center">30'</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Sao Paulo.png" height="25px"> Sao Paulo</p> |
 </div>
 
 
@@ -201,7 +201,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">2 de Mayo <img src="/static/logos/2 de Mayo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
-| <p align="center">90' 5'</p> | <p align="right">Luqueno <img src="/static/logos/Luqueno.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tacuary.png" height="25px"> Tacuary</p> |
+| <p align="center">FT</p> | <p align="right">Luqueno <img src="/static/logos/Luqueno.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Tacuary.png" height="25px"> Tacuary</p> |
 </div>
 
 
