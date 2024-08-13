@@ -139,7 +139,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">Bogota FC <img src="/static/logos/Bogota FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Real Cartagena.png" height="25px"> Real Cartagena</p> |
+| <p align="center">71'</p> | <p align="right">Bogota FC <img src="/static/logos/Bogota FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Real Cartagena.png" height="25px"> Real Cartagena</p> |
 | <p align="center">22:30</p> | <p align="right">Boca Juniors de Cali <img src="/static/logos/Boca Juniors de Cali.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cucuta.png" height="25px"> Cucuta</p> |
 </div>
 
@@ -407,7 +407,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Rayo Zuliano <img src="/static/logos/Rayo Zuliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Zamora FC.png" height="25px"> Zamora FC</p> |
-| <p align="center">21:45</p> | <p align="right">Deportivo Tachira <img src="/static/logos/Deportivo Tachira.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Portuguesa FC.png" height="25px"> Portuguesa FC</p> |
+| <p align="center">9'</p> | <p align="right">Deportivo Tachira <img src="/static/logos/Deportivo Tachira.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Portuguesa FC.png" height="25px"> Portuguesa FC</p> |
 </div>
 
 
