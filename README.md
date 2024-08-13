@@ -129,7 +129,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">41'</p> | <p align="right">Dobrudzha Dobrich <img src="/static/logos/Dobrudzha Dobrich.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nesebar.png" height="25px"> Nesebar</p> |
+| <p align="center">HT</p> | <p align="right">Dobrudzha Dobrich <img src="/static/logos/Dobrudzha Dobrich.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nesebar.png" height="25px"> Nesebar</p> |
 </div>
 
 
@@ -218,7 +218,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">SJK Akatemia <img src="/static/logos/SJK Akatemia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KaePa.png" height="25px"> KaePa</p> |
+| <p align="center">20'</p> | <p align="right">SJK Akatemia <img src="/static/logos/SJK Akatemia.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/KaePa.png" height="25px"> KaePa</p> |
 </div>
 
 
@@ -229,7 +229,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Shandong Taishan <img src="/static/logos/Shandong Taishan.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Bangkok United.png" height="25px"> Bangkok United</p> |
-| <p align="center">12'</p> | <p align="right">Al-Gharafa <img src="/static/logos/Al-Gharafa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shabab Al-Ahli Dubai FC.png" height="25px"> Shabab Al-Ahli Dubai FC</p> |
+| <p align="center">20'</p> | <p align="right">Al-Gharafa <img src="/static/logos/Al-Gharafa.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Shabab Al-Ahli Dubai FC.png" height="25px"> Shabab Al-Ahli Dubai FC</p> |
 </div>
 
 
