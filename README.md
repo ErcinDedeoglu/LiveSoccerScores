@@ -129,7 +129,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Dobrudzha Dobrich <img src="/static/logos/Dobrudzha Dobrich.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nesebar.png" height="25px"> Nesebar</p> |
+| <p align="center">15'</p> | <p align="right">Dobrudzha Dobrich <img src="/static/logos/Dobrudzha Dobrich.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nesebar.png" height="25px"> Nesebar</p> |
 </div>
 
 
