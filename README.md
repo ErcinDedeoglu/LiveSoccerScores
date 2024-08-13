@@ -314,7 +314,7 @@
 | <p align="center">FT</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">0 - 6</p> | <p align="left"><img src="/static/logos/Tigres.png" height="25px"> Tigres</p> |
 | <p align="center">FT</p> | <p align="right">CD Guadalajara Chivas <img src="/static/logos/CD Guadalajara Chivas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Queretaro.png" height="25px"> Queretaro</p> |
 | <p align="center">FT</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
-| <p align="center">03:10</p> | <p align="right">Club Tijuana <img src="/static/logos/Club Tijuana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
+| <p align="center">FT</p> | <p align="right">Club Tijuana <img src="/static/logos/Club Tijuana.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
 </div>
 
 
