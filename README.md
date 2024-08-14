@@ -103,8 +103,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">14:30</p> | <p align="right">Zamalek SC <img src="/static/logos/Zamalek SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
 | <p align="center">14:30</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ZED FC.png" height="25px"> ZED FC</p> |
-| <p align="center">18:00</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
 | <p align="center">18:00</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
+| <p align="center">18:00</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
 </div>
 
 
@@ -114,9 +114,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Winchester City <img src="/static/logos/Winchester City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wimborne Town.png" height="25px"> Wimborne Town</p> |
-| <p align="center">18:45</p> | <p align="right">Havant and Waterlooville <img src="/static/logos/Havant and Waterlooville.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chertsey Town.png" height="25px"> Chertsey Town</p> |
 | <p align="center">18:45</p> | <p align="right">Stockton Town <img src="/static/logos/Stockton Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guiseley.png" height="25px"> Guiseley</p> |
+| <p align="center">18:45</p> | <p align="right">Havant and Waterlooville <img src="/static/logos/Havant and Waterlooville.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chertsey Town.png" height="25px"> Chertsey Town</p> |
+| <p align="center">18:45</p> | <p align="right">Winchester City <img src="/static/logos/Winchester City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wimborne Town.png" height="25px"> Wimborne Town</p> |
 </div>
 
 
@@ -126,9 +126,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Dalvik/Reynir <img src="/static/logos/Dalvik/Reynir.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Afturelding.png" height="25px"> Afturelding</p> |
-| <p align="center">18:00</p> | <p align="right">Grindavik <img src="/static/logos/Grindavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thor Akureyri.png" height="25px"> Thor Akureyri</p> |
 | <p align="center">18:00</p> | <p align="right">IBV Vestmannaeyjar <img src="/static/logos/IBV Vestmannaeyjar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IR Reykjavik.png" height="25px"> IR Reykjavik</p> |
+| <p align="center">18:00</p> | <p align="right">Grindavik <img src="/static/logos/Grindavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thor Akureyri.png" height="25px"> Thor Akureyri</p> |
+| <p align="center">18:00</p> | <p align="right">Dalvik/Reynir <img src="/static/logos/Dalvik/Reynir.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Afturelding.png" height="25px"> Afturelding</p> |
 | <p align="center">19:15</p> | <p align="right">Leiknir Reykjavik <img src="/static/logos/Leiknir Reykjavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Keflavik.png" height="25px"> Keflavik</p> |
 | <p align="center">19:15</p> | <p align="right">Throttur Reykjavik <img src="/static/logos/Throttur Reykjavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grotta.png" height="25px"> Grotta</p> |
 | <p align="center">19:15</p> | <p align="right">Njardvik <img src="/static/logos/Njardvik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fjoelnir.png" height="25px"> Fjoelnir</p> |
@@ -177,8 +177,8 @@
 | <p align="center">FT</p> | <p align="right">Tigres <img src="/static/logos/Tigres.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/New York City FC.png" height="25px"> New York City FC</p> |
 | <p align="center">FT</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Mazatlan FC.png" height="25px"> Mazatlan FC</p> |
 | <p align="center">FT</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado Rapids</p> |
-| <p align="center">FT</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
 | <p align="center">FT</p> | <p align="right">Los Angeles FC <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> San Jose Earthquakes</p> |
+| <p align="center">FT</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">4 - 2</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
 </div>
 
 
@@ -198,8 +198,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Sandnes Ulf <img src="/static/logos/Sandnes Ulf.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aalesund.png" height="25px"> Aalesund</p> |
 | <p align="center">17:00</p> | <p align="right">Levanger <img src="/static/logos/Levanger.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mjoendalen.png" height="25px"> Mjoendalen</p> |
+| <p align="center">17:00</p> | <p align="right">Sandnes Ulf <img src="/static/logos/Sandnes Ulf.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aalesund.png" height="25px"> Aalesund</p> |
 </div>
 
 
@@ -239,8 +239,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Clyde <img src="/static/logos/Clyde.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers B.png" height="25px"> Rangers B</p> |
 | <p align="center">18:45</p> | <p align="right">East Stirlingshire <img src="/static/logos/East Stirlingshire.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/East Kilbride.png" height="25px"> East Kilbride</p> |
+| <p align="center">18:45</p> | <p align="right">Clyde <img src="/static/logos/Clyde.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers B.png" height="25px"> Rangers B</p> |
 </div>
 
 
