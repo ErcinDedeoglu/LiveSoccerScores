@@ -16,9 +16,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">2'</p> | <p align="right">Hull <img src="/static/logos/Hull.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Sheffield Wednesday.png" height="25px"> Sheffield Wednesday</p> |
-| <p align="center">2'</p> | <p align="right">Plymouth <img src="/static/logos/Plymouth.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cheltenham.png" height="25px"> Cheltenham</p> |
-| <p align="center">19:00</p> | <p align="right">Leeds <img src="/static/logos/Leeds.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Middlesbrough.png" height="25px"> Middlesbrough</p> |
+| <p align="center">37'</p> | <p align="right">Hull <img src="/static/logos/Hull.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Sheffield Wednesday.png" height="25px"> Sheffield Wednesday</p> |
+| <p align="center">37'</p> | <p align="right">Plymouth <img src="/static/logos/Plymouth.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cheltenham.png" height="25px"> Cheltenham</p> |
+| <p align="center">22'</p> | <p align="right">Leeds <img src="/static/logos/Leeds.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Middlesbrough.png" height="25px"> Middlesbrough</p> |
 </div>
 
 
@@ -40,7 +40,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Real Madrid <img src="/static/logos/Real Madrid.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atalanta.png" height="25px"> Atalanta</p> |
+| <p align="center">22'</p> | <p align="right">Real Madrid <img src="/static/logos/Real Madrid.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Atalanta.png" height="25px"> Atalanta</p> |
 </div>
 
 
@@ -91,10 +91,10 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/ZED FC.png" height="25px"> ZED FC</p> |
 | <p align="center">FT</p> | <p align="right">Zamalek SC <img src="/static/logos/Zamalek SC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
-| <p align="center">45'</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
-| <p align="center">HT</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
+| <p align="center">FT</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/ZED FC.png" height="25px"> ZED FC</p> |
+| <p align="center">62'</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
+| <p align="center">59'</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
 </div>
 
 
@@ -149,7 +149,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">East Stirlingshire <img src="/static/logos/East Stirlingshire.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/East Kilbride.png" height="25px"> East Kilbride</p> |
+| <p align="center">38'</p> | <p align="right">East Stirlingshire <img src="/static/logos/East Stirlingshire.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/East Kilbride.png" height="25px"> East Kilbride</p> |
 </div>
 
 
