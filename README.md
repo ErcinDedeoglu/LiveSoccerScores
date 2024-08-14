@@ -26,8 +26,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">San Lorenzo <img src="/static/logos/San Lorenzo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
 | <p align="center">FT</p> | <p align="right">Colo Colo <img src="/static/logos/Colo Colo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Junior FC.png" height="25px"> Junior FC</p> |
+| <p align="center">FT</p> | <p align="right">San Lorenzo <img src="/static/logos/San Lorenzo.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Atletico MG.png" height="25px"> Atletico MG</p> |
 | <p align="center">22:00</p> | <p align="right">Club Atletico Penarol <img src="/static/logos/Club Atletico Penarol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/The Strongest.png" height="25px"> The Strongest</p> |
 </div>
 
@@ -129,9 +129,9 @@
 | <p align="center">18:00</p> | <p align="right">Dalvik/Reynir <img src="/static/logos/Dalvik/Reynir.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Afturelding.png" height="25px"> Afturelding</p> |
 | <p align="center">18:00</p> | <p align="right">Grindavik <img src="/static/logos/Grindavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thor Akureyri.png" height="25px"> Thor Akureyri</p> |
 | <p align="center">18:00</p> | <p align="right">IBV Vestmannaeyjar <img src="/static/logos/IBV Vestmannaeyjar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IR Reykjavik.png" height="25px"> IR Reykjavik</p> |
+| <p align="center">19:15</p> | <p align="right">Leiknir Reykjavik <img src="/static/logos/Leiknir Reykjavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Keflavik.png" height="25px"> Keflavik</p> |
 | <p align="center">19:15</p> | <p align="right">Throttur Reykjavik <img src="/static/logos/Throttur Reykjavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grotta.png" height="25px"> Grotta</p> |
 | <p align="center">19:15</p> | <p align="right">Njardvik <img src="/static/logos/Njardvik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fjoelnir.png" height="25px"> Fjoelnir</p> |
-| <p align="center">19:15</p> | <p align="right">Leiknir Reykjavik <img src="/static/logos/Leiknir Reykjavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Keflavik.png" height="25px"> Keflavik</p> |
 </div>
 
 
@@ -198,8 +198,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Levanger <img src="/static/logos/Levanger.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mjoendalen.png" height="25px"> Mjoendalen</p> |
 | <p align="center">17:00</p> | <p align="right">Sandnes Ulf <img src="/static/logos/Sandnes Ulf.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aalesund.png" height="25px"> Aalesund</p> |
+| <p align="center">17:00</p> | <p align="right">Levanger <img src="/static/logos/Levanger.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mjoendalen.png" height="25px"> Mjoendalen</p> |
 </div>
 
 
