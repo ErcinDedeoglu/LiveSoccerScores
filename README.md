@@ -176,9 +176,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Mazatlan FC.png" height="25px"> Mazatlan FC</p> |
 | <p align="center">FT</p> | <p align="right">Tigres <img src="/static/logos/Tigres.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/New York City FC.png" height="25px"> New York City FC</p> |
-| <p align="center">45'</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado Rapids</p> |
-| <p align="center">14'</p> | <p align="right">Los Angeles FC <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> San Jose Earthquakes</p> |
-| <p align="center">14'</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
+| <p align="center">HT</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Colorado Rapids.png" height="25px"> Colorado Rapids</p> |
+| <p align="center">24'</p> | <p align="right">Los Angeles FC <img src="/static/logos/Los Angeles FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Jose Earthquakes.png" height="25px"> San Jose Earthquakes</p> |
+| <p align="center">23'</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/St. Louis City.png" height="25px"> St. Louis City</p> |
 </div>
 
 
