@@ -54,16 +54,6 @@
 </div>
 
 
-## <img src="/static/logos/Canada-Premier League.png" height="25px"> Canada - Premier League
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Forge FC <img src="/static/logos/Forge FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/HFX Wanderers FC.png" height="25px"> HFX Wanderers FC</p> |
-</div>
-
-
 ## <img src="/static/logos/International-Copa Sudamericana.png" height="25px"> International - Copa Sudamericana
 
 <div align="center">
@@ -108,45 +98,6 @@
 </div>
 
 
-## <img src="/static/logos/England-Northern Premier League.png" height="25px"> England - Northern Premier League
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Stockton Town <img src="/static/logos/Stockton Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Guiseley.png" height="25px"> Guiseley</p> |
-| <p align="center">18:45</p> | <p align="right">Havant and Waterlooville <img src="/static/logos/Havant and Waterlooville.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chertsey Town.png" height="25px"> Chertsey Town</p> |
-| <p align="center">18:45</p> | <p align="right">Winchester City <img src="/static/logos/Winchester City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wimborne Town.png" height="25px"> Wimborne Town</p> |
-</div>
-
-
-## <img src="/static/logos/Iceland-1. Deild.png" height="25px"> Iceland - 1. Deild
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Grindavik <img src="/static/logos/Grindavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Thor Akureyri.png" height="25px"> Thor Akureyri</p> |
-| <p align="center">18:00</p> | <p align="right">Dalvik/Reynir <img src="/static/logos/Dalvik/Reynir.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Afturelding.png" height="25px"> Afturelding</p> |
-| <p align="center">18:00</p> | <p align="right">IBV Vestmannaeyjar <img src="/static/logos/IBV Vestmannaeyjar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/IR Reykjavik.png" height="25px"> IR Reykjavik</p> |
-| <p align="center">19:15</p> | <p align="right">Leiknir Reykjavik <img src="/static/logos/Leiknir Reykjavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Keflavik.png" height="25px"> Keflavik</p> |
-| <p align="center">19:15</p> | <p align="right">Njardvik <img src="/static/logos/Njardvik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fjoelnir.png" height="25px"> Fjoelnir</p> |
-| <p align="center">19:15</p> | <p align="right">Throttur Reykjavik <img src="/static/logos/Throttur Reykjavik.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Grotta.png" height="25px"> Grotta</p> |
-</div>
-
-
-## <img src="/static/logos/International-CONCACAF Central American Cup.png" height="25px"> International - CONCACAF Central American Cup
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">FC Motagua <img src="/static/logos/FC Motagua.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Tauro FC.png" height="25px"> Tauro FC</p> |
-| <p align="center">FT</p> | <p align="right">Alianza FC <img src="/static/logos/Alianza FC.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Firpo.png" height="25px"> Firpo</p> |
-| <p align="center">22:00</p> | <p align="right">CD Aguila <img src="/static/logos/CD Aguila.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Port Layola.png" height="25px"> Port Layola</p> |
-</div>
-
-
 ## <img src="/static/logos/International-Conference League Qualification.png" height="25px"> International - Conference League Qualification
 
 <div align="center">
@@ -182,47 +133,6 @@
 </div>
 
 
-## <img src="/static/logos/Lithuania-A Lyga.png" height="25px"> Lithuania - A Lyga
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">Zalgiris Vilnius <img src="/static/logos/Zalgiris Vilnius.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK TransINVEST.png" height="25px"> FK TransINVEST</p> |
-</div>
-
-
-## <img src="/static/logos/Norway-1. Division.png" height="25px"> Norway - 1. Division
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Levanger <img src="/static/logos/Levanger.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mjoendalen.png" height="25px"> Mjoendalen</p> |
-| <p align="center">17:00</p> | <p align="right">Sandnes Ulf <img src="/static/logos/Sandnes Ulf.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aalesund.png" height="25px"> Aalesund</p> |
-</div>
-
-
-## <img src="/static/logos/Norway-Eliteserien.png" height="25px"> Norway - Eliteserien
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:00</p> | <p align="right">Fredrikstad <img src="/static/logos/Fredrikstad.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/FK Haugesund.png" height="25px"> FK Haugesund</p> |
-</div>
-
-
-## <img src="/static/logos/Poland-II Liga.png" height="25px"> Poland - II Liga
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Wisla Pulawy <img src="/static/logos/Wisla Pulawy.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Zaglebie II Lubin.png" height="25px"> Zaglebie II Lubin</p> |
-</div>
-
-
 ## <img src="/static/logos/Saudi Arabia-Super Cup.png" height="25px"> Saudi Arabia - Super Cup
 
 <div align="center">
@@ -239,7 +149,6 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Clyde <img src="/static/logos/Clyde.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rangers B.png" height="25px"> Rangers B</p> |
 | <p align="center">18:45</p> | <p align="right">East Stirlingshire <img src="/static/logos/East Stirlingshire.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/East Kilbride.png" height="25px"> East Kilbride</p> |
 </div>
 
@@ -251,18 +160,6 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">23:00</p> | <p align="right">Miami FC <img src="/static/logos/Miami FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Memphis 901 FC.png" height="25px"> Memphis 901 FC</p> |
-</div>
-
-
-## <img src="/static/logos/Venezuela-Primera Division.png" height="25px"> Venezuela - Primera Division
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">FT</p> | <p align="right">Inter de Barinas <img src="/static/logos/Inter de Barinas.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Metropolitanos FC.png" height="25px"> Metropolitanos FC</p> |
-| <p align="center">21:00</p> | <p align="right">Monagas SC <img src="/static/logos/Monagas SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Universidad Central.png" height="25px"> Universidad Central</p> |
-| <p align="center">23:45</p> | <p align="right">Academia Puerto Cabello <img src="/static/logos/Academia Puerto Cabello.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo La Guaira.png" height="25px"> Deportivo La Guaira</p> |
 </div>
 
 
