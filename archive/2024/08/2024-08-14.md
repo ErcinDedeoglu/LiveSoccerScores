@@ -91,8 +91,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">60'</p> | <p align="right">Zamalek SC <img src="/static/logos/Zamalek SC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
-| <p align="center">60'</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ZED FC.png" height="25px"> ZED FC</p> |
+| <p align="center">79'</p> | <p align="right">Zamalek SC <img src="/static/logos/Zamalek SC.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/Tala'ea El Gaish.png" height="25px"> Tala'ea El Gaish</p> |
+| <p align="center">80'</p> | <p align="right">Al Masry SC <img src="/static/logos/Al Masry SC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/ZED FC.png" height="25px"> ZED FC</p> |
 | <p align="center">18:00</p> | <p align="right">Pyramids FC <img src="/static/logos/Pyramids FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/El Dakhleya.png" height="25px"> El Dakhleya</p> |
 | <p align="center">18:00</p> | <p align="right">ENPPI <img src="/static/logos/ENPPI.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ahly SC.png" height="25px"> Al Ahly SC</p> |
 </div>
@@ -105,7 +105,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">FC Astana <img src="/static/logos/FC Astana.png" height="25px"></p> | <p align="center">6 - 1</p> | <p align="left"><img src="/static/logos/Corvinul Hunedoara.png" height="25px"> Corvinul Hunedoara</p> |
-| <p align="center">16:00</p> | <p align="right">Fehervar FC <img src="/static/logos/Fehervar FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Omonia Nicosia.png" height="25px"> Omonia Nicosia</p> |
+| <p align="center">12'</p> | <p align="right">Fehervar FC <img src="/static/logos/Fehervar FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Omonia Nicosia.png" height="25px"> Omonia Nicosia</p> |
 </div>
 
 
@@ -115,7 +115,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">16:00</p> | <p align="right">RFS <img src="/static/logos/RFS.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/UE Santa Coloma.png" height="25px"> UE Santa Coloma</p> |
+| <p align="center">13'</p> | <p align="right">RFS <img src="/static/logos/RFS.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/UE Santa Coloma.png" height="25px"> UE Santa Coloma</p> |
 </div>
 
 
