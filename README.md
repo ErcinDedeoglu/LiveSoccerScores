@@ -418,17 +418,6 @@
 </div>
 
 
-## <img src="/static/logos/Venezuela-Primera Division.png" height="25px"> Venezuela - Primera Division
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Rayo Zuliano <img src="/static/logos/Rayo Zuliano.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Academia Puerto Cabello.png" height="25px"> Academia Puerto Cabello</p> |
-| <p align="center">POS</p> | <p align="right">Deportivo Tachira <img src="/static/logos/Deportivo Tachira.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Caracas.png" height="25px"> Caracas</p> |
-</div>
-
-
 ## <img src="/static/logos/Wales-Premier League.png" height="25px"> Wales - Premier League
 
 <div align="center">
