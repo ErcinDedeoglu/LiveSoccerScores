@@ -140,7 +140,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">59'</p> | <p align="right">Hokkaido Consadole Sapporo <img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan Tosu</p> |
+| <p align="center">69'</p> | <p align="right">Hokkaido Consadole Sapporo <img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Sagan Tosu.png" height="25px"> Sagan Tosu</p> |
 </div>
 
 
@@ -241,7 +241,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">PSBS Biak Numfor <img src="/static/logos/PSBS Biak Numfor.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/PSM Makassar.png" height="25px"> PSM Makassar</p> |
 | <p align="center">FT</p> | <p align="right">Malut United <img src="/static/logos/Malut United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Persebaya Surabaya.png" height="25px"> Persebaya Surabaya</p> |
-| <p align="center">12:00</p> | <p align="right">Barito Putera <img src="/static/logos/Barito Putera.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
+| <p align="center">3'</p> | <p align="right">Barito Putera <img src="/static/logos/Barito Putera.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Madura United.png" height="25px"> Madura United</p> |
 </div>
 
 
@@ -372,8 +372,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">66'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu.png" height="25px"> Gimcheon Sangmu</p> |
-| <p align="center">63'</p> | <p align="right">FC Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
+| <p align="center">76'</p> | <p align="right">Daegu FC <img src="/static/logos/Daegu FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Gimcheon Sangmu.png" height="25px"> Gimcheon Sangmu</p> |
+| <p align="center">73'</p> | <p align="right">FC Seoul <img src="/static/logos/FC Seoul.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jeju United.png" height="25px"> Jeju United</p> |
 </div>
 
 
@@ -394,7 +394,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">BG Pathum United <img src="/static/logos/BG Pathum United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rayong FC.png" height="25px"> Rayong FC</p> |
+| <p align="center">3'</p> | <p align="right">BG Pathum United <img src="/static/logos/BG Pathum United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rayong FC.png" height="25px"> Rayong FC</p> |
 </div>
 
 
