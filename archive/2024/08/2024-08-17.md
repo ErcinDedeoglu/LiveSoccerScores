@@ -103,7 +103,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Gremio <img src="/static/logos/Gremio.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Bahia.png" height="25px"> Bahia</p> |
 | <p align="center">FT</p> | <p align="right">Atletico MG <img src="/static/logos/Atletico MG.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Cuiaba.png" height="25px"> Cuiaba</p> |
-| <p align="center">11'</p> | <p align="right">Red Bull Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
+| <p align="center">18'</p> | <p align="right">Red Bull Bragantino <img src="/static/logos/Red Bull Bragantino.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Fortaleza.png" height="25px"> Fortaleza</p> |
 </div>
 
 
@@ -159,7 +159,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Union Espanola <img src="/static/logos/Union Espanola.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Cobreloa.png" height="25px"> Cobreloa</p> |
 | <p align="center">FT</p> | <p align="right">Deportes Copiapo <img src="/static/logos/Deportes Copiapo.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Huachipato.png" height="25px"> Huachipato</p> |
-| <p align="center">11'</p> | <p align="right">O'Higgins <img src="/static/logos/O'Higgins.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Universidad de Chile.png" height="25px"> Universidad de Chile</p> |
+| <p align="center">19'</p> | <p align="right">O'Higgins <img src="/static/logos/O'Higgins.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Universidad de Chile.png" height="25px"> Universidad de Chile</p> |
 </div>
 
 
@@ -225,7 +225,7 @@
 | <p align="center">FT</p> | <p align="right">Newell's Old Boys <img src="/static/logos/Newell's Old Boys.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Racing Club.png" height="25px"> Racing Club</p> |
 | <p align="center">FT</p> | <p align="right">Lanus <img src="/static/logos/Lanus.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Central Cordoba de Santiago.png" height="25px"> Central Cordoba de Santiago</p> |
 | <p align="center">FT</p> | <p align="right">Independiente <img src="/static/logos/Independiente.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Rosario Central.png" height="25px"> Rosario Central</p> |
-| <p align="center">51'</p> | <p align="right">Gimnasia LP <img src="/static/logos/Gimnasia LP.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/River Plate.png" height="25px"> River Plate</p> |
+| <p align="center">59'</p> | <p align="right">Gimnasia LP <img src="/static/logos/Gimnasia LP.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/River Plate.png" height="25px"> River Plate</p> |
 | <p align="center">23:00</p> | <p align="right">Talleres <img src="/static/logos/Talleres.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Independiente Rivadavia.png" height="25px"> Independiente Rivadavia</p> |
 | <p align="center">23:00</p> | <p align="right">Velez Sarsfield <img src="/static/logos/Velez Sarsfield.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Instituto.png" height="25px"> Instituto</p> |
 </div>
@@ -275,8 +275,8 @@
 | <p align="center">FT</p> | <p align="right">Novorizontino <img src="/static/logos/Novorizontino.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/America MG.png" height="25px"> America MG</p> |
 | <p align="center">FT</p> | <p align="right">Chapecoense AF <img src="/static/logos/Chapecoense AF.png" height="25px"></p> | <p align="center">0 - 4</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
 | <p align="center">FT</p> | <p align="right">Santos FC <img src="/static/logos/Santos FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Avai FC.png" height="25px"> Avai FC</p> |
-| <p align="center">75'</p> | <p align="right">Ceara <img src="/static/logos/Ceara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mirassol.png" height="25px"> Mirassol</p> |
-| <p align="center">40'</p> | <p align="right">Amazonas FC <img src="/static/logos/Amazonas FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
+| <p align="center">82'</p> | <p align="right">Ceara <img src="/static/logos/Ceara.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Mirassol.png" height="25px"> Mirassol</p> |
+| <p align="center">45' 2'</p> | <p align="right">Amazonas FC <img src="/static/logos/Amazonas FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CRB.png" height="25px"> CRB</p> |
 </div>
 
 
@@ -286,7 +286,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">79'</p> | <p align="right">Nautico <img src="/static/logos/Nautico.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Ferroviario.png" height="25px"> Ferroviario</p> |
+| <p align="center">86'</p> | <p align="right">Nautico <img src="/static/logos/Nautico.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Ferroviario.png" height="25px"> Ferroviario</p> |
 | <p align="center">22:30</p> | <p align="right">Ypiranga RS <img src="/static/logos/Ypiranga RS.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sampaio Correa.png" height="25px"> Sampaio Correa</p> |
 </div>
 
@@ -307,7 +307,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">11'</p> | <p align="right">Aucas <img src="/static/logos/Aucas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/LDU de Quito.png" height="25px"> LDU de Quito</p> |
+| <p align="center">18'</p> | <p align="right">Aucas <img src="/static/logos/Aucas.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/LDU de Quito.png" height="25px"> LDU de Quito</p> |
 </div>
 
 
@@ -860,7 +860,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Liverpool FC <img src="/static/logos/Liverpool FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Racing.png" height="25px"> Racing</p> |
-| <p align="center">81'</p> | <p align="right">Club Atletico Penarol <img src="/static/logos/Club Atletico Penarol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cerro Largo.png" height="25px"> Cerro Largo</p> |
+| <p align="center">88'</p> | <p align="right">Club Atletico Penarol <img src="/static/logos/Club Atletico Penarol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cerro Largo.png" height="25px"> Cerro Largo</p> |
 | <p align="center">22:30</p> | <p align="right">Boston River <img src="/static/logos/Boston River.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Maldonado.png" height="25px"> Deportivo Maldonado</p> |
 </div>
 
