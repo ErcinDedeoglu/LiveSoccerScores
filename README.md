@@ -618,7 +618,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Club Tijuana.png" height="25px"> Club Tijuana</p> |
-| <p align="center">03:06</p> | <p align="right">FC Juarez <img src="/static/logos/FC Juarez.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
+| <p align="center">FT</p> | <p align="right">FC Juarez <img src="/static/logos/FC Juarez.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Monterrey.png" height="25px"> Monterrey</p> |
 | <p align="center">18:00</p> | <p align="right">Cruz Azul <img src="/static/logos/Cruz Azul.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Santos Laguna.png" height="25px"> Santos Laguna</p> |
 | <p align="center">23:00</p> | <p align="right">Puebla <img src="/static/logos/Puebla.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
 </div>
