@@ -522,7 +522,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">6'</p> | <p align="right">Arema <img src="/static/logos/Arema.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
+| <p align="center">13'</p> | <p align="right">Arema <img src="/static/logos/Arema.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Borneo Samarinda.png" height="25px"> Borneo Samarinda</p> |
 | <p align="center">12:00</p> | <p align="right">Persis Solo <img src="/static/logos/Persis Solo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/PSIS.png" height="25px"> PSIS</p> |
 </div>
 
