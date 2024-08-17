@@ -192,8 +192,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19'</p> | <p align="right">Kashima Antlers <img src="/static/logos/Kashima Antlers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa Red Diamonds</p> |
-| <p align="center">16'</p> | <p align="right">Machida Zelvia <img src="/static/logos/Machida Zelvia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jubilo Iwata.png" height="25px"> Jubilo Iwata</p> |
+| <p align="center">26'</p> | <p align="right">Kashima Antlers <img src="/static/logos/Kashima Antlers.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Urawa Red Diamonds.png" height="25px"> Urawa Red Diamonds</p> |
+| <p align="center">24'</p> | <p align="right">Machida Zelvia <img src="/static/logos/Machida Zelvia.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Jubilo Iwata.png" height="25px"> Jubilo Iwata</p> |
 | <p align="center">10:00</p> | <p align="right">Vissel Kobe <img src="/static/logos/Vissel Kobe.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gamba Osaka.png" height="25px"> Gamba Osaka</p> |
 | <p align="center">10:00</p> | <p align="right">Cerezo Osaka <img src="/static/logos/Cerezo Osaka.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Kyoto Sanga FC.png" height="25px"> Kyoto Sanga FC</p> |
 | <p align="center">10:00</p> | <p align="right">Nagoya Grampus <img src="/static/logos/Nagoya Grampus.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"> Sanfrecce Hiroshima</p> |
