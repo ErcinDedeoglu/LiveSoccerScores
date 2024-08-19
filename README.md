@@ -69,7 +69,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Vitoria <img src="/static/logos/Vitoria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cruzeiro.png" height="25px"> Cruzeiro</p> |
+| <p align="center">16'</p> | <p align="right">Vitoria <img src="/static/logos/Vitoria.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Cruzeiro.png" height="25px"> Cruzeiro</p> |
 </div>
 
 
@@ -90,7 +90,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Chico FC <img src="/static/logos/Chico FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Envigado.png" height="25px"> Envigado</p> |
-| <p align="center">85'</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Once Caldas.png" height="25px"> Once Caldas</p> |
+| <p align="center">FT</p> | <p align="right">Patriotas <img src="/static/logos/Patriotas.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Once Caldas.png" height="25px"> Once Caldas</p> |
 | <p align="center">23:15</p> | <p align="right">CD Jaguares <img src="/static/logos/CD Jaguares.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Tolima.png" height="25px"> Tolima</p> |
 </div>
 
@@ -134,8 +134,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Union <img src="/static/logos/Union.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
-| <p align="center">HT</p> | <p align="right">Godoy Cruz <img src="/static/logos/Godoy Cruz.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Riestra.png" height="25px"> Deportivo Riestra</p> |
+| <p align="center">70'</p> | <p align="right">Union <img src="/static/logos/Union.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
+| <p align="center">73'</p> | <p align="right">Godoy Cruz <img src="/static/logos/Godoy Cruz.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Riestra.png" height="25px"> Deportivo Riestra</p> |
 </div>
 
 
@@ -155,8 +155,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">23:00</p> | <p align="right">Ferroviaria <img src="/static/logos/Ferroviaria.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Volta Redonda.png" height="25px"> Volta Redonda</p> |
-| <p align="center">23:00</p> | <p align="right">Tombense FC <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo PB.png" height="25px"> Botafogo PB</p> |
+| <p align="center">17'</p> | <p align="right">Ferroviaria <img src="/static/logos/Ferroviaria.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Volta Redonda.png" height="25px"> Volta Redonda</p> |
+| <p align="center">17'</p> | <p align="right">Tombense FC <img src="/static/logos/Tombense FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Botafogo PB.png" height="25px"> Botafogo PB</p> |
 </div>
 
 
@@ -258,7 +258,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17'</p> | <p align="right">Sportivo Ameliano <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
+| <p align="center">45' 3'</p> | <p align="right">Sportivo Ameliano <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
 </div>
 
 
@@ -328,7 +328,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Montevideo City Torque <img src="/static/logos/Montevideo City Torque.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/La Luz.png" height="25px"> La Luz</p> |
+| <p align="center">60'</p> | <p align="right">Montevideo City Torque <img src="/static/logos/Montevideo City Torque.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/La Luz.png" height="25px"> La Luz</p> |
 </div>
 
 
