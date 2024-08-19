@@ -228,7 +228,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">02:06</p> | <p align="right">Queretaro <img src="/static/logos/Queretaro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Toluca.png" height="25px"> Toluca</p> |
+| <p align="center">FT</p> | <p align="right">Queretaro <img src="/static/logos/Queretaro.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Toluca.png" height="25px"> Toluca</p> |
 </div>
 
 
