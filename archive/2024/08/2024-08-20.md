@@ -77,8 +77,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:00</p> | <p align="right">Ismaily SC <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha SC</p> |
-| <p align="center">FT</p> | <p align="right">Al Ahly SC <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">0 - 3</p> | <p align="left"><img src="/static/logos/Pharco FC.png" height="25px"> Pharco FC</p> |
+| <p align="center">POS</p> | <p align="right">Ismaily SC <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha SC</p> |
+| <p align="center">FT</p> | <p align="right">Al Ahly SC <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Pharco FC.png" height="25px"> Pharco FC</p> |
 | <p align="center">18:00</p> | <p align="right">Modern Sport FC <img src="/static/logos/Modern Sport FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ENPPI.png" height="25px"> ENPPI</p> |
 </div>
 
