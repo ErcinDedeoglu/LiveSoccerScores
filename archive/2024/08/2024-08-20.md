@@ -79,7 +79,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Ismaily SC <img src="/static/logos/Ismaily SC.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Smouha SC.png" height="25px"> Smouha SC</p> |
 | <p align="center">FT</p> | <p align="right">Al Ahly SC <img src="/static/logos/Al Ahly SC.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Pharco FC.png" height="25px"> Pharco FC</p> |
-| <p align="center">18:00</p> | <p align="right">Modern Sport FC <img src="/static/logos/Modern Sport FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/ENPPI.png" height="25px"> ENPPI</p> |
+| <p align="center">2'</p> | <p align="right">Modern Sport FC <img src="/static/logos/Modern Sport FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/ENPPI.png" height="25px"> ENPPI</p> |
 </div>
 
 
@@ -89,9 +89,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:00</p> | <p align="right">Reading <img src="/static/logos/Reading.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/West Ham United Academy.png" height="25px"> West Ham United Academy</p> |
-| <p align="center">18:00</p> | <p align="right">Rotherham <img src="/static/logos/Rotherham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Mansfield.png" height="25px"> Mansfield</p> |
-| <p align="center">18:00</p> | <p align="right">Salford City <img src="/static/logos/Salford City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Port Vale.png" height="25px"> Port Vale</p> |
+| <p align="center">7'</p> | <p align="right">Reading <img src="/static/logos/Reading.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/West Ham United Academy.png" height="25px"> West Ham United Academy</p> |
+| <p align="center">6'</p> | <p align="right">Rotherham <img src="/static/logos/Rotherham.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Mansfield.png" height="25px"> Mansfield</p> |
+| <p align="center">7'</p> | <p align="right">Salford City <img src="/static/logos/Salford City.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Port Vale.png" height="25px"> Port Vale</p> |
 | <p align="center">18:45</p> | <p align="right">Crawley <img src="/static/logos/Crawley.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brighton & Hove Albion Academy.png" height="25px"> Brighton & Hove Albion Academy</p> |
 | <p align="center">18:45</p> | <p align="right">AFC Wimbledon <img src="/static/logos/AFC Wimbledon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Wycombe.png" height="25px"> Wycombe</p> |
 </div>
@@ -170,7 +170,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Hallescher FC <img src="/static/logos/Hallescher FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/VSG Altglienicke.png" height="25px"> VSG Altglienicke</p> |
+| <p align="center">48'</p> | <p align="right">Hallescher FC <img src="/static/logos/Hallescher FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/VSG Altglienicke.png" height="25px"> VSG Altglienicke</p> |
 </div>
 
 
@@ -192,7 +192,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 7'</p> | <p align="right">FC Noah <img src="/static/logos/FC Noah.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Ruzomberok.png" height="25px"> Ruzomberok</p> |
+| <p align="center">90' 17'</p> | <p align="right">FC Noah <img src="/static/logos/FC Noah.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Ruzomberok.png" height="25px"> Ruzomberok</p> |
 </div>
 
 
@@ -226,7 +226,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Kotwica Kolobrzeg <img src="/static/logos/Kotwica Kolobrzeg.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Polonia Warszawa.png" height="25px"> Polonia Warszawa</p> |
+| <p align="center">FT</p> | <p align="right">Kotwica Kolobrzeg <img src="/static/logos/Kotwica Kolobrzeg.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Polonia Warszawa.png" height="25px"> Polonia Warszawa</p> |
 | <p align="center">18:30</p> | <p align="right">Chrobry Glogow <img src="/static/logos/Chrobry Glogow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stal Rzeszow.png" height="25px"> Stal Rzeszow</p> |
 | <p align="center">18:30</p> | <p align="right">Warta Poznan <img src="/static/logos/Warta Poznan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/LKS Lodz.png" height="25px"> LKS Lodz</p> |
 | <p align="center">POS</p> | <p align="right">Gornik Leczna <img src="/static/logos/Gornik Leczna.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Wisla Krakow.png" height="25px"> Wisla Krakow</p> |
