@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Atletico MG <img src="/static/logos/Atletico MG.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Lorenzo.png" height="25px"> San Lorenzo</p> |
 | <p align="center">FT</p> | <p align="right">Junior FC <img src="/static/logos/Junior FC.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Colo Colo.png" height="25px"> Colo Colo</p> |
-| <p align="center">22:00</p> | <p align="right">The Strongest <img src="/static/logos/The Strongest.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
+| <p align="center">9'</p> | <p align="right">The Strongest <img src="/static/logos/The Strongest.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Club Atletico Penarol.png" height="25px"> Club Atletico Penarol</p> |
 </div>
 
 
@@ -29,7 +29,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Corinthians <img src="/static/logos/Corinthians.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Red Bull Bragantino.png" height="25px"> Red Bull Bragantino</p> |
-| <p align="center">22:00</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rosario Central.png" height="25px"> Rosario Central</p> |
+| <p align="center">9'</p> | <p align="right">Fortaleza <img src="/static/logos/Fortaleza.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Rosario Central.png" height="25px"> Rosario Central</p> |
 </div>
 
 
@@ -49,7 +49,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Central Cordoba de Santiago <img src="/static/logos/Central Cordoba de Santiago.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newell's Old Boys.png" height="25px"> Newell's Old Boys</p> |
+| <p align="center">7'</p> | <p align="right">Central Cordoba de Santiago <img src="/static/logos/Central Cordoba de Santiago.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Newell's Old Boys.png" height="25px"> Newell's Old Boys</p> |
 </div>
 
 
@@ -61,9 +61,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Amazonas FC <img src="/static/logos/Amazonas FC.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ponte Preta.png" height="25px"> Ponte Preta</p> |
 | <p align="center">FT</p> | <p align="right">Operario Ferroviario <img src="/static/logos/Operario Ferroviario.png" height="25px"></p> | <p align="center">2 - 3</p> | <p align="left"><img src="/static/logos/Vila Nova.png" height="25px"> Vila Nova</p> |
-| <p align="center">22:00</p> | <p align="right">Guarani <img src="/static/logos/Guarani.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Santos FC.png" height="25px"> Santos FC</p> |
-| <p align="center">22:00</p> | <p align="right">Mirassol <img src="/static/logos/Mirassol.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Botafogo SP.png" height="25px"> Botafogo SP</p> |
-| <p align="center">22:00</p> | <p align="right">America MG <img src="/static/logos/America MG.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense AF</p> |
+| <p align="center">9'</p> | <p align="right">Guarani <img src="/static/logos/Guarani.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Santos FC.png" height="25px"> Santos FC</p> |
+| <p align="center">9'</p> | <p align="right">Mirassol <img src="/static/logos/Mirassol.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Botafogo SP.png" height="25px"> Botafogo SP</p> |
+| <p align="center">9'</p> | <p align="right">America MG <img src="/static/logos/America MG.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Chapecoense AF.png" height="25px"> Chapecoense AF</p> |
 | <p align="center">23:00</p> | <p align="right">CRB <img src="/static/logos/CRB.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ceara.png" height="25px"> Ceara</p> |
 </div>
 
@@ -169,7 +169,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22:00</p> | <p align="right">Deportivo Tachira <img src="/static/logos/Deportivo Tachira.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Caracas.png" height="25px"> Caracas</p> |
+| <p align="center">7'</p> | <p align="right">Deportivo Tachira <img src="/static/logos/Deportivo Tachira.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Caracas.png" height="25px"> Caracas</p> |
 </div>
 
 
