@@ -120,14 +120,14 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">Sanfrecce Hiroshima <img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ehime FC.png" height="25px"> Ehime FC</p> |
-| <p align="center">29'</p> | <p align="right">Kashiwa Reysol <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Vissel Kobe.png" height="25px"> Vissel Kobe</p> |
-| <p align="center">32'</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Renofa Yamaguchi.png" height="25px"> Renofa Yamaguchi</p> |
-| <p align="center">29'</p> | <p align="right">JEF United Chiba <img src="/static/logos/JEF United Chiba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"> Hokkaido Consadole Sapporo</p> |
-| <p align="center">29'</p> | <p align="right">V-Varen Nagasaki <img src="/static/logos/V-Varen Nagasaki.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Yokohama F.Marinos.png" height="25px"> Yokohama F.Marinos</p> |
-| <p align="center">29'</p> | <p align="right">Gamba Osaka <img src="/static/logos/Gamba Osaka.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Shonan Bellmare.png" height="25px"> Shonan Bellmare</p> |
-| <p align="center">28'</p> | <p align="right">Ventforet Kofu <img src="/static/logos/Ventforet Kofu.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kashima Antlers.png" height="25px"> Kashima Antlers</p> |
-| <p align="center">32'</p> | <p align="right">Kyoto Sanga FC <img src="/static/logos/Kyoto Sanga FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Oita Trinita.png" height="25px"> Oita Trinita</p> |
+| <p align="center">45'</p> | <p align="right">Sanfrecce Hiroshima <img src="/static/logos/Sanfrecce Hiroshima.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ehime FC.png" height="25px"> Ehime FC</p> |
+| <p align="center">45'</p> | <p align="right">Kashiwa Reysol <img src="/static/logos/Kashiwa Reysol.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Vissel Kobe.png" height="25px"> Vissel Kobe</p> |
+| <p align="center">45' 3'</p> | <p align="right">Sagan Tosu <img src="/static/logos/Sagan Tosu.png" height="25px"></p> | <p align="center">0 - 2</p> | <p align="left"><img src="/static/logos/Renofa Yamaguchi.png" height="25px"> Renofa Yamaguchi</p> |
+| <p align="center">45'</p> | <p align="right">JEF United Chiba <img src="/static/logos/JEF United Chiba.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Hokkaido Consadole Sapporo.png" height="25px"> Hokkaido Consadole Sapporo</p> |
+| <p align="center">45'</p> | <p align="right">V-Varen Nagasaki <img src="/static/logos/V-Varen Nagasaki.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Yokohama F.Marinos.png" height="25px"> Yokohama F.Marinos</p> |
+| <p align="center">45'</p> | <p align="right">Gamba Osaka <img src="/static/logos/Gamba Osaka.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Shonan Bellmare.png" height="25px"> Shonan Bellmare</p> |
+| <p align="center">44'</p> | <p align="right">Ventforet Kofu <img src="/static/logos/Ventforet Kofu.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kashima Antlers.png" height="25px"> Kashima Antlers</p> |
+| <p align="center">45' 3'</p> | <p align="right">Kyoto Sanga FC <img src="/static/logos/Kyoto Sanga FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Oita Trinita.png" height="25px"> Oita Trinita</p> |
 </div>
 
 
@@ -148,8 +148,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">30'</p> | <p align="right">Gwangju FC <img src="/static/logos/Gwangju FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ulsan HD FC.png" height="25px"> Ulsan HD FC</p> |
-| <p align="center">1'</p> | <p align="right">Jeju United <img src="/static/logos/Jeju United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
+| <p align="center">45' 1'</p> | <p align="right">Gwangju FC <img src="/static/logos/Gwangju FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Ulsan HD FC.png" height="25px"> Ulsan HD FC</p> |
+| <p align="center">16'</p> | <p align="right">Jeju United <img src="/static/logos/Jeju United.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Pohang Steelers.png" height="25px"> Pohang Steelers</p> |
 </div>
 
 
