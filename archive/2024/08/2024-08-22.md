@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">River Plate <img src="/static/logos/River Plate.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Talleres.png" height="25px"> Talleres</p> |
 | <p align="center">FT</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
-| <p align="center">25'</p> | <p align="right">Sao Paulo <img src="/static/logos/Sao Paulo.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
+| <p align="center">42'</p> | <p align="right">Sao Paulo <img src="/static/logos/Sao Paulo.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
 </div>
 
 
@@ -30,8 +30,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Independiente Medellin <img src="/static/logos/Independiente Medellin.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
 | <p align="center">FT</p> | <p align="right">Lanus <img src="/static/logos/Lanus.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/LDU de Quito.png" height="25px"> LDU de Quito</p> |
-| <p align="center">26'</p> | <p align="right">Sportivo Ameliano <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
-| <p align="center">26'</p> | <p align="right">Belgrano <img src="/static/logos/Belgrano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Athletico Paranaense.png" height="25px"> Athletico Paranaense</p> |
+| <p align="center">44'</p> | <p align="right">Sportivo Ameliano <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
+| <p align="center">44'</p> | <p align="right">Belgrano <img src="/static/logos/Belgrano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Athletico Paranaense.png" height="25px"> Athletico Paranaense</p> |
 </div>
 
 
