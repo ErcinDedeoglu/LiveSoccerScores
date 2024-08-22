@@ -189,7 +189,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:30</p> | <p align="right">Miedz Legnica <img src="/static/logos/Miedz Legnica.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Znicz Pruszkow.png" height="25px"> Znicz Pruszkow</p> |
+| <p align="center">2'</p> | <p align="right">Miedz Legnica <img src="/static/logos/Miedz Legnica.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Znicz Pruszkow.png" height="25px"> Znicz Pruszkow</p> |
 | <p align="center">17:00</p> | <p align="right">Arka Gdynia <img src="/static/logos/Arka Gdynia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Ruch Chorzow.png" height="25px"> Ruch Chorzow</p> |
 </div>
 
@@ -200,7 +200,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:30</p> | <p align="right">Al-Duhail SC <img src="/static/logos/Al-Duhail SC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Umm Salal.png" height="25px"> Umm Salal</p> |
+| <p align="center">2'</p> | <p align="right">Al-Duhail SC <img src="/static/logos/Al-Duhail SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Umm Salal.png" height="25px"> Umm Salal</p> |
 | <p align="center">17:30</p> | <p align="right">Al-Sadd <img src="/static/logos/Al-Sadd.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al-Arabi.png" height="25px"> Al-Arabi</p> |
 | <p align="center">17:30</p> | <p align="right">Al-Shamal <img src="/static/logos/Al-Shamal.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Qatar SC.png" height="25px"> Qatar SC</p> |
 </div>
