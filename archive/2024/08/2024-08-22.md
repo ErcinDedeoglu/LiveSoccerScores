@@ -51,7 +51,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Barracas Central <img src="/static/logos/Barracas Central.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gimnasia LP.png" height="25px"> Gimnasia LP</p> |
+| <p align="center">81'</p> | <p align="right">Barracas Central <img src="/static/logos/Barracas Central.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Gimnasia LP.png" height="25px"> Gimnasia LP</p> |
 </div>
 
 
