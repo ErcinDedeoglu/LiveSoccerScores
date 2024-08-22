@@ -18,7 +18,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Palmeiras <img src="/static/logos/Palmeiras.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Botafogo RJ.png" height="25px"> Botafogo RJ</p> |
 | <p align="center">FT</p> | <p align="right">River Plate <img src="/static/logos/River Plate.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Talleres.png" height="25px"> Talleres</p> |
-| <p align="center">61'</p> | <p align="right">Sao Paulo <img src="/static/logos/Sao Paulo.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
+| <p align="center">69'</p> | <p align="right">Sao Paulo <img src="/static/logos/Sao Paulo.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nacional.png" height="25px"> Nacional</p> |
 </div>
 
 
@@ -30,8 +30,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Lanus <img src="/static/logos/Lanus.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/LDU de Quito.png" height="25px"> LDU de Quito</p> |
 | <p align="center">FT</p> | <p align="right">Independiente Medellin <img src="/static/logos/Independiente Medellin.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Palestino.png" height="25px"> Palestino</p> |
-| <p align="center">60'</p> | <p align="right">Sportivo Ameliano <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
-| <p align="center">60'</p> | <p align="right">Belgrano <img src="/static/logos/Belgrano.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Athletico Paranaense.png" height="25px"> Athletico Paranaense</p> |
+| <p align="center">69'</p> | <p align="right">Sportivo Ameliano <img src="/static/logos/Sportivo Ameliano.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Libertad.png" height="25px"> Libertad</p> |
+| <p align="center">69'</p> | <p align="right">Belgrano <img src="/static/logos/Belgrano.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Athletico Paranaense.png" height="25px"> Athletico Paranaense</p> |
 </div>
 
 
@@ -41,7 +41,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">20'</p> | <p align="right">CD Nublense <img src="/static/logos/CD Nublense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union Espanola.png" height="25px"> Union Espanola</p> |
+| <p align="center">28'</p> | <p align="right">CD Nublense <img src="/static/logos/CD Nublense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Union Espanola.png" height="25px"> Union Espanola</p> |
 </div>
 
 
@@ -62,7 +62,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Goias <img src="/static/logos/Goias.png" height="25px"></p> | <p align="center">4 - 1</p> | <p align="left"><img src="/static/logos/Brusque.png" height="25px"> Brusque</p> |
-| <p align="center">18'</p> | <p align="right">Avai FC <img src="/static/logos/Avai FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Paysandu.png" height="25px"> Paysandu</p> |
+| <p align="center">27'</p> | <p align="right">Avai FC <img src="/static/logos/Avai FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Paysandu.png" height="25px"> Paysandu</p> |
 </div>
 
 
