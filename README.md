@@ -97,8 +97,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">45' 1'</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportes Copiapo.png" height="25px"> Deportes Copiapo</p> |
-| <p align="center">45'</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Cobreloa.png" height="25px"> Cobreloa</p> |
+| <p align="center">HT</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Deportes Copiapo.png" height="25px"> Deportes Copiapo</p> |
+| <p align="center">HT</p> | <p align="right">Universidad de Chile <img src="/static/logos/Universidad de Chile.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Cobreloa.png" height="25px"> Cobreloa</p> |
 </div>
 
 
