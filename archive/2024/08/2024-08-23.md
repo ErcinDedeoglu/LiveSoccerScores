@@ -118,7 +118,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">25'</p> | <p align="right">Correcaminos de la UAT <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Celaya.png" height="25px"> Celaya</p> |
+| <p align="center">32'</p> | <p align="right">Correcaminos de la UAT <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Celaya.png" height="25px"> Celaya</p> |
 </div>
 
 
@@ -259,7 +259,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">68'</p> | <p align="right">CD Aguila <img src="/static/logos/CD Aguila.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Olimpia.png" height="25px"> CD Olimpia</p> |
+| <p align="center">76'</p> | <p align="right">CD Aguila <img src="/static/logos/CD Aguila.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/CD Olimpia.png" height="25px"> CD Olimpia</p> |
 </div>
 
 
