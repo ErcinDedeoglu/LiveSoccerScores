@@ -118,7 +118,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 7'</p> | <p align="right">Correcaminos de la UAT <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Celaya.png" height="25px"> Celaya</p> |
+| <p align="center">FT</p> | <p align="right">Correcaminos de la UAT <img src="/static/logos/Correcaminos de la UAT.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Celaya.png" height="25px"> Celaya</p> |
 </div>
 
 
@@ -317,7 +317,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">CD Guadalajara Chivas <img src="/static/logos/CD Guadalajara Chivas.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Leon.png" height="25px"> Club Leon</p> |
-| <p align="center">03:10</p> | <p align="right">Club Tijuana <img src="/static/logos/Club Tijuana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
+| <p align="center">FT</p> | <p align="right">Club Tijuana <img src="/static/logos/Club Tijuana.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
 </div>
 
 
