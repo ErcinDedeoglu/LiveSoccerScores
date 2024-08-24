@@ -980,19 +980,6 @@
 </div>
 
 
-## <img src="/static/logos/Uruguay-Primera Division.png" height="25px"> Uruguay - Primera Division
-
-<div align="center">
-
-&emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
-| ------------ | ------------ | ------------ | ------------ |
-| <p align="center">POS</p> | <p align="right">Fenix <img src="/static/logos/Fenix.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Cerro Largo.png" height="25px"> Cerro Largo</p> |
-| <p align="center">POS</p> | <p align="right">Racing <img src="/static/logos/Racing.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Montevideo Wanderers.png" height="25px"> Montevideo Wanderers</p> |
-| <p align="center">POS</p> | <p align="right">Cerro <img src="/static/logos/Cerro.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Defensor Sporting.png" height="25px"> Defensor Sporting</p> |
-| <p align="center">POS</p> | <p align="right">Deportivo Maldonado <img src="/static/logos/Deportivo Maldonado.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/River Plate.png" height="25px"> River Plate</p> |
-</div>
-
-
 ## <img src="/static/logos/USA-USL Championship.png" height="25px"> USA - USL Championship
 
 <div align="center">
