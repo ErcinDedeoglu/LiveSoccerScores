@@ -97,7 +97,7 @@
 | <p align="center">FT</p> | <p align="right">Tigres <img src="/static/logos/Tigres.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/CD Guadalajara.png" height="25px"> CD Guadalajara</p> |
 | <p align="center">FT</p> | <p align="right">Leon <img src="/static/logos/Leon.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Santos Laguna.png" height="25px"> Santos Laguna</p> |
 | <p align="center">FT</p> | <p align="right">Atlas <img src="/static/logos/Atlas.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Club Universidad Nacional.png" height="25px"> Club Universidad Nacional</p> |
-| <p align="center">85'</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
+| <p align="center">90' 5'</p> | <p align="right">CF America <img src="/static/logos/CF America.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Puebla.png" height="25px"> Puebla</p> |
 | <p align="center">18:00</p> | <p align="right">Toluca <img src="/static/logos/Toluca.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atletico de San Luis.png" height="25px"> Atletico de San Luis</p> |
 </div>
 
@@ -246,7 +246,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 6'</p> | <p align="right">Dorados <img src="/static/logos/Dorados.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
+| <p align="center">FT</p> | <p align="right">Dorados <img src="/static/logos/Dorados.png" height="25px"></p> | <p align="center">3 - 3</p> | <p align="left"><img src="/static/logos/Tapatio.png" height="25px"> Tapatio</p> |
 | <p align="center">18:00</p> | <p align="right">Tepatitlan FC <img src="/static/logos/Tepatitlan FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Atlante.png" height="25px"> Atlante</p> |
 </div>
 
@@ -310,7 +310,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">05:00</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
+| <p align="center">6'</p> | <p align="right">Newcastle Jets <img src="/static/logos/Newcastle Jets.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Macarthur FC.png" height="25px"> Macarthur FC</p> |
 </div>
 
 
@@ -737,8 +737,8 @@
 | <p align="center">FT</p> | <p align="right">Monterey Bay F.C. <img src="/static/logos/Monterey Bay F.C..png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/El Paso Locomotive FC.png" height="25px"> El Paso Locomotive FC</p> |
 | <p align="center">FT</p> | <p align="right">Oakland Roots SC <img src="/static/logos/Oakland Roots SC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Memphis 901 FC.png" height="25px"> Memphis 901 FC</p> |
 | <p align="center">FT</p> | <p align="right">Las Vegas Lights FC <img src="/static/logos/Las Vegas Lights FC.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Indy Eleven.png" height="25px"> Indy Eleven</p> |
-| <p align="center">88'</p> | <p align="right">Sacramento Republic FC <img src="/static/logos/Sacramento Republic FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Antonio FC.png" height="25px"> San Antonio FC</p> |
-| <p align="center">88'</p> | <p align="right">Phoenix Rising FC <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/North Carolina FC.png" height="25px"> North Carolina FC</p> |
+| <p align="center">90' 8'</p> | <p align="right">Sacramento Republic FC <img src="/static/logos/Sacramento Republic FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/San Antonio FC.png" height="25px"> San Antonio FC</p> |
+| <p align="center">FT</p> | <p align="right">Phoenix Rising FC <img src="/static/logos/Phoenix Rising FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/North Carolina FC.png" height="25px"> North Carolina FC</p> |
 </div>
 
 
