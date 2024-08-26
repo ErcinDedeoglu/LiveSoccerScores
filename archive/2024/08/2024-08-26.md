@@ -153,7 +153,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Chorley <img src="/static/logos/Chorley.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Southport.png" height="25px"> Southport</p> |
+| <p align="center">HT</p> | <p align="right">Chorley <img src="/static/logos/Chorley.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Southport.png" height="25px"> Southport</p> |
 | <p align="center">14:00</p> | <p align="right">Chester <img src="/static/logos/Chester.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scarborough Athletic.png" height="25px"> Scarborough Athletic</p> |
 | <p align="center">14:00</p> | <p align="right">Kidderminster <img src="/static/logos/Kidderminster.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oxford City.png" height="25px"> Oxford City</p> |
 | <p align="center">14:00</p> | <p align="right">Truro City <img src="/static/logos/Truro City.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Worthing.png" height="25px"> Worthing</p> |
@@ -243,7 +243,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Semen Padang <img src="/static/logos/Semen Padang.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
-| <p align="center">44'</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Dewa United FC.png" height="25px"> Dewa United FC</p> |
+| <p align="center">HT</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Dewa United FC.png" height="25px"> Dewa United FC</p> |
 </div>
 
 
@@ -287,7 +287,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">29'</p> | <p align="right">Kuching City <img src="/static/logos/Kuching City.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Kelantan United.png" height="25px"> Kelantan United</p> |
+| <p align="center">43'</p> | <p align="right">Kuching City <img src="/static/logos/Kuching City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kelantan United.png" height="25px"> Kelantan United</p> |
 </div>
 
 
