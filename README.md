@@ -68,7 +68,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bylis <img src="/static/logos/Bylis.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Dinamo City.png" height="25px"> FC Dinamo City</p> |
-| <p align="center">31'</p> | <p align="right">Elbasani <img src="/static/logos/Elbasani.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Teuta Durres.png" height="25px"> Teuta Durres</p> |
+| <p align="center">40'</p> | <p align="right">Elbasani <img src="/static/logos/Elbasani.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Teuta Durres.png" height="25px"> Teuta Durres</p> |
 </div>
 
 
@@ -122,7 +122,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">72'</p> | <p align="right">Viborg <img src="/static/logos/Viborg.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Lyngby.png" height="25px"> Lyngby</p> |
+| <p align="center">81'</p> | <p align="right">Viborg <img src="/static/logos/Viborg.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Lyngby.png" height="25px"> Lyngby</p> |
 </div>
 
 
@@ -232,7 +232,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Mezokovesd SE <img src="/static/logos/Mezokovesd SE.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Szeged-Csanad Grosics Akademia.png" height="25px"> Szeged-Csanad Grosics Akademia</p> |
+| <p align="center">41'</p> | <p align="right">Mezokovesd SE <img src="/static/logos/Mezokovesd SE.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Szeged-Csanad Grosics Akademia.png" height="25px"> Szeged-Csanad Grosics Akademia</p> |
 </div>
 
 
@@ -266,7 +266,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Hapoel Ironi Kiryat Shmona <img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Beer Sheva.png" height="25px"> Hapoel Beer Sheva</p> |
+| <p align="center">83'</p> | <p align="right">Hapoel Ironi Kiryat Shmona <img src="/static/logos/Hapoel Ironi Kiryat Shmona.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Hapoel Beer Sheva.png" height="25px"> Hapoel Beer Sheva</p> |
 </div>
 
 
@@ -310,8 +310,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">31'</p> | <p align="right">Jong PSV <img src="/static/logos/Jong PSV.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Telstar.png" height="25px"> Telstar</p> |
-| <p align="center">29'</p> | <p align="right">Jong AZ Alkmaar <img src="/static/logos/Jong AZ Alkmaar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
+| <p align="center">41'</p> | <p align="right">Jong PSV <img src="/static/logos/Jong PSV.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Telstar.png" height="25px"> Telstar</p> |
+| <p align="center">39'</p> | <p align="right">Jong AZ Alkmaar <img src="/static/logos/Jong AZ Alkmaar.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FC Dordrecht.png" height="25px"> FC Dordrecht</p> |
 </div>
 
 
@@ -321,7 +321,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">Korona Kielce <img src="/static/logos/Korona Kielce.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Stal Mielec.png" height="25px"> Stal Mielec</p> |
+| <p align="center">83'</p> | <p align="right">Korona Kielce <img src="/static/logos/Korona Kielce.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Stal Mielec.png" height="25px"> Stal Mielec</p> |
 </div>
 
 
@@ -331,7 +331,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">74'</p> | <p align="right">Wisla Plock <img src="/static/logos/Wisla Plock.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Ruch Chorzow.png" height="25px"> Ruch Chorzow</p> |
+| <p align="center">83'</p> | <p align="right">Wisla Plock <img src="/static/logos/Wisla Plock.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Ruch Chorzow.png" height="25px"> Ruch Chorzow</p> |
 </div>
 
 
@@ -341,7 +341,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">69'</p> | <p align="right">Cartagena <img src="/static/logos/Cartagena.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Real Zaragoza.png" height="25px"> Real Zaragoza</p> |
+| <p align="center">79'</p> | <p align="right">Cartagena <img src="/static/logos/Cartagena.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Real Zaragoza.png" height="25px"> Real Zaragoza</p> |
 | <p align="center">19:30</p> | <p align="right">Cordoba <img src="/static/logos/Cordoba.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Burgos CF.png" height="25px"> Burgos CF</p> |
 </div>
 
@@ -352,7 +352,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">73'</p> | <p align="right">FC Rosengaard <img src="/static/logos/FC Rosengaard.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/BK Haecken FF.png" height="25px"> BK Haecken FF</p> |
+| <p align="center">82'</p> | <p align="right">FC Rosengaard <img src="/static/logos/FC Rosengaard.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/BK Haecken FF.png" height="25px"> BK Haecken FF</p> |
 </div>
 
 
@@ -362,7 +362,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">32'</p> | <p align="right">Istanbulspor <img src="/static/logos/Istanbulspor.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sanliurfaspor.png" height="25px"> Sanliurfaspor</p> |
+| <p align="center">41'</p> | <p align="right">Istanbulspor <img src="/static/logos/Istanbulspor.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sanliurfaspor.png" height="25px"> Sanliurfaspor</p> |
 </div>
 
 
