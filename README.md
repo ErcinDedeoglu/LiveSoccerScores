@@ -153,7 +153,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">61'</p> | <p align="right">Chorley <img src="/static/logos/Chorley.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Southport.png" height="25px"> Southport</p> |
+| <p align="center">78'</p> | <p align="right">Chorley <img src="/static/logos/Chorley.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Southport.png" height="25px"> Southport</p> |
 | <p align="center">14:00</p> | <p align="right">Warrington Town <img src="/static/logos/Warrington Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Farsley Celtic AFC.png" height="25px"> Farsley Celtic AFC</p> |
 | <p align="center">14:00</p> | <p align="right">South Shields <img src="/static/logos/South Shields.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Scunthorpe.png" height="25px"> Scunthorpe</p> |
 | <p align="center">14:00</p> | <p align="right">King's Lynn Town <img src="/static/logos/King's Lynn Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Peterborough Sports.png" height="25px"> Peterborough Sports</p> |
@@ -243,7 +243,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Semen Padang <img src="/static/logos/Semen Padang.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/PSS Sleman.png" height="25px"> PSS Sleman</p> |
-| <p align="center">62'</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Dewa United FC.png" height="25px"> Dewa United FC</p> |
+| <p align="center">79'</p> | <p align="right">PSM Makassar <img src="/static/logos/PSM Makassar.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Dewa United FC.png" height="25px"> Dewa United FC</p> |
 </div>
 
 
@@ -287,7 +287,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Kuching City <img src="/static/logos/Kuching City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kelantan United.png" height="25px"> Kelantan United</p> |
+| <p align="center">62'</p> | <p align="right">Kuching City <img src="/static/logos/Kuching City.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Kelantan United.png" height="25px"> Kelantan United</p> |
 </div>
 
 
@@ -372,11 +372,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">13:30</p> | <p align="right">Flint Town United <img src="/static/logos/Flint Town United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Connah's Quay Nomads.png" height="25px"> Connah's Quay Nomads</p> |
-| <p align="center">13:30</p> | <p align="right">Cardiff Met University <img src="/static/logos/Cardiff Met University.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Haverfordwest.png" height="25px"> Haverfordwest</p> |
-| <p align="center">13:30</p> | <p align="right">Barry Town <img src="/static/logos/Barry Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Newtown.png" height="25px"> Newtown</p> |
-| <p align="center">13:30</p> | <p align="right">Penybont <img src="/static/logos/Penybont.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Aberystwyth.png" height="25px"> Aberystwyth</p> |
-| <p align="center">13:30</p> | <p align="right">Caernarfon <img src="/static/logos/Caernarfon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bala Town.png" height="25px"> Bala Town</p> |
+| <p align="center">9'</p> | <p align="right">Flint Town United <img src="/static/logos/Flint Town United.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Connah's Quay Nomads.png" height="25px"> Connah's Quay Nomads</p> |
+| <p align="center">7'</p> | <p align="right">Cardiff Met University <img src="/static/logos/Cardiff Met University.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Haverfordwest.png" height="25px"> Haverfordwest</p> |
+| <p align="center">8'</p> | <p align="right">Barry Town <img src="/static/logos/Barry Town.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Newtown.png" height="25px"> Newtown</p> |
+| <p align="center">8'</p> | <p align="right">Penybont <img src="/static/logos/Penybont.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Aberystwyth.png" height="25px"> Aberystwyth</p> |
+| <p align="center">9'</p> | <p align="right">Caernarfon <img src="/static/logos/Caernarfon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Bala Town.png" height="25px"> Bala Town</p> |
 | <p align="center">POS</p> | <p align="right">TNS <img src="/static/logos/TNS.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Briton Ferry.png" height="25px"> Briton Ferry</p> |
 </div>
 
