@@ -29,6 +29,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">18:15</p> | <p align="right">Middlesbrough <img src="/static/logos/Middlesbrough.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Stoke.png" height="25px"> Stoke</p> |
 | <p align="center">18:45</p> | <p align="right">Brighton <img src="/static/logos/Brighton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Crawley.png" height="25px"> Crawley</p> |
+| <p align="center">18:45</p> | <p align="right">Everton <img src="/static/logos/Everton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Doncaster.png" height="25px"> Doncaster</p> |
 | <p align="center">18:45</p> | <p align="right">Harrogate Town <img src="/static/logos/Harrogate Town.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Preston.png" height="25px"> Preston</p> |
 | <p align="center">18:45</p> | <p align="right">Coventry <img src="/static/logos/Coventry.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Oxford.png" height="25px"> Oxford</p> |
 | <p align="center">18:45</p> | <p align="right">Shrewsbury <img src="/static/logos/Shrewsbury.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bolton.png" height="25px"> Bolton</p> |
@@ -37,14 +38,13 @@
 | <p align="center">18:45</p> | <p align="right">Walsall <img src="/static/logos/Walsall.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Huddersfield.png" height="25px"> Huddersfield</p> |
 | <p align="center">18:45</p> | <p align="right">Queens Park Rangers <img src="/static/logos/Queens Park Rangers.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Luton.png" height="25px"> Luton</p> |
 | <p align="center">18:45</p> | <p align="right">Blackburn <img src="/static/logos/Blackburn.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Blackpool.png" height="25px"> Blackpool</p> |
-| <p align="center">18:45</p> | <p align="right">Everton <img src="/static/logos/Everton.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Doncaster.png" height="25px"> Doncaster</p> |
 | <p align="center">18:45</p> | <p align="right">Barrow <img src="/static/logos/Barrow.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Derby.png" height="25px"> Derby</p> |
 | <p align="center">18:45</p> | <p align="right">Watford <img src="/static/logos/Watford.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Plymouth.png" height="25px"> Plymouth</p> |
 | <p align="center">18:45</p> | <p align="right">Millwall <img src="/static/logos/Millwall.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Leyton Orient.png" height="25px"> Leyton Orient</p> |
 | <p align="center">18:45</p> | <p align="right">Fleetwood <img src="/static/logos/Fleetwood.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Rotherham.png" height="25px"> Rotherham</p> |
 | <p align="center">18:45</p> | <p align="right">Barnsley <img src="/static/logos/Barnsley.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sheffield United.png" height="25px"> Sheffield United</p> |
-| <p align="center">19:00</p> | <p align="right">Birmingham <img src="/static/logos/Birmingham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fulham.png" height="25px"> Fulham</p> |
 | <p align="center">19:00</p> | <p align="right">Crystal Palace <img src="/static/logos/Crystal Palace.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Norwich.png" height="25px"> Norwich</p> |
+| <p align="center">19:00</p> | <p align="right">Birmingham <img src="/static/logos/Birmingham.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Fulham.png" height="25px"> Fulham</p> |
 </div>
 
 
@@ -145,7 +145,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12:00</p> | <p align="right">Borneo Samarinda <img src="/static/logos/Borneo Samarinda.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United FC</p> |
+| <p align="center">43'</p> | <p align="right">Borneo Samarinda <img src="/static/logos/Borneo Samarinda.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Bali United FC.png" height="25px"> Bali United FC</p> |
 </div>
 
 
@@ -155,8 +155,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">19:00</p> | <p align="right">Sparta Prague <img src="/static/logos/Sparta Prague.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malmoe FF.png" height="25px"> Malmoe FF</p> |
 | <p align="center">19:00</p> | <p align="right">Salzburg <img src="/static/logos/Salzburg.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dynamo Kyiv.png" height="25px"> Dynamo Kyiv</p> |
+| <p align="center">19:00</p> | <p align="right">Sparta Prague <img src="/static/logos/Sparta Prague.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Malmoe FF.png" height="25px"> Malmoe FF</p> |
 | <p align="center">19:00</p> | <p align="right">Galatasaray <img src="/static/logos/Galatasaray.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/BSC Young Boys.png" height="25px"> BSC Young Boys</p> |
 </div>
 
@@ -167,12 +167,12 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:30</p> | <p align="right">Carrarese <img src="/static/logos/Carrarese.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sudtirol.png" height="25px"> Sudtirol</p> |
-| <p align="center">18:30</p> | <p align="right">Bari <img src="/static/logos/Bari.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sassuolo.png" height="25px"> Sassuolo</p> |
-| <p align="center">18:30</p> | <p align="right">Cittadella <img src="/static/logos/Cittadella.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pisa.png" height="25px"> Pisa</p> |
 | <p align="center">18:30</p> | <p align="right">Reggiana <img src="/static/logos/Reggiana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Brescia.png" height="25px"> Brescia</p> |
-| <p align="center">18:30</p> | <p align="right">Frosinone <img src="/static/logos/Frosinone.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Modena.png" height="25px"> Modena</p> |
 | <p align="center">18:30</p> | <p align="right">Cremonese <img src="/static/logos/Cremonese.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Palermo.png" height="25px"> Palermo</p> |
+| <p align="center">18:30</p> | <p align="right">Frosinone <img src="/static/logos/Frosinone.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Modena.png" height="25px"> Modena</p> |
+| <p align="center">18:30</p> | <p align="right">Cittadella <img src="/static/logos/Cittadella.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Pisa.png" height="25px"> Pisa</p> |
+| <p align="center">18:30</p> | <p align="right">Bari <img src="/static/logos/Bari.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sassuolo.png" height="25px"> Sassuolo</p> |
+| <p align="center">18:30</p> | <p align="right">Carrarese <img src="/static/logos/Carrarese.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sudtirol.png" height="25px"> Sudtirol</p> |
 | <p align="center">18:30</p> | <p align="right">Salernitana <img src="/static/logos/Salernitana.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sampdoria.png" height="25px"> Sampdoria</p> |
 </div>
 
@@ -206,8 +206,8 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">15:45</p> | <p align="right">Al Fateh FC <img src="/static/logos/Al Fateh FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Ahli.png" height="25px"> Al Ahli</p> |
-| <p align="center">18:00</p> | <p align="right">Al-Raed <img src="/static/logos/Al-Raed.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Qadasiya.png" height="25px"> Al Qadasiya</p> |
 | <p align="center">18:00</p> | <p align="right">Al-Fayha <img src="/static/logos/Al-Fayha.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Nassr FC.png" height="25px"> Al Nassr FC</p> |
+| <p align="center">18:00</p> | <p align="right">Al-Raed <img src="/static/logos/Al-Raed.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Al Qadasiya.png" height="25px"> Al Qadasiya</p> |
 </div>
 
 
@@ -227,8 +227,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Lamphun Warrior <img src="/static/logos/Lamphun Warrior.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Nong Bua Pitchaya FC.png" height="25px"> Nong Bua Pitchaya FC</p> |
-| <p align="center">12:00</p> | <p align="right">Port FC <img src="/static/logos/Port FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Sukhothai FC.png" height="25px"> Sukhothai FC</p> |
+| <p align="center">81'</p> | <p align="right">Lamphun Warrior <img src="/static/logos/Lamphun Warrior.png" height="25px"></p> | <p align="center">3 - 2</p> | <p align="left"><img src="/static/logos/Nong Bua Pitchaya FC.png" height="25px"> Nong Bua Pitchaya FC</p> |
+| <p align="center">43'</p> | <p align="right">Port FC <img src="/static/logos/Port FC.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Sukhothai FC.png" height="25px"> Sukhothai FC</p> |
 </div>
 
 
