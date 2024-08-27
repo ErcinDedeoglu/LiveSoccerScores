@@ -185,7 +185,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Monterrey <img src="/static/logos/Monterrey.png" height="25px"></p> | <p align="center">5 - 0</p> | <p align="left"><img src="/static/logos/Toluca.png" height="25px"> Toluca</p> |
 | <p align="center">FT</p> | <p align="right">Club Leon <img src="/static/logos/Club Leon.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/CF America.png" height="25px"> CF America</p> |
-| <p align="center">03:10</p> | <p align="right">CD Guadalajara Chivas <img src="/static/logos/CD Guadalajara Chivas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
+| <p align="center">FT</p> | <p align="right">CD Guadalajara Chivas <img src="/static/logos/CD Guadalajara Chivas.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Cruz Azul.png" height="25px"> Cruz Azul</p> |
 </div>
 
 
