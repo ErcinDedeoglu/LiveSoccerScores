@@ -192,7 +192,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">13:00</p> | <p align="right">Kinondoni MC <img src="/static/logos/Kinondoni MC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Coastal Union.png" height="25px"> Coastal Union</p> |
-| <p align="center">16:00</p> | <p align="right">Kagera Sugar <img src="/static/logos/Kagera Sugar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Young Africans.png" height="25px"> Young Africans</p> |
+| <p align="center">14:00</p> | <p align="right">Kagera Sugar <img src="/static/logos/Kagera Sugar.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Young Africans.png" height="25px"> Young Africans</p> |
 </div>
 
 
