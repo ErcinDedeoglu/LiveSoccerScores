@@ -191,11 +191,11 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">17:30</p> | <p align="right">Valenciennes <img src="/static/logos/Valenciennes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
 | <p align="center">17:30</p> | <p align="right">Sochaux <img src="/static/logos/Sochaux.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Le Mans.png" height="25px"> Le Mans</p> |
-| <p align="center">17:30</p> | <p align="right">Dijon <img src="/static/logos/Dijon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bordeaux.png" height="25px"> Bordeaux</p> |
 | <p align="center">17:30</p> | <p align="right">Boulogne <img src="/static/logos/Boulogne.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Quevilly.png" height="25px"> Quevilly</p> |
 | <p align="center">17:30</p> | <p align="right">Rouen <img src="/static/logos/Rouen.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Orleans.png" height="25px"> Orleans</p> |
+| <p align="center">17:30</p> | <p align="right">Valenciennes <img src="/static/logos/Valenciennes.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Nimes.png" height="25px"> Nimes</p> |
+| <p align="center">17:30</p> | <p align="right">Dijon <img src="/static/logos/Dijon.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Bordeaux.png" height="25px"> Bordeaux</p> |
 </div>
 
 
@@ -246,8 +246,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15:45</p> | <p align="right">Nassaji Mazandaran FC <img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gol Gohar.png" height="25px"> Gol Gohar</p> |
 | <p align="center">15:45</p> | <p align="right">Sepahan <img src="/static/logos/Sepahan.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shams Azar Qazvin.png" height="25px"> Shams Azar Qazvin</p> |
+| <p align="center">15:45</p> | <p align="right">Nassaji Mazandaran FC <img src="/static/logos/Nassaji Mazandaran FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Gol Gohar.png" height="25px"> Gol Gohar</p> |
 | <p align="center">16:00</p> | <p align="right">Persepolis <img src="/static/logos/Persepolis.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Foolad Khouzestan.png" height="25px"> Foolad Khouzestan</p> |
 </div>
 
@@ -258,8 +258,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Dundalk <img src="/static/logos/Dundalk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shelbourne.png" height="25px"> Shelbourne</p> |
 | <p align="center">18:45</p> | <p align="right">Galway United FC <img src="/static/logos/Galway United FC.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Derry City.png" height="25px"> Derry City</p> |
+| <p align="center">18:45</p> | <p align="right">Dundalk <img src="/static/logos/Dundalk.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Shelbourne.png" height="25px"> Shelbourne</p> |
 </div>
 
 
@@ -279,9 +279,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Perugia <img src="/static/logos/Perugia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SPAL.png" height="25px"> SPAL</p> |
 | <p align="center">18:45</p> | <p align="right">Alcione <img src="/static/logos/Alcione.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Virtus Verona.png" height="25px"> Virtus Verona</p> |
 | <p align="center">18:45</p> | <p align="right">Taranto <img src="/static/logos/Taranto.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Latina.png" height="25px"> Latina</p> |
+| <p align="center">18:45</p> | <p align="right">Perugia <img src="/static/logos/Perugia.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/SPAL.png" height="25px"> SPAL</p> |
 </div>
 
 
@@ -343,8 +343,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Ballymena United <img src="/static/logos/Ballymena United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Glenavon.png" height="25px"> Glenavon</p> |
 | <p align="center">18:45</p> | <p align="right">Portadown <img src="/static/logos/Portadown.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Linfield.png" height="25px"> Linfield</p> |
+| <p align="center">18:45</p> | <p align="right">Ballymena United <img src="/static/logos/Ballymena United.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Glenavon.png" height="25px"> Glenavon</p> |
 </div>
 
 
