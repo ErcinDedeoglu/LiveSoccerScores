@@ -27,7 +27,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Venezia <img src="/static/logos/Venezia.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Torino.png" height="25px"> Torino</p> |
-| <p align="center">87'</p> | <p align="right">Inter <img src="/static/logos/Inter.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Atalanta.png" height="25px"> Atalanta</p> |
+| <p align="center">FT</p> | <p align="right">Inter <img src="/static/logos/Inter.png" height="25px"></p> | <p align="center">4 - 0</p> | <p align="left"><img src="/static/logos/Atalanta.png" height="25px"> Atalanta</p> |
 </div>
 
 
@@ -37,7 +37,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">86'</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Strasbourg.png" height="25px"> Strasbourg</p> |
+| <p align="center">FT</p> | <p align="right">Lyon <img src="/static/logos/Lyon.png" height="25px"></p> | <p align="center">4 - 3</p> | <p align="left"><img src="/static/logos/Strasbourg.png" height="25px"> Strasbourg</p> |
 </div>
 
 
@@ -57,7 +57,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">55'</p> | <p align="right">Moreirense <img src="/static/logos/Moreirense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
+| <p align="center">71'</p> | <p align="right">Moreirense <img src="/static/logos/Moreirense.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Benfica.png" height="25px"> Benfica</p> |
 </div>
 
 
@@ -67,7 +67,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">75'</p> | <p align="right">Luton <img src="/static/logos/Luton.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Queens Park Rangers.png" height="25px"> Queens Park Rangers</p> |
+| <p align="center">90'</p> | <p align="right">Luton <img src="/static/logos/Luton.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Queens Park Rangers.png" height="25px"> Queens Park Rangers</p> |
 </div>
 
 
@@ -97,7 +97,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Genk <img src="/static/logos/Genk.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Westerlo.png" height="25px"> Westerlo</p> |
+| <p align="center">FT</p> | <p align="right">Genk <img src="/static/logos/Genk.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Westerlo.png" height="25px"> Westerlo</p> |
 </div>
 
 
@@ -168,7 +168,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 2'</p> | <p align="right">Scunthorpe <img src="/static/logos/Scunthorpe.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kidderminster.png" height="25px"> Kidderminster</p> |
+| <p align="center">FT</p> | <p align="right">Scunthorpe <img src="/static/logos/Scunthorpe.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Kidderminster.png" height="25px"> Kidderminster</p> |
 </div>
 
 
@@ -258,8 +258,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Galway United FC <img src="/static/logos/Galway United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Derry City.png" height="25px"> Derry City</p> |
-| <p align="center">89'</p> | <p align="right">Dundalk <img src="/static/logos/Dundalk.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Shelbourne.png" height="25px"> Shelbourne</p> |
+| <p align="center">FT</p> | <p align="right">Galway United FC <img src="/static/logos/Galway United FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Derry City.png" height="25px"> Derry City</p> |
+| <p align="center">FT</p> | <p align="right">Dundalk <img src="/static/logos/Dundalk.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Shelbourne.png" height="25px"> Shelbourne</p> |
 </div>
 
 
@@ -279,9 +279,9 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">90' 1'</p> | <p align="right">Taranto <img src="/static/logos/Taranto.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Latina.png" height="25px"> Latina</p> |
-| <p align="center">88'</p> | <p align="right">Alcione <img src="/static/logos/Alcione.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Virtus Verona.png" height="25px"> Virtus Verona</p> |
-| <p align="center">88'</p> | <p align="right">Perugia <img src="/static/logos/Perugia.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/SPAL.png" height="25px"> SPAL</p> |
+| <p align="center">FT</p> | <p align="right">Taranto <img src="/static/logos/Taranto.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Latina.png" height="25px"> Latina</p> |
+| <p align="center">FT</p> | <p align="right">Alcione <img src="/static/logos/Alcione.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Virtus Verona.png" height="25px"> Virtus Verona</p> |
+| <p align="center">FT</p> | <p align="right">Perugia <img src="/static/logos/Perugia.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/SPAL.png" height="25px"> SPAL</p> |
 </div>
 
 
@@ -315,8 +315,8 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Difaa El Jadida <img src="/static/logos/Difaa El Jadida.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Salmi.png" height="25px"> Salmi</p> |
 | <p align="center">FT</p> | <p align="right">Chabab Mohammedia <img src="/static/logos/Chabab Mohammedia.png" height="25px"></p> | <p align="center">0 - 5</p> | <p align="left"><img src="/static/logos/FAR Rabat.png" height="25px"> FAR Rabat</p> |
-| <p align="center">29'</p> | <p align="right">MAS Fes <img src="/static/logos/MAS Fes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wydad Casablanca.png" height="25px"> Wydad Casablanca</p> |
-| <p align="center">33'</p> | <p align="right">Union Touarga Sport <img src="/static/logos/Union Touarga Sport.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/FUS Rabat.png" height="25px"> FUS Rabat</p> |
+| <p align="center">44'</p> | <p align="right">MAS Fes <img src="/static/logos/MAS Fes.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Wydad Casablanca.png" height="25px"> Wydad Casablanca</p> |
+| <p align="center">45' 3'</p> | <p align="right">Union Touarga Sport <img src="/static/logos/Union Touarga Sport.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/FUS Rabat.png" height="25px"> FUS Rabat</p> |
 </div>
 
 
@@ -343,8 +343,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Ballymena United <img src="/static/logos/Ballymena United.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Glenavon.png" height="25px"> Glenavon</p> |
-| <p align="center">90' 1'</p> | <p align="right">Portadown <img src="/static/logos/Portadown.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Linfield.png" height="25px"> Linfield</p> |
+| <p align="center">FT</p> | <p align="right">Ballymena United <img src="/static/logos/Ballymena United.png" height="25px"></p> | <p align="center">3 - 1</p> | <p align="left"><img src="/static/logos/Glenavon.png" height="25px"> Glenavon</p> |
+| <p align="center">FT</p> | <p align="right">Portadown <img src="/static/logos/Portadown.png" height="25px"></p> | <p align="center">2 - 2</p> | <p align="left"><img src="/static/logos/Linfield.png" height="25px"> Linfield</p> |
 </div>
 
 
@@ -367,7 +367,7 @@
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Odra Opole <img src="/static/logos/Odra Opole.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/LKS Lodz.png" height="25px"> LKS Lodz</p> |
 | <p align="center">FT</p> | <p align="right">Chrobry Glogow <img src="/static/logos/Chrobry Glogow.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Polonia Warszawa.png" height="25px"> Polonia Warszawa</p> |
-| <p align="center">90' 16'</p> | <p align="right">Miedz Legnica <img src="/static/logos/Miedz Legnica.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Arka Gdynia.png" height="25px"> Arka Gdynia</p> |
+| <p align="center">FT</p> | <p align="right">Miedz Legnica <img src="/static/logos/Miedz Legnica.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Arka Gdynia.png" height="25px"> Arka Gdynia</p> |
 </div>
 
 
@@ -378,7 +378,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Granada <img src="/static/logos/Granada.png" height="25px"></p> | <p align="center">1 - 3</p> | <p align="left"><img src="/static/logos/SD Huesca.png" height="25px"> SD Huesca</p> |
-| <p align="center">HT</p> | <p align="right">Real Oviedo <img src="/static/logos/Real Oviedo.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Racing Santander.png" height="25px"> Racing Santander</p> |
+| <p align="center">58'</p> | <p align="right">Real Oviedo <img src="/static/logos/Real Oviedo.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Racing Santander.png" height="25px"> Racing Santander</p> |
 </div>
 
 
@@ -421,7 +421,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">89'</p> | <p align="right">Haverfordwest <img src="/static/logos/Haverfordwest.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Newtown.png" height="25px"> Newtown</p> |
+| <p align="center">FT</p> | <p align="right">Haverfordwest <img src="/static/logos/Haverfordwest.png" height="25px"></p> | <p align="center">3 - 0</p> | <p align="left"><img src="/static/logos/Newtown.png" height="25px"> Newtown</p> |
 </div>
 
 
