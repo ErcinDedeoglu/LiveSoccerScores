@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">01:05</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
+| <p align="center">45'</p> | <p align="right">Santos Laguna <img src="/static/logos/Santos Laguna.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Necaxa.png" height="25px"> Necaxa</p> |
 </div>
 
 
@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">15'</p> | <p align="right">San Diego Wave FC <img src="/static/logos/San Diego Wave FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Washington Spirit.png" height="25px"> Washington Spirit</p> |
+| <p align="center">86'</p> | <p align="right">San Diego Wave FC <img src="/static/logos/San Diego Wave FC.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Washington Spirit.png" height="25px"> Washington Spirit</p> |
 </div>
 
 
@@ -46,7 +46,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">3'</p> | <p align="right">Junior FC <img src="/static/logos/Junior FC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Santa Fe.png" height="25px"> Santa Fe</p> |
+| <p align="center">63'</p> | <p align="right">Junior FC <img src="/static/logos/Junior FC.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Santa Fe.png" height="25px"> Santa Fe</p> |
 </div>
 
 
@@ -56,7 +56,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">0 - 1</p> | <p align="left"><img src="/static/logos/Audax Italiano.png" height="25px"> Audax Italiano</p> |
+| <p align="center">90' 2'</p> | <p align="right">Union La Calera <img src="/static/logos/Union La Calera.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Audax Italiano.png" height="25px"> Audax Italiano</p> |
 </div>
 
 
@@ -66,7 +66,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">22'</p> | <p align="right">Banfield <img src="/static/logos/Banfield.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Instituto.png" height="25px"> Instituto</p> |
+| <p align="center">90' 2'</p> | <p align="right">Banfield <img src="/static/logos/Banfield.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Instituto.png" height="25px"> Instituto</p> |
 | <p align="center">20:00</p> | <p align="right">Gimnasia LP <img src="/static/logos/Gimnasia LP.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Argentinos Juniors.png" height="25px"> Argentinos Juniors</p> |
 | <p align="center">22:00</p> | <p align="right">Godoy Cruz <img src="/static/logos/Godoy Cruz.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Central Cordoba de Santiago.png" height="25px"> Central Cordoba de Santiago</p> |
 </div>
@@ -79,7 +79,6 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">18:00</p> | <p align="right">Canuelas <img src="/static/logos/Canuelas.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Colegiales.png" height="25px"> Colegiales</p> |
-| <p align="center">18:00</p> | <p align="right">CA Fenix <img src="/static/logos/CA Fenix.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Villa San Carlos.png" height="25px"> Villa San Carlos</p> |
 </div>
 
 
@@ -89,7 +88,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">12'</p> | <p align="right">Colon <img src="/static/logos/Colon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Moron.png" height="25px"> Deportivo Moron</p> |
+| <p align="center">81'</p> | <p align="right">Colon <img src="/static/logos/Colon.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Moron.png" height="25px"> Deportivo Moron</p> |
 | <p align="center">18:00</p> | <p align="right">San Telmo <img src="/static/logos/San Telmo.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Arsenal Sarandi.png" height="25px"> Arsenal Sarandi</p> |
 </div>
 
@@ -120,8 +119,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Aveley <img src="/static/logos/Aveley.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorking Wanderers.png" height="25px"> Dorking Wanderers</p> |
 | <p align="center">18:45</p> | <p align="right">Hemel Hempstead <img src="/static/logos/Hemel Hempstead.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Welling.png" height="25px"> Welling</p> |
+| <p align="center">18:45</p> | <p align="right">Aveley <img src="/static/logos/Aveley.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Dorking Wanderers.png" height="25px"> Dorking Wanderers</p> |
 </div>
 
 
@@ -143,8 +142,8 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">18:45</p> | <p align="right">Vis Pesaro <img src="/static/logos/Vis Pesaro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/S.S. Arezzo.png" height="25px"> S.S. Arezzo</p> |
 | <p align="center">18:45</p> | <p align="right">Avellino <img src="/static/logos/Avellino.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Giugliano.png" height="25px"> Giugliano</p> |
+| <p align="center">18:45</p> | <p align="right">Vis Pesaro <img src="/static/logos/Vis Pesaro.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/S.S. Arezzo.png" height="25px"> S.S. Arezzo</p> |
 | <p align="center">19:15</p> | <p align="right">Catania <img src="/static/logos/Catania.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Benevento.png" height="25px"> Benevento</p> |
 </div>
 
