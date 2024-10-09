@@ -36,7 +36,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">HT</p> | <p align="right">Atletico MG <img src="/static/logos/Atletico MG.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Gremio.png" height="25px"> Gremio</p> |
+| <p align="center">52'</p> | <p align="right">Atletico MG <img src="/static/logos/Atletico MG.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Gremio.png" height="25px"> Gremio</p> |
 </div>
 
 
@@ -57,7 +57,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">42'</p> | <p align="right">Botafogo SP <img src="/static/logos/Botafogo SP.png" height="25px"></p> | <p align="center">1 - 1</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
+| <p align="center">45' 4'</p> | <p align="right">Botafogo SP <img src="/static/logos/Botafogo SP.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/Guarani.png" height="25px"> Guarani</p> |
 </div>
 
 
@@ -140,7 +140,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">35'</p> | <p align="right">North Carolina FC <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> FC Tulsa</p> |
+| <p align="center">43'</p> | <p align="right">North Carolina FC <img src="/static/logos/North Carolina FC.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/FC Tulsa.png" height="25px"> FC Tulsa</p> |
 </div>
 
 
