@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">65'</p> | <p align="right">British Virgin Islands <img src="/static/logos/British Virgin Islands.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/St. Kitts and Nevis.png" height="25px"> St. Kitts and Nevis</p> |
+| <p align="center">74'</p> | <p align="right">British Virgin Islands <img src="/static/logos/British Virgin Islands.png" height="25px"></p> | <p align="center">1 - 2</p> | <p align="left"><img src="/static/logos/St. Kitts and Nevis.png" height="25px"> St. Kitts and Nevis</p> |
 </div>
 
 
@@ -47,7 +47,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">POS</p> | <p align="right">Tolima <img src="/static/logos/Tolima.png" height="25px"></p> | <p align="center">POS</p> | <p align="left"><img src="/static/logos/Alianza FC.png" height="25px"> Alianza FC</p> |
-| <p align="center">21:00</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Deportivo Pasto.png" height="25px"> Deportivo Pasto</p> |
+| <p align="center">4'</p> | <p align="right">Envigado <img src="/static/logos/Envigado.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Deportivo Pasto.png" height="25px"> Deportivo Pasto</p> |
 </div>
 
 
@@ -67,7 +67,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">21:00</p> | <p align="right">Coquimbo Unido <img src="/static/logos/Coquimbo Unido.png" height="25px"></p> | <p align="center">-</p> | <p align="left"><img src="/static/logos/Universidad de Chile.png" height="25px"> Universidad de Chile</p> |
+| <p align="center">4'</p> | <p align="right">Coquimbo Unido <img src="/static/logos/Coquimbo Unido.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Universidad de Chile.png" height="25px"> Universidad de Chile</p> |
 </div>
 
 
@@ -109,7 +109,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bayern Munich <img src="/static/logos/Bayern Munich.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Arsenal Women.png" height="25px"> Arsenal Women</p> |
-| <p align="center">90' 6'</p> | <p align="right">Manchester City Women <img src="/static/logos/Manchester City Women.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Barcelona.png" height="25px"> Barcelona</p> |
+| <p align="center">FT</p> | <p align="right">Manchester City Women <img src="/static/logos/Manchester City Women.png" height="25px"></p> | <p align="center">2 - 0</p> | <p align="left"><img src="/static/logos/Barcelona.png" height="25px"> Barcelona</p> |
 </div>
 
 
