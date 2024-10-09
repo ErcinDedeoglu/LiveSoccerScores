@@ -16,7 +16,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">5'</p> | <p align="right">British Virgin Islands <img src="/static/logos/British Virgin Islands.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/St. Kitts and Nevis.png" height="25px"> St. Kitts and Nevis</p> |
+| <p align="center">13'</p> | <p align="right">British Virgin Islands <img src="/static/logos/British Virgin Islands.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/St. Kitts and Nevis.png" height="25px"> St. Kitts and Nevis</p> |
 </div>
 
 
@@ -26,7 +26,7 @@
 
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
-| <p align="center">49'</p> | <p align="right">Sligo Rovers <img src="/static/logos/Sligo Rovers.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Celtic.png" height="25px"> Celtic</p> |
+| <p align="center">57'</p> | <p align="right">Sligo Rovers <img src="/static/logos/Sligo Rovers.png" height="25px"></p> | <p align="center">2 - 1</p> | <p align="left"><img src="/static/logos/Celtic.png" height="25px"> Celtic</p> |
 </div>
 
 
@@ -98,7 +98,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Nsoatreman <img src="/static/logos/Nsoatreman.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Berekum Chelsea.png" height="25px"> Berekum Chelsea</p> |
-| <p align="center">74'</p> | <p align="right">Medeama SC <img src="/static/logos/Medeama SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Samartex.png" height="25px"> Samartex</p> |
+| <p align="center">82'</p> | <p align="right">Medeama SC <img src="/static/logos/Medeama SC.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Samartex.png" height="25px"> Samartex</p> |
 </div>
 
 
@@ -109,7 +109,7 @@
 &emsp;Time&emsp; | &emsp;&emsp;&emsp;&emsp;Home&emsp;&emsp;&emsp;&emsp; | &emsp;Score&emsp; | &emsp;&emsp;&emsp;&emsp;Away&emsp;&emsp;&emsp;&emsp; |
 | ------------ | ------------ | ------------ | ------------ |
 | <p align="center">FT</p> | <p align="right">Bayern Munich <img src="/static/logos/Bayern Munich.png" height="25px"></p> | <p align="center">5 - 2</p> | <p align="left"><img src="/static/logos/Arsenal Women.png" height="25px"> Arsenal Women</p> |
-| <p align="center">35'</p> | <p align="right">Manchester City Women <img src="/static/logos/Manchester City Women.png" height="25px"></p> | <p align="center">0 - 0</p> | <p align="left"><img src="/static/logos/Barcelona.png" height="25px"> Barcelona</p> |
+| <p align="center">43'</p> | <p align="right">Manchester City Women <img src="/static/logos/Manchester City Women.png" height="25px"></p> | <p align="center">1 - 0</p> | <p align="left"><img src="/static/logos/Barcelona.png" height="25px"> Barcelona</p> |
 </div>
 
 
